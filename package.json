@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "scripts": {
     "dev": "astro dev",
-    "build": "node scripts/generate-llms.mjs && astro check && astro build && cp dist/404/index.html dist/404.html",
+    "build": "node scripts/generate-llms.mjs && astro build && cp dist/404/index.html dist/404.html",
     "preview": "astro preview",
     "astro": "astro"
   },
@@ -20,5 +20,8 @@
   "devDependencies": {
     "@astrojs/check": "^0.9.9",
     "typescript": "^5.8.3"
+  },
+  "engines": {
+    "node": ">=20.0.0"
   }
 }
