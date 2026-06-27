@@ -1,0 +1,36 @@
+---
+import { getCollection } from 'astro:content';
+import DirectoryLayout from '@layouts/DirectoryLayout.astro';
+import GroupCard from '@components/directory/GroupCard.astro';
+import DirectoryFilter from '@components/directory/DirectoryFilter.astro';
+
+const groups = await getCollection('groups', ({ data }) => data.active);
+const sorted = groups.sort((a, b) => {
+  if (a.data.featured && !b.data.featured) return -1;
+  if (!a.data.featured && b.data.featured) return 1;
+  return a.data.name.localeCompare(b.data.name);
+});
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: 'Adult Skating Groups & Communities Directory',
+  numberOfItems: groups.length,
+  itemListElement: sorted.map((group, i) => ({
+    '@type': 'ListItem',
+    position: i + 1,
+    name: group.data.name,
+    url: `https://concretecomeback.com/directory/groups/${group.id}`,
+  })),
+};
+---
+<DirectoryLayout
+  title="Skating Groups & Communities | Adults 40+"
+  description="Find skating groups and communities for adults 40+ in the US, UK, Canada, and Australia. In-person meetups and online communities."
+  breadcrumbs={[{ label: 'Directory', href: '/directory' }, { label: 'Groups', href: '/directory/groups' }]}
+  totalCount={groups.length}
+  structuredData={jsonLd}
+>
+  <DirectoryFilter slot="filter" type="groups" />
+  {sorted.map((group) => <GroupCard entry={group} />)}
+</DirectoryLayout>

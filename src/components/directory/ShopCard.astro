@@ -1,0 +1,91 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import CountryBadge from './CountryBadge.astro';
+import FeatureBadge from './FeatureBadge.astro';
+
+interface Props {
+  entry: CollectionEntry<'shops'>;
+}
+const { entry } = Astro.props;
+const { name, country, city, stateProvince, description, website, instagram, servicesOffered, hasOnlineShop, adultsWelcomeNote, heroImage, heroImageAlt } = entry.data;
+
+const location = stateProvince ? `${city}, ${stateProvince}` : city;
+const hasAdultAdvice = servicesOffered.includes('adult-advice');
+const maxServices = 5;
+const extraServices = servicesOffered.length - maxServices;
+
+const dataAttrs = {
+  'data-country': country,
+  'data-services': servicesOffered.join(' '),
+  'data-online': String(hasOnlineShop),
+  'data-adult-advice': String(hasAdultAdvice),
+  'data-name': name.toLowerCase(),
+  'data-city': city.toLowerCase(),
+};
+---
+<article
+  class="bg-white border border-concrete-200 rounded-xl overflow-hidden shadow-card hover:shadow-card-hover hover:border-concrete-300 transition-all flex flex-col"
+  {...dataAttrs}
+>
+  {heroImage && (
+    <a href={`/directory/shops/${entry.id}`} class="block overflow-hidden min-h-0 min-w-0 no-underline" tabindex="-1" aria-hidden="true">
+      <img
+        src={heroImage}
+        alt={heroImageAlt ?? name}
+        class="w-full h-40 object-cover hover:scale-105 transition-transform duration-300"
+        loading="lazy"
+        width="400"
+        height="160"
+      />
+    </a>
+  )}
+
+  <div class="p-5 flex flex-col flex-1">
+    <div class="flex items-start justify-between gap-2 mb-1">
+      <h3 class="font-display text-lg text-concrete-900 leading-snug">
+        <a href={`/directory/shops/${entry.id}`} class="hover:text-skate-orange transition-colors no-underline">
+          {name}
+        </a>
+      </h3>
+      <CountryBadge country={country} />
+    </div>
+
+    <p class="text-sm text-concrete-500 mb-3">{location}</p>
+
+    {adultsWelcomeNote && (
+      <p class="text-xs text-concrete-500 italic mb-3 border-l-2 border-skate-green pl-2">{adultsWelcomeNote}</p>
+    )}
+
+    <div class="flex flex-wrap gap-1 mb-4">
+      {hasAdultAdvice && (
+        <span class="flex items-center gap-1 px-2 py-0.5 text-xs rounded-full bg-green-50 text-skate-green border border-green-200 font-medium">
+          ✓ Adult Advice
+        </span>
+      )}
+      {hasOnlineShop && (
+        <span class="px-2 py-0.5 text-xs rounded-full bg-blue-50 text-blue-700 border border-blue-200 font-medium">Online Shop</span>
+      )}
+      {servicesOffered.filter(s => s !== 'adult-advice' && s !== 'online-only').slice(0, maxServices).map((s) => (
+        <FeatureBadge label={s} variant="service" />
+      ))}
+      {extraServices > 0 && (
+        <span class="px-2 py-0.5 text-xs rounded-full bg-concrete-100 text-concrete-400 border border-concrete-200">
+          +{extraServices} more
+        </span>
+      )}
+    </div>
+
+    <div class="mt-auto flex items-center gap-3 text-sm">
+      {website && (
+        <a href={website} target="_blank" rel="noopener noreferrer" class="text-skate-orange hover:underline font-medium text-xs no-underline hover:underline">
+          Website ↗
+        </a>
+      )}
+      {instagram && (
+        <a href={`https://instagram.com/${instagram}`} target="_blank" rel="noopener noreferrer" class="text-concrete-400 hover:text-concrete-700 text-xs no-underline hover:underline">
+          @{instagram}
+        </a>
+      )}
+    </div>
+  </div>
+</article>

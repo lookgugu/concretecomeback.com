@@ -1,0 +1,42 @@
+---
+export interface Crumb {
+  label: string;
+  href: string;
+}
+
+interface Props {
+  crumbs: Crumb[];
+}
+
+const { crumbs } = Astro.props;
+const allCrumbs = [{ label: 'Home', href: '/' }, ...crumbs];
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: allCrumbs.map((crumb, i) => ({
+    '@type': 'ListItem',
+    position: i + 1,
+    name: crumb.label,
+    item: `https://concretecomeback.com${crumb.href}`,
+  })),
+};
+---
+<nav aria-label="Breadcrumb" class="py-3 px-0">
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+  <ol class="flex flex-wrap items-center gap-1 text-sm text-concrete-500" role="list">
+    {allCrumbs.map((crumb, i) => {
+      const isLast = i === allCrumbs.length - 1;
+      return (
+        <li class="flex items-center gap-1">
+          {i > 0 && <span aria-hidden="true" class="text-concrete-300">/</span>}
+          {isLast ? (
+            <span aria-current="page" class="text-concrete-700 font-medium">{crumb.label}</span>
+          ) : (
+            <a href={crumb.href} class="hover:text-concrete-700 transition-colors">{crumb.label}</a>
+          )}
+        </li>
+      );
+    })}
+  </ol>
+</nav>

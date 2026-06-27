@@ -1,0 +1,16 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Concrete Comeback",
+  "name_for_model": "concrete_comeback",
+  "description_for_human": "Find adult-friendly skate parks, local skate shops, and skating communities for people 40+ in the US, UK, Canada, and Australia.",
+  "description_for_model": "Use this to find adult-friendly skateboard parks, local skate shops with knowledgeable staff, and skating community groups specifically for people aged 40 and over in English-speaking countries (US, UK, Canada, Australia). Also provides guides and advice for adults returning to skateboarding after a long break.",
+  "api": {
+    "type": "none"
+  },
+  "logo_url": "https://concretecomeback.com/favicon.svg",
+  "contact_email": "hello@concretecomeback.com",
+  "legal_info_url": "https://concretecomeback.com/about",
+  "auth": {
+    "type": "none"
+  }
+}

@@ -1,0 +1,40 @@
+---
+import type { GetStaticPathsOptions, Page } from 'astro';
+import type { CollectionEntry } from 'astro:content';
+import { getCollection } from 'astro:content';
+import BaseLayout from '@layouts/BaseLayout.astro';
+import BlogCard from '@components/blog/BlogCard.astro';
+import BlogPagination from '@components/blog/BlogPagination.astro';
+import Breadcrumb from '@components/ui/Breadcrumb.astro';
+
+export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
+  const posts = await getCollection('blog', ({ data }) => !data.draft);
+  const sorted = posts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+  return paginate(sorted, { pageSize: 9 });
+}
+
+const page = Astro.props.page as Page<CollectionEntry<'blog'>>;
+---
+<BaseLayout
+  title="Blog | Tips for Returning Adult Skaters"
+  description="Practical guides, gear advice, safety tips, and stories for adults 40+ getting back into skateboarding after years away from the sport."
+>
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 pb-16">
+    <Breadcrumb crumbs={[{ label: 'Blog', href: '/blog' }]} />
+
+    <div class="mb-8">
+      <h1 class="text-3xl sm:text-4xl font-display text-concrete-900">The Blog</h1>
+      <p class="text-concrete-500 mt-2">Guides, tips, and real talk for adults getting back on a skateboard.</p>
+    </div>
+
+    {page.data.length > 0 ? (
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        {page.data.map((post) => <BlogCard entry={post} />)}
+      </div>
+    ) : (
+      <p class="text-concrete-400 py-12 text-center">No posts yet — check back soon.</p>
+    )}
+
+    <BlogPagination page={page} />
+  </div>
+</BaseLayout>

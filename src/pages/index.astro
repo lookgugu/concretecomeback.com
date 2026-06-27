@@ -1,0 +1,84 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@layouts/BaseLayout.astro';
+import Hero from '@components/home/Hero.astro';
+import SiteCounts from '@components/home/SiteCounts.astro';
+import DirectoryCallouts from '@components/home/DirectoryCallouts.astro';
+import FeaturedPosts from '@components/home/FeaturedPosts.astro';
+
+const allParks  = await getCollection('parks');
+const allShops  = await getCollection('shops');
+const allGroups = await getCollection('groups');
+const allPosts  = await getCollection('blog', ({ data }) => !data.draft);
+
+const featuredPosts = allPosts
+  .filter((p) => p.data.featured)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+  .slice(0, 3);
+
+const fallbackPosts = allPosts
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+  .slice(0, 3);
+
+const displayPosts = featuredPosts.length >= 3 ? featuredPosts : fallbackPosts;
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    name: 'Concrete Comeback',
+    url: 'https://concretecomeback.com',
+    description: 'Community resource for adults 40+ and 50+ returning to skateboarding.',
+    potentialAction: {
+      '@type': 'SearchAction',
+      target: {
+        '@type': 'EntryPoint',
+        urlTemplate: 'https://concretecomeback.com/directory/parks?q={search_term_string}',
+      },
+      'query-input': 'required name=search_term_string',
+    },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    name: 'Concrete Comeback',
+    url: 'https://concretecomeback.com',
+    logo: 'https://concretecomeback.com/favicon.svg',
+    sameAs: [],
+  },
+];
+---
+<BaseLayout
+  title="Skateboarding for Adults 40+ | Concrete Comeback"
+  description="Find adult-friendly skate parks, local skateboard shops, and 40+ skating communities in the US, UK, Canada, and Australia. Get back on a board safely."
+  structuredData={jsonLd}
+>
+  <Hero />
+  <SiteCounts
+    parkCount={allParks.length}
+    shopCount={allShops.length}
+    groupCount={allGroups.length}
+  />
+  <DirectoryCallouts
+    parkCount={allParks.length}
+    shopCount={allShops.length}
+    groupCount={allGroups.length}
+  />
+  <FeaturedPosts posts={displayPosts} />
+
+  <!-- CTA section -->
+  <section class="bg-concrete-800 text-white py-16">
+    <div class="max-w-2xl mx-auto px-4 sm:px-6 text-center">
+      <h2 class="font-display text-3xl sm:text-4xl mb-4">Know a Park, Shop, or Group?</h2>
+      <p class="text-concrete-300 text-lg mb-8">
+        Help other adult skaters find great places. Submit a listing and we'll add it to the directory.
+      </p>
+      <a
+        href="/submit"
+        class="inline-block px-8 py-4 bg-skate-orange text-white font-bold font-display text-lg rounded-lg hover:opacity-90 transition-opacity no-underline"
+      >
+        Submit a Listing
+      </a>
+    </div>
+  </section>
+</BaseLayout>

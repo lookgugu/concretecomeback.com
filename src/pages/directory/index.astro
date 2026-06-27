@@ -1,0 +1,69 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@layouts/BaseLayout.astro';
+import Breadcrumb from '@components/ui/Breadcrumb.astro';
+
+const parks  = await getCollection('parks');
+const shops  = await getCollection('shops');
+const groups = await getCollection('groups');
+
+const sections = [
+  {
+    href: '/directory/parks',
+    emoji: '🛹',
+    title: 'Skate Parks',
+    description: 'Adult-friendly parks across the US, UK, Canada, and Australia, rated for difficulty, surface type, features, and facilities.',
+    count: parks.length,
+  },
+  {
+    href: '/directory/shops',
+    emoji: '🏪',
+    title: 'Local Skateboard Shops',
+    description: 'Brick-and-mortar shops with knowledgeable staff who understand what returning adult skaters need.',
+    count: shops.length,
+  },
+  {
+    href: '/directory/groups',
+    emoji: '👥',
+    title: 'Groups & Communities',
+    description: 'In-person meetup groups and online communities for adult skaters 35 and older.',
+    count: groups.length,
+  },
+];
+---
+<BaseLayout
+  title="Directory | Skate Parks, Shops & Groups"
+  description="Browse our directory of adult-friendly skate parks, local skateboard shops, and skating communities for adults 40+ in the US, UK, Canada, and Australia."
+>
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 pb-16">
+    <Breadcrumb crumbs={[{ label: 'Directory', href: '/directory' }]} />
+
+    <div class="mb-10">
+      <h1 class="text-3xl sm:text-4xl font-display text-concrete-900">Directory</h1>
+      <p class="text-concrete-500 mt-2 max-w-2xl">
+        Curated listings of adult-friendly skate parks, knowledgeable shops, and communities for people 40+ getting back on a board.
+      </p>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+      {sections.map((s) => (
+        <a
+          href={s.href}
+          class="group bg-white border border-concrete-200 rounded-xl p-7 shadow-card hover:shadow-card-hover hover:border-skate-orange/40 transition-all no-underline flex flex-col"
+        >
+          <span class="text-5xl mb-5" aria-hidden="true">{s.emoji}</span>
+          <h2 class="font-display text-xl text-concrete-900 mb-3 group-hover:text-skate-orange transition-colors">
+            {s.title}
+          </h2>
+          <p class="text-concrete-500 text-sm flex-1 leading-relaxed">{s.description}</p>
+          <div class="mt-5 flex items-center justify-between">
+            <span class="text-xs text-concrete-400 uppercase tracking-wide">{s.count} listings</span>
+            <span class="text-skate-orange font-semibold text-sm group-hover:translate-x-1 transition-transform inline-block">
+              Browse →
+            </span>
+          </div>
+        </a>
+      ))}
+    </div>
+  </div>
+</BaseLayout>

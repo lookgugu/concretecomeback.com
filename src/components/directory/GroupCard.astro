@@ -1,0 +1,81 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import CountryBadge from './CountryBadge.astro';
+import FeatureBadge from './FeatureBadge.astro';
+
+interface Props {
+  entry: CollectionEntry<'groups'>;
+}
+const { entry } = Astro.props;
+const { name, country, city, stateProvince, isOnline, description, meetFrequency, ageRange, skillLevel, website, facebook, instagram, discord } = entry.data;
+
+const location = isOnline ? 'Online' : (stateProvince ? `${city}, ${stateProvince}` : city);
+
+const dataAttrs = {
+  'data-country': country,
+  'data-online': String(isOnline),
+  'data-skill': skillLevel,
+  'data-name': name.toLowerCase(),
+  'data-city': isOnline ? 'online' : city.toLowerCase(),
+};
+---
+<article
+  class="bg-white border border-concrete-200 rounded-xl p-5 shadow-card hover:shadow-card-hover hover:border-concrete-300 transition-all flex flex-col"
+  {...dataAttrs}
+>
+  <div class="flex items-start justify-between gap-2 mb-1">
+    <h3 class="font-display text-lg text-concrete-900 leading-snug">
+      <a href={`/directory/groups/${entry.id}`} class="hover:text-skate-orange transition-colors no-underline">
+        {name}
+      </a>
+    </h3>
+    {!isOnline && <CountryBadge country={country} />}
+  </div>
+
+  <p class="text-sm text-concrete-500 mb-3">
+    {isOnline ? (
+      <span class="inline-flex items-center gap-1 text-blue-600 font-medium">
+        🌐 Online Community
+      </span>
+    ) : location}
+  </p>
+
+  <div class="flex flex-wrap gap-1.5 mb-3">
+    {ageRange && (
+      <span class="px-2 py-0.5 text-xs rounded-full bg-skate-orange/10 text-skate-orange border border-skate-orange/30 font-medium">
+        {ageRange}
+      </span>
+    )}
+    <FeatureBadge label={skillLevel} variant="skill" />
+  </div>
+
+  {meetFrequency && (
+    <p class="text-xs text-concrete-500 mb-3 flex items-start gap-1">
+      <span aria-hidden="true">📅</span>
+      <span>{meetFrequency}</span>
+    </p>
+  )}
+
+  <div class="mt-auto flex flex-wrap items-center gap-3 pt-2 border-t border-concrete-100">
+    {website && (
+      <a href={website} target="_blank" rel="noopener noreferrer" class="text-xs text-skate-orange hover:underline font-medium no-underline hover:underline">
+        Website ↗
+      </a>
+    )}
+    {facebook && (
+      <a href={facebook} target="_blank" rel="noopener noreferrer" class="text-xs text-concrete-400 hover:text-concrete-700 no-underline hover:underline">
+        Facebook
+      </a>
+    )}
+    {instagram && (
+      <a href={`https://instagram.com/${instagram}`} target="_blank" rel="noopener noreferrer" class="text-xs text-concrete-400 hover:text-concrete-700 no-underline hover:underline">
+        @{instagram}
+      </a>
+    )}
+    {discord && (
+      <a href={discord} target="_blank" rel="noopener noreferrer" class="text-xs text-concrete-400 hover:text-concrete-700 no-underline hover:underline">
+        Discord
+      </a>
+    )}
+  </div>
+</article>

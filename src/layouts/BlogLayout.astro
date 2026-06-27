@@ -1,0 +1,115 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import BaseLayout from './BaseLayout.astro';
+import BlogMeta from '@components/blog/BlogMeta.astro';
+import Breadcrumb from '@components/ui/Breadcrumb.astro';
+
+interface Props {
+  entry: CollectionEntry<'blog'>;
+}
+
+const { entry } = Astro.props;
+const { title, description, pubDate, updatedDate, author, authorAge, tags, heroImage, heroImageAlt, featured } = entry.data;
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'BlogPosting',
+  headline: title,
+  description,
+  datePublished: pubDate.toISOString(),
+  ...(updatedDate && { dateModified: updatedDate.toISOString() }),
+  author: {
+    '@type': 'Person',
+    name: author,
+    ...(authorAge && { age: authorAge }),
+  },
+  publisher: {
+    '@type': 'Organization',
+    name: 'Concrete Comeback',
+    logo: { '@type': 'ImageObject', url: 'https://concretecomeback.com/favicon.svg' },
+  },
+  ...(heroImage && { image: `https://concretecomeback.com${heroImage}` }),
+  speakable: {
+    '@type': 'SpeakableSpecification',
+    cssSelector: ['.prose > p:first-of-type'],
+  },
+  mainEntityOfPage: {
+    '@type': 'WebPage',
+    '@id': Astro.url.toString().split('?')[0],
+  },
+};
+---
+<BaseLayout
+  title={title}
+  description={description}
+  type="article"
+  pubDate={pubDate}
+  updatedDate={updatedDate}
+  author={author}
+  ogImage={heroImage}
+  structuredData={jsonLd}
+>
+  <div class="max-w-6xl mx-auto px-4 sm:px-6">
+    <Breadcrumb crumbs={[{ label: 'Blog', href: '/blog' }, { label: title, href: Astro.url.pathname }]} />
+  </div>
+
+  {heroImage && (
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 mb-6">
+      <img
+        src={heroImage}
+        alt={heroImageAlt ?? title}
+        class="w-full h-64 sm:h-80 object-cover rounded-xl"
+        loading="eager"
+        width="800"
+        height="400"
+      />
+    </div>
+  )}
+
+  <article class="max-w-3xl mx-auto px-4 sm:px-6 pb-16">
+    <h1 class="text-3xl sm:text-4xl font-display text-concrete-900 mb-4 leading-tight">{title}</h1>
+    <BlogMeta data={entry.data} />
+
+    <div class="prose prose-concrete max-w-none mt-8">
+      <slot />
+    </div>
+
+    <div class="mt-10 pt-8 border-t border-concrete-200">
+      <div class="flex flex-wrap gap-2">
+        {tags.map((tag) => (
+          <a
+            href={`/blog?tag=${encodeURIComponent(tag)}`}
+            class="px-3 py-1 text-sm rounded-full bg-concrete-100 text-concrete-600 border border-concrete-200 hover:border-skate-orange hover:text-skate-orange transition-colors no-underline"
+          >
+            {tag}
+          </a>
+        ))}
+      </div>
+    </div>
+
+    <div class="mt-8 flex items-center justify-between">
+      <a href="/blog" class="text-sm text-concrete-500 hover:text-concrete-800 transition-colors flex items-center gap-1">
+        ← Back to blog
+      </a>
+    </div>
+  </article>
+</BaseLayout>
+
+<style is:global>
+  .prose-concrete {
+    --tw-prose-body: var(--color-concrete-700);
+    --tw-prose-headings: var(--color-concrete-900);
+    --tw-prose-lead: var(--color-concrete-600);
+    --tw-prose-links: var(--color-concrete-800);
+    --tw-prose-bold: var(--color-concrete-900);
+    --tw-prose-counters: var(--color-concrete-500);
+    --tw-prose-bullets: var(--color-concrete-400);
+    --tw-prose-hr: var(--color-concrete-200);
+    --tw-prose-quotes: var(--color-concrete-700);
+    --tw-prose-quote-borders: var(--color-skate-orange);
+    --tw-prose-code: var(--color-concrete-800);
+    --tw-prose-pre-bg: var(--color-concrete-800);
+    font-size: var(--font-size-base);
+    line-height: var(--line-height-relaxed);
+  }
+</style>

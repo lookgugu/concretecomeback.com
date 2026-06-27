@@ -1,0 +1,22 @@
+---
+type Country = 'US' | 'UK' | 'CA' | 'AU';
+
+interface Props {
+  country: Country;
+}
+
+const { country } = Astro.props;
+
+const map: Record<Country, { flag: string; label: string }> = {
+  US: { flag: '🇺🇸', label: 'US' },
+  UK: { flag: '🇬🇧', label: 'UK' },
+  CA: { flag: '🇨🇦', label: 'CA' },
+  AU: { flag: '🇦🇺', label: 'AU' },
+};
+
+const { flag, label } = map[country] ?? { flag: '', label: country };
+---
+<span class="inline-flex items-center gap-1 px-2 py-0.5 text-xs font-medium rounded-full bg-concrete-100 text-concrete-600 border border-concrete-200">
+  <span aria-hidden="true">{flag}</span>
+  <span>{label}</span>
+</span>

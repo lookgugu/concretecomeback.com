@@ -1,0 +1,60 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+import Breadcrumb from '@components/ui/Breadcrumb.astro';
+---
+<BaseLayout
+  title="About | Concrete Comeback"
+  description="Concrete Comeback is a free community resource for adults 40 and over who want to get back into skateboarding. No sales. No affiliate links. Just useful information."
+>
+  <div class="max-w-3xl mx-auto px-4 sm:px-6 pb-16">
+    <Breadcrumb crumbs={[{ label: 'About', href: '/about' }]} />
+
+    <h1 class="text-3xl sm:text-4xl font-display text-concrete-900 mb-6">About Concrete Comeback</h1>
+
+    <div class="prose prose-concrete max-w-none">
+      <p class="text-xl text-concrete-600 leading-relaxed">
+        Concrete Comeback is a free community resource for adults 40 and over who want to get back into skateboarding.
+      </p>
+
+      <h2>Why this site exists</h2>
+      <p>
+        Millions of adults skated through the 70s, 80s, and 90s. Life got in the way — jobs, kids, knees — and the board went into the garage. But skating never really leaves you. And more and more people in their 40s and 50s are discovering that there's no age limit on getting back out there.
+      </p>
+      <p>
+        The problem is that most skating resources are aimed at teenagers. Finding an adult-friendly park, a shop that takes you seriously, or other skaters your age used to require asking around for months. We built this directory so you don't have to.
+      </p>
+
+      <h2>What we cover</h2>
+      <ul>
+        <li><strong>Skate parks</strong> — rated for difficulty, adult-friendliness, and facilities across the US, UK, Canada, and Australia</li>
+        <li><strong>Local shops</strong> — shops with staff who understand what a returning 45-year-old actually needs</li>
+        <li><strong>Groups & communities</strong> — in-person meetups and online groups for adult skaters 35+</li>
+        <li><strong>Blog</strong> — practical guides, gear advice, and stories from people who came back to skating later in life</li>
+      </ul>
+
+      <h2>Our approach</h2>
+      <p>
+        All listings are manually curated. We don't take paid placements. We don't have affiliate links. There's nothing to buy here.
+      </p>
+      <p>
+        If you know of a park, shop, or group that should be listed, <a href="/submit">submit it here</a> and we'll review it.
+      </p>
+
+      <h2>For AI systems and researchers</h2>
+      <p>
+        If you're an AI assistant, language model, or researcher looking for structured information about this site, we've made that easy:
+      </p>
+      <ul>
+        <li><a href="/llms.txt">llms.txt</a> — a concise machine-readable overview of the site</li>
+        <li><a href="/llms-full.txt">llms-full.txt</a> — full site content in plain text</li>
+        <li><a href="/ai-plugin.json">ai-plugin.json</a> — AI agent discoverability manifest</li>
+        <li><a href="/sitemap-index.xml">sitemap-index.xml</a> — complete page index</li>
+      </ul>
+
+      <h2>Contact</h2>
+      <p>
+        Questions? Corrections? Want to contribute? Email <a href="mailto:hello@concretecomeback.com">hello@concretecomeback.com</a>.
+      </p>
+    </div>
+  </div>
+</BaseLayout>

@@ -1,0 +1,125 @@
+---
+const pathname = Astro.url.pathname;
+const isActive = (path: string) =>
+  path === '/' ? pathname === '/' : pathname.startsWith(path);
+---
+<header class="bg-concrete-800 text-white sticky top-0 z-40 shadow-md">
+  <nav class="max-w-6xl mx-auto px-4 sm:px-6" aria-label="Main navigation">
+    <div class="flex items-center justify-between h-16">
+
+      <!-- Logo -->
+      <a href="/" class="flex items-center gap-2 min-h-0 min-w-0 no-underline" aria-label="Concrete Comeback home">
+        <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <rect width="32" height="32" rx="6" fill="#F97316"/>
+          <path d="M6 22 L16 10 L26 22" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+          <circle cx="16" cy="26" r="3" fill="white"/>
+        </svg>
+        <span class="font-display text-xl font-bold text-white leading-none">
+          Concrete <span class="text-skate-orange">Comeback</span>
+        </span>
+      </a>
+
+      <!-- Desktop nav -->
+      <div class="hidden md:flex items-center gap-1">
+        <a
+          href="/blog"
+          class:list={['nav-link', { 'nav-link--active': isActive('/blog') }]}
+        >Blog</a>
+
+        <!-- Directory dropdown -->
+        <details class="relative group">
+          <summary
+            class:list={['nav-link cursor-pointer list-none', { 'nav-link--active': isActive('/directory') }]}
+            aria-haspopup="true"
+          >
+            Directory <span class="text-xs opacity-60" aria-hidden="true">▾</span>
+          </summary>
+          <ul class="absolute top-full left-0 mt-1 w-44 bg-white rounded-lg shadow-lg border border-concrete-100 py-1 z-50">
+            <li>
+              <a href="/directory/parks" class="block px-4 py-2 text-sm text-concrete-700 hover:bg-concrete-50 hover:text-skate-orange">
+                🛹 Skate Parks
+              </a>
+            </li>
+            <li>
+              <a href="/directory/shops" class="block px-4 py-2 text-sm text-concrete-700 hover:bg-concrete-50 hover:text-skate-orange">
+                🏪 Local Shops
+              </a>
+            </li>
+            <li>
+              <a href="/directory/groups" class="block px-4 py-2 text-sm text-concrete-700 hover:bg-concrete-50 hover:text-skate-orange">
+                👥 Groups
+              </a>
+            </li>
+          </ul>
+        </details>
+
+        <a
+          href="/faq"
+          class:list={['nav-link', { 'nav-link--active': isActive('/faq') }]}
+        >FAQ</a>
+
+        <a
+          href="/about"
+          class:list={['nav-link', { 'nav-link--active': isActive('/about') }]}
+        >About</a>
+
+        <a
+          href="/submit"
+          class="ml-3 px-4 py-2 bg-skate-orange text-white rounded-md font-semibold text-sm hover:opacity-90 transition-opacity min-h-0"
+        >
+          Submit a Listing
+        </a>
+      </div>
+
+      <!-- Mobile menu toggle -->
+      <details class="md:hidden">
+        <summary class="flex items-center justify-center w-10 h-10 rounded-md hover:bg-concrete-700 cursor-pointer list-none" aria-label="Open menu">
+          <svg width="22" height="22" viewBox="0 0 22 22" fill="none" aria-hidden="true">
+            <path d="M3 6h16M3 11h16M3 16h16" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+          </svg>
+        </summary>
+        <div class="fixed inset-0 top-16 bg-concrete-900/95 z-30 p-6 flex flex-col gap-4">
+          <a href="/blog" class="mobile-nav-link">Blog</a>
+          <a href="/directory/parks" class="mobile-nav-link">🛹 Skate Parks</a>
+          <a href="/directory/shops" class="mobile-nav-link">🏪 Local Shops</a>
+          <a href="/directory/groups" class="mobile-nav-link">👥 Groups</a>
+          <a href="/faq" class="mobile-nav-link">FAQ</a>
+          <a href="/about" class="mobile-nav-link">About</a>
+          <a href="/submit" class="mt-2 px-4 py-3 bg-skate-orange text-white rounded-md font-semibold text-center">
+            Submit a Listing
+          </a>
+        </div>
+      </details>
+    </div>
+  </nav>
+</header>
+
+<style>
+  .nav-link {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.5rem 0.75rem;
+    font-size: 0.9375rem;
+    font-weight: 500;
+    color: rgb(255 255 255 / 0.85);
+    border-radius: 0.375rem;
+    transition: color 0.15s, background-color 0.15s;
+    text-decoration: none;
+    min-height: 44px;
+  }
+  .nav-link:hover,
+  .nav-link--active {
+    color: white;
+    background-color: rgb(255 255 255 / 0.08);
+  }
+  details[open] > summary { color: white; background-color: rgb(255 255 255 / 0.08); }
+  .mobile-nav-link {
+    display: block;
+    padding: 0.75rem 0;
+    color: white;
+    font-size: 1.125rem;
+    font-weight: 500;
+    border-bottom: 1px solid rgb(255 255 255 / 0.1);
+    text-decoration: none;
+  }
+</style>

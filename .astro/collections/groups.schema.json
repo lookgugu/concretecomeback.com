@@ -1,0 +1,105 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "country": {
+      "type": "string",
+      "enum": [
+        "US",
+        "UK",
+        "CA",
+        "AU"
+      ]
+    },
+    "stateProvince": {
+      "type": "string"
+    },
+    "city": {
+      "type": "string"
+    },
+    "isOnline": {
+      "default": false,
+      "type": "boolean"
+    },
+    "description": {
+      "type": "string",
+      "minLength": 50
+    },
+    "meetFrequency": {
+      "type": "string"
+    },
+    "ageRange": {
+      "type": "string"
+    },
+    "minimumAge": {
+      "type": "integer",
+      "minimum": -9007199254740991,
+      "maximum": 9007199254740991
+    },
+    "skillLevel": {
+      "default": "all-levels",
+      "type": "string",
+      "enum": [
+        "all-levels",
+        "beginner",
+        "intermediate",
+        "advanced"
+      ]
+    },
+    "contactEmail": {
+      "type": "string",
+      "format": "email",
+      "pattern": "^(?!\\.)(?!.*\\.\\.)([A-Za-z0-9_'+\\-\\.]*)[A-Za-z0-9_+-]@([A-Za-z0-9][A-Za-z0-9\\-]*\\.)+[A-Za-z]{2,}$"
+    },
+    "website": {
+      "type": "string",
+      "format": "uri"
+    },
+    "facebook": {
+      "type": "string",
+      "format": "uri"
+    },
+    "instagram": {
+      "type": "string"
+    },
+    "discord": {
+      "type": "string",
+      "format": "uri"
+    },
+    "reddit": {
+      "type": "string",
+      "format": "uri"
+    },
+    "heroImage": {
+      "type": "string"
+    },
+    "heroImageAlt": {
+      "type": "string"
+    },
+    "featured": {
+      "default": false,
+      "type": "boolean"
+    },
+    "addedDate": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "active": {
+      "default": true,
+      "type": "boolean"
+    },
+    "$schema": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "name",
+    "country",
+    "city",
+    "description",
+    "addedDate"
+  ]
+}

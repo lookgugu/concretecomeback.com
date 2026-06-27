@@ -1,0 +1,113 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+import Breadcrumb from '@components/ui/Breadcrumb.astro';
+import FaqAccordion from '@components/ui/FaqAccordion.astro';
+import type { FaqItem } from '@components/ui/FaqAccordion.astro';
+
+const faqs: FaqItem[] = [
+  {
+    question: "Is it safe to start skateboarding at 40 or 50?",
+    answer: "Yes — with the right approach. Adults who return to skating after a long break should start slowly, prioritize protective gear (helmet, wrist guards, knee pads), and choose beginner-friendly parks with smooth surfaces. Injuries are more common when people rush back to doing tricks they did at 18. Start with pushing, carving, and getting comfortable on a board before attempting anything technical.",
+  },
+  {
+    question: "What skateboard should a returning adult buy?",
+    answer: "Most returning adults do best on a board that's slightly wider than a standard street deck — typically 8.5\" to 9\" wide. Wider boards are more stable underfoot, which matters when your feet haven't been on a board in 20 years. Soft wheels (78a–87a durometer) are more forgiving on rough pavement. Ask a local skate shop for help — a good shop will set you up based on your height and riding style rather than just selling you the most expensive option.",
+  },
+  {
+    question: "What protective gear do I need as a returning adult skater?",
+    answer: "At minimum: a certified helmet (CPSC or ASTM F1492 certified), wrist guards, and knee pads. Wrists are the most commonly injured body part in skateboarding — people instinctively put their hands down when they fall. Elbow pads are a good addition. Hip pads help if you're skating transition (ramps and bowls). Don't skip the gear — your recovery time as a 45-year-old is much longer than it was at 15.",
+  },
+  {
+    question: "Are there skating groups specifically for adults over 40 or 50?",
+    answer: "Yes, and they're growing. Many cities have informal adult skate sessions, often organized through Facebook groups or apps like Meetup. Our directory lists groups specifically for adult skaters (35+) in the US, UK, Canada, and Australia. Online communities like r/OldSkaters and several Facebook groups also connect older skaters globally.",
+  },
+  {
+    question: "How do I find an adult-friendly skate park near me?",
+    answer: "Use our parks directory and filter by 'Adult Friendly.' Adult-friendly parks tend to have smooth surfaces, a mix of beginner terrain (flat ground, gentle banks), and a mellow atmosphere without large crowds of competitive teenagers. Parks with designated beginner areas or regular 'all ages' sessions are ideal.",
+  },
+  {
+    question: "What kind of skating is best for older beginners returning to the sport?",
+    answer: "Bowl skating and transition skating (ramps with curved walls) tend to suit returning adults well. The flowing, carving style uses muscle memory from your earlier skating days and is less reliant on technical foot tricks. Many adults also enjoy longboarding or cruising on wider decks, which prioritizes smooth riding over tricks.",
+  },
+  {
+    question: "How long will it take to get my skills back?",
+    answer: "Most returning skaters are surprised how quickly muscle memory comes back. Basic skills like pushing, stopping, and carving often return within the first few sessions. More technical skills take longer and require more patience than they did in youth — that's completely normal. Give yourself 3–6 months of regular practice before expecting to skate at your former level.",
+  },
+  {
+    question: "Do skate shops offer advice for returning adult skaters?",
+    answer: "Good ones do. Look for smaller independent skate shops where the staff actually skate — they're more likely to understand what a returning adult needs versus what a 14-year-old wants. Some shops specifically cater to or are staffed by older skaters. Our shop directory flags listings that offer specific advice for returning adults.",
+  },
+  {
+    question: "What's the best surface to skate on as a beginner returning adult?",
+    answer: "Smooth concrete is easiest to learn on — it's predictable and doesn't grab your wheels. Avoid rough asphalt, brick, or any cracked surface when you're getting started. Most purpose-built skate parks use skate-specific concrete, which is ideal. If you're skating outdoors, look for freshly paved paths or basketball courts before your skills are solid.",
+  },
+  {
+    question: "Are skate parks safe for adults to use with teenagers and younger skaters?",
+    answer: "Generally yes. Skateboarding has a longstanding culture of respecting the ability level and space of everyone at the park. Most younger skaters respect returning adults who show they know what they're doing. If you're nervous, go during off-peak hours — typically weekday mornings and early afternoons. Many parks also run adult-only sessions on specific days.",
+  },
+  {
+    question: "What do I do about sore knees and joints when I come back to skating?",
+    answer: "Soreness in the first few weeks is normal after any physical activity you've paused for years. Warm up before each session (light cardio, dynamic stretches for your ankles and knees), and warm down after. Avoid long sessions — 45–60 minutes is enough when you're rebuilding. Persistent pain that doesn't go away after rest is a signal to see a physio, not to push through. Consider insoles for your skate shoes if you have flat feet or pronation issues.",
+  },
+  {
+    question: "Is longboarding a good option for returning adult skaters?",
+    answer: "Absolutely. Longboards are more stable, have larger softer wheels that handle rough surfaces better, and are well suited to cruising and carving rather than tricks. Many returning adult skaters start on a longboard or cruiser to build confidence before moving to a shorter street deck. It depends on what you want from skating — if you loved street skating in your youth, a wider traditional deck may suit you better.",
+  },
+  {
+    question: "How do I connect with other adult skaters in my area?",
+    answer: "Start with our groups directory — it lists in-person groups and online communities across the US, UK, Canada, and Australia. Facebook and Meetup have active adult skating groups in most major cities. Showing up at a local skate park during slower hours is another way to meet other adult skaters organically. Many skate shops also know of informal local adult sessions.",
+  },
+  {
+    question: "Can I use the Concrete Comeback directory to find indoor skate parks?",
+    answer: "Yes — our park directory includes an indoor filter. Indoor parks are great during winter or bad weather, and tend to have smoother floors and more controlled environments. We note whether each listed park is indoor or outdoor.",
+  },
+  {
+    question: "Is there a cost to use Concrete Comeback?",
+    answer: "No. The site is completely free, and always will be. We don't sell products, run advertising, or have affiliate links. It's a community resource built by and for returning adult skaters.",
+  },
+];
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqs.map((f) => ({
+    '@type': 'Question',
+    name: f.question,
+    acceptedAnswer: {
+      '@type': 'Answer',
+      text: f.answer,
+    },
+  })),
+};
+---
+<BaseLayout
+  title="FAQ | Returning to Skateboarding at 40, 50, and Beyond"
+  description="Answers to the most common questions about returning to skateboarding as an adult — safety, gear, finding parks and groups, what to expect, and more."
+  structuredData={jsonLd}
+>
+  <div class="max-w-3xl mx-auto px-4 sm:px-6 pb-16">
+    <Breadcrumb crumbs={[{ label: 'FAQ', href: '/faq' }]} />
+
+    <div class="mb-8">
+      <h1 class="text-3xl sm:text-4xl font-display text-concrete-900">Frequently Asked Questions</h1>
+      <p class="text-concrete-500 mt-2">
+        Honest answers for adults thinking about getting back on a skateboard.
+      </p>
+    </div>
+
+    <FaqAccordion items={faqs} />
+
+    <div class="mt-10 p-6 bg-concrete-50 border border-concrete-200 rounded-xl">
+      <h2 class="font-display text-lg text-concrete-800 mb-2">Still have questions?</h2>
+      <p class="text-sm text-concrete-600 mb-4">
+        Can't find what you're looking for? Browse <a href="/blog" class="text-skate-orange hover:underline">the blog</a> for detailed guides, or <a href="mailto:hello@concretecomeback.com" class="text-skate-orange hover:underline">drop us an email</a>.
+      </p>
+      <a
+        href="/directory/parks"
+        class="inline-block px-5 py-2.5 bg-skate-orange text-white text-sm font-semibold rounded-lg hover:opacity-90 transition-opacity no-underline"
+      >
+        Find a park near you →
+      </a>
+    </div>
+  </div>
+</BaseLayout>

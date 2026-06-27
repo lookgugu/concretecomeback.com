@@ -1,0 +1,24 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+---
+<BaseLayout
+  title="Page Not Found | Concrete Comeback"
+  description="This page doesn't exist. Find your way back to the directory."
+  noIndex={true}
+>
+  <div class="max-w-2xl mx-auto px-4 sm:px-6 py-24 text-center">
+    <p class="font-display text-7xl font-bold text-concrete-200 mb-4" aria-hidden="true">404</p>
+    <h1 class="font-display text-3xl text-concrete-800 mb-4">Bailed on that one.</h1>
+    <p class="text-concrete-500 mb-8">
+      This page doesn't exist — or it moved. Let's get you back on solid ground.
+    </p>
+    <div class="flex flex-col sm:flex-row items-center justify-center gap-4">
+      <a href="/" class="px-6 py-3 bg-skate-orange text-white font-semibold rounded-lg hover:opacity-90 transition-opacity no-underline">
+        Go home
+      </a>
+      <a href="/directory/parks" class="px-6 py-3 border border-concrete-300 text-concrete-600 rounded-lg hover:border-concrete-400 transition-colors no-underline">
+        Find a park
+      </a>
+    </div>
+  </div>
+</BaseLayout>

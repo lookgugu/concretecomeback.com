@@ -1,0 +1,27 @@
+---
+type Variant = 'default' | 'difficulty' | 'surface' | 'service' | 'skill';
+
+interface Props {
+  label: string;
+  variant?: Variant;
+}
+
+const { label, variant = 'default' } = Astro.props;
+
+const colors: Record<Variant, string> = {
+  default:    'bg-concrete-100 text-concrete-600 border-concrete-200',
+  surface:    'bg-blue-50 text-blue-700 border-blue-200',
+  service:    'bg-purple-50 text-purple-700 border-purple-200',
+  skill:      'bg-green-50 text-green-700 border-green-200',
+  difficulty: (() => {
+    const d = label.toLowerCase();
+    if (d === 'beginner-friendly') return 'bg-green-50 text-green-700 border-green-200';
+    if (d === 'mixed')             return 'bg-yellow-50 text-yellow-700 border-yellow-200';
+    if (d === 'intermediate')      return 'bg-orange-50 text-orange-700 border-orange-200';
+    return 'bg-red-50 text-red-700 border-red-200';
+  })(),
+};
+---
+<span class={`inline-flex items-center px-2 py-0.5 text-xs font-medium rounded-full border ${colors[variant]}`}>
+  {label.replace(/-/g, ' ')}
+</span>

@@ -1,0 +1,37 @@
+---
+import { getCollection } from 'astro:content';
+import DirectoryLayout from '@layouts/DirectoryLayout.astro';
+import ParkCard from '@components/directory/ParkCard.astro';
+import DirectoryFilter from '@components/directory/DirectoryFilter.astro';
+
+const parks = await getCollection('parks');
+const sorted = parks.sort((a, b) => {
+  if (a.data.featured && !b.data.featured) return -1;
+  if (!a.data.featured && b.data.featured) return 1;
+  return a.data.name.localeCompare(b.data.name);
+});
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: 'Adult-Friendly Skate Parks Directory',
+  description: 'Skate parks rated for adult friendliness in the US, UK, Canada, and Australia.',
+  numberOfItems: parks.length,
+  itemListElement: sorted.map((park, i) => ({
+    '@type': 'ListItem',
+    position: i + 1,
+    name: park.data.name,
+    url: `https://concretecomeback.com/directory/parks/${park.id}`,
+  })),
+};
+---
+<DirectoryLayout
+  title="Skate Parks Directory | Adult-Friendly Parks"
+  description="Find adult-friendly skate parks in the US, UK, Canada, and Australia. Filter by difficulty, features, and facilities."
+  breadcrumbs={[{ label: 'Directory', href: '/directory' }, { label: 'Skate Parks', href: '/directory/parks' }]}
+  totalCount={parks.length}
+  structuredData={jsonLd}
+>
+  <DirectoryFilter slot="filter" type="parks" />
+  {sorted.map((park) => <ParkCard entry={park} />)}
+</DirectoryLayout>

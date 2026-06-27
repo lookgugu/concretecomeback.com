@@ -1,0 +1,21 @@
+name: concretecomeback-www
+project_id: 8c54970f-11c9-456e-9498-25848b488229
+region: nyc
+static_sites:
+- name: web
+  environment_slug: node-js
+  github:
+    branch: main
+    deploy_on_push: true
+    repo: lookgugu/concretecomeback.com
+  build_command: npm run build
+  output_dir: dist
+  index_document: index.html
+  error_document: 404/index.html
+domains:
+- domain: concretecomeback.com
+  type: PRIMARY
+- domain: www.concretecomeback.com
+  type: ALIAS
+alerts:
+- rule: DEPLOYMENT_FAILED

@@ -1,0 +1,54 @@
+---
+const year = new Date().getFullYear();
+---
+<footer class="bg-concrete-800 text-concrete-300 mt-16">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 py-12">
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-10">
+
+      <div>
+        <h3 class="text-white font-display text-base mb-4 uppercase tracking-wide">Explore</h3>
+        <ul class="space-y-2 text-sm">
+          <li><a href="/" class="hover:text-white transition-colors">Home</a></li>
+          <li><a href="/blog" class="hover:text-white transition-colors">Blog</a></li>
+          <li><a href="/faq" class="hover:text-white transition-colors">FAQ</a></li>
+          <li><a href="/about" class="hover:text-white transition-colors">About</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <h3 class="text-white font-display text-base mb-4 uppercase tracking-wide">Directory</h3>
+        <ul class="space-y-2 text-sm">
+          <li><a href="/directory/parks" class="hover:text-white transition-colors">Skate Parks</a></li>
+          <li><a href="/directory/shops" class="hover:text-white transition-colors">Local Shops</a></li>
+          <li><a href="/directory/groups" class="hover:text-white transition-colors">Groups &amp; Communities</a></li>
+          <li>
+            <a href="/submit" class="text-skate-orange hover:text-orange-400 transition-colors font-medium">
+              + Submit a Listing
+            </a>
+          </li>
+        </ul>
+      </div>
+
+      <div>
+        <h3 class="text-white font-display text-base mb-4 uppercase tracking-wide">For AI &amp; Agents</h3>
+        <ul class="space-y-2 text-sm">
+          <li><a href="/llms.txt" class="hover:text-white transition-colors">llms.txt</a></li>
+          <li><a href="/llms-full.txt" class="hover:text-white transition-colors">llms-full.txt</a></li>
+          <li><a href="/ai-plugin.json" class="hover:text-white transition-colors">ai-plugin.json</a></li>
+          <li><a href="/sitemap-index.xml" class="hover:text-white transition-colors">Sitemap</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="border-t border-concrete-700 pt-6 flex flex-col sm:flex-row items-center justify-between gap-4 text-sm text-concrete-400">
+      <p>
+        &copy; {year} Concrete Comeback &mdash; A community resource for adult skaters.
+        <span class="block sm:inline">No products sold. No affiliate links.</span>
+      </p>
+      <p class="flex gap-4">
+        <a href="/about" class="hover:text-white transition-colors">About</a>
+        <a href="/submit" class="hover:text-white transition-colors">Submit</a>
+      </p>
+    </div>
+  </div>
+</footer>

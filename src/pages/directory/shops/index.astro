@@ -1,0 +1,36 @@
+---
+import { getCollection } from 'astro:content';
+import DirectoryLayout from '@layouts/DirectoryLayout.astro';
+import ShopCard from '@components/directory/ShopCard.astro';
+import DirectoryFilter from '@components/directory/DirectoryFilter.astro';
+
+const shops = await getCollection('shops');
+const sorted = shops.sort((a, b) => {
+  if (a.data.featured && !b.data.featured) return -1;
+  if (!a.data.featured && b.data.featured) return 1;
+  return a.data.name.localeCompare(b.data.name);
+});
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: 'Local Skateboard Shops Directory',
+  numberOfItems: shops.length,
+  itemListElement: sorted.map((shop, i) => ({
+    '@type': 'ListItem',
+    position: i + 1,
+    name: shop.data.name,
+    url: `https://concretecomeback.com/directory/shops/${shop.id}`,
+  })),
+};
+---
+<DirectoryLayout
+  title="Local Skateboard Shops | Directory"
+  description="Find local skateboard shops with knowledgeable staff who can help returning adult skaters in the US, UK, Canada, and Australia."
+  breadcrumbs={[{ label: 'Directory', href: '/directory' }, { label: 'Local Shops', href: '/directory/shops' }]}
+  totalCount={shops.length}
+  structuredData={jsonLd}
+>
+  <DirectoryFilter slot="filter" type="shops" />
+  {sorted.map((shop) => <ShopCard entry={shop} />)}
+</DirectoryLayout>

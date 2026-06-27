@@ -1,0 +1,217 @@
+---
+type FilterType = 'parks' | 'shops' | 'groups';
+
+interface Props {
+  type: FilterType;
+}
+
+const { type } = Astro.props;
+---
+<div class="bg-white border border-concrete-200 rounded-xl p-5 sticky top-20">
+  <h2 class="font-display text-base text-concrete-800 mb-4 uppercase tracking-wide">Filter</h2>
+
+  <form id="directory-filter" class="flex flex-col gap-5">
+    <!-- Search -->
+    <div>
+      <label for="filter-search" class="block text-xs text-concrete-500 uppercase tracking-wide mb-1">Search</label>
+      <input
+        type="search"
+        id="filter-search"
+        name="q"
+        placeholder={type === 'parks' ? 'City or park name…' : type === 'shops' ? 'City or shop name…' : 'City or group name…'}
+        class="w-full px-3 py-2 text-sm border border-concrete-200 rounded-lg focus:border-skate-orange focus:outline-none"
+      />
+    </div>
+
+    <!-- Country -->
+    <div>
+      <label for="filter-country" class="block text-xs text-concrete-500 uppercase tracking-wide mb-1">Country</label>
+      <select
+        id="filter-country"
+        name="country"
+        class="w-full px-3 py-2 text-sm border border-concrete-200 rounded-lg focus:border-skate-orange focus:outline-none bg-white"
+      >
+        <option value="">All countries</option>
+        <option value="US">🇺🇸 United States</option>
+        <option value="UK">🇬🇧 United Kingdom</option>
+        <option value="CA">🇨🇦 Canada</option>
+        <option value="AU">🇦🇺 Australia</option>
+      </select>
+    </div>
+
+    {type === 'parks' && (
+      <>
+        <div>
+          <span class="block text-xs text-concrete-500 uppercase tracking-wide mb-2">Difficulty</span>
+          <div class="flex flex-col gap-1.5">
+            {['beginner-friendly', 'mixed', 'intermediate', 'advanced'].map((d) => (
+              <label class="flex items-center gap-2 text-sm text-concrete-600 cursor-pointer">
+                <input type="radio" name="difficulty" value={d} class="accent-skate-orange" />
+                <span class="capitalize">{d.replace(/-/g, ' ')}</span>
+              </label>
+            ))}
+            <label class="flex items-center gap-2 text-sm text-concrete-600 cursor-pointer">
+              <input type="radio" name="difficulty" value="" class="accent-skate-orange" checked />
+              <span>Any difficulty</span>
+            </label>
+          </div>
+        </div>
+
+        <div>
+          <label class="flex items-center gap-2 cursor-pointer">
+            <input type="checkbox" name="adult" value="1" class="accent-skate-orange w-4 h-4" />
+            <span class="text-sm text-concrete-700 font-medium">Adult Friendly only</span>
+          </label>
+        </div>
+
+        <div>
+          <label class="flex items-center gap-2 cursor-pointer">
+            <input type="checkbox" name="indoor" value="1" class="accent-skate-orange w-4 h-4" />
+            <span class="text-sm text-concrete-700">Indoor parks only</span>
+          </label>
+        </div>
+      </>
+    )}
+
+    {type === 'shops' && (
+      <>
+        <div>
+          <label class="flex items-center gap-2 cursor-pointer">
+            <input type="checkbox" name="adult-advice" value="1" class="accent-skate-orange w-4 h-4" />
+            <span class="text-sm text-concrete-700 font-medium">Adult Advice service</span>
+          </label>
+        </div>
+        <div>
+          <label class="flex items-center gap-2 cursor-pointer">
+            <input type="checkbox" name="online" value="1" class="accent-skate-orange w-4 h-4" />
+            <span class="text-sm text-concrete-700">Has online shop</span>
+          </label>
+        </div>
+      </>
+    )}
+
+    {type === 'groups' && (
+      <>
+        <div>
+          <span class="block text-xs text-concrete-500 uppercase tracking-wide mb-2">Format</span>
+          <div class="flex flex-col gap-1.5">
+            <label class="flex items-center gap-2 text-sm text-concrete-600 cursor-pointer">
+              <input type="radio" name="format" value="" class="accent-skate-orange" checked />
+              <span>All groups</span>
+            </label>
+            <label class="flex items-center gap-2 text-sm text-concrete-600 cursor-pointer">
+              <input type="radio" name="format" value="in-person" class="accent-skate-orange" />
+              <span>In-person only</span>
+            </label>
+            <label class="flex items-center gap-2 text-sm text-concrete-600 cursor-pointer">
+              <input type="radio" name="format" value="online" class="accent-skate-orange" />
+              <span>Online only</span>
+            </label>
+          </div>
+        </div>
+      </>
+    )}
+
+    <button
+      type="reset"
+      class="text-xs text-concrete-400 hover:text-concrete-700 text-left transition-colors mt-1 bg-transparent border-0 cursor-pointer p-0 min-h-0 min-w-0"
+    >
+      Clear filters
+    </button>
+  </form>
+</div>
+
+<script>
+  function debounce<T extends (...args: unknown[]) => void>(fn: T, ms: number): T {
+    let id: ReturnType<typeof setTimeout>;
+    return ((...args: unknown[]) => { clearTimeout(id); id = setTimeout(() => fn(...args), ms); }) as T;
+  }
+
+  function applyFilters(): void {
+    const params = new URLSearchParams(window.location.search);
+    const search     = (params.get('q') ?? '').toLowerCase().trim();
+    const country    = params.get('country') ?? '';
+    const difficulty = params.get('difficulty') ?? '';
+    const adultOnly  = params.get('adult') === '1';
+    const indoorOnly = params.get('indoor') === '1';
+    const adultAdviceOnly = params.get('adult-advice') === '1';
+    const onlineShop = params.get('online') === '1';
+    const format     = params.get('format') ?? '';
+
+    let visible = 0;
+
+    document.querySelectorAll<HTMLElement>('#directory-grid > article').forEach((card) => {
+      let show = true;
+
+      if (country && card.dataset.country !== country) show = false;
+
+      if (difficulty && card.dataset.difficulty !== difficulty) show = false;
+
+      if (adultOnly && card.dataset.adult !== 'true') show = false;
+
+      if (indoorOnly && card.dataset.indoor !== 'true') show = false;
+
+      if (adultAdviceOnly && card.dataset.adultAdvice !== 'true') show = false;
+
+      if (onlineShop && card.dataset.online !== 'true') show = false;
+
+      if (format === 'online'    && card.dataset.online !== 'true')  show = false;
+      if (format === 'in-person' && card.dataset.online === 'true')  show = false;
+
+      if (search) {
+        const haystack = `${card.dataset.name ?? ''} ${card.dataset.city ?? ''}`;
+        if (!haystack.includes(search)) show = false;
+      }
+
+      card.hidden = !show;
+      if (show) visible++;
+    });
+
+    const counter = document.getElementById('filter-count');
+    if (counter) counter.textContent = String(visible);
+
+    const noResults = document.getElementById('no-results');
+    if (noResults) noResults.hidden = visible > 0;
+  }
+
+  function syncToURL(form: HTMLFormElement): void {
+    const data = new FormData(form);
+    const params = new URLSearchParams();
+    for (const [key, val] of data.entries()) {
+      if (val) params.append(key, val as string);
+    }
+    const qs = params.toString();
+    history.replaceState(null, '', qs ? `${window.location.pathname}?${qs}` : window.location.pathname);
+    applyFilters();
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    const form = document.getElementById('directory-filter') as HTMLFormElement | null;
+    if (!form) return;
+
+    // Restore values from URL on load
+    const params = new URLSearchParams(window.location.search);
+    params.forEach((value, key) => {
+      const els = form.querySelectorAll<HTMLInputElement>(`[name="${key}"]`);
+      els.forEach((el) => {
+        if (el.type === 'radio' || el.type === 'checkbox') {
+          el.checked = el.value === value;
+        } else {
+          el.value = value;
+        }
+      });
+    });
+
+    applyFilters();
+
+    const debouncedSync = debounce(() => syncToURL(form), 200);
+    form.addEventListener('input', debouncedSync);
+
+    form.addEventListener('reset', () => {
+      requestAnimationFrame(() => {
+        history.replaceState(null, '', window.location.pathname);
+        applyFilters();
+      });
+    });
+  });
+</script>

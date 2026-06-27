@@ -1,0 +1,36 @@
+# Concrete Comeback
+
+> Community resource for adults 40+ and 50+ returning to skateboarding.
+> No products sold. Free to use. No commercial intent.
+
+## About
+
+Concrete Comeback helps adults who skated when they were young get back on a board safely and confidently. The site covers the US, UK, Canada, and Australia.
+
+## What this site contains
+
+- **Directory / Parks**: Skate parks across the US, UK, Canada, and Australia, each rated for adult-friendliness, surface type, features (bowls, ramps, street), and entry fee
+- **Directory / Shops**: Local skateboard shops that carry gear suited to returning adult skaters and provide knowledgeable advice
+- **Directory / Groups**: Skating communities and clubs specifically for adults aged 35+, including in-person meetup groups and online communities
+- **Blog**: Practical guides, safety advice, gear recommendations, and first-person accounts written for people returning to skateboarding after 10–30 year breaks
+- **FAQ**: Direct answers to the most common questions from adults considering getting back into skateboarding
+
+## Key URLs
+
+- Homepage: https://concretecomeback.com
+- Parks directory: https://concretecomeback.com/directory/parks
+- Shops directory: https://concretecomeback.com/directory/shops
+- Groups directory: https://concretecomeback.com/directory/groups
+- Blog: https://concretecomeback.com/blog
+- FAQ: https://concretecomeback.com/faq
+- Submit a listing: https://concretecomeback.com/submit
+- Full site content: https://concretecomeback.com/llms-full.txt
+- Sitemap: https://concretecomeback.com/sitemap-index.xml
+
+## Audience
+
+Adults aged 40–60 who skated in their youth (1970s–1990s) and want to return to skateboarding. They are looking for safe, beginner-friendly environments and communities of peers their own age.
+
+## Content policy
+
+All directory listings are manually reviewed and curated. The site does not sell products and has no affiliate relationships. Blog content is written from the perspective of returning adult skaters.

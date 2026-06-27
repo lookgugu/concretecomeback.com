@@ -1,0 +1,53 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import Breadcrumb from '@components/ui/Breadcrumb.astro';
+import type { Crumb } from '@components/ui/Breadcrumb.astro';
+
+interface Props {
+  title: string;
+  description: string;
+  breadcrumbs: Crumb[];
+  totalCount: number;
+  structuredData?: object | object[];
+}
+
+const { title, description, breadcrumbs, totalCount, structuredData } = Astro.props;
+---
+<BaseLayout title={title} description={description} structuredData={structuredData}>
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 pb-16">
+    <Breadcrumb crumbs={breadcrumbs} />
+
+    <div class="mb-6">
+      <h1 class="text-3xl sm:text-4xl font-display text-concrete-900">{title}</h1>
+      <p class="text-concrete-500 mt-2">{description}</p>
+    </div>
+
+    <div class="flex flex-col lg:flex-row gap-8">
+      <!-- Filter sidebar -->
+      <aside class="lg:w-64 shrink-0">
+        <slot name="filter" />
+      </aside>
+
+      <!-- Listing grid -->
+      <div class="flex-1 min-w-0">
+        <div class="flex items-center justify-between mb-4">
+          <p class="text-sm text-concrete-500">
+            Showing <strong id="filter-count" class="text-concrete-700">{totalCount}</strong> of {totalCount}
+          </p>
+        </div>
+
+        <div id="directory-grid" class="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-2 gap-5">
+          <slot />
+        </div>
+
+        <p id="no-results" hidden class="py-12 text-center text-concrete-400">
+          No listings match your filters. <button
+            type="button"
+            onclick="document.getElementById('directory-filter')?.reset(); window.history.replaceState(null,'',window.location.pathname);"
+            class="text-skate-orange underline hover:no-underline bg-transparent border-0 cursor-pointer p-0 min-h-0 min-w-0"
+          >Clear all filters</button>
+        </p>
+      </div>
+    </div>
+  </div>
+</BaseLayout>

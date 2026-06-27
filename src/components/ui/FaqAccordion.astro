@@ -1,0 +1,27 @@
+---
+export interface FaqItem {
+  question: string;
+  answer: string;
+}
+
+interface Props {
+  items: FaqItem[];
+}
+
+const { items } = Astro.props;
+---
+<ul class="divide-y divide-concrete-200 rounded-xl border border-concrete-200 overflow-hidden" role="list">
+  {items.map((item, i) => (
+    <li>
+      <details class="group">
+        <summary class="flex items-center justify-between gap-4 px-5 py-4 cursor-pointer hover:bg-concrete-50 transition-colors list-none">
+          <h3 class="font-display text-base sm:text-lg text-concrete-800 leading-snug">{item.question}</h3>
+          <span class="text-concrete-400 group-open:rotate-180 transition-transform shrink-0 text-lg" aria-hidden="true">▾</span>
+        </summary>
+        <div class="px-5 pb-5 pt-1 text-concrete-600 text-sm sm:text-base leading-relaxed bg-white">
+          {item.answer}
+        </div>
+      </details>
+    </li>
+  ))}
+</ul>

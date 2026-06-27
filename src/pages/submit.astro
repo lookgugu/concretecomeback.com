@@ -1,0 +1,27 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+import Breadcrumb from '@components/ui/Breadcrumb.astro';
+import SubmitForm from '@components/forms/SubmitForm.astro';
+---
+<BaseLayout
+  title="Submit a Listing | Concrete Comeback"
+  description="Know an adult-friendly skate park, local shop, or skating group for people 40+? Submit it to the Concrete Comeback directory."
+  noIndex={true}
+>
+  <div class="max-w-2xl mx-auto px-4 sm:px-6 pb-16">
+    <Breadcrumb crumbs={[{ label: 'Submit a Listing', href: '/submit' }]} />
+
+    <div class="mb-8">
+      <h1 class="text-3xl sm:text-4xl font-display text-concrete-900">Submit a Listing</h1>
+      <p class="text-concrete-500 mt-2">
+        Know an adult-friendly skate park, local shop, or skating community that belongs in the directory? Tell us about it.
+      </p>
+    </div>
+
+    <div class="bg-concrete-50 border border-concrete-200 rounded-xl p-4 mb-8 text-sm text-concrete-600">
+      <strong class="text-concrete-800">A note before you submit:</strong> We only list places and groups in the US, UK, Canada, and Australia that are welcoming to adult skaters (30+). All submissions are manually reviewed — typically within 5 business days.
+    </div>
+
+    <SubmitForm />
+  </div>
+</BaseLayout>

@@ -1,0 +1,62 @@
+---
+interface Props {
+  parkCount: number;
+  shopCount: number;
+  groupCount: number;
+}
+const { parkCount, shopCount, groupCount } = Astro.props;
+
+const callouts = [
+  {
+    href: '/directory/parks',
+    emoji: '🛹',
+    title: 'Skate Parks',
+    description: 'Adult-friendly parks rated for difficulty, surface, and facilities across the US, UK, Canada, and Australia.',
+    count: parkCount,
+    label: 'parks',
+  },
+  {
+    href: '/directory/shops',
+    emoji: '🏪',
+    title: 'Local Shops',
+    description: 'Skate shops with knowledgeable staff who can help you pick the right board and gear for your return.',
+    count: shopCount,
+    label: 'shops',
+  },
+  {
+    href: '/directory/groups',
+    emoji: '👥',
+    title: 'Groups & Communities',
+    description: 'Find other adults your age who skate. In-person meetup groups and online communities for 35+ skaters.',
+    count: groupCount,
+    label: 'groups',
+  },
+];
+---
+<section class="max-w-6xl mx-auto px-4 sm:px-6 py-16">
+  <h2 class="text-2xl sm:text-3xl font-display text-concrete-800 text-center mb-10">
+    Find What You Need
+  </h2>
+  <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+    {callouts.map((c) => (
+      <a
+        href={c.href}
+        class="group bg-white border border-concrete-200 rounded-xl p-6 shadow-card hover:shadow-card-hover hover:border-skate-orange/40 transition-all no-underline flex flex-col"
+      >
+        <span class="text-4xl mb-4" aria-hidden="true">{c.emoji}</span>
+        <h3 class="font-display text-xl text-concrete-900 mb-2 group-hover:text-skate-orange transition-colors">
+          {c.title}
+        </h3>
+        <p class="text-concrete-500 text-sm flex-1 leading-relaxed">{c.description}</p>
+        <div class="mt-4 flex items-center justify-between">
+          <span class="text-xs text-concrete-400 uppercase tracking-wide">
+            {c.count} {c.label}
+          </span>
+          <span class="text-skate-orange font-semibold text-sm group-hover:translate-x-1 transition-transform inline-block">
+            Browse →
+          </span>
+        </div>
+      </a>
+    ))}
+  </div>
+</section>

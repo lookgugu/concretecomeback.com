@@ -1,0 +1,49 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import ReadingTime from '@components/ui/ReadingTime.astro';
+
+interface Props {
+  entry: CollectionEntry<'blog'>;
+}
+const { entry } = Astro.props;
+const { title, description, pubDate, tags, heroImage, heroImageAlt, author } = entry.data;
+const formattedDate = pubDate.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
+---
+<article class="bg-white border border-concrete-200 rounded-xl overflow-hidden shadow-card hover:shadow-card-hover hover:border-concrete-300 transition-all flex flex-col">
+  {heroImage && (
+    <a href={`/blog/${entry.id}`} class="block overflow-hidden min-h-0 min-w-0 no-underline" tabindex="-1" aria-hidden="true">
+      <img
+        src={heroImage}
+        alt={heroImageAlt ?? title}
+        class="w-full h-44 object-cover hover:scale-105 transition-transform duration-300"
+        loading="lazy"
+        width="400"
+        height="176"
+      />
+    </a>
+  )}
+  <div class="p-5 flex flex-col flex-1">
+    <div class="flex flex-wrap gap-1 mb-3">
+      {tags.slice(0, 3).map((tag) => (
+        <span class="px-2 py-0.5 text-xs rounded-full bg-concrete-100 text-concrete-500 border border-concrete-200">{tag}</span>
+      ))}
+    </div>
+
+    <h3 class="font-display text-lg text-concrete-900 leading-snug mb-2">
+      <a href={`/blog/${entry.id}`} class="hover:text-skate-orange transition-colors no-underline">
+        {title}
+      </a>
+    </h3>
+
+    <p class="text-sm text-concrete-500 leading-relaxed flex-1">{description}</p>
+
+    <div class="mt-4 pt-3 border-t border-concrete-100 flex items-center justify-between text-xs text-concrete-400">
+      <span>{author}</span>
+      <div class="flex items-center gap-2">
+        <time datetime={pubDate.toISOString()}>{formattedDate}</time>
+        <span aria-hidden="true">·</span>
+        <ReadingTime content={entry.body ?? ''} />
+      </div>
+    </div>
+  </div>
+</article>
