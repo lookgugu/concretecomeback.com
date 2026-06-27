@@ -19,7 +19,7 @@ isIndoor: false
 openingHours: "Sunrise to 10pm"
 entryFee: "Free"
 website: "https://www.laparks.org/venice-beach-skate-park"
-googleMapsUrl: "https://maps.app.goo.gl/venice-beach-skatepark"
+googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=1800+Ocean+Front+Walk+Venice+CA+90291"
 featured: true
 addedDate: 2025-09-01
 tags: ["iconic", "ocean", "mixed-terrain", "free"]

@@ -19,7 +19,7 @@ isIndoor: false
 openingHours: "Dawn to dusk"
 entryFee: "Free"
 website: "https://www.romskatepark.co.uk"
-googleMapsUrl: "https://maps.app.goo.gl/rom-skatepark"
+googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=Clockhouse+Lane+Romford+Essex+RM13+8EX"
 featured: true
 addedDate: 2025-09-01
 tags: ["historic", "1970s", "listed", "pools", "iconic"]

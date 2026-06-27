@@ -17,6 +17,7 @@ isIndoor: true
 openingHours: "Check website for current session times"
 entryFee: "Free (some events may charge)"
 website: "https://www.houseofvans.com/london/"
+googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=228-232+Station+Rd+London+SE13+6RS"
 featured: true
 addedDate: 2025-09-01
 tags: ["indoor", "london", "free", "adult-sessions"]

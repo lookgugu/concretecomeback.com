@@ -19,7 +19,7 @@ isIndoor: false
 openingHours: "24 hours (outdoor)"
 entryFee: "Free"
 website: "https://www.portlandoregon.gov/parks/finder/index.cfm?action=ViewPark&PropertyID=1219"
-googleMapsUrl: "https://maps.app.goo.gl/burnside"
+googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=SE+Burnside+Bridge+Portland+OR+97214"
 featured: true
 addedDate: 2025-09-01
 tags: ["DIY", "historic", "transition", "bowl"]

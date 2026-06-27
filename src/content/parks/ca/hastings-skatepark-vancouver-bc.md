@@ -19,6 +19,7 @@ isIndoor: false
 openingHours: "Dawn to dusk"
 entryFee: "Free"
 website: "https://vancouver.ca/parks-recreation-culture/hastings-skatepark.aspx"
+googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=3096+E+Hastings+St+Vancouver+BC+V5K+2A3"
 featured: false
 addedDate: 2025-09-15
 tags: ["vancouver", "outdoor", "street", "transition"]

@@ -18,7 +18,7 @@ hasToilets: true
 isIndoor: false
 openingHours: "Dawn to dusk"
 entryFee: "Free"
-googleMapsUrl: "https://maps.app.goo.gl/bondi-beach-skatepark"
+googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=Queen+Elizabeth+Dr+Bondi+Beach+NSW+2026"
 featured: true
 addedDate: 2025-09-01
 tags: ["beach", "beginner-friendly", "sydney", "outdoor", "scenic"]

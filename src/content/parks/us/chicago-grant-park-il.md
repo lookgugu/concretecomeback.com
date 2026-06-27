@@ -18,7 +18,7 @@ hasToilets: true
 isIndoor: false
 openingHours: "6am to 11pm"
 entryFee: "Free"
-googleMapsUrl: "https://maps.app.goo.gl/chicago-grant-park-skate"
+googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=337+E+Randolph+St+Chicago+IL+60601"
 featured: false
 addedDate: 2025-09-15
 tags: ["beginner-friendly", "city-park", "midwest", "supervised"]
