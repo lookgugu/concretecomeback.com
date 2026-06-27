@@ -1,5 +1,4 @@
 name: concretecomeback-www
-project_id: 8c54970f-11c9-456e-9498-25848b488229
 region: nyc
 static_sites:
 - name: web
@@ -11,7 +10,7 @@ static_sites:
   build_command: npm run build
   output_dir: dist
   index_document: index.html
-  error_document: 404/index.html
+  error_document: 404.html
 domains:
 - domain: concretecomeback.com
   type: PRIMARY
