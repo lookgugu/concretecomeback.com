@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "scripts": {
     "dev": "astro dev",
-    "build": "node scripts/generate-llms.mjs && astro build && cp dist/404/index.html dist/404.html",
+    "build": "node scripts/generate-llms.mjs && astro build",
     "preview": "astro preview",
     "astro": "astro"
   },
