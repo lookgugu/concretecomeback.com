@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-06-27T18:53:06.910Z
+# Date: 2026-07-06T18:58:01.698Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -357,6 +357,26 @@ A well-maintained public skate park in Grant Park with smooth concrete, a flowin
 Location: Chicago, Illinois, US
 
 Grant Park Skate Park is one of the best options for adult beginners in the Chicago area. The layout avoids steep drops and deep bowls, focusing on flowing, navigable terrain that builds confidence without demanding high-level skills.
+
+
+### Heath Eiland & Morgan Moss Skate Park
+Austin's flagship 30,000 sq ft skate park in the heart of the city, designed by New Line Skateparks. A large flowing bowl takes up a third of the park, alongside an expansive street plaza, banks, rails, and a unique skateable public art piece. Shade structures make midday sessions bearable in the Texas heat. The park draws a wide age range — weekday mornings consistently attract adult skaters in their 30s, 40s, and 50s who have the run of the place before the after-school crowd arrives.
+Location: Austin, Texas, US
+Website: https://www.austintexas.gov/parks/locations/skate-parks
+
+Heath Eiland & Morgan Moss is the park that put Austin on the map for adult skateboarding. The 30,000 sq ft layout — one of the largest public skateparks in Texas — gives everyone room to find their level. The bowl is deep and rewarding for experienced transition skaters, while the street plaza offers banks and mellow transitions that work well for adults rebuilding confidence.
+
+The park is free, maintained by Austin Parks and Recreation, and has real facilities: shade structures, a restroom, and good parking. Mornings before 9am are the sweet spot — the park is quiet, the concrete is cool, and the crowd skews older.
+
+
+### Mabel Davis Skate Park
+Austin's original skate park, opened in 2005 inside Mabel Davis District Park in South Austin. A 12,000 sq ft concrete park with a mellow bowl, smooth banks, and streetscape elements. The smaller scale and beginner-friendly layout make it one of the best spots in Austin for adult skaters returning to the sport — it's never as crowded as Shoal Creek and the terrain rewards progression at a comfortable pace. A grass seating area around the park is good for warming up, stretching, or watching.
+Location: Austin, Texas, US
+Website: https://www.austintexas.gov/parks/locations/skate-parks
+
+Mabel Davis is the quieter, more laid-back cousin of the Shoal Creek park. Its smaller size and mellower terrain make it a better first stop for returning adult skaters who want to rebuild fundamentals without the pressure of a big, busy park. The bowl is manageable, the flatground is smooth, and the whole place has a neighborhood park feel — local, unhurried, and welcoming.
+
+South Austin location means less traffic than the centrally located Shoal Creek park, and the surrounding Mabel Davis District Park gives you plenty of space to warm up before stepping onto concrete.
 
 
 ### Venice Beach Skate Park
