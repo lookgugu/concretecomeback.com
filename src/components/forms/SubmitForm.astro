@@ -1,16 +1,11 @@
----
-// Replace FORMSPREE_ID with your actual Formspree form ID after signing up at formspree.io
-const FORMSPREE_ID = 'YOUR_FORMSPREE_ID';
----
 <form
-  action={`https://formspree.io/f/${FORMSPREE_ID}`}
+  action="/api/forms/submit"
   method="POST"
   class="space-y-6"
   id="submit-listing-form"
 >
   <!-- Honeypot anti-spam -->
   <input type="text" name="_gotcha" style="display:none" tabindex="-1" aria-hidden="true" />
-  <input type="hidden" name="_subject" value="New Concrete Comeback listing submission" />
 
   <!-- Listing type -->
   <fieldset class="space-y-2">
@@ -174,7 +169,7 @@ const FORMSPREE_ID = 'YOUR_FORMSPREE_ID';
     <input
       type="email"
       id="f-email"
-      name="_replyto"
+      name="email"
       placeholder="you@example.com"
       class="w-full px-3 py-2 border border-concrete-200 rounded-lg text-sm focus:border-skate-orange focus:outline-none"
     />

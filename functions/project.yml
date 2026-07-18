@@ -1,0 +1,11 @@
+packages:
+  - name: forms
+    functions:
+      - name: submit
+        runtime: 'nodejs:18'
+        web: true
+        limits:
+          timeout: 15000
+        environment:
+          RESEND_API_KEY: '${RESEND_API_KEY}'
+          SUBMIT_NOTIFY_EMAIL: '${SUBMIT_NOTIFY_EMAIL}'

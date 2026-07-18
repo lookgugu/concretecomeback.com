@@ -1,0 +1,29 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+import Breadcrumb from '@components/ui/Breadcrumb.astro';
+---
+<BaseLayout
+  title="Submission Received | Concrete Comeback"
+  description="Thanks for submitting a listing to the Concrete Comeback directory."
+  noIndex={true}
+>
+  <div class="max-w-2xl mx-auto px-4 sm:px-6 pb-16">
+    <Breadcrumb crumbs={[{ label: 'Submit a Listing', href: '/submit' }, { label: 'Thanks', href: '/submit/thanks' }]} />
+
+    <div class="text-center py-12">
+      <div class="text-5xl mb-6">🛹</div>
+      <h1 class="text-3xl sm:text-4xl font-display text-concrete-900 mb-4">Submission received!</h1>
+      <p class="text-concrete-500 max-w-md mx-auto">
+        Thanks for helping grow the directory. We review every submission by hand — typically within 5 business days. If you left your email, we'll let you know when it's listed.
+      </p>
+      <div class="mt-8 flex flex-col sm:flex-row gap-3 justify-center">
+        <a href="/directory" class="px-6 py-3 bg-skate-orange text-white font-bold font-display rounded-lg hover:opacity-90 transition-opacity no-underline">
+          Browse the Directory
+        </a>
+        <a href="/submit" class="px-6 py-3 border border-concrete-300 text-concrete-600 font-medium rounded-lg hover:border-skate-orange transition-colors no-underline">
+          Submit Another
+        </a>
+      </div>
+    </div>
+  </div>
+</BaseLayout>
