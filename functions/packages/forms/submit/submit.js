@@ -42,7 +42,9 @@ function errorPage(message) {
 }
 
 async function main(args) {
-  if ((args.__ow_method || 'post').toLowerCase() !== 'post') {
+  // DO's current runtime exposes the verb as args.http.method; __ow_method is legacy.
+  const method = String((args.http && args.http.method) || args.__ow_method || 'post');
+  if (method.toLowerCase() !== 'post') {
     return redirect('/submit/');
   }
 
@@ -69,7 +71,10 @@ async function main(args) {
     })
     .filter(Boolean);
 
+  // Invalid reply-to would fail the whole Resend request; the raw value is
+  // still included in the email body either way.
   const submitterEmail = String(args.email || '').trim();
+  const isValidEmail = /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(submitterEmail);
 
   const payload = {
     from: 'Concrete Comeback <submissions@concretecomeback.com>',
@@ -77,7 +82,7 @@ async function main(args) {
     subject: `New listing submission: ${String(args.name).trim()} (${args['listing-type']})`,
     text: lines.join('\n'),
   };
-  if (submitterEmail) {
+  if (submitterEmail && isValidEmail) {
     payload.reply_to = [submitterEmail];
   }
 
@@ -89,6 +94,7 @@ async function main(args) {
         'Content-Type': 'application/json',
       },
       body: JSON.stringify(payload),
+      signal: AbortSignal.timeout(8000),
     });
     if (!res.ok) {
       const detail = await res.text().catch(() => '');
