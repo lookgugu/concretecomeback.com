@@ -11,6 +11,36 @@ static_sites:
   output_dir: dist
   index_document: index.html
   error_document: 404.html
+functions:
+- name: api
+  source_dir: functions
+  github:
+    branch: main
+    deploy_on_push: true
+    repo: lookgugu/concretecomeback.com
+  # Set the values for both secrets in the DigitalOcean control panel
+  # (app → Settings → api component → Environment Variables).
+  # RESEND_API_KEY: send-only Resend key for concretecomeback.com
+  # SUBMIT_NOTIFY_EMAIL: inbox that receives listing submissions
+  envs:
+  - key: RESEND_API_KEY
+    scope: RUN_AND_BUILD_TIME
+    type: SECRET
+  - key: SUBMIT_NOTIFY_EMAIL
+    scope: RUN_AND_BUILD_TIME
+    type: SECRET
+ingress:
+  rules:
+  - component:
+      name: api
+    match:
+      path:
+        prefix: /api
+  - component:
+      name: web
+    match:
+      path:
+        prefix: /
 domains:
 - domain: concretecomeback.com
   type: PRIMARY
