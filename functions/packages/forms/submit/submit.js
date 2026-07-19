@@ -69,38 +69,6 @@ async function main(args) {
 
   args = withFormBody(args);
 
-  // TEMP DIAGNOSTIC (remove after): trigger with Name === '__DEBUG__'.
-  if (args.name === '__DEBUG__') {
-    const out = { node: process.version, typeofFetch: typeof fetch };
-    try {
-      const res = await fetch('https://api.resend.com/emails', {
-        method: 'POST',
-        headers: {
-          Authorization: `Bearer ${process.env.RESEND_API_KEY}`,
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({
-          from: 'Concrete Comeback <submissions@concretecomeback.com>',
-          to: [process.env.SUBMIT_NOTIFY_EMAIL],
-          subject: 'Concrete Comeback submit-form diagnostic',
-          text: 'Diagnostic probe from the submit function.',
-        }),
-        signal: AbortSignal.timeout(8000),
-      });
-      out.resendStatus = res.status;
-      out.resendBody = (await res.text().catch(() => '')).slice(0, 400);
-    } catch (err) {
-      out.errorName = err && err.name;
-      out.errorMessage = err && err.message;
-      out.errorCause = err && err.cause ? String(err.cause) : undefined;
-    }
-    return {
-      statusCode: 200,
-      headers: { 'content-type': 'application/json' },
-      body: JSON.stringify(out),
-    };
-  }
-
   // Honeypot: bots fill the hidden field; pretend success and drop it.
   if (args._gotcha) {
     return redirect('/submit/thanks/');
