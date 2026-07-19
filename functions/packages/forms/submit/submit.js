@@ -71,18 +71,33 @@ async function main(args) {
 
   // TEMP DIAGNOSTIC (remove after): trigger with Name === '__DEBUG__'.
   if (args.name === '__DEBUG__') {
+    const out = { node: process.version, typeofFetch: typeof fetch };
+    try {
+      const res = await fetch('https://api.resend.com/emails', {
+        method: 'POST',
+        headers: {
+          Authorization: `Bearer ${process.env.RESEND_API_KEY}`,
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          from: 'Concrete Comeback <submissions@concretecomeback.com>',
+          to: [process.env.SUBMIT_NOTIFY_EMAIL],
+          subject: 'Concrete Comeback submit-form diagnostic',
+          text: 'Diagnostic probe from the submit function.',
+        }),
+        signal: AbortSignal.timeout(8000),
+      });
+      out.resendStatus = res.status;
+      out.resendBody = (await res.text().catch(() => '')).slice(0, 400);
+    } catch (err) {
+      out.errorName = err && err.name;
+      out.errorMessage = err && err.message;
+      out.errorCause = err && err.cause ? String(err.cause) : undefined;
+    }
     return {
       statusCode: 200,
       headers: { 'content-type': 'application/json' },
-      body: JSON.stringify({
-        node: process.version,
-        typeofFetch: typeof fetch,
-        typeofAbortTimeout:
-          typeof AbortSignal !== 'undefined' ? typeof AbortSignal.timeout : 'no-AbortSignal',
-        hasApiKey: !!process.env.RESEND_API_KEY,
-        hasNotify: !!process.env.SUBMIT_NOTIFY_EMAIL,
-        argKeys: Object.keys(args),
-      }),
+      body: JSON.stringify(out),
     };
   }
 
