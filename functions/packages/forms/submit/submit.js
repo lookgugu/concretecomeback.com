@@ -69,6 +69,23 @@ async function main(args) {
 
   args = withFormBody(args);
 
+  // TEMP DIAGNOSTIC (remove after): trigger with Name === '__DEBUG__'.
+  if (args.name === '__DEBUG__') {
+    return {
+      statusCode: 200,
+      headers: { 'content-type': 'application/json' },
+      body: JSON.stringify({
+        node: process.version,
+        typeofFetch: typeof fetch,
+        typeofAbortTimeout:
+          typeof AbortSignal !== 'undefined' ? typeof AbortSignal.timeout : 'no-AbortSignal',
+        hasApiKey: !!process.env.RESEND_API_KEY,
+        hasNotify: !!process.env.SUBMIT_NOTIFY_EMAIL,
+        argKeys: Object.keys(args),
+      }),
+    };
+  }
+
   // Honeypot: bots fill the hidden field; pretend success and drop it.
   if (args._gotcha) {
     return redirect('/submit/thanks/');
