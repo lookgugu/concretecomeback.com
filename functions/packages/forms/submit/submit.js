@@ -22,6 +22,25 @@ const FIELD_LABELS = [
 
 const REQUIRED = ['listing-type', 'name', 'city', 'country', 'description'];
 
+// DO's web action usually parses a form-encoded body into `args`, but if the
+// fields didn't arrive parsed, fall back to decoding the raw body ourselves.
+function withFormBody(args) {
+  const hasFields = REQUIRED.some((key) => args[key] != null);
+  const raw = args.__ow_body;
+  if (hasFields || !raw) return args;
+  try {
+    const decoded =
+      args.__ow_isBase64Encoded === false
+        ? String(raw)
+        : Buffer.from(String(raw), 'base64').toString('utf8');
+    const merged = { ...args };
+    for (const [key, value] of new URLSearchParams(decoded)) merged[key] = value;
+    return merged;
+  } catch (_err) {
+    return args;
+  }
+}
+
 function redirect(location) {
   return { statusCode: 303, headers: { location }, body: '' };
 }
@@ -47,6 +66,8 @@ async function main(args) {
   if (method.toLowerCase() !== 'post') {
     return redirect('/submit/');
   }
+
+  args = withFormBody(args);
 
   // Honeypot: bots fill the hidden field; pretend success and drop it.
   if (args._gotcha) {
