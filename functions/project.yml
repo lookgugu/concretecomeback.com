@@ -2,7 +2,7 @@ packages:
   - name: forms
     functions:
       - name: submit
-        runtime: 'nodejs:20'
+        runtime: 'nodejs:18'
         web: true
         limits:
           timeout: 15000
