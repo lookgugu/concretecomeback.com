@@ -60,7 +60,39 @@ function errorPage(message) {
   };
 }
 
+// Post-deploy smoke test: GET /api/forms/submit?health=1 reports whether the
+// route, function, and secrets are wired; ?health=key also validates the Resend
+// key with a read-only call (sends no email, leaks no secret values). This is
+// how you confirm a deploy without submitting a real listing.
+async function healthCheck(mode) {
+  const hasApiKey = !!process.env.RESEND_API_KEY;
+  const hasNotify = !!process.env.SUBMIT_NOTIFY_EMAIL;
+  const out = { ok: hasApiKey && hasNotify, hasApiKey, hasNotify };
+  if (String(mode) === 'key' && hasApiKey) {
+    try {
+      const res = await fetch('https://api.resend.com/domains', {
+        headers: { Authorization: `Bearer ${process.env.RESEND_API_KEY}` },
+        signal: AbortSignal.timeout(8000),
+      });
+      out.resendKey = res.ok ? 'ok' : `invalid (${res.status})`;
+      out.ok = out.ok && res.ok;
+    } catch (err) {
+      out.resendKey = `error (${(err && err.name) || 'unknown'})`;
+      out.ok = false;
+    }
+  }
+  return {
+    statusCode: 200,
+    headers: { 'content-type': 'application/json' },
+    body: JSON.stringify(out),
+  };
+}
+
 async function main(args) {
+  if (args.health) {
+    return healthCheck(args.health);
+  }
+
   // DO's current runtime exposes the verb as args.http.method; __ow_method is legacy.
   const method = String((args.http && args.http.method) || args.__ow_method || 'post');
   if (method.toLowerCase() !== 'post') {
