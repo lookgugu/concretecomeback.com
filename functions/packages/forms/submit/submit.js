@@ -61,41 +61,30 @@ function errorPage(message) {
 }
 
 // Post-deploy smoke test: GET /api/forms/submit?health=1 reports whether the
-// route, function, and secrets are wired; ?health=key also validates the Resend
-// key with a read-only call (sends no email, leaks no secret values). This is
-// how you confirm a deploy without submitting a real listing.
-async function healthCheck(mode) {
+// route, function, and both secrets are wired. It only checks that the secrets
+// are present — no outbound call and no secret values, so it is safe on a
+// public unauthenticated endpoint. A send-only Resend key can only be validated
+// by actually sending, so confirm the key itself with one real test submission.
+function healthCheck() {
   const hasApiKey = !!process.env.RESEND_API_KEY;
   const hasNotify = !!process.env.SUBMIT_NOTIFY_EMAIL;
-  const out = { ok: hasApiKey && hasNotify, hasApiKey, hasNotify };
-  if (String(mode) === 'key' && hasApiKey) {
-    try {
-      const res = await fetch('https://api.resend.com/domains', {
-        headers: { Authorization: `Bearer ${process.env.RESEND_API_KEY}` },
-        signal: AbortSignal.timeout(8000),
-      });
-      out.resendKey = res.ok ? 'ok' : `invalid (${res.status})`;
-      out.ok = out.ok && res.ok;
-    } catch (err) {
-      out.resendKey = `error (${(err && err.name) || 'unknown'})`;
-      out.ok = false;
-    }
-  }
   return {
     statusCode: 200,
     headers: { 'content-type': 'application/json' },
-    body: JSON.stringify(out),
+    body: JSON.stringify({ ok: hasApiKey && hasNotify, hasApiKey, hasNotify }),
   };
 }
 
 async function main(args) {
-  if (args.health) {
-    return healthCheck(args.health);
-  }
-
   // DO's current runtime exposes the verb as args.http.method; __ow_method is legacy.
-  const method = String((args.http && args.http.method) || args.__ow_method || 'post');
-  if (method.toLowerCase() !== 'post') {
+  const method = String((args.http && args.http.method) || args.__ow_method || 'post').toLowerCase();
+
+  // GET-only so a form POST that happens to carry a `health` field can't be
+  // diverted into the health check instead of being processed.
+  if (method === 'get' && args.health) {
+    return healthCheck();
+  }
+  if (method !== 'post') {
     return redirect('/submit/');
   }
 
