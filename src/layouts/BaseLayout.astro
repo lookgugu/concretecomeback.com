@@ -22,6 +22,21 @@ const props = Astro.props;
 <!doctype html>
 <html lang="en">
   <head>
+    <!-- Social vanity subdomains (instagram.concretecomeback.com etc.) redirect to the matching profile -->
+    <script is:inline>
+      (function () {
+        var socials = {
+          instagram: 'https://www.instagram.com/concretecomeback',
+          facebook: 'https://www.facebook.com/profile.php?id=61593275275909',
+          pinterest: 'https://www.pinterest.com/concretecomeback/',
+          x: 'https://x.com/concretecomebck',
+          twitter: 'https://x.com/concretecomebck',
+        };
+        var parts = location.hostname.split('.');
+        var target = socials[parts[0]];
+        if (target && parts.slice(1).join('.') === 'concretecomeback.com') location.replace(target);
+      })();
+    </script>
     <SEOHead {...props} canonicalURL={Astro.url} />
     <link rel="alternate" type="application/rss+xml" title="Concrete Comeback" href="/feed.xml" />
   </head>

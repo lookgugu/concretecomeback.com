@@ -46,5 +46,15 @@ domains:
   type: PRIMARY
 - domain: www.concretecomeback.com
   type: ALIAS
+- domain: instagram.concretecomeback.com
+  type: ALIAS
+- domain: facebook.concretecomeback.com
+  type: ALIAS
+- domain: pinterest.concretecomeback.com
+  type: ALIAS
+- domain: x.concretecomeback.com
+  type: ALIAS
+- domain: twitter.concretecomeback.com
+  type: ALIAS
 alerts:
 - rule: DEPLOYMENT_FAILED
