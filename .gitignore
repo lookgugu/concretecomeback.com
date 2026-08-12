@@ -8,3 +8,6 @@ node_modules/
 *.local
 .vercel
 .netlify
+
+# Local agent tooling config — contains API tokens in plaintext
+.agents/
