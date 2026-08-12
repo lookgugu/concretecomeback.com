@@ -1,0 +1,53 @@
+name: Post-deploy smoke test
+
+# DigitalOcean auto-deploys on push to main. This confirms the deployed app can
+# actually reach the submit function — the failure mode documented in CLAUDE.md,
+# where the stored app spec drifts and /api returns "Couldn't route the request".
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    # Daily at 13:00 UTC — catches drift from control-panel edits, not just deploys.
+    - cron: '0 13 * * *'
+  workflow_dispatch:
+
+jobs:
+  health:
+    name: Submit function health
+    runs-on: ubuntu-latest
+    steps:
+      - name: Poll submit-function health endpoint
+        env:
+          HEALTH_URL: https://concretecomeback.com/api/forms/submit?health=1
+        run: |
+          set -uo pipefail
+
+          # Polls because a push-triggered run races the DigitalOcean deploy.
+          # 20 attempts x 30s = up to 10 minutes.
+          for i in $(seq 1 20); do
+            body=$(curl -fsS --max-time 20 "$HEALTH_URL" || true)
+
+            if printf '%s' "$body" | jq -e \
+              '.ok == true and .hasApiKey == true and .hasNotify == true' >/dev/null 2>&1; then
+              echo "Healthy on attempt $i: $body"
+              exit 0
+            fi
+
+            echo "Attempt $i/20 — not healthy yet: ${body:-<no response>}"
+            sleep 30
+          done
+
+          echo "::error::Submit function health check failed after 20 attempts."
+          echo "Check, in order:"
+          echo "  1. Does the stored DO app spec still have the 'api' component?"
+          echo "     Re-apply with: doctl apps update <app-id> --spec .do/app.yaml"
+          echo "  2. Are RESEND_API_KEY and SUBMIT_NOTIFY_EMAIL set on the api component?"
+          exit 1
+
+      - name: Note on coverage
+        if: success()
+        run: |
+          echo "Route and both secrets are present."
+          echo "A send-only Resend key can only be validated by an actual send —"
+          echo "this check deliberately makes no outbound call."
