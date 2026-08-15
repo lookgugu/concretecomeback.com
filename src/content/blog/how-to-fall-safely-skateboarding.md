@@ -50,6 +50,17 @@ Even a well-executed fall is still a fall, and adult bodies benefit from a beat 
 - **Watch for delayed symptoms.** Some injuries, particularly to the wrist and ribs, don't announce themselves fully until swelling sets in over the following hours. If something still hurts significantly the next morning, see a doctor.
 - **Don't immediately try the same thing again.** It's tempting to get straight back on and prove the fall didn't rattle you. Give yourself a minute to reset first — rushing back in with adrenaline still running is when a second, worse fall tends to happen.
 
+**Get emergency care immediately — don't wait — if you or anyone else notices any of these after a fall:**
+
+- Any hit to the head or neck, especially with confusion, memory gaps, a worsening headache, repeated vomiting, drowsiness, or vision changes
+- Numbness, tingling, or weakness in your arms or legs
+- Visible deformity, or a limb that looks bent or out of place
+- Inability to bear weight on a leg or use an arm at all
+- Trouble breathing, or significant chest or abdominal pain
+- A wound that won't stop bleeding
+
+These are signs of possible concussion, spinal injury, fracture, or dislocation, and none of them are "wait and see if it's better in the morning" situations. Call emergency services or get to an ER right away rather than driving yourself if you're confused, dizzy, or in severe pain.
+
 ## Gear Still Matters
 
 None of this replaces wrist guards, a helmet, and pads. Falling technique reduces the severity and frequency of the worst injuries; gear catches what technique doesn't. Use both. The adults who skate consistently for years, rather than quitting after one bad break, are usually the ones who trained the fall as seriously as they trained the trick.

@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-08-19T13:39:43.465Z
+# Date: 2026-08-19T13:39:43.629Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -551,6 +551,17 @@ Even a well-executed fall is still a fall, and adult bodies benefit from a beat 
 - **Check for sharp, localized pain versus general soreness.** A dull ache across a wide area is usually just impact. A sharp pain concentrated at one point — especially in the wrist, ankle, or collarbone — is worth getting checked rather than pushing through.
 - **Watch for delayed symptoms.** Some injuries, particularly to the wrist and ribs, don't announce themselves fully until swelling sets in over the following hours. If something still hurts significantly the next morning, see a doctor.
 - **Don't immediately try the same thing again.** It's tempting to get straight back on and prove the fall didn't rattle you. Give yourself a minute to reset first — rushing back in with adrenaline still running is when a second, worse fall tends to happen.
+
+**Get emergency care immediately — don't wait — if you or anyone else notices any of these after a fall:**
+
+- Any hit to the head or neck, especially with confusion, memory gaps, a worsening headache, repeated vomiting, drowsiness, or vision changes
+- Numbness, tingling, or weakness in your arms or legs
+- Visible deformity, or a limb that looks bent or out of place
+- Inability to bear weight on a leg or use an arm at all
+- Trouble breathing, or significant chest or abdominal pain
+- A wound that won't stop bleeding
+
+These are signs of possible concussion, spinal injury, fracture, or dislocation, and none of them are "wait and see if it's better in the morning" situations. Call emergency services or get to an ER right away rather than driving yourself if you're confused, dizzy, or in severe pain.
 
 ## Gear Still Matters
 
