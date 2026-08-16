@@ -43,7 +43,7 @@ The core rule in any shared feature — a bowl, a ramp, a line — is simple: on
 
 **Make eye contact or a small nod before dropping in** if there's any ambiguity about whose turn it is. A quick "you good?" or a hand gesture toward the feature works fine. Most skaters will wave you in or signal they're about to go.
 
-**Call it if you're dropping in and someone's in your way.** A simple "heads up" or "dropping in" is normal and expected, not rude. Silence is what causes collisions, not communication.
+**Wait until the feature is actually clear before you drop in.** A verbal "heads up" doesn't make it safe to go while someone else is still riding — it just adds noise to a collision that's about to happen anyway. Once the path is clear and it's genuinely your turn, calling out "dropping in" as you go is normal and expected, and helps anyone nearby track what's happening.
 
 **If you hesitate at the top of a feature, step back rather than freeze there.** Someone waiting behind you assumes you're either going or clearing out. Standing at the entry point undecided is the one thing that actually disrupts flow.
 
