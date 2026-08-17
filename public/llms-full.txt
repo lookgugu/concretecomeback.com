@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-08-19T13:40:28.488Z
+# Date: 2026-08-19T13:40:28.609Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -594,10 +594,10 @@ The basic sequence:
 
 1. **Bend your knees the instant you feel yourself going.** A fall that starts from a low, bent position has less distance to travel and less speed to absorb.
 2. **Tuck your chin to your chest.** This is the single most important habit to build. It keeps your head from being the first thing that makes contact.
-3. **Aim to land on the meaty parts of your body** — the outside of your thigh, your hip, your shoulder — not your hands, elbows, or knees directly.
+3. **Aim to land on the meaty parts of your body** — the outside of your thigh, your glutes, your shoulder — not your hands, elbows, or knees directly. Specifically avoid landing on the bony point of your hip (the greater trochanter): for adults, that's one of the sites a hip fracture actually starts, so a fall that concentrates force there is more dangerous, not less.
 4. **Let the fall continue into a roll** if your speed carries you forward. Rolling dissipates energy instead of stopping it all at once. A fall that ends in a hard stop transfers far more force through your joints than one that rolls out.
 
-This is genuinely learnable through drilling on a soft surface — grass, a gym mat, even a thick patch of carpet at home. Practice falling forward, sideways, and backward from a standing position before you ever need to do it on a board at speed. Your body needs the pattern stored before the moment arrives, because there won't be time to think.
+This is genuinely learnable through drilling, but the surface matters: use grass or a real crash/gym mat, not household carpet, which doesn't absorb enough impact to make repeated practice safe. Start from a crouch rather than full standing height, and ideally get a coach or experienced skater to walk you through it the first time. Practice falling forward, sideways, and backward before you ever need to do it on a board at speed. Your body needs the pattern stored before the moment arrives, because there won't be time to think.
 
 ## Falling on flat ground versus falling on transition
 
@@ -888,7 +888,9 @@ If you already eat oily fish regularly, you may be getting enough. If you don't,
 
 ## Turmeric and curcumin: promising, but check the formulation
 
-Curcumin, the active compound in turmeric, has real anti-inflammatory research behind it. The catch is bioavailability — curcumin on its own is poorly absorbed by the body. Formulations that pair it with black pepper extract (piperine) or use a bioavailability-enhanced form absorb dramatically better than plain turmeric powder or cheap capsules. If you're trying curcumin, the formulation matters as much as the ingredient.
+Curcumin, the active compound in turmeric, has real anti-inflammatory research behind it. The catch is bioavailability — curcumin on its own is poorly absorbed by the body. Formulations that pair it with black pepper extract (piperine) or use a bioavailability-enhanced form absorb dramatically better than plain turmeric powder or cheap capsules.
+
+That better absorption isn't a free upgrade, though. Piperine can change how your body processes a range of common medications, and high-bioavailability curcumin has been linked to rare but serious liver injury in case reports. If you're on any regular medication, check with your doctor or pharmacist before adding an enhanced-absorption curcumin product specifically — and stop and see a doctor if you notice symptoms like unusual fatigue, yellowing skin or eyes, or dark urine after starting one.
 
 ## What's mostly hype
 

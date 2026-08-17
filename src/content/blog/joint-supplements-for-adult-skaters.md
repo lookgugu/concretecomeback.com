@@ -40,7 +40,9 @@ If you already eat oily fish regularly, you may be getting enough. If you don't,
 
 ## Turmeric and curcumin: promising, but check the formulation
 
-Curcumin, the active compound in turmeric, has real anti-inflammatory research behind it. The catch is bioavailability — curcumin on its own is poorly absorbed by the body. Formulations that pair it with black pepper extract (piperine) or use a bioavailability-enhanced form absorb dramatically better than plain turmeric powder or cheap capsules. If you're trying curcumin, the formulation matters as much as the ingredient.
+Curcumin, the active compound in turmeric, has real anti-inflammatory research behind it. The catch is bioavailability — curcumin on its own is poorly absorbed by the body. Formulations that pair it with black pepper extract (piperine) or use a bioavailability-enhanced form absorb dramatically better than plain turmeric powder or cheap capsules.
+
+That better absorption isn't a free upgrade, though. Piperine can change how your body processes a range of common medications, and high-bioavailability curcumin has been linked to rare but serious liver injury in case reports. If you're on any regular medication, check with your doctor or pharmacist before adding an enhanced-absorption curcumin product specifically — and stop and see a doctor if you notice symptoms like unusual fatigue, yellowing skin or eyes, or dark urine after starting one.
 
 ## What's mostly hype
 
