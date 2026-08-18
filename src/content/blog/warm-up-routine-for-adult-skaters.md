@@ -32,7 +32,7 @@ Stand with your feet hip-width apart. Rock slowly from your toes to your heels t
 
 ### 2. Wrist circles and extensions (1 minute)
 
-Wrists get almost no attention in most warm-up routines, which is a mistake — they're the joint most likely to take the full force of a fall. Circle each wrist ten times in both directions, then gently extend each hand back (like you're pushing against a wall) and hold for ten seconds. This isn't about strength, it's about getting the joint used to being loaded before you're relying on it to brace a fall.
+Wrists get almost no attention in most warm-up routines, which is a mistake — they're one of the joints most commonly injured when adults skate. Circle each wrist ten times in both directions, then gently extend each hand back (like you're pushing against a wall) and hold for ten seconds. This is mobility work, not fall preparation: the goal is a wrist that moves freely under your wrist guards, not a wrist you're training to catch yourself with. Actually bracing a fall by extending your wrist is how fractures happen — practice falling safely instead, and let your wrist guards do the job they're designed for.
 
 ### 3. Hip circles and leg swings (2 minutes)
 
