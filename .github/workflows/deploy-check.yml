@@ -1,0 +1,89 @@
+name: Post-deploy smoke test
+
+# DigitalOcean auto-deploys on push to main. This confirms the deployed app can
+# actually reach the submit function — the failure mode documented in CLAUDE.md,
+# where the stored app spec drifts and /api returns "Couldn't route the request".
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    # Daily at 13:00 UTC — catches drift from control-panel edits, not just deploys.
+    - cron: '0 13 * * *'
+  workflow_dispatch:
+
+jobs:
+  health:
+    name: Submit function health
+    runs-on: ubuntu-latest
+    steps:
+      # On push, production is still serving the PREVIOUS deploy and is already
+      # healthy — probing straight away would pass without ever testing the new
+      # build. `npm run build` stamps public/llms-full.txt with its start time, so
+      # a stamp newer than this run proves the pushed deploy is the one live.
+      - name: Wait for the pushed deployment to go live
+        if: github.event_name == 'push'
+        env:
+          BUILD_STAMP_URL: https://concretecomeback.com/llms-full.txt
+        run: |
+          set -uo pipefail
+          started=$(date -u +%s)
+          echo "Run started at $(date -u -d "@$started" --iso-8601=seconds)"
+
+          for i in $(seq 1 30); do
+            raw=$(curl -fsS --max-time 20 "$BUILD_STAMP_URL" 2>/dev/null \
+                  | sed -n 's/^# Date: //p' | head -1 | tr -d '\r')
+            # Trim fractional seconds so GNU date parses it reliably.
+            stamp=$(printf '%s' "$raw" | sed 's/\.[0-9]*Z$/Z/')
+
+            if [ -n "$stamp" ]; then
+              built=$(date -u -d "$stamp" +%s 2>/dev/null || echo 0)
+              if [ "$built" -ge "$started" ]; then
+                echo "Pushed deploy is live (built $stamp)"
+                exit 0
+              fi
+              echo "Attempt $i/30 — still serving the previous build ($stamp)"
+            else
+              echo "Attempt $i/30 — no build stamp in response yet"
+            fi
+            sleep 20
+          done
+
+          echo "::error::Timed out after 10 minutes waiting for the pushed deploy to go live."
+          echo "The health check below was NOT run against the new build."
+          exit 1
+
+      - name: Poll submit-function health endpoint
+        env:
+          HEALTH_URL: https://concretecomeback.com/api/forms/submit?health=1
+        run: |
+          set -uo pipefail
+
+          # Scheduled/manual runs probe whatever is currently deployed. Push runs
+          # reach here only after the step above confirmed the new build is live.
+          for i in $(seq 1 10); do
+            body=$(curl -fsS --max-time 20 "$HEALTH_URL" || true)
+
+            if printf '%s' "$body" | jq -e \
+              '.ok == true and .hasApiKey == true and .hasNotify == true' >/dev/null 2>&1; then
+              echo "Healthy on attempt $i: $body"
+              exit 0
+            fi
+
+            echo "Attempt $i/10 — not healthy yet: ${body:-<no response>}"
+            sleep 15
+          done
+
+          echo "::error::Submit function health check failed."
+          echo "Check, in order:"
+          echo "  1. Does the stored DO app spec still have the 'api' component?"
+          echo "     Re-apply with: doctl apps update <app-id> --spec .do/app.yaml"
+          echo "  2. Are RESEND_API_KEY and SUBMIT_NOTIFY_EMAIL set on the api component?"
+          exit 1
+
+      - name: Note on coverage
+        if: success()
+        run: |
+          echo "Route and both secrets are present."
+          echo "A send-only Resend key can only be validated by an actual send —"
+          echo "this check deliberately makes no outbound call."
