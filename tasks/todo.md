@@ -60,3 +60,20 @@ Final form crawls a real `astro preview` server and skips only non-localhost URL
   Tighten once there is a baseline.
 - Neither workflow has executed on GitHub. YAML parses and every shell step was run locally,
   but runner behaviour (backgrounded `astro preview` surviving between steps) is unproven.
+
+## Post-review fix (Codex, PR #11)
+
+Codex flagged a P1 in `deploy-check.yml` and was right: on push, production is still
+serving the *previous* deploy and is already healthy, so the first probe returned 200 and
+the job exited green without ever testing the new build. A deploy that dropped the `/api`
+route or lost its secrets would have gone unnoticed.
+
+Same false-green class as the link-checker bug above — a check that passes without checking.
+
+Fix gates the health probe behind proof that the pushed deploy is actually live:
+`npm run build` stamps `public/llms-full.txt` with its start time, so the workflow polls
+that stamp and only proceeds once it is newer than the run itself. No DigitalOcean API
+token needed.
+
+Verified: the live stamp (`2026-08-12T04:02:00Z`, the PR #4 deploy) is correctly detected
+as stale against the current time.
