@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-08-19T09:07:24.846Z
+# Date: 2026-08-19T09:11:27.692Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -544,7 +544,9 @@ If you're not already wearing wrist guards every session, that's the first and e
 
 You can build the reflex before you ever need it on a skateboard.
 
-**Practice on grass or a mat.** Standing falls — forward, backward, sideways — onto a soft surface let you rehearse tucking your arms and turning into a roll without the speed and consequence of an actual skating fall. Do this slowly and deliberately a few times before your next session.
+**Practice on grass or a mat — and treat each direction separately.** Forward and sideways falls are the ones where tucking your arms and rolling onto a shoulder applies most directly. Backward falls are a different problem: the main risk isn't your wrist, it's the back of your head or your tailbone, so the priority is tucking your chin to your chest and rounding your spine so you roll across your back rather than letting your head snap back and hit the ground. Don't drill backward falls at speed or without this chin-tuck cue specifically in mind.
+
+A few slow, deliberate reps on a soft surface are useful for building general body awareness, but this is genuinely easier to learn correctly from a qualified instructor or a skate-specific falling clinic than from a written description — get in-person guidance before you rehearse this hard, especially for backward falls.
 
 **Rehearse the "let go" moment.** If you're used to catching yourself with a stiff arm, spend a few minutes consciously practicing the opposite: as you start to lose balance, bend the elbows immediately rather than extending them. This sounds simple and is surprisingly hard to override once you're actually falling for real — which is exactly why it needs rehearsal beforehand, not in the moment.
 
