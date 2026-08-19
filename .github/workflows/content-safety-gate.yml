@@ -34,12 +34,26 @@ jobs:
           OWNER: ${{ github.repository_owner }}
           REPO: ${{ github.event.repository.name }}
           PR: ${{ github.event.pull_request.number }}
+          # Exact login, not a substring match: a regex like /codex/i would let any
+          # account whose name merely contains "codex" satisfy the gate.
+          # NB: GraphQL returns the bare login; REST appends "[bot]". This query is
+          # GraphQL, so the bare form is correct — the REST form matches nothing and
+          # would block every blog PR forever.
+          REVIEWER: 'chatgpt-codex-connector'
         run: |
-          set -uo pipefail
+          # -e matters here: this gate must fail closed. Without it an empty or
+          # failed API response yields an empty integer, the comparison errors,
+          # the branch is skipped, and the script exits 0 — a green gate that
+          # checked nothing.
+          set -euo pipefail
 
-          # Only blog content is gated. The job still runs on every PR so it can be
-          # a required check — a required check that never runs blocks a PR forever.
-          files=$(gh api "repos/$OWNER/$REPO/pulls/$PR/files" --paginate --jq '.[].filename')
+          die() { echo "::error::$1"; exit 1; }
+          is_int() { case "${1:-}" in ''|*[!0-9]*) return 1 ;; *) return 0 ;; esac }
+
+          files=$(gh api "repos/$OWNER/$REPO/pulls/$PR/files" --paginate --jq '.[].filename') \
+            || die "Could not list PR files. Failing closed."
+          [ -n "$files" ] || die "PR file list came back empty. Failing closed."
+
           if ! printf '%s\n' "$files" | grep -q '^src/content/blog/'; then
             echo "No files under src/content/blog/ — safety review not required."
             exit 0
@@ -54,23 +68,46 @@ jobs:
               repository(owner:$owner,name:$repo){
                 pullRequest(number:$pr){
                   headRefOid
-                  reviews(last:50){ nodes { author{login} commit{oid} } }
-                  reviewThreads(last:100){ nodes { isResolved comments(first:1){ nodes { author{login} body } } } }
-                  comments(last:50){ nodes { author{login} body } }
+                  reviews(last:100){ totalCount nodes { author{login __typename} commit{oid} state } }
+                  reviewThreads(last:100){ totalCount nodes { isResolved comments(first:1){ nodes { body } } } }
+                  comments(last:100){ totalCount nodes { author{login __typename} body } }
                 }
               }
-            }')
+            }') || die "GraphQL query failed. Failing closed."
 
-          pr_json=$(printf '%s' "$data" | jq '.data.repository.pullRequest')
-          head=$(printf '%s' "$pr_json" | jq -r '.headRefOid')
-          reviewed=$(printf '%s' "$pr_json" | jq --arg h "$head" \
-            '[.reviews.nodes[] | select(.author.login|test("codex";"i")) | select(.commit.oid==$h)] | length')
-          limited=$(printf '%s' "$pr_json" | jq \
-            '[.comments.nodes[] | select(.author.login|test("codex";"i")) | select(.body|test("usage limits";"i"))] | length')
+          # GraphQL reports partial failures in-band with HTTP 200.
+          if printf '%s' "$data" | jq -e 'has("errors")' >/dev/null 2>&1; then
+            die "GraphQL returned errors: $(printf '%s' "$data" | jq -c '.errors')"
+          fi
+
+          pr_json=$(printf '%s' "$data" | jq -e '.data.repository.pullRequest') \
+            || die "Could not read pull request from response. Failing closed."
+          head=$(printf '%s' "$pr_json" | jq -re '.headRefOid') \
+            || die "Could not read head commit. Failing closed."
+
+          # Silent truncation would undercount unresolved findings, so refuse to guess.
+          for conn in reviews reviewThreads comments; do
+            total=$(printf '%s' "$pr_json" | jq -r --arg c "$conn" '.[$c].totalCount')
+            fetched=$(printf '%s' "$pr_json" | jq -r --arg c "$conn" '.[$c].nodes | length')
+            is_int "$total" && is_int "$fetched" || die "Bad counts for $conn. Failing closed."
+            [ "$total" -le "$fetched" ] || die "$conn truncated ($fetched of $total). Failing closed."
+          done
+
+          # DISMISSED reviews must not count as coverage.
+          reviewed=$(printf '%s' "$pr_json" | jq --arg h "$head" --arg r "$REVIEWER" \
+            '[.reviews.nodes[] | select(.author.login == $r and .author.__typename == "Bot") | select(.state != "DISMISSED") | select(.commit.oid == $h)] | length')
+          limited=$(printf '%s' "$pr_json" | jq --arg r "$REVIEWER" \
+            '[.comments.nodes[] | select(.author.login == $r and .author.__typename == "Bot") | select(.body|test("usage limits";"i"))] | length')
+          # Deliberately broad: if the badge format changes, a stray match blocks
+          # (safe) whereas a missed match would pass unreviewed findings (unsafe).
           open_p1=$(printf '%s' "$pr_json" | jq \
             '[.reviewThreads.nodes[] | select(.isResolved|not) | select(.comments.nodes[0].body|test("P1"))] | length')
           open_p2=$(printf '%s' "$pr_json" | jq \
             '[.reviewThreads.nodes[] | select(.isResolved|not) | select(.comments.nodes[0].body|test("P2"))] | length')
+
+          for v in reviewed limited open_p1 open_p2; do
+            is_int "$(eval echo \$$v)" || die "Non-numeric result for $v. Failing closed."
+          done
 
           echo "head=$head reviewed_at_head=$reviewed unresolved_P1=$open_p1 unresolved_P2=$open_p2"
           echo
@@ -81,7 +118,6 @@ jobs:
             failed=1
             if [ "$limited" -gt 0 ]; then
               echo "::error::Safety reviewer was rate-limited — this health content is UNREVIEWED."
-              echo "The reviewer hit its usage quota, so nothing checked this copy."
             else
               echo "::error::No safety review of the current commit ($head)."
               echo "Either the PR was never reviewed, or content changed after review —"
@@ -101,5 +137,5 @@ jobs:
             echo "::warning::$open_p2 unresolved P2 finding(s) — not blocking."
           fi
 
-          if [ "$failed" -eq 1 ]; then exit 1; fi
+          [ "$failed" -eq 0 ] || exit 1
           echo "Safety review is current and no P1 findings are open."
