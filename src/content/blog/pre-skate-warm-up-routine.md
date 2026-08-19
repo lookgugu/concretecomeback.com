@@ -22,7 +22,7 @@ This is the "prehab" logic that's become standard advice in sports medicine: pre
 
 ## The 10-minute routine
 
-Do this before you put your foot on the board, ideally right after you arrive at the park while you're still in street shoes.
+Do the first eight minutes before you put your foot on the board, ideally right after you arrive at the park while you're still in street shoes. Change into your skate shoes before the final two minutes, once you're ready to step on the board.
 
 ### Minutes 0–2: Get blood moving
 
@@ -42,7 +42,7 @@ Wrist circles and gentle wrist flexion/extension stretches, both directions. A f
 
 ### Minutes 8–10: First pushes
 
-Step on the board on flat, open ground and just push and glide, gently, for the last two minutes. No tricks, no features, nothing that requires commitment. This is where your nervous system reconnects with balance and board feel before you ask more of it.
+Change into your skate shoes, step on the board on flat, open ground, and just push and glide, gently, for the last two minutes. No tricks, no features, nothing that requires commitment. This is where your nervous system reconnects with balance and board feel before you ask more of it.
 
 ## Prehab, not rehab
 
@@ -55,7 +55,7 @@ This is also where off-board work pays off over time. Regular hip and ankle mobi
 The routine only works if you actually do it, every session, not just on days you remember. A few ways to make that more likely:
 
 - Do it in the same order every time so it becomes automatic rather than something you have to think through
-- Do it in your street shoes before you change into skate shoes — it creates a natural transition point
+- Do the first eight minutes in your street shoes, then change into skate shoes for the final two — the shoe change creates a natural transition point into skating
 - Skip nothing on days you're tempted to skip everything. A rushed two-minute version of this routine beats none of it.
 
 Ten minutes is a small ask against everything a season of skating gives you back. Treat it as non-negotiable, the same way you treat your helmet.
