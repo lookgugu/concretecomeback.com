@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-08-18T09:10:04.711Z
+# Date: 2026-08-19T13:37:40.660Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -1294,11 +1294,33 @@ The community is there. The terrain is improving. The only thing between you and
 ============================================================
 
 
+### Baden Powell Skatepark
+A destination-scale concrete park in Melbourne's west, completed in 2016, built around an open bowl with ramps, rails and a street section alongside. The open sightlines make it easy to judge where the traffic is before dropping in, which is a genuine advantage for anyone nervous about getting in the way.
+Location: Tarneit, Victoria, AU
+
+One of the newer builds in the western suburbs, so the concrete is in good condition. The street section away from the bowl is the sensible place to start if your transition skills are still coming back.
+
+
 ### Bondi Beach Skatepark
 A compact but well-designed concrete park perched above Bondi Beach, with a flowing bowl, mellow street section, and one of the best views from any skate park in Australia. The atmosphere is friendly and the park draws a mix of locals of all ages. Morning sessions are popular with adult skaters before the beach crowds arrive.
 Location: Sydney, New South Wales, AU
 
 Bondi Skatepark is one of the most welcoming parks in Sydney for adult skaters. The bowl is moderate depth and suited to skaters building bowl confidence, the flatground is smooth and spacious, and the location above the beach adds to the appeal of an early morning session.
+
+
+### Box Hill Skatepark
+A consistently well-regarded concrete park in Melbourne's eastern suburbs, combining bowls with quarters, banks and rails on a notably smooth surface. The flow between sections is the draw — long linked lines rather than isolated obstacles, which suits riders rebuilding confidence through repetition.
+Location: Melbourne, Victoria, AU
+
+The smooth concrete makes a real difference if you are coming back to skating on older ankles and knees. Quieter on weekday mornings, before school and after-work sessions fill the bowls.
+
+
+### Ashbridges Bay Skatepark
+Toronto's largest outdoor concrete skatepark, sitting right on the lake at Ashbridges Bay Park near Coxwell Avenue. The size allows a genuine split between street terrain and flowing transition, so a returning skater can work on flatground and banks in one area while more advanced locals use the deeper sections.
+Location: Toronto, Ontario, CA
+Website: https://www.toronto.ca/explore-enjoy/parks-recreation/places-spaces/parks-and-recreation-facilities/location/?id=1&title=Ashbridges-Bay-Park
+
+Being on the waterfront makes this an easy sell if you are bringing family along — the beach and the Martin Goodman Trail are right there. Lakeside wind can be a factor; mornings tend to be calmer as well as quieter.
 
 
 ### Hastings Skatepark
@@ -1307,6 +1329,14 @@ Location: Vancouver, British Columbia, CA
 Website: https://vancouver.ca/parks-recreation-culture/hastings-skatepark.aspx
 
 Hastings is one of Vancouver's most popular parks and one of the more adult-welcoming. The park's diverse layout means you can find areas that suit your skill level — the mellow transition sections and flatground plazas are accessible to returning skaters while the stairs and rails serve more experienced riders.
+
+
+### Hengrove Park Wheels Park
+A large free concrete wheels park in south Bristol, mixing street elements with flowing transition across a single smooth expanse. Bristol City Council keeps it open at all hours with no admission charge, and the spread of terrain means quieter corners are usually available even when the middle is busy.
+Location: Bristol, UK
+Website: https://www.bristol.gov.uk/residents/museums-parks-sports-and-culture/parks-and-open-spaces/parks-and-estates/hengrove-park
+
+Free and always open, so you can pick your moment — early mornings are the calmest for anyone self-conscious about starting again. The smooth surface is forgiving on older joints compared with rougher council parks.
 
 
 ### House of Vans London
@@ -1340,6 +1370,14 @@ Location: Chicago, Illinois, US
 Grant Park Skate Park is one of the best options for adult beginners in the Chicago area. The layout avoids steep drops and deep bowls, focusing on flowing, navigable terrain that builds confidence without demanding high-level skills.
 
 
+### Denver Skatepark
+One of the largest free public skateparks in the United States, spread over roughly 60,000 square feet next to the South Platte River in downtown Denver. The scale is the point: bowls, transitions, and a big street section sit far enough apart that beginners can work a quiet corner without holding anyone up, which makes it far less intimidating than its reputation suggests.
+Location: Denver, Colorado, US
+Website: https://denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Parks-Recreation/Planning-Design-Construction-Community-Engagement/Park-Facility-Projects/Downtown-Skate-Park
+
+The sheer size works in a returning skater's favour — there is almost always an underused corner to practise in. Weekday mornings are quietest. The street section's smaller ledges and flat banks are the friendliest starting point; the deeper bowls are best left until your transition confidence is back.
+
+
 ### Heath Eiland & Morgan Moss Skate Park
 Austin's flagship 30,000 sq ft skate park in the heart of the city, designed by New Line Skateparks. A large flowing bowl takes up a third of the park, alongside an expansive street plaza, banks, rails, and a unique skateable public art piece. Shade structures make midday sessions bearable in the Texas heat. The park draws a wide age range — weekday mornings consistently attract adult skaters in their 30s, 40s, and 50s who have the run of the place before the after-school crowd arrives.
 Location: Austin, Texas, US
@@ -1350,6 +1388,14 @@ Heath Eiland & Morgan Moss is the park that put Austin on the map for adult skat
 The park is free, maintained by Austin Parks and Recreation, and has real facilities: shade structures, a restroom, and good parking. Mornings before 9am are the sweet spot — the park is quiet, the concrete is cool, and the crowd skews older.
 
 
+### Lower Woodland Skatepark
+Seattle's flagship public skatepark, tucked into Lower Woodland Park near Green Lake. Designed by Wally Hollyday, it pairs two bowls with a mini ramp and a large street area, so groups of mixed ability can spread out instead of queueing for the same feature. Free, floodlit surroundings, and open around the clock.
+Location: Seattle, Washington, US
+Website: https://www.seattle.gov/parks/parks/woodland-park
+
+The separate street area is what makes this one work for adults easing back in — you can spend an hour on flatground and small ledges well away from the bowl traffic. Plenty of parking, and the Green Lake path right there if you are bringing family who would rather walk than skate.
+
+
 ### Mabel Davis Skate Park
 Austin's original skate park, opened in 2005 inside Mabel Davis District Park in South Austin. A 12,000 sq ft concrete park with a mellow bowl, smooth banks, and streetscape elements. The smaller scale and beginner-friendly layout make it one of the best spots in Austin for adult skaters returning to the sport — it's never as crowded as Shoal Creek and the terrain rewards progression at a comfortable pace. A grass seating area around the park is good for warming up, stretching, or watching.
 Location: Austin, Texas, US
@@ -1358,6 +1404,14 @@ Website: https://www.austintexas.gov/parks/locations/skate-parks
 Mabel Davis is the quieter, more laid-back cousin of the Shoal Creek park. Its smaller size and mellower terrain make it a better first stop for returning adult skaters who want to rebuild fundamentals without the pressure of a big, busy park. The bowl is manageable, the flatground is smooth, and the whole place has a neighborhood park feel — local, unhurried, and welcoming.
 
 South Austin location means less traffic than the centrally located Shoal Creek park, and the surrounding Mabel Davis District Park gives you plenty of space to warm up before stepping onto concrete.
+
+
+### Robb Field Skatepark
+Roughly 40,000 square feet of concrete in Ocean Beach, and the first skatepark built and maintained by the City of San Diego. The layout covers a wide spread of terrain, from mellow banks and flatground through to deeper transition, which is why it stays busy with a genuinely mixed-age crowd rather than just teenagers.
+Location: San Diego, California, US
+Website: https://www.sandiego.gov/park-and-recreation/parks/regional/robbfield
+
+Helmets are required at San Diego city skateparks, so bring one. The perimeter flatground and banks are the easiest entry point; go earlier in the day to avoid the after-school rush.
 
 
 ### Venice Beach Skate Park
