@@ -1,0 +1,105 @@
+name: Content safety gate
+
+# Blog posts here give injury, technique and supplement advice to adults over 40 —
+# YMYL content where a plausible-sounding error can hurt someone. Automated review
+# has already caught P1s like "aim to land on your hip" (the greater trochanter is
+# where a hip fracture starts) and curcumin advice with no drug-interaction warning.
+#
+# This gate makes that review mandatory rather than best-effort, and fails closed
+# when the reviewer is unavailable — on 2026-08-14 it was rate-limited and safety
+# content shipped unreviewed.
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, ready_for_review]
+  pull_request_review:
+    types: [submitted, dismissed]
+
+permissions:
+  contents: read
+  pull-requests: read
+
+concurrency:
+  group: safety-gate-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  gate:
+    name: Safety review of health content
+    runs-on: ubuntu-latest
+    steps:
+      - name: Require an up-to-date safety review
+        env:
+          GH_TOKEN: ${{ github.token }}
+          OWNER: ${{ github.repository_owner }}
+          REPO: ${{ github.event.repository.name }}
+          PR: ${{ github.event.pull_request.number }}
+        run: |
+          set -uo pipefail
+
+          # Only blog content is gated. The job still runs on every PR so it can be
+          # a required check — a required check that never runs blocks a PR forever.
+          files=$(gh api "repos/$OWNER/$REPO/pulls/$PR/files" --paginate --jq '.[].filename')
+          if ! printf '%s\n' "$files" | grep -q '^src/content/blog/'; then
+            echo "No files under src/content/blog/ — safety review not required."
+            exit 0
+          fi
+
+          echo "Blog content touched:"
+          printf '%s\n' "$files" | grep '^src/content/blog/' | sed 's/^/  /'
+          echo
+
+          data=$(gh api graphql -F owner="$OWNER" -F repo="$REPO" -F pr="$PR" -f query='
+            query($owner:String!,$repo:String!,$pr:Int!){
+              repository(owner:$owner,name:$repo){
+                pullRequest(number:$pr){
+                  headRefOid
+                  reviews(last:50){ nodes { author{login} commit{oid} } }
+                  reviewThreads(last:100){ nodes { isResolved comments(first:1){ nodes { author{login} body } } } }
+                  comments(last:50){ nodes { author{login} body } }
+                }
+              }
+            }')
+
+          pr_json=$(printf '%s' "$data" | jq '.data.repository.pullRequest')
+          head=$(printf '%s' "$pr_json" | jq -r '.headRefOid')
+          reviewed=$(printf '%s' "$pr_json" | jq --arg h "$head" \
+            '[.reviews.nodes[] | select(.author.login|test("codex";"i")) | select(.commit.oid==$h)] | length')
+          limited=$(printf '%s' "$pr_json" | jq \
+            '[.comments.nodes[] | select(.author.login|test("codex";"i")) | select(.body|test("usage limits";"i"))] | length')
+          open_p1=$(printf '%s' "$pr_json" | jq \
+            '[.reviewThreads.nodes[] | select(.isResolved|not) | select(.comments.nodes[0].body|test("P1"))] | length')
+          open_p2=$(printf '%s' "$pr_json" | jq \
+            '[.reviewThreads.nodes[] | select(.isResolved|not) | select(.comments.nodes[0].body|test("P2"))] | length')
+
+          echo "head=$head reviewed_at_head=$reviewed unresolved_P1=$open_p1 unresolved_P2=$open_p2"
+          echo
+
+          failed=0
+
+          if [ "$reviewed" -eq 0 ]; then
+            failed=1
+            if [ "$limited" -gt 0 ]; then
+              echo "::error::Safety reviewer was rate-limited — this health content is UNREVIEWED."
+              echo "The reviewer hit its usage quota, so nothing checked this copy."
+            else
+              echo "::error::No safety review of the current commit ($head)."
+              echo "Either the PR was never reviewed, or content changed after review —"
+              echo "edits to safety copy must themselves be reviewed."
+            fi
+            echo "Fix: comment '@codex review' on this PR, then re-run."
+          fi
+
+          if [ "$open_p1" -gt 0 ]; then
+            failed=1
+            echo "::error::$open_p1 unresolved P1 safety finding(s)."
+            echo "Address each, then mark its conversation Resolved. Replying is not enough —"
+            echo "resolution is the deliberate human checkpoint for health content."
+          fi
+
+          if [ "$open_p2" -gt 0 ]; then
+            echo "::warning::$open_p2 unresolved P2 finding(s) — not blocking."
+          fi
+
+          if [ "$failed" -eq 1 ]; then exit 1; fi
+          echo "Safety review is current and no P1 findings are open."
