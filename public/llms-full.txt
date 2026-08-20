@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-08-20T09:20:01.438Z
+# Date: 2026-08-20T09:24:39.675Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -1037,7 +1037,7 @@ This matters practically because osteoporosis doesn't announce itself. It's freq
 
 Bone is living tissue that responds to mechanical stress in a fairly direct way: load it, and it adapts by getting stronger, much like a muscle responds to resistance training. This is sometimes called Wolff's Law, and it's the basic mechanism behind why weight-bearing exercise is recommended for bone health, and why non-impact activities like swimming or cycling — genuinely excellent for cardiovascular fitness — don't carry the same bone-density benefit.
 
-Research reviewed by the International Osteoporosis Foundation points to moderate-to-high intensity weight-bearing aerobic activity, high-intensity resistance training, and high-impact exercise as the categories most associated with measurably supporting bone mineral density in both pre- and postmenopausal women. The general guidance for postmenopausal women specifically is to combine weight-bearing aerobic activity with resistance training at least weekly.
+Research reviewed by the International Osteoporosis Foundation points to moderate-to-high intensity weight-bearing aerobic activity, high-intensity resistance training, and high-impact exercise as the categories most associated with measurably supporting bone mineral density in both pre- and postmenopausal women. General guidance for postmenopausal women specifically calls for weight-bearing aerobic activity on most days of the week, plus resistance training on top of that — not a single combined session. Talk to your doctor or a physical therapist about what frequency is right for you.
 
 ## Where skateboarding actually fits
 
@@ -1485,7 +1485,7 @@ None of this is a reason to hold back. It's a reason to be honest about what you
 
 ## What actually changes across the decade
 
-**Recovery speed.** This is the big one, and it doesn't move at a steady, predictable rate. Most people notice a real step-change somewhere in their late 40s to early 50s, not a gentle slope from 40 onward. A hard fall or a heavy session that cost you a day of soreness at 42 might cost you two or three by 51. This isn't decline for its own sake — it's your body needing more time to repair the same amount of stress.
+**Recovery speed.** This is the big one, though it doesn't move on a fixed schedule — how fast you bounce back depends on training history, sleep, general health, and plenty else beyond your birthday. What's common enough to plan around is that recovery time trends slower as the decade goes on, and for many people it doesn't move in a smooth, gentle slope — it can feel more like a series of step-changes than a steady decline. A hard fall or a heavy session that cost you a day of soreness a few years back might cost you two or three now. This isn't decline for its own sake — it's your body needing more time to repair the same amount of stress. Pay attention to your own pattern rather than assuming a specific age is when it'll hit.
 
 **Proprioception and reaction time.** Your sense of where your body is in space, and how fast you can respond to an unexpected wobble, both decline gradually with age. At 42 this is barely noticeable. By the early 50s, it's often enough that a catch you'd have made automatically now takes conscious effort, or doesn't happen in time. This is exactly why balance-heavy, low-consequence practice matters more the further into the decade you get, not less.
 

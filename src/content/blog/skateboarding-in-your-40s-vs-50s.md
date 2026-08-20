@@ -16,7 +16,7 @@ None of this is a reason to hold back. It's a reason to be honest about what you
 
 ## What actually changes across the decade
 
-**Recovery speed.** This is the big one, and it doesn't move at a steady, predictable rate. Most people notice a real step-change somewhere in their late 40s to early 50s, not a gentle slope from 40 onward. A hard fall or a heavy session that cost you a day of soreness at 42 might cost you two or three by 51. This isn't decline for its own sake — it's your body needing more time to repair the same amount of stress.
+**Recovery speed.** This is the big one, though it doesn't move on a fixed schedule — how fast you bounce back depends on training history, sleep, general health, and plenty else beyond your birthday. What's common enough to plan around is that recovery time trends slower as the decade goes on, and for many people it doesn't move in a smooth, gentle slope — it can feel more like a series of step-changes than a steady decline. A hard fall or a heavy session that cost you a day of soreness a few years back might cost you two or three now. This isn't decline for its own sake — it's your body needing more time to repair the same amount of stress. Pay attention to your own pattern rather than assuming a specific age is when it'll hit.
 
 **Proprioception and reaction time.** Your sense of where your body is in space, and how fast you can respond to an unexpected wobble, both decline gradually with age. At 42 this is barely noticeable. By the early 50s, it's often enough that a catch you'd have made automatically now takes conscious effort, or doesn't happen in time. This is exactly why balance-heavy, low-consequence practice matters more the further into the decade you get, not less.
 

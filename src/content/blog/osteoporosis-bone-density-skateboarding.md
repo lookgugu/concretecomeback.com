@@ -24,7 +24,7 @@ This matters practically because osteoporosis doesn't announce itself. It's freq
 
 Bone is living tissue that responds to mechanical stress in a fairly direct way: load it, and it adapts by getting stronger, much like a muscle responds to resistance training. This is sometimes called Wolff's Law, and it's the basic mechanism behind why weight-bearing exercise is recommended for bone health, and why non-impact activities like swimming or cycling — genuinely excellent for cardiovascular fitness — don't carry the same bone-density benefit.
 
-Research reviewed by the International Osteoporosis Foundation points to moderate-to-high intensity weight-bearing aerobic activity, high-intensity resistance training, and high-impact exercise as the categories most associated with measurably supporting bone mineral density in both pre- and postmenopausal women. The general guidance for postmenopausal women specifically is to combine weight-bearing aerobic activity with resistance training at least weekly.
+Research reviewed by the International Osteoporosis Foundation points to moderate-to-high intensity weight-bearing aerobic activity, high-intensity resistance training, and high-impact exercise as the categories most associated with measurably supporting bone mineral density in both pre- and postmenopausal women. General guidance for postmenopausal women specifically calls for weight-bearing aerobic activity on most days of the week, plus resistance training on top of that — not a single combined session. Talk to your doctor or a physical therapist about what frequency is right for you.
 
 ## Where skateboarding actually fits
 
