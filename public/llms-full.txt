@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-08-20T09:30:07.484Z
+# Date: 2026-08-20T09:34:16.119Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -590,7 +590,7 @@ That visibility did something specific to the culture. When a sport is niche and
 
 The practical effect is that you're now sharing sessions with a much wider range of people than skate culture's old reputation would suggest: kids there because they watched the Olympics, parents who came to support their kids and got hooked themselves, and a genuinely large and growing population of adults skating for the first time or coming back after decades away. None of that was really true of the average park in 1998. It's common now.
 
-This doesn't mean gatekeeping has vanished everywhere — culture varies park to park, and a session dominated by advanced riders on a small feature can still feel intimidating regardless of the sport's broader reputation. But the baseline has moved. Adult beginners are no longer an anomaly that needs explaining. If you want to shortcut past whatever variance still exists at your local park, this site's guides on finding other adult skaters and on inclusive, all-ages park design are good next reads — they'll point you toward the specific spaces where the shift described here is most visible.
+This doesn't mean gatekeeping has vanished everywhere — culture varies park to park, and a session dominated by advanced riders on a small feature can still feel intimidating regardless of the sport's broader reputation. But the baseline has moved. Adult beginners are no longer an anomaly that needs explaining. If you want to shortcut past whatever variance still exists at your local park, this site's guides on [finding other adult skaters](/blog/finding-other-adult-skaters/) and on [inclusive, all-ages park design](/blog/inclusive-skateparks-all-ages/) are good next reads — they'll point you toward the specific spaces where the shift described here is most visible.
 
 ## What actually hasn't changed
 
@@ -1495,7 +1495,7 @@ None of this is a reason to hold back. It's a reason to be honest about what you
 
 ## Skating in your 40s
 
-If you're early-to-mid 40s, you likely still have a fair amount of the recovery capacity you had a decade earlier, even if it doesn't feel that way some mornings. This is a good window for building a real base: learning to fall properly, getting comfortable with transitions, putting in the session volume that builds actual skill rather than just maintaining what you've got. Push a little. This is also the right window to drill falling technique deliberately, the way this site's guide to [falling safely after 40](/blog/how-to-fall-safely-after-40/) lays out: on grass or a real crash/gym mat, never bare ground or carpet, starting from a low crouch rather than full standing height, and ideally with a coach or experienced skater walking you through it the first time. You have more margin here than you will in ten years, and it's worth using it — on a padded surface, not on the deck.
+If you're early-to-mid 40s, this is a good window for building a real base: learning to fall properly, getting comfortable with transitions, putting in the session volume that builds actual skill rather than just maintaining what you've got — as long as your own recovery, health, and injury history are actually supporting that volume, not because being in your 40s guarantees extra margin on its own. This is also a good window to drill falling technique deliberately, the way this site's guide to [falling safely after 40](/blog/how-to-fall-safely-after-40/) lays out: on grass or a real crash/gym mat, never bare ground or carpet, starting from a low crouch rather than full standing height, and ideally with a coach or experienced skater walking you through it the first time. Base how much you push on what your body is actually telling you this month, not on which decade you're in.
 
 ## Skating in your 50s
 
