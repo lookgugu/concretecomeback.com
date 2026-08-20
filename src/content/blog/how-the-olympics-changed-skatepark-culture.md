@@ -4,7 +4,7 @@ description: "Skateboarding's Olympic debut helped shrink the gatekeeping that u
 pubDate: 2026-08-20
 author: "Sam Torres"
 authorAge: 44
-authorBio: "Community organiser and one of the founders of the Portland Adult Skate Sessions."
+authorBio: "Came back to skating at 40. Community organiser and one of the founders of the Portland Adult Skate Sessions."
 tags: ["culture", "community", "all-ages", "getting-started"]
 featured: false
 draft: false
