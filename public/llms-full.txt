@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-08-20T09:24:39.675Z
+# Date: 2026-08-20T09:30:07.484Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -1485,13 +1485,13 @@ None of this is a reason to hold back. It's a reason to be honest about what you
 
 ## What actually changes across the decade
 
-**Recovery speed.** This is the big one, though it doesn't move on a fixed schedule — how fast you bounce back depends on training history, sleep, general health, and plenty else beyond your birthday. What's common enough to plan around is that recovery time trends slower as the decade goes on, and for many people it doesn't move in a smooth, gentle slope — it can feel more like a series of step-changes than a steady decline. A hard fall or a heavy session that cost you a day of soreness a few years back might cost you two or three now. This isn't decline for its own sake — it's your body needing more time to repair the same amount of stress. Pay attention to your own pattern rather than assuming a specific age is when it'll hit.
+**Recovery speed.** How fast you bounce back depends far more on training history, sleep, general health, and injury background than on which decade you happen to be in. At a population level, recovery does tend to get slower with age, and for a lot of people it doesn't feel like a smooth slope so much as a series of step-changes — but there's no specific birthday that triggers it, and it varies a lot person to person. The useful habit isn't assuming an age threshold; it's tracking your own pattern — how sore you are the day after a hard session and how long that lasts — and adjusting your training volume to what you're actually observing this year, not what worked five years ago.
 
-**Proprioception and reaction time.** Your sense of where your body is in space, and how fast you can respond to an unexpected wobble, both decline gradually with age. At 42 this is barely noticeable. By the early 50s, it's often enough that a catch you'd have made automatically now takes conscious effort, or doesn't happen in time. This is exactly why balance-heavy, low-consequence practice matters more the further into the decade you get, not less.
+**Proprioception and reaction time.** Your sense of where your body is in space, and how quickly you can respond to an unexpected wobble, tend to decline gradually with age at a population level, but how much and when varies enormously with health, training consistency, medication, and injury history — not with a specific age cutoff. What's worth doing regardless of exactly where you are in the decade is treating balance-heavy, low-consequence practice as something that matters more over time, not less, and noticing for yourself whether catches you used to make without thinking now take more conscious effort.
 
-**Muscle mass and bone density.** Both trend downward with age for most adults, and the rate isn't constant either — it tends to accelerate through the 50s rather than declining evenly from 40. This changes your injury risk profile: the same fall that would have bruised you at 43 has a somewhat higher chance of actually breaking something at 53. It doesn't mean stop. It means your relationship to protective gear and to which falls are worth risking should tighten as the decade goes on.
+**Muscle mass and bone density.** Both tend to trend downward with age at a population level, though the timeline differs by sex and by individual rather than following one fixed schedule. For many women, menopause brings a period of faster bone loss; for men, and for muscle mass generally, the decline tends to track activity level and training history at least as much as age itself. What matters practically is the direction, not a specific year it kicks in for you: as these markers shift, your relationship to protective gear and to which falls are worth risking should tighten to match, whenever that shift happens to land for your body.
 
-**Injury risk shifts, not just rises.** It's not simply "more risk with age." The type of risk changes. Younger-40s injuries tend to be acute — you tried something past your current ability and it didn't work. Later-decade injuries are more often about accumulated load: the fifth session of the week when the first four should have told you to rest, or a joint that was already talking to you before you rolled out.
+**Injury patterns, not a fixed injury risk by decade.** It's not just "more risk with age," and it's not accurate to say acute injuries belong to one decade and accumulated-load injuries to another — both happen at every age, and which one you're more exposed to depends on how you're training and recovering, not your birth year. The habit worth building at any age is paying attention to both: don't push past your current ability on a trick, and don't ignore a joint or a level of fatigue that's been talking to you across several sessions.
 
 ## Skating in your 40s
 
