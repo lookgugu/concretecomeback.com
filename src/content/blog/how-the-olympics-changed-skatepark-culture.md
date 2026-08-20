@@ -16,7 +16,7 @@ It's worth saying plainly: the park you're picturing isn't really the park that'
 
 ## What changed, concretely
 
-Skateboarding debuted at the Tokyo 2020 Olympics (held in 2021), returned for Paris 2024, and is set to become a permanent core sport at Los Angeles 2028. That's not a footnote — it moved skateboarding from "subculture with an outsider reputation" to "sport with mainstream broadcast coverage, commentary explaining the tricks to a general audience, and medal ceremonies watched by people who've never set foot on a board."
+Skateboarding debuted at the Tokyo 2020 Olympics (held in 2021), returned for Paris 2024, and is confirmed on the program again for Los Angeles 2028. That's not a footnote — it moved skateboarding from "subculture with an outsider reputation" to "sport with mainstream broadcast coverage, commentary explaining the tricks to a general audience, and medal ceremonies watched by people who've never set foot on a board."
 
 That visibility did something specific to the culture. When a sport is niche and self-contained, its unwritten rules stay unwritten — you learn them by being accepted into the group, or you don't learn them at all. When a sport goes mainstream, it gets explained, normalized, and opened up to people who'd never have approached it as a closed subculture. Parents who watched Olympic street and park events with their kids started seeing skateboarding as a sport their family could try, not a scene they'd be intruding on. Local parks started designing explicitly for a wider range of ages and skill levels, rather than defaulting to advanced street and vert terrain that assumes an experienced audience.
 
