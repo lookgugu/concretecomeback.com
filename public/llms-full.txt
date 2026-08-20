@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-08-20T09:08:32.455Z
+# Date: 2026-08-20T09:14:03.180Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -1053,7 +1053,9 @@ For everyone else, the standard skating precautions do double duty here: protect
 
 ## The realistic take
 
-Skating isn't a medically prescribed osteoporosis treatment, and nothing here should be read as a substitute for your doctor's advice, particularly if you have a personal or family history of osteoporosis, are on medication that affects bone density, or are past menopause and haven't had a bone density check. But as general weight-bearing, impact-based exercise that fits squarely into the category health guidelines already recommend for bone health, it's a legitimate reason to get back on a board — alongside the balance, cardio, and mental health benefits you probably came here already knowing about.
+Skating isn't a medically prescribed osteoporosis treatment, and nothing here should be read as a substitute for your doctor's advice. To be direct about the limits of what's above: nothing in this piece establishes that skateboarding specifically improves bone density, and no one has studied whether any bone-health benefit from skating outweighs its fall risk for someone with low bone density. What the general research supports is the broader category — moderate-to-high intensity weight-bearing and impact exercise. Skating belongs to that category, but the skate-specific benefit is an extrapolation, not a proven result.
+
+If you're past menopause, have a personal or family history of osteoporosis, are on medication that affects bone density, or simply haven't had a bone density check, don't treat this piece as your answer. Osteoporosis is often silent, which means you could be in a higher-risk group without knowing it. Talk to your doctor and get screened before treating skating as your bone-health plan — for that group specifically, the fracture risk of an unscreened return deserves more weight than the unproven benefit. For everyone else, skating is a legitimate weight-bearing, impact-based activity that fits the general category health guidelines recommend, alongside the balance, cardio, and mental health benefits you probably came here already knowing about.
 
 Bones respond to being used. So do you.
 
@@ -1493,7 +1495,7 @@ None of this is a reason to hold back. It's a reason to be honest about what you
 
 ## Skating in your 40s
 
-If you're early-to-mid 40s, you likely still have a fair amount of the recovery capacity you had a decade earlier, even if it doesn't feel that way some mornings. This is a good window for building a real base: learning to fall properly, getting comfortable with transitions, putting in the session volume that builds actual skill rather than just maintaining what you've got. Push a little. Take some falls on purpose in low-consequence settings so your body learns the pattern. You have more margin here than you will in ten years, and it's worth using it.
+If you're early-to-mid 40s, you likely still have a fair amount of the recovery capacity you had a decade earlier, even if it doesn't feel that way some mornings. This is a good window for building a real base: learning to fall properly, getting comfortable with transitions, putting in the session volume that builds actual skill rather than just maintaining what you've got. Push a little. This is also the right window to drill falling technique deliberately, the way this site's guide to [falling safely after 40](/blog/how-to-fall-safely-after-40/) lays out: on grass or a real crash/gym mat, never bare ground or carpet, starting from a low crouch rather than full standing height, and ideally with a coach or experienced skater walking you through it the first time. You have more margin here than you will in ten years, and it's worth using it — on a padded surface, not on the deck.
 
 ## Skating in your 50s
 

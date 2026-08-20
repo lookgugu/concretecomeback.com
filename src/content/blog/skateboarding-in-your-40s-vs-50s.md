@@ -26,7 +26,7 @@ None of this is a reason to hold back. It's a reason to be honest about what you
 
 ## Skating in your 40s
 
-If you're early-to-mid 40s, you likely still have a fair amount of the recovery capacity you had a decade earlier, even if it doesn't feel that way some mornings. This is a good window for building a real base: learning to fall properly, getting comfortable with transitions, putting in the session volume that builds actual skill rather than just maintaining what you've got. Push a little. Take some falls on purpose in low-consequence settings so your body learns the pattern. You have more margin here than you will in ten years, and it's worth using it.
+If you're early-to-mid 40s, you likely still have a fair amount of the recovery capacity you had a decade earlier, even if it doesn't feel that way some mornings. This is a good window for building a real base: learning to fall properly, getting comfortable with transitions, putting in the session volume that builds actual skill rather than just maintaining what you've got. Push a little. This is also the right window to drill falling technique deliberately, the way this site's guide to [falling safely after 40](/blog/how-to-fall-safely-after-40/) lays out: on grass or a real crash/gym mat, never bare ground or carpet, starting from a low crouch rather than full standing height, and ideally with a coach or experienced skater walking you through it the first time. You have more margin here than you will in ten years, and it's worth using it — on a padded surface, not on the deck.
 
 ## Skating in your 50s
 
