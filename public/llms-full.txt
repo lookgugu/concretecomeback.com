@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-08-21T09:20:51.871Z
+# Date: 2026-08-21T09:24:38.726Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -166,7 +166,7 @@ The adult skating retreat is a new category. The events that exist are genuinely
 
 
 ### Bowl Skating: Why the Pool Is the Perfect Format After 40
-Bowls and pools offer flow-based, low-impact skating that's forgiving for beginners and popular with adults over 40. Here's how to start.
+Bowls and pools offer flow-based skating with fewer repeated hard landings than street, and are popular with adults over 40. How to start.
 
 If you've watched adult skaters at a park for any length of time, you'll notice a pattern: a disproportionate number of them gravitate toward the bowl. There's a reason for that, and it's not just aesthetics. Bowl skating — riding transitions, pools, and rounded terrain rather than flat ground and stairs — suits an older body and an adult schedule in ways street skating simply doesn't.
 

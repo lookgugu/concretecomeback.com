@@ -1,6 +1,6 @@
 ---
 title: "Bowl Skating: Why the Pool Is the Perfect Format After 40"
-description: "Bowls and pools offer flow-based, low-impact skating that's forgiving for beginners and popular with adults over 40. Here's how to start."
+description: "Bowls and pools offer flow-based skating with fewer repeated hard landings than street, and are popular with adults over 40. How to start."
 pubDate: 2026-08-21
 author: "Jo Fairweather"
 authorAge: 52
