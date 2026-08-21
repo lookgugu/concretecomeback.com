@@ -20,7 +20,7 @@ Bowl skating is continuous. You drop in, and from there it's a single flowing se
 
 ## Why it's kinder to an older body
 
-**Fewer high-impact attempts.** Learning flatground tricks as an adult means a lot of repeated failed attempts, each one a small jolt through your ankles, knees, and wrists. Bowl skating front-loads the risk into one moment — the drop-in — and after that, most of your session is smooth, sustained motion rather than repeated impact.
+**Fewer repeated hard landings.** Learning flatground tricks as an adult means a lot of repeated failed attempts, each one a small jolt through your ankles, knees, and wrists. Bowl skating replaces most of that repeated-impact pattern with sustained, flowing motion — pumping and carving rather than attempt-after-attempt trick landings. That doesn't make the session risk-free: speed builds quickly as you carve, and a fall mid-line at higher speed can be more consequential than a flatground slip, not less. It's a different risk profile, not a smaller one.
 
 **Momentum does the work your joints used to do.** Pumping a bowl — generating speed through weighted, rhythmic movement rather than pushing with your foot — uses your whole body's timing and weight transfer instead of repetitive stepping motion. It's closer to a fluid full-body movement than a series of small jarring efforts.
 
