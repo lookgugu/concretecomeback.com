@@ -1,6 +1,6 @@
 ---
-title: "'Old Man Mondays': Why Adult-Only Skate Sessions Are Taking Off"
-description: "Skateparks are starting dedicated over-40 sessions like Old Man Mondays. Here's how they work, why they help, and how to find or start one."
+title: "'Old Man Mondays': Why Adult-Focused Skate Sessions Are Taking Off"
+description: "Skateparks are starting adult-focused sessions like Old Man Mondays. Here's how they work, why they help, and how to find or start one."
 pubDate: 2026-08-21
 author: "Sam Torres"
 authorAge: 44

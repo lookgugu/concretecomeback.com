@@ -24,7 +24,7 @@ Bowl skating is continuous. You drop in, and from there it's a single flowing se
 
 **Momentum does the work your joints used to do.** Pumping a bowl — generating speed through weighted, rhythmic movement rather than pushing with your foot — uses your whole body's timing and weight transfer instead of repetitive stepping motion. It's closer to a fluid full-body movement than a series of small jarring efforts.
 
-**Falls tend to be lower-consequence.** This isn't universally true — bowl skating has real risk, especially as you progress into steeper transitions — but for a beginner working the shallow end of a bowl or a mellow keyhole, a loss of balance usually means sliding down a curved wall rather than slamming onto flat concrete from a height. That's a meaningfully softer failure mode while you're still building confidence.
+**Falls can be gentler, but only if you've learned how to take them.** In the shallow end of a bowl or a mellow keyhole, a loss of balance can mean sliding down a curved wall rather than dropping straight onto flat concrete — but that's not automatic. An untrained rider can still brace with a hand, catch an edge, or get accelerated by the transition into a hard landing. Before you treat a bowl as forgiving, learn a proper falling technique — controlled knee slides, tucking and rolling rather than putting a hand out — the same way you would before skating anything else. Bowls reward that preparation more than flat ground does, not less.
 
 **It rewards patience over athleticism.** You don't need explosive pop or fast-twitch power to get good at reading a bowl. You need timing, rhythm, and an accumulated feel for the terrain — qualities that adults, frankly, tend to be better at than teenagers.
 

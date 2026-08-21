@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-08-21T09:08:18.975Z
+# Date: 2026-08-21T09:13:53.884Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -182,7 +182,7 @@ Bowl skating is continuous. You drop in, and from there it's a single flowing se
 
 **Momentum does the work your joints used to do.** Pumping a bowl — generating speed through weighted, rhythmic movement rather than pushing with your foot — uses your whole body's timing and weight transfer instead of repetitive stepping motion. It's closer to a fluid full-body movement than a series of small jarring efforts.
 
-**Falls tend to be lower-consequence.** This isn't universally true — bowl skating has real risk, especially as you progress into steeper transitions — but for a beginner working the shallow end of a bowl or a mellow keyhole, a loss of balance usually means sliding down a curved wall rather than slamming onto flat concrete from a height. That's a meaningfully softer failure mode while you're still building confidence.
+**Falls can be gentler, but only if you've learned how to take them.** In the shallow end of a bowl or a mellow keyhole, a loss of balance can mean sliding down a curved wall rather than dropping straight onto flat concrete — but that's not automatic. An untrained rider can still brace with a hand, catch an edge, or get accelerated by the transition into a hard landing. Before you treat a bowl as forgiving, learn a proper falling technique — controlled knee slides, tucking and rolling rather than putting a hand out — the same way you would before skating anything else. Bowls reward that preparation more than flat ground does, not less.
 
 **It rewards patience over athleticism.** You don't need explosive pop or fast-twitch power to get good at reading a bowl. You need timing, rhythm, and an accumulated feel for the terrain — qualities that adults, frankly, tend to be better at than teenagers.
 
@@ -1065,8 +1065,8 @@ It's also a useful myth-buster. Skateparks have a long-standing reputation, not 
 If you've been skating alone and wondering whether there's a place for you at your local park, groups like ODSC are the proof that the answer is yes — and increasingly, that place already has a name.
 
 
-### 'Old Man Mondays': Why Adult-Only Skate Sessions Are Taking Off
-Skateparks are starting dedicated over-40 sessions like Old Man Mondays. Here's how they work, why they help, and how to find or start one.
+### 'Old Man Mondays': Why Adult-Focused Skate Sessions Are Taking Off
+Skateparks are starting adult-focused sessions like Old Man Mondays. Here's how they work, why they help, and how to find or start one.
 
 A few years ago, if you wanted to skate without feeling like the oldest person at the park by two decades, your options were limited: show up at an odd hour and hope, or find an informal Facebook group and cross your fingers someone else turned up too. That's starting to change. Parks are now running sessions built specifically for adult skaters — and the model is worth knowing about, whether you want to find one or start one.
 
