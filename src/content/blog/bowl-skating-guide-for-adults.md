@@ -38,7 +38,7 @@ Bowl skating is continuous. You drop in, and from there it's a single flowing se
 
 **Save the drop-in for later, not your first sessions.** Dropping in is where most bowl injuries happen — a hesitant commitment or rear-weighted entry can send you straight backward onto the transition. Spend your first sessions entirely on pumping and reading the walls from the flat bottom before you attempt it. When you're ready, learn it on the smallest possible transition — a shallow bank or the lip of a mellow bowl, not a five-foot pool wall — and ideally with an experienced skater or coach spotting you the first few times, not alone.
 
-**Wear full protection, no exceptions.** Helmet, wrist guards, elbow pads, and full-cup knee pads specifically — the large hard-plastic cap style, not slim foam-only pads. Full-cup pads are what let you slide out of a fall on transition instead of digging in; foam-only pads won't slide and can turn a controlled knee slide into a hard stop. Bowl skating puts you in situations where you're moving faster and at steeper angles than flatground skating, and the consequences of a bad fall scale accordingly.
+**Wear full protection, no exceptions.** A certified skateboard helmet (CPSC/CE EN 1078/AS NZS 2063), wrist guards with a rigid splint (not padded gloves), elbow pads, and full-cup knee pads specifically — the large hard-plastic cap style, not slim foam-only pads. Full-cup pads are what let you slide out of a fall on transition instead of digging in; foam-only pads won't slide and can turn a controlled knee slide into a hard stop. Bowl skating puts you in situations where you're moving faster and at steeper angles than flatground skating, and the consequences of a bad fall scale accordingly.
 
 ## What progress looks like
 
