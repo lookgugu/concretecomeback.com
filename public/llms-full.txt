@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-08-22T09:13:13.362Z
+# Date: 2026-08-22T09:17:05.943Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -1450,7 +1450,7 @@ It also is one, by every standard measure exercise physiologists use to classify
 
 Exercise scientists classify activities using METs — metabolic equivalents, a measure of how much energy an activity burns relative to sitting still. One MET is your resting metabolic rate. Walking at a moderate pace sits around 3 METs. Anything at 6 METs or above is generally classed as vigorous activity.
 
-The Compendium of Physical Activities — the reference researchers and clinicians use to classify activity intensity — puts general skateboarding at around 5 METs, which is solidly moderate intensity, comparable to a brisk walk or recreational cycling. Competitive-level skating is classified higher, around 6 METs, which is where it crosses into vigorous territory alongside things like a hard jog or a competitive basketball game. Casual cruising sits at the moderate end; a session with real sustained effort in it — hard pumping, working transitions continuously rather than in short bursts — pushes toward the vigorous end, though matching the intensity of a genuinely hard run for a full session takes real, sustained work, not just an active afternoon at the park. Either way, this isn't a fringe classification. It's the same framework used to write exercise prescriptions in clinical settings.
+The Compendium of Physical Activities — the reference researchers and clinicians use to classify activity intensity — puts general skateboarding at around 5 METs, which is solidly moderate intensity. Competitive-level skating is classified higher, around 6 METs, which is right at the threshold where an activity is considered vigorous rather than moderate. Casual cruising sits at the moderate end; a session with real sustained effort in it — hard pumping, working transitions continuously rather than in short bursts — pushes toward that vigorous threshold, though genuinely high-intensity cardio activities go well beyond it, so this is "vigorous, entry-level" territory rather than an equivalent to a hard run. Either way, this isn't a fringe classification. It's the same framework used to write exercise prescriptions in clinical settings.
 
 What that means in practice: a session that feels like messing around on a board is, physiologically, comparable to the workouts people specifically schedule and sweat through at the gym.
 
@@ -1476,7 +1476,7 @@ This cuts the other way too. Skating is not a full substitute for every kind of 
 
 If you're skating specifically for the fitness benefit, a few adjustments push the intensity higher: favor pumping transitions over standing and rolling, keep sessions moving rather than long standing breaks between runs, and treat parks with real elevation change — bowls, ramps — as a better cardio stimulus than flat, mellow cruising.
 
-But the bigger point stands regardless of how you skate. The next time the thought "I should probably also do a real workout" shows up after a good session, the science says you already did something worth counting. Skating earns a legitimate place on the same intensity scale as brisk cycling and jogging — not because it feels like effort, but because, measured the way exercise physiologists measure everything else, it is.
+But the bigger point stands regardless of how you skate. The next time the thought "I should probably also do a real workout" shows up after a good session, the science says you already did something worth counting. Skating earns a legitimate, measurable place on that same moderate-to-vigorous intensity scale — not because it feels like effort, but because, measured the way exercise physiologists measure everything else, it is.
 
 
 ### Skateboarding and Mental Health: What the Research Says at 40
