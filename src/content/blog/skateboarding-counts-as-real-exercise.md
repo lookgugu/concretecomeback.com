@@ -1,6 +1,6 @@
 ---
 title: "Skateboarding Counts as Real Exercise. Here's the Science."
-description: "Skateboarding is classified as vigorous activity on par with jogging or basketball. Here's the exercise science behind why it counts."
+description: "Skateboarding ranks as moderate-to-vigorous exercise on the same MET scale doctors use. Here's the exercise science behind why it counts."
 pubDate: 2026-08-22
 author: "Jo Fairweather"
 authorAge: 52
@@ -18,7 +18,7 @@ It also is one, by every standard measure exercise physiologists use to classify
 
 Exercise scientists classify activities using METs — metabolic equivalents, a measure of how much energy an activity burns relative to sitting still. One MET is your resting metabolic rate. Walking at a moderate pace sits around 3 METs. Anything at 6 METs or above is generally classed as vigorous activity.
 
-Skateboarding is typically classified in the 5–6 MET range, depending on how it's being ridden. Casual cruising sits toward the lower end; active skating at a park — pumping, carving, working transitions — sits at the upper end, putting it in the same intensity bracket as recreational basketball or a moderate-paced jog. This isn't a fringe classification. It's the same framework used to write exercise prescriptions in clinical settings.
+The Compendium of Physical Activities — the reference researchers and clinicians use to classify activity intensity — puts general skateboarding at around 5 METs, which is solidly moderate intensity, comparable to a brisk walk or recreational cycling. Competitive-level skating is classified higher, around 6 METs, which is where it crosses into vigorous territory alongside things like a hard jog or a competitive basketball game. Casual cruising sits at the moderate end; a session with real sustained effort in it — hard pumping, working transitions continuously rather than in short bursts — pushes toward the vigorous end, though matching the intensity of a genuinely hard run for a full session takes real, sustained work, not just an active afternoon at the park. Either way, this isn't a fringe classification. It's the same framework used to write exercise prescriptions in clinical settings.
 
 What that means in practice: a session that feels like messing around on a board is, physiologically, comparable to the workouts people specifically schedule and sweat through at the gym.
 
@@ -44,4 +44,4 @@ This cuts the other way too. Skating is not a full substitute for every kind of 
 
 If you're skating specifically for the fitness benefit, a few adjustments push the intensity higher: favor pumping transitions over standing and rolling, keep sessions moving rather than long standing breaks between runs, and treat parks with real elevation change — bowls, ramps — as a better cardio stimulus than flat, mellow cruising.
 
-But the bigger point stands regardless of how you skate. The next time the thought "I should probably also do a real workout" shows up after a good session, the science says you already did one. Skating earns its place on the same list as running and basketball — not because it feels like effort, but because, measured the way exercise physiologists measure everything else, it is.
+But the bigger point stands regardless of how you skate. The next time the thought "I should probably also do a real workout" shows up after a good session, the science says you already did something worth counting. Skating earns a legitimate place on the same intensity scale as brisk cycling and jogging — not because it feels like effort, but because, measured the way exercise physiologists measure everything else, it is.

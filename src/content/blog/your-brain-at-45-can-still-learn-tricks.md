@@ -32,7 +32,7 @@ The advantage shows up later. Adults are generally better at diagnosing *why* an
 
 A few things make a measurable difference in how efficiently that explicit-to-automatic transition happens:
 
-**Sleep between sessions.** Motor memory consolidates during sleep, not during the practice session itself. This is well established in the motor learning literature — the gains from a practice block often show up the *next day*, not immediately. If you're frustrated at the end of a session because a trick isn't clicking, that's not necessarily the final verdict. Come back after a night's sleep before deciding.
+**Sleep matters between sessions.** You do build skill during practice itself — the in-session reps are what generate the raw improvement. But sleep is one of the key contributors to locking that improvement in, and some of the consolidation genuinely happens overnight rather than in the moment. That's why the gains from a practice block sometimes show up more clearly the *next day* than at the end of the session itself. If you're frustrated at the end of a session because a trick isn't clicking, that's not necessarily the final verdict. Come back after a night's sleep before deciding.
 
 **Spaced practice over massed practice.** Four twenty-minute sessions across a week beat one eighty-minute session, for the same total practice time. Each fresh attempt after a break forces your brain to re-retrieve the movement pattern rather than just riding momentum from the last attempt, and that retrieval effort is part of what builds durable skill.
 
