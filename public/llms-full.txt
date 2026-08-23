@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-08-23T09:11:17.434Z
+# Date: 2026-08-23T09:15:10.619Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -1258,7 +1258,7 @@ This is not a weakness to push past. It's calibrated risk assessment, and it's o
 
 Joint stiffness in the morning, or after sitting for a while, tends to be more present and more noticeable in your 50s than your 40s. This is a bigger reason to treat warm-up as non-negotiable rather than optional — five to ten minutes of mobility work for ankles, knees, and hips before you push off makes a bigger difference at 52 than it did at 42, because your joints need more encouragement to move through their full range before you ask them to do something dynamic.
 
-Gear choices matter more here too. Softer wheels, a wider deck for stability, and supportive footwear all reduce the cumulative impact your joints absorb over a session — worth revisiting even if your setup served you fine a few years ago.
+Gear choices matter more here too. Softer wheels and supportive, cushioned footwear reduce the cumulative impact your joints absorb over a session, while a wider deck adds stability that makes it easier to stay balanced and avoid the awkward corrections that jar your knees and ankles. Worth revisiting all three even if your setup served you fine a few years ago.
 
 ## What doesn't change: you can still genuinely improve
 
