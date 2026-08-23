@@ -14,7 +14,7 @@ Most of what gets written about sports nutrition is aimed at people training for
 
 ## Before a session: enough fuel, not a ritual
 
-**Don't skate on empty if you can help it.** Low blood sugar mid-session shows up as shakiness, poor concentration, and a sudden drop in coordination — exactly the state you don't want when you're balancing on a moving board. A light meal or snack with some carbohydrate and a bit of protein an hour or two before skating is usually enough to prevent this.
+**Don't skate on empty if you can help it.** Low blood sugar mid-session shows up as shakiness, poor concentration, and a sudden drop in coordination — exactly the state you don't want when you're balancing on a moving board. For most people, a light meal or snack with some carbohydrate and a bit of protein an hour or two before skating is usually enough to prevent this. If you manage diabetes with insulin or another glucose-lowering medication, this general advice isn't a substitute for your own monitoring and treatment plan — follow that plan, carry fast-acting carbohydrate, and talk to your care team about how exercise affects your dosing rather than relying on a pre-session snack alone.
 
 **Keep it simple and familiar.** This isn't the time to try a new pre-workout food or supplement. Oatmeal, a banana with peanut butter, toast with eggs — whatever you already know sits well with you. Adult digestion is less forgiving of surprises than it used to be, and nausea mid-session is worse than mild hunger.
 

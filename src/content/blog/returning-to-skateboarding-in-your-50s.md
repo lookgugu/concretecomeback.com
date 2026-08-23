@@ -26,7 +26,7 @@ The adjustment is practical: build more rest into your week than you did a decad
 
 Balance reaction time and proprioception — your body's sense of where it is in space — decline gradually with age, and the decline becomes more noticeable through your 50s than it was in your 40s. This doesn't mean your balance on a board is suddenly unreliable. It means the margin for error is smaller, and balance training earns its place as a deliberate part of your routine rather than something skating itself will fully take care of.
 
-Simple balance work off the board — single-leg stands, a wobble board or balance cushion for a few minutes several times a week, slow controlled movements that challenge your stability — pays off directly in how stable you feel on the board, and it's cheap insurance against the falls that come from a balance lapse rather than a bad trick attempt.
+Simple balance work off the board — single-leg stands, a wobble board or balance cushion for a few minutes several times a week, slow controlled movements that challenge your stability — pays off directly in how stable you feel on the board, and it's cheap insurance against the falls that come from a balance lapse rather than a bad trick attempt. Do it within arm's reach of a wall, countertop, or sturdy chair, so an unstable surface that catches you off guard doesn't cause the exact kind of fall you're trying to train against.
 
 ## Your relationship with risk is genuinely different
 
