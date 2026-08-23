@@ -16,7 +16,9 @@ Here's what actually changes, and how to work with it instead of against it.
 
 ## Recovery takes longer, and that's not a red flag
 
-In your 40s, a hard session might leave you sore for a day, maybe two. In your 50s, the same session can leave you sore for three or four days, and the soreness curve is flatter — it fades more gradually instead of dropping off sharply. This isn't a sign that something's wrong or that you're pushing too hard. It's just a slower repair cycle, and it's normal.
+In your 40s, a hard session might leave you sore for a day, maybe two. In your 50s, the same session can leave you sore for three or four days, and the soreness curve is flatter — it fades more gradually instead of dropping off sharply. If that soreness is diffuse — spread across a muscle, dull, and steadily easing day by day — it isn't a sign that something's wrong or that you're pushing too hard. It's just a slower repair cycle, and it's normal.
+
+That said, the longer timeline doesn't excuse ignoring the same red flags that apply at any age: sharp or localized pain, swelling in a joint, pain that gets worse instead of better, numbness or tingling, or anything that changes how you walk. Those warrant seeing a doctor or physio rather than waiting it out, whether you're 43 or 53.
 
 The adjustment is practical: build more rest into your week than you did a decade ago. Where two sessions a week with a rest day between them worked fine at 43, you may need two full rest days between sessions at 53 to feel genuinely recovered rather than just well enough to push through.
 
