@@ -24,7 +24,7 @@ Check for:
 - **Cracks**, especially near the truck mounting holes, where the board takes the most repeated stress.
 - **Concave and flex that feel dead** — a deck can look intact and still have lost the snap and pop it had when new. That's not a safety issue, just a performance one, and it's a reasonable thing to accept on an old board if everything else checks out.
 
-If the deck passes the flex and delamination check, it's usually fine to keep. If it fails either one, replace the deck. This isn't a part worth restoring — a cracked or delaminated deck can fail suddenly and without warning, and that's not a risk worth taking to save the sentimental value of the original wood.
+If the deck has no cracks and passes the delamination and flex checks, it's usually fine to keep — dead flex on its own is a performance trade-off, not a safety one. But any crack, anywhere on the deck, is a reason to replace it on its own, even if everything else checks out. This isn't a part worth restoring — a cracked or delaminated deck can fail suddenly and without warning, and that's not a risk worth taking to save the sentimental value of the original wood.
 
 ## Bearings: replace them, don't debate it
 
