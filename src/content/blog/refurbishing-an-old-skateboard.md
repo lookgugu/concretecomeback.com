@@ -38,7 +38,7 @@ Old wheels often look fine and aren't. Urethane hardens and can develop flat spo
 
 Trucks are metal, and metal holds up to sitting far better than urethane or wood. In most cases, old trucks are structurally fine. Still worth checking:
 
-- **The kingpin and bushings** — bushings are rubber or urethane and can harden or crack just like wheels. They're a cheap swap and worth doing on principle if the board sat for more than a few years.
+- **The bushings, then the kingpin itself** — bushings are rubber or urethane and can harden or crack just like wheels; they're a cheap swap and worth doing on principle if the board sat for more than a few years. With the bushings off, check the kingpin underneath: it shouldn't be bent or cracked, the threads shouldn't be stripped, and the kingpin nut should tighten down securely. The kingpin is what holds the truck's steering assembly together, so don't skip this just because the bushings looked fine.
 - **Rust on the hanger or baseplate** — surface rust is cosmetic and can be cleaned off. Pitting or rust that's eaten into the metal is a different story and is a reason to replace that truck rather than trust it.
 - **Loose or stripped mounting hardware** — cheap to replace, not worth the risk of skating on it.
 - **The axles themselves** — spin each wheel and check the axle isn't bent, that the threads aren't stripped, and that the axle nuts thread on smoothly and hold tight. This is separate from the deck-mounting hardware above, and it's the one that determines whether a wheel can work loose or bind while you're riding.
