@@ -26,15 +26,17 @@ The park doesn't need to be your favorite park. It needs to be close to the scho
 
 Look for:
 
-- **Something within a five- to ten-minute drive of drop-off**, ideally in the opposite direction from work so you're not backtracking later.
+- **Something within a five- to ten-minute drive of drop-off**, ideally along your route to work — or at least not a detour off it — so the session doesn't add backtracking to your morning.
 - **A park that's usually quiet at that hour.** Mid-morning on a weekday tends to be one of the emptier windows at most parks — school-age kids are in class, and it's before lunch crowds. That's a real advantage: more room, less waiting for features, less self-consciousness if you're still building confidence.
 - **Somewhere with easy parking close to the entrance.** Thirty minutes goes fast, and you don't want to spend five of them looking for a spot.
 
-## Keep the gear in the car
+## Keep a ready-to-go bag, not a car full of gear
 
-The single biggest thing that makes this habit stick: don't make yourself pack a bag every morning. Keep a small kit in the trunk — board, helmet, wrist guards, a pair of shoes you don't mind skating in — so the only decision each morning is whether to swing by the park, not whether you remembered your gear.
+The single biggest thing that makes this habit stick: don't make yourself pack a bag every morning. Pack one kit — board, helmet, wrist guards, a pair of shoes you don't mind skating in — and keep it by the door, ready to grab on your way out. The only decision each morning should be whether to swing by the park, not whether you remembered your gear.
 
-Anything that requires assembly or planning the night before is a habit that survives about two weeks. Anything that's just "grab the bag, it's already in the car" survives much longer.
+Don't leave it sitting in the trunk long-term, especially in warm weather. A parked car can get hot enough to quietly degrade a helmet's foam liner and adhesives — with no visible sign that it's happened — and the same heat swings aren't good for a board's urethane parts either. Load the bag in when you leave and bring it back in when you're done, rather than treating the car as permanent storage.
+
+Anything that requires assembly or planning the night before is a habit that survives about two weeks. Anything that's just "grab the bag on the way out" survives much longer.
 
 ## Structuring thirty minutes so it's actually enough
 
