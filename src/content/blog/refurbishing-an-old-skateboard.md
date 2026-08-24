@@ -41,6 +41,7 @@ Trucks are metal, and metal holds up to sitting far better than urethane or wood
 - **The kingpin and bushings** — bushings are rubber or urethane and can harden or crack just like wheels. They're a cheap swap and worth doing on principle if the board sat for more than a few years.
 - **Rust on the hanger or baseplate** — surface rust is cosmetic and can be cleaned off. Pitting or rust that's eaten into the metal is a different story and is a reason to replace that truck rather than trust it.
 - **Loose or stripped mounting hardware** — cheap to replace, not worth the risk of skating on it.
+- **The axles themselves** — spin each wheel and check the axle isn't bent, that the threads aren't stripped, and that the axle nuts thread on smoothly and hold tight. This is separate from the deck-mounting hardware above, and it's the one that determines whether a wheel can work loose or bind while you're riding.
 
 If the trucks pass those checks, they're one of the parts most worth keeping. A good set of trucks doesn't really go bad with age the way soft parts do.
 
