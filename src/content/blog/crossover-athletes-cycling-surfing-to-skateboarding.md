@@ -10,7 +10,7 @@ featured: false
 draft: false
 ---
 
-A few of the regulars at my local park didn't come from skating at all. One rides a road bike a hundred miles a week and picked up a board because his knees needed something with less repetitive impact. Another surfs on weekends and wanted a way to keep her balance and pop sharp when the waves weren't cooperating. Neither of them grew up skating. Both of them are better at it, faster, than I expected.
+A few of the regulars at my local park didn't come from skating at all. One rides a road bike a hundred miles a week and picked up a board because his knees needed a break from the repetitive pedaling motion — not because skating is gentler on joints (it isn't, and we'll get to why below). Another surfs on weekends and wanted a way to keep her balance and pop sharp when the waves weren't cooperating. Neither of them grew up skating. Both of them are better at it, faster, than I expected.
 
 That's not an accident. Midlife athletic communities — cycling, running, surfing — have been growing steadily among adults in their 35s to 50s for years now, and a fair number of people in those communities are starting to look at skateboarding as a natural next step rather than a completely separate hobby. If you're one of them, it's worth knowing what you're bringing with you, and what you're not.
 
