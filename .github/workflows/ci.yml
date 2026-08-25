@@ -15,6 +15,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          # Full history: the duplicate-post check diffs the branch against main,
+          # which a shallow clone cannot do.
+          fetch-depth: 0
 
       - uses: actions/setup-node@v4
         with:
@@ -22,6 +26,11 @@ jobs:
           cache: npm
 
       - run: npm ci
+
+      # The blog generator has no memory between runs and has already republished
+      # a live slug (see scripts/check-duplicate-posts.mjs).
+      - name: Check for duplicate blog posts
+        run: node scripts/check-duplicate-posts.mjs --base origin/${{ github.base_ref || 'main' }}
 
       # Excluded from `npm run build` on purpose (see CLAUDE.md), so run it explicitly.
       # Exits 0 on hints, non-zero on errors.
