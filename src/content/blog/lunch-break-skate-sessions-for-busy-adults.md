@@ -25,7 +25,7 @@ Once you've got a shortlist of genuinely traffic-free spots, pick the closest on
 A full hour lunch break doesn't give you a full hour of skating once you subtract changing clothes and travel time both ways. Budget 25 minutes total, and don't shrink the warm-up to buy more board time — shrink the board time instead. A short session on a properly warmed-up body beats a longer one on a cold one.
 
 - **10 minutes:** Your normal pre-skate warm-up — ankles, wrists, hips, knees, balance. This matters more at lunch, not less, since you're coming straight off a morning at a desk rather than already loose from being on your feet.
-- **8 minutes:** Whatever you're actively working on — a specific turn, pumping a bank, foot positioning drills. Pick one thing before you leave the office so you're not deciding on the spot.
+- **8 minutes:** Whatever you're actively working on — a specific turn, carving, foot positioning drills. Keep it to flat-ground work here; a lunch spot picked for proximity and low traffic usually isn't the place for ramps or banks, which call for knee pads and a proper park anyway. Pick one thing before you leave the office so you're not deciding on the spot.
 - **5 minutes:** Free rolling. Just enjoy it. This is the part that makes the rest feel worth doing on a workday.
 - **2 minutes:** Cool down, roll back toward wherever you're changing.
 
