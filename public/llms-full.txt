@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-08-25T09:17:01.748Z
+# Date: 2026-08-25T09:21:37.185Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -324,7 +324,7 @@ Beyond the physical overlap, skating has some practical advantages that make it 
 
 ## Starting point advice if you're coming from another sport
 
-Resist the urge to skip the fundamentals because you're already fit. Spend real time on pushing, stance, and basic turns before chasing anything that looks like a trick — your balance and cardio will make this phase feel easy, which is exactly what tempts people to rush past it. Get a certified skate helmet and wrist guards — non-negotiable from your very first session, whatever other sport made you fit for this one — and learn to fall on purpose in a low-stakes setting before you're doing it for real. And treat your first few sessions as a different sport, not a variation on the one you already know. The overlap is real, but so is the learning curve, and respecting it is what turns a good crossover athlete into a good skater.
+Resist the urge to skip the fundamentals because you're already fit. Spend real time on pushing, stance, and basic turns before chasing anything that looks like a trick — your balance and cardio will make this phase feel easy, which is exactly what tempts people to rush past it. Get a certified skate helmet and wrist guards — non-negotiable from your very first session, whatever other sport made you fit for this one. Then drill falling on purpose before you're doing it for real, on grass or a real crash mat rather than pavement, starting from a crouch rather than full standing height, ideally with a coach or experienced skater walking you through it the first time. And treat your first few sessions as a different sport, not a variation on the one you already know. The overlap is real, but so is the learning curve, and respecting it is what turns a good crossover athlete into a good skater.
 
 
 ### How to Find a Skateboard Coach Who Gets Adult Beginners
@@ -1072,12 +1072,12 @@ You're not looking for the best terrain in your city. You're looking for the ter
 
 ## The 25-minute lunch structure
 
-A full hour lunch break doesn't give you a full hour of skating once you subtract changing clothes and travel time both ways. Plan around 25 minutes of actual board time and build the rest as buffer.
+A full hour lunch break doesn't give you a full hour of skating once you subtract changing clothes and travel time both ways. Budget 25 minutes total, and don't shrink the warm-up to buy more board time — shrink the board time instead. A short session on a properly warmed-up body beats a longer one on a cold one.
 
-- **3 minutes:** Roll out, get your feet under you, a couple of easy pushes to shake off sitting at a desk all morning.
-- **10 minutes:** Whatever you're actively working on — a specific turn, pumping a bank, foot positioning drills. Pick one thing before you leave the office so you're not deciding on the spot.
-- **8 minutes:** Free rolling. Just enjoy it. This is the part that makes the other 17 minutes feel worth doing on a workday.
-- **4 minutes:** Cool down, roll back toward wherever you're changing.
+- **10 minutes:** Your normal pre-skate warm-up — ankles, wrists, hips, knees, balance. This matters more at lunch, not less, since you're coming straight off a morning at a desk rather than already loose from being on your feet.
+- **8 minutes:** Whatever you're actively working on — a specific turn, pumping a bank, foot positioning drills. Pick one thing before you leave the office so you're not deciding on the spot.
+- **5 minutes:** Free rolling. Just enjoy it. This is the part that makes the rest feel worth doing on a workday.
+- **2 minutes:** Cool down, roll back toward wherever you're changing.
 
 Keep the plan loose enough to survive a slow walk light or a coworker who wants to chat, but having a rough shape means you're not standing around deciding what to do with your limited window.
 
@@ -1775,7 +1775,7 @@ On a red day, don't skate. This isn't the framework asking you to be cautious fo
 
 ## Setup adjustments worth making regardless of zone
 
-A few equipment choices reduce joint stress across all three zones, not just the harder days. Softer wheels absorb more of the small, constant vibration that comes from rolling on real-world pavement, which adds up over a long session. Trucks set up a touch looser can make carving and turning require less forceful hip and ankle input. Footwear matters too, but the fix here is cushioned, flat-soled skate shoes (or supportive insoles inside them), not general athletic shoes — a running or walking shoe's shaped, flexible sole works against the board feel you need to stay balanced, which matters more, not less, when a joint is already compromised.
+A few equipment choices reduce joint stress across all three zones, not just the harder days. Softer wheels absorb more of the small, constant vibration that comes from rolling on real-world pavement, which adds up over a long session. If your condition affects a hip or knee rather than an ankle, trucks set up a touch looser can make carving and turning require less forceful hip input — but tighter trucks are more stable, so if your ankle is the joint involved, or you're generally unsteady, stick with a standard setup rather than trading stability for less effort. Footwear matters too, but the fix here is cushioned, flat-soled skate shoes (or supportive insoles inside them), not general athletic shoes — a running or walking shoe's shaped, flexible sole works against the board feel you need to stay balanced, which matters more, not less, when a joint is already compromised.
 
 None of these are a substitute for the zone check itself. They just lower the baseline demand on the joint, which gives you a little more room across all three zones before you hit the point where you need to modify or stop.
 

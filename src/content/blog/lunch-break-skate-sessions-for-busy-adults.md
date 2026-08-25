@@ -22,12 +22,12 @@ You're not looking for the best terrain in your city. You're looking for the ter
 
 ## The 25-minute lunch structure
 
-A full hour lunch break doesn't give you a full hour of skating once you subtract changing clothes and travel time both ways. Plan around 25 minutes of actual board time and build the rest as buffer.
+A full hour lunch break doesn't give you a full hour of skating once you subtract changing clothes and travel time both ways. Budget 25 minutes total, and don't shrink the warm-up to buy more board time — shrink the board time instead. A short session on a properly warmed-up body beats a longer one on a cold one.
 
-- **3 minutes:** Roll out, get your feet under you, a couple of easy pushes to shake off sitting at a desk all morning.
-- **10 minutes:** Whatever you're actively working on — a specific turn, pumping a bank, foot positioning drills. Pick one thing before you leave the office so you're not deciding on the spot.
-- **8 minutes:** Free rolling. Just enjoy it. This is the part that makes the other 17 minutes feel worth doing on a workday.
-- **4 minutes:** Cool down, roll back toward wherever you're changing.
+- **10 minutes:** Your normal pre-skate warm-up — ankles, wrists, hips, knees, balance. This matters more at lunch, not less, since you're coming straight off a morning at a desk rather than already loose from being on your feet.
+- **8 minutes:** Whatever you're actively working on — a specific turn, pumping a bank, foot positioning drills. Pick one thing before you leave the office so you're not deciding on the spot.
+- **5 minutes:** Free rolling. Just enjoy it. This is the part that makes the rest feel worth doing on a workday.
+- **2 minutes:** Cool down, roll back toward wherever you're changing.
 
 Keep the plan loose enough to survive a slow walk light or a coworker who wants to chat, but having a rough shape means you're not standing around deciding what to do with your limited window.
 
