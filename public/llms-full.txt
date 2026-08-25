@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-08-25T09:34:17.147Z
+# Date: 2026-08-25T09:38:44.081Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -1085,7 +1085,7 @@ Keep the plan loose enough to survive a slow walk light or a coworker who wants 
 
 Not every job has a real lunch break, and not every nearby spot is usable at midday. Two other windows are worth checking before you write off skating on workdays entirely.
 
-Some indoor parks open well before normal business hours specifically to catch commuters and early risers — worth a call or a look at their site, since hours vary a lot by location. And if your city has any lit outdoor parks or plazas, a 20-minute session on the way home in the evening, once traffic and light are less of a factor, can be just as usable as a lunch break. Neither requires as much daylight planning as it sounds like it does — you're checking two things: is it lit or open, and is it close enough to be worth the trip.
+Some indoor parks open well before normal business hours specifically to catch commuters and early risers — worth a call or a look at their site, since hours vary a lot by location; an indoor park is enclosed and purpose-built, so the traffic question doesn't apply. An outdoor evening session is different: a lit plaza can still be a real pedestrian or vehicle route, especially right after work when commuter traffic is at its heaviest, not lighter. Apply the same check as the lunch spots — lit or open, close enough to be worth the trip, and genuinely closed to cars and clear of foot traffic during your window, confirmed by walking or watching it once rather than assumed from how it looks passing by.
 
 ## Make the logistics boring
 
