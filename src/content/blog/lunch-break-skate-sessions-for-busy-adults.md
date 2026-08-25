@@ -16,9 +16,9 @@ For a lot of the adults in our sessions, the answer isn't "make more time." It's
 
 ## Start with what's actually near your desk
 
-Most people have never checked what skateable ground exists within a ten-minute walk or a short bike ride of their office, because they've only ever thought about skating as a destination trip on a day off. Pull up a map and look with fresh eyes: a skatepark, sure, but also a quiet stretch of underused plaza, a parking garage's flat top level after hours, a smooth loop of sidewalk in a business park that empties out at lunch.
+Most people have never checked what skateable ground exists within a ten-minute walk or a short bike ride of their office, because they've only ever thought about skating as a destination trip on a day off. Pull up a map and look with fresh eyes: a skatepark, sure, but also a quiet plaza, an empty parking garage roof, or a business-park loop — as long as you can confirm it's actually closed to cars and mostly clear of foot traffic during your window, not just quiet at a glance. "Empties out at lunch" isn't the same as "safe to skate on" — check for yourself, ideally by walking or watching it once before you bring the board.
 
-You're not looking for the best terrain in your city. You're looking for the terrain that costs you the least time to reach, because the whole point of a lunch session is that it fits inside an hour that also has to include getting there, changing, and getting back.
+Once you've got a shortlist of genuinely traffic-free spots, pick the closest one. You're not looking for the best terrain in your city — you're looking for the terrain that costs you the least time to reach, because the whole point of a lunch session is that it fits inside an hour that also has to include getting there, changing, and getting back.
 
 ## The 25-minute lunch structure
 
