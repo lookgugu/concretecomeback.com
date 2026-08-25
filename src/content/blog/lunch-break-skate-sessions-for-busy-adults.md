@@ -41,7 +41,7 @@ Some indoor parks open well before normal business hours specifically to catch c
 
 The sessions that actually happen are the ones where you've removed every small decision that could talk you out of it. A few things that make a real difference:
 
-**Keep a "go bag" at work or in the car.** A spare t-shirt, a helmet, wrist guards, and a pair of shoes you don't mind getting scuffed, packed once and left there, removes the "I'd have to go home and get my gear" excuse entirely. A short session is still a skate session — the helmet and guards aren't optional just because the clock is.
+**Keep a "go bag" at your desk.** A spare t-shirt, a helmet, wrist guards, and a pair of shoes you don't mind getting scuffed, packed once and left there, removes the "I'd have to go home and get my gear" excuse entirely. Keep it indoors rather than in a parked car — extreme cabin heat can quietly degrade a helmet's protective foam with no visible sign it's happened. A short session is still a skate session — the helmet and guards aren't optional just because the clock is.
 
 **Change fast, not thoroughly.** You don't need a full workout-level change of clothes for 25 minutes of rolling. Swap shoes, maybe a shirt if you're worried about sweat, and go.
 
