@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-08-25T09:13:49.805Z
+# Date: 2026-08-25T09:17:01.748Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -324,7 +324,7 @@ Beyond the physical overlap, skating has some practical advantages that make it 
 
 ## Starting point advice if you're coming from another sport
 
-Resist the urge to skip the fundamentals because you're already fit. Spend real time on pushing, stance, and basic turns before chasing anything that looks like a trick — your balance and cardio will make this phase feel easy, which is exactly what tempts people to rush past it. Get wrist guards and learn to fall on purpose in a low-stakes setting before you're doing it for real. And treat your first few sessions as a different sport, not a variation on the one you already know. The overlap is real, but so is the learning curve, and respecting it is what turns a good crossover athlete into a good skater.
+Resist the urge to skip the fundamentals because you're already fit. Spend real time on pushing, stance, and basic turns before chasing anything that looks like a trick — your balance and cardio will make this phase feel easy, which is exactly what tempts people to rush past it. Get a certified skate helmet and wrist guards — non-negotiable from your very first session, whatever other sport made you fit for this one — and learn to fall on purpose in a low-stakes setting before you're doing it for real. And treat your first few sessions as a different sport, not a variation on the one you already know. The overlap is real, but so is the learning curve, and respecting it is what turns a good crossover athlete into a good skater.
 
 
 ### How to Find a Skateboard Coach Who Gets Adult Beginners
