@@ -30,7 +30,7 @@ On an amber day:
 - **Trade impact for flow.** Favor pumping, carving, and flatground over anything involving drops, stairs, or repeated landings. The joint still gets to move; it just isn't taking repeated jolt loading.
 - **Extend the warm-up.** Give the joint noticeably longer to ease into movement before you ask anything demanding of it — this is not the day to jump straight into your usual routine.
 - **Watch how it responds mid-session, not just before.** If an amber joint gets worse once you're rolling rather than easing further, that's your cue to wrap up early, not push through on stubbornness.
-- **Check it again that evening and the next morning.** A familiar flare can ease while the joint is warm and mid-session, then rebound once you've cooled down or slept on it — that delayed response, not just how the session itself felt, is the real test of whether the load was right. If it's worse later than it was before you started, treat your next session as amber even if today felt fine, and drop back toward rest if it happens again.
+- **Check it again that evening and the next morning.** A familiar flare can ease while the joint is warm and mid-session, then rebound once you've cooled down or slept on it — that delayed response, not just how the session itself felt, is the real test of whether the load was right. If it's worse later than it was before you started, that's your signal the load was too much even though the session itself felt fine: drop straight to a rest day next, don't just repeat the same amber session and wait to see if it happens twice.
 
 ## Red: rest and get it looked at
 
