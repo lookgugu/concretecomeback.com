@@ -16,7 +16,7 @@ For a lot of the adults in our sessions, the answer isn't "make more time." It's
 
 ## Start with what's actually near your desk
 
-Most people have never checked what skateable ground exists within a ten-minute walk or a short bike ride of their office, because they've only ever thought about skating as a destination trip on a day off. Pull up a map and look with fresh eyes: a skatepark, sure, but also a quiet plaza, an empty parking garage roof, or a business-park loop — as long as you can confirm it's actually closed to cars and mostly clear of foot traffic during your window, not just quiet at a glance. "Empties out at lunch" isn't the same as "safe to skate on" — check for yourself, ideally by walking or watching it once before you bring the board.
+Most people have never checked what skateable ground exists within a ten-minute walk or a short bike ride of their office, because they've only ever thought about skating as a destination trip on a day off. Pull up a map and look with fresh eyes: a skatepark, sure, but also a quiet plaza, an empty parking garage roof, or a business-park loop — as long as you can confirm it's actually closed to cars and mostly clear of foot traffic during your window, not just quiet at a glance. "Empties out at lunch" isn't the same as "safe to skate on" — check for yourself, ideally by walking or watching it once before you bring the board. And traffic-free isn't the same as allowed: a parking garage or a business park is private property, so check for no-skateboarding signage and, if it's not obviously public ground, ask whoever's on site rather than assuming quiet means welcome.
 
 Once you've got a shortlist of genuinely traffic-free spots, pick the closest one. You're not looking for the best terrain in your city — you're looking for the terrain that costs you the least time to reach, because the whole point of a lunch session is that it fits inside an hour that also has to include getting there, changing, and getting back.
 
@@ -41,7 +41,7 @@ Some indoor parks open well before normal business hours specifically to catch c
 
 The sessions that actually happen are the ones where you've removed every small decision that could talk you out of it. A few things that make a real difference:
 
-**Keep a "go bag" at your desk.** A spare t-shirt, a helmet, wrist guards, and a pair of shoes you don't mind getting scuffed, packed once and left there, removes the "I'd have to go home and get my gear" excuse entirely. Keep it indoors rather than in a parked car — extreme cabin heat can quietly degrade a helmet's protective foam with no visible sign it's happened. A short session is still a skate session — the helmet and guards aren't optional just because the clock is.
+**Keep a "go bag" at your desk.** A spare t-shirt, a helmet, wrist guards, and a pair of cushioned, flat-soled skate shoes — not a running or walking shoe, whose shaped sole works against the board feel you need — packed once and left there, removes the "I'd have to go home and get my gear" excuse entirely. Keep it indoors rather than in a parked car — extreme cabin heat can quietly degrade a helmet's protective foam with no visible sign it's happened. A short session is still a skate session — the helmet and guards aren't optional just because the clock is.
 
 **Change fast, not thoroughly.** You don't need a full workout-level change of clothes for 25 minutes of rolling. Swap shoes, maybe a shirt if you're worried about sweat, and go.
 
