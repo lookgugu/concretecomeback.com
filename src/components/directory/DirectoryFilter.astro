@@ -159,7 +159,7 @@ const { type } = Astro.props;
       if (format === 'in-person' && card.dataset.online === 'true')  show = false;
 
       if (search) {
-        const haystack = `${card.dataset.name ?? ''} ${card.dataset.city ?? ''}`;
+        const haystack = `${card.dataset.name ?? ''} ${card.dataset.city ?? ''}`.toLowerCase();
         if (!haystack.includes(search)) show = false;
       }
 
@@ -191,13 +191,20 @@ const { type } = Astro.props;
 
     // Restore values from URL on load
     const params = new URLSearchParams(window.location.search);
+    const allowedParams = new Set([
+      'q', 'country', 'difficulty', 'adult', 'indoor',
+      'adult-advice', 'online', 'format',
+    ]);
     params.forEach((value, key) => {
-      const els = form.querySelectorAll<HTMLInputElement>(`[name="${key}"]`);
-      els.forEach((el) => {
-        if (el.type === 'radio' || el.type === 'checkbox') {
-          el.checked = el.value === value;
+      if (!allowedParams.has(key)) return;
+      const els = form.elements.namedItem(key);
+      const controls = els instanceof RadioNodeList ? Array.from(els) : els ? [els] : [];
+      controls.forEach((control) => {
+        if (!(control instanceof HTMLInputElement || control instanceof HTMLSelectElement)) return;
+        if (control instanceof HTMLInputElement && (control.type === 'radio' || control.type === 'checkbox')) {
+          control.checked = control.value === value;
         } else {
-          el.value = value;
+          control.value = value;
         }
       });
     });
