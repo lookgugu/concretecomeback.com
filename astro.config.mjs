@@ -12,7 +12,7 @@ export default defineConfig({
       changefreq: 'weekly',
       priority: 0.7,
       filter: (page) =>
-        !page.includes('/thank-you') &&
+        !page.includes('/submit/thanks') &&
         !page.includes('/draft/'),
     }),
   ],
