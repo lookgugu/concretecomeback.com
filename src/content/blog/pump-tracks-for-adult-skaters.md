@@ -1,6 +1,6 @@
 ---
 title: "Pump Tracks: The Low-Impact Secret for Adult Skaters"
-description: "No stairs, no big drops, no pounding your joints — just flow. Here's why pump tracks suit returning adult skaters and how to actually ride one."
+description: "No stairs, no big drops, much less pounding on your joints — just flow. Here's why pump tracks suit returning adult skaters and how to actually ride one."
 pubDate: 2026-08-26
 author: "Jo Fairweather"
 authorAge: 52
