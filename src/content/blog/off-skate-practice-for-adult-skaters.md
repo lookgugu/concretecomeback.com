@@ -38,8 +38,8 @@ Useful drills:
 
 - **Static holds.** Stand on the board and hold a stable, centered position for 30–60 seconds. Sounds simple, gets harder than expected once you're tired.
 - **Controlled tips.** Slowly rock the board from edge to edge under control, resisting the urge to let it slap down. This trains the same slow eccentric control that absorbing a landing or holding a carve requires.
-- **Eyes closed, briefly.** Once static holds feel easy, try a few seconds with your eyes closed. It removes visual feedback and forces your ankles and inner ear to do more of the work — closer to what happens when you're focused on something else at speed, like a line ahead of you.
-- **Add a task.** Toss a ball between your hands, or just hold a conversation, while balancing. Skating is rarely a single-task activity — you're also reading terrain and other people — so practicing balance alongside a second task is more transferable than balancing in isolation.
+- **Eyes closed, briefly.** Once static holds feel easy and only if you're already stable with your eyes open, try a few seconds with your eyes closed — standing next to a wall or the back of a chair you can grab, and with a stop condition of "open your eyes the moment you feel unstable." It removes visual feedback and forces your ankles and inner ear to do more of the work.
+- **Add a task.** Toss a ball between your hands, or just hold a conversation, while balancing. Same rule as above: only add this once static holds are genuinely easy, and stay within reach of something sturdy to catch yourself on. Skating is rarely a single-task activity — you're also reading terrain and other people — so practicing balance alongside a second task is more transferable than balancing in isolation, but it's a progression to earn, not a starting point.
 
 ## Foot placement repetition
 
@@ -47,6 +47,8 @@ If you're working on a specific trick, standing on carpet or a yoga mat and slow
 
 ## When this matters most
 
-This kind of practice isn't a replacement for skating and shouldn't become one — nothing off the board substitutes for the actual sensory experience of rolling, catching an edge, or making a real-time correction at speed. But it earns its place in three specific situations: an injury that keeps you off the board but not off your feet, a stretch of bad weather, or a busy week where a full session isn't realistic but ten minutes is.
+This kind of practice isn't a replacement for skating and shouldn't become one — nothing off the board substitutes for the actual sensory experience of rolling, catching an edge, or making a real-time correction at speed. But it earns its place in three specific situations: bad weather, a busy week where a full session isn't realistic but ten minutes is, or an injury that keeps you off the board.
+
+That injury case needs a caveat: being able to stand or walk doesn't mean a balance board or foot-placement drill is safe for the injured area — both can load a joint you're supposed to be resting. If you're working around an actual injury, stick to visualization only, and don't add balance-board or foot-placement drills back in until you're pain-free and, for anything more than a minor tweak, cleared by a physio or doctor.
 
 Used that way, it turns dead time into progress instead of just waiting it out. You'll come back to the park having lost less than you think.
