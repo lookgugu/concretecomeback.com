@@ -50,4 +50,4 @@ None of the individual days in the first month look dramatic. There's no single 
 
 That baseline is worth more than any single trick you land in the first month. It's what lets every session after this one be a little more ambitious, a little less anxious, and a little more clearly yours.
 
-If you're on day two or three right now, wondering whether the ache is normal and whether this is going to keep feeling this hard: it's normal, and it doesn't keep feeling this hard. Give it the rest of the month before you decide.
+If you're on day two or three right now, wondering whether the ache is normal and whether this is going to keep feeling this hard: ordinary, diffuse soreness that's already easing rather than worsening is normal, and it doesn't keep feeling this hard. Anything sharp, focal to one spot, worsening, or limiting what a joint or limb can do is the exception — get that looked at rather than waiting out the month.
