@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-08-27T09:21:42.736Z
+# Date: 2026-08-27T09:27:20.949Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -558,7 +558,7 @@ This isn't a reason for alarm. Direct hip impacts are a smaller share of skating
 
 Hip protection for skating mostly comes in two forms, and both are worth knowing about rather than defaulting to the more visible option.
 
-**Padded compression shorts.** These sit under your regular clothing and use foam or gel inserts over the hip bones and sometimes the tailbone. Brands that make skate- and derby-oriented versions, like Triple Eight and 187 Killer Pads, build these specifically to be worn discreetly under jeans or shorts rather than as visible external armor. This is the option most adult street and park skaters who do wear hip protection actually choose, precisely because it doesn't change how you look at the park.
+**Padded compression shorts.** These sit under your regular clothing and use foam inserts over the hip bones and tailbone. Triple Eight's Bumsaver line is the best-known skate- and derby-oriented version, built specifically to be worn discreetly under jeans or shorts rather than as visible external armor. This is the option most adult street and park skaters who do wear hip protection actually choose, precisely because it doesn't change how you look at the park.
 
 **External hip pads.** Bulkier, harder-shelled protection worn over clothing, more common in downhill longboarding and roller derby, where impact speeds and fall angles are more severe. Overkill for most casual park sessions, but worth considering if you're specifically getting into downhill or you're recovering from a previous hip injury and want the extra margin while you rebuild confidence.
 
