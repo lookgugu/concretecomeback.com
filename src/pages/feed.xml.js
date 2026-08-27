@@ -8,7 +8,7 @@ export async function GET(context) {
   return rss({
     title: 'Concrete Comeback',
     description:
-      'Practical guides, gear advice, safety tips, and stories for adults 40+ getting back into skateboarding after years away from the sport.',
+      'Practical guides, gear advice, safety tips, and stories for older adults getting back into skateboarding after years away from the sport.',
     site: context.site,
     items: posts.map((post) => ({
       title: post.data.title,

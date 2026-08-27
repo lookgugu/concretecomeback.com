@@ -95,12 +95,12 @@
     font-family: var(--font-family-display);
   }
 
-  /* Conditional form fields via CSS :has() — no JS */
+  /* CSS controls visibility; SubmitForm's script disables inactive inputs. */
   .park-fields,
   .shop-fields,
   .group-fields { display: none; }
 
-  form:has([name="listing-type"][value="park"]:checked)  .park-fields  { display: contents; }
-  form:has([name="listing-type"][value="shop"]:checked)  .shop-fields  { display: contents; }
-  form:has([name="listing-type"][value="group"]:checked) .group-fields { display: contents; }
+  form:has([name="listing-type"][value="park"]:checked)  .park-fields  { display: block; }
+  form:has([name="listing-type"][value="shop"]:checked)  .shop-fields  { display: block; }
+  form:has([name="listing-type"][value="group"]:checked) .group-fields { display: block; }
 }
