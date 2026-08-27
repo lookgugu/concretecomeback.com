@@ -38,6 +38,60 @@ const TYPE_FIELDS = {
 
 const REQUIRED = ['listing-type', 'name', 'city', 'country', 'description'];
 
+const ALLOWED_LISTING_TYPES = new Set(['park', 'shop', 'group']);
+const ALLOWED_COUNTRIES = new Set(['US', 'UK', 'CA', 'AU']);
+const FIELD_LIMITS = {
+  'listing-type': 10,
+  name: 120,
+  city: 120,
+  country: 2,
+  website: 500,
+  difficulty: 40,
+  'adult-friendly': 10,
+  'entry-fee': 100,
+  instagram: 100,
+  'adult-advice': 10,
+  'age-range': 100,
+  'meet-frequency': 200,
+  'is-online': 10,
+  description: 3000,
+  email: 320,
+};
+
+const RATE_LIMIT_WINDOW_MS = 10 * 60 * 1000;
+const RATE_LIMIT_MAX = 3;
+const submissionTimes = new Map();
+
+function getHeader(args, name) {
+  const headers = (args.http && args.http.headers) || args.__ow_headers || {};
+  const target = name.toLowerCase();
+  for (const [key, value] of Object.entries(headers)) {
+    if (key.toLowerCase() === target) return String(value);
+  }
+  return '';
+}
+
+function clientAddress(args) {
+  const forwarded = getHeader(args, 'x-forwarded-for');
+  return (forwarded.split(',')[0] || getHeader(args, 'x-real-ip')).trim();
+}
+
+function isRateLimited(client, now = Date.now()) {
+  if (!client) return false;
+
+  const recent = (submissionTimes.get(client) || [])
+    .filter((timestamp) => now - timestamp < RATE_LIMIT_WINDOW_MS);
+
+  if (recent.length >= RATE_LIMIT_MAX) {
+    submissionTimes.set(client, recent);
+    return true;
+  }
+
+  recent.push(now);
+  submissionTimes.set(client, recent);
+  return false;
+}
+
 // DO's web action usually parses a form-encoded body into `args`, but if the
 // fields didn't arrive parsed, fall back to decoding the raw body ourselves.
 function withFormBody(args) {
@@ -61,10 +115,10 @@ function redirect(location) {
   return { statusCode: 303, headers: { location }, body: '' };
 }
 
-function errorPage(message) {
+function errorPage(message, statusCode = 502, extraHeaders = {}) {
   return {
-    statusCode: 502,
-    headers: { 'content-type': 'text/html; charset=utf-8' },
+    statusCode,
+    headers: { 'content-type': 'text/html; charset=utf-8', ...extraHeaders },
     body: `<!doctype html><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Submission failed</title>
 <div style="font-family:system-ui,sans-serif;max-width:32rem;margin:4rem auto;padding:0 1rem">
@@ -113,7 +167,34 @@ async function main(args) {
 
   const missing = REQUIRED.filter((key) => !String(args[key] || '').trim());
   if (missing.length > 0) {
-    return errorPage(`Some required fields were missing: ${missing.join(', ')}.`);
+    return errorPage(`Some required fields were missing: ${missing.join(', ')}.`, 400);
+  }
+
+  const listingType = String(args['listing-type']).trim();
+  const country = String(args.country).trim();
+  if (!ALLOWED_LISTING_TYPES.has(listingType) || !ALLOWED_COUNTRIES.has(country)) {
+    return errorPage('The listing type or country was invalid.', 400);
+  }
+
+  for (const [key, maxLength] of Object.entries(FIELD_LIMITS)) {
+    if (String(args[key] || '').trim().length > maxLength) {
+      return errorPage(`${key} was longer than the allowed maximum.`, 400);
+    }
+  }
+
+  const submitterEmail = String(args.email || '').trim();
+  const isValidEmail = /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(submitterEmail);
+  if (submitterEmail && !isValidEmail) {
+    return errorPage('The submitter email address was invalid.', 400);
+  }
+
+  const client = clientAddress(args);
+  if (isRateLimited(client)) {
+    return errorPage(
+      'Too many submissions were received from this address. Please try again in 10 minutes.',
+      429,
+      { 'retry-after': '600' },
+    );
   }
 
   const listingType = String(args['listing-type']).trim();
@@ -133,11 +214,6 @@ async function main(args) {
       return value ? `${FIELD_LABELS[key]}: ${value}` : null;
     })
     .filter(Boolean);
-
-  // Invalid reply-to would fail the whole Resend request; the raw value is
-  // still included in the email body either way.
-  const submitterEmail = String(args.email || '').trim();
-  const isValidEmail = /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(submitterEmail);
 
   const payload = {
     from: 'Concrete Comeback <submissions@concretecomeback.com>',
