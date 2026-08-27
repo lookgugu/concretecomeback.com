@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-08-27T09:07:47.880Z
+# Date: 2026-08-27T09:13:18.012Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -432,7 +432,7 @@ Here's the honest, sensation-by-sensation version, from someone who did it at 46
 
 The first session isn't painful so much as strange. Your feet remember roughly where to stand, but your ankles don't trust the surface under them the way they used to, and your body responds by over-tensing everything. You'll finish a twenty-minute session and feel like you did an hour of unfamiliar exercise, because you basically did — every small stabilizing correction your ankles, knees, and hips are making is a muscle contraction, and you're making hundreds of them a minute without noticing.
 
-The soreness that shows up the next morning is usually in your calves, the outer part of your shins, and your forearms if you fell and caught yourself. It's not injury pain. It's the specific ache of muscles doing a job they haven't done in years. It peaks around 24 to 48 hours after the session and fades on its own. If you can still walk normally and nothing is swollen, this is normal and it passes.
+The soreness that shows up the next morning is usually in your calves, the outer part of your shins, and your forearms if you fell and caught yourself. Most of it is the specific, diffuse ache of muscles doing a job they haven't done in years — it peaks around 24 to 48 hours after the session and fades on its own. That's different from pain that's sharp, focal to a single spot rather than a whole muscle, gets worse instead of better over the following day or two, or limits what the joint or limb can actually do — reaching, gripping, bearing weight. Ordinary walking or the absence of visible swelling doesn't rule any of that out, especially for a wrist or forearm that took a fall; if a spot like that is still hurting in a specific place rather than a general muscle ache, get it looked at rather than assuming it's the same soreness as your calves.
 
 The instinct at this point is to either push through into a second hard session immediately, or to conclude that your body "can't do this anymore" and quit. Both are wrong. The right move is a rest day, then a second short session, not a longer one.
 
