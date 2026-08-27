@@ -2,23 +2,39 @@
 // Deployed as a DigitalOcean Functions web action; form-encoded body fields
 // arrive as properties of `args`.
 
-const FIELD_LABELS = [
-  ['listing-type', 'Listing type'],
-  ['name', 'Name'],
-  ['city', 'City'],
-  ['country', 'Country'],
-  ['website', 'Website'],
-  ['difficulty', 'Difficulty'],
-  ['adult-friendly', 'Adult friendly (40+)'],
-  ['entry-fee', 'Entry fee'],
-  ['instagram', 'Instagram'],
-  ['adult-advice', 'Adult advice offered'],
-  ['age-range', 'Age range'],
-  ['meet-frequency', 'Meeting schedule'],
-  ['is-online', 'Online-only'],
-  ['description', 'Description'],
-  ['email', 'Submitter email'],
+const FIELD_LABELS = {
+  'listing-type': 'Listing type',
+  name: 'Name',
+  city: 'City',
+  country: 'Country',
+  website: 'Website',
+  difficulty: 'Difficulty',
+  'adult-friendly': 'Welcoming to older skaters',
+  'entry-fee': 'Entry fee',
+  instagram: 'Instagram',
+  'adult-advice': 'Advice for older skaters offered',
+  'age-range': 'Age range',
+  'meet-frequency': 'Meeting schedule',
+  'is-online': 'Online-only',
+  description: 'Description',
+  email: 'Submitter email',
+};
+
+const COMMON_FIELDS = [
+  'listing-type',
+  'name',
+  'city',
+  'country',
+  'website',
+  'description',
+  'email',
 ];
+
+const TYPE_FIELDS = {
+  park: ['difficulty', 'adult-friendly', 'entry-fee'],
+  shop: ['instagram', 'adult-advice'],
+  group: ['age-range', 'meet-frequency', 'is-online'],
+};
 
 const REQUIRED = ['listing-type', 'name', 'city', 'country', 'description'];
 
@@ -100,16 +116,21 @@ async function main(args) {
     return errorPage(`Some required fields were missing: ${missing.join(', ')}.`);
   }
 
+  const listingType = String(args['listing-type']).trim();
+  if (!Object.hasOwn(TYPE_FIELDS, listingType)) {
+    return errorPage('The selected listing type was not recognized.');
+  }
+
   const apiKey = process.env.RESEND_API_KEY;
   const notifyEmail = process.env.SUBMIT_NOTIFY_EMAIL;
   if (!apiKey || !notifyEmail) {
     return errorPage('The form is not fully configured yet.');
   }
 
-  const lines = FIELD_LABELS
-    .map(([key, label]) => {
+  const lines = [...COMMON_FIELDS, ...TYPE_FIELDS[listingType]]
+    .map((key) => {
       const value = String(args[key] || '').trim();
-      return value ? `${label}: ${value}` : null;
+      return value ? `${FIELD_LABELS[key]}: ${value}` : null;
     })
     .filter(Boolean);
 
@@ -121,7 +142,7 @@ async function main(args) {
   const payload = {
     from: 'Concrete Comeback <submissions@concretecomeback.com>',
     to: [notifyEmail],
-    subject: `New listing submission: ${String(args.name).trim()} (${args['listing-type']})`,
+    subject: `New listing submission: ${String(args.name).trim()} (${listingType})`,
     text: lines.join('\n'),
   };
   if (submitterEmail && isValidEmail) {

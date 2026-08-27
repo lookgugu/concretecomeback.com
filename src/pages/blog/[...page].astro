@@ -16,15 +16,15 @@ export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
 const page = Astro.props.page as Page<CollectionEntry<'blog'>>;
 ---
 <BaseLayout
-  title="Blog | Tips for Returning Adult Skaters"
-  description="Practical guides, gear advice, safety tips, and stories for adults 40+ getting back into skateboarding after years away from the sport."
+  title="Blog | Tips for Returning Older Skaters"
+  description="Practical guides, gear advice, safety tips, and stories for older adults getting back into skateboarding after years away from the sport."
 >
   <div class="max-w-6xl mx-auto px-4 sm:px-6 pb-16">
     <Breadcrumb crumbs={[{ label: 'Blog', href: '/blog' }]} />
 
     <div class="mb-8">
       <h1 class="text-3xl sm:text-4xl font-display text-concrete-900">The Blog</h1>
-      <p class="text-concrete-500 mt-2">Guides, tips, and real talk for adults getting back on a skateboard.</p>
+      <p class="text-concrete-500 mt-2">Guides, tips, and real talk for older skaters getting back on a board.</p>
     </div>
 
     {page.data.length > 0 ? (
