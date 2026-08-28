@@ -110,13 +110,22 @@ jobs:
             'name="robots" content="noindex, nofollow"' \
             'href="/submit/"' \
             'href="/"' \
-            'href="/directory/"' \
-            'href="mailto:hello@concretecomeback.com"'; do
+            'href="/directory/"'; do
             if ! grep -Fq "$expected" <<< "$page"; then
               echo "::error::Branded error page is missing: $expected"
               exit 1
             fi
           done
+
+          # Cloudflare Email Address Obfuscation rewrites mailto links at the
+          # edge. The source test requires the real address; production may
+          # legitimately expose the protected, functional equivalent instead.
+          if ! grep -Fq 'href="mailto:hello@concretecomeback.com"' <<< "$page"; then
+            if ! grep -Fq '/cdn-cgi/l/email-protection' <<< "$page"; then
+              echo "::error::Branded error page is missing its email fallback."
+              exit 1
+            fi
+          fi
 
       - name: Verify honeypot success redirect
         env:
