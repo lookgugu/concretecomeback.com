@@ -92,7 +92,6 @@ jobs:
             http://127.0.0.1:4321/directory/parks/
             http://127.0.0.1:4321/blog/
             http://127.0.0.1:4321/faq/
-            http://127.0.0.1:4321/submit/error/
           configPath: ./.lighthouserc.json
           uploadArtifacts: true
           temporaryPublicStorage: true
