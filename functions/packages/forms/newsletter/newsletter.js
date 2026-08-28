@@ -108,9 +108,19 @@ async function startSignup(args) {
     text: `Confirm your subscription to the monthly Concrete Comeback roundup:\n\n${confirmUrl}\n\nIf you did not request this, you can ignore this email.`,
     html: `<p>Confirm your subscription to the monthly Concrete Comeback roundup.</p><p><a href="${confirmUrl}">Confirm my subscription</a></p><p>If you did not request this, you can ignore this email.</p>`,
   };
+  // Resend retains idempotency keys for 24 hours. Hash the normalized address so
+  // retries cannot expose it in provider logs while still sharing one cooldown.
+  const idempotencyKey = `newsletter-confirmation/${sign(email, secret)}`;
 
   try {
-    const result = await resendRequest('/emails', apiKey, { method: 'POST', body: JSON.stringify(payload) });
+    const result = await resendRequest('/emails', apiKey, {
+      method: 'POST',
+      body: JSON.stringify(payload),
+      headers: { 'Idempotency-Key': idempotencyKey },
+    });
+    // A reused or concurrent key means Resend suppressed the duplicate send.
+    // Keep the public response indistinguishable from the initial request.
+    if (result.status === 409) return response(202, { ok: true, status: 'pending' });
     if (!result.ok) {
       console.error('Newsletter signup failed', { code: 'confirmation_email_failed', status: result.status });
       return response(502, { ok: false, error: 'We could not send the confirmation email. Please try again.' });

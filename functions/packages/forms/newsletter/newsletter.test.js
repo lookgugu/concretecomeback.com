@@ -32,6 +32,27 @@ test('signup sends a confirmation email without creating a contact', async () =>
     const payload = JSON.parse(requests[0].options.body);
     assert.deepEqual(payload.to, ['skater@example.com']);
     assert.match(payload.text, /api\/forms\/newsletter\?token=/);
+    assert.match(requests[0].options.headers['Idempotency-Key'], /^newsletter-confirmation\/[A-Za-z0-9_-]+$/);
+  });
+});
+
+test('repeated signup uses one per-address idempotency key and treats suppression as pending', async () => {
+  const requests = [];
+  await withEnvironment(async (url, options) => {
+    requests.push({ url, options });
+    return requests.length === 1 ? { ok: true, status: 200 } : { ok: false, status: 409 };
+  }, async () => {
+    const first = await main({ http: { method: 'POST' }, email: 'Skater@Example.com', consent: 'yes' });
+    const repeated = await main({ http: { method: 'POST' }, email: 'skater@example.com', consent: 'yes' });
+
+    assert.equal(first.statusCode, 202);
+    assert.equal(repeated.statusCode, 202);
+    assert.deepEqual(JSON.parse(repeated.body), { ok: true, status: 'pending' });
+    assert.equal(requests.length, 2);
+    assert.equal(
+      requests[0].options.headers['Idempotency-Key'],
+      requests[1].options.headers['Idempotency-Key'],
+    );
   });
 });
 

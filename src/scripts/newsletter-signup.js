@@ -1,8 +1,14 @@
 export const DISMISSAL_MS = 30 * 24 * 60 * 60 * 1000;
+export const PENDING_MS = 24 * 60 * 60 * 1000;
 
 export function isSignupSuppressed(storage, now = Date.now()) {
   try {
-    if (storage.getItem('cc-newsletter-status') === 'pending' || storage.getItem('cc-newsletter-status') === 'subscribed') return true;
+    const signupStatus = storage.getItem('cc-newsletter-status');
+    if (signupStatus === 'subscribed') return true;
+    if (signupStatus === 'pending') {
+      const pendingAt = Number(storage.getItem('cc-newsletter-pending-at') || 0);
+      if (pendingAt > 0 && now - pendingAt < PENDING_MS) return true;
+    }
     const dismissedAt = Number(storage.getItem('cc-newsletter-dismissed-at') || 0);
     return dismissedAt > 0 && now - dismissedAt < DISMISSAL_MS;
   } catch (_error) {
@@ -65,7 +71,10 @@ export function initNewsletterSignup(panel) {
       if (!result.ok || !payload.ok) throw new Error(payload.error || 'Signup failed');
       form.hidden = true;
       status.textContent = 'Check your inbox and confirm your subscription.';
-      try { localStorage.setItem('cc-newsletter-status', 'pending'); } catch (_error) {}
+      try {
+        localStorage.setItem('cc-newsletter-status', 'pending');
+        localStorage.setItem('cc-newsletter-pending-at', String(Date.now()));
+      } catch (_error) {}
       track('newsletter_signup_pending');
     } catch (error) {
       status.textContent = error instanceof Error ? error.message : 'Signup is temporarily unavailable. Please try again.';
