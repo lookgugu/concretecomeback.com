@@ -99,15 +99,24 @@ jobs:
             "$SUBMIT_URL")
           location=$(sed -n 's/^[Ll]ocation: *//p' "$headers" | tr -d '\r' | tail -1)
 
-          test "$status" = '303'
-          test "$location" = '/submit/error/'
+          echo "Failure probe returned HTTP $status with location ${location:-<missing>}"
+          if [ "$status" != '303' ] || [ "$location" != '/submit/error/' ]; then
+            echo "::error::Expected HTTP 303 with location /submit/error/."
+            exit 1
+          fi
 
           page=$(curl -fsS --max-time 20 "$ERROR_URL")
-          printf '%s' "$page" | grep -Fq 'name="robots" content="noindex, nofollow"'
-          printf '%s' "$page" | grep -Fq 'href="/submit/"'
-          printf '%s' "$page" | grep -Fq 'href="/"'
-          printf '%s' "$page" | grep -Fq 'href="/directory/"'
-          printf '%s' "$page" | grep -Fq 'href="mailto:hello@concretecomeback.com"'
+          for expected in \
+            'name="robots" content="noindex, nofollow"' \
+            'href="/submit/"' \
+            'href="/"' \
+            'href="/directory/"' \
+            'href="mailto:hello@concretecomeback.com"'; do
+            if ! grep -Fq "$expected" <<< "$page"; then
+              echo "::error::Branded error page is missing: $expected"
+              exit 1
+            fi
+          done
 
       - name: Verify honeypot success redirect
         env:
@@ -126,8 +135,11 @@ jobs:
             "$SUBMIT_URL")
           location=$(sed -n 's/^[Ll]ocation: *//p' "$headers" | tr -d '\r' | tail -1)
 
-          test "$status" = '303'
-          test "$location" = '/submit/thanks/'
+          echo "Honeypot probe returned HTTP $status with location ${location:-<missing>}"
+          if [ "$status" != '303' ] || [ "$location" != '/submit/thanks/' ]; then
+            echo "::error::Expected HTTP 303 with location /submit/thanks/."
+            exit 1
+          fi
 
       - name: Note on coverage
         if: success()
