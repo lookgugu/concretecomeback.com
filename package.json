@@ -6,7 +6,7 @@
     "dev": "astro dev",
     "build": "node scripts/generate-llms.mjs && astro build",
     "preview": "astro preview",
-    "test": "node --test functions/packages/forms/submit/submit.test.js src/scripts/submit-form.test.js",
+    "test": "node --test functions/packages/forms/submit/submit.test.js src/scripts/submit-form.test.js src/scripts/submit-error-page.test.js",
     "astro": "astro"
   },
   "dependencies": {
