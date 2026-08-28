@@ -81,9 +81,57 @@ jobs:
           echo "  2. Are RESEND_API_KEY and SUBMIT_NOTIFY_EMAIL set on the api component?"
           exit 1
 
+      - name: Verify branded failure redirect and recovery links
+        env:
+          SUBMIT_URL: https://concretecomeback.com/api/forms/submit
+          ERROR_URL: https://concretecomeback.com/submit/error/
+        run: |
+          set -euo pipefail
+
+          headers=$(mktemp)
+          trap 'rm -f "$headers"' EXIT
+
+          status=$(curl -sS --max-time 20 -o /dev/null -D "$headers" \
+            -X POST \
+            -H 'Content-Type: application/x-www-form-urlencoded' \
+            --data 'listing-type=park' \
+            -w '%{http_code}' \
+            "$SUBMIT_URL")
+          location=$(sed -n 's/^[Ll]ocation: *//p' "$headers" | tr -d '\r' | tail -1)
+
+          test "$status" = '303'
+          test "$location" = '/submit/error/'
+
+          page=$(curl -fsS --max-time 20 "$ERROR_URL")
+          printf '%s' "$page" | grep -Fq 'name="robots" content="noindex, nofollow"'
+          printf '%s' "$page" | grep -Fq 'href="/submit/"'
+          printf '%s' "$page" | grep -Fq 'href="/"'
+          printf '%s' "$page" | grep -Fq 'href="/directory/"'
+          printf '%s' "$page" | grep -Fq 'href="mailto:hello@concretecomeback.com"'
+
+      - name: Verify honeypot success redirect
+        env:
+          SUBMIT_URL: https://concretecomeback.com/api/forms/submit
+        run: |
+          set -euo pipefail
+
+          headers=$(mktemp)
+          trap 'rm -f "$headers"' EXIT
+
+          status=$(curl -sS --max-time 20 -o /dev/null -D "$headers" \
+            -X POST \
+            -H 'Content-Type: application/x-www-form-urlencoded' \
+            --data '_gotcha=smoke-test' \
+            -w '%{http_code}' \
+            "$SUBMIT_URL")
+          location=$(sed -n 's/^[Ll]ocation: *//p' "$headers" | tr -d '\r' | tail -1)
+
+          test "$status" = '303'
+          test "$location" = '/submit/thanks/'
+
       - name: Note on coverage
         if: success()
         run: |
-          echo "Route and both secrets are present."
+          echo "Route, both secrets, branded failure recovery, and honeypot success are healthy."
           echo "A send-only Resend key can only be validated by an actual send —"
           echo "this check deliberately makes no outbound call."

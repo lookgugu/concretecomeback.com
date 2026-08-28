@@ -61,19 +61,12 @@ function redirect(location) {
   return { statusCode: 303, headers: { location }, body: '' };
 }
 
-function errorPage(message) {
-  return {
-    statusCode: 502,
-    headers: { 'content-type': 'text/html; charset=utf-8' },
-    body: `<!doctype html><meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Submission failed</title>
-<div style="font-family:system-ui,sans-serif;max-width:32rem;margin:4rem auto;padding:0 1rem">
-<h1>Sorry — that didn't go through</h1>
-<p>${message}</p>
-<p><a href="/submit">Go back and try again</a>, or email us your listing directly at
-<a href="mailto:hello@concretecomeback.com">hello@concretecomeback.com</a>.</p>
-</div>`,
-  };
+function submissionFailure(code, detail = {}) {
+  // Keep diagnosis in provider logs, never in the redirect URL shown to visitors.
+  // Callers pass only field names, status codes, and provider error metadata —
+  // never form values, email contents, configuration values, or secrets.
+  console.error('Submission failed', { code, ...detail });
+  return redirect('/submit/error/');
 }
 
 // Post-deploy smoke test: GET /api/forms/submit?health=1 reports whether the
@@ -113,18 +106,21 @@ async function main(args) {
 
   const missing = REQUIRED.filter((key) => !String(args[key] || '').trim());
   if (missing.length > 0) {
-    return errorPage(`Some required fields were missing: ${missing.join(', ')}.`);
+    return submissionFailure('missing_required_fields', { fields: missing });
   }
 
   const listingType = String(args['listing-type']).trim();
   if (!Object.hasOwn(TYPE_FIELDS, listingType)) {
-    return errorPage('The selected listing type was not recognized.');
+    return submissionFailure('invalid_listing_type');
   }
 
   const apiKey = process.env.RESEND_API_KEY;
   const notifyEmail = process.env.SUBMIT_NOTIFY_EMAIL;
   if (!apiKey || !notifyEmail) {
-    return errorPage('The form is not fully configured yet.');
+    const missingConfiguration = [];
+    if (!apiKey) missingConfiguration.push('RESEND_API_KEY');
+    if (!notifyEmail) missingConfiguration.push('SUBMIT_NOTIFY_EMAIL');
+    return submissionFailure('missing_configuration', { settings: missingConfiguration });
   }
 
   const lines = [...COMMON_FIELDS, ...TYPE_FIELDS[listingType]]
@@ -161,12 +157,16 @@ async function main(args) {
     });
     if (!res.ok) {
       const detail = await res.text().catch(() => '');
-      console.error('Resend API error', res.status, detail);
-      return errorPage('We could not deliver your submission right now.');
+      return submissionFailure('resend_api_error', {
+        status: res.status,
+        detail: detail.slice(0, 1000),
+      });
     }
   } catch (err) {
-    console.error('Resend request failed', err);
-    return errorPage('We could not deliver your submission right now.');
+    return submissionFailure('resend_request_failed', {
+      name: err instanceof Error ? err.name : 'UnknownError',
+      message: err instanceof Error ? err.message : String(err),
+    });
   }
 
   return redirect('/submit/thanks/');
