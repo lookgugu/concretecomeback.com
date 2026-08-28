@@ -1,0 +1,14 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+---
+<BaseLayout title="Subscription confirmed | Concrete Comeback" description="Your Concrete Comeback subscription is confirmed." noIndex={true}>
+  <section class="max-w-2xl mx-auto px-4 sm:px-6 py-16 text-center">
+    <p class="text-skate-orange font-bold uppercase tracking-widest mb-3">You’re in</p>
+    <h1 class="font-display text-4xl text-concrete-900 mb-4">Your comeback roundup is confirmed</h1>
+    <p class="text-lg text-concrete-600 mb-8">Watch your inbox for new skate spots, practical advice, and stories from older skaters.</p>
+    <a href="/directory/parks" class="inline-block px-6 py-3 bg-skate-orange text-white font-bold rounded-lg no-underline">Find a place to skate</a>
+  </section>
+  <script is:inline>
+    try { localStorage.setItem('cc-newsletter-status', 'subscribed'); } catch (error) {}
+  </script>
+</BaseLayout>
