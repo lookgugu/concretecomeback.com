@@ -33,8 +33,8 @@ Find smooth, flat ground and spend the first couple of sessions just pushing, st
 
 When you do go to a park: go during off-peak hours, find a flat area, and watch others skate for a while before you start. There is no rush.
 
-## The mindset shift
+## Set the right target
 
-You're not trying to get back to where you were at 16. That's the wrong goal and it will frustrate you. You're building a new relationship with skating — one that fits your current body, your current schedule, and your current risk tolerance.
+Getting back to where you were at 16 is the wrong goal, and chasing it will frustrate you. What you're building is a version of skating that fits your current body, schedule, and risk tolerance.
 
-The skaters who come back successfully and stick with it are the ones who find joy in what they *can* do, not grief about what they *used* to do.
+The people who come back and stick with it are the ones who stop measuring against the old version of themselves.

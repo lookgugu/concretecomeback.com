@@ -8,11 +8,11 @@ authorBio: "Physiotherapist and skater. Came back to skating at 49 and hasn't st
 tags: ["gear", "shoes", "joints", "health", "safety"]
 ---
 
-When returning adult skaters ask me about gear, I cover helmets, wrist guards, and knee pads. The question I should add before all of those is one that gets very little coverage: what are you wearing on your feet?
+When returning adult skaters ask me about gear, I cover helmets, wrist guards, and knee pads. The question I should ask first gets almost no coverage anywhere: what are you wearing on your feet?
 
-Footwear is the most consistently underestimated factor in how comfortable skateboarding is on aging joints, and the design of skate shoes makes it specifically counterproductive for adult bodies.
+Footwear is the most underestimated factor in how comfortable skating is on ageing joints, and skate shoe design works against adult bodies specifically.
 
-## The Design Conflict
+## The design conflict
 
 Skate shoes are designed around a very specific performance requirement: board feel. The closer your foot is to the board surface, the more sensitive your feedback about what the board is doing. This translates to better control for technical skating, especially in tricks where subtle board manipulation matters.
 
@@ -20,35 +20,35 @@ The design consequence: extremely flat, extremely thin soles. No arch support. N
 
 This is fine at 17. At 47, it is not fine.
 
-## What Happens to Your Feet and Joints at 40+
+## What changes in your feet after 40
 
 Several things are different about a foot and lower-limb chain at 45 compared to 20:
 
 **Plantar fascia.** The connective tissue along the bottom of the foot loses elasticity with age. Impact that the plantar fascia would have absorbed at 20 now transmits upward to the ankle, knee, and hip. Skating on thin-soled shoes on hard concrete is a reliable way to develop plantar fasciitis.
 
-**Fat pad atrophy.** The natural fat pads in the heel and ball of the foot — which act as biological shock absorbers — thin with age. This is why concrete feels harder underfoot at 50 than it did at 20. It literally is, from your body's perspective.
+**Fat pad atrophy.** The natural fat pads in the heel and ball of the foot — which act as biological shock absorbers — thin with age. This is why concrete feels harder underfoot at 50 than it did at 20 — you're carrying less padding into it.
 
-**Cartilage and joint load.** Repetitive impact on inadequately cushioned feet accelerates the transmission of load to the knee joint. For adults with existing cartilage thinning (very common by 40, especially in former athletes), this matters. The difference between skating on appropriate footwear and skating on technical skate shoes is measurably different in knee load.
+**Cartilage and joint load.** Repetitive impact on under-cushioned feet passes more load up to the knee. For adults with existing cartilage thinning — common by 40, especially in former athletes — that's the difference between an achy session and a bad week.
 
 **Arch changes.** Foot arches tend to flatten with age and weight. A flatter arch changes load distribution throughout the lower limb, often increasing stress on the inside of the knee (a major site of cartilage wear).
 
 None of this means you can't skate. It means footwear choices matter more than they did when you were 20.
 
-## The Skate Shoe Options That Work for Adults
+## Skate shoes that work for adults
 
-The good news: the skate shoe market has evolved. There are now models within the mainstream skate shoe category that provide meaningfully more cushioning without sacrificing so much board feel that they become impractical for skating.
+The market has moved. There are now mainstream skate shoes with real cushioning that still have enough board feel to skate properly in.
 
 **Vans Skate Pro series.** The skate-specific upgrade to classic Vans silhouettes. The DURACAP sole provides significantly more durability than standard Vans, with Pop-Cush cushioning inserts that Vans specifically developed for their skating athletes. Better board feel than running shoes; significantly more cushioning than basic Vans Authentics. Good all-round choice.
 
-**Nike SB Dunk and Nike SB Zoom family.** Nike's Zoom Air cushioning is genuine foam with real shock absorption. The Zoom unit sits in the forefoot and sometimes the heel, providing meaningful impact protection while maintaining a relatively thin sole profile. The SB line is designed by and for skaters; the cushioning is specifically tuned for repeated concrete impact.
+**Nike SB Dunk and Nike SB Zoom family.** Nike's Zoom Air cushioning is genuine foam with real shock absorption. The Zoom unit sits in the forefoot and sometimes the heel, giving you impact protection without a thick sole. The SB line is designed by and for skaters; the cushioning is specifically tuned for repeated concrete impact.
 
 **Emerica Reynolds or Wino G6.** Emerica's adult pro team skates in their own shoes and provides significant feedback on cushioning requirements. The Reynolds and Wino lines both have Heritage or G6 cushioning platforms that provide substantially more protection than entry-level skate shoes.
 
 **Lakai Telford or Manchester.** Lakai's Flick HX sole compound and Ortholite footbed make their mid-range and higher shoes more comfortable for extended sessions than most comparably priced alternatives.
 
-## The Insole Upgrade: Non-Negotiable at 40+
+## The insole upgrade
 
-Even the best skate shoe benefits from an aftermarket insole when you're an adult skating regularly. This is the upgrade that returning adult skaters most commonly overlook and most commonly wish they'd started earlier.
+Even a good skate shoe benefits from an aftermarket insole if you're skating regularly. This is the upgrade returning adults most often skip and most often wish they hadn't.
 
 What an aftermarket insole does that the shoe alone doesn't:
 
@@ -64,9 +64,9 @@ What an aftermarket insole does that the shoe alone doesn't:
 
 **Sole Performance.** Heat-moldable insole that creates a custom fit for your specific arch shape. Slightly higher cost ($60–$80) but the custom fit is worth it if you have unusual arch shape or have had foot issues.
 
-The total cost of an aftermarket insole is $35–$80. The difference in how your knees feel at the end of a session is immediately noticeable.
+An aftermarket insole costs $35–$80. You'll notice the difference in your knees at the end of the first session.
 
-## Practical Recommendations by Skating Type
+## Recommendations by skating type
 
 **Mellow park skating and flatground (most returning adults):** Vans Skate Pro or Nike SB Zoom with a Superfeet Blue insole. Good board feel, genuine cushioning, available everywhere.
 
@@ -76,12 +76,10 @@ The total cost of an aftermarket insole is $35–$80. The difference in how your
 
 **If you have existing knee problems:** The Emerica Reynolds G6 or Lakai Telford + Superfeet Blue. Maximise cushioning without going to a running shoe sole that would compromise push feel.
 
-## When to Replace Skate Shoes
+## When to replace them
 
 Skate shoes wear asymmetrically. The toe of your dominant foot shreds against the griptape before the heel wears out. Most skaters replace shoes when the toe cap breaks through — typically every 3–5 months with regular skating.
 
-Don't skate on worn-through skate shoes. Once the toe cap rubber is gone and fabric is exposed, board feel degrades significantly, and the compromised structure means the cushioning properties elsewhere in the shoe are also compromised.
+Don't keep skating on worn-through shoes. Once the toe cap rubber is gone and fabric is exposed, board feel degrades and the collapsed structure undermines the cushioning elsewhere in the shoe.
 
-The insole can often be transferred to a new shoe. If the insole is still structurally sound, take it out and put it in the replacement pair.
-
-Footwear is the piece of kit you interact with every second of skating. It's worth getting right, and at 45, getting it right means more than "skate brand = good." It means cushioning, support, and ongoing replacement when the shoe structure is gone.
+Move the insole over. If it's still structurally sound, take it out and put it in the replacement pair.

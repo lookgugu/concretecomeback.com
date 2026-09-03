@@ -7,15 +7,13 @@ authorAge: 44
 tags: ["getting-started", "parks", "surfaces", "beginner"]
 ---
 
-Not all skating surfaces are created equal. For returning adults — especially those managing knee or joint issues — the surface you skate on matters more than it did at 17.
+For returning adults, especially anyone managing knee or joint issues, the surface you skate on matters more than it did at 17.
 
-## Concrete: the gold standard
+## Concrete
 
-Skate-specific concrete (the kind used in purpose-built parks) is smooth, predictable, and consistent. It doesn't warp in humidity, doesn't get slippery in mild damp, and the roll is buttery compared to any asphalt.
+Skate-specific concrete — the kind poured for purpose-built parks — is smooth, predictable, and consistent. It doesn't warp in humidity, doesn't get slippery in mild damp, and rolls better than any asphalt.
 
-The best parks in the world are concrete — Burnside in Portland, Venice Beach in LA, House of Vans in London. The surface quality is why.
-
-For returning adult skaters: if you can access a concrete skate park, use it. The smooth, consistent surface makes learning (or relearning) significantly easier.
+If you can get to a concrete park, use it. The consistency is what makes relearning easier: you're not spending attention on the ground.
 
 **Downsides:** Concrete can be slippery when wet. It's also unforgiving when you fall — concrete doesn't compress, it just takes your skin.
 
@@ -47,4 +45,4 @@ Avoid. These surfaces are unpredictable, have gaps that catch wheels, and are pu
 
 **Best for just pushing around**: freshly laid asphalt path or empty car park on a weekend morning.
 
-**Worth upgrading your wheels for**: any outdoor surface. Soft wheels (78a–87a) make every outdoor surface significantly more manageable.
+**Worth upgrading your wheels for**: any outdoor surface. Soft wheels (78a–87a) make rough pavement rideable.

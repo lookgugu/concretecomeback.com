@@ -7,11 +7,11 @@ authorAge: 52
 tags: ["safety", "protective-equipment", "gear", "beginner"]
 ---
 
-Protective gear is the subject most adult skaters resist and most physios insist on. The physios are right.
+Protective gear is the subject adult skaters resist most and physios insist on most. The physios are right.
 
-The logic is simple: at 45, a wrist fracture takes 6–8 weeks to heal. At 16, it might have been 3–4 weeks. At 50, a head injury has consequences that don't exist at 20. The risk calculus has shifted.
+At 45, a wrist fracture takes six to eight weeks to heal where at 16 it might have been three or four. At 50, a head injury carries consequences it wouldn't have at 20. The calculus has shifted, whether or not the instinct has caught up.
 
-Here is what to actually buy.
+Here's what to buy.
 
 ## Helmet: the only non-negotiable
 
@@ -54,6 +54,6 @@ Ankle braces: useful if you've had an ankle injury, but not a substitute for bui
 
 Mouth guards: appropriate for aggressive bowl skating or vert, but overkill for the returning adult who's learning to cruise and carve again.
 
-## The one rule
+## One rule
 
-Wear your helmet every time. Not just when you're "trying something." Adults who get head injuries while skating were usually not trying anything dangerous — they were just pushing along and caught an edge or had a momentary lapse of attention.
+Wear your helmet every time, not just when you're trying something. Most adults who take a head injury skating weren't attempting anything difficult. They were pushing along and caught an edge.

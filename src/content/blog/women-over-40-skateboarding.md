@@ -8,37 +8,35 @@ authorBio: "Physiotherapist and skater. Came back to skating at 49 and hasn't st
 tags: ["motivation", "representation", "community", "women-who-skate", "getting-started"]
 ---
 
-When Oorbee Roy posted a TikTok of herself skating a seven-foot bowl in a sari at 48, she didn't expect 100,000 followers in four months. She just wanted to skate.
+Oorbee Roy started skating in her late forties and began posting clips of it — bowls, a sari, an audience that grew fast. Her account, @auntyskates, became a reference point: a South Asian woman in her forties carving concrete and building a following doing it.
 
-Her account, @auntyskates, became a reference point — proof that a South Asian woman in her late 40s could carve concrete and build a community doing it. She wasn't the first older woman to pick up skateboarding, but the visibility her story created accelerated something that had already been building.
+She wasn't the first older woman to pick up a skateboard. But the visibility helped, and it landed on top of something that was already building. Women over 40 are getting back on boards in numbers the sport hasn't seen before, and skate culture is largely welcoming them.
 
-Women over 40 are getting back on boards in numbers that the sport has never seen before. And skate culture, largely, is welcoming them.
-
-## What Changed
+## What changed
 
 For most of skateboarding's history, the sport's public image was white, male, and teenage. That image made it easy for older women to dismiss skating as "not for them" — even if they'd skated as kids and missed it.
 
 A few things shifted that:
 
-**The Olympics.** When skateboarding debuted at Tokyo 2020, its broadcast audience met skaters who looked nothing like the traditional image. Teams were diverse, women were front and centre, and intergenerational skating was suddenly normal. That visibility matters — it shifts who feels permission to show up.
+**The Olympics.** When skateboarding debuted at Tokyo 2020, its broadcast audience met skaters who looked nothing like the traditional image. Teams were diverse and the women's events got real coverage. That shifts who feels entitled to show up at a park.
 
 **Social media communities.** Groups like Brooklyn Skate Moms on Instagram and r/OldSkaters on Reddit created spaces where older women skating wasn't remarkable — it was the point. You could see yourself reflected there, which makes starting feel less absurd.
 
 **Skate culture gatekeeping has collapsed.** This is the big one. The "you don't belong here" hostility that used to characterise some skate park culture is largely gone among the adults who dominate daytime sessions. Show up consistently, skate at your own level, and the reception you'll get is almost universally fine.
 
-## The Reality of Starting at 40+
+## The reality of starting at 40+
 
-What Oorbee Roy's story doesn't always convey: she started from scratch, fell constantly, and took months to feel comfortable on a board. That's not discouraging — it's the actual path.
+The clips don't show the first six months. Roy started from scratch, fell constantly, and took months to feel comfortable on a board. That's the ordinary path, not a caveat.
 
-What changes after 40 is mostly the recovery timeline, not the learning curve. Muscle memory returns faster than you expect. Balance comes back. The instinct for how to shift weight on a moving board doesn't disappear over two decades — it just gets rusty.
+What changes after 40 is mostly the recovery timeline rather than the learning curve. Muscle memory returns faster than you'd expect, balance comes back, and the instinct for shifting weight on a moving board gets rusty rather than disappearing.
 
-What's genuinely different:
+What's actually different:
 
 - **Falls take longer to recover from.** A bruised hip that would've been fine in a week at 20 might take two to three at 50. Gear matters more now.
 - **Injury prevention is worth taking seriously.** Wrist guards, in particular, prevent the most common adult skating injury. Wear them.
-- **Progress is slower but real.** Expect six months to feel genuinely comfortable rather than six weeks.
+- **Progress is slower but real.** Expect six months to feel comfortable, not six weeks.
 
-## Where to Find Other Women Skating Over 40
+## Where to find other women skating over 40
 
 The adult women's skate community is growing quickly but still scattered. Where to find it:
 
@@ -52,7 +50,7 @@ The adult women's skate community is growing quickly but still scattered. Where 
 
 **r/OldSkaters.** The Reddit community is not women-only, but it's supportive and skews older. Worth browsing before you start for a realistic picture of what the first few months look like.
 
-## The Gear Question
+## The gear question
 
 Women returning to skating often buy equipment that doesn't fit them well — either because skate shops default to men's sizing or because they didn't know what to ask for.
 
@@ -66,7 +64,7 @@ What to prioritise:
 
 **Soft wheels.** Anything in the 78a–87a range will absorb road imperfections and be significantly kinder on your knees and hips than the 99a hard wheels common on street setups.
 
-## What the First Year Looks Like
+## What the first year looks like
 
 Month one: awkward. Your balance exists but doesn't feel reliable. You'll fall. Wear your gear every session.
 
@@ -74,6 +72,4 @@ Month two to three: things start clicking. Pushing and carving feel natural. You
 
 Month four to six: you find your version of skating — the terrain that suits you, the sessions you look forward to, the specific things you want to work on.
 
-Year one: you're a skater. Not a teenager's idea of a skater, but your own version — which is the right kind.
-
-The community is there. The terrain is improving. The only thing between you and skating is starting.
+Year one: you skate. Not the way a teenager skates, but on terrain you chose, at a pace you set.

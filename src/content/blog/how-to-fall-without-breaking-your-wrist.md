@@ -10,19 +10,19 @@ featured: false
 draft: false
 ---
 
-Nobody teaches adults how to fall. We teach helmets, wrist guards, and "start slow" — all correct, all necessary — but almost nobody teaches the physical skill of going down well. That's a gap, because falling is not a rare event in skating. It's a routine part of learning, and how you do it determines whether you walk away sore or walk away in a cast.
+Adults get taught helmets, wrist guards, and "start slow" — all correct — but almost nobody teaches the physical skill of going down well. Falling isn't a rare event in skating; it's a routine part of learning, and how you do it decides whether you walk away sore or in a cast.
 
 ## Why the wrist takes the hit
 
-Wrist and forearm injuries are consistently among the most common skateboarding injuries treated in emergency departments, and the mechanism is almost always the same: a fall onto an outstretched hand. Your body's instinct, when it senses it's going down, is to throw an arm out and brace. That instinct served you well as a kid catching yourself off a bike. On a skateboard, at speed, on concrete, it's often the thing that breaks you.
+Wrist and forearm injuries are consistently among the most common skateboarding injuries treated in emergency departments, and the mechanism is nearly always the same: a fall onto an outstretched hand. When your body senses it's going down, the instinct is to throw an arm out and brace. That instinct served you well as a kid coming off a bike. At speed, on concrete, it's often the thing that breaks you.
 
-This matters more after 40. Bone density declines gradually with age, and the same fall that would have sprained a 19-year-old's wrist can fracture a 45-year-old's. The falling technique that didn't matter much when you were young matters a lot now.
+Bone density declines gradually with age, so the fall that would have sprained a 19-year-old's wrist can fracture a 45-year-old's. Technique that didn't matter much when you were young matters now.
 
 ## The instinct that gets you hurt
 
-Stiff-arming the ground concentrates all of your falling momentum into a small, rigid joint that isn't built to absorb it. The fix isn't complicated, but it goes against a deeply wired reflex, which is why it has to be practiced deliberately rather than left to instinct in the moment.
+Stiff-arming the ground funnels all of your falling momentum into a small, rigid joint that isn't built to absorb it. The fix is simple to describe and hard to install, because it runs against a deeply wired reflex.
 
-The goal, every time you feel a fall coming, is the same: get low, protect your head, and spread the impact across the parts of your body that can take it.
+The goal, every time you feel a fall coming: get low, protect your head, spread the impact across the parts of your body that can take it.
 
 ## The tuck-and-roll fundamentals
 
@@ -48,8 +48,8 @@ None of this replaces wrist guards — it works alongside them. Guards with a ri
 
 Wear them every session, not just when you're trying something new. Most falls happen doing ordinary things, not big tricks.
 
-## Falling well is a skill, not a failure
+## Treat it as a skill
 
-One of the harder mental shifts for adults returning to skating is accepting that falling is going to happen, regularly, for as long as you skate. It's not a sign you're doing something wrong. It's part of the sport.
+One of the harder adjustments for adults returning to skating is accepting that falling will keep happening, regularly, for as long as you skate. It's part of the sport rather than a sign you're doing it wrong.
 
-What you have control over is how you fall. Treat it as a skill worth practicing on purpose, the same way you'd practice pushing or carving, and the falls that used to end a season will start to just be falls — the kind you get up from, dust off, and keep skating through.
+What you control is how you fall. Practise it on purpose, the same way you'd practise pushing or carving.
