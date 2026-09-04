@@ -11,3 +11,6 @@ node_modules/
 
 # Local agent tooling config — contains API tokens in plaintext
 .agents/
+
+# Firecrawl scrape output from local skill runs
+.firecrawl/
