@@ -53,7 +53,8 @@ function readToken(token, secret, now = Date.now()) {
   try {
     const parsed = JSON.parse(Buffer.from(payload, 'base64url').toString('utf8'));
     const email = String(parsed.email || '').trim().toLowerCase();
-    if (!EMAIL_RE.test(email) || email.length > 254 || Number(parsed.expires) < now) return null;
+    // Compare positively so a payload with a missing or unparseable expiry fails closed.
+    if (!EMAIL_RE.test(email) || email.length > 254 || !(Number(parsed.expires) > now)) return null;
     return email;
   } catch (_error) {
     return null;
@@ -148,14 +149,18 @@ async function confirmSignup(token) {
       method: 'POST',
       body: JSON.stringify({ email, unsubscribed: false }),
     });
-    if (createResult.status === 409) {
+    // A create can be rejected because the contact already exists, and Resend does
+    // not commit to one status code for that. Treat any failed create as a possible
+    // duplicate and reactivate the existing contact before giving up, so someone who
+    // did confirm is never sent to the error page.
+    if (!createResult.ok) {
       const updateResult = await resendRequest(`/contacts/${encodeURIComponent(email)}`, apiKey, {
         method: 'PATCH',
         body: JSON.stringify({ unsubscribed: false }),
       });
-      if (!updateResult.ok) throw new Error(`Contact update failed with ${updateResult.status}`);
-    } else if (!createResult.ok) {
-      throw new Error(`Contact creation failed with ${createResult.status}`);
+      if (!updateResult.ok) {
+        throw new Error(`Contact create failed with ${createResult.status}, update with ${updateResult.status}`);
+      }
     }
     return redirect('/newsletter/confirmed/');
   } catch (error) {

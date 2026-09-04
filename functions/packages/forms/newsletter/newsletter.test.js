@@ -1,5 +1,6 @@
 const test = require('node:test');
 const assert = require('node:assert/strict');
+const { createHmac } = require('node:crypto');
 const { main, createToken, readToken } = require('./newsletter');
 
 const ENV_KEYS = ['RESEND_API_KEY', 'RESEND_CONTACTS_API_KEY', 'NEWSLETTER_CONFIRM_SECRET'];
@@ -56,6 +57,44 @@ test('repeated signup uses one per-address idempotency key and treats suppressio
   });
 });
 
+// The browser posts through fetch, and DO only parses JSON and form-urlencoded
+// bodies into `args`. Anything else arrives base64-encoded in `__ow_body`, so the
+// encoded-body path is the one real visitors exercise.
+test('a urlencoded request body posted by the browser reaches the function', async () => {
+  const requests = [];
+  await withEnvironment(async (url, options) => {
+    requests.push({ url, options });
+    return { ok: true, status: 200 };
+  }, async () => {
+    const body = new URLSearchParams({ _gotcha: '', consent: 'yes', email: 'Skater@Example.com' });
+    const result = await main({
+      http: { method: 'POST' },
+      __ow_body: Buffer.from(body.toString(), 'utf8').toString('base64'),
+    });
+
+    assert.equal(result.statusCode, 202);
+    assert.equal(requests.length, 1);
+    assert.deepEqual(JSON.parse(requests[0].options.body).to, ['skater@example.com']);
+  });
+});
+
+test('an unencoded urlencoded body is decoded too', async () => {
+  const requests = [];
+  await withEnvironment(async (url, options) => {
+    requests.push({ url, options });
+    return { ok: true, status: 200 };
+  }, async () => {
+    const result = await main({
+      http: { method: 'POST' },
+      __ow_isBase64Encoded: false,
+      __ow_body: 'consent=yes&email=skater%40example.com',
+    });
+
+    assert.equal(result.statusCode, 202);
+    assert.equal(requests.length, 1);
+  });
+});
+
 test('confirmation link renders an explicit confirmation form', async () => {
   await withEnvironment(async () => ({ ok: true, status: 200 }), async () => {
     const token = createToken('skater@example.com', process.env.NEWSLETTER_CONFIRM_SECRET);
@@ -95,17 +134,26 @@ test('confirmed signup creates an active Resend contact', async () => {
   });
 });
 
-test('a previously existing contact is resubscribed only after confirmation', async () => {
+test('a rejected create falls back to reactivating the existing contact', async () => {
   const requests = [];
   await withEnvironment(async (url, options) => {
     requests.push({ url, options });
-    return requests.length === 1 ? { ok: false, status: 409 } : { ok: true, status: 200 };
+    // Resend does not commit to 409 for a duplicate, so any failed create must retry.
+    return requests.length === 1 ? { ok: false, status: 422 } : { ok: true, status: 200 };
   }, async () => {
     const token = createToken('returning@example.com', process.env.NEWSLETTER_CONFIRM_SECRET);
     const result = await main({ http: { method: 'POST' }, confirmation_token: token });
     assert.equal(result.headers.location, '/newsletter/confirmed/');
     assert.equal(requests[1].url, 'https://api.resend.com/contacts/returning%40example.com');
     assert.equal(requests[1].options.method, 'PATCH');
+  });
+});
+
+test('a confirmation whose create and update both fail lands on the error page', async () => {
+  await withEnvironment(async () => ({ ok: false, status: 500 }), async () => {
+    const token = createToken('broken@example.com', process.env.NEWSLETTER_CONFIRM_SECRET);
+    const result = await main({ http: { method: 'POST' }, confirmation_token: token });
+    assert.equal(result.headers.location, '/newsletter/error/');
   });
 });
 
@@ -125,4 +173,11 @@ test('tampered and expired tokens are rejected', () => {
   const valid = createToken('skater@example.com', secret, 1_000);
   assert.equal(readToken(`${valid}x`, secret, 2_000), null);
   assert.equal(readToken(valid, secret, 1_000 + 24 * 60 * 60 * 1000 + 1), null);
+});
+
+test('a signed payload without an expiry is rejected rather than living forever', () => {
+  const secret = 'test-secret';
+  const payload = Buffer.from(JSON.stringify({ email: 'skater@example.com' })).toString('base64url');
+  const signature = createHmac('sha256', secret).update(payload).digest('base64url');
+  assert.equal(readToken(`${payload}.${signature}`, secret, 2_000), null);
 });
