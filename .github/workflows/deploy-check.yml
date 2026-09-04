@@ -21,6 +21,11 @@ jobs:
       # healthy — probing straight away would pass without ever testing the new
       # build. `npm run build` stamps public/llms-full.txt with its start time, so
       # a stamp newer than this run proves the pushed deploy is the one live.
+      #
+      # The stamp file is served with s-maxage=86400, so Cloudflare will happily
+      # return the previous build's copy for 24h and this gate can never observe
+      # the new one. Each poll therefore appends a unique query param to miss the
+      # edge cache and reach the origin — do not "tidy" it away.
       - name: Wait for the pushed deployment to go live
         if: github.event_name == 'push'
         env:
@@ -31,7 +36,13 @@ jobs:
           echo "Run started at $(date -u -d "@$started" --iso-8601=seconds)"
 
           for i in $(seq 1 30); do
-            raw=$(curl -fsS --max-time 20 "$BUILD_STAMP_URL" 2>/dev/null \
+            # Unique per attempt: Cloudflare keys its cache on the full URL.
+            bust="cb=$(date -u +%s)-$i-$RANDOM"
+            case "$BUILD_STAMP_URL" in *\?*) url="$BUILD_STAMP_URL&$bust";; *) url="$BUILD_STAMP_URL?$bust";; esac
+
+            raw=$(curl -fsS --max-time 20 \
+                  -H 'Cache-Control: no-cache' -H 'Pragma: no-cache' \
+                  "$url" 2>/dev/null \
                   | sed -n 's/^# Date: //p' | head -1 | tr -d '\r')
             # Trim fractional seconds so GNU date parses it reliably.
             stamp=$(printf '%s' "$raw" | sed 's/\.[0-9]*Z$/Z/')
@@ -51,6 +62,8 @@ jobs:
 
           echo "::error::Timed out after 10 minutes waiting for the pushed deploy to go live."
           echo "The health check below was NOT run against the new build."
+          echo "Polls bypass the CDN, so this reflects the origin: check the DigitalOcean"
+          echo "deployment for '$GITHUB_SHA' rather than assuming a stale cache."
           exit 1
 
       - name: Poll submit-function health endpoint
