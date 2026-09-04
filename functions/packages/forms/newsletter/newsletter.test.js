@@ -1,7 +1,7 @@
 const test = require('node:test');
 const assert = require('node:assert/strict');
 const { createHmac } = require('node:crypto');
-const { main, createToken, readToken } = require('./newsletter');
+const { main, createToken, readToken, idempotencyKey, timeoutBudget, TOKEN_TTL_MS } = require('./newsletter');
 
 const ENV_KEYS = ['RESEND_API_KEY', 'RESEND_CONTACTS_API_KEY', 'NEWSLETTER_CONFIRM_SECRET'];
 
@@ -17,6 +17,14 @@ async function withEnvironment(fetchImpl, callback) {
     global.fetch = previousFetch;
     for (const key of ENV_KEYS) previous[key] === undefined ? delete process.env[key] : process.env[key] = previous[key];
   }
+}
+
+async function captureWarnings(callback) {
+  const warnings = [];
+  const original = console.warn;
+  console.warn = (...args) => warnings.push(args);
+  try { await callback(); } finally { console.warn = original; }
+  return warnings;
 }
 
 test('signup sends a confirmation email without creating a contact', async () => {
@@ -37,9 +45,9 @@ test('signup sends a confirmation email without creating a contact', async () =>
   });
 });
 
-test('repeated signup uses one per-address idempotency key and treats suppression as pending', async () => {
+test('repeated signup shares one idempotency key, reports pending, and logs the suppression', async () => {
   const requests = [];
-  await withEnvironment(async (url, options) => {
+  const warnings = await captureWarnings(() => withEnvironment(async (url, options) => {
     requests.push({ url, options });
     return requests.length === 1 ? { ok: true, status: 200 } : { ok: false, status: 409 };
   }, async () => {
@@ -54,7 +62,21 @@ test('repeated signup uses one per-address idempotency key and treats suppressio
       requests[0].options.headers['Idempotency-Key'],
       requests[1].options.headers['Idempotency-Key'],
     );
-  });
+  }));
+
+  // The visitor is told "check your inbox" either way; the log line is the only
+  // evidence that no second email went out.
+  assert.equal(warnings.length, 1);
+  assert.equal(warnings[0][1].code, 'confirmation_email_suppressed');
+  assert.doesNotMatch(JSON.stringify(warnings), /skater@example\.com/);
+});
+
+test('the idempotency key is stable within a token lifetime and rotates after it', () => {
+  const secret = 'test-secret';
+  const start = 7 * TOKEN_TTL_MS + 1_000;
+  assert.equal(idempotencyKey('skater@example.com', secret, start), idempotencyKey('skater@example.com', secret, start + 60_000));
+  assert.notEqual(idempotencyKey('skater@example.com', secret, start), idempotencyKey('skater@example.com', secret, start + TOKEN_TTL_MS));
+  assert.notEqual(idempotencyKey('skater@example.com', secret, start), idempotencyKey('other@example.com', secret, start));
 });
 
 // The browser posts through fetch, and DO only parses JSON and form-urlencoded
@@ -120,41 +142,72 @@ test('health check reports all newsletter configuration without making an outbou
   });
 });
 
-test('confirmed signup creates an active Resend contact', async () => {
+test('confirming reactivates an existing contact with a single update', async () => {
   const requests = [];
   await withEnvironment(async (url, options) => {
     requests.push({ url, options });
-    return { ok: true, status: 201 };
-  }, async () => {
-    const token = createToken('skater@example.com', process.env.NEWSLETTER_CONFIRM_SECRET);
-    const result = await main({ http: { method: 'POST' }, confirmation_token: token });
-    assert.equal(result.headers.location, '/newsletter/confirmed/');
-    assert.equal(requests[0].url, 'https://api.resend.com/contacts');
-    assert.deepEqual(JSON.parse(requests[0].options.body), { email: 'skater@example.com', unsubscribed: false });
-  });
-});
-
-test('a rejected create falls back to reactivating the existing contact', async () => {
-  const requests = [];
-  await withEnvironment(async (url, options) => {
-    requests.push({ url, options });
-    // Resend does not commit to 409 for a duplicate, so any failed create must retry.
-    return requests.length === 1 ? { ok: false, status: 422 } : { ok: true, status: 200 };
+    return { ok: true, status: 200 };
   }, async () => {
     const token = createToken('returning@example.com', process.env.NEWSLETTER_CONFIRM_SECRET);
     const result = await main({ http: { method: 'POST' }, confirmation_token: token });
     assert.equal(result.headers.location, '/newsletter/confirmed/');
-    assert.equal(requests[1].url, 'https://api.resend.com/contacts/returning%40example.com');
-    assert.equal(requests[1].options.method, 'PATCH');
+    assert.equal(requests.length, 1);
+    assert.equal(requests[0].url, 'https://api.resend.com/contacts/returning%40example.com');
+    assert.equal(requests[0].options.method, 'PATCH');
+    assert.deepEqual(JSON.parse(requests[0].options.body), { unsubscribed: false });
+    assert.ok(requests[0].options.signal instanceof AbortSignal);
   });
 });
 
-test('a confirmation whose create and update both fail lands on the error page', async () => {
-  await withEnvironment(async () => ({ ok: false, status: 500 }), async () => {
+test('confirming a new address creates the contact only after the update reports 404', async () => {
+  const requests = [];
+  await withEnvironment(async (url, options) => {
+    requests.push({ url, options });
+    return requests.length === 1 ? { ok: false, status: 404 } : { ok: true, status: 201 };
+  }, async () => {
+    const token = createToken('skater@example.com', process.env.NEWSLETTER_CONFIRM_SECRET);
+    const result = await main({ http: { method: 'POST' }, confirmation_token: token });
+    assert.equal(result.headers.location, '/newsletter/confirmed/');
+    assert.equal(requests.length, 2);
+    assert.equal(requests[0].options.method, 'PATCH');
+    assert.equal(requests[1].url, 'https://api.resend.com/contacts');
+    assert.equal(requests[1].options.method, 'POST');
+    assert.deepEqual(JSON.parse(requests[1].options.body), { email: 'skater@example.com', unsubscribed: false });
+    assert.ok(requests[1].options.signal instanceof AbortSignal);
+  });
+});
+
+test('an update failure other than 404 lands on the error page without attempting a create', async () => {
+  const requests = [];
+  await withEnvironment(async (url, options) => {
+    requests.push({ url, options });
+    return { ok: false, status: 401 };
+  }, async () => {
+    const token = createToken('skater@example.com', process.env.NEWSLETTER_CONFIRM_SECRET);
+    const result = await main({ http: { method: 'POST' }, confirmation_token: token });
+    assert.equal(result.headers.location, '/newsletter/error/');
+    assert.equal(requests.length, 1);
+  });
+});
+
+test('a confirmation whose update reports 404 and whose create fails lands on the error page', async () => {
+  const requests = [];
+  await withEnvironment(async (url, options) => {
+    requests.push({ url, options });
+    return requests.length === 1 ? { ok: false, status: 404 } : { ok: false, status: 500 };
+  }, async () => {
     const token = createToken('broken@example.com', process.env.NEWSLETTER_CONFIRM_SECRET);
     const result = await main({ http: { method: 'POST' }, confirmation_token: token });
     assert.equal(result.headers.location, '/newsletter/error/');
+    assert.equal(requests.length, 2);
   });
+});
+
+test('each Resend call in a confirmation draws on one shared budget', () => {
+  assert.equal(timeoutBudget(undefined), 8000);
+  assert.equal(timeoutBudget(50_000, 45_000), 5_000);
+  // An exhausted budget still gets a floor, so the call fails fast instead of hanging.
+  assert.equal(timeoutBudget(50_000, 50_500), 1_000);
 });
 
 test('invalid consent and bot submissions do not call Resend', async () => {
@@ -172,7 +225,8 @@ test('tampered and expired tokens are rejected', () => {
   const secret = 'test-secret';
   const valid = createToken('skater@example.com', secret, 1_000);
   assert.equal(readToken(`${valid}x`, secret, 2_000), null);
-  assert.equal(readToken(valid, secret, 1_000 + 24 * 60 * 60 * 1000 + 1), null);
+  assert.equal(readToken(valid, secret, 1_000 + TOKEN_TTL_MS - 1), 'skater@example.com');
+  assert.equal(readToken(valid, secret, 1_000 + TOKEN_TTL_MS), null);
 });
 
 test('a signed payload without an expiry is rejected rather than living forever', () => {

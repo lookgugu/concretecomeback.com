@@ -20,7 +20,7 @@ npx astro check    # TypeScript/Astro diagnostics
 
 **Astro 7 static site** (`output: 'static'`, `format: 'directory'`). No server-side rendering. All pages are pre-rendered HTML. Deployed to DigitalOcean App Platform via `.do/app.yaml`; every push to `main` auto-deploys.
 
-**Tailwind CSS v4** — configured entirely through `src/styles/global.css`. There is no `tailwind.config.js`. Design tokens live in the `@theme {}` block. Always use CSS custom properties (`var(--color-concrete-700)`) — never the `theme()` function, which is not supported in v4. Plugins are loaded with `@plugin` directives.
+**Tailwind CSS v4** — configured entirely through `src/styles/global.css`. There is no `tailwind.config.js`. Design tokens live in the `@theme {}` block. Always use CSS custom properties (`var(--color-concrete-700)`) — never the `theme()` function, which is not supported in v4. Plugins are loaded with `@plugin` directives. The `prose-concrete` typography palette lives here too — a component's `<style is:global>` only ships on pages that render that component, which is how `/about`, `/privacy`, and the directory detail pages silently lost it.
 
 **Content Layer API** — collection schemas are defined in `src/content.config.ts` (root of `src/`, not inside `src/content/`). Collections use `glob()` loaders. Import `z` from `zod` directly, not from `astro:content`. Four collections: `blog`, `parks`, `shops`, `groups`.
 
@@ -87,6 +87,10 @@ The health check is GET-only (so a POST carrying a `health` field can't divert a
 ## The newsletter signup
 
 `src/components/marketing/NewsletterSignup.astro` posts to `/api/forms/newsletter` (`functions/packages/forms/newsletter/newsletter.js`) and runs double opt-in: the POST only sends a signed, 24-hour confirmation link, and the Resend Contact is created solely by an explicit POST from the confirmation page, so an email scanner following the link cannot subscribe anyone. It needs two more secrets on the `api` component: `RESEND_CONTACTS_API_KEY` (a Resend key with Contacts access — the send-only `RESEND_API_KEY` still delivers the confirmation email) and `NEWSLETTER_CONFIRM_SECRET` (32+ random bytes used to sign links; rotating it invalidates every link in flight).
+
+**Set both secrets in the DigitalOcean control panel before merging anything that references them.** `functions/project.yml` substitutes `${VAR}` at deploy time, and the deployer aborts the whole `forms` package — the submit function included — on an unresolved name, while the previous deployment stays live so nothing in that push ships. The `SECRET` entries in `.do/app.yaml` don't help on their own: DO deploys the stored spec, not the file.
+
+Confirmation links live for two hours and are never invalidated (the function is stateless), so the TTL is the entire replay window; `PENDING_MS` in `newsletter-signup.js` mirrors it so the prompt can return once a link is dead. Confirming always reactivates the contact — PATCH first, create on 404 — because Resend returns 2xx for a duplicate create and a create cannot be trusted to un-unsubscribe anyone. There is **no rate limit** on the signup POST beyond the honeypot and a per-address, per-TTL-bucket idempotency key; the endpoint emails visitor-chosen addresses, so a real limit belongs at the edge (a Cloudflare rate-limiting rule on `/api/forms/newsletter`) rather than in the stateless function.
 
 ```bash
 curl "https://concretecomeback.com/api/forms/newsletter?health=1"

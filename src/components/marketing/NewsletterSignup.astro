@@ -2,8 +2,6 @@
   id="newsletter-signup"
   hidden
   data-visible="false"
-  role="dialog"
-  aria-modal="false"
   aria-labelledby="newsletter-title"
   class="fixed z-50 bottom-0 left-0 right-0 sm:left-auto sm:right-5 sm:bottom-5 sm:max-w-md bg-white border border-concrete-200 sm:rounded-xl shadow-2xl p-5 sm:p-6 transition duration-200 translate-y-full opacity-0 data-[visible=true]:translate-y-0 data-[visible=true]:opacity-100"
 >
@@ -45,6 +43,7 @@
     </p>
   </form>
   <p data-newsletter-status role="status" aria-live="polite" class="text-sm font-medium text-concrete-700 mt-3"></p>
+  <p data-newsletter-announce role="status" aria-live="polite" class="sr-only"></p>
 </aside>
 
 <script>

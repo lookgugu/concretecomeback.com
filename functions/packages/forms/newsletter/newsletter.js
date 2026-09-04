@@ -1,7 +1,16 @@
 const { createHmac, timingSafeEqual } = require('node:crypto');
 
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-const TOKEN_TTL_MS = 24 * 60 * 60 * 1000;
+// Deliberately short. The function is stateless, so nothing invalidates a link
+// once it has been used: the TTL *is* the window in which a confirmation can be
+// replayed, including to re-subscribe someone who unsubscribed in between.
+const TOKEN_TTL_MS = 2 * 60 * 60 * 1000;
+// Wall-clock budget shared by every Resend call inside one confirmation. It has
+// to fit within the 15s `limits.timeout` in project.yml with room to spare, or
+// DO kills the invocation before the branded error redirect can be returned.
+const CONFIRM_BUDGET_MS = 12000;
+const DEFAULT_REQUEST_TIMEOUT_MS = 8000;
+const MIN_REQUEST_TIMEOUT_MS = 1000;
 const SITE_URL = 'https://concretecomeback.com';
 
 function response(statusCode, body, contentType = 'application/json') {
@@ -74,7 +83,15 @@ function confirmationPage(token) {
 <p><a href="/">Return to Concrete Comeback</a></p></main></body></html>`;
 }
 
-async function resendRequest(path, apiKey, options) {
+// How long a single request may take. Given a deadline, the call gets whatever
+// is left of the shared budget, floored so an exhausted budget fails fast rather
+// than hanging until the platform timeout.
+function timeoutBudget(deadline, now = Date.now()) {
+  if (!deadline) return DEFAULT_REQUEST_TIMEOUT_MS;
+  return Math.max(MIN_REQUEST_TIMEOUT_MS, deadline - now);
+}
+
+async function resendRequest(path, apiKey, options, deadline) {
   return fetch(`https://api.resend.com${path}`, {
     ...options,
     headers: {
@@ -82,8 +99,16 @@ async function resendRequest(path, apiKey, options) {
       'Content-Type': 'application/json',
       ...(options.headers || {}),
     },
-    signal: AbortSignal.timeout(8000),
+    signal: AbortSignal.timeout(timeoutBudget(deadline)),
   });
+}
+
+// Resend retains idempotency keys for 24 hours — longer than a link lives. Bucket
+// the key by the token TTL so a double-submit shares one send, but a visitor
+// whose link expired, bounced, or never arrived can get a fresh one afterwards.
+// The address is hashed so a retry cannot expose it in provider logs.
+function idempotencyKey(email, secret, now = Date.now()) {
+  return `newsletter-confirmation/${sign(`${email}:${Math.floor(now / TOKEN_TTL_MS)}`, secret)}`;
 }
 
 async function startSignup(args) {
@@ -109,19 +134,21 @@ async function startSignup(args) {
     text: `Confirm your subscription to the monthly Concrete Comeback roundup:\n\n${confirmUrl}\n\nIf you did not request this, you can ignore this email.`,
     html: `<p>Confirm your subscription to the monthly Concrete Comeback roundup.</p><p><a href="${confirmUrl}">Confirm my subscription</a></p><p>If you did not request this, you can ignore this email.</p>`,
   };
-  // Resend retains idempotency keys for 24 hours. Hash the normalized address so
-  // retries cannot expose it in provider logs while still sharing one cooldown.
-  const idempotencyKey = `newsletter-confirmation/${sign(email, secret)}`;
 
   try {
     const result = await resendRequest('/emails', apiKey, {
       method: 'POST',
       body: JSON.stringify(payload),
-      headers: { 'Idempotency-Key': idempotencyKey },
+      headers: { 'Idempotency-Key': idempotencyKey(email, secret) },
     });
-    // A reused or concurrent key means Resend suppressed the duplicate send.
-    // Keep the public response indistinguishable from the initial request.
-    if (result.status === 409) return response(202, { ok: true, status: 'pending' });
+    if (result.status === 409) {
+      // Resend suppressed a duplicate send inside the current bucket. Keep the
+      // public response indistinguishable from a first request, but leave a
+      // trace: a visitor whose first email bounced is told "check your inbox"
+      // with nothing arriving, and this line is the only evidence of why.
+      console.warn('Newsletter signup deduplicated', { code: 'confirmation_email_suppressed' });
+      return response(202, { ok: true, status: 'pending' });
+    }
     if (!result.ok) {
       console.error('Newsletter signup failed', { code: 'confirmation_email_failed', status: result.status });
       return response(502, { ok: false, error: 'We could not send the confirmation email. Please try again.' });
@@ -144,22 +171,27 @@ async function confirmSignup(token) {
     return redirect('/newsletter/error/');
   }
 
+  const deadline = Date.now() + CONFIRM_BUDGET_MS;
   try {
-    const createResult = await resendRequest('/contacts', apiKey, {
-      method: 'POST',
-      body: JSON.stringify({ email, unsubscribed: false }),
-    });
-    // A create can be rejected because the contact already exists, and Resend does
-    // not commit to one status code for that. Treat any failed create as a possible
-    // duplicate and reactivate the existing contact before giving up, so someone who
-    // did confirm is never sent to the error page.
-    if (!createResult.ok) {
-      const updateResult = await resendRequest(`/contacts/${encodeURIComponent(email)}`, apiKey, {
-        method: 'PATCH',
-        body: JSON.stringify({ unsubscribed: false }),
-      });
-      if (!updateResult.ok) {
-        throw new Error(`Contact create failed with ${createResult.status}, update with ${updateResult.status}`);
+    // Resend answers POST /contacts with 2xx for an address that already exists
+    // and does not document whether the body's `unsubscribed` is applied, so a
+    // create cannot be trusted to reactivate a lapsed subscriber. Update first —
+    // it is the path for anyone who has ever been on the list — and only create
+    // when Resend says the contact does not exist.
+    const updateResult = await resendRequest(`/contacts/${encodeURIComponent(email)}`, apiKey, {
+      method: 'PATCH',
+      body: JSON.stringify({ unsubscribed: false }),
+    }, deadline);
+    if (!updateResult.ok) {
+      if (updateResult.status !== 404) {
+        throw new Error(`Contact update failed with ${updateResult.status}`);
+      }
+      const createResult = await resendRequest('/contacts', apiKey, {
+        method: 'POST',
+        body: JSON.stringify({ email, unsubscribed: false }),
+      }, deadline);
+      if (!createResult.ok) {
+        throw new Error(`Contact missing (update 404), create failed with ${createResult.status}`);
       }
     }
     return redirect('/newsletter/confirmed/');
@@ -200,3 +232,6 @@ async function main(rawArgs) {
 exports.main = main;
 exports.createToken = createToken;
 exports.readToken = readToken;
+exports.idempotencyKey = idempotencyKey;
+exports.timeoutBudget = timeoutBudget;
+exports.TOKEN_TTL_MS = TOKEN_TTL_MS;
