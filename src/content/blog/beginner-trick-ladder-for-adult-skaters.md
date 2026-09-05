@@ -40,7 +40,9 @@ A manual — balancing on the back wheels while rolling, without pivoting — is
 
 Dropping into a quarter pipe or shallow bowl from the coping is less a trick than a threshold — it's the moment most returning adults associate with "really skating a park" rather than just rolling around its flat sections. It also tends to carry outsized fear relative to its actual difficulty, because it looks more committing than it is.
 
-Do this one with someone experienced nearby the first several times, on the smallest, mellowest transition you can find. There's no version of drop-ins that benefits from rushing or from an audience.
+Don't treat this rung as a straight jump from flat-ground manuals. Before you stand on the coping, you need two things a manual doesn't teach: comfort riding transition (rolling in and out of the shallow end of a bowl or the bottom of a quarter pipe under your own push, without dropping in) and a practiced knee slide or roll-out bail, so your body has a default response when a drop-in goes wrong. Gear matters more here than at any earlier rung — a helmet, wrist guards, and full-cup knee pads (not the slim, low-profile kind) are what let you slide out of a bad landing on transition instead of digging in. See the safety gear guide on this site for why full-cup pads specifically matter for ramp terrain.
+
+Even with that groundwork, do this one with someone experienced nearby the first several times, on the smallest, mellowest transition you can find. There's no version of drop-ins that benefits from rushing or from an audience — and no version where a spotter substitutes for the transition riding, bail practice, and pads above.
 
 **Realistic timeline:** the physical skill itself often clicks within a session or two once you commit; the mental barrier usually takes longer than the physical one. Give yourself permission to spend multiple sessions just standing at the top before you go.
 
