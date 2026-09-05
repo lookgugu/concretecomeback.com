@@ -117,14 +117,23 @@ test('an unencoded urlencoded body is decoded too', async () => {
   });
 });
 
-test('confirmation link renders an explicit confirmation form', async () => {
-  await withEnvironment(async () => ({ ok: true, status: 200 }), async () => {
+// The link in the email is a GET. It must not subscribe anyone by itself —
+// email security scanners fetch every link — but a person should not have to
+// click twice, so the page submits its own POST and keeps the button as a
+// no-JavaScript fallback.
+test('confirmation link renders a self-submitting confirmation form', async () => {
+  let calls = 0;
+  await withEnvironment(async () => { calls += 1; return { ok: true, status: 200 }; }, async () => {
     const token = createToken('skater@example.com', process.env.NEWSLETTER_CONFIRM_SECRET);
     const result = await main({ http: { method: 'GET' }, token });
     assert.equal(result.statusCode, 200);
     assert.match(result.headers['content-type'], /text\/html/);
-    assert.match(result.body, /Confirm my subscription/);
+    assert.match(result.body, /method="post" action="\/api\/forms\/newsletter"/);
     assert.match(result.body, /name="confirmation_token"/);
+    assert.match(result.body, /<button type="submit">Confirm my subscription<\/button>/);
+    assert.match(result.body, /f\.submit\(\)/);
+    // The GET alone never touches Resend; only the POST it triggers does.
+    assert.equal(calls, 0);
   });
 });
 

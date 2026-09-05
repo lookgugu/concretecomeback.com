@@ -74,13 +74,20 @@ function confirmationPage(token) {
   const safeToken = String(token).replace(/[&<>"']/g, (character) => ({
     '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;',
   })[character]);
+  // The page submits itself as soon as it runs, so a person lands on the welcome
+  // page in one click from the email. Email security scanners fetch the GET
+  // without running scripts, so they stop here and never confirm anyone. The
+  // button remains for browsers without JavaScript, and is re-enabled if the
+  // automatic submit stalls so nobody is left stranded on a disabled control.
   return `<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="robots" content="noindex"><title>Confirm your subscription | Concrete Comeback</title>
-<style>body{margin:0;background:#f7f6f3;color:#292724;font:18px/1.6 system-ui,sans-serif}.card{max-width:38rem;margin:10vh auto;padding:2rem;background:#fff;border:1px solid #ddd8d0;border-radius:1rem;box-shadow:0 8px 30px #0001}h1{font-family:Impact,system-ui,sans-serif;line-height:1.1}button{min-height:48px;border:0;border-radius:.6rem;background:#e66b24;color:#fff;padding:.75rem 1.2rem;font:700 1rem system-ui;cursor:pointer}a{color:#292724}</style></head>
-<body><main class="card"><p>CONCRETE COMEBACK</p><h1>One last push</h1><p>Confirm that you want the monthly roundup of new skate spots, practical comeback advice, and community stories.</p>
-<form method="post" action="/api/forms/newsletter"><input type="hidden" name="confirmation_token" value="${safeToken}"><button type="submit">Confirm my subscription</button></form>
-<p><a href="/">Return to Concrete Comeback</a></p></main></body></html>`;
+<meta name="robots" content="noindex"><title>Confirming your subscription | Concrete Comeback</title>
+<style>body{margin:0;background:#f7f6f3;color:#292724;font:18px/1.6 system-ui,sans-serif}.card{max-width:38rem;margin:10vh auto;padding:2rem;background:#fff;border:1px solid #ddd8d0;border-radius:1rem;box-shadow:0 8px 30px #0001}h1{font-family:Impact,system-ui,sans-serif;line-height:1.1}button{min-height:48px;border:0;border-radius:.6rem;background:#e66b24;color:#fff;padding:.75rem 1.2rem;font:700 1rem system-ui;cursor:pointer}button[disabled]{opacity:.6;cursor:default}a{color:#292724}</style></head>
+<body><main class="card"><p>CONCRETE COMEBACK</p><h1>Confirming your subscription</h1><p>One moment — you will land on your welcome page in a second. If nothing happens, use the button below.</p>
+<form method="post" action="/api/forms/newsletter" id="confirm"><input type="hidden" name="confirmation_token" value="${safeToken}"><button type="submit">Confirm my subscription</button></form>
+<p><a href="/">Return to Concrete Comeback</a></p></main>
+<script>(function(){var f=document.getElementById('confirm'),b=f.querySelector('button'),t=b.textContent;b.disabled=true;b.textContent='Confirming\u2026';setTimeout(function(){b.disabled=false;b.textContent=t;},10000);f.submit();})();</script>
+</body></html>`;
 }
 
 // How long a single request may take. Given a deadline, the call gets whatever
