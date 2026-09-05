@@ -26,7 +26,7 @@ The most direct fix is skating indoors, and the option is more available than it
 
 - **Indoor skateparks.** Many cities now have at least one dedicated indoor facility, often converted from a warehouse or old retail space. These tend to be smaller than big outdoor parks but are usually well-suited to mellow, adult-friendly sessions.
 - **Multi-sport facilities with skate time.** Some indoor sports complexes rent out space or run scheduled skate sessions on flooring that wasn't originally built for it. Call ahead and ask about surface type — smooth concrete or sport tile skates very differently from a wood gym floor.
-- **Covered sections of outdoor parks.** A surprising number of parks have a roofed section for exactly this reason. It won't be heated, but it keeps you dry and off ice.
+- **Covered sections of outdoor parks.** A surprising number of parks have a roofed section for exactly this reason. It won't be heated, and a roof doesn't guarantee an ice-free surface — condensation, blown-in rain, and runoff can still freeze on covered concrete in cold weather. Walk it and check for ice the same way you would any outdoor session before you push off.
 
 If you have any of these within a reasonable drive, one session every week or two through winter is enough to keep your feel for the board largely intact.
 

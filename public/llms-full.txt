@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-05T09:30:50.851Z
+# Date: 2026-09-05T09:35:23.875Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -1034,7 +1034,7 @@ Return-to-sport communities — masters cycling clubs, adult surf lesson groups,
 
 Here's where the comparison breaks down, and it's worth being honest about it rather than pretending every comeback sport is interchangeable.
 
-Running comebacks carry real injury risk, but it's mostly overuse-pattern risk — you get hurt by doing too much volume too soon, not by a single sudden event. Cycling has that same overuse risk, but it also carries a genuine acute-crash risk that a returning rider's rusty bike-handling and traffic judgment make worse, not better — a helmet, a pre-ride equipment check, and a deliberate route choice away from heavy traffic while those skills come back are not optional extras. Surfing has an acute-injury element too, though the ocean absorbs a lot of the impact that would otherwise go straight into your joints.
+Running comebacks carry real injury risk, but it's mostly overuse-pattern risk — you get hurt by doing too much volume too soon, not by a single sudden event. Cycling has that same overuse risk, but it also carries a genuine acute-crash risk that a returning rider's rusty bike-handling and traffic judgment make worse, not better — a helmet, a pre-ride equipment check, and a deliberate route choice away from heavy traffic while those skills come back are not optional extras. Surfing has its own acute hazards, and the water doesn't make them minor: collisions with your own board or another surfer, impact against the seabed or a reef in shallow breaks, and drowning risk all show up disproportionately in returning surfers whose paddling fitness and wave judgment haven't caught back up to their memory of the sport. A returning surfer needs a refresher on conditions and crowd etiquette, a leash, and honest judgment about which breaks are appropriate for a rusty skill level — the water absorbs impact, it doesn't remove the risk.
 
 Skateboarding's injury profile is different again: falling onto hard, unforgiving concrete is a routine, expected part of every single session, not an occasional mishap. That single fact changes what a responsible comeback needs to prioritize. A returning cyclist can manage load and still needs to mind acute crash risk on top of it; a returning skater needs to specifically relearn how to fall — tucking, rolling, protecting wrists and heads — before that skill is fully second nature again, because it will be tested early and often, not eventually.
 
@@ -2116,7 +2116,7 @@ The most direct fix is skating indoors, and the option is more available than it
 
 - **Indoor skateparks.** Many cities now have at least one dedicated indoor facility, often converted from a warehouse or old retail space. These tend to be smaller than big outdoor parks but are usually well-suited to mellow, adult-friendly sessions.
 - **Multi-sport facilities with skate time.** Some indoor sports complexes rent out space or run scheduled skate sessions on flooring that wasn't originally built for it. Call ahead and ask about surface type — smooth concrete or sport tile skates very differently from a wood gym floor.
-- **Covered sections of outdoor parks.** A surprising number of parks have a roofed section for exactly this reason. It won't be heated, but it keeps you dry and off ice.
+- **Covered sections of outdoor parks.** A surprising number of parks have a roofed section for exactly this reason. It won't be heated, and a roof doesn't guarantee an ice-free surface — condensation, blown-in rain, and runoff can still freeze on covered concrete in cold weather. Walk it and check for ice the same way you would any outdoor session before you push off.
 
 If you have any of these within a reasonable drive, one session every week or two through winter is enough to keep your feel for the board largely intact.
 
