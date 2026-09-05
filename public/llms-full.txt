@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-05T05:00:37.848Z
+# Date: 2026-09-05T13:01:59.418Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -2122,6 +2122,16 @@ Website: https://www.houseofvans.com/london/
 House of Vans is the most accessible indoor skate facility in London for adult skaters. The variety of terrain — from beginner-accessible street elements to more advanced bowl sections — means you can skate at your level regardless of where you are in the comeback process.
 
 
+### Hyde Park Skatepark (Woodhouse Moor)
+Leeds' free concrete park on Woodhouse Moor, built in 2004 as one of the city's first outdoor concrete skateparks. Three well-spaced sections — a transition run of facing quarters with a spine, a street section with a hubba, and a second street section deliberately laid out with simpler, easier lines — so you can pick your corner and progress at your own pace.
+Location: Leeds, England, UK
+Website: https://www.skateparks.co.uk/west-yorkshire/woodhouse-moor-skatepark/
+
+Officially Woodhouse Moor Skateboard Park and universally called Hyde Park, this is a straightforward back-and-forth park rather than a flow bowl — which is a feature, not a limitation, when you are rebuilding confidence. The transition section pairs two facing quarter pipes around a spine with a roll-over, with two more back-to-back quarters and a platform between them. The first street section sets flat banks and quarters facing each other across a driveway with a hubba down the middle.
+
+The third section is the one to start in: it repeats the street elements but, in the words of the UK skateparks guide, "laid out much more simply and with easier lines". Bendcrete built the park in 2004 mostly from precast concrete, and it has held up. It sits in the university district, so expect it busy on sunny afternoons in term time; mornings are quieter. Welcome Skate Store in the city centre is the local shop.
+
+
 ### Kelvingrove Skatepark
 Free, open-all-hours concrete in Glasgow's West End with mellow bowls, quarters with a spine, stairs, flatbars and ledges — a forgiving mix for anyone easing back into transition. It sits beside the buried remains of Kelvin Wheelies, the city's 1978 concrete park, which Glasgow University excavated in 2025.
 Location: Glasgow, Scotland, UK
@@ -2311,6 +2321,14 @@ Location: London, England, UK
 Website: https://www.slamcity.com
 
 Slam City Skates is the authority on skateboarding in London. For returning adult skaters, the combination of decades of institutional knowledge and staff who are themselves adult skaters makes it the best place in the city to get honest advice about gear.
+
+
+### Welcome Skate Store
+Leeds' independent skate shop in the Victorian Thorntons Arcade, open seven days with a full range of decks, hardware, shoes and apparel and next-working-day UK delivery from its online store. Customer reviews repeatedly single out the staff — including one first-board buyer who knew nothing about skating and was walked through it without fuss.
+Location: Leeds, England, UK
+Website: https://welcomeleeds.com
+
+Welcome sits in Thorntons Arcade in the city centre, a fifteen-minute roll from Hyde Park Skatepark on Woodhouse Moor. The consistent thread in customer reviews is the staff: helpful with setup questions, welcoming to complete beginners, and not fussed if you leave without buying anything. Hours are 11am to 6pm Monday, 10am to 6pm Tuesday to Saturday and 11am to 5pm Sunday, and the online shop offers next-working-day delivery across the UK if you would rather arrive at the park already set up.
 
 
 ### 35th North
