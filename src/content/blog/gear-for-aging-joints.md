@@ -13,7 +13,7 @@ After two decades away from skating, your body will tell you things it never sai
 
 ## Helmets: no compromise here
 
-A skateboard-specific helmet that meets CPSC (US) or BS EN 1078 (UK) certification. Multi-impact foam (EPS + EPP) is better than single-impact-only EPS if you plan to skate regularly — it absorbs multiple smaller hits without needing replacement after each one.
+A skateboard-specific helmet certified to ASTM F1492 (US) or your region's equivalent multi-impact skate standard — that's the standard built for repeated falls, unlike CPSC or BS EN 1078, which only cover a single hard impact (add one of those too only if the same helmet also does bike duty). Multi-impact foam (EPS + EPP) absorbs the ordinary bumps of regular skating without needing replacement after each one, but a real head impact still means retiring the helmet regardless of certification.
 
 If you're skating transition — bowls, ramps — consider a full-face helmet for the sessions where speed is involved.
 
