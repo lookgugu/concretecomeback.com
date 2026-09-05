@@ -63,6 +63,8 @@ Adding a section with only the class leaves hidden fields enabled and they get s
 
 **Before adding a blog post, check what already exists.** Run `node scripts/check-duplicate-posts.mjs --audit` or read the titles in `src/content/blog/`. Never reuse a slug that already exists — that silently replaces a published article at a live URL. Never write a new post on a topic already covered; update the existing post instead. This is enforced in CI, but the check runs after the writing is done, so check first. The corpus already carries the cost of skipping this: four separate "how to fall" posts, two near-identical 10-minute warm-up routines, and two recovery guides, all competing with each other for the same searches.
 
+**Parks, shops and groups go through the `directory-research` skill** (`.claude/skills/directory-research/SKILL.md`). It holds the inclusion bar — sourced evidence of adult-friendliness, park↔shop pairing, gap-filling, never publishing a guess — plus the research → verify → build → PR → verify-live workflow and the held-back register. Do not add a directory entry that does not meet it.
+
 Create a `.md` file in the appropriate `src/content/{collection}/{country}/` subdirectory. The filename becomes the URL slug. Schema violations fail the build, so watch:
 
 - `country` is the **uppercase** enum `US | UK | CA | AU`, even though the folder is lowercase (`us/`, `uk/`, …).
