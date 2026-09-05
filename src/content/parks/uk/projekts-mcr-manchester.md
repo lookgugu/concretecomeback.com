@@ -10,7 +10,7 @@ features: ["street", "stairs", "ramps", "transitions"]
 difficulty: "mixed"
 adultFriendly: true
 isCovered: true
-isIndoor: true
+isIndoor: false
 openingHours: "Roughly 10am–9pm; sessions are timetabled, so check the session times before travelling"
 entryFee: "Paid sessions — pay on arrival; see the website for current prices"
 website: "https://projektsmcr.com/"
