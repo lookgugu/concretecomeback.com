@@ -1,0 +1,6 @@
+{
+  "name": "newsletter",
+  "version": "1.0.0",
+  "main": "newsletter.js",
+  "type": "commonjs"
+}

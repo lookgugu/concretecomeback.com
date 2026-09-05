@@ -1,8 +1,9 @@
 name: Post-deploy smoke test
 
 # DigitalOcean auto-deploys on push to main. This confirms the deployed app can
-# actually reach the submit function — the failure mode documented in CLAUDE.md,
-# where the stored app spec drifts and /api returns "Couldn't route the request".
+# actually reach the submit and newsletter functions — the failure mode documented
+# in CLAUDE.md, where the stored app spec drifts and /api returns "Couldn't route
+# the request".
 
 on:
   push:
@@ -14,7 +15,7 @@ on:
 
 jobs:
   health:
-    name: Submit function health
+    name: Form function health
     runs-on: ubuntu-latest
     steps:
       # On push, production is still serving the PREVIOUS deploy and is already
@@ -94,6 +95,56 @@ jobs:
           echo "  2. Are RESEND_API_KEY and SUBMIT_NOTIFY_EMAIL set on the api component?"
           exit 1
 
+      - name: Poll newsletter-function health endpoint
+        env:
+          HEALTH_URL: https://concretecomeback.com/api/forms/newsletter?health=1
+        run: |
+          set -uo pipefail
+
+          for i in $(seq 1 10); do
+            body=$(curl -fsS --max-time 20 "$HEALTH_URL" || true)
+
+            if printf '%s' "$body" | jq -e \
+              '.ok == true and .hasSendKey == true and .hasContactsKey == true and .hasConfirmSecret == true' >/dev/null 2>&1; then
+              echo "Healthy on attempt $i: $body"
+              exit 0
+            fi
+
+            echo "Attempt $i/10 — not healthy yet: ${body:-<no response>}"
+            sleep 15
+          done
+
+          echo "::error::Newsletter function health check failed."
+          echo "Check, in order:"
+          echo "  1. Does the stored DO app spec still have the 'api' component?"
+          echo "     Re-apply with: doctl apps update <app-id> --spec .do/app.yaml"
+          echo "  2. Are RESEND_CONTACTS_API_KEY and NEWSLETTER_CONFIRM_SECRET set on the api component?"
+          exit 1
+
+      # DO only parses JSON and form-urlencoded bodies into a web action's arguments;
+      # a multipart body silently arrives base64-encoded and no field is ever read.
+      # The honeypot path returns 202 without contacting Resend, so it proves the
+      # posted fields reached the function without sending any email.
+      - name: Verify newsletter form fields reach the function
+        env:
+          NEWSLETTER_URL: https://concretecomeback.com/api/forms/newsletter
+        run: |
+          set -euo pipefail
+
+          body=$(curl -sS --max-time 20 \
+            -X POST \
+            -H 'Content-Type: application/x-www-form-urlencoded' \
+            --data '_gotcha=smoke-test&consent=yes&email=smoke-test@concretecomeback.com' \
+            "$NEWSLETTER_URL")
+
+          echo "Honeypot probe returned: ${body:-<no response>}"
+          if ! printf '%s' "$body" | jq -e '.ok == true and .status == "pending"' >/dev/null 2>&1; then
+            echo "::error::Newsletter honeypot probe did not return a pending response."
+            echo "A 400 here means the posted fields never reached the function —"
+            echo "check that the client sends application/x-www-form-urlencoded."
+            exit 1
+          fi
+
       - name: Verify branded failure redirect and recovery links
         env:
           SUBMIT_URL: https://concretecomeback.com/api/forms/submit
@@ -166,6 +217,7 @@ jobs:
       - name: Note on coverage
         if: success()
         run: |
-          echo "Route, both secrets, branded failure recovery, and honeypot success are healthy."
+          echo "Route, all four secrets, branded failure recovery, newsletter field"
+          echo "decoding, and honeypot success are healthy."
           echo "A send-only Resend key can only be validated by an actual send —"
           echo "this check deliberately makes no outbound call."
