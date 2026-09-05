@@ -68,8 +68,8 @@ Every address, hours line, fee, feature and service must trace to a page you rea
 - File: `src/content/<collection>/<country-lowercase>/<slug>.md`. The filename is the URL — never reuse a slug.
 - `country` is the **uppercase** enum `US | UK | CA | AU` even though the folder is lowercase. There is no `ONLINE` country: online groups set a real country plus `isOnline: true`.
 - `description` must be ≥ 50 characters; write 2–3 sentences that carry the adult-friendly evidence.
-- `addedDate` and `lastVerified`: today, `YYYY-MM-DD`, unquoted.
-- `googleMapsUrl`: `https://www.google.com/maps/search/?api=1&query=<address+with+pluses>` — never `maps.app.goo.gl`.
+- `addedDate`: today, `YYYY-MM-DD`, unquoted. `lastVerified` (same format) exists on **parks and shops only**; groups track currency with `active` instead.
+- **Only use fields the collection's schema declares** (`src/content.config.ts`). Zod strips unknown keys silently, so a misplaced field passes `npm run build` and simply disappears from the page.
 - Copy says **"older skaters"**, never "adult", in user-facing prose. Field names (`adultFriendly`, `adult-advice`) keep their code names.
 - Use durable wording: "more than 30 years", not "celebrating 30 years" or "marking its 30th year".
 - Body: one or two short paragraphs in the site's voice — practical, specific, addressed to someone rebuilding confidence. Say where to start in the park. Cross-reference the paired shop/park by name.
@@ -83,6 +83,7 @@ Every address, hours line, fee, feature and service must trace to a page you rea
 - `isCovered` = roof over an open-sided park (Projekts under a flyover). `isIndoor` = enclosed building. Never set `isIndoor` for a covered outdoor park — it wrongly matches the "Indoor only" filter.
 - `hasLighting`, `hasParking`, `hasToilets`: set only when a source states them; otherwise omit.
 - `openingHours` / `entryFee`: quote the official page; if hours vary, say "check the site" rather than picking one.
+- `googleMapsUrl` (parks only): `https://www.google.com/maps/search/?api=1&query=<address+with+pluses>` — never `maps.app.goo.gl`. Shops and groups have no map-link field; their `address` is rendered as text.
 
 ### Shops (`shops`)
 - `servicesOffered` (≥1): `decks | completes | trucks | wheels | bearings | shoes | apparel | protective-gear | repairs | lessons | adult-advice | board-building | online-only`. The first seven are safe for any core shop whose site visibly sells them. Set `repairs`, `lessons`, `board-building` (assembly / custom builds) and `adult-advice` **only when the shop says so in its own words or its customers do in reviews on its site.**
@@ -91,7 +92,7 @@ Every address, hours line, fee, feature and service must trace to a page you rea
 - `hasOnlineShop: true` only if you saw the store.
 
 ### Groups (`groups`)
-Same bar: evidence that older skaters are welcome (an age range, an "all levels" statement, a regular meet). `skillLevel` enum: `all-levels | beginner | intermediate | advanced`. Provide at least one contact route (`website`, `facebook`, `instagram`, `discord`, `reddit`, `contactEmail`).
+Same bar: evidence that older skaters are welcome (an age range, an "all levels" statement, a regular meet). `skillLevel` enum: `all-levels | beginner | intermediate | advanced`. Provide at least one contact route (`website`, `facebook`, `instagram`, `discord`, `reddit`, `contactEmail`). Groups have `addedDate` and `active` but **no `lastVerified` and no `googleMapsUrl`**; `city` is still required (use "Online" for online-only groups, with `isOnline: true`).
 
 ## 4. Templates
 
