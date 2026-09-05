@@ -82,7 +82,7 @@ This is the setup for someone who's skating three or more times a week and wants
 **Board:** Custom built, full component selection. Higher-end deck brand (Baker, Deathwish, Krooked, Heroin), higher-spec trucks (Ace, Independent Stage 11), quality wheels for your specific skating (Spitfire Formula Four or OJ Super Juice depending on terrain), Bones Reds or Swiss bearings.
 - Cost: $180–$280
 
-**Helmet:** S1 Lifer or Bell Local — premium fit systems, multi-impact certified foam, comfortable for long sessions.
+**Helmet:** S1 Lifer — check the label for ASTM F1492 alongside CPSC/CE EN 1078 rather than assuming any premium-tier helmet has it — premium fit system, multi-impact certified foam, comfortable for long sessions.
 - Cost: $80–$120
 
 **Full pad set:** Quality wrist guards (Hillbilly Gear), knee pads (187 Killer Pro for transition), elbow pads if skating steeper terrain.
