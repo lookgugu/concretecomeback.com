@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-05T10:00:30.970Z
+# Date: 2026-09-05T10:04:45.446Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -175,6 +175,8 @@ Most trick progressions online are written by and for teenagers who bounce back 
 ## Why order matters more than it seems to
 
 Tricks aren't a random list — each one builds a specific physical capability the next one depends on. Skip the order and you end up trying to learn a trick your body isn't ready to support, which is where most avoidable injuries happen. The ladder below is sequenced so each rung uses something the previous one taught you.
+
+Before Rung 1, treat basic falling practice as done, not optional — tucking, rolling, and protecting your wrists and head, as covered in this site's falling guide — along with a helmet and wrist guards. Kick turns and manuals produce backward and sideways falls of their own, well before you reach the drop-in rung where gear gets a second, more detailed mention.
 
 ## Rung 1: Kick turns (both directions)
 

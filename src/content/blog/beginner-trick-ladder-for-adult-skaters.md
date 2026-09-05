@@ -18,6 +18,8 @@ Most trick progressions online are written by and for teenagers who bounce back 
 
 Tricks aren't a random list — each one builds a specific physical capability the next one depends on. Skip the order and you end up trying to learn a trick your body isn't ready to support, which is where most avoidable injuries happen. The ladder below is sequenced so each rung uses something the previous one taught you.
 
+Before Rung 1, treat basic falling practice as done, not optional — tucking, rolling, and protecting your wrists and head, as covered in this site's falling guide — along with a helmet and wrist guards. Kick turns and manuals produce backward and sideways falls of their own, well before you reach the drop-in rung where gear gets a second, more detailed mention.
+
 ## Rung 1: Kick turns (both directions)
 
 If you've done the flat-ground basics — push, stop, carve — the kick turn is the natural next step. It's the skill of pivoting the board on its back wheels while standing still or moving slowly, and it's foundational for almost everything that follows: changing direction on a ramp, adjusting your line quickly, and eventually dropping in.
