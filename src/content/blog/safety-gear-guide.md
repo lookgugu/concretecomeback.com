@@ -18,8 +18,8 @@ Here is what to actually buy.
 CPSC (US), CE EN 1078 (UK/EU), and AS/NZS 2063 (Australia) are bicycle-helmet standards built around a single hard impact. Skating puts a helmet through repeated falls in one session, so look specifically for a helmet also certified to ASTM F1492 (US) or your region's equivalent multi-impact skate standard — a general bike helmet certified only to the standards above isn't built to take that repeated hit.
 
 What to look for:
-- ASTM F1492 or equivalent multi-impact certification, on top of the bicycle-standard certification above. This is the actual test for surviving multiple falls, not just marketing language.
-- Multi-impact foam (EPS + EPP). This handles multiple smaller impacts without the helmet needing replacement after each one.
+- ASTM F1492 or equivalent multi-impact certification, on top of the bicycle-standard certification above. This is the actual test for handling repeated minor impacts, not just marketing language.
+- Multi-impact foam (EPS + EPP). This handles the accumulation of ordinary bumps and low-speed falls over a helmet's working life without needing replacement after each one — it is not a license to keep wearing a helmet after a hard, significant impact. Any real crash to the head means retiring the helmet immediately and replacing it, certification or not; follow the manufacturer's specific replacement guidance.
 - Full coverage at the back. Many cycling helmets leave the back of your skull exposed — not ideal for the backwards falls common in skating.
 - A fit that doesn't wobble. A helmet that's too large offers less protection.
 
