@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-05T13:45:22.814Z
+# Date: 2026-09-05T14:01:15.626Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -2361,12 +2361,28 @@ Website: https://ninetimesskateshop.com
 Ninetimes describes its Calgary opening as an attempt to give the city a proper skate shop again after several closed, and it has stuck. Hours are 11am to 7pm Monday to Friday, 10am to 6pm Saturday and 10am to 5pm Sunday. Cowboys Park — Canada's largest outdoor skatepark, with a genuinely separate beginner area — is a short ride away.
 
 
+### Cardiff Skateboard Club (CSC)
+Cardiff's independent core shop in the city centre, open seven days, with a dedicated beginner-equipment range alongside the usual decks, hardware, shoes and apparel, next-working-day UK delivery, and a Trustpilot reputation for a counter that is helpful and knows its stuff. Pairs with Spit and Sawdust, the indoor park across town that welcomes silver surfers.
+Location: Cardiff, Wales, UK
+Website: https://cardiffskateboardclub.com
+
+CSC is the shop to visit before your first session at Spit and Sawdust: it carries a beginner-equipment range as a named collection, so a returning skater asking for something stable and forgiving is not an unusual request here. Hours are 10am to 5:30pm Monday to Saturday and noon to 4pm Sunday. Orders placed online before 1pm ship the same day with next-working-day delivery across most of the UK, and the shop ships worldwide.
+
+
 ### Clan Skates
 The oldest skateboard shop in Scotland, opened in August 1988 by two pros still riding for Zorlac and Schmitt Stix at the time, and 100% rider-owned more than thirty years on. Repairs as well as sales, in Glasgow's West End a short roll from Kelvingrove.
 Location: Glasgow, Scotland, UK
 Website: https://clanskates.co.uk
 
 Jamie and Davie Philip opened Clan Skates in 1988 while skating professionally, and the shop has stayed rider-owned ever since — which is why it has outlasted every other skate shop in Scotland. It stocks snowboards, scooters and surf gear alongside skateboards, and offers skateboard repairs, not just sales. Jamie also turns up in the story of Kelvin Wheelies, the 1978 concrete park whose remains sit beside the modern Kelvingrove skatepark, so it is the right place to ask about Glasgow's skate history as well as a new setup. Check the website for current opening hours.
+
+
+### Focus Skate Store
+Scotland's longest-running Edinburgh skate shop, supplying hardware, shoes and clothing since 2001 from a store on the Canongate stretch of the Royal Mile. The shop team includes some of the best riders in Scotland, which is exactly who you want advising on a comeback setup before a session at Saughton.
+Location: Edinburgh, Scotland, UK
+Website: https://focuspocus.co.uk
+
+Focus describes itself as Scotland's premier skate shop and has the tenure to back it — trading since 2001 with deep roots in the Edinburgh scene, and a shop team made up of riders rather than retail staff. Opening hours change seasonally, so check the shop's hours page before travelling. Saughton Skatepark, free and open around the clock a few minutes west of the centre, is the park to pair it with; Clan Skates in Glasgow is the other Scottish shop listed here.
 
 
 ### NOTE
@@ -2401,6 +2417,14 @@ Website: https://welcomeleeds.com
 Welcome sits in Thorntons Arcade in the city centre, a fifteen-minute roll from Hyde Park Skatepark on Woodhouse Moor. The consistent thread in customer reviews is the staff: helpful with setup questions, welcoming to complete beginners, and not fussed if you leave without buying anything. Hours are 11am to 6pm Monday, 10am to 6pm Tuesday to Saturday and 11am to 5pm Sunday, and the online shop offers next-working-day delivery across the UK if you would rather arrive at the park already set up.
 
 
+### 303 Boards
+Denver's independent skate shop, brick and mortar since 1997 and now two stores — South Broadway and East Colfax — that the owners say they run because they love having people visit an actual skate shop. Full core range, online store, and the obvious pairing with Denver Skatepark.
+Location: Denver, Colorado, US
+Website: https://www.303boards.com
+
+303 Boards has been a physical shop in Denver for more than 25 years — the site puts it plainly: "we are not just an online store, we have been a brick and mortar store since 1997" — and it is one of the few core shops to have grown to two locations without becoming a chain. Hours differ between the Broadway and Colfax stores, so check the Locations page before you go. Denver Skatepark, the city's big downtown concrete park, is the natural next stop.
+
+
 ### 35th North
 A cornerstone of Seattle skateboarding since 2001, now on Capitol Hill after starting out as a 300-square-foot room in the University District. Skater-owned, with a full range of decks, hardware, shoes and apparel, and open seven days a week.
 Location: Seattle, Washington, US
@@ -2417,6 +2441,13 @@ Website: https://www.calskate.com
 Cal Skate has been around long enough that a large portion of their customer base are adults who grew up skating in the 70s, 80s, and 90s. The shop's institutional knowledge about adult-appropriate setups and protective gear is genuine.
 
 
+### Cal Skate Skateboards (Portland)
+Widely recognised as one of the oldest skate shops in the world, trading in downtown Portland for close to fifty years and recently handed from founder Howard Weiner to Chris Nukala, who bought his first board here at eight and never left the scene. A core shop with the deepest possible roots, a short ride from Burnside.
+Location: Portland, Oregon, US
+
+Cal Skate predates most of the words we use for skateboarding, and it is still on NW 6th Avenue downtown. When ownership passed to Chris Nukala after nearly fifty years, local news covered it as a passing of the torch: "I got my first board at Cal Skate when I was eight years old," he said, "the experience changed my life." That continuity is what a returning skater is buying into. Check current hours before you go — they were not published at the time of listing — and pair the visit with Burnside, the DIY park under the bridge that Portland is known for.
+
+
 ### DLX Skate Shop
 The retail operation of Deluxe Distribution, one of the most respected names in skateboarding. DLX stocks boards, wheels, trucks, and accessories from quality brands, with knowledgeable staff who can help you build a setup appropriate for your skating style and goals. Not primarily aimed at returning adults but highly knowledgeable.
 Location: San Francisco, California, US
@@ -2425,12 +2456,36 @@ Website: https://www.dlxsf.com
 DLX is more of an industry shop than an adult-specific shop, but the level of skateboarding knowledge among staff is exceptional. If you want expert help building a custom setup without being steered toward trendy products, this is the place.
 
 
+### Labor Skateshop
+A skateboarder-owned and operated core shop on Canal Street in the Lower East Side, open since 2012 and a few blocks from the Coleman skatepark under the Manhattan Bridge. Open seven days, with a full range of decks, hardware, shoes and apparel and an online store — the natural stop before a session at Pier 62.
+Location: New York, New York, US
+Website: https://laborskateshop.com
+
+Labor opened in 2012 as a skateboarder-owned shop — owner James Rewolinski came up through a Milwaukee core shop before moving to New York — and it has stayed that kind of place: the counter is staffed by people who skate the city. Hours are 11am to 7pm Monday to Saturday and 11am to 6pm Sunday, and the online store offers free shipping over $120. Pier 62 on the Hudson, with its marked beginner zone, is the park to pair it with; the Coleman/LES park round the corner is the local street spot.
+
+
 ### No-Comply Skateshop
 Skater-owned and operated in downtown Austin since 2007, with decks from current and legacy brands and a custom-build service the shop describes as right for all ages and skill levels. Open seven days, and a short hop from both of the city's listed parks.
 Location: Austin, Texas, US
 Website: https://nocomplyatx.com
 
 No-Comply carries the new-school brands alongside the ones you will remember — Alien Workshop and Baker sit next to Limosine and Opera — and will build a complete to suit you rather than sell you a pre-made one. Hours are 11am to 7pm Monday to Friday, 10am to 7pm Saturday and 10am to 6pm Sunday, and the online store ships worldwide. Heath Eiland and Mabel Davis parks are both in easy reach.
+
+
+### Pacific Drive Skateboard Shop
+San Diego's most iconic skate shop, established in 1987 in Pacific Beach and still run by owner Jim Ruonala — the shop that etnies chose to honour with a Skate Shop Day colourway. A core independent with almost four decades behind it, a short drive from Robb Field Skatepark.
+Location: San Diego, California, US
+Website: https://pacificdrive.com
+
+Pacific Drive has been at it since 1987, which is the point: as owner Jim Ruonala puts it, "shout out to all the skate shops that have been at it forever — it's not easy." Skateboarding magazine calls it San Diego's most iconic shop, and pro Sal Barbier came back to it for the re-release of his signature shoe. Listings give hours of 10am to 6pm on Monday and Saturday and 10am to 5pm on Sunday; confirm midweek hours before you travel. Robb Field in Ocean Beach is the park to pair with it.
+
+
+### Rip City Skates
+The same small building on Santa Monica Boulevard since 1978, and by its own account not much changed since — one of the oldest skate shops anywhere and a piece of the Dogtown era that is still open for business. If you last bought a board in the eighties, this is the shop that remembers it, ten minutes from Venice Beach Skatepark.
+Location: Santa Monica, California, US
+Website: https://ripcity-skates.com
+
+Rip City is the shop returning skaters make a pilgrimage to: it opened in 1978 and has traded from the same building on Santa Monica Boulevard ever since, with a reputation for looking the part. Hours are 10:30am to 5pm Monday to Saturday and noon to 4pm Sunday, and web orders ship Monday to Friday if you would rather order ahead. Venice Beach Skatepark is a short roll down to the coast, and the whole Dogtown story happened within a couple of miles of the door.
 
 
 ### Southside Skateshop
