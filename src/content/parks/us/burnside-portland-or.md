@@ -26,3 +26,5 @@ tags: ["DIY", "historic", "transition", "bowl"]
 ---
 
 Burnside is intermediate-level — the terrain requires some experience, particularly the steeper bowl sections. However, the banking areas and flatground around the perimeter are accessible to confident beginners. Go on a weekday morning for the best adult-skater atmosphere.
+
+Cal Skate on NW 6th Avenue downtown — one of the oldest skate shops in the world — is the shop paired with this park.

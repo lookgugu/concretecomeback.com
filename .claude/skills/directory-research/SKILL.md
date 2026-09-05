@@ -149,6 +149,9 @@ Keep this current when a batch defers something, so the next pass starts here. T
 - **Charlie Bowins Skate Park (McNabb Park), Ottawa** — Bronson & Gladstone; concrete (New Line, 2015; banks, ledges, rails, pyramid, quarterpipe, wallride per Trucks and Fins); community-funded. Held: no adult-friendly evidence found (no sessions, ability separation, lighting or hours in any source).
 - **Pizzey Park, Miami (Gold Coast)** — Bardon Ave, Miami QLD 4220; 4,800 m², park + Olympic-standard street section, pump track, free, lit (goskate). Held: riding surface unconfirmed; no Trucks and Fins listing.
 - **Le TAZ, Montréal** (8931 av. Papineau, H2M 0A5) — Canada's largest indoor park, adults welcome, sessions about 16–20 CAD. Held: riding surface unconfirmed after three searches and a scrape of taz.ca.
+- **Orchard Skateshop, Boston** — opened 2006; a 2015 BU Today piece documents adults and kids welcome on its mini-ramp ("we want kids and adults to have a good time"); moved back to Allston in a 2025 flagship with event space. Held: the **current** address is unconfirmed — the only address in any source (156 Harvard Ave) is the 2015 location the shop has since left. Do not use it.
+- **Philadelphia shop** — Exit is closed (Yelp); Nocturnal's site is live with hours (Mon–Thu 12–8, Sat 11–8, Sun 12–6) but Yelp lists it closed and no address was captured. Held: status and address unverified.
+- **Palm Isle Skateshop** — 450 av. Victoria, Saint-Lambert QC J4P 2J4 (south shore, not Montréal); hours Mon–Wed 10–6, Thu–Fri 10–7, Sat 10–5, Sun 11–5. Held: new shop, no adult-friendly evidence and not in the paired park's city.
 - **Brisbane shop** — Barry Kicker, 115 Gotha St, Fortitude Valley, surfaced only as a blog listing (no hours/site).
 - **Adelaide shop** — nothing solid surfaced.
 - **Melbourne shop** — Fast Times is a shopping-centre chain; no independent core shop found yet.
