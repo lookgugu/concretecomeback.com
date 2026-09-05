@@ -36,7 +36,7 @@ This is the minimum viable setup for an adult getting back on a board. Good enou
 
 Complete skateboards from good brands come with decent enough components to get started. The trucks will be fine. The wheels will be harder than ideal (you can upgrade later) and the bearings will be serviceable.
 
-**Helmet:** Entry-level but certified. Triple Eight Certified Sweatsaver is a reliable pick at this tier — check the label for ASTM F1492 specifically, since that's the standard built for repeated skating falls (CPSC alone only covers a single hard impact, and matters only if the same helmet also does bike duty). These are real helmets, not toy helmets.
+**Helmet:** Entry-level but certified to ASTM F1492. Triple Eight Certified Sweatsaver and Pro-Tec Classic **Certified** are the reliable budget picks — check the label for ASTM F1492 specifically (Pro-Tec's soft-foam Classic Skate, without the word Certified, does not carry it). CPSC alone only covers a single hard impact. These are real helmets, not toy helmets.
 - Cost: $40–$60
 
 **Wrist guards:** Triple Eight Hired Hands or Pro-Tec Street wrist guards. Not gloves — wrist guards with a rigid internal splint.
@@ -56,7 +56,7 @@ This is the setup for someone who's decided they're going to skate regularly and
 **Board:** Custom built at a local skate shop, or a quality complete. Deck from a reputable brand (8.5"–9" depending on your shoe size), independent or Thunder trucks in appropriate width, soft wheels (78a–87a), ABEC-7 or better bearings.
 - Cost: $160–$220
 
-**Helmet:** Triple Eight Certified Sweatsaver, checking the label for ASTM F1492 rather than assuming any given model or variant has it — that's the certification skating actually needs, on its own. Multi-impact foam is worth it if you're going to skate frequently.
+**Helmet:** Step up to a dual-certified model — ASTM F1492 plus your regional standard (CPSC, EN 1078 or AS/NZS 2063) — so one helmet is legitimate for skating and bike duty, and spend the difference on fit: a helmet that doesn't wobble protects better than one that does. The Tier 1 helmets qualify at the bottom of this band; the extra money buys the dual certification and a better fit system, not a different shell.
 - Cost: $55–$90
 
 **Wrist guards:** Triple Eight Hired Hands or Hillbilly Full Finger. Full-finger models protect the knuckles too, which matters if you're skating concrete.

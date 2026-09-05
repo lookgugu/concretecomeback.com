@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-05T10:04:45.446Z
+# Date: 2026-09-05T20:44:21.739Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -176,7 +176,7 @@ Most trick progressions online are written by and for teenagers who bounce back 
 
 Tricks aren't a random list — each one builds a specific physical capability the next one depends on. Skip the order and you end up trying to learn a trick your body isn't ready to support, which is where most avoidable injuries happen. The ladder below is sequenced so each rung uses something the previous one taught you.
 
-Before Rung 1, treat basic falling practice as done, not optional — tucking, rolling, and protecting your wrists and head, as covered in this site's falling guide — along with a helmet and wrist guards. Kick turns and manuals produce backward and sideways falls of their own, well before you reach the drop-in rung where gear gets a second, more detailed mention.
+Before Rung 1, treat basic falling practice as done, not optional — tucking, rolling, and protecting your wrists and head, as covered in this site's falling guide — along with wrist guards and a helmet certified to ASTM F1492 — the standard that tests repeated hits on the same spot — ideally dual-certified with your regional standard. Kick turns and manuals produce backward and sideways falls of their own, so the right helmet belongs here at Rung 1, not at the drop-in rung where gear gets a second, more detailed mention.
 
 ## Rung 1: Kick turns (both directions)
 
@@ -200,7 +200,7 @@ A manual — balancing on the back wheels while rolling, without pivoting — is
 
 Dropping into a quarter pipe or shallow bowl from the coping is less a trick than a threshold — it's the moment most returning adults associate with "really skating a park" rather than just rolling around its flat sections. It also tends to carry outsized fear relative to its actual difficulty, because it looks more committing than it is.
 
-Don't treat this rung as a straight jump from flat-ground manuals. Before you stand on the coping, you need two things a manual doesn't teach: comfort riding transition (rolling in and out of the shallow end of a bowl or the bottom of a quarter pipe under your own push, without dropping in) and a practiced knee slide specifically — not the flat-ground roll-out bail, which is a different response to a different kind of fall. Spend a session or two deliberately bailing on purpose at low speed on transition, sliding out along the curve of the ramp on your knee pads, so that response is automatic before a real drop-in tests it. Gear matters more here than at any earlier rung. Look for a helmet rated to ASTM F1492 (the US standard for skateboarding and multiple-impact protection) or your region's equivalent multi-impact skate certification — that's the standard built for the repeated falls a drop-in habit produces, unlike CPSC/CE EN 1078/AS-NZS 2063, which only test a single hard impact (you'd need one of those too only if the same helmet doubles as your bike helmet). Regardless of certification, retire and replace any helmet after a real head impact rather than continuing to wear it. Pair that with wrist guards and full-cup knee pads (not the slim, low-profile kind) — together they're what let you slide out of a bad landing on transition instead of digging in.
+Don't treat this rung as a straight jump from flat-ground manuals. Before you stand on the coping, you need two things a manual doesn't teach: comfort riding transition (rolling in and out of the shallow end of a bowl or the bottom of a quarter pipe under your own push, without dropping in) and a practiced knee slide specifically — not the flat-ground roll-out bail, which is a different response to a different kind of fall. Spend a session or two deliberately bailing on purpose at low speed on transition, sliding out along the curve of the ramp on your knee pads, so that response is automatic before a real drop-in tests it. Gear matters more here than at any earlier rung. The helmet you have worn since Rung 1 — ASTM F1492, ideally dual-certified with your regional standard (CPSC, CE EN 1078 or AS/NZS 2063, which each test a single impact per site) — is built for the repeated falls a drop-in habit produces. Regardless of certification, retire and replace any helmet after a real head impact rather than continuing to wear it. Pair that with wrist guards and full-cup knee pads (not the slim, low-profile kind) — together they're what let you slide out of a bad landing on transition instead of digging in.
 
 Even with that groundwork, do this one with someone experienced nearby the first several times, on the smallest, mellowest transition you can find. There's no version of drop-ins that benefits from rushing or from an audience — and no version where a spotter substitutes for the transition riding, bail practice, and pads above.
 
@@ -488,7 +488,7 @@ After two decades away from skating, your body will tell you things it never sai
 
 ## Helmets: no compromise here
 
-A skateboard-specific helmet certified to ASTM F1492 (US) or your region's equivalent multi-impact skate standard — that's the standard built for repeated falls, unlike CPSC or BS EN 1078, which only cover a single hard impact (add one of those too only if the same helmet also does bike duty). Multi-impact foam (EPS + EPP) absorbs the ordinary bumps of regular skating without needing replacement after each one, but a real head impact still means retiring the helmet regardless of certification.
+A skateboard-specific helmet certified to ASTM F1492 — the one standard that tests repeated hits on the same spot — ideally dual-certified with your regional standard. CPSC (US), EN 1078 (UK/EU) and AS/NZS 2063 (Australia) each test a single impact per site; EN 1078 and AS/NZS 2063 do cover skateboarding and are the applicable standards where they apply, so look for F1492 alongside them rather than instead of them. Multi-impact foam (EPS + EPP) absorbs the ordinary bumps of regular skating without needing replacement after each one, but a real head impact still means retiring the helmet regardless of certification.
 
 If you're skating transition — bowls, ramps — consider a full-face helmet for the sessions where speed is involved.
 
@@ -582,7 +582,7 @@ This is the minimum viable setup for an adult getting back on a board. Good enou
 
 Complete skateboards from good brands come with decent enough components to get started. The trucks will be fine. The wheels will be harder than ideal (you can upgrade later) and the bearings will be serviceable.
 
-**Helmet:** Entry-level but certified. Triple Eight Certified Sweatsaver is a reliable pick at this tier — check the label for ASTM F1492 specifically, since that's the standard built for repeated skating falls (CPSC alone only covers a single hard impact, and matters only if the same helmet also does bike duty). These are real helmets, not toy helmets.
+**Helmet:** Entry-level but certified to ASTM F1492. Triple Eight Certified Sweatsaver and Pro-Tec Classic **Certified** are the reliable budget picks — check the label for ASTM F1492 specifically (Pro-Tec's soft-foam Classic Skate, without the word Certified, does not carry it). CPSC alone only covers a single hard impact. These are real helmets, not toy helmets.
 - Cost: $40–$60
 
 **Wrist guards:** Triple Eight Hired Hands or Pro-Tec Street wrist guards. Not gloves — wrist guards with a rigid internal splint.
@@ -602,7 +602,7 @@ This is the setup for someone who's decided they're going to skate regularly and
 **Board:** Custom built at a local skate shop, or a quality complete. Deck from a reputable brand (8.5"–9" depending on your shoe size), independent or Thunder trucks in appropriate width, soft wheels (78a–87a), ABEC-7 or better bearings.
 - Cost: $160–$220
 
-**Helmet:** Triple Eight Certified Sweatsaver, checking the label for ASTM F1492 rather than assuming any given model or variant has it — that's the certification skating actually needs, on its own. Multi-impact foam is worth it if you're going to skate frequently.
+**Helmet:** Step up to a dual-certified model — ASTM F1492 plus your regional standard (CPSC, EN 1078 or AS/NZS 2063) — so one helmet is legitimate for skating and bike duty, and spend the difference on fit: a helmet that doesn't wobble protects better than one that does. The Tier 1 helmets qualify at the bottom of this band; the extra money buys the dual certification and a better fit system, not a different shell.
 - Cost: $55–$90
 
 **Wrist guards:** Triple Eight Hired Hands or Hillbilly Full Finger. Full-finger models protect the knuckles too, which matters if you're skating concrete.
@@ -1306,10 +1306,10 @@ Here is what to actually buy.
 
 ## Helmet: the only non-negotiable
 
-The certification that actually matters for skating is ASTM F1492 (US) or your region's equivalent multi-impact skate standard — it's built around the repeated falls a normal skate session produces, not the single hard impact that CPSC (US), CE EN 1078 (UK/EU), and AS/NZS 2063 (Australia) test for. A helmet certified only to those bicycle standards isn't built to take that repeated hit, even if it's sold in a skate shop. You only need a bicycle certification too if you'll also ride a bike in the same helmet.
+The certification that matters most for skating is ASTM F1492 — the one standard that tests repeated hits on the same spot, which is how a normal skate session actually treats a helmet. CPSC (US), CE EN 1078 (UK/EU) and AS/NZS 2063 (Australia) each test a single impact per site. EN 1078 and AS/NZS 2063 do cover skateboarding and are the applicable standards in their regions, so a helmet is not disqualified for carrying them — but on their own they don't tell you how it copes with the second and third fall onto the same patch. The best buy is a helmet dual-certified to ASTM F1492 and your regional standard; that also means one helmet can do bike duty.
 
 What to look for:
-- ASTM F1492 or equivalent multi-impact certification — the actual test for handling repeated minor impacts, not just marketing language. This is required regardless of what else the helmet is certified to.
+- ASTM F1492 — the only skate standard that tests repeated hits on the same spot, not just marketing language. Prefer it dual-certified with your regional standard (CPSC, EN 1078 or AS/NZS 2063).
 - Multi-impact foam (EPS + EPP). This handles the accumulation of ordinary bumps and low-speed falls over a helmet's working life without needing replacement after each one — it is not a license to keep wearing a helmet after a hard, significant impact. Any real crash to the head means retiring the helmet immediately and replacing it, certification or not; follow the manufacturer's specific replacement guidance.
 - Full coverage at the back. Many cycling helmets leave the back of your skull exposed — not ideal for the backwards falls common in skating.
 - A fit that doesn't wobble. A helmet that's too large offers less protection.
