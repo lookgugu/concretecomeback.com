@@ -159,7 +159,7 @@ const { type } = Astro.props;
       if (format === 'in-person' && card.dataset.online === 'true')  show = false;
 
       if (search) {
-        const haystack = `${card.dataset.name ?? ''} ${card.dataset.city ?? ''}`;
+        const haystack = `${card.dataset.name ?? ''} ${card.dataset.city ?? ''} ${card.dataset.tags ?? ''}`;
         if (!haystack.includes(search)) show = false;
       }
 
