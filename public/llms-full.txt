@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-05T09:39:27.753Z
+# Date: 2026-09-05T09:43:30.229Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -486,7 +486,7 @@ After two decades away from skating, your body will tell you things it never sai
 
 ## Helmets: no compromise here
 
-A skateboard-specific helmet that meets CPSC (US) or BS EN 1078 (UK) certification. Multi-impact foam (EPS + EPP) is better than single-impact-only EPS if you plan to skate regularly — it absorbs multiple smaller hits without needing replacement after each one.
+A skateboard-specific helmet that meets CPSC (US) or BS EN 1078 (UK) certification — and also ASTM F1492 or your region's equivalent multi-impact skate standard, since CPSC and EN 1078 alone are single-impact bicycle-helmet standards. Multi-impact foam (EPS + EPP) absorbs the ordinary bumps of regular skating without needing replacement after each one, but a real head impact still means retiring the helmet regardless of certification.
 
 If you're skating transition — bowls, ramps — consider a full-face helmet for the sessions where speed is involved.
 
@@ -580,7 +580,7 @@ This is the minimum viable setup for an adult getting back on a board. Good enou
 
 Complete skateboards from good brands come with decent enough components to get started. The trucks will be fine. The wheels will be harder than ideal (you can upgrade later) and the bearings will be serviceable.
 
-**Helmet:** Entry-level but certified. Triple Eight Certified Sweatsaver or Pro-Tec Classic in CPSC-certified versions. These are real helmets, not toy helmets.
+**Helmet:** Entry-level but certified. Triple Eight Certified Sweatsaver or Pro-Tec Classic in CPSC- and ASTM F1492-certified versions — the ASTM rating matters as much as CPSC, since CPSC alone is a single-impact bicycle standard. These are real helmets, not toy helmets.
 - Cost: $40–$60
 
 **Wrist guards:** Triple Eight Hired Hands or Pro-Tec Street wrist guards. Not gloves — wrist guards with a rigid internal splint.

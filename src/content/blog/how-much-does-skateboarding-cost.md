@@ -36,7 +36,7 @@ This is the minimum viable setup for an adult getting back on a board. Good enou
 
 Complete skateboards from good brands come with decent enough components to get started. The trucks will be fine. The wheels will be harder than ideal (you can upgrade later) and the bearings will be serviceable.
 
-**Helmet:** Entry-level but certified. Triple Eight Certified Sweatsaver or Pro-Tec Classic in CPSC-certified versions. These are real helmets, not toy helmets.
+**Helmet:** Entry-level but certified. Triple Eight Certified Sweatsaver or Pro-Tec Classic in CPSC- and ASTM F1492-certified versions — the ASTM rating matters as much as CPSC, since CPSC alone is a single-impact bicycle standard. These are real helmets, not toy helmets.
 - Cost: $40–$60
 
 **Wrist guards:** Triple Eight Hired Hands or Pro-Tec Street wrist guards. Not gloves — wrist guards with a rigid internal splint.
