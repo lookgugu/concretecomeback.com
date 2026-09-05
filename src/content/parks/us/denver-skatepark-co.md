@@ -20,3 +20,5 @@ tags: ["free", "large", "downtown", "bowl"]
 ---
 
 The sheer size works in a returning skater's favour — there is almost always an underused corner to practise in. Weekday mornings are quietest. The street section's smaller ledges and flat banks are the friendliest starting point; the deeper bowls are best left until your transition confidence is back.
+
+303 Boards — a Denver brick-and-mortar since 1997, with stores on South Broadway and East Colfax — is the shop paired with this park.

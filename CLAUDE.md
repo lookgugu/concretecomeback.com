@@ -42,7 +42,7 @@ npx astro check    # TypeScript/Astro diagnostics
 
 **Directory filtering** is pure client-side and spans three files that must stay in sync:
 1. `DirectoryLayout.astro` owns the DOM the filter script targets: `#directory-grid` (cards go in the default `<slot />`), `#filter-count`, and `#no-results`.
-2. Each `*Card.astro` renders a top-level `<article>` with `data-*` attributes (`data-country`, `data-difficulty`, `data-adult`, `data-indoor`, `data-online`, `data-adult-advice`, `data-name`, `data-city`, …). `data-name`/`data-city` are lowercased at render time because the search compares against a lowercased query.
+2. Each `*Card.astro` renders a top-level `<article>` with `data-*` attributes (`data-country`, `data-difficulty`, `data-adult`, `data-indoor`, `data-online`, `data-adult-advice`, `data-name`, `data-city`, …). `data-name`/`data-city` (and, on parks, `data-tags`) are lowercased at render time because the search compares against a lowercased query; a park's tags are searchable so a metro alias like `boston` finds a park whose `city` is Cambridge.
 3. The vanilla TS `<script>` in `DirectoryFilter.astro` reads/writes `URLSearchParams` (via `history.replaceState`) so filter state is bookmarkable, then toggles `card.hidden`.
 
 The script selects `#directory-grid > article` — a card wrapped in an extra element silently stops filtering. Attribute names map to camelCase in `dataset` (`data-adult-advice` → `dataset.adultAdvice`). No JS framework.
@@ -62,6 +62,8 @@ Adding a section with only the class leaves hidden fields enabled and they get s
 ## Adding content
 
 **Before adding a blog post, check what already exists.** Run `node scripts/check-duplicate-posts.mjs --audit` or read the titles in `src/content/blog/`. Never reuse a slug that already exists — that silently replaces a published article at a live URL. Never write a new post on a topic already covered; update the existing post instead. This is enforced in CI, but the check runs after the writing is done, so check first. The corpus already carries the cost of skipping this: four separate "how to fall" posts, two near-identical 10-minute warm-up routines, and two recovery guides, all competing with each other for the same searches.
+
+**Parks, shops and groups go through the `directory-research` skill** (`.claude/skills/directory-research/SKILL.md`). It holds the inclusion bar — sourced evidence of adult-friendliness, park↔shop pairing, gap-filling, never publishing a guess — plus the research → verify → build → PR → verify-live workflow and the held-back register. Do not add a directory entry that does not meet it.
 
 Create a `.md` file in the appropriate `src/content/{collection}/{country}/` subdirectory. The filename becomes the URL slug. Schema violations fail the build, so watch:
 

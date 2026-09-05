@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-05T20:44:21.739Z
+# Date: 2026-09-05T20:49:02.802Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -2234,6 +2234,16 @@ Adelaide went without a city skatepark from 2013 until this $3.8 million replace
 An honest note for returners: at least one local blogger found it less beginner-friendly than they had hoped. The beginner bowl and the plaza's intermediate stair set — a kinked rail, an out-ledge and a down rail — are the sensible places to start; leave the advanced bowl for when the legs are back. Being in the Park Lands it is a pleasant spot to sit out a session, too.
 
 
+### Leederville Skate Park
+One of the largest parks in Perth and the home base of the WA skate association: a Convic-built concrete park with two bowls linked by a submarine, quarters, blocks and rails, plus a mini ramp and lights. Open 24 hours, 350 metres from Leederville station, and a short ride from Beyond Skate's indoor park and clinics in North Perth.
+Location: Perth, Western Australia, AU
+Website: https://www.vincent.wa.gov.au/parks-and-facilities/leederville-skate-park
+
+Leederville sits beside the YMCA's HQ youth centre in the heart of the suburb, which makes it unusually easy to reach without a car: the train station is 350 metres away, and if you do drive there is an hour's free parking with a ticket next to the park. The two bowls joined by a submarine are the signature, but the mini ramp, quarters and blocks give you plenty of lower-commitment terrain, and the lights and 24-hour access mean you can pick the quiet hours.
+
+The WA skate association calls it smooth and well built; a directory listing notes some metal-framed elements alongside the concrete. For a lesson before you commit to the bowls, Beyond Skate in North Perth runs clinics on its own indoor park and is the natural shop to pair with this one.
+
+
 ### Paddington Skate Park
 One of Brisbane's first street-style parks and still the inner city's go-to, laid out in an open flow around a big shady tree. Smooth resurfaced concrete, a large bank, a central fun box, stairs, rail combos and a bowl, with lights for evening sessions once the heat drops.
 Location: Brisbane, Queensland, AU
@@ -2269,6 +2279,16 @@ Website: https://vancouver.ca/parks-recreation-culture/hastings-skatepark.aspx
 Hastings is one of Vancouver's most popular parks and one of the more adult-welcoming. The park's diverse layout means you can find areas that suit your skill level — the mellow transition sections and flatground plazas are accessible to returning skaters while the stairs and rails serve more experienced riders.
 
 
+### Viaduc Van Horne Skatepark
+The Plateau's first multipurpose skatepark, tucked under the Van Horne viaduct so it is skateable in rain and shaded in summer: a concrete park built around a bowl with pool coping and a snake run, with a street-style section of rails, hubbas, ledges and banks, and lights. Free, run by the city.
+Location: Montréal, Quebec, CA
+Website: https://montreal.ca/en/places/viaduc-van-horne-skatepark
+
+The Van Horne underpass project turned a dead space beneath a railway viaduct at the corner of Saint-Laurent and Cloutier into a park that the city describes as multipurpose: skatepark, street furniture, a stage, removable modules and event lighting. For skaters the roof is the point — Montréal weather is hard on outdoor parks, and this one keeps working through it.
+
+The terrain is friendlier to a returner than the Plateau's reputation suggests. A snake run and a backyard-style bowl with pool coping reward carving rather than tricks, and the street section — rails, hubbas, ledges, banks, manual pads — is there when you want it. The city lists opening hours on its page; check before an early or late visit. Le TAZ, Canada's largest indoor park, is across town if you want coaching or a full winter option.
+
+
 ### Hengrove Park Wheels Park
 A large free concrete wheels park in south Bristol, mixing street elements with flowing transition across a single smooth expanse. Bristol City Council keeps it open at all hours with no admission charge, and the spread of terrain means quieter corners are usually available even when the middle is busy.
 Location: Bristol, UK
@@ -2283,6 +2303,16 @@ Location: London, England, UK
 Website: https://www.houseofvans.com/london/
 
 House of Vans is the most accessible indoor skate facility in London for adult skaters. The variety of terrain — from beginner-accessible street elements to more advanced bowl sections — means you can skate at your level regardless of where you are in the comeback process.
+
+
+### Hyde Park Skatepark (Woodhouse Moor)
+Leeds' free concrete park on Woodhouse Moor, built in 2004 as one of the city's first outdoor concrete skateparks. Three well-spaced sections — a transition run of facing quarters with a spine, a street section with a hubba, and a second street section deliberately laid out with simpler, easier lines — so you can pick your corner and progress at your own pace.
+Location: Leeds, England, UK
+Website: https://www.skateparks.co.uk/west-yorkshire/woodhouse-moor-skatepark/
+
+Officially Woodhouse Moor Skateboard Park and universally called Hyde Park, this is a straightforward back-and-forth park rather than a flow bowl — which is a feature, not a limitation, when you are rebuilding confidence. The transition section pairs two facing quarter pipes around a spine with a roll-over, with two more back-to-back quarters and a platform between them. The first street section sets flat banks and quarters facing each other across a driveway with a hubba down the middle.
+
+The third section is the one to start in: it repeats the street elements but, in the words of the UK skateparks guide, "laid out much more simply and with easier lines". Bendcrete built the park in 2004 mostly from precast concrete, and it has held up. It sits in the university district, so expect it busy on sunny afternoons in term time; mornings are quieter. Welcome Skate Store in the city centre is the local shop.
 
 
 ### Kelvingrove Skatepark
@@ -2313,12 +2343,36 @@ Website: https://www.romskatepark.co.uk
 Rom is a living piece of skateboarding history. The pools and snake runs require some experience — particularly the deeper pool sections — but the mellow snake run and outer banking areas are accessible to confident returning skaters. Weekend mornings draw a solid contingent of adult skaters, some of whom have been riding here for 40+ years.
 
 
+### Saughton Skatepark
+Edinburgh's free, always-open concrete park a few minutes west of the centre, built in 2010 and described by Skateboard Scotland as well thought out and designed: a pool-coping bowl, an over-vert cradle, a street course and loads of quarters. Open 24 hours, so an early or late session away from the crowds is always possible.
+Location: Edinburgh, Scotland, UK
+Website: https://skateparks.skateboardscotland.com/view/saughton-skatepark/
+
+Saughton is the bigger and more ambitious of Scotland's two listed parks. The bowl has real pool coping and there is an over-vert cradle, which tells you the top end is serious; one visitor guide describes the sessions here as intense. For a returner the value is in the "loads of quarters" and the street course, and in the fact that it never closes — turn up at seven in the morning and the transition is yours.
+
+It sits in Saughton Park on Balgreen Road, easy to reach from the city centre. Lighting is not confirmed by any source, so plan daylight sessions until you have seen it for yourself. Focus Skate Store on the Canongate — trading since 2001 with a shop team of top Scottish riders — is the Edinburgh shop to pair with it.
+
+
+### Spit and Sawdust
+An indoor skatepark and café in Cardiff whose own welcome reads: for the mini shredders or the silver surfers, the novices, amateurs and pros, everyone is welcome. A £1 lifetime membership, then £5 an hour with no fixed session times, so you can do a power hour or a whole afternoon under a roof.
+Location: Cardiff, Wales, UK
+Website: https://www.spitandsawdust.co.uk/skate
+
+Very few parks say in their own words that older skaters are wanted; Spit and Sawdust does, and backs it with a pricing model built for adults with jobs. Pay for however long you want to skate rather than for a fixed session, and if you would rather have the place to yourselves, private sessions on Saturday and Sunday evenings can be split between friends as a lock-in.
+
+Open sessions take skateboards, BMX, inline and quads from age seven up. The park's own honest note: it is hard to predict when it will be quiet, but it is usually calmer when the sun is out and the pavements are dry. There is a café on site with local suppliers and homemade food, and a Beginners and Safety section on the website worth reading before a first visit. The riding surfaces are a mix of wooden ramps and concrete.
+
+Cardiff Skateboard Club on Church Street, with its dedicated beginner-equipment range, is the shop to visit first.
+
+
 ### Burnside Skate Park
 One of skateboarding's most iconic DIY spots, built by skaters under the Burnside Bridge in 1990. The organic concrete terrain features banks, bowls, and transitions that reward smooth, flowing skating. The atmosphere is mellow during weekday mornings when regulars — many of them in their 30s, 40s, and 50s — have the park to themselves.
 Location: Portland, Oregon, US
 Website: https://www.portlandoregon.gov/parks/finder/index.cfm?action=ViewPark&PropertyID=1219
 
 Burnside is intermediate-level — the terrain requires some experience, particularly the steeper bowl sections. However, the banking areas and flatground around the perimeter are accessible to confident beginners. Go on a weekday morning for the best adult-skater atmosphere.
+
+Cal Skate on NW 6th Avenue downtown — one of the oldest skate shops in the world — is the shop paired with this park.
 
 
 ### Grant Park Skate Park
@@ -2334,6 +2388,8 @@ Location: Denver, Colorado, US
 Website: https://denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Parks-Recreation/Planning-Design-Construction-Community-Engagement/Park-Facility-Projects/Downtown-Skate-Park
 
 The sheer size works in a returning skater's favour — there is almost always an underused corner to practise in. Weekday mornings are quietest. The street section's smaller ledges and flat banks are the friendliest starting point; the deeper bowls are best left until your transition confidence is back.
+
+303 Boards — a Denver brick-and-mortar since 1997, with stores on South Broadway and East Colfax — is the shop paired with this park.
 
 
 ### Heath Eiland & Morgan Moss Skate Park
@@ -2374,6 +2430,16 @@ Website: https://www.seattle.gov/parks/parks/woodland-park
 The separate street area is what makes this one work for adults easing back in — you can spend an hour on flatground and small ledges well away from the bowl traffic. Plenty of parking, and the Green Lake path right there if you are bringing family who would rather walk than skate.
 
 
+### Lynch Family Skatepark
+Boston's 40,000-square-foot concrete park, opened in 2015 beneath the access ramps of the Zakim Bridge — so much of it stays dry in the rain — with lights on until 10pm, public bathrooms open daily, and a community of skate groups the Charles River Conservancy notes are open to beginners of any ability.
+Location: Cambridge, Massachusetts, US
+Website: https://thecharles.org/our-work/lynch-family-skatepark/
+
+The Charles River Conservancy planned, designed and built Lynch on a former contaminated site at North Point Park, and the state's Department of Conservation and Recreation now runs it. The location under the bridge ramps is the practical draw: weather that empties other parks leaves large parts of this one skateable, and the lights extended to 10pm mean a session after work in winter is realistic.
+
+The terrain covers most of what you might want to relearn — a bowl, a mini ramp, quarterpipes, banks, ledges, curbs, manual pads, flat and handrails, stairs and a wallride — and the Conservancy points to regular skate groups that welcome beginners on any wheels. Bring nothing that needs parking: street spaces are scarce and metered with a two-hour limit, and it is a short walk from the Museum of Science. Free walls for graffiti artists are part of the park's programme, so expect the paint to change.
+
+
 ### Mabel Davis Skate Park
 Austin's original skate park, opened in 2005 inside Mabel Davis District Park in South Austin. A 12,000 sq ft concrete park with a mellow bowl, smooth banks, and streetscape elements. The smaller scale and beginner-friendly layout make it one of the best spots in Austin for adult skaters returning to the sport — it's never as crowded as Shoal Creek and the terrain rewards progression at a comfortable pace. A grass seating area around the park is good for warming up, stretching, or watching.
 Location: Austin, Texas, US
@@ -2384,12 +2450,36 @@ Mabel Davis is the quieter, more laid-back cousin of the Shoal Creek park. Its s
 South Austin location means less traffic than the centrally located Shoal Creek park, and the surrounding Mabel Davis District Park gives you plenty of space to warm up before stepping onto concrete.
 
 
+### Paine's Park
+Philadelphia's landmark public skate plaza on the Schuylkill River Banks behind the Art Museum, opened in 2013 after a decade of work by the skater-led Franklin's Paine Skatepark Fund. Its south section — low ollie boxes, benches and a lot of flatground — was described by two returning skaters in Philadelphia magazine as a de facto old-folks zone, and that is exactly what it is good for.
+Location: Philadelphia, Pennsylvania, US
+Website: https://www.visitphilly.com/things-to-do/attractions/paines-park/
+
+Paine's is a plaza, not a bowl park: quarterpipes, banks, ledges, curbs, manual pads, flat and handrails, a stair set and a wallride, spread across a riverfront site that doubles as a public park and connects straight onto the Schuylkill River Trail. Head for the south end first. When Philadelphia magazine sent two "oldheads" to dust off their boards here, they settled in that section — "low ollie boxes and benches and a lot of flat ground for cruising" — and called it a de facto old-folks zone that suited them fine. FDR, the city's famous DIY park, is a very different proposition.
+
+It was conceived in 2002 by Franklin's Paine Skatepark Fund, the skater-run non-profit that later helped win a skate plaza at the Municipal Services Building, and it opened in 2013. Limited parking at the Waterworks Drive lot off Kelly Drive and paid parking at the Art Museum garage; SEPTA buses 43 and 38 stop nearby.
+
+
+### Pier 62 Skatepark (Hudson River Park)
+New York's first modern full-sized concrete transition park, built on a Chelsea pier in 2010 by California Skateparks. Free, open 8am to dusk, and laid out by level: a marked Beginner Ollie Zone with a 4-foot quarter, 2-foot wedge and start box, an Intermediate Fun Box with a 24-foot ledge and kinked rail, and the big flowing bowl for when you are ready.
+Location: New York, New York, US
+Website: https://hudsonriverpark.org/activities/pier-62-skatepark/
+
+The park sits on a pile-supported pier over the Hudson, on the spot where Chelsea Piers once ran a skatepark of its own, with a carousel and a river-view deck alongside. Hudson River Park calls it "California-style" — an oval of "natural" curves rather than a grid of obstacles — and it opened in May 2010 as the first full-sized concrete transition park in the city.
+
+What makes it a good comeback park is that the levels are named on the map. Start in the Beginner Ollie Zone (4-foot quarter, 2-foot wedge, 3-foot start box), move to the Intermediate Fun Box (24-foot ledge, kinked flat rail, 18-foot ollie ledge), and leave the 5-foot spine and the deep end of the bowl for later. Hudson River Park also runs a street-style park at Pier 25 in Tribeca if flat ledges suit you better than transition.
+
+For a setup before you go, Labor Skateshop on Canal Street — skateboarder-owned since 2012 — is the Lower East Side shop paired with this park.
+
+
 ### Robb Field Skatepark
 Roughly 40,000 square feet of concrete in Ocean Beach, and the first skatepark built and maintained by the City of San Diego. The layout covers a wide spread of terrain, from mellow banks and flatground through to deeper transition, which is why it stays busy with a genuinely mixed-age crowd rather than just teenagers.
 Location: San Diego, California, US
 Website: https://www.sandiego.gov/park-and-recreation/parks/regional/robbfield
 
 Helmets are required at San Diego city skateparks, so bring one. The perimeter flatground and banks are the easiest entry point; go earlier in the day to avoid the after-school rush.
+
+Pacific Drive Skateboard Shop in Pacific Beach, established 1987 and still owner-run, is the shop paired with this park.
 
 
 ### Venice Beach Skate Park
@@ -2398,6 +2488,8 @@ Location: Los Angeles, California, US
 Website: https://www.laparks.org/venice-beach-skate-park
 
 Venice Beach Skate Park has something for everyone — a dedicated beginner section with smaller banks and mellow transitions alongside technical pool terrain. The morning hours are populated by a solid contingent of adult skaters, many of them regulars who've been skating there for decades.
+
+Rip City Skates, in the same building on Santa Monica Boulevard since 1978, is the shop paired with this park — ten minutes away and older than most of the people skating here.
 
 ============================================================
 ## LOCAL SHOPS
@@ -2409,7 +2501,7 @@ A skate shop with its own indoor skatepark behind it — two linked bowls, a bri
 Location: Perth, Western Australia, AU
 Website: https://www.beyondskate.com.au
 
-Beyond Skate's North Perth store is built around an indoor park rather than the other way round, which changes what a shop visit can be: try transition in a bowl, ask about the setup that would suit it, and book a clinic if you want coaching. The park's headline features are two linked bowls, a brick wallride and an over-vert taco with pool coping — an intermediate-and-up park, so treat the lessons as the entry point if you are early in a comeback. Open seven days; hours vary by day, so check the store page.
+Beyond Skate's North Perth store is built around an indoor park rather than the other way round, which changes what a shop visit can be: try transition in a bowl, ask about the setup that would suit it, and book a clinic if you want coaching. The park's headline features are two linked bowls, a brick wallride and an over-vert taco with pool coping — an intermediate-and-up park, so treat the lessons as the entry point if you are early in a comeback. Open seven days; hours vary by day, so check the store page. When you are ready for outdoors, Leederville Skate Park — free, lit and open 24 hours, with two bowls linked by a submarine — is a short ride south and the natural park to pair with this shop.
 
 
 ### Black Sheep Skate Shop
@@ -2444,12 +2536,28 @@ Website: https://ninetimesskateshop.com
 Ninetimes describes its Calgary opening as an attempt to give the city a proper skate shop again after several closed, and it has stuck. Hours are 11am to 7pm Monday to Friday, 10am to 6pm Saturday and 10am to 5pm Sunday. Cowboys Park — Canada's largest outdoor skatepark, with a genuinely separate beginner area — is a short ride away.
 
 
+### Cardiff Skateboard Club (CSC)
+Cardiff's independent core shop in the city centre, open seven days, with a dedicated beginner-equipment range alongside the usual decks, hardware, shoes and apparel, next-working-day UK delivery, and a Trustpilot reputation for a counter that is helpful and knows its stuff. Pairs with Spit and Sawdust, the indoor park across town that welcomes silver surfers.
+Location: Cardiff, Wales, UK
+Website: https://cardiffskateboardclub.com
+
+CSC is the shop to visit before your first session at Spit and Sawdust: it carries a beginner-equipment range as a named collection, so a returning skater asking for something stable and forgiving is not an unusual request here. Hours are 10am to 5:30pm Monday to Saturday and noon to 4pm Sunday. Orders placed online before 1pm ship the same day with next-working-day delivery across most of the UK, and the shop ships worldwide.
+
+
 ### Clan Skates
 The oldest skateboard shop in Scotland, opened in August 1988 by two pros still riding for Zorlac and Schmitt Stix at the time, and 100% rider-owned more than thirty years on. Repairs as well as sales, in Glasgow's West End a short roll from Kelvingrove.
 Location: Glasgow, Scotland, UK
 Website: https://clanskates.co.uk
 
 Jamie and Davie Philip opened Clan Skates in 1988 while skating professionally, and the shop has stayed rider-owned ever since — which is why it has outlasted every other skate shop in Scotland. It stocks snowboards, scooters and surf gear alongside skateboards, and offers skateboard repairs, not just sales. Jamie also turns up in the story of Kelvin Wheelies, the 1978 concrete park whose remains sit beside the modern Kelvingrove skatepark, so it is the right place to ask about Glasgow's skate history as well as a new setup. Check the website for current opening hours.
+
+
+### Focus Skate Store
+Scotland's longest-running Edinburgh skate shop, supplying hardware, shoes and clothing since 2001 from a store on the Canongate stretch of the Royal Mile. The shop team includes some of the best riders in Scotland, which is exactly who you want advising on a comeback setup before a session at Saughton.
+Location: Edinburgh, Scotland, UK
+Website: https://focuspocus.co.uk
+
+Focus describes itself as Scotland's premier skate shop and has the tenure to back it — trading since 2001 with deep roots in the Edinburgh scene, and a shop team made up of riders rather than retail staff. Opening hours change seasonally, so check the shop's hours page before travelling. Saughton Skatepark, free and open around the clock a few minutes west of the centre, is the park to pair it with; Clan Skates in Glasgow is the other Scottish shop listed here.
 
 
 ### NOTE
@@ -2476,6 +2584,22 @@ Website: https://www.slamcity.com
 Slam City Skates is the authority on skateboarding in London. For returning adult skaters, the combination of decades of institutional knowledge and staff who are themselves adult skaters makes it the best place in the city to get honest advice about gear.
 
 
+### Welcome Skate Store
+Leeds' independent skate shop in the Victorian Thorntons Arcade, open seven days with a full range of decks, hardware, shoes and apparel and next-working-day UK delivery from its online store. Customer reviews repeatedly single out the staff — including one first-board buyer who knew nothing about skating and was walked through it without fuss.
+Location: Leeds, England, UK
+Website: https://welcomeleeds.com
+
+Welcome sits in Thorntons Arcade in the city centre, a fifteen-minute roll from Hyde Park Skatepark on Woodhouse Moor. The consistent thread in customer reviews is the staff: helpful with setup questions, welcoming to complete beginners, and not fussed if you leave without buying anything. Hours are 11am to 6pm Monday, 10am to 6pm Tuesday to Saturday and 11am to 5pm Sunday, and the online shop offers next-working-day delivery across the UK if you would rather arrive at the park already set up.
+
+
+### 303 Boards
+Denver's independent skate shop, brick and mortar since 1997 and now two stores — South Broadway and East Colfax — that the owners say they run because they love having people visit an actual skate shop. Full core range, online store, and the obvious pairing with Denver Skatepark.
+Location: Denver, Colorado, US
+Website: https://www.303boards.com
+
+303 Boards has been a physical shop in Denver for more than 25 years — the site puts it plainly: "we are not just an online store, we have been a brick and mortar store since 1997" — and it is one of the few core shops to have grown to two locations without becoming a chain. Hours differ between the Broadway and Colfax stores, so check the Locations page before you go. Denver Skatepark, the city's big downtown concrete park, is the natural next stop.
+
+
 ### 35th North
 A cornerstone of Seattle skateboarding since 2001, now on Capitol Hill after starting out as a 300-square-foot room in the University District. Skater-owned, with a full range of decks, hardware, shoes and apparel, and open seven days a week.
 Location: Seattle, Washington, US
@@ -2492,6 +2616,13 @@ Website: https://www.calskate.com
 Cal Skate has been around long enough that a large portion of their customer base are adults who grew up skating in the 70s, 80s, and 90s. The shop's institutional knowledge about adult-appropriate setups and protective gear is genuine.
 
 
+### Cal Skate Skateboards (Portland)
+Widely recognised as one of the oldest skate shops in the world, trading in downtown Portland for close to fifty years and recently handed from founder Howard Weiner to Chris Nukala, who bought his first board here at eight and never left the scene. A core shop with the deepest possible roots, a short ride from Burnside.
+Location: Portland, Oregon, US
+
+Cal Skate predates most of the words we use for skateboarding, and it is still on NW 6th Avenue downtown. When ownership passed to Chris Nukala after nearly fifty years, local news covered it as a passing of the torch: "I got my first board at Cal Skate when I was eight years old," he said, "the experience changed my life." That continuity is what a returning skater is buying into. Check current hours before you go — they were not published at the time of listing — and pair the visit with Burnside, the DIY park under the bridge that Portland is known for.
+
+
 ### DLX Skate Shop
 The retail operation of Deluxe Distribution, one of the most respected names in skateboarding. DLX stocks boards, wheels, trucks, and accessories from quality brands, with knowledgeable staff who can help you build a setup appropriate for your skating style and goals. Not primarily aimed at returning adults but highly knowledgeable.
 Location: San Francisco, California, US
@@ -2500,12 +2631,36 @@ Website: https://www.dlxsf.com
 DLX is more of an industry shop than an adult-specific shop, but the level of skateboarding knowledge among staff is exceptional. If you want expert help building a custom setup without being steered toward trendy products, this is the place.
 
 
+### Labor Skateshop
+A skateboarder-owned and operated core shop on Canal Street in the Lower East Side, open since 2012 and a few blocks from the Coleman skatepark under the Manhattan Bridge. Open seven days, with a full range of decks, hardware, shoes and apparel and an online store — the natural stop before a session at Pier 62.
+Location: New York, New York, US
+Website: https://laborskateshop.com
+
+Labor opened in 2012 as a skateboarder-owned shop — owner James Rewolinski came up through a Milwaukee core shop before moving to New York — and it has stayed that kind of place: the counter is staffed by people who skate the city. Hours are 11am to 7pm Monday to Saturday and 11am to 6pm Sunday, and the online store offers free shipping over $120. Pier 62 on the Hudson, with its marked beginner zone, is the park to pair it with; the Coleman/LES park round the corner is the local street spot.
+
+
 ### No-Comply Skateshop
 Skater-owned and operated in downtown Austin since 2007, with decks from current and legacy brands and a custom-build service the shop describes as right for all ages and skill levels. Open seven days, and a short hop from both of the city's listed parks.
 Location: Austin, Texas, US
 Website: https://nocomplyatx.com
 
 No-Comply carries the new-school brands alongside the ones you will remember — Alien Workshop and Baker sit next to Limosine and Opera — and will build a complete to suit you rather than sell you a pre-made one. Hours are 11am to 7pm Monday to Friday, 10am to 7pm Saturday and 10am to 6pm Sunday, and the online store ships worldwide. Heath Eiland and Mabel Davis parks are both in easy reach.
+
+
+### Pacific Drive Skateboard Shop
+San Diego's most iconic skate shop, established in 1987 in Pacific Beach and still run by owner Jim Ruonala — the shop that etnies chose to honour with a Skate Shop Day colourway. A core independent with almost four decades behind it, a short drive from Robb Field Skatepark.
+Location: San Diego, California, US
+Website: https://pacificdrive.com
+
+Pacific Drive has been at it since 1987, which is the point: as owner Jim Ruonala puts it, "shout out to all the skate shops that have been at it forever — it's not easy." Skateboarding magazine calls it San Diego's most iconic shop, and pro Sal Barbier came back to it for the re-release of his signature shoe. Listings give hours of 10am to 6pm on Monday and Saturday and 10am to 5pm on Sunday; confirm midweek hours before you travel. Robb Field in Ocean Beach is the park to pair with it.
+
+
+### Rip City Skates
+The same small building on Santa Monica Boulevard since 1978, and by its own account not much changed since — one of the oldest skate shops anywhere and a piece of the Dogtown era that is still open for business. If you last bought a board in the eighties, this is the shop that remembers it, ten minutes from Venice Beach Skatepark.
+Location: Santa Monica, California, US
+Website: https://ripcity-skates.com
+
+Rip City is the shop returning skaters make a pilgrimage to: it opened in 1978 and has traded from the same building on Santa Monica Boulevard ever since, with a reputation for looking the part. Hours are 10:30am to 5pm Monday to Saturday and noon to 4pm Sunday, and web orders ship Monday to Friday if you would rather order ahead. Venice Beach Skatepark is a short roll down to the coast, and the whole Dogtown story happened within a couple of miles of the door.
 
 
 ### Southside Skateshop
