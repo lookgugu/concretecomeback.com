@@ -23,3 +23,5 @@ tags: ["concrete", "free", "beginner-zone", "waterfront", "manhattan"]
 The park sits on a pile-supported pier over the Hudson, on the spot where Chelsea Piers once ran a skatepark of its own, with a carousel and a river-view deck alongside. Hudson River Park calls it "California-style" — an oval of "natural" curves rather than a grid of obstacles — and it opened in May 2010 as the first full-sized concrete transition park in the city.
 
 What makes it a good comeback park is that the levels are named on the map. Start in the Beginner Ollie Zone (4-foot quarter, 2-foot wedge, 3-foot start box), move to the Intermediate Fun Box (24-foot ledge, kinked flat rail, 18-foot ollie ledge), and leave the 5-foot spine and the deep end of the bowl for later. Hudson River Park also runs a street-style park at Pier 25 in Tribeca if flat ledges suit you better than transition.
+
+For a setup before you go, Labor Skateshop on Canal Street — skateboarder-owned since 2012 — is the Lower East Side shop paired with this park.

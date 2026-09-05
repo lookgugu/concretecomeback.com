@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-05T14:01:15.626Z
+# Date: 2026-09-05T14:05:26.818Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -2187,7 +2187,7 @@ Website: https://skateparks.skateboardscotland.com/view/saughton-skatepark/
 
 Saughton is the bigger and more ambitious of Scotland's two listed parks. The bowl has real pool coping and there is an over-vert cradle, which tells you the top end is serious; one visitor guide describes the sessions here as intense. For a returner the value is in the "loads of quarters" and the street course, and in the fact that it never closes — turn up at seven in the morning and the transition is yours.
 
-It sits in Saughton Park on Balgreen Road, easy to reach from the city centre. Lighting is not confirmed by any source, so plan daylight sessions until you have seen it for yourself. Clan Skates in Glasgow is the nearest listed shop; Edinburgh's own are still to be added.
+It sits in Saughton Park on Balgreen Road, easy to reach from the city centre. Lighting is not confirmed by any source, so plan daylight sessions until you have seen it for yourself. Focus Skate Store on the Canongate — trading since 2001 with a shop team of top Scottish riders — is the Edinburgh shop to pair with it.
 
 
 ### Spit and Sawdust
@@ -2199,6 +2199,8 @@ Very few parks say in their own words that older skaters are wanted; Spit and Sa
 
 Open sessions take skateboards, BMX, inline and quads from age seven up. The park's own honest note: it is hard to predict when it will be quiet, but it is usually calmer when the sun is out and the pavements are dry. There is a café on site with local suppliers and homemade food, and a Beginners and Safety section on the website worth reading before a first visit. The riding surfaces are a mix of wooden ramps and concrete.
 
+Cardiff Skateboard Club on Church Street, with its dedicated beginner-equipment range, is the shop to visit first.
+
 
 ### Burnside Skate Park
 One of skateboarding's most iconic DIY spots, built by skaters under the Burnside Bridge in 1990. The organic concrete terrain features banks, bowls, and transitions that reward smooth, flowing skating. The atmosphere is mellow during weekday mornings when regulars — many of them in their 30s, 40s, and 50s — have the park to themselves.
@@ -2206,6 +2208,8 @@ Location: Portland, Oregon, US
 Website: https://www.portlandoregon.gov/parks/finder/index.cfm?action=ViewPark&PropertyID=1219
 
 Burnside is intermediate-level — the terrain requires some experience, particularly the steeper bowl sections. However, the banking areas and flatground around the perimeter are accessible to confident beginners. Go on a weekday morning for the best adult-skater atmosphere.
+
+Cal Skate on NW 6th Avenue downtown — one of the oldest skate shops in the world — is the shop paired with this park.
 
 
 ### Grant Park Skate Park
@@ -2221,6 +2225,8 @@ Location: Denver, Colorado, US
 Website: https://denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Parks-Recreation/Planning-Design-Construction-Community-Engagement/Park-Facility-Projects/Downtown-Skate-Park
 
 The sheer size works in a returning skater's favour — there is almost always an underused corner to practise in. Weekday mornings are quietest. The street section's smaller ledges and flat banks are the friendliest starting point; the deeper bowls are best left until your transition confidence is back.
+
+303 Boards — a Denver brick-and-mortar since 1997, with stores on South Broadway and East Colfax — is the shop paired with this park.
 
 
 ### Heath Eiland & Morgan Moss Skate Park
@@ -2300,6 +2306,8 @@ The park sits on a pile-supported pier over the Hudson, on the spot where Chelse
 
 What makes it a good comeback park is that the levels are named on the map. Start in the Beginner Ollie Zone (4-foot quarter, 2-foot wedge, 3-foot start box), move to the Intermediate Fun Box (24-foot ledge, kinked flat rail, 18-foot ollie ledge), and leave the 5-foot spine and the deep end of the bowl for later. Hudson River Park also runs a street-style park at Pier 25 in Tribeca if flat ledges suit you better than transition.
 
+For a setup before you go, Labor Skateshop on Canal Street — skateboarder-owned since 2012 — is the Lower East Side shop paired with this park.
+
 
 ### Robb Field Skatepark
 Roughly 40,000 square feet of concrete in Ocean Beach, and the first skatepark built and maintained by the City of San Diego. The layout covers a wide spread of terrain, from mellow banks and flatground through to deeper transition, which is why it stays busy with a genuinely mixed-age crowd rather than just teenagers.
@@ -2308,6 +2316,8 @@ Website: https://www.sandiego.gov/park-and-recreation/parks/regional/robbfield
 
 Helmets are required at San Diego city skateparks, so bring one. The perimeter flatground and banks are the easiest entry point; go earlier in the day to avoid the after-school rush.
 
+Pacific Drive Skateboard Shop in Pacific Beach, established 1987 and still owner-run, is the shop paired with this park.
+
 
 ### Venice Beach Skate Park
 A free outdoor concrete park on the Venice boardwalk with a mix of bowls, pools, banks, and street elements. The iconic setting draws skaters of all ages and skill levels. Weekday mornings tend to be less crowded and more welcoming to returning adult skaters working on fundamentals.
@@ -2315,6 +2325,8 @@ Location: Los Angeles, California, US
 Website: https://www.laparks.org/venice-beach-skate-park
 
 Venice Beach Skate Park has something for everyone — a dedicated beginner section with smaller banks and mellow transitions alongside technical pool terrain. The morning hours are populated by a solid contingent of adult skaters, many of them regulars who've been skating there for decades.
+
+Rip City Skates, in the same building on Santa Monica Boulevard since 1978, is the shop paired with this park — ten minutes away and older than most of the people skating here.
 
 ============================================================
 ## LOCAL SHOPS

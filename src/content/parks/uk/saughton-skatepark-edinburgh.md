@@ -22,4 +22,4 @@ tags: ["concrete", "free", "24-hours", "bowl", "edinburgh"]
 
 Saughton is the bigger and more ambitious of Scotland's two listed parks. The bowl has real pool coping and there is an over-vert cradle, which tells you the top end is serious; one visitor guide describes the sessions here as intense. For a returner the value is in the "loads of quarters" and the street course, and in the fact that it never closes — turn up at seven in the morning and the transition is yours.
 
-It sits in Saughton Park on Balgreen Road, easy to reach from the city centre. Lighting is not confirmed by any source, so plan daylight sessions until you have seen it for yourself. Clan Skates in Glasgow is the nearest listed shop; Edinburgh's own are still to be added.
+It sits in Saughton Park on Balgreen Road, easy to reach from the city centre. Lighting is not confirmed by any source, so plan daylight sessions until you have seen it for yourself. Focus Skate Store on the Canongate — trading since 2001 with a shop team of top Scottish riders — is the Edinburgh shop to pair with it.
