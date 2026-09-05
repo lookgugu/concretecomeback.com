@@ -15,10 +15,10 @@ Here is what to actually buy.
 
 ## Helmet: the only non-negotiable
 
-CPSC (US), CE EN 1078 (UK/EU), and AS/NZS 2063 (Australia) are bicycle-helmet standards built around a single hard impact. Skating puts a helmet through repeated falls in one session, so look specifically for a helmet also certified to ASTM F1492 (US) or your region's equivalent multi-impact skate standard — a general bike helmet certified only to the standards above isn't built to take that repeated hit.
+The certification that actually matters for skating is ASTM F1492 (US) or your region's equivalent multi-impact skate standard — it's built around the repeated falls a normal skate session produces, not the single hard impact that CPSC (US), CE EN 1078 (UK/EU), and AS/NZS 2063 (Australia) test for. A helmet certified only to those bicycle standards isn't built to take that repeated hit, even if it's sold in a skate shop. You only need a bicycle certification too if you'll also ride a bike in the same helmet.
 
 What to look for:
-- ASTM F1492 or equivalent multi-impact certification, on top of the bicycle-standard certification above. This is the actual test for handling repeated minor impacts, not just marketing language.
+- ASTM F1492 or equivalent multi-impact certification — the actual test for handling repeated minor impacts, not just marketing language. This is required regardless of what else the helmet is certified to.
 - Multi-impact foam (EPS + EPP). This handles the accumulation of ordinary bumps and low-speed falls over a helmet's working life without needing replacement after each one — it is not a license to keep wearing a helmet after a hard, significant impact. Any real crash to the head means retiring the helmet immediately and replacing it, certification or not; follow the manufacturer's specific replacement guidance.
 - Full coverage at the back. Many cycling helmets leave the back of your skull exposed — not ideal for the backwards falls common in skating.
 - A fit that doesn't wobble. A helmet that's too large offers less protection.
