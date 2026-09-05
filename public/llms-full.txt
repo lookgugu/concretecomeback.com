@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-05T09:56:20.452Z
+# Date: 2026-09-05T10:00:30.970Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -2133,9 +2133,9 @@ Not every town has an indoor park, and not every budget stretches to a membershi
 
 This is the part that matters most if skating itself is scarce for a few months. The specific things skating trains — ankle stability, single-leg balance, hip mobility, and the general comfort of being slightly off-balance — can all be maintained without a board:
 
-- **Single-leg balance drills**, done barefoot on a firm surface, three or four times a week for a few minutes each side.
+- **Single-leg balance drills**, done barefoot on a firm surface, within arm's reach of a wall or counter you can catch yourself on the moment you feel unsteady. Three or four times a week for a few minutes each side; stop and reset rather than fighting to hold a wobbly position.
 - **Ankle mobility work** — controlled circles, calf raises through a full range, and gentle dorsiflexion stretching — since ankle stiffness is one of the fastest things to creep in during an inactive winter.
-- **A balance board or wobble cushion**, if you have one lying around from physical therapy or another sport. Fifteen minutes a couple of times a week keeps the neuromuscular pathway skating relies on genuinely active.
+- **A balance board or wobble cushion**, if you have one lying around from physical therapy or another sport, used the same way: next to stable support, stopping the moment you feel unsteady rather than fighting for a save. Fifteen minutes a couple of times a week keeps the neuromuscular pathway skating relies on genuinely active.
 - **Hip mobility flows** — the kind found in most general mobility routines — since tight hips are the single most common thing I see limiting adult skaters' turns and crouch depth after a long layoff.
 
 None of this replaces actual skating. It's a bridge, not a substitute, and the goal is simply to arrive at your first spring session with a body that still remembers what it's being asked to do.
