@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-05T04:40:59.822Z
+# Date: 2026-09-05T04:56:39.732Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -2241,6 +2241,14 @@ Venice Beach Skate Park has something for everyone — a dedicated beginner sect
 ============================================================
 
 
+### Beyond Skate (North Perth)
+A skate shop with its own indoor skatepark behind it — two linked bowls, a brick wallride and an over-vert pool-coped taco — plus skate clinics and lessons run on site. That combination makes it one of the few places in Australia where a returning skater can buy a setup, take a lesson and ride indoors in one visit.
+Location: Perth, Western Australia, AU
+Website: https://www.beyondskate.com.au
+
+Beyond Skate's North Perth store is built around an indoor park rather than the other way round, which changes what a shop visit can be: try transition in a bowl, ask about the setup that would suit it, and book a clinic if you want coaching. The park's headline features are two linked bowls, a brick wallride and an over-vert taco with pool coping — an intermediate-and-up park, so treat the lessons as the entry point if you are early in a comeback. Open seven days; hours vary by day, so check the store page.
+
+
 ### Black Sheep Skate Shop
 An independent skate shop in Surry Hills with a genuine connection to Sydney's skating community. Black Sheep stocks quality boards, hardware, shoes, and protective gear, with staff who skate and can give practical advice for returning adult skaters — including guidance on setup choices that prioritize stability and joint protection.
 Location: Sydney, New South Wales, AU
@@ -2255,6 +2263,38 @@ Location: Vancouver, British Columbia, CA
 Website: https://antisocial.ca
 
 Antisocial is one of the better independent shops in Vancouver for returning adult skaters. The community-first approach means you won't be judged for asking basic questions about what board to buy or what protective gear you need.
+
+
+### Blue Tile Lounge
+Toronto's core skate shop on Queen Street West, open seven days a week with a full range of decks, hardware, shoes and apparel, and an online store that ships from Canada within 24 hours. The natural pairing with a session at Ashbridges Bay.
+Location: Toronto, Ontario, CA
+Website: https://bluetilelounge.com
+
+Blue Tile Lounge is the Queen West shop that Toronto skaters send visitors to. Hours are noon to 8pm Monday to Friday, 11am to 6pm Saturday and noon to 5pm Sunday. If you would rather order first, the online store ships within 24 hours with tracking, offers free shipping over $200 and accepts returns on unopened items — useful when you are not sure which deck width your feet remember.
+
+
+### Ninetimes Skateshop
+A core skate shop opened in Calgary in 2018 to fill the gap left when the city's once-busy skate retail scene thinned out. Open seven days on 11th Street SW, a few blocks from the beginner section of Cowboys Park, with a full range of decks, hardware, shoes and apparel.
+Location: Calgary, Alberta, CA
+Website: https://ninetimesskateshop.com
+
+Ninetimes describes its Calgary opening as an attempt to give the city a proper skate shop again after several closed, and it has stuck. Hours are 11am to 7pm Monday to Friday, 10am to 6pm Saturday and 10am to 5pm Sunday. Cowboys Park — Canada's largest outdoor skatepark, with a genuinely separate beginner area — is a short ride away.
+
+
+### Clan Skates
+The oldest skateboard shop in Scotland, opened in August 1988 by two pros still riding for Zorlac and Schmitt Stix at the time, and 100% rider-owned more than thirty years on. Repairs as well as sales, in Glasgow's West End a short roll from Kelvingrove.
+Location: Glasgow, Scotland, UK
+Website: https://clanskates.co.uk
+
+Jamie and Davie Philip opened Clan Skates in 1988 while skating professionally, and the shop has stayed rider-owned ever since — which is why it has outlasted every other skate shop in Scotland. It stocks snowboards, scooters and surf gear alongside skateboards, and offers skateboard repairs, not just sales. Jamie also turns up in the story of Kelvin Wheelies, the 1978 concrete park whose remains sit beside the modern Kelvingrove skatepark, so it is the right place to ask about Glasgow's skate history as well as a new setup. Check the website for current opening hours.
+
+
+### NOTE
+One of the UK's longest-standing skate shops, more than 20 years in Manchester and now settled on Thomas Street in the Northern Quarter. Every member of staff has years of skating behind them, they will assemble your setup for you, and it is a ten-minute roll from Projekts MCR and its Wednesday Adults Night.
+Location: Manchester, England, UK
+Website: https://www.noteshop.co.uk
+
+NOTE spent 18 years on Tib Street and a spell in Afflecks Palace before making 61 Thomas Street its permanent home, and it has become as much a clothing and footwear destination as a skate shop. For our purposes the important part is the counter: knowledgeable staff, assembly on the spot, and one of the widest ranges of hardware in the country. Open Monday to Saturday, 10am to 6:30pm, and Sunday 11am to 5pm, with fast domestic and international shipping from the online store.
 
 
 ### Route One
@@ -2273,6 +2313,14 @@ Website: https://www.slamcity.com
 Slam City Skates is the authority on skateboarding in London. For returning adult skaters, the combination of decades of institutional knowledge and staff who are themselves adult skaters makes it the best place in the city to get honest advice about gear.
 
 
+### 35th North
+A cornerstone of Seattle skateboarding since 2001, now on Capitol Hill after starting out as a 300-square-foot room in the University District. Skater-owned, with a full range of decks, hardware, shoes and apparel, and open seven days a week.
+Location: Seattle, Washington, US
+Website: https://35thnorth.com
+
+Owner Tony Croghan opened 35th North in 2001, and the shop has grown from a tiny University District room into one of the city's best-known skate stores. It is open 11am to 8pm Monday through Saturday and 11am to 5pm on Sunday, with discounted shipping for Washington residents and free shipping over $100 if you order online. Lower Woodland is the obvious park to pair it with.
+
+
 ### Cal Skate
 One of California's longest-running independent skate shops, Cal Skate has served the Central Valley skating community since the 1970s. Staff include several adult skaters who understand the specific needs of returning riders — from choosing a stable setup to finding protective gear that doesn't compromise mobility.
 Location: Fresno, California, US
@@ -2287,6 +2335,30 @@ Location: San Francisco, California, US
 Website: https://www.dlxsf.com
 
 DLX is more of an industry shop than an adult-specific shop, but the level of skateboarding knowledge among staff is exceptional. If you want expert help building a custom setup without being steered toward trendy products, this is the place.
+
+
+### No-Comply Skateshop
+Skater-owned and operated in downtown Austin since 2007, with decks from current and legacy brands and a custom-build service the shop describes as right for all ages and skill levels. Open seven days, and a short hop from both of the city's listed parks.
+Location: Austin, Texas, US
+Website: https://nocomplyatx.com
+
+No-Comply carries the new-school brands alongside the ones you will remember — Alien Workshop and Baker sit next to Limosine and Opera — and will build a complete to suit you rather than sell you a pre-made one. Hours are 11am to 7pm Monday to Friday, 10am to 7pm Saturday and 10am to 6pm Sunday, and the online store ships worldwide. Heath Eiland and Mabel Davis parks are both in easy reach.
+
+
+### Southside Skateshop
+The shop inside Southside Skatepark, a Houston skateboarding institution marking its 30th year. Because it sits within an indoor park with a snack bar, you can buy a setup, get it built, and ride it under the same roof — and the crew's stated aim is to accommodate your skateboarding, whatever that looks like.
+Location: South Houston, Texas, US
+Website: https://southsideskateshop.com
+
+Southside is a short drive south of downtown Houston and a different proposition from a street-front shop: the counter is inside the skatepark, so advice comes from people who will watch you ride what they sold you. Hours follow the park — Monday to Thursday 2pm to 9pm, Friday until 10pm, Saturday 11am to 9pm and Sunday 1pm to 9pm — and the online store ships across the US with free shipping over a spend threshold if you would rather browse from home first.
+
+
+### Uprise Skateshop
+Chicago's long-running independent skate shop in Wicker Park, trading for more than 25 years and open for in-store shopping every day but Sunday. A full core-shop range — decks, hardware, shoes and apparel — from a crew that has outlasted most of the city's skate retail.
+Location: Chicago, Illinois, US
+Website: https://upriseskateshop.com
+
+Uprise has been part of Chicago skateboarding for over a quarter of a century, long enough that the closing of its upstairs "Uprise Loft" was marked as the end of an era. The shop on Milwaukee Avenue is open noon to 7pm Monday through Saturday, with curbside pickup available, and the online store offers free domestic shipping on orders over $75. Pair it with a session at Grant Park.
 
 ============================================================
 ## GROUPS & COMMUNITIES
