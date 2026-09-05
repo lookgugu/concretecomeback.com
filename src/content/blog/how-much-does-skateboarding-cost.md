@@ -36,7 +36,7 @@ This is the minimum viable setup for an adult getting back on a board. Good enou
 
 Complete skateboards from good brands come with decent enough components to get started. The trucks will be fine. The wheels will be harder than ideal (you can upgrade later) and the bearings will be serviceable.
 
-**Helmet:** Entry-level but certified. Triple Eight Certified Sweatsaver or Pro-Tec Classic in CPSC- and ASTM F1492-certified versions — the ASTM rating matters as much as CPSC, since CPSC alone is a single-impact bicycle standard. These are real helmets, not toy helmets.
+**Helmet:** Entry-level but certified. Triple Eight Certified Sweatsaver is a reliable pick at this tier and is commonly sold with both CPSC and ASTM F1492 certification — check the label for both before buying, since CPSC alone is a single-impact bicycle standard and not every model or variant carries the ASTM rating. These are real helmets, not toy helmets.
 - Cost: $40–$60
 
 **Wrist guards:** Triple Eight Hired Hands or Pro-Tec Street wrist guards. Not gloves — wrist guards with a rigid internal splint.
@@ -56,7 +56,7 @@ This is the setup for someone who's decided they're going to skate regularly and
 **Board:** Custom built at a local skate shop, or a quality complete. Deck from a reputable brand (8.5"–9" depending on your shoe size), independent or Thunder trucks in appropriate width, soft wheels (78a–87a), ABEC-7 or better bearings.
 - Cost: $160–$220
 
-**Helmet:** Triple Eight Certified Sweatsaver with dual-certified foam (CPSC + ASTM), or Pro-Tec Classic in the same certification. Multi-impact foam is worth it if you're going to skate frequently.
+**Helmet:** Triple Eight Certified Sweatsaver, checking the label for dual certification (CPSC + ASTM F1492) rather than assuming any given model or variant has it. Multi-impact foam is worth it if you're going to skate frequently.
 - Cost: $55–$90
 
 **Wrist guards:** Triple Eight Hired Hands or Hillbilly Full Finger. Full-finger models protect the knuckles too, which matters if you're skating concrete.
