@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-05T13:38:37.038Z
+# Date: 2026-09-05T13:45:22.814Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -2282,11 +2282,11 @@ South Austin location means less traffic than the centrally located Shoal Creek 
 
 
 ### Paine's Park
-Philadelphia's landmark public skate plaza on the Schuylkill River Banks behind the Art Museum, opened in 2013 after a decade of work by the skater-led Franklin's Paine Skatepark Fund. About 30,000 square feet of ledges, rails, banks and stairs described by the city as being for skaters of all skill levels — approachable street terrain rather than deep transition.
+Philadelphia's landmark public skate plaza on the Schuylkill River Banks behind the Art Museum, opened in 2013 after a decade of work by the skater-led Franklin's Paine Skatepark Fund. Its south section — low ollie boxes, benches and a lot of flatground — was described by two returning skaters in Philadelphia magazine as a de facto old-folks zone, and that is exactly what it is good for.
 Location: Philadelphia, Pennsylvania, US
 Website: https://www.visitphilly.com/things-to-do/attractions/paines-park/
 
-Paine's is a plaza, not a bowl park: quarterpipes, banks, ledges, curbs, manual pads, flat and handrails, a stair set and a wallride, spread across a riverfront site that doubles as a public park and connects straight onto the Schuylkill River Trail. If your comeback is about relearning ollies and rolling over ledges rather than dropping in, this is the Philadelphia park to start at — FDR, the city's famous DIY park, is a very different proposition.
+Paine's is a plaza, not a bowl park: quarterpipes, banks, ledges, curbs, manual pads, flat and handrails, a stair set and a wallride, spread across a riverfront site that doubles as a public park and connects straight onto the Schuylkill River Trail. Head for the south end first. When Philadelphia magazine sent two "oldheads" to dust off their boards here, they settled in that section — "low ollie boxes and benches and a lot of flat ground for cruising" — and called it a de facto old-folks zone that suited them fine. FDR, the city's famous DIY park, is a very different proposition.
 
 It was conceived in 2002 by Franklin's Paine Skatepark Fund, the skater-run non-profit that later helped win a skate plaza at the Municipal Services Building, and it opened in 2013. Limited parking at the Waterworks Drive lot off Kelly Drive and paid parking at the Art Museum garage; SEPTA buses 43 and 38 stop nearby.
 
@@ -2326,7 +2326,7 @@ A skate shop with its own indoor skatepark behind it — two linked bowls, a bri
 Location: Perth, Western Australia, AU
 Website: https://www.beyondskate.com.au
 
-Beyond Skate's North Perth store is built around an indoor park rather than the other way round, which changes what a shop visit can be: try transition in a bowl, ask about the setup that would suit it, and book a clinic if you want coaching. The park's headline features are two linked bowls, a brick wallride and an over-vert taco with pool coping — an intermediate-and-up park, so treat the lessons as the entry point if you are early in a comeback. Open seven days; hours vary by day, so check the store page.
+Beyond Skate's North Perth store is built around an indoor park rather than the other way round, which changes what a shop visit can be: try transition in a bowl, ask about the setup that would suit it, and book a clinic if you want coaching. The park's headline features are two linked bowls, a brick wallride and an over-vert taco with pool coping — an intermediate-and-up park, so treat the lessons as the entry point if you are early in a comeback. Open seven days; hours vary by day, so check the store page. When you are ready for outdoors, Leederville Skate Park — free, lit and open 24 hours, with two bowls linked by a submarine — is a short ride south and the natural park to pair with this shop.
 
 
 ### Black Sheep Skate Shop

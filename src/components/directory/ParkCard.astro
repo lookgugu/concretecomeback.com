@@ -7,7 +7,7 @@ interface Props {
   entry: CollectionEntry<'parks'>;
 }
 const { entry } = Astro.props;
-const { name, country, city, stateProvince, difficulty, adultFriendly, surface, features, entryFee, heroImage, heroImageAlt, isIndoor } = entry.data;
+const { name, country, city, stateProvince, difficulty, adultFriendly, surface, features, entryFee, heroImage, heroImageAlt, isIndoor, tags } = entry.data;
 
 const location = stateProvince ? `${city}, ${stateProvince}` : city;
 const maxFeatures = 4;
@@ -23,6 +23,9 @@ const dataAttrs = {
   'data-name': name.toLowerCase(),
   'data-city': city.toLowerCase(),
   'data-indoor': String(isIndoor),
+  // Tags are searchable so a metro alias ("boston" for a park in Cambridge) is
+  // findable without misstating the venue's actual municipality in `city`.
+  'data-tags': (tags ?? []).join(' ').toLowerCase(),
 };
 ---
 <article

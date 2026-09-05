@@ -72,7 +72,7 @@ Every address, hours line, fee, feature and service must trace to a page you rea
 - Copy says **"older skaters"**, never "adult", in user-facing prose. Field names (`adultFriendly`, `adult-advice`) keep their code names.
 - Use durable wording: "more than 30 years", not "celebrating 30 years" or "marking its 30th year".
 - Body: one or two short paragraphs in the site's voice — practical, specific, addressed to someone rebuilding confidence. Say where to start in the park. Cross-reference the paired shop/park by name.
-- `city`: use the venue's actual municipality (e.g. "South Houston"). The filter's search matches substrings, so "Houston" still finds it.
+- `city`: use the venue's actual municipality (e.g. "South Houston", "Cambridge"). The filter's search matches substrings of name, city and — for parks — `tags`, so "Houston" still finds South Houston, and a park in Cambridge is found by "Boston" if you add a `boston` tag. Use a tag for the metro alias; never put it in `city`.
 
 ### Parks (`src/content.config.ts` → `parks`)
 - `surface` (≥1): `concrete | wood | asphalt | hybrid | tiles` — **required; hold the entry if unsourced.**
