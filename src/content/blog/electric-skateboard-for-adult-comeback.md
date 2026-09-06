@@ -42,6 +42,8 @@ This is the part worth being honest about, because it's exactly what most produc
 
 An e-skate is a genuinely good starting point if your primary goal is transportation, low-impact outdoor movement, or simply re-familiarizing yourself with rolling before deciding whether to invest more. It's a weaker starting point if your actual goal is skateparks, tricks, or the specific culture and community built around traditional skating — you'll hit a ceiling there that no amount of e-skate time gets you past.
 
+If transportation is the goal, check your local rules before you buy. Motorized personal transporters are regulated very differently from country to country and even city to city — some places treat them like a bicycle, others restrict or ban riding them on public roads and pavements entirely. This varies enough by jurisdiction that it's worth a five-minute check with your local authority rather than assuming the board you want is legal to ride where you'd actually use it.
+
 The honest middle-ground answer: treat it as one legitimate on-ramp among several, not a shortcut to the same destination. If a few months on an e-skate gets someone comfortable enough to try a standard board or a cruiser afterward, that's a real win. If it becomes the whole hobby because the motor removed the part that felt hardest, that's fine too — it's a real form of movement and a genuine reason to be outside, even if it's a different sport from park skating in the ways that matter most.
 
 ## Gear still applies
