@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-06T19:09:46.293Z
+# Date: 2026-09-06T19:13:40.020Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -1494,7 +1494,7 @@ Here's the uncomfortable truth about "I'll start when the weather's better": the
 
 If you've been circling the idea of getting back on a board, early autumn — September up here, the weeks after summer down there, or the cooler dry season in the tropics — gives you the best combination of conditions you'll get all year: comfortable temperatures, thinner crowds, and enough runway to actually build something before the season turns. Waiting for spring doesn't remove the hard part — it just delays it, and hands you a more crowded park to do it in.
 
-Go find your board. The window is open right now.
+Go find your board. If you're in the Northern Hemisphere, the window is open right now. If you're south of the equator, put your own post-summer window in the diary today — and when it arrives, treat it exactly the way this post treats September.
 
 
 ### The 15-Minute Skate Session: Why Short Beats Long for Adults
