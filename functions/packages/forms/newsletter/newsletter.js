@@ -74,7 +74,15 @@ function confirmationPage(token) {
 <p><a href="/">Return to Concrete Comeback</a></p></main></body></html>`;
 }
 
-async function resendRequest(path, apiKey, options) {
+// The action's limits.timeout is 15s. Two sequential 8s calls could outlive the
+// invocation, so DO would kill it before a catch could return the branded
+// redirect. Share one budget across every call in a request instead.
+const REQUEST_BUDGET_MS = 12000;
+const MIN_CALL_MS = 1000;
+
+async function resendRequest(path, apiKey, options, deadline) {
+  const remaining = deadline ? deadline - Date.now() : REQUEST_BUDGET_MS;
+  if (remaining < MIN_CALL_MS) throw new Error('Resend request budget exhausted');
   return fetch(`https://api.resend.com${path}`, {
     ...options,
     headers: {
@@ -82,7 +90,7 @@ async function resendRequest(path, apiKey, options) {
       'Content-Type': 'application/json',
       ...(options.headers || {}),
     },
-    signal: AbortSignal.timeout(8000),
+    signal: AbortSignal.timeout(Math.min(remaining, REQUEST_BUDGET_MS)),
   });
 }
 
@@ -119,9 +127,15 @@ async function startSignup(args) {
       body: JSON.stringify(payload),
       headers: { 'Idempotency-Key': idempotencyKey },
     });
-    // A reused or concurrent key means Resend suppressed the duplicate send.
-    // Keep the public response indistinguishable from the initial request.
-    if (result.status === 409) return response(202, { ok: true, status: 'pending' });
+    // A reused or concurrent key means Resend suppressed the duplicate send: the
+    // token expiry changes every call, so a repeat signup inside the 24h window is
+    // always a payload mismatch. Keep the public response indistinguishable from
+    // the initial request, but leave a log line — a visitor whose first email
+    // bounced gets no new link until the key ages out, and that is worth seeing.
+    if (result.status === 409) {
+      console.warn('Newsletter signup suppressed', { code: 'duplicate_confirmation_suppressed' });
+      return response(202, { ok: true, status: 'pending' });
+    }
     if (!result.ok) {
       console.error('Newsletter signup failed', { code: 'confirmation_email_failed', status: result.status });
       return response(502, { ok: false, error: 'We could not send the confirmation email. Please try again.' });
@@ -144,23 +158,27 @@ async function confirmSignup(token) {
     return redirect('/newsletter/error/');
   }
 
+  const deadline = Date.now() + REQUEST_BUDGET_MS;
+
   try {
+    // Resend's POST /contacts succeeds for an address that already exists and does
+    // not document whether the body's `unsubscribed: false` is applied to it, so a
+    // returning subscriber cannot be reactivated by the create alone. PATCH after
+    // every successful create — it is the only call that reliably clears the flag.
     const createResult = await resendRequest('/contacts', apiKey, {
       method: 'POST',
       body: JSON.stringify({ email, unsubscribed: false }),
-    });
-    // A create can be rejected because the contact already exists, and Resend does
-    // not commit to one status code for that. Treat any failed create as a possible
-    // duplicate and reactivate the existing contact before giving up, so someone who
-    // did confirm is never sent to the error page.
+    }, deadline);
     if (!createResult.ok) {
-      const updateResult = await resendRequest(`/contacts/${encodeURIComponent(email)}`, apiKey, {
-        method: 'PATCH',
-        body: JSON.stringify({ unsubscribed: false }),
-      });
-      if (!updateResult.ok) {
-        throw new Error(`Contact create failed with ${createResult.status}, update with ${updateResult.status}`);
-      }
+      throw new Error(`Contact create failed with ${createResult.status}`);
+    }
+
+    const updateResult = await resendRequest(`/contacts/${encodeURIComponent(email)}`, apiKey, {
+      method: 'PATCH',
+      body: JSON.stringify({ unsubscribed: false }),
+    }, deadline);
+    if (!updateResult.ok) {
+      throw new Error(`Contact update failed with ${updateResult.status}`);
     }
     return redirect('/newsletter/confirmed/');
   } catch (error) {

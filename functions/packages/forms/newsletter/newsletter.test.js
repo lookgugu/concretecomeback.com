@@ -134,23 +134,48 @@ test('confirmed signup creates an active Resend contact', async () => {
   });
 });
 
-test('a rejected create falls back to reactivating the existing contact', async () => {
+// Resend answers 2xx when the address already exists and does not document whether
+// the create body's `unsubscribed: false` reaches an existing contact, so the PATCH
+// is the only call that reliably reactivates a returning subscriber.
+test('a returning subscriber is reactivated even when the create reports success', async () => {
   const requests = [];
   await withEnvironment(async (url, options) => {
     requests.push({ url, options });
-    // Resend does not commit to 409 for a duplicate, so any failed create must retry.
-    return requests.length === 1 ? { ok: false, status: 422 } : { ok: true, status: 200 };
+    return { ok: true, status: 201 };
   }, async () => {
     const token = createToken('returning@example.com', process.env.NEWSLETTER_CONFIRM_SECRET);
     const result = await main({ http: { method: 'POST' }, confirmation_token: token });
+
     assert.equal(result.headers.location, '/newsletter/confirmed/');
+    assert.equal(requests.length, 2);
     assert.equal(requests[1].url, 'https://api.resend.com/contacts/returning%40example.com');
     assert.equal(requests[1].options.method, 'PATCH');
+    assert.deepEqual(JSON.parse(requests[1].options.body), { unsubscribed: false });
   });
 });
 
-test('a confirmation whose create and update both fail lands on the error page', async () => {
-  await withEnvironment(async () => ({ ok: false, status: 500 }), async () => {
+test('a failed create stops before the update and lands on the error page', async () => {
+  const requests = [];
+  await withEnvironment(async (url, options) => {
+    requests.push({ url, options });
+    return { ok: false, status: 401 };
+  }, async () => {
+    const token = createToken('broken@example.com', process.env.NEWSLETTER_CONFIRM_SECRET);
+    const result = await main({ http: { method: 'POST' }, confirmation_token: token });
+
+    assert.equal(result.headers.location, '/newsletter/error/');
+    // A create rejected for auth or rate limits would fail the PATCH the same way;
+    // retrying only burns the invocation's remaining time budget.
+    assert.equal(requests.length, 1);
+  });
+});
+
+test('a failed update lands on the error page', async () => {
+  let calls = 0;
+  await withEnvironment(async () => {
+    calls += 1;
+    return calls === 1 ? { ok: true, status: 201 } : { ok: false, status: 500 };
+  }, async () => {
     const token = createToken('broken@example.com', process.env.NEWSLETTER_CONFIRM_SECRET);
     const result = await main({ http: { method: 'POST' }, confirmation_token: token });
     assert.equal(result.headers.location, '/newsletter/error/');

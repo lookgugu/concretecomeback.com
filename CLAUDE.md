@@ -93,4 +93,8 @@ curl "https://concretecomeback.com/api/forms/newsletter?health=1"
 # {"ok":true,"hasSendKey":true,"hasContactsKey":true,"hasConfirmSecret":true}
 ```
 
+**Set both secrets before merging anything that references them.** `functions/project.yml` resolves `${VAR}` at deploy time and aborts the whole `forms` package on any unresolved substitution — so a missing `RESEND_CONTACTS_API_KEY` or `NEWSLETTER_CONFIRM_SECRET` fails the deploy of `submit` too, and App Platform keeps the previous deployment live (the static site included). Because DO deploys the *stored* spec, adding a `SECRET` entry to `.do/app.yaml` does nothing on push: set the value in the control panel, or apply the spec with `doctl apps update <app-id> --spec .do/app.yaml`, first.
+
+**Each function directory needs its own `package.json` with `main`.** The deployer zips the directory and the Node runtime does `require(dir)`, which falls back to a non-existent `index.js` when `main` is unset — every request then gets DO's masked error page. Unit tests `require('./name')` explicitly, so they pass regardless; only a deployed health check catches it.
+
 **Any browser `fetch` to `/api/forms/*` must send `application/x-www-form-urlencoded`** — never a raw `FormData` object. DO Functions parses only JSON and form-urlencoded bodies into a web action's `args`; a multipart body arrives base64-encoded in `__ow_body` with a boundary the `URLSearchParams` fallback in each function cannot decode, so every field reads as undefined and the request fails validation. Use `body: new URLSearchParams(new FormData(form))` and let the browser set the content type. Unit tests that call `main()` with pre-parsed args cannot catch this; cover the encoded-body path instead.

@@ -104,3 +104,26 @@
   form:has([name="listing-type"][value="shop"]:checked)  .shop-fields  { display: block; }
   form:has([name="listing-type"][value="group"]:checked) .group-fields { display: block; }
 }
+
+@layer components {
+  /* Used by /privacy, /about, blog posts and directory detail pages. Astro only
+     emits a component's styles on pages that render it, so this must live here
+     rather than in any one layout, or the other consumers fall back to the
+     typography plugin's default gray. */
+  .prose-concrete {
+    --tw-prose-body: var(--color-concrete-700);
+    --tw-prose-headings: var(--color-concrete-900);
+    --tw-prose-lead: var(--color-concrete-600);
+    --tw-prose-links: var(--color-concrete-800);
+    --tw-prose-bold: var(--color-concrete-900);
+    --tw-prose-counters: var(--color-concrete-500);
+    --tw-prose-bullets: var(--color-concrete-400);
+    --tw-prose-hr: var(--color-concrete-200);
+    --tw-prose-quotes: var(--color-concrete-700);
+    --tw-prose-quote-borders: var(--color-skate-orange);
+    --tw-prose-code: var(--color-concrete-800);
+    --tw-prose-pre-bg: var(--color-concrete-800);
+    font-size: var(--font-size-base);
+    line-height: var(--line-height-relaxed);
+  }
+}

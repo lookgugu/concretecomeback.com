@@ -35,6 +35,9 @@ export function initNewsletterSignup(panel) {
     shown = true;
     panel.hidden = false;
     requestAnimationFrame(() => panel.dataset.visible = 'true');
+    // The panel is not a dialog and deliberately does not steal focus, so the live
+    // region is the only way assistive tech learns it arrived.
+    status.textContent = 'Monthly roundup signup available at the end of the page.';
     track('newsletter_popup_shown');
     window.removeEventListener('scroll', onScroll);
     clearTimeout(timer);
@@ -53,17 +56,26 @@ export function initNewsletterSignup(panel) {
   timer = window.setTimeout(show, pageViews >= 2 ? 1500 : 45000);
   window.addEventListener('scroll', onScroll, { passive: true });
 
-  const dismiss = () => {
+  // `remember` is the 30-day suppression. Only the explicit close button earns it:
+  // Escape also closes the browser's autocomplete dropdown, and that keydown still
+  // bubbles to document, so an Escape mid-signup must not bury the prompt for a month.
+  const dismiss = (remember) => {
     if (panel.dataset.visible !== 'true') return;
     panel.dataset.visible = 'false';
-    try { localStorage.setItem('cc-newsletter-dismissed-at', String(Date.now())); } catch (_error) {}
+    if (remember) {
+      try { localStorage.setItem('cc-newsletter-dismissed-at', String(Date.now())); } catch (_error) {}
+    }
     track('newsletter_popup_dismissed');
     window.setTimeout(() => { panel.hidden = true; }, 200);
   };
 
-  closeButton.addEventListener('click', dismiss);
+  closeButton.addEventListener('click', () => dismiss(true));
   document.addEventListener('keydown', (event) => {
-    if (event.key === 'Escape') dismiss();
+    // Only when focus is already inside the panel, so Escape elsewhere on the page
+    // (or consumed by an autofill dropdown) never reaches this.
+    if (event.key !== 'Escape' || event.defaultPrevented) return;
+    if (!panel.contains(document.activeElement)) return;
+    dismiss(false);
   });
 
   form.addEventListener('submit', async (event) => {
