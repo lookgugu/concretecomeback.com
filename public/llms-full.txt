@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-06T18:59:48.485Z
+# Date: 2026-09-06T19:04:45.832Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -378,11 +378,11 @@ That's the whole appeal in one sentence: it removes the pushing motion, which is
 
 This is the part worth being honest about, because it's exactly what most product marketing skips.
 
-**It doesn't teach pushing.** This is the obvious one, and the one that matters most if a standard board is where you're headed: pushing is the first thing every comeback plan on this site builds, and the motor removes it completely. Months on an e-skate leave that muscle memory — and the leg, ankle and hip conditioning behind it — exactly where it started. If pushing is the thing that hurts, a [surfskate](/blog/surfskate-first-board-for-adults/) is the non-motorized answer to the same problem, and it does build skills that transfer.
+**It doesn't teach pushing.** This is the obvious one, and the one that matters most if a standard board is where you're headed: pushing is the first thing every comeback plan on this site builds, and the motor removes it completely. Months on an e-skate leave that muscle memory — and the leg, ankle and hip conditioning behind it — exactly where it started. If pushing is the thing that hurts, treat that the way the joint-management guide does: a *new* pain gets assessed before you change equipment, not designed around. If it's the familiar, already-looked-at kind, a [surfskate](/blog/surfskate-first-board-for-adults/) is the non-motorized answer to the same problem — bearing in mind that pumping one still loads the ankles, knees, hips and lower back — and it does build skills that transfer.
 
 **It doesn't teach pumping.** Transition skating — bowls, ramps, surfskates — relies on generating and managing your own momentum through weight shifts and pumping, not just steering with them. An e-skate's throttle replaces that momentum-generating role entirely. Carving itself — steering through weight shift, the way you would on a longboard — does carry over; it's specifically the pumping-for-propulsion piece that doesn't. If your long-term goal is a normal skateboard or a surfskate, that's the motor skill you'd still need to build separately.
 
-**It changes your relationship with braking.** A regular board teaches you to manage speed through your own body — bleeding speed with a hard carve or a slide, foot-braking, or bailing deliberately. An e-skate's brake is doing that job for you through the remote. That's a real skill you'd still need to build separately if you ever move to a non-motorized board.
+**It changes your relationship with braking.** A regular board teaches you to manage speed through your own body — bleeding speed with a hard carve or a slide, foot-braking, or bailing deliberately. An e-skate's brake is doing that job for you through the remote — right up until it isn't. A lost connection, a flat battery or a controller fault leaves you with no electronic brake at all, at speeds a standard board rarely reaches. So learn and practise a manual backup stop — foot-braking and a deliberate low-speed bail — on the e-skate itself, at walking pace, before you rely on the remote for anything faster. It's also a skill you'd need anyway if you ever move to a non-motorized board.
 
 **The balance demand is different, not absent.** You still need real balance to ride one safely, particularly at speed or over rough surfaces, so don't mistake "no pushing" for "no skill required." But it's a narrower slice of the balance and proprioception training that a standard board asks of your whole body throughout a session, not just when accelerating or braking.
 
@@ -1477,7 +1477,7 @@ Compare that to waiting until spring: you lose the entire autumn window, you're 
 
 ## A note for the Southern Hemisphere
 
-Everything above is written from the Northern Hemisphere, where September is early autumn. If you're in Australia or anywhere south of the equator, flip the calendar six months: your version of this post is **March**, when the summer heat and the summer crowds fade and you get the same eight-to-twelve-week runway before winter. Starting in September — your early spring — is the exact scenario the previous section argues against: you'd be doing your shakiest sessions at the moment everyone else's season starts. The advice is seasonal, not calendar-specific: start in the mild weeks *after* your region's peak season, not before it.
+Everything above is written from the Northern Hemisphere, where September is early autumn. If you're in Australia or anywhere south of the equator, flip the calendar six months: in the temperate south — Sydney, Melbourne, Adelaide, Perth, New Zealand — your version of this post is **March**, when the summer heat and the summer crowds fade and you get the same eight-to-twelve-week runway before winter. In the tropical north, where March can still be hot and wet and winter never really shuts skating down, ignore the calendar and aim for your local cooler, drier season instead. Starting in September — your early spring — is the exact scenario the previous section argues against: you'd be doing your shakiest sessions at the moment everyone else's season starts. The advice is seasonal, not calendar-specific: start in the mild weeks *after* your region's peak season, not before it.
 
 ## What "starting now" actually looks like
 

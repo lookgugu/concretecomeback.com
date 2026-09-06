@@ -30,7 +30,7 @@ Compare that to waiting until spring: you lose the entire autumn window, you're 
 
 ## A note for the Southern Hemisphere
 
-Everything above is written from the Northern Hemisphere, where September is early autumn. If you're in Australia or anywhere south of the equator, flip the calendar six months: your version of this post is **March**, when the summer heat and the summer crowds fade and you get the same eight-to-twelve-week runway before winter. Starting in September — your early spring — is the exact scenario the previous section argues against: you'd be doing your shakiest sessions at the moment everyone else's season starts. The advice is seasonal, not calendar-specific: start in the mild weeks *after* your region's peak season, not before it.
+Everything above is written from the Northern Hemisphere, where September is early autumn. If you're in Australia or anywhere south of the equator, flip the calendar six months: in the temperate south — Sydney, Melbourne, Adelaide, Perth, New Zealand — your version of this post is **March**, when the summer heat and the summer crowds fade and you get the same eight-to-twelve-week runway before winter. In the tropical north, where March can still be hot and wet and winter never really shuts skating down, ignore the calendar and aim for your local cooler, drier season instead. Starting in September — your early spring — is the exact scenario the previous section argues against: you'd be doing your shakiest sessions at the moment everyone else's season starts. The advice is seasonal, not calendar-specific: start in the mild weeks *after* your region's peak season, not before it.
 
 ## What "starting now" actually looks like
 
