@@ -50,4 +50,4 @@ Whatever the drivetrain, the physics of falling doesn't change. Helmet, wrist gu
 
 ## The bottom line
 
-An electric skateboard is a legitimate comeback vehicle if what you want is the feeling of rolling, lower physical demand to get started, and a genuine reason to get outside. It's not a shortcut to skatepark skating, and it won't build the pumping, carving, and self-generated-momentum skills that transfer to a standard deck. Know which one you actually want before you buy, and you won't be disappointed by the one you get.
+An electric skateboard is a legitimate comeback vehicle if what you want is the feeling of rolling, lower physical demand to get started, and a genuine reason to get outside. It's not a shortcut to skatepark skating, and it won't build the pumping and self-generated-momentum skills that transfer to a standard deck — though the weight-shift carving it does teach is a real head start on that front. Know which one you actually want before you buy, and you won't be disappointed by the one you get.
