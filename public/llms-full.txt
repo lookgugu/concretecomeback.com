@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-06T19:13:40.020Z
+# Date: 2026-09-06T19:18:26.145Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -1477,13 +1477,14 @@ Compare that to waiting until spring: you lose the entire autumn window, you're 
 
 ## A note for the Southern Hemisphere
 
-Everything above is written from the Northern Hemisphere, where September is early autumn. If you're in Australia or anywhere south of the equator, flip the calendar six months: in the temperate south — Sydney, Melbourne, Adelaide, Perth, New Zealand — your version of this post is **March**, when the summer heat and the summer crowds fade and you get the same eight-to-twelve-week runway before winter. In the tropical north, where March can still be hot and wet and winter never really shuts skating down, ignore the calendar and aim for your local cooler, drier season instead. Starting in September — your early spring — is the exact scenario the previous section argues against: you'd be doing your shakiest sessions at the moment everyone else's season starts. The advice is seasonal, not calendar-specific: start in the mild weeks *after* your region's peak season, not before it.
+Everything above is written from the Northern Hemisphere, where September is early autumn. If you're in Australia or anywhere south of the equator, flip the calendar six months: in the temperate south — Sydney, Melbourne, Adelaide, Perth, New Zealand — your version of this post is **March**, when the summer heat and the summer crowds fade and you get the same eight-to-twelve-week runway before winter. And anywhere in the tropics — northern Australia, but equally Hawaii, the Caribbean, Central America or Southeast Asia in the Northern Hemisphere — the calendar in this post doesn't apply at all: September or March may be your hot, wet or storm season, and winter never really shuts skating down. Ignore the month and aim for your local cooler, drier season instead. Starting in September — your early spring — is the exact scenario the previous section argues against: you'd be doing your shakiest sessions at the moment everyone else's season starts. The advice is seasonal, not calendar-specific: start in the mild weeks *after* your region's peak season, not before it.
 
 ## What "starting now" actually looks like
 
-You don't need a new training plan to act on this — the site already has one. Follow the [8-week return plan for adult skaters](/blog/8-week-return-plan-adult-skaters/) exactly as written; the only thing September changes is when you start it. Two things to hold onto alongside it:
+You don't need a new training plan to act on this — the site already has one. Follow the [8-week return plan for adult skaters](/blog/8-week-return-plan-adult-skaters/); the only thing September changes is when you start it. Three things to hold onto alongside it:
 
-- **Gear from day one:** helmet, wrist guards and full-cup knee pads on every session — not after you've decided you're "serious enough" to need them. Non-negotiable regardless of month, and the knee pads matter most once the plan puts you on small banks and gentle transitions, where a knee slide is the safe bail.
+- **Falling practice before week one, not in week three.** The plan doesn't get to tuck-and-roll until its third week and never teaches the knee slide, so do the basics from the [falling guide](/blog/how-to-fall-safely-after-40/) — tuck, roll, and a practised knee slide on grass or carpet — before your first session on a board. Pads only do their job if you know how to land on them.
+- **Gear from day one:** helmet, wrist guards and full-cup knee pads on every session — not after you've decided you're "serious enough" to need them. Non-negotiable regardless of month, and the knee pads matter most once the plan puts you on small banks and gentle transitions, where that practised knee slide is the safe bail.
 - **Off-peak hours:** weekday mornings and early afternoons tend to be quietest once school is back. Spend your shakiest sessions in them.
 
 None of that requires ideal conditions or a big block of free time. It requires starting before the excuse of "next season" turns into another full year gone.
@@ -1494,7 +1495,7 @@ Here's the uncomfortable truth about "I'll start when the weather's better": the
 
 If you've been circling the idea of getting back on a board, early autumn — September up here, the weeks after summer down there, or the cooler dry season in the tropics — gives you the best combination of conditions you'll get all year: comfortable temperatures, thinner crowds, and enough runway to actually build something before the season turns. Waiting for spring doesn't remove the hard part — it just delays it, and hands you a more crowded park to do it in.
 
-Go find your board. If you're in the Northern Hemisphere, the window is open right now. If you're south of the equator, put your own post-summer window in the diary today — and when it arrives, treat it exactly the way this post treats September.
+Go find your board. If you're in the temperate Northern Hemisphere, the window is open right now. If you're in the temperate south, put your own post-summer window in the diary today. If you're in the tropics, either side of the equator, your window is the cooler, drier season — diary that instead. Whenever it arrives, treat it exactly the way this post treats September.
 
 
 ### The 15-Minute Skate Session: Why Short Beats Long for Adults
