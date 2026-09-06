@@ -32,7 +32,7 @@ That's the whole appeal in one sentence: it removes the pushing motion, which is
 
 This is the part worth being honest about, because it's exactly what most product marketing skips.
 
-**It doesn't teach pumping or carving.** Traditional skating — especially anything involving transition, bowls, or even basic street skating — relies on generating and managing your own momentum through weight shifts and pumping. An e-skate's throttle replaces that entirely. If your long-term goal is a normal skateboard or a surfskate, the motor skill you'd be building on an e-skate doesn't transfer to that specific movement pattern.
+**It doesn't teach pumping.** Traditional skating — especially anything involving transition, bowls, or even basic street skating — relies on generating and managing your own momentum through weight shifts and pumping, not just steering with them. An e-skate's throttle replaces that momentum-generating role entirely. Carving itself — steering through weight shift, the way you would on a longboard — does carry over; it's specifically the pumping-for-propulsion piece that doesn't. If your long-term goal is a normal skateboard or a surfskate, that's the motor skill you'd still need to build separately.
 
 **It changes your relationship with braking.** A regular board teaches you to manage speed through your own body — carving to scrub speed, foot-braking, or bailing deliberately. An e-skate's brake is doing that job for you through the remote. That's a real skill you'd still need to build separately if you ever move to a non-motorized board.
 

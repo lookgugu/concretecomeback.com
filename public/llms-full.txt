@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-06T09:07:06.285Z
+# Date: 2026-09-06T09:13:33.414Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -378,7 +378,7 @@ That's the whole appeal in one sentence: it removes the pushing motion, which is
 
 This is the part worth being honest about, because it's exactly what most product marketing skips.
 
-**It doesn't teach pumping or carving.** Traditional skating — especially anything involving transition, bowls, or even basic street skating — relies on generating and managing your own momentum through weight shifts and pumping. An e-skate's throttle replaces that entirely. If your long-term goal is a normal skateboard or a surfskate, the motor skill you'd be building on an e-skate doesn't transfer to that specific movement pattern.
+**It doesn't teach pumping.** Traditional skating — especially anything involving transition, bowls, or even basic street skating — relies on generating and managing your own momentum through weight shifts and pumping, not just steering with them. An e-skate's throttle replaces that momentum-generating role entirely. Carving itself — steering through weight shift, the way you would on a longboard — does carry over; it's specifically the pumping-for-propulsion piece that doesn't. If your long-term goal is a normal skateboard or a surfskate, that's the motor skill you'd still need to build separately.
 
 **It changes your relationship with braking.** A regular board teaches you to manage speed through your own body — carving to scrub speed, foot-braking, or bailing deliberately. An e-skate's brake is doing that job for you through the remote. That's a real skill you'd still need to build separately if you ever move to a non-motorized board.
 
@@ -965,7 +965,7 @@ You don't need all three at once, and stacking gear rarely solves more than choo
 
 1. **Start with the least you need.** If a joint feels a little stiff or achy but nothing more, a compression sleeve alone is often enough.
 2. **Add tape if form is the issue.** If you notice your knee tracking poorly or a specific movement pattern breaking down late in a session, taping to cue better mechanics is worth trying.
-3. **Move to a brace only for real instability.** If a joint actually feels like it might give way, that's a brace-and-a-professional-opinion situation, not a tape-and-hope-for-the-best one.
+3. **A new pain or a joint that feels like it might give way is not a "reach for a brace" moment.** That's different from ordinary stiffness or ache — it can mean an acute ligament, meniscal, or other injury, and skating on it is also a fall risk in the moment. Stop the session and get it assessed by a physio or doctor before you skate on it again. A brace has a place after that — to support a diagnosed problem your clinician has told you it's fine to keep skating on — not as the thing you try first to push through a new symptom.
 
 ## When to stop managing and start assessing
 
@@ -1479,8 +1479,9 @@ Everything above assumes you're reading this from the Northern Hemisphere, where
 
 You don't need a training plan to act on this. A realistic version:
 
+- **Before week one:** Get a helmet and wrist guards and put them on every session from day one — not after you've decided you're "serious enough" to need them. This is non-negotiable regardless of what month you start.
 - **Week 1–2:** Get comfortable standing, pushing, and stopping on flat, quiet ground. Don't worry about the park yet.
-- **Week 3–6:** Add mellow terrain — small banks, gentle transitions — during off-peak hours (weekday mornings or early afternoons tend to be quietest in September).
+- **Week 3–6:** Add mellow terrain — small banks, gentle transitions — during off-peak hours (weekday mornings or early afternoons tend to be quietest in September), with your helmet and wrist guards on as a matter of course.
 - **Week 7–12:** Build a real routine. Two or three sessions a week is enough to make consistent progress without overloading a body that's still adapting.
 
 None of that requires ideal conditions or a big block of free time. It requires starting before the excuse of "next season" turns into another full year gone.

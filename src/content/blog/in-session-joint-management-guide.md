@@ -51,7 +51,7 @@ You don't need all three at once, and stacking gear rarely solves more than choo
 
 1. **Start with the least you need.** If a joint feels a little stiff or achy but nothing more, a compression sleeve alone is often enough.
 2. **Add tape if form is the issue.** If you notice your knee tracking poorly or a specific movement pattern breaking down late in a session, taping to cue better mechanics is worth trying.
-3. **Move to a brace only for real instability.** If a joint actually feels like it might give way, that's a brace-and-a-professional-opinion situation, not a tape-and-hope-for-the-best one.
+3. **A new pain or a joint that feels like it might give way is not a "reach for a brace" moment.** That's different from ordinary stiffness or ache — it can mean an acute ligament, meniscal, or other injury, and skating on it is also a fall risk in the moment. Stop the session and get it assessed by a physio or doctor before you skate on it again. A brace has a place after that — to support a diagnosed problem your clinician has told you it's fine to keep skating on — not as the thing you try first to push through a new symptom.
 
 ## When to stop managing and start assessing
 

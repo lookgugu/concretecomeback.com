@@ -36,8 +36,9 @@ Everything above assumes you're reading this from the Northern Hemisphere, where
 
 You don't need a training plan to act on this. A realistic version:
 
+- **Before week one:** Get a helmet and wrist guards and put them on every session from day one — not after you've decided you're "serious enough" to need them. This is non-negotiable regardless of what month you start.
 - **Week 1–2:** Get comfortable standing, pushing, and stopping on flat, quiet ground. Don't worry about the park yet.
-- **Week 3–6:** Add mellow terrain — small banks, gentle transitions — during off-peak hours (weekday mornings or early afternoons tend to be quietest in September).
+- **Week 3–6:** Add mellow terrain — small banks, gentle transitions — during off-peak hours (weekday mornings or early afternoons tend to be quietest in September), with your helmet and wrist guards on as a matter of course.
 - **Week 7–12:** Build a real routine. Two or three sessions a week is enough to make consistent progress without overloading a body that's still adapting.
 
 None of that requires ideal conditions or a big block of free time. It requires starting before the excuse of "next season" turns into another full year gone.
