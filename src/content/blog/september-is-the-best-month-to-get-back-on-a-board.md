@@ -1,6 +1,6 @@
 ---
 title: "September Is the Best Month to Get Back on a Skateboard"
-description: "Why early autumn — September up north, March down south — beats waiting for spring to start your comeback: cooler temps, thinner crowds, and a head start."
+description: "Why early autumn — September up north, the post-summer window down south — beats waiting for spring: cooler temps, thinner crowds, and a head start."
 pubDate: 2026-09-06
 author: "Sam Torres"
 authorAge: 44
@@ -24,7 +24,7 @@ Once school is back and the evenings draw in — September in the Northern Hemis
 
 ## You get a real runway before winter
 
-This is the part that matters most if you're serious about actually building skill rather than just trying it once. From early September (early March if you're south of the equator) to whenever winter weather shuts down your local outdoor options, you typically have eight to twelve weeks of good skating conditions — enough time to get through the genuinely awkward early phase and arrive at the cold months with some real footing under you, instead of arriving at spring having never started.
+This is the part that matters most if you're serious about actually building skill rather than just trying it once. From early September (early March in the temperate south; your cooler, drier season in the tropics) to whenever winter weather shuts down your local outdoor options, you typically have eight to twelve weeks of good skating conditions — enough time to get through the genuinely awkward early phase and arrive at the cold months with some real footing under you, instead of arriving at spring having never started.
 
 Compare that to waiting until spring: you lose the entire autumn window, you're starting from zero at the exact moment everyone else is also starting their season (crowded parks again), and you're now doing your shakiest, most self-conscious early sessions in public at the same time as everyone else's. Starting now means your beginner phase happens in relative privacy, and by the time the parks fill back up next spring, you're not a beginner anymore.
 
@@ -45,6 +45,6 @@ None of that requires ideal conditions or a big block of free time. It requires 
 
 Here's the uncomfortable truth about "I'll start when the weather's better": the person who says it in September usually says something equivalent in March, too — it's cold still, or the parks are wet, or work got busy over winter and the moment passed. The weather was never really the obstacle. It's a reasonable-sounding cover for the same hesitation that shows up at any time of year.
 
-If you've been circling the idea of getting back on a board, early autumn — September up here, March down there — gives you the best combination of conditions you'll get all year: comfortable temperatures, thinner crowds, and enough runway to actually build something before the season turns. Waiting for spring doesn't remove the hard part — it just delays it, and hands you a more crowded park to do it in.
+If you've been circling the idea of getting back on a board, early autumn — September up here, the weeks after summer down there, or the cooler dry season in the tropics — gives you the best combination of conditions you'll get all year: comfortable temperatures, thinner crowds, and enough runway to actually build something before the season turns. Waiting for spring doesn't remove the hard part — it just delays it, and hands you a more crowded park to do it in.
 
 Go find your board. The window is open right now.
