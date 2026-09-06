@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-06T19:22:13.635Z
+# Date: 2026-09-06T19:25:28.309Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -1483,7 +1483,7 @@ Everything above is written from the Northern Hemisphere, where September is ear
 
 You don't need a new training plan to act on this — the site already has one. Follow the [8-week return plan for adult skaters](/blog/8-week-return-plan-adult-skaters/); the only thing September changes is when you start it. Three things to hold onto alongside it:
 
-- **Falling practice before week one, not in week three.** The plan doesn't get to tuck-and-roll until its third week and never teaches the knee slide, so work through the [falling guide](/blog/how-to-fall-safely-after-40/) first — the tuck-and-roll drills, and then its low-speed slide-out practice on transition, done exactly the way that guide describes and on the surfaces it specifies — before your first session on a board. Pads only do their job if you know how to land on them.
+- **Falling practice in the right order.** The plan doesn't get to tuck-and-roll until its third week and never teaches the knee slide, so bring the [falling guide](/blog/how-to-fall-safely-after-40/) forward — in two stages. Its off-board tuck-and-roll drills come before week one, before you stand on a board at all. Its low-speed slide-out practice on transition comes later: only once weeks 1–2 have given you pushing, stopping and balance on flat ground, and before the plan's first bank or ramp — done exactly the way that guide describes, on the surfaces it specifies. Pads only do their job if you know how to land on them.
 - **Gear from day one:** helmet, wrist guards and full-cup knee pads on every session — not after you've decided you're "serious enough" to need them. Non-negotiable regardless of month, and the knee pads matter most once the plan puts you on small banks and gentle transitions, where that practised knee slide is the safe bail.
 - **Off-peak hours:** weekday mornings and early afternoons tend to be quietest once school is back. Spend your shakiest sessions in them.
 
