@@ -34,7 +34,7 @@ The distinction matters because the internet's default advice for "tight hips" i
 
 For the tightness that most skaters have, a few things make a real difference over a few weeks of consistent practice:
 
-**Hip flexor stretches, done properly.** A kneeling lunge stretch with a posterior pelvic tilt — tuck your tailbone under before you lean forward — targets the hip flexor specifically instead of just extending your lower back, which is what happens if you skip the tilt. Hold 30–45 seconds per side, both before and after skating.
+**Hip flexor stretches, done properly.** A kneeling lunge stretch with a posterior pelvic tilt — tuck your tailbone under before you lean forward — targets the hip flexor specifically instead of just extending your lower back, which is what happens if you skip the tilt. Hold 30–45 seconds per side, after your session rather than before — a held stretch doesn't warm anything up and can temporarily reduce the power in your push, so save it for when you're already warm or done skating for the day.
 
 **90/90 hip stretches.** Sitting with one leg bent in front at 90 degrees and the other bent behind at 90 degrees, then leaning forward over the front shin, works internal and external rotation range at the same time — both directions your hip uses constantly while carving.
 
@@ -46,7 +46,9 @@ For the tightness that most skaters have, a few things make a real difference ov
 
 If you're dealing with hip tightness or early impingement symptoms, a few practical adjustments help without taking you off the board:
 
-Shorten deep-crouch sessions. If pumping a bowl or deep transition is what triggers the pinch, spend more of your session on flatground and mellow transitions where your hip doesn't have to reach end range repeatedly, and save the deep stuff for when you're warmed up and fresh.
+Shorten deep-crouch sessions if what you're dealing with is ordinary tightness. Spend more of your session on flatground and mellow transitions where your hip doesn't have to reach end range repeatedly, and ease into deeper positions like bowl pumping only once you're properly warmed up.
+
+If instead you're getting the sharp, reproducible pinch described above rather than a dull ache, don't retry that position at all, warm or not. Scope your session to movements that don't bring it on, and hold off on deep crouches and bowl pumping until the joint has been assessed — warming up doesn't fix a mechanical impingement, and retrying the position that triggers it risks aggravating it further.
 
 Build in a mid-session reset. A minute of standing hip circles or a hip flexor stretch halfway through a long session resets a joint that's been loading up the same way for 45 minutes straight.
 
