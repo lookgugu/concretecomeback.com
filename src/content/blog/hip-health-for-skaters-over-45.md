@@ -56,4 +56,6 @@ Don't skate through a sharp pinch. Tightness that eases as you warm up is normal
 
 ## The bigger picture
 
-Hip health doesn't get the attention wrists and knees get because hip problems build slowly and rarely show up as a dramatic single moment. That makes them easy to ignore right up until they're not. The fix isn't complicated — a few minutes of targeted mobility and strength work, a few times a week, plus paying attention to the difference between ordinary tightness and a mechanical pinch. Do that consistently and your hips will hold up fine for as many years of skating as you want to give them.
+Hip health doesn't get the attention wrists and knees get because hip problems build slowly and rarely show up as a dramatic single moment. That makes them easy to ignore right up until they're not. For most people, the fix isn't complicated — a few minutes of targeted mobility and strength work, a few times a week, plus paying attention to the difference between ordinary tightness and a mechanical pinch. Do that consistently and your hips are far more likely to hold up well for as many years of skating as you want to give them.
+
+That's not a guarantee, and it's not a substitute for getting evaluated. A sharp, reproducible pinch is one signal to stop self-managing and get assessed. So is dull discomfort that isn't easing with this kind of consistent mobility and strength work over several weeks, or that's getting worse rather than better — that's not a routine to push through longer, it's a reason to see a physiotherapist or orthopaedist.
