@@ -50,7 +50,7 @@ Shorten deep-crouch sessions if what you're dealing with is ordinary tightness. 
 
 If instead you're getting the sharp, reproducible pinch described above rather than a dull ache, don't retry that position at all, warm or not. Scope your session to movements that don't bring it on, and hold off on deep crouches and bowl pumping until the joint has been assessed — warming up doesn't fix a mechanical impingement, and retrying the position that triggers it risks aggravating it further.
 
-Build in a mid-session reset. A minute of standing hip circles or a hip flexor stretch halfway through a long session resets a joint that's been loading up the same way for 45 minutes straight.
+Build in a mid-session reset. A minute of standing hip circles halfway through a long session resets a joint that's been loading up the same way for 45 minutes straight — keep this one dynamic and save the held hip flexor stretch for after you're done, same as the warm-up.
 
 Don't skate through a sharp pinch. Tightness that eases as you warm up is normal. A pinch that's consistent, sharp, and doesn't ease is your hip telling you something mechanical is going on — that's the signal to back off the deep positions and get it looked at, not to push through.
 
