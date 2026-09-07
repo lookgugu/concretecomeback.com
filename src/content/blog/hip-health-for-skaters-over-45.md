@@ -1,6 +1,6 @@
 ---
 title: "The Joint Nobody Talks About: Hip Health for Skaters Over 45"
-description: "Hip flexor tightness, impingement, and fall mechanics — the joint guide for adult skaters over 45 that wrists and knees usually crowd out."
+description: "Hip flexor tightness, impingement, and the mobility work for adult skaters over 45 that wrists and knees usually crowd out."
 pubDate: 2026-09-07
 author: "Jo Fairweather"
 authorAge: 52

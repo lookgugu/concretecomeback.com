@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-07T09:21:35.955Z
+# Date: 2026-09-07T09:25:31.283Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -644,7 +644,7 @@ The skaters who come back successfully and stick with it are the ones who find j
 
 
 ### The Joint Nobody Talks About: Hip Health for Skaters Over 45
-Hip flexor tightness, impingement, and fall mechanics — the joint guide for adult skaters over 45 that wrists and knees usually crowd out.
+Hip flexor tightness, impingement, and the mobility work for adult skaters over 45 that wrists and knees usually crowd out.
 
 Ask a returning adult skater which joint worries them and you'll hear wrists first, knees second. Hips almost never come up — until they start hurting, usually a few months in, usually as a dull ache at the front of the hip after a session rather than anything dramatic. By then it's been building for a while.
 
