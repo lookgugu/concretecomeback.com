@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-07T09:29:06.906Z
+# Date: 2026-09-07T09:35:05.008Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -202,7 +202,7 @@ If you're dealing with significant pain during ordinary walking, real instabilit
 
 ## The bigger trade-off
 
-Total inactivity has its own costs for an arthritic joint — weaker supporting muscles, more stiffness, often more pain over time, not less. Skateboarding, adapted sensibly, gives you a weight-bearing, joint-friendly-when-set-up-right activity that also happens to be genuinely enjoyable, which matters more than it sounds like it should. People stick with activities they like. Sticking with it is most of what makes any of this work long-term.
+Total inactivity has its own costs for an arthritic joint — weaker supporting muscles, more stiffness, often more pain over time, not less. Skateboarding, adapted the way described above and cleared with whoever manages your joint care, gives you a weight-bearing activity that also happens to be genuinely enjoyable, which matters more than it sounds like it should — softer wheels and a longer warm-up reduce the load reaching the joint, but they don't eliminate landing impact or fall risk, so this is about a reasonable, individually-appropriate adaptation, not a joint-friendly label that applies to skateboarding in general. People stick with activities they like. Sticking with it is most of what makes any of this work long-term.
 
 If you're managing arthritis and skating already, you're probably not doing anything wrong by continuing. If you've been avoiding it because you assumed arthritis ruled it out, it's worth a real conversation with your physiotherapist or orthopaedist about what's actually appropriate for your specific joint and stage — because for a lot of people in that position, the answer turns out to be more permissive than they expected.
 
