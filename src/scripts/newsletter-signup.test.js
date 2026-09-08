@@ -6,13 +6,26 @@ import {
   bindNewsletterForm,
   isSignupSuppressed,
   shouldHideOnEscape,
+  showCompletedState,
   signupCompletionState,
 } from './newsletter-signup.js';
 
 // Minimal stand-ins for the two DOM pieces bindNewsletterForm touches. The real
 // coverage this buys is the request shape: a browser FormData body would fail
 // silently in production, and only inspecting the fetch init catches it.
+function fakeDocument() {
+  const listeners = {};
+  global.document = {
+    addEventListener: (type, fn) => { (listeners[type] ||= []).push(fn); },
+    dispatchEvent: (event) => { (listeners[event.type] || []).forEach((fn) => fn(event)); },
+  };
+  global.CustomEvent = function CustomEventStub(type, init) {
+    return { type, detail: init && init.detail };
+  };
+}
+
 function fakePanel(fields) {
+  fakeDocument();
   global.window = global.window || {};
   global.window.dataLayer = [];
   const button = { type: 'submit', disabled: false };
@@ -145,4 +158,32 @@ test('a failed signup keeps the form usable and never leaks a parser error', asy
   assert.equal(form.hidden, false);
   assert.equal(status.textContent, 'Signup is temporarily unavailable. Please try again.');
   assert.equal(form.querySelector('button[type="submit"]').disabled, false);
+});
+
+test('a signup through one CTA stands the other one down', async () => {
+  const submitter = fakePanel({ email: 'skater@example.com' });
+  const other = fakePanel({ email: '' });
+  let stoodDown = 0;
+  let selfReacted = 0;
+  global.fetch = async () => ({ ok: true, json: async () => ({ ok: true }) });
+
+  bindNewsletterForm(other.panel, {
+    storage: null,
+    source: 'popup',
+    onOtherSignup: () => { stoodDown++; showCompletedState(other.panel, 'pending'); },
+  });
+  bindNewsletterForm(submitter.panel, {
+    storage: null,
+    source: 'in_post',
+    onOtherSignup: () => { selfReacted++; },
+  });
+
+  await submitter.submitted();
+
+  assert.equal(stoodDown, 1);
+  // The submitting CTA has already handled itself; reacting again would blank
+  // the confirmation it just rendered.
+  assert.equal(selfReacted, 0);
+  assert.equal(other.form.hidden, true);
+  assert.equal(other.status.textContent, 'Check your inbox and confirm your subscription.');
 });

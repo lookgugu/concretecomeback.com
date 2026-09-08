@@ -3,6 +3,9 @@ export const DISMISSAL_MS = 30 * 24 * 60 * 60 * 1000;
 // Once the link in the confirmation email has expired, the prompt may return so
 // the visitor can request a fresh one.
 export const PENDING_MS = 2 * 60 * 60 * 1000;
+// Fired on document when any CTA gets a confirmation email sent, so the other
+// CTAs mounted on the same page can stand down.
+const SIGNUP_EVENT = 'cc:newsletter-pending';
 const GENERIC_ERROR = 'Signup is temporarily unavailable. Please try again.';
 
 // Even reading the `localStorage` global throws when a browser blocks site data,
@@ -109,16 +112,35 @@ export function initNewsletterSignup(panel) {
     if (shouldHideOnEscape(event, document.activeElement, panel)) hide(false);
   });
 
-  bindNewsletterForm(panel, { storage, source: 'popup' });
+  // If the visitor signs up through the in-post CTA, the popup retreats rather
+  // than repeating the confirmation — and without recording a dismissal, which
+  // is reserved for the visitor actually closing it.
+  bindNewsletterForm(panel, {
+    storage,
+    source: 'popup',
+    onOtherSignup: () => {
+      clearTimeout(timer);
+      window.removeEventListener('scroll', onScroll);
+      shown = true;
+      hide(false);
+    },
+  });
 }
 
 // The submit path is identical for the popup and the in-post CTA, so both bind
 // it here: one place that knows the endpoint contract, the pending bookkeeping
 // and the error copy. Only the presentation around it differs.
-export function bindNewsletterForm(panel, { storage = getStorage(), source } = {}) {
+export function bindNewsletterForm(panel, { storage = getStorage(), source, onOtherSignup } = {}) {
   const form = panel.querySelector('form');
   const status = panel.querySelector('[data-newsletter-status]');
   if (!form || !status) return false;
+
+  if (onOtherSignup) {
+    document.addEventListener(SIGNUP_EVENT, (event) => {
+      if (event.detail && event.detail.panel === panel) return;
+      onOtherSignup();
+    });
+  }
 
   form.addEventListener('submit', async (event) => {
     event.preventDefault();
@@ -151,6 +173,9 @@ export function bindNewsletterForm(panel, { storage = getStorage(), source } = {
         }
       } catch (_error) {}
       track('newsletter_signup_pending', source);
+      try {
+        document.dispatchEvent(new CustomEvent(SIGNUP_EVENT, { detail: { panel } }));
+      } catch (_error) {}
     } catch (error) {
       status.textContent = error instanceof Error ? error.message : GENERIC_ERROR;
       if (submitButton) submitButton.disabled = false;
@@ -164,19 +189,30 @@ export function bindNewsletterForm(panel, { storage = getStorage(), source } = {
 // The in-post CTA is part of the page, not an interruption: it is always
 // visible, never records a dismissal, and has no timers or scroll triggers.
 // A visitor who has already signed up sees the outcome instead of the form.
+export function showCompletedState(panel, state) {
+  const form = panel.querySelector('form');
+  const status = panel.querySelector('[data-newsletter-status]');
+  if (form) form.hidden = true;
+  if (status) {
+    status.textContent = state === 'subscribed'
+      ? "You're subscribed to the monthly roundup."
+      : 'Check your inbox and confirm your subscription.';
+  }
+}
+
 export function initInlineNewsletterSignup(panel) {
   const storage = getStorage();
   const state = signupCompletionState(storage);
   if (state) {
-    const form = panel.querySelector('form');
-    const status = panel.querySelector('[data-newsletter-status]');
-    if (form) form.hidden = true;
-    if (status) {
-      status.textContent = state === 'subscribed'
-        ? "You're subscribed to the monthly roundup."
-        : 'Check your inbox and confirm your subscription.';
-    }
+    showCompletedState(panel, state);
     return;
   }
-  bindNewsletterForm(panel, { storage, source: 'in_post' });
+  // A page can mount both CTAs, so the one that wasn't submitted has to be told:
+  // neither reads storage again after init, and leaving a live form next to
+  // "check your inbox" invites a duplicate submission.
+  bindNewsletterForm(panel, {
+    storage,
+    source: 'in_post',
+    onOtherSignup: () => showCompletedState(panel, 'pending'),
+  });
 }
