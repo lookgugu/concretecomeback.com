@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-08T09:22:51.661Z
+# Date: 2026-09-08T09:29:21.426Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -1159,7 +1159,7 @@ If you're 45, 55, or 65 and wondering whether your window for this sport has alr
 
 Oyama competes in slalom skateboarding — racing a course of cones on a longboard, turning around each one as tightly and quickly as possible. It's easy to mentally file all skateboarding under "street and vert," the highest-impact, highest-fall-risk end of the sport. Slalom is a different animal.
 
-There's no stair set, no rail, no vert ramp. The skill is carving — reading a line, shifting weight smoothly from edge to edge, generating speed through technique rather than through big, high-consequence tricks. The falls that happen in slalom tend to be lower-speed slides rather than the kind of impacts that come from missing a trick eight feet in the air. That doesn't make it risk-free — it's still a wheeled sport on a moving surface — but it's a legitimately different risk profile than most people picture when they hear "competitive skateboarding."
+There's no stair set, no rail, no vert ramp. The skill is carving — reading a line, shifting weight smoothly from edge to edge, generating speed through technique rather than through big, high-consequence tricks. It's worth being precise about what that means, because "slalom" covers a range of speeds: recreational cone practice on a flat parking lot is genuinely low-speed, and the falls you'd expect there are gentle slides, not the kind of impact that comes from missing a trick eight feet in the air. Competitive slalom is a different matter — giant slalom and hybrid events are downhill speed disciplines, and a fall at race pace carries real force behind it, the same way any high-speed wheeled sport does. What slalom avoids, at any speed, is the specific high-consequence category of falls that come with vert and stair-set street skating — landing wrong off a big drop or missing a rail — not risk altogether.
 
 This matters for anyone reading this site. If your knees, back, or general risk tolerance make street skating's ledges and stairs feel like the wrong call at your age, slalom is a place where decades of competitive skaters — Oyama very much included — keep getting faster and more skilled well past the age most sports consider a career over.
 
@@ -2059,9 +2059,9 @@ Get on the board. Let them be ahead of you. It's fine.
 ### The Strength Gap: 4 Muscles Every Adult Skater Neglects
 Glutes, hip flexors, tibialis anterior, and deep core: the four muscle groups behind most of the instability adult skaters blame on age, not weakness.
 
-A lot of the instability adult skaters feel and quietly blame on age isn't age at all. It's four specific muscle groups that atrophy fastest in sedentary adult life — long before skating enters the picture — and that most general fitness routines never directly target.
+A lot of the instability adult skaters feel and quietly blame on age has a more specific, correctable explanation available: weakness in four muscle groups that atrophy fastest in sedentary adult life — long before skating enters the picture — and that most general fitness routines never directly target. That's not the only possible cause of balance changes, and it isn't the one to assume by default. If imbalance is new, sudden, or getting worse rather than a familiar "I'm wobblier than I used to be," get it checked by a doctor first — vestibular, neurological, medication, and joint issues can all produce the same symptom, and this routine isn't a substitute for ruling those out.
 
-I see this constantly in the clinic and on the board: someone in their 40s or 50s feels wobblier than they expect, assumes it's just "getting older," and never connects it to years spent mostly sitting, which is exactly what weakens these four areas. The good news is that all four respond quickly to targeted work. You don't need a gym membership or an hour a day — you need to know what to target and do it consistently.
+With that said, once anything more serious has been ruled out, or if this is the familiar, longstanding kind of wobbliness rather than a new development: I see this constantly in the clinic and on the board — someone in their 40s or 50s feels less stable than they expect and never connects it to years spent mostly sitting, which is exactly what weakens these four areas. The good news is that all four respond quickly to targeted work. You don't need a gym membership or an hour a day — you need to know what to target and do it consistently.
 
 ## Why these four specifically
 

@@ -10,9 +10,9 @@ featured: false
 draft: false
 ---
 
-A lot of the instability adult skaters feel and quietly blame on age isn't age at all. It's four specific muscle groups that atrophy fastest in sedentary adult life — long before skating enters the picture — and that most general fitness routines never directly target.
+A lot of the instability adult skaters feel and quietly blame on age has a more specific, correctable explanation available: weakness in four muscle groups that atrophy fastest in sedentary adult life — long before skating enters the picture — and that most general fitness routines never directly target. That's not the only possible cause of balance changes, and it isn't the one to assume by default. If imbalance is new, sudden, or getting worse rather than a familiar "I'm wobblier than I used to be," get it checked by a doctor first — vestibular, neurological, medication, and joint issues can all produce the same symptom, and this routine isn't a substitute for ruling those out.
 
-I see this constantly in the clinic and on the board: someone in their 40s or 50s feels wobblier than they expect, assumes it's just "getting older," and never connects it to years spent mostly sitting, which is exactly what weakens these four areas. The good news is that all four respond quickly to targeted work. You don't need a gym membership or an hour a day — you need to know what to target and do it consistently.
+With that said, once anything more serious has been ruled out, or if this is the familiar, longstanding kind of wobbliness rather than a new development: I see this constantly in the clinic and on the board — someone in their 40s or 50s feels less stable than they expect and never connects it to years spent mostly sitting, which is exactly what weakens these four areas. The good news is that all four respond quickly to targeted work. You don't need a gym membership or an hour a day — you need to know what to target and do it consistently.
 
 ## Why these four specifically
 
