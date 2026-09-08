@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-08T09:15:55.048Z
+# Date: 2026-09-08T09:22:51.661Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -2095,7 +2095,9 @@ Not the six-pack muscles — the deeper, corset-like layer that wraps around you
 
 ## How to actually fit this in
 
-You don't need a separate hour-long gym session to close this gap. Ten minutes, three or four times a week — one or two exercises from each category, rotated — is enough to see a real change in how stable you feel on the board within a few weeks. If you already have a warm-up routine, most of these slot in well before a session rather than needing their own dedicated time; our [warm-up routine for adult skaters](/blog/warm-up-routine-for-adult-skaters/) is a reasonable place to layer them in.
+You don't need a separate hour-long gym session to close this gap. Ten minutes, three or four times a week — one or two exercises from each category, rotated — is enough to see a real change in how stable you feel on the board within a few weeks.
+
+Do this work after a session, on a non-skating day, or at some other point in your day entirely — not as part of your pre-skate warm-up. Our [warm-up routine for adult skaters](/blog/warm-up-routine-for-adult-skaters/) deliberately skips held static stretches and fatiguing strength sets right before skating, because they can temporarily reduce the power and reaction speed you need the moment you step on the board. The hip flexor stretch and the fatiguing sets of planks, bridges, and toe raises above are strength and mobility work, not warm-up material — keep the two separate and you get the benefit of both instead of undercutting either.
 
 This also pairs naturally with the broader work covered in our [cross-training guide](/blog/cross-training-for-adult-skaters/) and the balance case made in [why skateboarding is the best balance training after 40](/blog/skateboarding-balance-training-over-40/) — that post explains why skating itself builds reactive balance so well; this one is about making sure the specific muscles behind that balance aren't the weak link.
 
