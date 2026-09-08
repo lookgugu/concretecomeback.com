@@ -10,7 +10,7 @@ featured: false
 draft: false
 ---
 
-Judi Oyama is 66 years old, holds the Guinness World Record for oldest competitive skateboarder, and is currently training in Santa Cruz, California for the World Skate Games in Paraguay this October, where she'll both race and coach. She started competing professionally in 1975. She has been inducted into the Skateboarding Hall of Fame. And she set her current Guinness record at 64 — then went out and broke her own record since.
+Judi Oyama is 66 years old, holds the Guinness World Record for oldest competitive skateboarder, and is currently training in Santa Cruz, California for the World Skate Games in Paraguay this October, where she'll both race and coach. She started competing professionally in 1975. She has been inducted into the Skateboarding Hall of Fame. She first set the record at 64 in 2024 — and has since kept extending it by simply continuing to compete, with Guinness reconfirming the record again in 2026.
 
 If you're 45, 55, or 65 and wondering whether your window for this sport has already closed, Oyama's career is the most direct answer available: no, and here's the discipline that proves it.
 
