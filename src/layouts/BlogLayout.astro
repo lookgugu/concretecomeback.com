@@ -3,6 +3,7 @@ import type { CollectionEntry } from 'astro:content';
 import BaseLayout from './BaseLayout.astro';
 import BlogMeta from '@components/blog/BlogMeta.astro';
 import Breadcrumb from '@components/ui/Breadcrumb.astro';
+import NewsletterInline from '@components/marketing/NewsletterInline.astro';
 
 interface Props {
   entry: CollectionEntry<'blog'>;
@@ -73,6 +74,8 @@ const jsonLd = {
     <div class="prose prose-concrete max-w-none mt-8">
       <slot />
     </div>
+
+    <NewsletterInline />
 
     <div class="mt-10 pt-8 border-t border-concrete-200">
       <div class="flex flex-wrap gap-2">

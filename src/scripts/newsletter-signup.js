@@ -11,15 +11,28 @@ function getStorage() {
   try { return window.localStorage; } catch (_error) { return null; }
 }
 
-export function isSignupSuppressed(storage, now = Date.now()) {
-  if (!storage) return false;
+// Where this visitor already is in the signup flow, independent of whether they
+// dismissed the popup. The inline CTA keys off this alone: dismissing the popup
+// silences the popup, not every mention of the newsletter on the site.
+export function signupCompletionState(storage, now = Date.now()) {
+  if (!storage) return null;
   try {
     const signupStatus = storage.getItem('cc-newsletter-status');
-    if (signupStatus === 'subscribed') return true;
+    if (signupStatus === 'subscribed') return 'subscribed';
     if (signupStatus === 'pending') {
       const pendingAt = Number(storage.getItem('cc-newsletter-pending-at') || 0);
-      if (pendingAt > 0 && now - pendingAt < PENDING_MS) return true;
+      if (pendingAt > 0 && now - pendingAt < PENDING_MS) return 'pending';
     }
+    return null;
+  } catch (_error) {
+    return null;
+  }
+}
+
+export function isSignupSuppressed(storage, now = Date.now()) {
+  if (!storage) return false;
+  if (signupCompletionState(storage, now)) return true;
+  try {
     const dismissedAt = Number(storage.getItem('cc-newsletter-dismissed-at') || 0);
     return dismissedAt > 0 && now - dismissedAt < DISMISSAL_MS;
   } catch (_error) {
@@ -38,9 +51,9 @@ export function shouldHideOnEscape(event, activeElement, panel) {
   return true;
 }
 
-function track(event) {
+function track(event, source) {
   window.dataLayer = window.dataLayer || [];
-  window.dataLayer.push({ event });
+  window.dataLayer.push(source ? { event, newsletter_source: source } : { event });
 }
 
 export function initNewsletterSignup(panel) {
@@ -96,12 +109,23 @@ export function initNewsletterSignup(panel) {
     if (shouldHideOnEscape(event, document.activeElement, panel)) hide(false);
   });
 
+  bindNewsletterForm(panel, { storage, source: 'popup' });
+}
+
+// The submit path is identical for the popup and the in-post CTA, so both bind
+// it here: one place that knows the endpoint contract, the pending bookkeeping
+// and the error copy. Only the presentation around it differs.
+export function bindNewsletterForm(panel, { storage = getStorage(), source } = {}) {
+  const form = panel.querySelector('form');
+  const status = panel.querySelector('[data-newsletter-status]');
+  if (!form || !status) return false;
+
   form.addEventListener('submit', async (event) => {
     event.preventDefault();
     const submitButton = form.querySelector('button[type="submit"]');
     if (submitButton) submitButton.disabled = true;
     status.textContent = 'Sending your confirmation email…';
-    track('newsletter_signup_submitted');
+    track('newsletter_signup_submitted', source);
     try {
       // DO Functions only parses JSON and form-urlencoded bodies into the action's
       // arguments; a multipart FormData body arrives base64-encoded instead and the
@@ -126,11 +150,33 @@ export function initNewsletterSignup(panel) {
           storage.setItem('cc-newsletter-pending-at', String(Date.now()));
         }
       } catch (_error) {}
-      track('newsletter_signup_pending');
+      track('newsletter_signup_pending', source);
     } catch (error) {
       status.textContent = error instanceof Error ? error.message : GENERIC_ERROR;
       if (submitButton) submitButton.disabled = false;
-      track('newsletter_signup_error');
+      track('newsletter_signup_error', source);
     }
   });
+
+  return true;
+}
+
+// The in-post CTA is part of the page, not an interruption: it is always
+// visible, never records a dismissal, and has no timers or scroll triggers.
+// A visitor who has already signed up sees the outcome instead of the form.
+export function initInlineNewsletterSignup(panel) {
+  const storage = getStorage();
+  const state = signupCompletionState(storage);
+  if (state) {
+    const form = panel.querySelector('form');
+    const status = panel.querySelector('[data-newsletter-status]');
+    if (form) form.hidden = true;
+    if (status) {
+      status.textContent = state === 'subscribed'
+        ? "You're subscribed to the monthly roundup."
+        : 'Check your inbox and confirm your subscription.';
+    }
+    return;
+  }
+  bindNewsletterForm(panel, { storage, source: 'in_post' });
 }
