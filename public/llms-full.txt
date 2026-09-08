@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-08T09:44:09.783Z
+# Date: 2026-09-08T17:44:08.906Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -1110,24 +1110,24 @@ If you're on blood thinners, have a bleeding disorder, or manage any chronic con
 The realistic version of this: pick one or two options with decent evidence, give them a real trial period, and don't expect them to do the work that gear and training are actually responsible for.
 
 
-### He Took Up Skateboarding at 70. Now 88, He's Going Viral.
-Juanjo Albizu never skated as a kid. He started in retirement, and his approach to falls, gear, and pacing is a real blueprint for starting late.
+### He Took Up Skateboarding at 70. At 88, He Went Viral.
+Juanjo Urbizu never skated as a kid. He started in retirement, and his approach to falls, gear, and pacing is a real blueprint for starting late.
 
-Most of what this site writes about is coming *back* to skateboarding — picking a board back up after a gap of years or decades. Juanjo Albizu's story is a slightly different, and in some ways more useful, version of the same message: he never skated as a kid at all.
+Most of what this site writes about is coming *back* to skateboarding — picking a board back up after a gap of years or decades. Juanjo Urbizu's story is a slightly different, and in some ways more useful, version of the same message: he never skated as a kid at all.
 
-Albizu took up skateboarding at 70, in retirement, partly because it was cheaper than the snow sports he'd loved for years. He's now 88, still rolling around a concrete skatepark in northern Spain, and clips of him skating have gone viral well beyond the skateboarding world — the kind of story that reaches people who've never thought about a skatepark in their life.
+Urbizu took up skateboarding at 70, in retirement, partly because it was cheaper than the snow sports he'd loved for years. At 88 he was still rolling around a concrete skatepark in Bilbao, in northern Spain, and in 2025 clips of him skating went viral well beyond the skateboarding world — the kind of story that reaches people who've never thought about a skatepark in their life.
 
-If you've been telling yourself you're "too old to start," Albizu isn't a novelty account. He's a genuinely useful case study in what starting from zero, decades later than usual, actually looks like when it's done carefully.
+If you've been telling yourself you're "too old to start," Urbizu isn't a novelty account. He's a genuinely useful case study in what starting from zero, decades later than usual, actually looks like when it's done carefully.
 
 ## He didn't skip the boring part
 
-One detail matters more than the viral clips: Albizu has a ritual before every session. He clears the bowl he skates of loose pebbles and debris before he rides it. Not occasionally — every time.
+One detail matters more than the viral clips: Urbizu has a ritual before every session. He clears the bowl he skates of loose pebbles and debris before he rides it. Not occasionally — every time.
 
 That's not a quirky habit, it's exactly the kind of unglamorous groundwork that separates someone who skates for years from someone who has one bad session and quits. A wheel catching a stray pebble mid-turn is one of the most common causes of an unpredictable fall, and it's also one of the easiest to prevent. If you're getting back into skating, borrowing this habit costs you thirty seconds and removes a genuinely avoidable risk before it happens.
 
 ## His own words on falling
 
-Asked for advice for people considering skating later in life, Albizu has been direct about the two things that matter most: go little by little, and wear full protection. He's said plainly that falls on a skateboard are worse than the falls he used to take snowboarding — not a small comparison from someone who spent a lifetime on snow.
+Asked for advice for people considering skating later in life, Urbizu has been direct about the two things that matter most: go little by little, and wear full protection. He's said plainly that falls on a skateboard are worse than the falls he used to take snowboarding — not a small comparison from someone who spent a lifetime on snow.
 
 That's worth taking seriously precisely because it isn't the marketing version of this story. Nothing about "start slow and protect yourself" is exciting to post, which is exactly why it's the part that gets left out of the viral clips and is the part you actually need. If you haven't read our [guide to falling safely after 40](/blog/how-to-fall-safely-after-40/), start there before your first session — it's the unglamorous groundwork equivalent of clearing the pebbles out of the bowl.
 
@@ -1137,13 +1137,13 @@ It's tempting to hear "go little by little" and nod along without changing anyth
 
 - **Short sessions, especially at the start.** Twenty focused minutes of pushing and stopping beats ninety minutes where the last hour is fatigue-driven and unsafe. Our [guide to short sessions for adult learners](/blog/short-skate-sessions-adult-learners/) covers why this isn't a compromise — it's the more effective way to build the skill in the first place.
 - **Full protective gear before you need it, not after a close call.** Helmet, wrist guards, knee pads — every session, from session one. [Our safety gear guide](/blog/safety-gear-guide/) covers what actually matters versus what's optional.
-- **A structured sequence rather than winging it.** Something like our [8-week return plan](/blog/8-week-return-plan-adult-skaters/) gives you the "little by little" scaffolding Albizu is describing, instead of leaving you to guess how much is too much in week one.
+- **A structured sequence rather than winging it.** Something like our [8-week return plan](/blog/8-week-return-plan-adult-skaters/) gives you the "little by little" scaffolding Urbizu is describing, instead of leaving you to guess how much is too much in week one.
 
 None of this is about becoming cautious to the point of never progressing. It's about the same math that's let an 88-year-old still be skating eighteen years after he started: a person who paces themselves and protects themselves gets to keep doing the thing, session after session, year after year. A person who goes all-in in week one and gets hurt often doesn't get a second chance to decide whether they like it.
 
 ## The part that actually matters
 
-The viral hook of Albizu's story is his age. The useful part is what he did with it: he picked something new up in retirement, took it seriously enough to build a routine around doing it safely, and kept going for the better part of two decades because he never gave his body a reason to make the decision for him.
+The viral hook of Urbizu's story is his age. The useful part is what he did with it: he picked something new up in retirement, took it seriously enough to build a routine around doing it safely, and kept going for the better part of two decades because he never gave his body a reason to make the decision for him.
 
 You don't need to be 70 for that lesson to apply, and you don't need millions of views to prove it worked. You need a cleared line, the right gear, and a plan that respects "little by little" as the actual method, not just a nice thing to say before doing the opposite.
 
@@ -1151,7 +1151,7 @@ You don't need to be 70 for that lesson to apply, and you don't need millions of
 ### Judi Oyama Is 66 and Still Racing Slalom at the Highest Level
 Guinness World Records' oldest competitive skateboarder (female) is training for the 2026 World Skate Games. What her longevity in slalom says about yours.
 
-Judi Oyama is 66 years old, holds the Guinness World Record for oldest competitive skateboarder (female), and is currently training in Santa Cruz, California for the World Skate Games in Paraguay this October, where she'll both race and coach. She started competing professionally in 1975. She has been inducted into the Skateboarding Hall of Fame. She first set the record at 64, in 2024, at the World Skate Games in Chieti, Italy — and has since kept extending it by simply continuing to compete, breaking her own record again in 2025 and having it reconfirmed by Guinness in 2026.
+Judi Oyama is 66 years old, holds the Guinness World Record for oldest competitive skateboarder (female), and is currently training in Santa Cruz, California for the World Skate Games in Paraguay this October, where she'll both race and coach. She started competing professionally in 1976. She has been inducted into the Skateboarding Hall of Fame. She first set the record at 64, in 2024, at the World Skate Games in Chieti, Italy — and has since kept extending it by simply continuing to compete, breaking her own record again in 2025 and having it reconfirmed by Guinness in 2026.
 
 If you're 45, 55, or 65 and wondering whether your window for this sport has already closed, Oyama's career is the most direct answer available: no, and here's the discipline that proves it.
 
@@ -1177,7 +1177,7 @@ You are very likely never going to race at a World Skate Games. That's fine — 
 
 If you're coming back to skating and gravitating toward flat ground, cruising, or carving rather than stairs and rails, that's not a compromise or a lesser version of "real" skating. It's the same instinct that's kept a 66-year-old competing at the top of her sport: match the discipline to what your body can sustain for years, not what looks impressive in a single session.
 
-**Consistency compounds longer than intensity does.** Fifty years of skating, even with the inevitable gaps, adds up to a level of technique that a few intense years never could. If you're 47 and just getting back on a board, you are not behind Judi Oyama's clock. You're at the start of your own version of the same long game she's been playing since 1975.
+**Consistency compounds longer than intensity does.** Fifty years of skating, even with the inevitable gaps, adds up to a level of technique that a few intense years never could. If you're 47 and just getting back on a board, you are not behind Judi Oyama's clock. You're at the start of your own version of the same long game she's been playing since 1976.
 
 ## If slalom sounds interesting
 

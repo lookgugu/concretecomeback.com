@@ -10,7 +10,7 @@ featured: false
 draft: false
 ---
 
-Judi Oyama is 66 years old, holds the Guinness World Record for oldest competitive skateboarder (female), and is currently training in Santa Cruz, California for the World Skate Games in Paraguay this October, where she'll both race and coach. She started competing professionally in 1975. She has been inducted into the Skateboarding Hall of Fame. She first set the record at 64, in 2024, at the World Skate Games in Chieti, Italy — and has since kept extending it by simply continuing to compete, breaking her own record again in 2025 and having it reconfirmed by Guinness in 2026.
+Judi Oyama is 66 years old, holds the Guinness World Record for oldest competitive skateboarder (female), and is currently training in Santa Cruz, California for the World Skate Games in Paraguay this October, where she'll both race and coach. She started competing professionally in 1976. She has been inducted into the Skateboarding Hall of Fame. She first set the record at 64, in 2024, at the World Skate Games in Chieti, Italy — and has since kept extending it by simply continuing to compete, breaking her own record again in 2025 and having it reconfirmed by Guinness in 2026.
 
 If you're 45, 55, or 65 and wondering whether your window for this sport has already closed, Oyama's career is the most direct answer available: no, and here's the discipline that proves it.
 
@@ -36,7 +36,7 @@ You are very likely never going to race at a World Skate Games. That's fine — 
 
 If you're coming back to skating and gravitating toward flat ground, cruising, or carving rather than stairs and rails, that's not a compromise or a lesser version of "real" skating. It's the same instinct that's kept a 66-year-old competing at the top of her sport: match the discipline to what your body can sustain for years, not what looks impressive in a single session.
 
-**Consistency compounds longer than intensity does.** Fifty years of skating, even with the inevitable gaps, adds up to a level of technique that a few intense years never could. If you're 47 and just getting back on a board, you are not behind Judi Oyama's clock. You're at the start of your own version of the same long game she's been playing since 1975.
+**Consistency compounds longer than intensity does.** Fifty years of skating, even with the inevitable gaps, adds up to a level of technique that a few intense years never could. If you're 47 and just getting back on a board, you are not behind Judi Oyama's clock. You're at the start of your own version of the same long game she's been playing since 1976.
 
 ## If slalom sounds interesting
 
