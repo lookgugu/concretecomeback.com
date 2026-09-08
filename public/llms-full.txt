@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-08T09:37:47.163Z
+# Date: 2026-09-08T09:44:09.783Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -2059,15 +2059,15 @@ Get on the board. Let them be ahead of you. It's fine.
 ### The Strength Gap: 4 Muscles Every Adult Skater Neglects
 Glutes, hip flexors, tibialis anterior, and deep core: four muscle groups that are a common, correctable contributor to instability in adult skaters.
 
-A lot of the instability adult skaters feel and quietly blame on age has a more specific, correctable explanation available: weakness in four muscle groups that atrophy fastest in sedentary adult life — long before skating enters the picture — and that most general fitness routines never directly target. That's not the only possible cause of balance changes, and it isn't the one to assume by default. If imbalance is new, sudden, or getting worse rather than a familiar "I'm wobblier than I used to be," get it checked by a doctor first — vestibular, neurological, medication, and joint issues can all produce the same symptom, and this routine isn't a substitute for ruling those out.
+A lot of the instability adult skaters feel and quietly blame on age has a more specific, correctable explanation available: strength and mobility deficits in four muscle groups that deteriorate fastest in sedentary adult life — long before skating enters the picture — and that most general fitness routines never directly target. That's not the only possible cause of balance changes, and it isn't the one to assume by default. If imbalance is new, sudden, or getting worse rather than a familiar "I'm wobblier than I used to be," get it checked by a doctor first — vestibular, neurological, medication, and joint issues can all produce the same symptom, and this routine isn't a substitute for ruling those out.
 
-With that said, once anything more serious has been ruled out, or if this is the familiar, longstanding kind of wobbliness rather than a new development: I see this constantly in the clinic and on the board — someone in their 40s or 50s feels less stable than they expect and never connects it to years spent mostly sitting, which is exactly what weakens these four areas. The good news is that all four respond quickly to targeted work. You don't need a gym membership or an hour a day — you need to know what to target and do it consistently.
+With that said, once anything more serious has been ruled out, or if this is the familiar, longstanding kind of wobbliness rather than a new development: I see this constantly in the clinic and on the board — someone in their 40s or 50s feels less stable than they expect and never connects it to years spent mostly sitting, which is exactly what wears down these four areas, whether that shows up as weakness or as chronic tightness. The good news is that all four respond quickly to targeted work. You don't need a gym membership or an hour a day — you need to know what to target and do it consistently.
 
 ## Why these four specifically
 
 Skating asks your body to do things ordinary adult life almost never asks of it: absorb impact through a bent ankle, stabilise a moving platform through your hips, and hold a low, athletic stance for sustained periods. Sitting all day — at a desk, in a car — does close to the opposite. It shortens hip flexors, lets glutes go quiet, gives the tibialis anterior almost nothing to do, and lets deep core stability atrophy in favour of the bigger, more visible abdominal muscles.
 
-The result is a skater whose "balance problem" is actually a strength problem in disguise. Here's what to do about each one.
+The result is a skater whose "balance problem" is actually a strength-and-mobility problem in disguise — weakness in three of these areas, and the opposite issue, chronic tightness, in the fourth. Here's what to do about each one.
 
 ### 1. Glutes
 
@@ -2103,7 +2103,7 @@ This also pairs naturally with the broader work covered in our [cross-training g
 
 ## The honest framing
 
-None of this is about becoming an athlete. It's about recognising that "I feel less stable than I used to" is often a solvable strength problem, not a permanent fact about getting older. Ten minutes of targeted work on these four areas, done consistently, tends to close more of that gap than people expect — and it's a lot more encouraging to hear "your glutes are undertrained" than "you're just getting old."
+None of this is about becoming an athlete. It's about recognising that "I feel less stable than I used to" is often a solvable strength-and-mobility problem, not a permanent fact about getting older. Ten minutes of targeted work on these four areas, done consistently, tends to close more of that gap than people expect — and it's a lot more encouraging to hear "your glutes are undertrained and your hip flexors are tight" than "you're just getting old."
 
 
 ### Why a Surfskate Might Be the Smarter First Board for Adults
