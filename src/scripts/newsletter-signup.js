@@ -97,13 +97,15 @@ export function initNewsletterSignup(panel) {
 
   // Only the explicit close button records the 30-day dismissal. Escape hides
   // the panel for this page alone, so a stray keypress cannot silence it for a month.
-  const hide = (persist) => {
+  const hide = (persist, event = 'newsletter_popup_dismissed') => {
     if (panel.dataset.visible !== 'true') return;
     panel.dataset.visible = 'false';
     if (persist) {
       try { if (storage) storage.setItem('cc-newsletter-dismissed-at', String(Date.now())); } catch (_error) {}
     }
-    track('newsletter_popup_dismissed');
+    // A retreat is not a dismissal: counting one as the other would report a
+    // successful inline conversion as the visitor rejecting the popup.
+    if (event) track(event);
     window.setTimeout(() => { panel.hidden = true; }, 200);
   };
 
@@ -122,7 +124,7 @@ export function initNewsletterSignup(panel) {
       clearTimeout(timer);
       window.removeEventListener('scroll', onScroll);
       shown = true;
-      hide(false);
+      hide(false, 'newsletter_popup_stood_down');
     },
   });
 }

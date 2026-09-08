@@ -4,6 +4,7 @@ import {
   DISMISSAL_MS,
   PENDING_MS,
   bindNewsletterForm,
+  initNewsletterSignup,
   isSignupSuppressed,
   shouldHideOnEscape,
   showCompletedState,
@@ -186,4 +187,47 @@ test('a signup through one CTA stands the other one down', async () => {
   assert.equal(selfReacted, 0);
   assert.equal(other.form.hidden, true);
   assert.equal(other.status.textContent, 'Check your inbox and confirm your subscription.');
+});
+
+// A fuller stub than fakePanel: initNewsletterSignup drives the popup's own
+// show/hide machinery, which is where the dismissal event is emitted.
+function fakePopup() {
+  const { panel, form, status } = fakePanel({ email: 'skater@example.com' });
+  const closeButton = { listeners: [], addEventListener: (_t, fn) => closeButton.listeners.push(fn) };
+  panel.dataset = { visible: 'false' };
+  panel.hidden = true;
+  const inner = panel.querySelector;
+  panel.querySelector = (selector) => (selector === '[data-newsletter-close]' ? closeButton : inner(selector));
+  global.window.setTimeout = (fn) => { fn(); return 0; };
+  global.window.clearTimeout = () => {};
+  global.window.addEventListener = () => {};
+  global.window.removeEventListener = () => {};
+  global.requestAnimationFrame = (fn) => fn();
+  global.sessionStorage = { getItem: () => '2', setItem: () => {} };
+  initNewsletterSignup(panel);
+  return { panel, form, status, closeButton };
+}
+
+test('a popup that retreats after an inline signup is not counted as a dismissal', () => {
+  const popup = fakePopup();
+  assert.equal(popup.panel.dataset.visible, 'true', 'the second page view shows it immediately');
+
+  global.document.dispatchEvent({ type: 'cc:newsletter-pending', detail: { panel: {} } });
+
+  const events = global.window.dataLayer.map((entry) => entry.event);
+  assert.ok(events.includes('newsletter_popup_stood_down'));
+  assert.ok(
+    !events.includes('newsletter_popup_dismissed'),
+    'a coordinated retreat must not pollute the dismissal funnel',
+  );
+  assert.equal(popup.panel.dataset.visible, 'false');
+});
+
+test('the close button still records a real dismissal', () => {
+  const popup = fakePopup();
+  popup.closeButton.listeners.forEach((fn) => fn());
+
+  const events = global.window.dataLayer.map((entry) => entry.event);
+  assert.ok(events.includes('newsletter_popup_dismissed'));
+  assert.ok(!events.includes('newsletter_popup_stood_down'));
 });
