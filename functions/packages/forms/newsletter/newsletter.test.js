@@ -244,3 +244,51 @@ test('a signed payload without an expiry is rejected rather than living forever'
   const signature = createHmac('sha256', secret).update(payload).digest('base64url');
   assert.equal(readToken(`${payload}.${signature}`, secret, 2_000), null);
 });
+
+// The inline CTA on every blog post is server-rendered, so it still submits when
+// the client bundle never runs. Those submissions are plain navigations and must
+// land on a page; only the fetch path should ever see JSON.
+test('a no-JS form submission lands on a branded page instead of raw JSON', async () => {
+  const requests = [];
+  await withEnvironment(async (url, options) => {
+    requests.push({ url, options });
+    return { ok: true, status: 200 };
+  }, async () => {
+    const result = await main({
+      http: { method: 'POST', headers: { accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8' } },
+      email: 'skater@example.com',
+      consent: 'yes',
+    });
+    assert.equal(requests.length, 1, 'the confirmation email is still sent');
+    assert.equal(result.statusCode, 303);
+    assert.equal(result.headers.location, '/newsletter/pending/');
+    assert.equal(result.body, '');
+  });
+});
+
+test('a failed no-JS submission lands on the branded error page', async () => {
+  await withEnvironment(async () => ({ ok: false, status: 500, text: async () => 'nope' }), async () => {
+    const result = await main({
+      http: { method: 'POST', headers: { accept: 'text/html' } },
+      email: 'skater@example.com',
+      consent: 'yes',
+    });
+    assert.equal(result.statusCode, 303);
+    assert.equal(result.headers.location, '/newsletter/error/');
+  });
+});
+
+test('the fetch path keeps JSON, and so does a caller that sends no Accept header', async () => {
+  await withEnvironment(async () => ({ ok: true, status: 200 }), async () => {
+    const asJson = await main({
+      http: { method: 'POST', headers: { accept: 'application/json' } },
+      email: 'skater@example.com',
+      consent: 'yes',
+    });
+    assert.equal(asJson.statusCode, 202);
+    assert.deepEqual(JSON.parse(asJson.body), { ok: true, status: 'pending' });
+
+    const headerless = await main({ http: { method: 'POST' }, email: 'other@example.com', consent: 'yes' });
+    assert.equal(headerless.statusCode, 202);
+  });
+});

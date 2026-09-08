@@ -29,6 +29,21 @@ function redirect(location) {
   return { statusCode: 303, headers: { location, 'cache-control': 'no-store' }, body: '' };
 }
 
+// The signup form is server-rendered and always visible, so it still submits
+// when the client bundle never runs, and a browser navigation must land on a
+// page rather than on raw JSON. Only an explicit `text/html` preference is
+// treated that way: the fetch path sends `Accept: application/json`, and any
+// caller that sends no Accept at all keeps the JSON contract it had before.
+function prefersHtml(rawArgs) {
+  const headers = (rawArgs.http && rawArgs.http.headers) || rawArgs.__ow_headers || {};
+  const accept = String(headers.accept || headers.Accept || '').toLowerCase();
+  return accept.includes('text/html') && !accept.includes('application/json');
+}
+
+function asPage(result) {
+  return redirect(result.statusCode < 400 ? '/newsletter/pending/' : '/newsletter/error/');
+}
+
 function withFormBody(args) {
   if (args.email != null || args.confirmation_token != null || !args.__ow_body) return args;
   try {
@@ -233,7 +248,8 @@ async function main(rawArgs) {
   }
   if (method !== 'post') return response(405, { ok: false, error: 'Method not allowed.' });
   if (args.confirmation_token) return confirmSignup(String(args.confirmation_token));
-  return startSignup(args);
+  const result = await startSignup(args);
+  return prefersHtml(rawArgs) ? asPage(result) : result;
 }
 
 exports.main = main;
