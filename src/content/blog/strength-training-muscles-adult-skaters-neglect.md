@@ -1,6 +1,6 @@
 ---
 title: "The Strength Gap: 4 Muscles Every Adult Skater Neglects"
-description: "Glutes, hip flexors, tibialis anterior, and deep core: the four muscle groups behind most of the instability adult skaters blame on age, not weakness."
+description: "Glutes, hip flexors, tibialis anterior, and deep core: four muscle groups that are a common, correctable contributor to instability in adult skaters."
 pubDate: 2026-09-08
 author: "Jo Fairweather"
 authorAge: 52

@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-08T09:29:21.426Z
+# Date: 2026-09-08T09:37:47.163Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -1149,9 +1149,9 @@ You don't need to be 70 for that lesson to apply, and you don't need millions of
 
 
 ### Judi Oyama Is 66 and Still Racing Slalom at the Highest Level
-The Guinness World Records holder for oldest competitive skateboarder is training for the 2026 World Skate Games. What her longevity in slalom says about yours.
+Guinness World Records' oldest competitive skateboarder (female) is training for the 2026 World Skate Games. What her longevity in slalom says about yours.
 
-Judi Oyama is 66 years old, holds the Guinness World Record for oldest competitive skateboarder, and is currently training in Santa Cruz, California for the World Skate Games in Paraguay this October, where she'll both race and coach. She started competing professionally in 1975. She has been inducted into the Skateboarding Hall of Fame. She first set the record at 64 in 2024 — and has since kept extending it by simply continuing to compete, with Guinness reconfirming the record again in 2026.
+Judi Oyama is 66 years old, holds the Guinness World Record for oldest competitive skateboarder (female), and is currently training in Santa Cruz, California for the World Skate Games in Paraguay this October, where she'll both race and coach. She started competing professionally in 1975. She has been inducted into the Skateboarding Hall of Fame. She first set the record at 64, in 2024, at the World Skate Games in Chieti, Italy — and has since kept extending it by simply continuing to compete, breaking her own record again in 2025 and having it reconfirmed by Guinness in 2026.
 
 If you're 45, 55, or 65 and wondering whether your window for this sport has already closed, Oyama's career is the most direct answer available: no, and here's the discipline that proves it.
 
@@ -2057,7 +2057,7 @@ Get on the board. Let them be ahead of you. It's fine.
 
 
 ### The Strength Gap: 4 Muscles Every Adult Skater Neglects
-Glutes, hip flexors, tibialis anterior, and deep core: the four muscle groups behind most of the instability adult skaters blame on age, not weakness.
+Glutes, hip flexors, tibialis anterior, and deep core: four muscle groups that are a common, correctable contributor to instability in adult skaters.
 
 A lot of the instability adult skaters feel and quietly blame on age has a more specific, correctable explanation available: weakness in four muscle groups that atrophy fastest in sedentary adult life — long before skating enters the picture — and that most general fitness routines never directly target. That's not the only possible cause of balance changes, and it isn't the one to assume by default. If imbalance is new, sudden, or getting worse rather than a familiar "I'm wobblier than I used to be," get it checked by a doctor first — vestibular, neurological, medication, and joint issues can all produce the same symptom, and this routine isn't a substitute for ruling those out.
 
