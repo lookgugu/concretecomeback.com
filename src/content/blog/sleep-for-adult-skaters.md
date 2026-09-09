@@ -24,7 +24,7 @@ Practically, this means a rough, frustrating session where nothing clicked isn't
 
 Younger skaters can get away with erratic sleep and still improve, because their recovery systems are more forgiving. Adult bodies are less forgiving on both ends of the equation.
 
-**Recovery slows down.** Deep sleep is when the body does most of its physical repair — clearing inflammation, rebuilding tissue, replenishing the systems that got taxed during a session. Adults naturally get somewhat less deep sleep than they did at 20, which means the repair work has to be more efficient with what it has. Consistently cutting sleep short compounds that shortfall.
+**Recovery slows down.** Sleep overall supports the body's physical repair — clearing inflammation, rebuilding tissue, replenishing the systems that got taxed during a session. Adults naturally get less total sleep and somewhat different sleep architecture than they did at 20, and consistently cutting sleep short compounds whatever shortfall that creates.
 
 **Balance is more sleep-sensitive than people expect.** Balance and reaction time both degrade measurably under sleep deprivation — this shows up in general research on fatigue and postural control, not just skating-specific studies. For a sport where balance is the entire premise, showing up under-slept is showing up with one of your core tools dulled.
 
