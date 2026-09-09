@@ -34,7 +34,7 @@ Pick one recurring slot — say, Tuesdays at 9am — and commit to showing up wh
 
 ## Start small, and start with people you already half-know
 
-The first version of your crew doesn't need to be public. Text two or three women you already know a little — from the school run, from a fitness class, from a neighborhood group — and ask if they want to try skating together once. Low pressure, no commitment beyond one session.
+The first version of your crew doesn't need to be public. Text two or three women you already know a little — from the school run, from a fitness class, from a neighborhood group — and ask if they want to try skating together once. Low pressure, no commitment beyond one session. If anyone's never skated before, say so up front: a helmet is non-negotiable and wrist guards are worth having too, so let them know to bring or borrow both, or point them to a shop that rents gear, before they show up expecting to just hop on a board.
 
 This first small group does two things: it makes the first real session less awkward, because you're not standing at a park alone waiting to see who shows up, and it gives you a couple of built-in regulars before you try to grow further.
 
