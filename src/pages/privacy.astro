@@ -1,0 +1,23 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+import Breadcrumb from '@components/ui/Breadcrumb.astro';
+---
+<BaseLayout title="Privacy | Concrete Comeback" description="How Concrete Comeback collects and uses personal information.">
+  <div class="max-w-3xl mx-auto px-4 sm:px-6 pb-16">
+    <Breadcrumb crumbs={[{ label: 'Privacy', href: '/privacy' }]} />
+    <h1 class="text-3xl sm:text-4xl font-display text-concrete-900 mb-2">Privacy</h1>
+    <p class="text-sm text-concrete-500 mb-8">Last updated August 28, 2026</p>
+    <div class="prose prose-concrete max-w-none">
+      <h2>Information you provide</h2>
+      <p>When you subscribe to the monthly roundup, we collect your email address. When you submit a directory listing, you may optionally provide an email address so we can follow up about that submission.</p>
+      <h2>How we use it</h2>
+      <p>Newsletter addresses are used only to send the Concrete Comeback roundup and related updates described on the signup form. Listing-submission addresses are used for that submission unless you separately subscribe to the roundup.</p>
+      <h2>Service providers</h2>
+      <p>We use Resend to deliver email and maintain the subscriber list. We may also use site analytics to understand aggregate usage and improve Concrete Comeback.</p>
+      <h2>Your choices</h2>
+      <p>You can unsubscribe using the link in any roundup. To ask what information we hold, request a correction or deletion, or raise a privacy question, email <a href="mailto:hello@concretecomeback.com">hello@concretecomeback.com</a>.</p>
+      <h2>Our commitment</h2>
+      <p>We do not sell personal information. We retain information only while it is needed for the purposes described above or to meet legal and operational requirements.</p>
+    </div>
+  </div>
+</BaseLayout>
