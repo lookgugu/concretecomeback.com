@@ -38,7 +38,7 @@ The window after exercise — roughly the couple of hours following a session �
 
 ## What you can mostly ignore
 
-There's a large market of supplements aimed specifically at "masters athletes" — collagen powders, joint-specific blends, recovery-branded everything. Some of these have reasonable evidence behind individual ingredients; plenty are marketing dressed as science. If you're already eating a reasonably varied diet with adequate protein, most adult recreational skaters don't need to build a supplement routine to skate well and recover reasonably. If joint discomfort is a specific, ongoing issue for you, that's a conversation for a doctor or physiotherapist who can look at your actual situation — not a shelf of powders.
+There's a large market of supplements aimed specifically at "masters athletes" — collagen powders, joint-specific blends, recovery-branded everything. Some of these have reasonable evidence behind individual ingredients; plenty are marketing dressed as science ([our joint supplements post](/blog/joint-supplements-for-adult-skaters/) goes through the evidence one ingredient at a time). If you're already eating a reasonably varied diet with adequate protein, most adult recreational skaters don't need to build a supplement routine to skate well and recover reasonably. If joint discomfort is a specific, ongoing issue for you, that's a conversation for a doctor or physiotherapist who can look at your actual situation — not a shelf of powders.
 
 ## The realistic version of this advice
 

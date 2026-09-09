@@ -50,6 +50,6 @@ If you skate in the morning and feel the afternoon crash, a short nap — twenty
 
 ## The trade-off nobody wants to make
 
-Here's the uncomfortable part: sometimes the choice is between an extra session this week and a full night's sleep, and the honest answer is that the sleep usually wins. A tired body learns less, falls harder, and heals slower. Three well-rested sessions a week will generally get you further than five sessions squeezed in on insufficient sleep.
+Here's the uncomfortable part: sometimes the choice is between an extra session this week and a full night's sleep, and the honest answer is that the sleep usually wins. A tired body learns less, falls harder, and heals slower. Three well-rested sessions a week will generally get you further than five sessions squeezed in on insufficient sleep. [Our recovery-days guide](/blog/recovery-days-for-adult-skaters/) covers how to space those sessions.
 
 This isn't about treating sleep as one more discipline to feel guilty about. It's closer to the opposite: it's permission to protect your rest without feeling like you're being lazy about skating. The work you did at the park doesn't finish when you leave. Some of the most important part happens later, in bed, doing nothing that looks like skating at all.
