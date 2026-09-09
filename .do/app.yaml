@@ -22,11 +22,19 @@ functions:
   # (app → Settings → api component → Environment Variables).
   # RESEND_API_KEY: send-only Resend key for concretecomeback.com
   # SUBMIT_NOTIFY_EMAIL: inbox that receives listing submissions
+  # RESEND_CONTACTS_API_KEY: Resend key with Contacts access for confirmed subscribers
+  # NEWSLETTER_CONFIRM_SECRET: random 32+ byte secret used to sign confirmation links
   envs:
   - key: RESEND_API_KEY
     scope: RUN_AND_BUILD_TIME
     type: SECRET
   - key: SUBMIT_NOTIFY_EMAIL
+    scope: RUN_AND_BUILD_TIME
+    type: SECRET
+  - key: RESEND_CONTACTS_API_KEY
+    scope: RUN_AND_BUILD_TIME
+    type: SECRET
+  - key: NEWSLETTER_CONFIRM_SECRET
     scope: RUN_AND_BUILD_TIME
     type: SECRET
 ingress:
