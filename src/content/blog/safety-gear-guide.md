@@ -2,6 +2,7 @@
 title: "The Adult Skater's Guide to Protective Gear"
 description: "Everything you need to know about helmets, pads, and wrist guards for returning adult skaters — what to buy, what to skip, and what will actually protect you."
 pubDate: 2025-11-22
+updatedDate: 2026-09-09
 author: "Jo Fairweather"
 authorAge: 52
 tags: ["safety", "protective-equipment", "gear", "beginner"]
@@ -47,7 +48,11 @@ Often skipped, occasionally important. If you're working on drops or steep trans
 
 ## Hip pads
 
-Niche but useful for bowl skating or any session where you're working on new maneuvers with a high fall rate. Hip fractures in older adults are serious. Companies like Demon and Hyperlite make padded shorts that look like regular shorts.
+The gap most adult skaters don't know exists. A sideways fall — the kind that happens catching an edge or losing balance mid-carve — tends to land you on the meaty part of the hip, right over the bony point called the greater trochanter. Past 40, and especially past 50, that's a different calculus than it was at 20: bone density has usually started declining, and a hip injury has a well-documented tendency to disrupt mobility and independence for far longer than a wrist or ankle injury of similar severity.
+
+Hip pads are usually sold as "impact shorts" or "hip protectors" — padded shorts you wear under your regular clothes, with foam positioned over each hip and sometimes the tailbone. Done right, they don't prevent a fall; they absorb and disperse the impact energy if you land on your hip, the same principle as a helmet for your skull. But not every padded short does that job equally well — pad placement, coverage, and how much impact the foam actually attenuates vary a lot between products, and a short that merely looks padded isn't the same as one that's been impact-tested over the greater trochanter. If you're buying these specifically because of a bone-density concern, look for a product that documents impact testing rather than assuming any padded short will do; a generic pair bought purely for the look of coverage may not protect much at all. Recent well-made versions run thinner and more breathable than the bulky designs of a decade ago and don't show under jeans or joggers.
+
+Worth wearing if you're still relearning how to fall (the first few months back, before your reflexes for catching a fall have returned), you skate bowls, ramps, or transitions — which produce more sideways and backward falls than flat-ground street skating — or you have any reason to think your bone density is lower than average, which is worth a quick check with your GP if you're not sure.
 
 ## What to skip
 
