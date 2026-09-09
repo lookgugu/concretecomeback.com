@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-09T15:24:13.897Z
+# Date: 2026-09-09T15:37:25.955Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -163,48 +163,6 @@ For an intermediate skater who's plateaued, one weekend of coaching feedback on 
 For someone who's already skating consistently and happily, it's less obviously worth the cost — though the community experience and change of environment have their own value.
 
 The adult skating retreat is a new category. The events that exist are genuinely good and run by people who skate and understand the adult learner. If you've been thinking about going to one, the barrier is booking, not the experience itself.
-
-
-### You Have Mild Arthritis. Can You Still Skate?
-Modern orthopaedic guidance favors movement over rest for mild arthritis. Here's how to adapt your skating instead of giving it up.
-
-I hear a version of this question a lot, both in clinic and from adult skaters at the park: "I've got some arthritis in my knee — should I even be doing this?" It's usually asked with the assumption that the answer is no, that arthritis means impact activities are off the table and something gentler is the responsible choice.
-
-That assumption is outdated. It's not baseless — impact activity used to get treated as something arthritic joints should avoid — but the thinking has shifted substantially, and for most people with mild osteoarthritis, the honest answer is: probably yes, with some adjustments, and you should talk to whoever manages your joint care before treating a stranger's blog post as medical advice.
-
-## Why "rest it" stopped being the default
-
-For a long time, the instinctive advice for a joint with arthritis was to protect it — avoid impact, avoid load, save it from further wear. That framing made intuitive sense: if a joint is already showing damage, why stress it further?
-
-The problem is that joints aren't like a worn brake pad that only degrades with use. Cartilage and the surrounding tissue rely on regular mechanical loading to stay nourished and to maintain the muscle support around the joint. Rest reduces pain in the short term, but it also lets the muscles around a joint weaken, and weaker supporting muscles generally mean *more* load reaching the joint surface during ordinary daily movement, not less. Current orthopaedic and physiotherapy guidance for mild-to-moderate osteoarthritis leans heavily toward appropriate movement and strengthening rather than avoidance, precisely because the joint tends to do better with muscular support than without it.
-
-None of that means arthritis is irrelevant to how you skate. It means the response to it is adaptation, not withdrawal.
-
-## What "mild" actually covers
-
-This matters for skating specifically: mild osteoarthritis generally means some cartilage wear, occasional stiffness or ache (often worse first thing in the morning or after long stretches of inactivity), and joint function that's still largely intact day to day. If that's roughly where you're at, skating in some form is very likely still reasonable.
-
-If you're dealing with significant pain during ordinary walking, real instability, locking, or swelling that doesn't settle, that's a different conversation, and it's one to have with an orthopaedist or physiotherapist who's actually examined the joint — not something to self-diagnose from a blog post.
-
-## How to adapt your skating around it
-
-**Prioritize soft wheels and a flexible deck setup.** This is the single biggest lever you have. Wheels in the 78a–87a range absorb far more impact than the hard 99a+ wheels common on street setups, and that difference is felt directly at the knee and hip on every push and every landing. If you're skating anything harder than 90a right now, this is the first thing to change.
-
-**Warm up longer than you think you need to.** Arthritic joints are often stiffest cold and loosen with movement — a longer, gentler warm-up (ten to fifteen minutes of mobility work before you push off) makes a real difference to how the joint feels through a session, more so than it does for a joint without arthritis.
-
-**Build the muscles around the joint, not just the skating itself.** For a knee, that means quad and glute strengthening on non-skating days — squats, step-ups, glute bridges. Stronger supporting muscles absorb load that would otherwise land directly on the joint surface. This is arguably more protective than anything you do on the board itself.
-
-**Favor flow over impact.** Carving, pumping transitions, and cruising put far less repetitive load through a joint than repeated ollies, drops, or stair sets. None of that means you can never do impact tricks — it means building your sessions around lower-impact movement as the default, with impact as the exception rather than the norm.
-
-**Shorten sessions and watch for the next-day signal.** A joint that feels fine during a session but noticeably worse the next morning is telling you the session was too much, not that skating itself is the problem. Adjust duration or intensity down before that becomes a pattern, and give yourself a full rest day between sessions if you're not already.
-
-**Ice after, not instead of moving.** Fifteen to twenty minutes of icing after a session that left a joint achy is reasonable and helps with inflammation. It's not a substitute for the warm-up and strengthening work — it's a complement to it.
-
-## The bigger trade-off
-
-Total inactivity has its own costs for an arthritic joint — weaker supporting muscles, more stiffness, often more pain over time, not less. Skateboarding, adapted the way described above and cleared with whoever manages your joint care, gives you a weight-bearing activity that also happens to be genuinely enjoyable, which matters more than it sounds like it should — softer wheels and a longer warm-up reduce the load reaching the joint, but they don't eliminate landing impact or fall risk, so this is about a reasonable, individually-appropriate adaptation, not a joint-friendly label that applies to skateboarding in general. People stick with activities they like. Sticking with it is most of what makes any of this work long-term.
-
-If you're managing arthritis and skating already, you're probably not doing anything wrong by continuing. If you've been avoiding it because you assumed arthritis ruled it out, it's worth a real conversation with your physiotherapist or orthopaedist about what's actually appropriate for your specific joint and stage — because for a lot of people in that position, the answer turns out to be more permissive than they expected.
 
 
 ### The Adult Beginner Trick Ladder: What to Learn and When
@@ -2197,7 +2155,7 @@ Bring a description of what skateboarding actually involves — pushing, carving
 
 ## Adjustments by condition
 
-**Arthritis (knees, hips, ankles):** Favor smooth, well-maintained concrete over rough or cracked asphalt — every crack is a small impact your joint absorbs. Softer wheels take meaningful vibration out of the equation; if you haven't already, read the [gear for aging joints guide](/blog/gear-for-aging-joints/) before you buy anything else. Warm up longer than you think you need to — arthritic joints are typically stiffer until they've moved for a while, and skating cold is where most avoidable flare-ups start.
+**Arthritis (knees, hips, ankles):** First, be honest about where you are on the spectrum. Mild osteoarthritis generally means some cartilage wear, occasional stiffness or ache (often worst first thing in the morning or after sitting), and joint function that's largely intact day to day; that's the picture most of this section is written for. Significant pain during ordinary walking, real instability, locking, or swelling that doesn't settle is a different conversation, and one to have with someone who has examined the joint. For the mild case: favor smooth, well-maintained concrete over rough or cracked asphalt — every crack is a small impact your joint absorbs. Softer wheels take meaningful vibration out of the equation — wheels in the 78a–87a range absorb far more than the 99a-plus wheels common on street setups, and if you're on anything harder than 90a this is the first thing to change; read the [gear for aging joints guide](/blog/gear-for-aging-joints/) before you buy anything else. Warm up longer than you think you need to — arthritic joints are typically stiffer until they've moved for a while, and skating cold is where most avoidable flare-ups start. Build the muscle around the joint on non-skating days — for a knee, that's quad and glute work like squats, step-ups and glute bridges — because stronger supporting muscle absorbs load that would otherwise reach the joint surface, which is arguably more protective than anything you do on the board. Make flow the default: carving, pumping and cruising load a joint far less than repeated ollies, drops or stair sets, so treat impact as the exception. And ice for fifteen to twenty minutes after a session that leaves the joint achy — as a complement to the warm-up and strengthening, not a substitute for them.
 
 **An old ACL tear or ligament repair:** The movements to be most careful with are sharp, sudden pivots under load — a toe-side carve you rush, or twisting to catch your balance after a near-fall. Smooth, wide, predictable turns are much kinder to a reconstructed or lax ligament than tight, sudden ones. If your knee has ever felt like it might "give way," that's specific and worth mentioning to your physio by name — it usually points to a stability issue worth addressing with targeted strength work before you push mileage.
 
