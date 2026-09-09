@@ -26,7 +26,7 @@ Where skating pulls ahead is balance. Cycling, once you're up to speed, is large
 
 Both sports can be done cheaply or expensively, but the floor and the ceiling are different.
 
-A functional skateboard setup — deck, trucks, wheels, bearings, helmet, wrist guards — runs somewhere in the low hundreds of dollars to get properly set up, and once you have it, ongoing costs are mostly griptape, occasional bearings, and shoes that wear out from foot-braking and pushing.
+A functional skateboard setup — deck, trucks, wheels, bearings, helmet, wrist guards — runs somewhere in the low hundreds of dollars to get properly set up, and once you have it, ongoing costs are mostly griptape, occasional bearings, and shoes that wear out from foot-braking and pushing. [Our cost breakdown](/blog/how-much-does-skateboarding-cost/) puts real numbers on three budget tiers.
 
 A decent entry-level road or gravel bike alone typically costs more than a full skateboard setup, and cycling's gear ecosystem — clipless pedals and shoes, kit, computers, upgraded components — has a lot of room to expand your spending if you let it. Neither sport requires you to spend a lot to get started, but skateboarding's ceiling for casual, low-spend participation is generally lower.
 
@@ -48,4 +48,4 @@ If your primary constraint is joint impact, or you want a sport with a mature, r
 
 If you want something that trains balance and reactive coordination in a way cycling doesn't, fits into small pockets of free time without route planning, and you're not put off by a looser, less scheduled social scene, skateboarding is worth taking seriously — including as a complement to cycling rather than a replacement for it. Plenty of adults do both: a long ride on the weekend, a short skate session after work. There's no rule that says you have to pick one comeback sport for the rest of your life.
 
-The bigger point is that this shouldn't be a two-option conversation where cycling wins by default because it's more visible. If skating is the one that's actually been on your mind, that's reason enough to try it — you don't need it to beat cycling on every metric to be the right choice for you.
+The bigger point is that this shouldn't be a two-option conversation where cycling wins by default because it's more visible. If skating is the one that's actually been on your mind, that's reason enough to try it — you don't need it to beat cycling on every metric to be the right choice for you. And if you're already a returning cyclist weighing up adding a board, [what surfing and cycling comebacks teach us about returning to skating](/blog/lessons-from-surfing-and-cycling-comebacks/) covers what carries over and what doesn't.

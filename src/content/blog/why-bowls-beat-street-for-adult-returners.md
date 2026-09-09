@@ -18,7 +18,7 @@ If you're deciding where to spend your early sessions, here's the case for start
 
 Street skating — flat ground, ledges, stairs, rails — means falling onto flat, hard, unforgiving concrete or asphalt. When you slip out doing a flatground trick, there's nowhere for the energy to go except straight into whatever part of your body hits first.
 
-A bowl or ramp is curved. When you fall on transition, the slope of the surface tends to redirect your fall into a slide along the curve rather than a straight drop onto a flat plane. Skaters call this "sliding out," and it's a meaningfully softer way to hit the ground than the flat-ground version of the same mistake. It's part of why bowl and vert skaters wear cup-style knee pads — the gear is designed around sliding on a curved surface, and it works.
+A bowl or ramp is curved. When you fall on transition, the slope of the surface tends to redirect your fall into a slide along the curve rather than a straight drop onto a flat plane. Skaters call this "sliding out," and it's a meaningfully softer way to hit the ground than the flat-ground version of the same mistake — but only if you're wearing full-cup knee pads and have practised dropping to your knees and sliding rather than putting a hand out. Untrained, a fall on transition can still end with a braced wrist or a hard landing, and speed builds faster on a curve than on flat ground. Learn the technique first — [our guide to falling safely after 40](/blog/how-to-fall-safely-after-40/) covers it — and treat the gear as the thing that makes the slide possible, not optional.
 
 This doesn't mean bowl skating is risk-free. Drops and steep transitions have their own hazards, and skating over your head in a bowl is genuinely dangerous. But for the pace most adult returners are actually skating at — cruising the flow line, working on basic pumping and carving — the fall profile is more forgiving than the equivalent mistake on flat street terrain.
 
@@ -38,13 +38,13 @@ Bowl and transition skating spreads load differently. Pumping generates speed th
 
 **Find a mellow bowl or the shallow end of a pool-style feature.** Most parks have some kind of graduated transition — a bank that eases into a wall, a bowl with a shallow and deep end. Start at the shallowest, most gradual part.
 
-**Learn to read the terrain before you drop in.** Watch other skaters for a few minutes. Notice where people are lining up, how fast they're carrying speed into different sections, and where the flow of traffic tends to go. Transition skating has an etiquette around not cutting off other skaters' lines that's worth understanding before you're in the middle of it.
+**Learn to read the terrain before you drop in.** Watch other skaters for a few minutes. Notice where people are lining up, how fast they're carrying speed into different sections, and where the flow of traffic tends to go. On a bowl, one rider goes at a time and everyone else waits their turn; that rotation is what lets a beginner and a skilled local share the same feature. [Our skatepark etiquette guide](/blog/skatepark-etiquette-for-adults/) covers the unwritten rules in more detail.
 
-**Start with carving, not dropping in.** You don't need to drop into a bowl on day one, or ever, if that's not where your interest takes you. Carving the flat bottom and the lower part of the walls, getting comfortable with the sensation of banked turns, is a full session's worth of legitimate progress on its own.
+**Start with carving, not dropping in.** You don't need to drop into a bowl on day one, or ever, if that's not where your interest takes you. Carving the flat bottom and the lower part of the walls, getting comfortable with the sensation of banked turns, is a full session's worth of legitimate progress on its own. When you do decide to learn to drop in, a hesitant, rear-weighted entry is the classic way to go straight backward onto the transition, so learn it on the smallest bank or the shallowest wall you can find — ideally with an experienced skater or coach watching the first few — not on a deep pool wall.
 
 **Pump before you try to gain speed from pop.** Pumping — generating speed by extending and compressing your legs through the transitions rather than pushing with your foot — is the core transition skill and it transfers to everything else you'll want to do on a bowl or ramp. It's also one of the more satisfying feelings in skating once it clicks.
 
-**Wear the right pads.** Cup-style knee pads, not the slim street pads, if you're spending real time on transition. They're built for sliding out on a curved surface, and that's specifically the kind of fall you'll be having.
+**Wear the right pads.** Full-cup knee pads — the large hard-cap style — not slim foam-only street pads, if you're spending real time on transition. Cup pads are built for sliding out on a curved surface, and that's specifically the kind of fall you'll be having; foam-only pads dig in instead of sliding. A certified skate helmet and rigid-splint wrist guards stay on too. [Our protective gear guide](/blog/safety-gear-guide/) covers what to buy.
 
 ## Street skating isn't off the table
 
