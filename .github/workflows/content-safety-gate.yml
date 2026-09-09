@@ -96,6 +96,16 @@ jobs:
           # DISMISSED reviews must not count as coverage.
           reviewed=$(printf '%s' "$pr_json" | jq --arg h "$head" --arg r "$REVIEWER" \
             '[.reviews.nodes[] | select(.author.login == $r and .author.__typename == "Bot") | select(.state != "DISMISSED") | select(.commit.oid == $h)] | length')
+          # The reviewer posts a review object only when it has findings. A clean
+          # result arrives as an issue comment — "Didn't find any major issues …
+          # Reviewed commit: `<sha>`" — so a PR that has fixed everything can never
+          # satisfy the review check above. Count that comment too, but only when it
+          # names the current head, so a stale clean verdict on an earlier commit
+          # still fails closed.
+          clean_at_head=$(printf '%s' "$pr_json" | jq --arg h "$head" --arg r "$REVIEWER" \
+            '[.comments.nodes[] | select(.author.login == $r and .author.__typename == "Bot") | select(.body|test("Reviewed commit:[^0-9a-f]{0,4}" + ($h|.[0:10])))] | length')
+          is_int "$clean_at_head" || die "Non-numeric result for clean_at_head. Failing closed."
+          reviewed=$((reviewed + clean_at_head))
           limited=$(printf '%s' "$pr_json" | jq --arg r "$REVIEWER" \
             '[.comments.nodes[] | select(.author.login == $r and .author.__typename == "Bot") | select(.body|test("usage limits";"i"))] | length')
           # Deliberately broad: if the badge format changes, a stray match blocks
@@ -109,7 +119,7 @@ jobs:
             is_int "$(eval echo \$$v)" || die "Non-numeric result for $v. Failing closed."
           done
 
-          echo "head=$head reviewed_at_head=$reviewed unresolved_P1=$open_p1 unresolved_P2=$open_p2"
+          echo "head=$head reviewed_at_head=$reviewed (clean_verdict_comments=$clean_at_head) unresolved_P1=$open_p1 unresolved_P2=$open_p2"
           echo
 
           failed=0
