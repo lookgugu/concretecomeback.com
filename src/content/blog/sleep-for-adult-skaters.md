@@ -38,7 +38,7 @@ You don't need a perfect sleep-tracking setup. A few basics cover most of it.
 
 **Protect the night after a hard session.** If you had a session where you pushed yourself — new terrain, more falls than usual, real physical effort — that night's sleep is doing more work than an average night. Treat it accordingly: skip the late screen time, don't schedule something that'll cut your night short.
 
-**Watch alcohol on skate nights.** Alcohol can make you fall asleep faster but fragments the second half of the night, cutting into the deep and REM sleep that does the consolidation and repair work. A few drinks after an evening session might feel like a fine way to unwind, but it's working against the recovery you just earned.
+**Watch alcohol on skate nights.** Alcohol can make you fall asleep faster but fragments the second half of the night, cutting into the sleep that does the consolidation and repair work described above. A few drinks after an evening session might feel like a fine way to unwind, but it's working against the recovery you just earned.
 
 **Get morning light if you can.** Morning sunlight exposure helps anchor your circadian rhythm, which makes falling asleep at a consistent time easier. If your sessions are early, you're already doing this by accident.
 
