@@ -1,6 +1,6 @@
 ---
-title: "Why Sleep Is Your Secret Weapon as an Adult Skater"
-description: "How sleep affects motor skill learning, injury recovery, and balance for adult skaters — and practical ways to protect it around your sessions."
+title: "Why Sleep Is Your Secret Weapon as an Older Skater"
+description: "How sleep affects motor skill learning, injury recovery, and balance for older skaters — and practical ways to protect it around your sessions."
 pubDate: 2026-08-23
 author: "Marcus Webb"
 authorAge: 47
@@ -12,7 +12,7 @@ draft: false
 
 I used to think the work happened at the skatepark. You show up, you push through something new and clumsy, you leave a little better than you arrived. That's true as far as it goes. But a chunk of the actual learning — the part where a shaky, conscious movement turns into something your body just does — happens later, while you're asleep and not thinking about skating at all.
 
-That's not a metaphor. It's how motor learning works, and it matters more for adult skaters than almost anyone talks about.
+That's not a metaphor. It's how motor learning works, and it matters more for older skaters than almost anyone talks about.
 
 ## The overnight part of learning a skill
 
@@ -22,13 +22,13 @@ Practically, this means a rough, frustrating session where nothing clicked isn't
 
 ## Why this hits differently after 40
 
-Younger skaters can get away with erratic sleep and still improve, because their recovery systems are more forgiving. Adult bodies are less forgiving on both ends of the equation.
+Younger skaters can get away with erratic sleep and still improve, because their recovery systems are more forgiving. Older bodies are less forgiving on both ends of the equation.
 
-**Recovery slows down.** Sleep overall supports the body's physical repair — clearing inflammation, rebuilding tissue, replenishing the systems that got taxed during a session. Adults naturally get less total sleep and somewhat different sleep architecture than they did at 20, and consistently cutting sleep short compounds whatever shortfall that creates.
+**Recovery slows down.** Sleep overall supports the body's physical repair — clearing inflammation, rebuilding tissue, replenishing the systems that got taxed during a session. Older skaters naturally get less total sleep and somewhat different sleep architecture than they did at 20, and consistently cutting sleep short compounds whatever shortfall that creates.
 
 **Balance is more sleep-sensitive than people expect.** Balance and reaction time both degrade measurably under sleep deprivation — this shows up in general research on fatigue and postural control, not just skating-specific studies. For a sport where balance is the entire premise, showing up under-slept is showing up with one of your core tools dulled.
 
-**Injury risk goes up.** Fatigue slows reaction time and degrades judgment about what you can safely attempt. An unfamiliar feature that you'd normally back away from on a well-rested day looks more attemptable when you're tired and less able to accurately judge risk. That's a bad combination at any age, and adults have less margin for the resulting injuries.
+**Injury risk goes up.** Fatigue slows reaction time and degrades judgment about what you can safely attempt. An unfamiliar feature that you'd normally back away from on a well-rested day looks more attemptable when you're tired and less able to accurately judge risk. That's a bad combination at any age, and older skaters have less margin for the resulting injuries.
 
 ## What good sleep actually looks like for a skater
 
