@@ -1,57 +1,55 @@
 ---
-title: "How to Fall Without Breaking Your Wrist"
-description: "The fall mechanics that actually prevent wrist fractures — the most common serious injury for adults returning to skateboarding."
-pubDate: 2026-08-19
+title: "How to Fall Without Breaking Your Wrist After 40"
+description: "The falling techniques that protect your wrists when you skate over 40, and why the instinct to catch yourself is the real danger."
+pubDate: 2026-08-14
 author: "Jo Fairweather"
 authorAge: 52
 authorBio: "Physiotherapist and skater. Came back to skating at 49 and hasn't stopped."
-tags: ["safety", "protective-equipment", "beginner", "joints", "gear"]
+tags: ["safety", "technique", "beginner", "active-aging"]
 featured: false
 draft: false
 ---
 
-Most of the adult skaters I've treated in clinic didn't break a wrist doing something reckless. They broke it pushing along at a normal pace, catching an edge, and doing exactly what their body has done since childhood every time it senses a fall: throwing a hand out, flat and stiff, straight into the ground.
-
-That reflex is the single biggest predictor of a wrist fracture in adult skaters. It's not bad luck, and it's not really about speed or terrain. It's an untrained response to falling that you can, with some deliberate practice, actually retrain.
+Nobody teaches adults how to fall. We teach helmets, wrist guards, and "start slow" — all correct, all necessary — but almost nobody teaches the physical skill of going down well. That's a gap, because falling is not a rare event in skating. It's a routine part of learning, and how you do it determines whether you walk away sore or walk away in a cast.
 
 ## Why the wrist takes the hit
 
-When you fall forward or sideways, your nervous system's default move is to extend your arm and plant your palm to catch yourself. At walking speed, on flat ground, that instinct works fine. On a moving skateboard, you're falling with momentum behind you, and a stiff, locked wrist absorbing that load through a small joint is a bad trade. The forces involved are enough to fracture the radius — the same injury pattern orthopedic clinics see constantly from icy sidewalks and cyclists going over the bars.
+Wrist and forearm injuries are consistently among the most common skateboarding injuries treated in emergency departments, and the mechanism is almost always the same: a fall onto an outstretched hand. Your body's instinct, when it senses it's going down, is to throw an arm out and brace. That instinct served you well as a kid catching yourself off a bike. On a skateboard, at speed, on concrete, it's often the thing that breaks you.
 
-Adult bones aren't as forgiving as a teenager's, either. Bone density starts a slow decline in your 40s, and a fall that a 16-year-old walks away from bruised can be a fracture at 46. None of this means you shouldn't skate. It means the falling technique matters more for you than it did the first time around.
+This matters more after 40. Bone density declines gradually with age, and the same fall that would have sprained a 19-year-old's wrist can fracture a 45-year-old's. The falling technique that didn't matter much when you were young matters a lot now.
 
-## The tuck-and-roll, adapted for skating
+## The instinct that gets you hurt
 
-Full gymnastic breakfalls aren't practical at skating speed, but the underlying principle — spread the impact across a larger surface and keep moving through the fall instead of stopping dead — is exactly what you want.
+Stiff-arming the ground concentrates all of your falling momentum into a small, rigid joint that isn't built to absorb it. The fix isn't complicated, but it goes against a deeply wired reflex, which is why it has to be practiced deliberately rather than left to instinct in the moment.
 
-**Tuck your arms in, don't extend them.** The instinct to fight is to straighten your arm and brace. Instead, bend your elbows and bring your forearms in toward your body as you go down. A bent arm absorbing impact across the forearm and shoulder is far less likely to fracture than a straight arm taking the full load through the wrist.
+The goal, every time you feel a fall coming, is the same: get low, protect your head, and spread the impact across the parts of your body that can take it.
 
-**Aim to land on the fleshy parts.** Forearms, shoulders, the outside of your thigh, your backside — all better shock absorbers than a palm or an elbow point. If you feel yourself going down, actively try to turn so a larger, softer part of your body makes contact first.
+## The tuck-and-roll fundamentals
 
-**Keep moving.** A fall that turns into a roll dissipates energy over a longer distance and a longer time, which reduces the peak force at any single point. Stopping dead — bracing hard against the ground — concentrates all that force into the instant of impact. This is the same physics that makes a roll safer than a plant in judo or gymnastics.
+**Tuck your chin.** The first thing to protect is your head. Tucking your chin toward your chest keeps it from being the first thing that contacts the ground if you go backward.
 
-**Get low before you're falling, if you can.** If you feel a fall coming — a wobble, a catch, a loss of balance — dropping your center of gravity by bending your knees buys you a shorter distance to fall and more time to react. A fall from a crouch hurts less than a fall from standing height.
+**Round your shoulders and roll.** Rather than landing flat on your back or side, aim to roll diagonally across your back — a technique borrowed from martial arts breakfalls. Rolling spreads the impact across a much larger surface area and over a longer span of time than a single hard landing does.
 
-## Where wrist guards fit in
+**Keep your arms in, not out.** This is the hardest part to train. Instead of throwing an arm out to catch yourself, tuck your elbows in close to your body. If your hands do make contact, let them slide rather than plant.
 
-Wrist guards don't replace this technique — they work together with it. A rigid-splint wrist guard is built to take the impact of your hand hitting the ground and spread it across the guard's plate rather than letting your wrist joint absorb it directly. But guards work best when you're not fighting your own instinct to grab and grip. Part of learning to fall with guards on is training yourself to let the guard slide rather than trying to catch yourself the way you would bare-handed.
+**Aim for the fleshy parts.** Shoulders, forearms (not wrists), thighs, and glutes can absorb impact that wrists and elbows can't. When you feel a fall happening, the split-second decision to angle your body toward these areas is what falling well actually means.
 
-If you're not already wearing wrist guards every session, that's the first and easiest change to make. Everything else in this piece is technique refinement on top of that baseline.
+## Practicing before you need it
 
-## Practicing this safely, off the board first
+You can't install a new reflex by reading about it. The old "hands out" instinct only gets replaced through repetition, and the place to build that repetition is not your first real fall at the park.
 
-You can build the reflex before you ever need it on a skateboard.
+Start on grass or a padded surface at home. Practice falling from a standing position: tuck, round, roll. Do it slowly and deliberately, ten or fifteen times, until rolling feels more natural than bracing. Some adult skaters find it useful to practice off the board entirely first — from a kneeling or standing position — before adding the board back in.
 
-**Practice on grass or a mat — and treat each direction separately.** Forward and sideways falls are the ones where tucking your arms and rolling onto a shoulder applies most directly. Backward falls are a different problem: the main risk isn't your wrist, it's the back of your head or your tailbone, so the priority is tucking your chin to your chest and rounding your spine so you roll across your back rather than letting your head snap back and hit the ground. Don't drill backward falls at speed or without this chin-tuck cue specifically in mind.
+This feels a little silly. Do it anyway. The few minutes you spend deliberately practicing a controlled fall on grass will do more for your wrists than any amount of caution at the park.
 
-A few slow, deliberate reps on a soft surface are useful for building general body awareness, but this is genuinely easier to learn correctly from a qualified instructor or a skate-specific falling clinic than from a written description — get in-person guidance before you rehearse this hard, especially for backward falls.
+## Wrist guards still matter
 
-**Rehearse the "let go" moment.** If you're used to catching yourself with a stiff arm, spend a few minutes consciously practicing the opposite: as you start to lose balance, bend the elbows immediately rather than extending them. This sounds simple and is surprisingly hard to override once you're actually falling for real — which is exactly why it needs rehearsal beforehand, not in the moment.
+None of this replaces wrist guards — it works alongside them. Guards with a rigid splint limit how far your wrist can bend backward, which is the motion that actually causes most fractures. Technique reduces how often you're relying on that guard to do its job; the guard is there for the moments technique isn't enough.
 
-**Watch how you bail when skating slow.** Early sessions, at low speed, are the ideal training ground. When you feel yourself going down at walking pace, that's a free rep for practicing the tuck instead of the brace. The pattern you build at low speed is the pattern your body will default to later, at higher speed, when you don't have time to think.
+Wear them every session, not just when you're trying something new. Most falls happen doing ordinary things, not big tricks.
 
-## The bigger picture
+## Falling well is a skill, not a failure
 
-None of this eliminates risk. Skating involves falling, full stop, and no amount of good technique makes that zero. What good fall mechanics do is shift the odds — turning a fall that could break a wrist into one that leaves you with a bruise and a story.
+One of the harder mental shifts for adults returning to skating is accepting that falling is going to happen, regularly, for as long as you skate. It's not a sign you're doing something wrong. It's part of the sport.
 
-If you're coming back to skating after years away, treat this the same way you'd treat any other skill you're rebuilding: deliberately, with a few minutes of dedicated practice, rather than assuming your body will just figure it out under pressure. It mostly won't. The old reflex is still in there, and it's the wrong one for this sport. Train the new one before you need it.
+What you have control over is how you fall. Treat it as a skill worth practicing on purpose, the same way you'd practice pushing or carving, and the falls that used to end a season will start to just be falls — the kind you get up from, dust off, and keep skating through.

@@ -3,6 +3,7 @@ import type { CollectionEntry } from 'astro:content';
 import BaseLayout from './BaseLayout.astro';
 import BlogMeta from '@components/blog/BlogMeta.astro';
 import Breadcrumb from '@components/ui/Breadcrumb.astro';
+import NewsletterInline from '@components/marketing/NewsletterInline.astro';
 
 interface Props {
   entry: CollectionEntry<'blog'>;
@@ -74,6 +75,8 @@ const jsonLd = {
       <slot />
     </div>
 
+    <NewsletterInline />
+
     <div class="mt-10 pt-8 border-t border-concrete-200">
       <div class="flex flex-wrap gap-2">
         {tags.map((tag) => (
@@ -94,22 +97,3 @@ const jsonLd = {
     </div>
   </article>
 </BaseLayout>
-
-<style is:global>
-  .prose-concrete {
-    --tw-prose-body: var(--color-concrete-700);
-    --tw-prose-headings: var(--color-concrete-900);
-    --tw-prose-lead: var(--color-concrete-600);
-    --tw-prose-links: var(--color-concrete-800);
-    --tw-prose-bold: var(--color-concrete-900);
-    --tw-prose-counters: var(--color-concrete-500);
-    --tw-prose-bullets: var(--color-concrete-400);
-    --tw-prose-hr: var(--color-concrete-200);
-    --tw-prose-quotes: var(--color-concrete-700);
-    --tw-prose-quote-borders: var(--color-skate-orange);
-    --tw-prose-code: var(--color-concrete-800);
-    --tw-prose-pre-bg: var(--color-concrete-800);
-    font-size: var(--font-size-base);
-    line-height: var(--line-height-relaxed);
-  }
-</style>
