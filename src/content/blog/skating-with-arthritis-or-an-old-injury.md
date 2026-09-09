@@ -46,7 +46,7 @@ Shorter sessions with real breaks tend to work better than one long push, becaus
 
 ## The line between discomfort and a warning sign
 
-Ordinary muscle fatigue and a bit of stiffness the next day are normal for anyone getting back into a physical activity — that's not your old injury talking, that's just deconditioning. What isn't normal, and what should stop a session immediately: sharp pain localized to the joint line, any catching or locking sensation, or a feeling that the joint might give way. Those are mechanical signals, not the ordinary soreness of getting back in shape, and they're worth an actual assessment before your next session rather than pushing through.
+Ordinary muscle fatigue and a bit of stiffness the next day, roughly in line with what any deconditioned muscle feels after new activity, are normal for anyone getting back into a physical activity. But with an arthritic or previously injured joint, don't wave that off by default — stiffness that's worse than your usual baseline, lasts well past a day, or comes with visible swelling can mean the joint is flaring or being loaded harder than it's ready for, not just ordinary deconditioning. And some signals should stop a session immediately regardless of how mild the rest of it felt: sharp pain localized to the joint line, any catching or locking sensation, or a feeling that the joint might give way. All of that — a flare, unusual swelling, or a mechanical symptom — is worth an actual assessment before your next session rather than pushing through on the assumption that it's just soreness.
 
 ## The real answer
 

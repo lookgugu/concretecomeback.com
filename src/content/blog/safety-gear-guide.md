@@ -47,7 +47,11 @@ Often skipped, occasionally important. If you're working on drops or steep trans
 
 ## Hip pads
 
-Niche but useful for bowl skating or any session where you're working on new maneuvers with a high fall rate. Hip fractures in older adults are serious. Companies like Demon and Hyperlite make padded shorts that look like regular shorts.
+The gap most adult skaters don't know exists. A sideways fall — the kind that happens catching an edge or losing balance mid-carve — tends to land you on the meaty part of the hip, right over the bony point called the greater trochanter. Past 40, and especially past 50, that's a different calculus than it was at 20: bone density has usually started declining, and a hip injury has a well-documented tendency to disrupt mobility and independence for far longer than a wrist or ankle injury of similar severity.
+
+Hip pads are usually sold as "impact shorts" or "hip protectors" — padded shorts you wear under your regular clothes, with foam positioned over each hip and sometimes the tailbone. They don't prevent a fall; they absorb and disperse the impact energy if you land on your hip, the same principle as a helmet for your skull. Recent versions run thinner and more breathable than the bulky designs of a decade ago and don't show under jeans or joggers.
+
+Worth wearing if you're still relearning how to fall (the first few months back, before your reflexes for catching a fall have returned), you skate bowls, ramps, or transitions — which produce more sideways and backward falls than flat-ground street skating — or you have any reason to think your bone density is lower than average, which is worth a quick check with your GP if you're not sure.
 
 ## What to skip
 

@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-09T09:10:14.040Z
+# Date: 2026-09-09T09:17:04.632Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -599,46 +599,6 @@ When you do go to a park: go during off-peak hours, find a flat area, and watch 
 You're not trying to get back to where you were at 16. That's the wrong goal and it will frustrate you. You're building a new relationship with skating — one that fits your current body, your current schedule, and your current risk tolerance.
 
 The skaters who come back successfully and stick with it are the ones who find joy in what they *can* do, not grief about what they *used* to do.
-
-
-### Hip Pads Are the Protective Gear Most Adult Skaters Skip
-Helmets and wrist guards get all the attention. Here's why hip protection deserves a place in your adult skate kit too.
-
-Ask an adult returning skater what protective gear they've bought and you'll almost always hear the same three things: helmet, wrist guards, maybe knee pads. All correct. All worth buying. And all missing the one joint that takes the hardest hit when an adult skater falls the way adults actually fall — sideways, onto the hip.
-
-I see this gap constantly in my physio practice. Patients will show up with wrist guards still in the packaging in their bag "for later" but have never even heard of a hip pad. It's not that hip protection is new. It's that nobody talks about it, so nobody buys it, so it stays a niche product most skaters don't know exists.
-
-## Why the hip specifically
-
-A sideways fall — the kind that happens when you catch an edge carving, or lose balance stepping off at the wrong moment — tends to land you on the meaty part of your hip, right over the bony point called the greater trochanter. At 20, that's a bruise. Past 40, and especially past 50, it's a different calculus: bone density has usually started declining, recovery from any fracture takes longer, and a hip injury has a well-documented tendency to cascade into a much longer disruption to your mobility and independence than a wrist or ankle injury of similar severity.
-
-That's not a reason to be afraid of skating. It's a reason to treat the hip the way you already treat your head and your wrists: as a joint worth actively protecting rather than hoping to avoid landing on.
-
-## What hip pads actually are
-
-The category is usually sold as "impact shorts" or "hip protectors" — padded shorts, similar in cut to compression shorts, with foam inserts positioned directly over each hip and sometimes the tailbone. You wear them under your regular clothes, so from the outside you just look like you're skating in normal pants.
-
-They don't prevent a fall. Nothing does, reliably, and any product that claims otherwise is overselling. What they do is disperse and absorb the impact energy when you do land on your hip, the same basic principle as a helmet for your skull or a wrist guard for your wrist — reducing the force that actually reaches the bone.
-
-## What's improved
-
-If your mental image of hip pads is the bulky, diaper-like protectors from decades of downhill and hockey gear, it's worth updating. The impact shorts sold for skating and other action sports today are built from thinner, more breathable foam than older designs, cut close enough to the body that they don't show under jeans or joggers, and light enough that most skaters forget they're wearing them within a session or two. That's the real barrier that's fallen away — not effectiveness, but the previous cost of looking and feeling like you're wearing armor to skate a flat parking lot.
-
-## Who should actually wear them
-
-I don't think every adult skater needs hip pads for every session. Where I do recommend them:
-
-- **If you're relearning falling itself.** In your first few months back, before your reflexes for catching a fall have returned, you're more likely to go down in a way you don't control — which often means landing on whatever part of you happens to hit first, hip included.
-- **If you skate bowls, ramps, or transitions.** These surfaces produce more sideways and backward falls than flat-ground street skating, where falls tend to be more forward and are more often caught by wrist guards.
-- **If you have any reason to think your bone density is lower than average** — a prior fracture from a minor fall, a family history of osteoporosis, or a doctor who's already flagged it. This is a conversation worth having with your GP if you're not sure, not something to self-diagnose.
-
-## How to choose a pair
-
-Fit matters more than brand. Try them on under the pants you'll actually skate in — if they bunch, ride up, or feel restrictive at the hip crease when you crouch into a stance, you won't wear them past the first session. Look for a pair with pads that sit directly over the hip bone when you're standing in your normal skate stance, not just centered on the outer thigh. If you tend to fall backward onto your tailbone as often as sideways onto your hip, a version with a removable tailbone insert is worth the small extra cost.
-
-## The honest pitch
-
-Nobody skates better because they're wearing hip pads. You skate exactly the same. The only difference shows up on the one day you didn't plan for — the day you catch an edge you didn't see coming. That's the entire case for wearing any protective gear, and there's no good reason the hip should be the joint we leave out.
 
 
 ### What Skateboarding Actually Costs in 2026
@@ -1587,7 +1547,11 @@ Often skipped, occasionally important. If you're working on drops or steep trans
 
 ## Hip pads
 
-Niche but useful for bowl skating or any session where you're working on new maneuvers with a high fall rate. Hip fractures in older adults are serious. Companies like Demon and Hyperlite make padded shorts that look like regular shorts.
+The gap most adult skaters don't know exists. A sideways fall — the kind that happens catching an edge or losing balance mid-carve — tends to land you on the meaty part of the hip, right over the bony point called the greater trochanter. Past 40, and especially past 50, that's a different calculus than it was at 20: bone density has usually started declining, and a hip injury has a well-documented tendency to disrupt mobility and independence for far longer than a wrist or ankle injury of similar severity.
+
+Hip pads are usually sold as "impact shorts" or "hip protectors" — padded shorts you wear under your regular clothes, with foam positioned over each hip and sometimes the tailbone. They don't prevent a fall; they absorb and disperse the impact energy if you land on your hip, the same principle as a helmet for your skull. Recent versions run thinner and more breathable than the bulky designs of a decade ago and don't show under jeans or joggers.
+
+Worth wearing if you're still relearning how to fall (the first few months back, before your reflexes for catching a fall have returned), you skate bowls, ramps, or transitions — which produce more sideways and backward falls than flat-ground street skating — or you have any reason to think your bone density is lower than average, which is worth a quick check with your GP if you're not sure.
 
 ## What to skip
 
@@ -2099,7 +2063,7 @@ Shorter sessions with real breaks tend to work better than one long push, becaus
 
 ## The line between discomfort and a warning sign
 
-Ordinary muscle fatigue and a bit of stiffness the next day are normal for anyone getting back into a physical activity — that's not your old injury talking, that's just deconditioning. What isn't normal, and what should stop a session immediately: sharp pain localized to the joint line, any catching or locking sensation, or a feeling that the joint might give way. Those are mechanical signals, not the ordinary soreness of getting back in shape, and they're worth an actual assessment before your next session rather than pushing through.
+Ordinary muscle fatigue and a bit of stiffness the next day, roughly in line with what any deconditioned muscle feels after new activity, are normal for anyone getting back into a physical activity. But with an arthritic or previously injured joint, don't wave that off by default — stiffness that's worse than your usual baseline, lasts well past a day, or comes with visible swelling can mean the joint is flaring or being loaded harder than it's ready for, not just ordinary deconditioning. And some signals should stop a session immediately regardless of how mild the rest of it felt: sharp pain localized to the joint line, any catching or locking sensation, or a feeling that the joint might give way. All of that — a flare, unusual swelling, or a mechanical symptom — is worth an actual assessment before your next session rather than pushing through on the assumption that it's just soreness.
 
 ## The real answer
 
