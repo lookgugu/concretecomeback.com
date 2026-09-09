@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-09T15:30:13.504Z
+# Date: 2026-09-09T15:22:51.837Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -1340,44 +1340,6 @@ A fourth option that's worth mentioning: surf skates like the Carver CX4 or YOW 
 If you're genuinely unsure, start with a cruiser. It has the lowest barrier to entry, is immediately enjoyable, and you can always pick up a popsicle deck later once you know what you actually want from skating.
 
 
-### What to Eat Before and After Skating When You're Over 40
-Practical, no-hype nutrition guidance for adult skaters — what to eat before a session, what helps recovery after, and what actually matters.
-
-Most of what gets written about sports nutrition is aimed at people training for competition, and it shows: precise ratios, supplement stacks, timing windows measured in minutes. If you're an adult skating two or three times a week for fitness and fun, almost none of that is necessary. But a handful of basics genuinely do make a difference in how you feel during a session and how you recover from it — and they're simpler than the industry makes them sound.
-
-## Before a session: enough fuel, not a ritual
-
-**Don't skate on empty if you can help it.** Low blood sugar mid-session shows up as shakiness, poor concentration, and a sudden drop in coordination — exactly the state you don't want when you're balancing on a moving board. For most people, a light meal or snack with some carbohydrate and a bit of protein an hour or two before skating is usually enough to prevent this. If you manage diabetes with insulin or another glucose-lowering medication, this general advice isn't a substitute for your own monitoring and treatment plan — follow that plan, carry fast-acting carbohydrate, and talk to your care team about how exercise affects your dosing rather than relying on a pre-session snack alone.
-
-**Keep it simple and familiar.** This isn't the time to try a new pre-workout food or supplement. Oatmeal, a banana with peanut butter, toast with eggs — whatever you already know sits well with you. Adult digestion is less forgiving of surprises than it used to be, and nausea mid-session is worse than mild hunger.
-
-**Hydrate before you're thirsty.** By the time you feel thirsty, you're already somewhat behind. A glass or two of water in the hour before you head out, especially if it's warm, puts you in a better starting position than trying to catch up once you're sweating.
-
-## During a session: mostly about water
-
-For sessions under about 90 minutes, water is enough for most adult skaters — you don't need a sports drink or electrolyte mix unless you're sweating heavily in hot weather or skating for a long stretch. If you are out for longer, or it's genuinely hot, an electrolyte drink helps replace what you're losing through sweat and can stave off the fatigue and cramping that dehydration brings on.
-
-Bring water with you rather than assuming you'll get to a fountain. Skateparks are notorious for being either sunnier or emptier of amenities than you'd expect.
-
-## After a session: this is where it actually matters
-
-The window after exercise — roughly the couple of hours following a session — is when your body is primed to use nutrients for repair. You don't need to sprint to a protein shake the second you take your pads off, but eating a real meal within a couple of hours does more for recovery than waiting until you're starving six hours later.
-
-**Protein matters more as you age.** Muscle repair and maintenance both depend on adequate protein, and the ability to build and preserve muscle from a given amount of protein declines somewhat with age — a phenomenon researchers call anabolic resistance. The practical takeaway isn't complicated: adults who are staying active should generally aim for more protein per meal than they might have needed in their twenties, spread across the day rather than loaded into one meal. Eggs, dairy, poultry, fish, legumes, and tofu are all solid, ordinary sources — you don't need a powder to get there, though a shake is a convenient option if a real meal isn't practical right after a session.
-
-**Anti-inflammatory foods help with the aftermath.** Skating causes normal, expected inflammation as muscles repair — that's part of how they get stronger. Foods rich in omega-3s (fatty fish, walnuts, flaxseed), and a diet generally heavy in vegetables and fruit, support that repair process without over-suppressing it. This isn't about eliminating inflammation; a little of it is doing useful work. It's about giving your body good raw material to work with.
-
-**Rehydrate properly.** Water is usually enough after a moderate session. If you skated hard, sweated a lot, or skated in heat, replacing electrolytes — through food or a drink — helps more than water alone, since sweat carries out sodium and other minerals along with fluid.
-
-## What you can mostly ignore
-
-There's a large market of supplements aimed specifically at "masters athletes" — collagen powders, joint-specific blends, recovery-branded everything. Some of these have reasonable evidence behind individual ingredients; plenty are marketing dressed as science ([our joint supplements post](/blog/joint-supplements-for-adult-skaters/) goes through the evidence one ingredient at a time). If you're already eating a reasonably varied diet with adequate protein, most adult recreational skaters don't need to build a supplement routine to skate well and recover reasonably. If joint discomfort is a specific, ongoing issue for you, that's a conversation for a doctor or physiotherapist who can look at your actual situation — not a shelf of powders.
-
-## The realistic version of this advice
-
-You don't need a meal plan to skate well in your 40s or 50s. You need to not skate on an empty stomach, drink water before you're desperate for it, eat a real meal with decent protein within a couple of hours of finishing, and pay attention to how your own body responds. Adjust from there. The goal isn't optimization — it's making sure nutrition is one less thing working against you when you're out there trying to have a good session.
-
-
 ### The 10-Minute Warm-Up That Keeps 40+ Skaters Off the Injury List
 A simple, time-stamped pre-skate warm-up for adult skaters — ankle, hip, and wrist prep that takes ten minutes and prevents the injuries that end seasons.
 
@@ -2220,54 +2182,6 @@ Skating together creates a shared language and a shared reference. You both know
 That shared physical experience is relatively rare in parent-child relationships past a certain age, and it turns out to be valuable. Not because of anything profound — just because you're doing something together that's genuinely difficult, genuinely fun, and genuinely mutual.
 
 Get on the board. Let them be ahead of you. It's fine.
-
-
-### Why Sleep Is Your Secret Weapon as an Adult Skater
-How sleep affects motor skill learning, injury recovery, and balance for adult skaters — and practical ways to protect it around your sessions.
-
-I used to think the work happened at the skatepark. You show up, you push through something new and clumsy, you leave a little better than you arrived. That's true as far as it goes. But a chunk of the actual learning — the part where a shaky, conscious movement turns into something your body just does — happens later, while you're asleep and not thinking about skating at all.
-
-That's not a metaphor. It's how motor learning works, and it matters more for adult skaters than almost anyone talks about.
-
-## The overnight part of learning a skill
-
-When you practice a new movement — a tic-tac, a kick turn, holding a line through a bowl — your brain doesn't fully lock it in during the session itself. A meaningful part of skill consolidation happens afterward, especially during deep sleep, when the brain replays and strengthens the neural patterns tied to what you just practiced. Sleep researchers have documented this "offline learning" effect across all kinds of motor skills, from finger-tapping sequences to full-body movement.
-
-Practically, this means a rough, frustrating session where nothing clicked isn't wasted. Your body is still doing something with it overnight. And it means a poor night's sleep after a good session can genuinely blunt how much of that session sticks. Skip the sleep, and you're leaving some of the day's progress on the table.
-
-## Why this hits differently after 40
-
-Younger skaters can get away with erratic sleep and still improve, because their recovery systems are more forgiving. Adult bodies are less forgiving on both ends of the equation.
-
-**Recovery slows down.** Deep sleep is when the body does most of its physical repair — clearing inflammation, rebuilding tissue, replenishing the systems that got taxed during a session. Adults naturally get somewhat less deep sleep than they did at 20, which means the repair work has to be more efficient with what it has. Consistently cutting sleep short compounds that shortfall.
-
-**Balance is more sleep-sensitive than people expect.** Balance and reaction time both degrade measurably under sleep deprivation — this shows up in general research on fatigue and postural control, not just skating-specific studies. For a sport where balance is the entire premise, showing up under-slept is showing up with one of your core tools dulled.
-
-**Injury risk goes up.** Fatigue slows reaction time and degrades judgment about what you can safely attempt. An unfamiliar feature that you'd normally back away from on a well-rested day looks more attemptable when you're tired and less able to accurately judge risk. That's a bad combination at any age, and adults have less margin for the resulting injuries.
-
-## What good sleep actually looks like for a skater
-
-You don't need a perfect sleep-tracking setup. A few basics cover most of it.
-
-**Aim for a consistent range, not a magic number.** Most adults do best somewhere between seven and nine hours. The consistency — going to bed and waking around the same time — matters almost as much as the total, because it keeps your body's internal rhythm predictable.
-
-**Protect the night after a hard session.** If you had a session where you pushed yourself — new terrain, more falls than usual, real physical effort — that night's sleep is doing more work than an average night. Treat it accordingly: skip the late screen time, don't schedule something that'll cut your night short.
-
-**Watch alcohol on skate nights.** Alcohol can make you fall asleep faster but fragments the second half of the night, cutting into the deep and REM sleep that does the consolidation and repair work. A few drinks after an evening session might feel like a fine way to unwind, but it's working against the recovery you just earned.
-
-**Get morning light if you can.** Morning sunlight exposure helps anchor your circadian rhythm, which makes falling asleep at a consistent time easier. If your sessions are early, you're already doing this by accident.
-
-**Don't let soreness itself wreck your sleep.** Achy legs and forearms can make it hard to get comfortable. A hot shower before bed, a supportive pillow between the knees for side sleepers, or simply moving gently before bed can reduce how much soreness interferes with actually falling asleep.
-
-## Naps count too
-
-If you skate in the morning and feel the afternoon crash, a short nap — twenty to thirty minutes — can help without wrecking your ability to sleep that night. Longer naps, or naps too close to bedtime, are more likely to backfire. Use naps as a supplement to a decent night's sleep, not a replacement for one.
-
-## The trade-off nobody wants to make
-
-Here's the uncomfortable part: sometimes the choice is between an extra session this week and a full night's sleep, and the honest answer is that the sleep usually wins. A tired body learns less, falls harder, and heals slower. Three well-rested sessions a week will generally get you further than five sessions squeezed in on insufficient sleep. [Our recovery-days guide](/blog/recovery-days-for-adult-skaters/) covers how to space those sessions.
-
-This isn't about treating sleep as one more discipline to feel guilty about. It's closer to the opposite: it's permission to protect your rest without feeling like you're being lazy about skating. The work you did at the park doesn't finish when you leave. Some of the most important part happens later, in bed, doing nothing that looks like skating at all.
 
 
 ### The Strength Gap: 4 Muscles Every Adult Skater Neglects
