@@ -1,0 +1,220 @@
+export const DISMISSAL_MS = 30 * 24 * 60 * 60 * 1000;
+// Mirrors TOKEN_TTL_MS in functions/packages/forms/newsletter/newsletter.js.
+// Once the link in the confirmation email has expired, the prompt may return so
+// the visitor can request a fresh one.
+export const PENDING_MS = 2 * 60 * 60 * 1000;
+// Fired on document when any CTA gets a confirmation email sent, so the other
+// CTAs mounted on the same page can stand down.
+const SIGNUP_EVENT = 'cc:newsletter-pending';
+const GENERIC_ERROR = 'Signup is temporarily unavailable. Please try again.';
+
+// Even reading the `localStorage` global throws when a browser blocks site data,
+// so resolve it once, defensively, and treat "no storage" as "never suppressed".
+function getStorage() {
+  try { return window.localStorage; } catch (_error) { return null; }
+}
+
+// Where this visitor already is in the signup flow, independent of whether they
+// dismissed the popup. The inline CTA keys off this alone: dismissing the popup
+// silences the popup, not every mention of the newsletter on the site.
+export function signupCompletionState(storage, now = Date.now()) {
+  if (!storage) return null;
+  try {
+    const signupStatus = storage.getItem('cc-newsletter-status');
+    if (signupStatus === 'subscribed') return 'subscribed';
+    if (signupStatus === 'pending') {
+      const pendingAt = Number(storage.getItem('cc-newsletter-pending-at') || 0);
+      if (pendingAt > 0 && now - pendingAt < PENDING_MS) return 'pending';
+    }
+    return null;
+  } catch (_error) {
+    return null;
+  }
+}
+
+export function isSignupSuppressed(storage, now = Date.now()) {
+  if (!storage) return false;
+  if (signupCompletionState(storage, now)) return true;
+  try {
+    const dismissedAt = Number(storage.getItem('cc-newsletter-dismissed-at') || 0);
+    return dismissedAt > 0 && now - dismissedAt < DISMISSAL_MS;
+  } catch (_error) {
+    return false;
+  }
+}
+
+// Escape closes the panel only when the visitor is actually in it, and never
+// while they are typing: the Escape that closes a browser autofill dropdown is
+// delivered to the page as well, and swallowing a half-typed address is worse
+// than leaving the panel open.
+export function shouldHideOnEscape(event, activeElement, panel) {
+  if (event.key !== 'Escape' || event.defaultPrevented) return false;
+  if (!activeElement || !panel.contains(activeElement)) return false;
+  if (typeof activeElement.value === 'string' && activeElement.value !== '') return false;
+  return true;
+}
+
+function track(event, source) {
+  window.dataLayer = window.dataLayer || [];
+  window.dataLayer.push(source ? { event, newsletter_source: source } : { event });
+}
+
+export function initNewsletterSignup(panel) {
+  const form = panel.querySelector('form');
+  const closeButton = panel.querySelector('[data-newsletter-close]');
+  const status = panel.querySelector('[data-newsletter-status]');
+  const announcer = panel.querySelector('[data-newsletter-announce]');
+  const storage = getStorage();
+  if (!form || !closeButton || !status || isSignupSuppressed(storage)) return;
+
+  let shown = false;
+  let timer;
+  const show = () => {
+    if (shown || isSignupSuppressed(storage)) return;
+    shown = true;
+    panel.hidden = false;
+    requestAnimationFrame(() => panel.dataset.visible = 'true');
+    // The panel never takes focus — it is an unsolicited promo, not a dialog —
+    // so the one way assistive tech learns it exists is a polite live region.
+    if (announcer) announcer.textContent = 'Newsletter signup available: get the monthly Concrete Comeback roundup.';
+    track('newsletter_popup_shown');
+    window.removeEventListener('scroll', onScroll);
+    clearTimeout(timer);
+  };
+  const onScroll = () => {
+    const scrollable = document.documentElement.scrollHeight - window.innerHeight;
+    if (scrollable > 0 && window.scrollY / scrollable >= 0.5) show();
+  };
+
+  let pageViews = 1;
+  try {
+    pageViews = Number(sessionStorage.getItem('cc-page-views') || 0) + 1;
+    sessionStorage.setItem('cc-page-views', String(pageViews));
+  } catch (_error) {}
+
+  timer = window.setTimeout(show, pageViews >= 2 ? 1500 : 45000);
+  window.addEventListener('scroll', onScroll, { passive: true });
+
+  // Only the explicit close button records the 30-day dismissal. Escape hides
+  // the panel for this page alone, so a stray keypress cannot silence it for a month.
+  const hide = (persist, event = 'newsletter_popup_dismissed') => {
+    if (panel.dataset.visible !== 'true') return;
+    panel.dataset.visible = 'false';
+    if (persist) {
+      try { if (storage) storage.setItem('cc-newsletter-dismissed-at', String(Date.now())); } catch (_error) {}
+    }
+    // A retreat is not a dismissal: counting one as the other would report a
+    // successful inline conversion as the visitor rejecting the popup.
+    if (event) track(event);
+    window.setTimeout(() => { panel.hidden = true; }, 200);
+  };
+
+  closeButton.addEventListener('click', () => hide(true));
+  document.addEventListener('keydown', (event) => {
+    if (shouldHideOnEscape(event, document.activeElement, panel)) hide(false);
+  });
+
+  // If the visitor signs up through the in-post CTA, the popup retreats rather
+  // than repeating the confirmation — and without recording a dismissal, which
+  // is reserved for the visitor actually closing it.
+  bindNewsletterForm(panel, {
+    storage,
+    source: 'popup',
+    onOtherSignup: () => {
+      clearTimeout(timer);
+      window.removeEventListener('scroll', onScroll);
+      shown = true;
+      hide(false, 'newsletter_popup_stood_down');
+    },
+  });
+}
+
+// The submit path is identical for the popup and the in-post CTA, so both bind
+// it here: one place that knows the endpoint contract, the pending bookkeeping
+// and the error copy. Only the presentation around it differs.
+export function bindNewsletterForm(panel, { storage = getStorage(), source, onOtherSignup } = {}) {
+  const form = panel.querySelector('form');
+  const status = panel.querySelector('[data-newsletter-status]');
+  if (!form || !status) return false;
+
+  if (onOtherSignup) {
+    document.addEventListener(SIGNUP_EVENT, (event) => {
+      if (event.detail && event.detail.panel === panel) return;
+      onOtherSignup();
+    });
+  }
+
+  form.addEventListener('submit', async (event) => {
+    event.preventDefault();
+    const submitButton = form.querySelector('button[type="submit"]');
+    if (submitButton) submitButton.disabled = true;
+    status.textContent = 'Sending your confirmation email…';
+    track('newsletter_signup_submitted', source);
+    try {
+      // DO Functions only parses JSON and form-urlencoded bodies into the action's
+      // arguments; a multipart FormData body arrives base64-encoded instead and the
+      // fields never reach the function. Send urlencoded and let the browser set
+      // the matching content type.
+      const result = await fetch(form.action, {
+        method: 'POST',
+        body: new URLSearchParams(new FormData(form)),
+        headers: { Accept: 'application/json' },
+      });
+      // DO masks any 5xx from the function with a generic HTML error page, so a
+      // JSON body is not guaranteed. Never surface a parser error to the visitor.
+      const payload = await result.json().catch(() => null);
+      if (!result.ok || !payload || !payload.ok) {
+        throw new Error((payload && payload.error) || GENERIC_ERROR);
+      }
+      form.hidden = true;
+      status.textContent = 'Check your inbox and confirm your subscription.';
+      try {
+        if (storage) {
+          storage.setItem('cc-newsletter-status', 'pending');
+          storage.setItem('cc-newsletter-pending-at', String(Date.now()));
+        }
+      } catch (_error) {}
+      track('newsletter_signup_pending', source);
+      try {
+        document.dispatchEvent(new CustomEvent(SIGNUP_EVENT, { detail: { panel } }));
+      } catch (_error) {}
+    } catch (error) {
+      status.textContent = error instanceof Error ? error.message : GENERIC_ERROR;
+      if (submitButton) submitButton.disabled = false;
+      track('newsletter_signup_error', source);
+    }
+  });
+
+  return true;
+}
+
+// The in-post CTA is part of the page, not an interruption: it is always
+// visible, never records a dismissal, and has no timers or scroll triggers.
+// A visitor who has already signed up sees the outcome instead of the form.
+export function showCompletedState(panel, state) {
+  const form = panel.querySelector('form');
+  const status = panel.querySelector('[data-newsletter-status]');
+  if (form) form.hidden = true;
+  if (status) {
+    status.textContent = state === 'subscribed'
+      ? "You're subscribed to the monthly roundup."
+      : 'Check your inbox and confirm your subscription.';
+  }
+}
+
+export function initInlineNewsletterSignup(panel) {
+  const storage = getStorage();
+  const state = signupCompletionState(storage);
+  if (state) {
+    showCompletedState(panel, state);
+    return;
+  }
+  // A page can mount both CTAs, so the one that wasn't submitted has to be told:
+  // neither reads storage again after init, and leaving a live form next to
+  // "check your inbox" invites a duplicate submission.
+  bindNewsletterForm(panel, {
+    storage,
+    source: 'in_post',
+    onOtherSignup: () => showCompletedState(panel, 'pending'),
+  });
+}

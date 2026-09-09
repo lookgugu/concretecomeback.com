@@ -11,8 +11,10 @@ export default defineConfig({
     sitemap({
       changefreq: 'weekly',
       priority: 0.7,
+      // Keep noindex confirmation/outcome pages out of the sitemap.
       filter: (page) =>
         !page.includes('/thank-you') &&
+        !page.includes('/newsletter/') &&
         !page.includes('/draft/'),
     }),
   ],
