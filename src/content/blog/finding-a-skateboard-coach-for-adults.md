@@ -8,15 +8,15 @@ authorBio: "Physiotherapist and skater. Came back to skating at 49 and hasn't st
 tags: ["getting-started", "coaching", "beginner", "community"]
 ---
 
-There is a meaningful difference between finding other adults who skate and finding someone who can actually teach you to skate. This post is about the second thing.
+Finding other adults who skate and finding someone who can teach you to skate are two different problems. This post is about the second.
 
-Adult-specific skateboard coaching barely existed five years ago. It's a real category now, with qualified instructors who understand the specific needs of adult learners — different fear responses, different recovery timelines, different motivations, and different learning styles from the teenagers that skate coaching historically aimed at.
+Adult-specific skateboard coaching barely existed five years ago. It's a real category now, with instructors who understand what adult learners need: different fear responses, different recovery timelines, and different learning styles from the teenagers skate coaching has historically been built around.
 
-Finding a good coach can compress months of frustrated self-teaching into a few focused sessions. Knowing what to look for — and what to avoid — is worth knowing before you search.
+A good coach can compress months of frustrated self-teaching into a few focused sessions. Here's what to look for.
 
-## What Makes an Adult-Specific Coach Different
+## What makes an adult-specific coach different
 
-Most skateboard coaches learned to teach by coaching teenagers or children. The skills are different for adult learners in several ways:
+Most skateboard coaches learned to teach by coaching children and teenagers. Adult learners differ in several ways:
 
 **Adults process fear consciously.** A teenager drops into a ramp because the peer group is watching and the hesitation feels worse than the risk. An adult drops into a ramp when they've calculated the risk, understood the technique, and decided they're ready. A coach who understands this uses explanation and progressive exposure rather than peer pressure or "just do it" encouragement.
 
@@ -26,7 +26,7 @@ Most skateboard coaches learned to teach by coaching teenagers or children. The 
 
 **Recovery time affects session structure.** Teenagers can skate until they're exhausted and come back the next day. Adults need adequate rest between sessions, and within sessions, need more recovery time between attempts. A coach who runs adult sessions like teenage sessions will create soreness that discourages return.
 
-## What to Look For
+## What to look for
 
 When evaluating a coach, ask or observe:
 
@@ -40,7 +40,7 @@ When evaluating a coach, ask or observe:
 
 **Can they explain what they're teaching?** Ask a prospective coach to explain why keeping your weight over your front foot is important on a pushing stroke. If the answer is "you just do it" rather than an actual biomechanical explanation, the coaching won't work as well for an adult learner.
 
-## Where to Find Adult Skateboard Coaches
+## Where to find them
 
 **Local skate shops.** The most reliable source. Staff at adult-friendly skate shops almost always know which coaches in the area work well with adults. Some shops organise or refer directly to adult coaching sessions.
 
@@ -54,7 +54,7 @@ When evaluating a coach, ask or observe:
 
 **Eventbrite and local event listings.** Adult skating workshops and clinics are increasingly appearing on mainstream event platforms. Searching "skateboarding workshop adults [your city]" in Eventbrite often surfaces events you wouldn't find through skate-specific channels.
 
-## Red Flags
+## Red flags
 
 Avoid coaches or sessions that:
 
@@ -65,7 +65,7 @@ Avoid coaches or sessions that:
 - Have no protocol for managing fear — "just go for it" as the only tool
 - Don't wear safety gear themselves (modeling matters)
 
-## What Your First Lesson Should Cover
+## What your first lesson should cover
 
 A well-structured first session with a good adult skate coach should include:
 
@@ -90,6 +90,6 @@ Adult skate coaching rates in 2026 vary by region and format:
 - **Day clinic format:** $100–$200 for a half or full day
 - **Multi-day retreat with coaching:** $400–$800 including accommodation
 
-For most returning adult skaters, two to four individual sessions to establish fundamentals — then group or self-directed practice — is more cost-effective than ongoing individual lessons. Once you have technique and some confidence, the skatepark community and your own practice will carry you further than weekly coaching.
+For most returning adults, two to four individual sessions to establish fundamentals, then group or self-directed practice, works out better than ongoing weekly lessons. Once you have technique and some confidence, the park and your own practice carry you further than a coach will.
 
-The investment in those first few sessions, though, pays off quickly. The fundamentals learned properly in a coaching session stick. The habits developed through uninformed trial and error take much longer to correct.
+Those first sessions do pay off, though. Fundamentals learned properly stick; habits picked up through uninformed trial and error take a long time to correct.

@@ -37,6 +37,6 @@ Soft wheels (78a–87a) do more to absorb vibration from rough pavement than any
 
 Skating-specific shoes are built with flat soles for board feel, which sounds great until you're skating three times a week in your late 40s and your heels start aching. Consider adding an aftermarket insole with heel cushioning. Nike SB, Vans Pro, and Emerica all make models with decent built-in cushioning, but even those benefit from a Superfeet or Spenco insole.
 
-## The insoles argument
+## Insoles
 
-This is the gear upgrade that returning adult skaters most commonly overlook. Skating repeatedly on hard surfaces transfers a lot of impact through your heel to your knees and hips. A proper sport insole — not a cheap drugstore one — is a $40–60 investment that can make a meaningful difference in how your knees feel after a session.
+The gear upgrade returning adult skaters most commonly overlook. Skating on hard surfaces transfers a lot of impact through your heel up to your knees and hips. A proper sport insole — not a drugstore one — runs $40–60 and changes how your knees feel after a session.
