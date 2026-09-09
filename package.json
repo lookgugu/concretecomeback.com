@@ -7,7 +7,10 @@
     "build": "node scripts/generate-llms.mjs && astro build",
     "preview": "astro preview",
     "test": "node --test functions/packages/forms/submit/submit.test.js functions/packages/forms/newsletter/newsletter.test.js src/scripts/submit-form.test.js src/scripts/submit-error-page.test.js src/scripts/newsletter-signup.test.js",
-    "astro": "astro"
+    "astro": "astro",
+    "agent:parks": "./scripts/auto-park-agent.sh",
+    "agent:parks:status": "./scripts/auto-park-agent.sh --status",
+    "agent:parks:force": "./scripts/auto-park-agent.sh --force"
   },
   "dependencies": {
     "@astrojs/mdx": "^7.0.0",
