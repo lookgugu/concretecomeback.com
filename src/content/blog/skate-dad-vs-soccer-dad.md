@@ -12,7 +12,7 @@ draft: false
 
 For most of the last few decades, being a sports parent meant a folding chair. You show up, you sit on the sideline, you watch, you drive home. It's a fine arrangement, and plenty of parents are genuinely happy in the chair. But a different pattern has been showing up at skateparks for a while now, and it's worth naming: parents who don't watch from the sideline because there isn't one. They're on a board too.
 
-Call it the skate dad phenomenon, though it's just as often a skate mom, aunt, or older sibling. The shape of it is the same either way — an adult who could easily just supervise chooses instead to participate, badly at first, alongside their kid. This isn't really a piece about how to manage that dynamic once you're doing it — I've written that one already. This is about the why: what it says about the kind of sports-parent culture a lot of adults are quietly opting out of.
+Call it the skate dad phenomenon, though it's just as often a skate mom, aunt, or older sibling. The shape of it is the same either way — an adult who could easily just supervise chooses instead to participate, badly at first, alongside their kid. This isn't really a piece about how to manage that dynamic once you're doing it — I've written [that one](/blog/skating-with-your-kids/) already. This is about the why: what it says about the kind of sports-parent culture a lot of adults are quietly opting out of.
 
 ## The chair is optional at a skatepark
 
@@ -46,6 +46,6 @@ That's a different value proposition than "quality time with your kid," even tho
 
 ## The practical part lives elsewhere
 
-If you're sold on the idea and want the actual playbook — how to handle the fact that your kid will likely outpace you fast, how to avoid turning the session into unsolicited coaching, how to structure a joint session so it works for both skill levels — that's a separate, more practical piece worth reading before your first session together. This one is just the case for showing up with a board instead of a chair in the first place.
+If you're sold on the idea and want the actual playbook — how to handle the fact that your kid will likely outpace you fast, how to avoid turning the session into unsolicited coaching, how to structure a joint session so it works for both skill levels — that's [how to skate with your kids without making it awkward](/blog/skating-with-your-kids/), worth reading before your first session together. This one is just the case for showing up with a board instead of a chair in the first place.
 
 The folding chair will still be there if it doesn't take. But a lot of parents who've tried getting on the board instead aren't going back to it.
