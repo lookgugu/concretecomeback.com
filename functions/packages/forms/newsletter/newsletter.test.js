@@ -160,12 +160,47 @@ test('confirming reactivates an existing contact with a single update', async ()
     const token = createToken('returning@example.com', process.env.NEWSLETTER_CONFIRM_SECRET);
     const result = await main({ http: { method: 'POST' }, confirmation_token: token });
     assert.equal(result.headers.location, '/newsletter/confirmed/');
-    assert.equal(requests.length, 1);
+    assert.equal(requests.length, 2);
     assert.equal(requests[0].url, 'https://api.resend.com/contacts/returning%40example.com');
     assert.equal(requests[0].options.method, 'PATCH');
     assert.deepEqual(JSON.parse(requests[0].options.body), { unsubscribed: false });
     assert.ok(requests[0].options.signal instanceof AbortSignal);
+    assert.equal(
+      requests[1].url,
+      'https://api.resend.com/contacts/returning%40example.com/segments/35b5b4f0-ac74-4ffa-b7d3-620e4f0014ed',
+    );
+    assert.equal(requests[1].options.method, 'POST');
   });
+});
+
+test('a returning subscriber is still confirmed when the segment add fails', async () => {
+  const requests = [];
+  await withEnvironment(async (url, options) => {
+    requests.push({ url, options });
+    return requests.length === 1 ? { ok: true, status: 200 } : { ok: false, status: 500 };
+  }, async () => {
+    const token = createToken('returning@example.com', process.env.NEWSLETTER_CONFIRM_SECRET);
+    const result = await main({ http: { method: 'POST' }, confirmation_token: token });
+    assert.equal(result.headers.location, '/newsletter/confirmed/');
+    assert.equal(requests.length, 2);
+  });
+});
+
+test('NEWSLETTER_SEGMENT_ID overrides the built-in segment', async () => {
+  const requests = [];
+  process.env.NEWSLETTER_SEGMENT_ID = 'override-segment';
+  try {
+    await withEnvironment(async (url, options) => {
+      requests.push({ url, options });
+      return { ok: true, status: 200 };
+    }, async () => {
+      const token = createToken('returning@example.com', process.env.NEWSLETTER_CONFIRM_SECRET);
+      await main({ http: { method: 'POST' }, confirmation_token: token });
+      assert.equal(requests[1].url, 'https://api.resend.com/contacts/returning%40example.com/segments/override-segment');
+    });
+  } finally {
+    delete process.env.NEWSLETTER_SEGMENT_ID;
+  }
 });
 
 test('confirming a new address creates the contact only after the update reports 404', async () => {
@@ -181,7 +216,11 @@ test('confirming a new address creates the contact only after the update reports
     assert.equal(requests[0].options.method, 'PATCH');
     assert.equal(requests[1].url, 'https://api.resend.com/contacts');
     assert.equal(requests[1].options.method, 'POST');
-    assert.deepEqual(JSON.parse(requests[1].options.body), { email: 'skater@example.com', unsubscribed: false });
+    assert.deepEqual(JSON.parse(requests[1].options.body), {
+      email: 'skater@example.com',
+      unsubscribed: false,
+      segments: [{ id: '35b5b4f0-ac74-4ffa-b7d3-620e4f0014ed' }],
+    });
     assert.ok(requests[1].options.signal instanceof AbortSignal);
   });
 });
