@@ -32,7 +32,7 @@ Look for:
 
 ## Keep a ready-to-go bag, not a car full of gear
 
-The single biggest thing that makes this habit stick: don't make yourself pack a bag every morning. Pack one kit — board, helmet, wrist guards, a pair of shoes you don't mind skating in — and keep it by the door, ready to grab on your way out. The only decision each morning should be whether to swing by the park, not whether you remembered your gear.
+The single biggest thing that makes this habit stick: don't make yourself pack a bag every morning. Pack one kit — board, certified skate helmet, rigid-splint wrist guards, full-cup knee pads if your middle block ever touches a bank or transition, a pair of flat-soled skate shoes — and keep it by the door, ready to grab on your way out. The only decision each morning should be whether to swing by the park, not whether you remembered your gear.
 
 Don't leave it sitting in the trunk long-term, especially in warm weather. A parked car can get hot enough to quietly degrade a helmet's foam liner and adhesives — with no visible sign that it's happened — and the same heat swings aren't good for a board's urethane parts either. Load the bag in when you leave and bring it back in when you're done, rather than treating the car as permanent storage.
 
