@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-09T15:30:40.370Z
+# Date: 2026-09-09T15:30:43.783Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -928,7 +928,7 @@ What you have control over is how you fall. Treat it as a skill worth practicing
 ### How to Start a Skate Moms Crew in Your City
 A step-by-step playbook for starting your own adult skate crew — picking a park, setting a schedule, and getting past the awkward first session.
 
-A few Brooklyn moms who started skating together at a local park have been getting a lot of attention lately — local news segments, a growing Instagram following, other women in other cities asking how to do the same thing where they live. What they built isn't complicated. It's a handful of women who show up to the same park at the same time most weeks, and who made it easy for other women to find them.
+The [Brooklyn Skate Moms](https://www.instagram.com/brooklynskatemoms/) started as a few mothers skating together between school drop-off and work. In 2024 they were profiled by [CBS New York](https://www.cbsnews.com/newyork/news/brooklyn-moms-skateboarding/), Fox 5 and The New York Times, and other women in other cities started asking how to do the same thing where they live. What they built isn't complicated. It's a handful of women who show up to the same park at the same time most weeks, run a monthly event, and made it easy for other women to find them.
 
 You don't need a following to start one. You need a park, a time, and one other person willing to show up twice.
 

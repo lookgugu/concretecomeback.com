@@ -10,7 +10,7 @@ featured: false
 draft: false
 ---
 
-A few Brooklyn moms who started skating together at a local park have been getting a lot of attention lately — local news segments, a growing Instagram following, other women in other cities asking how to do the same thing where they live. What they built isn't complicated. It's a handful of women who show up to the same park at the same time most weeks, and who made it easy for other women to find them.
+The [Brooklyn Skate Moms](https://www.instagram.com/brooklynskatemoms/) started as a few mothers skating together between school drop-off and work. In 2024 they were profiled by [CBS New York](https://www.cbsnews.com/newyork/news/brooklyn-moms-skateboarding/), Fox 5 and The New York Times, and other women in other cities started asking how to do the same thing where they live. What they built isn't complicated. It's a handful of women who show up to the same park at the same time most weeks, run a monthly event, and made it easy for other women to find them.
 
 You don't need a following to start one. You need a park, a time, and one other person willing to show up twice.
 
