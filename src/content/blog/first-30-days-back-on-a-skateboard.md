@@ -38,9 +38,9 @@ This is also, unhelpfully, when a lot of people push too hard too fast, because 
 
 ## Days 21–30: reading your own soreness
 
-By the third and fourth week, most people can tell the difference between productive fatigue and a warning sign, mostly because they've now felt both. Productive soreness is symmetric, muscular, and improves with movement and rest. A warning sign is usually sharp, localized to a joint rather than a muscle, and doesn't improve — sometimes gets worse — with the same rest that fixes ordinary soreness.
+By the third and fourth week, most people can tell the difference between productive fatigue and a warning sign, mostly because they've now felt both. Skating loads your pushing and stance legs differently, so ordinary soreness doesn't have to be even on both sides, and it doesn't have to stay out of a joint or skip tendons to still be ordinary. What actually separates it from a real problem is the same pattern from earlier: does it ease with the rest and light movement that fixes normal soreness, or does it stay focal to one specific spot, keep getting worse instead of better, or limit what that area can actually do.
 
-If something in a joint feels different from the general ache you've gotten used to, that's the signal to actually stop and let it settle rather than skate through it, even if it means missing a session you were looking forward to. One missed week is a much smaller cost than turning a minor strain into a six-week layoff.
+If something feels different from the general ache you've gotten used to by that measure — worsening instead of easing, or limiting your grip, your weight-bearing, your range of motion — that's the signal to actually stop and let it settle rather than skate through it, even if it means missing a session you were looking forward to. One missed week is a much smaller cost than turning a minor strain into a six-week layoff.
 
 By day thirty, most returning adults have a genuinely different relationship with their own body on a board than they had on day one. The awkwardness of session one is mostly gone. What's left is a rough sense of your own limits, which is exactly the thing that lets you push against them safely.
 
