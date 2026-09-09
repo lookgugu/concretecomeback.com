@@ -12,7 +12,9 @@ draft: false
 
 When I came back to skating at 46, I did what most returning adults do without thinking about it: I gravitated toward flat ground and street-style obstacles, because that's what I skated as a teenager. It took me longer than it should have to figure out that transition — bowls, ramps, the curved stuff — was actually the better place for me to be rebuilding from.
 
-If you're deciding where to spend your early sessions, here's the case for starting in a bowl instead of on the street.
+One prerequisite before any of this applies: you need flat-ground control first. Pushing, stopping, turning both ways, and stepping off the board on purpose should all feel automatic before you roll into anything with a slope — a bowl adds speed you didn't ask for, and pads don't substitute for being able to bail under control. The site's [8-week return plan](/blog/8-week-return-plan-adult-skaters/) treats that flat-ground phase as the essential first block and introduces transition only once it's there; this post is about where to go next.
+
+If you're deciding where to spend your first sessions after that, here's the case for choosing a bowl over the street.
 
 ## The fall is different, and that matters more than you think
 
@@ -35,6 +37,8 @@ Street skating on flat ground involves a lot of repeated impact — pushing, oll
 Bowl and transition skating spreads load differently. Pumping generates speed through a rolling, weighted motion rather than repeated jarring landings. There's real physical effort involved — pumping a bowl works your legs and core hard — but it's a different kind of effort than absorbing repeated flat-ground impacts, and it tends to be more forgiving on joints that are already a few decades into wear and tear.
 
 ## Where to start if you're new to transition
+
+**Have the flat-ground basics down first.** If you can't yet push, stop, turn and step off under control on flat ground, that's the session to have, not this one. Come back to the bowl once those feel automatic.
 
 **Find a mellow bowl or the shallow end of a pool-style feature.** Most parks have some kind of graduated transition — a bank that eases into a wall, a bowl with a shallow and deep end. Start at the shallowest, most gradual part.
 
