@@ -2,6 +2,7 @@
 title: "The Adult Skater's Guide to Protective Gear"
 description: "Everything you need to know about helmets, pads, and wrist guards for returning adult skaters — what to buy, what to skip, and what will actually protect you."
 pubDate: 2025-11-22
+updatedDate: 2026-09-09
 author: "Jo Fairweather"
 authorAge: 52
 tags: ["safety", "protective-equipment", "gear", "beginner"]
