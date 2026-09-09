@@ -14,7 +14,7 @@ A few years ago, if you wanted to skate without feeling like the oldest person a
 
 ## What "Old Man Monday" actually looks like
 
-Prime Skatepark in Plymouth, UK, runs a weekly session called Old Man Monday, from 8 to 10pm every Monday. It's not exclusively for skaters over 40 — all wheels and all ages are welcome — but the pricing tells you who it's built around: general entry is £7.50, while skaters over 40 pay £5. That's a small thing, but it signals something bigger: the park is actively inviting an age group that often assumes it isn't welcome, rather than just tolerating them.
+Prime Skatepark in Plymouth, UK, runs a weekly Monday-evening session called [Old Man Monday](https://primedelux.com/pages/old-man-monday) (Prime's session timetable lists it as 8 to 10pm; the session's own page says 7 to 10pm, so check before you go). It's not exclusively for skaters over 40 — all wheels are welcome, and you don't have to skate to hang out in the café — but the pricing tells you who it's built around: general entry is £7.50, while skaters over 40 pay £5 at the door. That's a small thing, but it signals something bigger: the park is actively inviting an age group that often assumes it isn't welcome, rather than just tolerating them.
 
 The atmosphere is the real draw. Regulars describe it as more social than a typical evening session — old friends catching up, newcomers being shown the ropes, a mixed-ability, mixed-gender crowd that isn't there to perform for anyone. It's built to feel like a hangout that happens to involve skateboards, not a session where you need to prove you belong.
 
@@ -32,7 +32,7 @@ There's no single directory of these sessions yet, so a bit of legwork is requir
 
 - **Call or message your local skatepark or skate shop directly** and ask if they run (or would consider running) an adult or over-40 session. Many parks that don't advertise this kind of session will still informally support it if a few regulars ask.
 - **Check the shop's or park's Instagram and Facebook page.** Sessions like this tend to get promoted through social posts and stories rather than a static events page.
-- **Ask in local adult-skater Facebook groups or on r/OldSkaters.** If a session like this exists in your area, the people organizing or attending it are usually active in those spaces.
+- **Ask in local adult-skater Facebook groups or on r/OldSkaters.** If a session like this exists in your area, the people organizing or attending it are usually active in those spaces. [Our guide to finding other adult skaters](/blog/finding-other-adult-skaters/) lists the channels that work.
 - **Look for "veterans," "masters," or "35+" nights**, not just "over 40" — parks use different labels for the same idea.
 
 ## Starting one if it doesn't exist

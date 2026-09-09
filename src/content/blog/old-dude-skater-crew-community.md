@@ -14,7 +14,7 @@ I run adult skate sessions in Portland, so I pay attention when another group fi
 
 ## What ODSC is
 
-Old Dude Skater Crew started in Corpus Christi, Texas, and the name itself came from one of its early members, Arnold Mendiola. From there, the group's real growth happened in Denver, and it's since built active chapters in Denver, Phoenix, and Portland. It operates as a nonprofit, and proceeds from merchandise sales go to charitable causes rather than back into the organization.
+Old Dude Skater Crew started in Corpus Christi, Texas, and the name itself came from one of its early members, Arnold Mendiola. From there, the group's real growth happened in Denver, and it's since built active chapters in Denver, Phoenix, and Portland, Oregon, where Irving Savage runs the crew that makes its shirts. It operates as a nonprofit, and proceeds from merchandise sales go to charitable causes rather than back into the organization. (A July 2026 [Valley News feature on the rise of the middle-aged skateboarder](https://myvalleynews.com/blog/2026/07/29/the-rise-of-the-middle-aged-skateboarder/) tells the origin story in more detail.)
 
 The crew is open to a wide range of people: some members are returning to skating after decades away, others are picking up a board for the first time in their 40s, 50s, or beyond. What unites them isn't skill level — it's the decision to reconnect with skating, and each other, later in life than the sport typically expects.
 
@@ -34,7 +34,7 @@ It's also a useful myth-buster. Skateparks have a long-standing reputation, not 
 
 ## How to find or start something similar
 
-**Search for existing chapters or crews in your area first.** Search "[your city] adult skate crew" or "[your city] old skaters" on Facebook and Instagram before assuming nothing exists. Groups like ODSC are often more locally active than their web presence suggests.
+**Search for existing chapters or crews in your area first.** Search "[your city] adult skate crew" or "[your city] old skaters" on Facebook and Instagram before assuming nothing exists. Groups like ODSC are often more locally active than their web presence suggests. [Our guide to finding other adult skaters](/blog/finding-other-adult-skaters/) covers the other channels worth checking.
 
 **If nothing exists, don't wait for someone else to build it.** The pattern with groups like this is almost always the same: a small handful of people who kept showing up at the same park, started recognizing each other, and eventually decided to make it official with a name and a group page. You don't need permission or a big plan — you need three or four regulars and a shared name.
 
