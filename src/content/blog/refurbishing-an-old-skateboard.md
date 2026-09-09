@@ -18,7 +18,7 @@ If you've got an old board sitting in a garage, closet, or your parents' basemen
 
 The deck is the part most likely to have quietly failed. Wood doesn't age gracefully in a garage — humidity swings, temperature changes, and just time all work against it.
 
-Peel off the old grip tape before you judge the deck — grip can hide a crack or a patch of delamination right at the surface, and you don't want to clear a deck you haven't actually seen. Then check for:
+Peel off the old grip tape and pull both trucks before you judge the deck — grip can hide a crack or a patch of delamination right at the surface, and the area under each baseplate, around the mounting holes, is exactly where the board takes the most stress and is impossible to see with the trucks still on. Then check for:
 
 - **Delamination** — press along the edges and nose/tail. Any soft give, crackling sound, or visible separation between the layers of ply means the deck is compromised structurally, not just cosmetically.
 - **Cracks**, especially near the truck mounting holes, where the board takes the most repeated stress.
