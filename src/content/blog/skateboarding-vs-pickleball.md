@@ -1,5 +1,5 @@
 ---
-title: "If Pickleball Isn't Calling You, Try a Skateboard"
+title: "Skateboarding Is the Anti-Pickleball. That's the Point."
 description: "Pickleball owns the '40+ active adult' conversation right now. Here's the case for skateboarding as the alternative for a different kind of person."
 pubDate: 2026-08-18
 author: "Sam Torres"

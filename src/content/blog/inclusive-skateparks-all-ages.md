@@ -1,7 +1,8 @@
 ---
-title: "Skateparks Are Being Designed for More Than Teenagers"
+title: "The New Wave of Skateparks Being Built for Adults Like You"
 description: "All-ages skatepark design is becoming standard in new builds. What it looks like, why it helps returning adults, and how to work with the park you've actually got."
 pubDate: 2026-07-15
+updatedDate: 2026-09-09
 author: "Sam Torres"
 authorAge: 44
 authorBio: "Came back to skating at 40. Community organiser and one of the founders of the Portland Adult Skate Sessions."

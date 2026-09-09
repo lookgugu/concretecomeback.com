@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-09T15:25:19.580Z
+# Date: 2026-09-09T15:27:40.152Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -964,7 +964,7 @@ If you find yourself needing more support gear every session just to get through
 Used well, compression, tape, and braces are legitimate tools that help a lot of adult skaters manage ordinary joint stress and get more comfortable sessions out of a body that's asking for a bit more support than it used to. Used as a permanent workaround for something that needs real attention, they're just delaying a conversation you'll eventually have to have anyway.
 
 
-### Skateparks Are Being Designed for More Than Teenagers
+### The New Wave of Skateparks Being Built for Adults Like You
 All-ages skatepark design is becoming standard in new builds. What it looks like, why it helps returning adults, and how to work with the park you've actually got.
 
 Most skateparks were not designed with you in mind, and that's design history rather than a grievance. Parks built in the 1990s and 2000s existed to give teenagers somewhere to skate that wasn't the street. Features were steep, surfaces were sometimes rough, and the assumed user was a 16-year-old with fast reflexes and a high pain tolerance.
@@ -1748,7 +1748,7 @@ That was true, and it was also the least of it.
 
 What skating gave me back, more than fitness, was a reliable way to exit my own head for ninety minutes. The kind of focus skating demands — present on the board, on the surface, on what's in front of you — doesn't leave much room for whatever you were worrying about before you arrived.
 
-I can't point you to a definitive study on skateboarding and midlife mental health; the research on it is thin and mostly qualitative. What follows is the mechanism as I understand it, plus what other returning adults consistently report.
+I can't point you to a definitive clinical study on skateboarding and midlife mental health; the research is thin and mostly qualitative. The closest thing is Dr Paul O'Connor's work at the University of Exeter, [published in December 2021](https://news-archive.exeter.ac.uk/2021/december/articles/skateboardinghelpsmiddle-.html): thirty interviews with middle-aged skateboarders in the UK and Hong Kong, written up in the book *Lifestyle Sports and Identities*. His participants described skating as a serious emotional outlet after relationship breakdowns, career trouble and substance problems, a way to reconnect with their children, and an identity separate from the rest of their lives. That's interviews, not a trial, so treat it as a description of what people report rather than proof of an effect. What follows is the mechanism as I understand it, plus what other returning adults consistently say.
 
 ## Why it works
 
@@ -1787,7 +1787,7 @@ If you're returning to skating specifically because you're struggling with anxie
 **Try a morning session.** Forty-five minutes on the board before the inbox and the commute sets a different tone for the day than most morning routines manage. Worth testing at least once if your schedule allows it.
 
 
-### If Pickleball Isn't Calling You, Try a Skateboard
+### Skateboarding Is the Anti-Pickleball. That's the Point.
 Pickleball owns the '40+ active adult' conversation right now. Here's the case for skateboarding as the alternative for a different kind of person.
 
 Every "best sports for adults over 40" list published in the last few years opens with pickleball. Easy to learn, social, low-impact, and it has taken over rec centers and converted tennis courts everywhere. That's all fair — pickleball is a good option for a lot of people.

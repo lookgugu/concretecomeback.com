@@ -2,6 +2,7 @@
 title: "Skateboarding as Balance Training After 40"
 description: "Balance training is one of the few things that reliably holds off age-related decline. Skateboarding is a version of it people actually keep doing."
 pubDate: 2026-07-13
+updatedDate: 2026-09-09
 author: "Jo Fairweather"
 authorAge: 52
 authorBio: "Physiotherapist and skater. Came back to skating at 49 and hasn't stopped."

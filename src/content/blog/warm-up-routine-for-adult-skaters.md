@@ -2,6 +2,7 @@
 title: "The 10-Minute Warm-Up Every Adult Skater Should Do First"
 description: "A simple warm-up for adult skaters that targets the ankles, wrists, hips, and knees before you push off."
 pubDate: 2026-08-14
+updatedDate: 2026-09-09
 author: "Jo Fairweather"
 authorAge: 52
 authorBio: "Physiotherapist and skater. Came back to skating at 49 and hasn't stopped."

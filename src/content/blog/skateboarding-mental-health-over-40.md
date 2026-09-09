@@ -2,6 +2,7 @@
 title: "Skateboarding and Mental Health in Your Forties"
 description: "Why a skate session reliably clears your head at 45 — the social, physical, and attentional parts of it, and what to expect in the first month."
 pubDate: 2026-07-10
+updatedDate: 2026-09-09
 author: "Marcus Webb"
 authorAge: 47
 authorBio: "Skated from ages 13–26, took a 20-year break, and came back at 46."
@@ -14,7 +15,7 @@ That was true, and it was also the least of it.
 
 What skating gave me back, more than fitness, was a reliable way to exit my own head for ninety minutes. The kind of focus skating demands — present on the board, on the surface, on what's in front of you — doesn't leave much room for whatever you were worrying about before you arrived.
 
-I can't point you to a definitive study on skateboarding and midlife mental health; the research on it is thin and mostly qualitative. What follows is the mechanism as I understand it, plus what other returning adults consistently report.
+I can't point you to a definitive clinical study on skateboarding and midlife mental health; the research is thin and mostly qualitative. The closest thing is Dr Paul O'Connor's work at the University of Exeter, [published in December 2021](https://news-archive.exeter.ac.uk/2021/december/articles/skateboardinghelpsmiddle-.html): thirty interviews with middle-aged skateboarders in the UK and Hong Kong, written up in the book *Lifestyle Sports and Identities*. His participants described skating as a serious emotional outlet after relationship breakdowns, career trouble and substance problems, a way to reconnect with their children, and an identity separate from the rest of their lives. That's interviews, not a trial, so treat it as a description of what people report rather than proof of an effect. What follows is the mechanism as I understand it, plus what other returning adults consistently say.
 
 ## Why it works
 
