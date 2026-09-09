@@ -14,7 +14,7 @@ const sorted = groups.sort((a, b) => {
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'ItemList',
-  name: 'Adult Skating Groups & Communities Directory',
+  name: 'Groups & Communities for Older Skaters',
   numberOfItems: groups.length,
   itemListElement: sorted.map((group, i) => ({
     '@type': 'ListItem',
@@ -25,8 +25,8 @@ const jsonLd = {
 };
 ---
 <DirectoryLayout
-  title="Skating Groups & Communities | Adults 40+"
-  description="Find skating groups and communities for adults 40+ in the US, UK, Canada, and Australia. In-person meetups and online communities."
+  title="Skating Groups & Communities | Older Skaters"
+  description="Find skating groups and communities for older skaters in the US, UK, Canada, and Australia. In-person meetups and online communities."
   breadcrumbs={[{ label: 'Directory', href: '/directory' }, { label: 'Groups', href: '/directory/groups' }]}
   totalCount={groups.length}
   structuredData={jsonLd}
