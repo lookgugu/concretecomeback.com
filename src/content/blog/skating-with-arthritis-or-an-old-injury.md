@@ -20,6 +20,8 @@ I want to give a more useful answer than "probably shouldn't," because for most 
 
 The general medical consensus on arthritis specifically has shifted a lot over the last couple of decades: appropriate movement is now understood to help arthritic joints, not just tolerate them, by keeping surrounding muscle strong and the joint itself better lubricated and mobile. The old instinct to protect a joint by resting it is, for most arthritis, backwards. The real question isn't movement versus rest — it's which kind of movement, at what intensity, on which surfaces.
 
+One distinction matters before any of the advice below: this post is about osteoarthritis, the wear-and-tear kind, and old mechanical injuries. If you have an inflammatory arthritis — rheumatoid or psoriatic arthritis, for example — the movement-helps principle still applies between flares, but an active flare is a reason to stay off the board until it settles, and your rheumatologist, not a skate blog, is the one to set the boundaries.
+
 ## Have the actual conversation, not the hallway version
 
 Before you get back on a board, it's worth one proper appointment with a physio or sports medicine doctor — not to ask permission, but to get specific information:
