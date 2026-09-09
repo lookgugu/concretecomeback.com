@@ -41,13 +41,13 @@ Skating develops several distinct aspects of balance that transfer to everyday m
 
 The obvious objection to "skating trains balance" is "skating also causes falls." That's fair, and worth taking seriously rather than waving off.
 
-Wrists are the problem, not hips or heads. The mechanism is almost always the same: an instinctive hand-catch on an outstretched arm. Wrist guards with a rigid splint prevent most of it, and they're not optional if you're skating regularly.
+Wrists are the most common injury. The mechanism is almost always the same: an instinctive hand-catch on an outstretched arm. Wrist guards with a rigid splint prevent most of it, and they're not optional if you're skating regularly. Common is not the same as most serious, though. A sideways fall onto the hip or a backward fall onto the head is rarer and matters more, particularly past 50 when bone density has started to drop — [the protective gear guide](/blog/safety-gear-guide/) covers hip protectors for exactly that reason, and a helmet reduces the severity of a head impact rather than removing the risk.
 
 Beyond that, the risk depends far more on how you skate than whether you skate:
 
 - Smooth skatepark concrete produces fewer surprise falls than rough outdoor pavement
 - Skating at your current level rather than the one you remember reduces fall frequency
-- A helmet handles the worst-case outcome
+- A certified skate helmet every session, and full-cup knee pads and hip protection once you're on transition, limit how bad the rarer falls get
 
 There is also a baseline risk in doing nothing. Adults who avoid anything balance-challenging in their 40s and 50s lose proprioception, ankle stability, and reactive balance on a fairly predictable curve. With protective gear on, skating trades a manageable short-term risk against that.
 
