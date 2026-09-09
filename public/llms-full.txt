@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-09T14:30:39.964Z
+# Date: 2026-09-09T14:37:02.576Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -2057,9 +2057,9 @@ Bring a description of what skateboarding actually involves — pushing, carving
 
 **An old ACL tear or ligament repair:** The movements to be most careful with are sharp, sudden pivots under load — a toe-side carve you rush, or twisting to catch your balance after a near-fall. Smooth, wide, predictable turns are much kinder to a reconstructed or lax ligament than tight, sudden ones. If your knee has ever felt like it might "give way," that's specific and worth mentioning to your physio by name — it usually points to a stability issue worth addressing with targeted strength work before you push mileage.
 
-**Chronic ankle instability (a history of repeated sprains):** This is one of the more skate-compatible old injuries, provided you support it — a supportive skate shoe (see our [shoe guide for adults](/blog/skate-shoes-for-adults-over-40/)), ankle taping or a low-profile brace, and sticking to smooth, even surfaces while you rebuild confidence. Uneven ground, not skating itself, is usually what re-injures an unstable ankle.
+**Chronic ankle instability (a history of repeated sprains):** A supportive skate shoe (see our [shoe guide for adults](/blog/skate-shoes-for-adults-over-40/)), ankle taping, or a low-profile brace all help, but treat them as backup, not the fix. An ankle that keeps rolling needs the proprioceptive and neuromuscular retraining a physio would give you for it — balance work, single-leg stability drills, peroneal strengthening — before it needs a brace. And don't assume smooth ground makes you safe: skating can still provoke an inversion sprain on perfectly even concrete, from an awkward push-off, a hard landing, or catching a near-fall wrong, not just from uneven surfaces. Build the ankle's own stability before you rely on gear to compensate for its absence.
 
-**Plantar fasciitis or other foot pain:** Check your insoles and shoe fit before anything else — a lot of foot pain during skating comes from inadequate cushioning under the arch, not the sport itself.
+**Plantar fasciitis or other foot pain:** Insoles and shoe fit are worth checking, but they're not the whole fix if the pain is already established — plantar fasciitis is largely a load problem, and cushioning alone won't outrun too much volume too soon. Shorter sessions while it settles, calf and plantar fascia stretching, and foot/ankle strengthening work do more than a shoe swap on their own. If it's persistent or getting worse rather than better, that's worth an actual assessment rather than continuing to adjust gear around it.
 
 ## Structuring sessions around a compromised joint
 
