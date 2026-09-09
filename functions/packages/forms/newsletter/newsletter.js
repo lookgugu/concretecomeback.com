@@ -12,6 +12,15 @@ const CONFIRM_BUDGET_MS = 12000;
 const DEFAULT_REQUEST_TIMEOUT_MS = 8000;
 const MIN_REQUEST_TIMEOUT_MS = 1000;
 const SITE_URL = 'https://concretecomeback.com';
+// Resend segment that separates this site's subscribers from the other lists in
+// the shared Resend team. Not a secret, so it is hard-coded rather than injected
+// through functions/project.yml, where an unresolved ${VAR} aborts the deploy of
+// the whole forms package. NEWSLETTER_SEGMENT_ID overrides it if the segment is
+// ever recreated.
+const DEFAULT_SEGMENT_ID = '35b5b4f0-ac74-4ffa-b7d3-620e4f0014ed';
+function segmentId() {
+  return process.env.NEWSLETTER_SEGMENT_ID || DEFAULT_SEGMENT_ID;
+}
 
 function response(statusCode, body, contentType = 'application/json') {
   return {
@@ -210,10 +219,24 @@ async function confirmSignup(token) {
       }
       const createResult = await resendRequest('/contacts', apiKey, {
         method: 'POST',
-        body: JSON.stringify({ email, unsubscribed: false }),
+        body: JSON.stringify({ email, unsubscribed: false, segments: [{ id: segmentId() }] }),
       }, deadline);
       if (!createResult.ok) {
         throw new Error(`Contact missing (update 404), create failed with ${createResult.status}`);
+      }
+    } else {
+      // A returning subscriber was created before the segment existed, or by
+      // another site sharing this Resend team. Segment membership is how the
+      // subscriber count is read, but it is bookkeeping: a failure here must not
+      // bounce someone who just confirmed to the error page.
+      const segmentResult = await resendRequest(
+        `/contacts/${encodeURIComponent(email)}/segments/${encodeURIComponent(segmentId())}`,
+        apiKey,
+        { method: 'POST' },
+        deadline,
+      );
+      if (!segmentResult.ok) {
+        console.warn('Newsletter segment add failed', { code: 'segment_add_failed', status: segmentResult.status });
       }
     }
     return redirect('/newsletter/confirmed/');
