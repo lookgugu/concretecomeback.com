@@ -10,7 +10,7 @@ featured: false
 draft: false
 ---
 
-We've written before about why short sessions beat long ones for building skill. This isn't that post. This one is about a narrower, more stubborn problem: even once you've accepted that fifteen or twenty minutes is enough, where do you actually find that window in a workday that's already full?
+We've written before about [why short sessions beat long ones](/blog/short-skate-sessions-adult-learners/) for building skill. This isn't that post. This one is about a narrower, more stubborn problem: even once you've accepted that fifteen or twenty minutes is enough, where do you actually find that window in a workday that's already full?
 
 For a lot of the adults in our sessions, the answer isn't "make more time." It's "use the time that's already sitting there, unclaimed, in the middle of the day."
 

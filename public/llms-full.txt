@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-09T15:31:12.007Z
+# Date: 2026-09-09T15:31:15.556Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -384,7 +384,7 @@ Beyond the physical overlap, skating has some practical advantages that make it 
 
 ## Starting point advice if you're coming from another sport
 
-Resist the urge to skip the fundamentals because you're already fit. Spend real time on pushing, stance, and basic turns before chasing anything that looks like a trick — your balance and cardio will make this phase feel easy, which is exactly what tempts people to rush past it. Get a certified skate helmet and wrist guards — non-negotiable from your very first session, whatever other sport made you fit for this one. Then drill falling on purpose before you're doing it for real, on grass or a real crash mat rather than pavement, starting from a crouch rather than full standing height, ideally with a coach or experienced skater walking you through it the first time. And treat your first few sessions as a different sport, not a variation on the one you already know. The overlap is real, but so is the learning curve, and respecting it is what turns a good crossover athlete into a good skater.
+Resist the urge to skip the fundamentals because you're already fit. Spend real time on pushing, stance, and basic turns before chasing anything that looks like a trick — your balance and cardio will make this phase feel easy, which is exactly what tempts people to rush past it. Get a certified skate helmet and wrist guards — non-negotiable from your very first session, whatever other sport made you fit for this one. Then drill falling on purpose before you're doing it for real — [our guide to falling safely after 40](/blog/how-to-fall-safely-after-40/) covers the technique — on grass or a real crash mat rather than pavement, starting from a crouch rather than full standing height, ideally with a coach or experienced skater walking you through it the first time. And treat your first few sessions as a different sport, not a variation on the one you already know. The overlap is real, but so is the learning curve, and respecting it is what turns a good crossover athlete into a good skater. If you've already done a midlife comeback in one of those other sports, [what surfing and cycling comebacks teach us about returning to skating](/blog/lessons-from-surfing-and-cycling-comebacks/) looks at what that experience does and doesn't prepare you for.
 
 
 ### Could an Electric Skateboard Be Your Comeback Vehicle?
@@ -1377,7 +1377,7 @@ If you're genuinely unsure, start with a cruiser. It has the lowest barrier to e
 ### The Lunch Break Skate: Fitting Real Sessions Into a Packed Adult Life
 A practical guide to squeezing genuine skate practice into a workday — nearby parks, early and late sessions, and a 25-minute lunch structure that works.
 
-We've written before about why short sessions beat long ones for building skill. This isn't that post. This one is about a narrower, more stubborn problem: even once you've accepted that fifteen or twenty minutes is enough, where do you actually find that window in a workday that's already full?
+We've written before about [why short sessions beat long ones](/blog/short-skate-sessions-adult-learners/) for building skill. This isn't that post. This one is about a narrower, more stubborn problem: even once you've accepted that fifteen or twenty minutes is enough, where do you actually find that window in a workday that's already full?
 
 For a lot of the adults in our sessions, the answer isn't "make more time." It's "use the time that's already sitting there, unclaimed, in the middle of the day."
 
@@ -2158,7 +2158,7 @@ A practical green/amber/red framework for deciding whether to skate, modify, or 
 
 A meaningful number of the adults I see in clinic aren't dealing with vague "aging joints" — they have an actual diagnosis. Osteoarthritis in a knee or hip. Old tendinitis that flares under load. A previous fracture that still talks to them when the weather changes. Generic advice about warming up and listening to your body is true but not specific enough to be useful when you're standing in your kitchen at 7am trying to decide whether today is a skate day.
 
-What I give patients instead is a simple three-zone framework — green, amber, red — for reading your own signals before a session and adjusting the plan accordingly. It's not a diagnosis tool and it doesn't replace your doctor or physio. It's a way to make a faster, more consistent decision than "I guess we'll see how it feels," which is where most people default to when they don't have a structure.
+What I give patients instead is a simple three-zone framework — green, amber, red — for reading your own signals before a session and adjusting the plan accordingly. It's not a diagnosis tool and it doesn't replace your doctor or physio. It also assumes you've already had the bigger conversation about whether and how to skate with your specific joint — [how to keep skating with arthritis or an old injury](/blog/skating-with-arthritis-or-an-old-injury/) covers that, including why this framework is written for osteoarthritis and old mechanical injuries rather than an inflammatory arthritis flare. It's a way to make a faster, more consistent decision than "I guess we'll see how it feels," which is where most people default to when they don't have a structure.
 
 ## Green: skate as planned
 

@@ -12,7 +12,7 @@ draft: false
 
 A meaningful number of the adults I see in clinic aren't dealing with vague "aging joints" — they have an actual diagnosis. Osteoarthritis in a knee or hip. Old tendinitis that flares under load. A previous fracture that still talks to them when the weather changes. Generic advice about warming up and listening to your body is true but not specific enough to be useful when you're standing in your kitchen at 7am trying to decide whether today is a skate day.
 
-What I give patients instead is a simple three-zone framework — green, amber, red — for reading your own signals before a session and adjusting the plan accordingly. It's not a diagnosis tool and it doesn't replace your doctor or physio. It's a way to make a faster, more consistent decision than "I guess we'll see how it feels," which is where most people default to when they don't have a structure.
+What I give patients instead is a simple three-zone framework — green, amber, red — for reading your own signals before a session and adjusting the plan accordingly. It's not a diagnosis tool and it doesn't replace your doctor or physio. It also assumes you've already had the bigger conversation about whether and how to skate with your specific joint — [how to keep skating with arthritis or an old injury](/blog/skating-with-arthritis-or-an-old-injury/) covers that, including why this framework is written for osteoarthritis and old mechanical injuries rather than an inflammatory arthritis flare. It's a way to make a faster, more consistent decision than "I guess we'll see how it feels," which is where most people default to when they don't have a structure.
 
 ## Green: skate as planned
 
