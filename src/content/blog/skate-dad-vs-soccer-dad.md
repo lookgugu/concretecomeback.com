@@ -34,7 +34,7 @@ Getting on a board yourself breaks that role structurally. You can't be a specta
 
 ## It's not about becoming a good skater
 
-Nobody needs to land a kickflip to make this work. The parents doing this well are not trying to keep pace with their teenager's progression. They're pushing, carving, falling on purpose in the flat area, and building just enough comfort on the board to be a genuine participant rather than a supervisor with a coffee. That's a low bar, and it's the right one — the goal isn't shared skill level, it's shared space.
+Nobody needs to land a kickflip to make this work. The parents doing this well are not trying to keep pace with their teenager's progression. They're pushing, carving, taking the occasional tumble, and building just enough comfort on the board to be a genuine participant rather than a supervisor with a coffee. That's a low bar, and it's the right one — the goal isn't shared skill level, it's shared space.
 
 This also means it doesn't require starting young or being naturally athletic. Plenty of the parents doing this are in their 40s and 50s, picking up a board for the first time or the first time in decades, wobbling around a flat section while their kid drops into the bowl on the other side of the park. Nobody at a skatepark expects a parent to be advanced. What they notice, and generally respect, is a parent who's actually trying instead of standing at the fence.
 
