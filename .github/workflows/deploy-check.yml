@@ -1,8 +1,9 @@
 name: Post-deploy smoke test
 
 # DigitalOcean auto-deploys on push to main. This confirms the deployed app can
-# actually reach the submit function — the failure mode documented in CLAUDE.md,
-# where the stored app spec drifts and /api returns "Couldn't route the request".
+# actually reach the submit and newsletter functions — the failure mode documented
+# in CLAUDE.md, where the stored app spec drifts and /api returns "Couldn't route
+# the request".
 
 on:
   push:
@@ -14,13 +15,18 @@ on:
 
 jobs:
   health:
-    name: Submit function health
+    name: Form function health
     runs-on: ubuntu-latest
     steps:
       # On push, production is still serving the PREVIOUS deploy and is already
       # healthy — probing straight away would pass without ever testing the new
       # build. `npm run build` stamps public/llms-full.txt with its start time, so
       # a stamp newer than this run proves the pushed deploy is the one live.
+      #
+      # The stamp file is served with s-maxage=86400, so Cloudflare will happily
+      # return the previous build's copy for 24h and this gate can never observe
+      # the new one. Each poll therefore appends a unique query param to miss the
+      # edge cache and reach the origin — do not "tidy" it away.
       - name: Wait for the pushed deployment to go live
         if: github.event_name == 'push'
         env:
@@ -31,7 +37,13 @@ jobs:
           echo "Run started at $(date -u -d "@$started" --iso-8601=seconds)"
 
           for i in $(seq 1 30); do
-            raw=$(curl -fsS --max-time 20 "$BUILD_STAMP_URL" 2>/dev/null \
+            # Unique per attempt: Cloudflare keys its cache on the full URL.
+            bust="cb=$(date -u +%s)-$i-$RANDOM"
+            case "$BUILD_STAMP_URL" in *\?*) url="$BUILD_STAMP_URL&$bust";; *) url="$BUILD_STAMP_URL?$bust";; esac
+
+            raw=$(curl -fsS --max-time 20 \
+                  -H 'Cache-Control: no-cache' -H 'Pragma: no-cache' \
+                  "$url" 2>/dev/null \
                   | sed -n 's/^# Date: //p' | head -1 | tr -d '\r')
             # Trim fractional seconds so GNU date parses it reliably.
             stamp=$(printf '%s' "$raw" | sed 's/\.[0-9]*Z$/Z/')
@@ -51,6 +63,8 @@ jobs:
 
           echo "::error::Timed out after 10 minutes waiting for the pushed deploy to go live."
           echo "The health check below was NOT run against the new build."
+          echo "Polls bypass the CDN, so this reflects the origin: check the DigitalOcean"
+          echo "deployment for '$GITHUB_SHA' rather than assuming a stale cache."
           exit 1
 
       - name: Poll submit-function health endpoint
@@ -81,9 +95,129 @@ jobs:
           echo "  2. Are RESEND_API_KEY and SUBMIT_NOTIFY_EMAIL set on the api component?"
           exit 1
 
+      - name: Poll newsletter-function health endpoint
+        env:
+          HEALTH_URL: https://concretecomeback.com/api/forms/newsletter?health=1
+        run: |
+          set -uo pipefail
+
+          for i in $(seq 1 10); do
+            body=$(curl -fsS --max-time 20 "$HEALTH_URL" || true)
+
+            if printf '%s' "$body" | jq -e \
+              '.ok == true and .hasSendKey == true and .hasContactsKey == true and .hasConfirmSecret == true' >/dev/null 2>&1; then
+              echo "Healthy on attempt $i: $body"
+              exit 0
+            fi
+
+            echo "Attempt $i/10 — not healthy yet: ${body:-<no response>}"
+            sleep 15
+          done
+
+          echo "::error::Newsletter function health check failed."
+          echo "Check, in order:"
+          echo "  1. Does the stored DO app spec still have the 'api' component?"
+          echo "     Re-apply with: doctl apps update <app-id> --spec .do/app.yaml"
+          echo "  2. Are RESEND_CONTACTS_API_KEY and NEWSLETTER_CONFIRM_SECRET set on the api component?"
+          exit 1
+
+      # DO only parses JSON and form-urlencoded bodies into a web action's arguments;
+      # a multipart body silently arrives base64-encoded and no field is ever read.
+      # The honeypot path returns 202 without contacting Resend, so it proves the
+      # posted fields reached the function without sending any email.
+      - name: Verify newsletter form fields reach the function
+        env:
+          NEWSLETTER_URL: https://concretecomeback.com/api/forms/newsletter
+        run: |
+          set -euo pipefail
+
+          body=$(curl -sS --max-time 20 \
+            -X POST \
+            -H 'Content-Type: application/x-www-form-urlencoded' \
+            --data '_gotcha=smoke-test&consent=yes&email=smoke-test@concretecomeback.com' \
+            "$NEWSLETTER_URL")
+
+          echo "Honeypot probe returned: ${body:-<no response>}"
+          if ! printf '%s' "$body" | jq -e '.ok == true and .status == "pending"' >/dev/null 2>&1; then
+            echo "::error::Newsletter honeypot probe did not return a pending response."
+            echo "A 400 here means the posted fields never reached the function —"
+            echo "check that the client sends application/x-www-form-urlencoded."
+            exit 1
+          fi
+
+      - name: Verify branded failure redirect and recovery links
+        env:
+          SUBMIT_URL: https://concretecomeback.com/api/forms/submit
+          ERROR_URL: https://concretecomeback.com/submit/error/
+        run: |
+          set -euo pipefail
+
+          headers=$(mktemp)
+          trap 'rm -f "$headers"' EXIT
+
+          status=$(curl -sS --max-time 20 -o /dev/null -D "$headers" \
+            -X POST \
+            -H 'Content-Type: application/x-www-form-urlencoded' \
+            --data 'listing-type=park' \
+            -w '%{http_code}' \
+            "$SUBMIT_URL")
+          location=$(sed -n 's/^[Ll]ocation: *//p' "$headers" | tr -d '\r' | tail -1)
+
+          echo "Failure probe returned HTTP $status with location ${location:-<missing>}"
+          if [ "$status" != '303' ] || [ "$location" != '/submit/error/' ]; then
+            echo "::error::Expected HTTP 303 with location /submit/error/."
+            exit 1
+          fi
+
+          page=$(curl -fsS --max-time 20 "$ERROR_URL")
+          for expected in \
+            'name="robots" content="noindex, nofollow"' \
+            'href="/submit/"' \
+            'href="/"' \
+            'href="/directory/"'; do
+            if ! grep -Fq "$expected" <<< "$page"; then
+              echo "::error::Branded error page is missing: $expected"
+              exit 1
+            fi
+          done
+
+          # Cloudflare Email Address Obfuscation rewrites mailto links at the
+          # edge. The source test requires the real address; production may
+          # legitimately expose the protected, functional equivalent instead.
+          if ! grep -Fq 'href="mailto:hello@concretecomeback.com"' <<< "$page"; then
+            if ! grep -Fq '/cdn-cgi/l/email-protection' <<< "$page"; then
+              echo "::error::Branded error page is missing its email fallback."
+              exit 1
+            fi
+          fi
+
+      - name: Verify honeypot success redirect
+        env:
+          SUBMIT_URL: https://concretecomeback.com/api/forms/submit
+        run: |
+          set -euo pipefail
+
+          headers=$(mktemp)
+          trap 'rm -f "$headers"' EXIT
+
+          status=$(curl -sS --max-time 20 -o /dev/null -D "$headers" \
+            -X POST \
+            -H 'Content-Type: application/x-www-form-urlencoded' \
+            --data '_gotcha=smoke-test' \
+            -w '%{http_code}' \
+            "$SUBMIT_URL")
+          location=$(sed -n 's/^[Ll]ocation: *//p' "$headers" | tr -d '\r' | tail -1)
+
+          echo "Honeypot probe returned HTTP $status with location ${location:-<missing>}"
+          if [ "$status" != '303' ] || [ "$location" != '/submit/thanks/' ]; then
+            echo "::error::Expected HTTP 303 with location /submit/thanks/."
+            exit 1
+          fi
+
       - name: Note on coverage
         if: success()
         run: |
-          echo "Route and both secrets are present."
+          echo "Route, all four secrets, branded failure recovery, newsletter field"
+          echo "decoding, and honeypot success are healthy."
           echo "A send-only Resend key can only be validated by an actual send —"
           echo "this check deliberately makes no outbound call."
