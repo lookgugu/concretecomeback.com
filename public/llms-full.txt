@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-09T00:53:03.955Z
+# Date: 2026-09-09T01:30:05.773Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -2744,7 +2744,7 @@ Website: https://h4wpc.org
 
 Opened along the Eastside Trail of the Atlanta BeltLine, Historic Fourth Ward Skatepark is the centerpiece of Atlanta's concrete skate scene. What makes it approachable for older skaters returning after years away is the deliberate zoning of its 28,000 square feet: beginner, intermediate, and advanced sections are visually and physically distinct, so novice or rusty lines do not collide with high-speed bowl carvers.
 
-The layout includes a series of three linked bowls ranging from a shallow, forgiving transition bowl up to a deep vert pocket, alongside a street snake run and open plaza with manageable banks, ledges, and low rails. Timer-controlled LED lighting keeps the park illuminated until 11pm. Parking is strictly on surrounding streets (such as Dallas Street and North Angier Avenue), and arriving during early morning hours guarantees the most open concrete.
+The layout includes a series of three linked bowls ranging from a shallow, forgiving transition bowl up to a deep vert pocket, alongside a street snake run and open plaza with manageable banks, ledges, and low rails. Timer-controlled LED lighting keeps the park illuminated until 11pm. Parking is strictly on surrounding streets (such as Willoughby Way and North Angier Avenue), and arriving during early morning hours guarantees the most open concrete.
 
 
 ### Kona Skatepark
