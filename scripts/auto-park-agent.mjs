@@ -264,6 +264,10 @@ async function main() {
     saveState(state);
 
     log(`Run finished (${state.last_status}). Next run scheduled for ${state.next_run} (in ${formatDuration(nextRun.getTime() - Date.now())}).`);
+
+    if (!success) {
+      process.exitCode = 1;
+    }
   } catch (err) {
     log(`Execution error: ${err.message}`);
     state.last_status = 'error';
@@ -272,6 +276,7 @@ async function main() {
     const retryRun = computeNextRun(minHours, maxHours, new Date());
     state.next_run = retryRun.toISOString();
     saveState(state);
+    process.exitCode = 1;
   } finally {
     releaseLock();
   }
