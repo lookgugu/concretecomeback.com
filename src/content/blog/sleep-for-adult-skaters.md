@@ -16,7 +16,7 @@ That's not a metaphor. It's how motor learning works, and it matters more for ad
 
 ## The overnight part of learning a skill
 
-When you practice a new movement — a tic-tac, a kick turn, holding a line through a bowl — your brain doesn't fully lock it in during the session itself. A meaningful part of skill consolidation happens afterward, especially during deep sleep, when the brain replays and strengthens the neural patterns tied to what you just practiced. Sleep researchers have documented this "offline learning" effect across all kinds of motor skills, from finger-tapping sequences to full-body movement.
+When you practice a new movement — a tic-tac, a kick turn, holding a line through a bowl — your brain doesn't fully lock it in during the session itself. A meaningful part of skill consolidation happens afterward, during sleep, when the brain replays and strengthens the neural patterns tied to what you just practiced. Sleep researchers have documented this "offline learning" effect across all kinds of motor skills, from finger-tapping sequences to full-body movement, though the exact sleep stages involved vary by task and are still being worked out.
 
 Practically, this means a rough, frustrating session where nothing clicked isn't wasted. Your body is still doing something with it overnight. And it means a poor night's sleep after a good session can genuinely blunt how much of that session sticks. Skip the sleep, and you're leaving some of the day's progress on the table.
 
