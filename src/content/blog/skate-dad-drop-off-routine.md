@@ -44,7 +44,7 @@ Thirty minutes sounds short, and it is — but it's enough if you don't waste it
 
 A workable shape:
 
-1. **First 10 minutes**: a real warm-up — ankles, hips, wrists, then easy pushing and rolling. Don't shorten this to make room for more skating; if time is genuinely tight, cut the middle block instead. A cold body is a bigger injury risk than a shorter session.
+1. **First 10 minutes**: a real warm-up — ankles, hips, knees, and wrists, then easy pushing and rolling. A few slow bodyweight squats cover the knees; don't skip them just because they're not the last thing on the list. Don't shorten this to make room for more skating; if time is genuinely tight, cut the middle block instead. A cold body is a bigger injury risk than a shorter session.
 2. **Middle 15 minutes**: pick one thing to work on and stay on it. This isn't the session for trying five different things. Repetition on one skill — a turn, a specific line, pumping through transitions — is what a short, frequent session is actually good for.
 3. **Last 5 minutes**: cool down, catch your breath, walk back to the car without rushing. Arriving at work slightly out of breath and flustered undercuts the whole point.
 

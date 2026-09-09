@@ -18,7 +18,7 @@ If you've got an old board sitting in a garage, closet, or your parents' basemen
 
 The deck is the part most likely to have quietly failed. Wood doesn't age gracefully in a garage — humidity swings, temperature changes, and just time all work against it.
 
-Check for:
+Peel off the old grip tape before you judge the deck — grip can hide a crack or a patch of delamination right at the surface, and you don't want to clear a deck you haven't actually seen. Then check for:
 
 - **Delamination** — press along the edges and nose/tail. Any soft give, crackling sound, or visible separation between the layers of ply means the deck is compromised structurally, not just cosmetically.
 - **Cracks**, especially near the truck mounting holes, where the board takes the most repeated stress.
@@ -39,7 +39,7 @@ Old wheels often look fine and aren't. Urethane hardens and can develop flat spo
 Trucks are metal, and metal holds up to sitting far better than urethane or wood. In most cases, old trucks are structurally fine. Still worth checking:
 
 - **The bushings, then the kingpin itself** — bushings are rubber or urethane and can harden or crack just like wheels; they're a cheap swap and worth doing on principle if the board sat for more than a few years. With the bushings off, check the kingpin underneath: it shouldn't be bent or cracked, the threads shouldn't be stripped, and the kingpin nut should tighten down securely. The kingpin is what holds the truck's steering assembly together, so don't skip this just because the bushings looked fine.
-- **Rust on the hanger or baseplate** — surface rust is cosmetic and can be cleaned off. Pitting or rust that's eaten into the metal is a different story and is a reason to replace that truck rather than trust it.
+- **Rust, cracks, or bending on the hanger or baseplate** — surface rust is cosmetic and can be cleaned off. Pitting or rust that's eaten into the metal is a different story. So is any stress crack, or a hanger or baseplate that isn't straight — sight down the truck to check alignment. Any of these is a reason to replace that truck rather than trust it.
 - **Loose or stripped mounting hardware** — cheap to replace, not worth the risk of skating on it.
 - **The axles themselves** — spin each wheel and check the axle isn't bent, that the threads aren't stripped, and that the axle nuts thread on smoothly and hold tight. This is separate from the deck-mounting hardware above, and it's the one that determines whether a wheel can work loose or bind while you're riding.
 - **The pivot cups** — the small urethane cup in the baseplate that the hanger's pivot sits in. It ages like the bushings: hardened, cracked or crumbled, it lets the hanger rock loosely in the baseplate and makes steering unpredictable. Check it while the truck is apart and replace it if it's anything other than intact and pliable; it costs a couple of dollars.
