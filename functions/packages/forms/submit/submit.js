@@ -2,23 +2,39 @@
 // Deployed as a DigitalOcean Functions web action; form-encoded body fields
 // arrive as properties of `args`.
 
-const FIELD_LABELS = [
-  ['listing-type', 'Listing type'],
-  ['name', 'Name'],
-  ['city', 'City'],
-  ['country', 'Country'],
-  ['website', 'Website'],
-  ['difficulty', 'Difficulty'],
-  ['adult-friendly', 'Adult friendly (40+)'],
-  ['entry-fee', 'Entry fee'],
-  ['instagram', 'Instagram'],
-  ['adult-advice', 'Adult advice offered'],
-  ['age-range', 'Age range'],
-  ['meet-frequency', 'Meeting schedule'],
-  ['is-online', 'Online-only'],
-  ['description', 'Description'],
-  ['email', 'Submitter email'],
+const FIELD_LABELS = {
+  'listing-type': 'Listing type',
+  name: 'Name',
+  city: 'City',
+  country: 'Country',
+  website: 'Website',
+  difficulty: 'Difficulty',
+  'adult-friendly': 'Welcoming to older skaters',
+  'entry-fee': 'Entry fee',
+  instagram: 'Instagram',
+  'adult-advice': 'Advice for older skaters offered',
+  'age-range': 'Age range',
+  'meet-frequency': 'Meeting schedule',
+  'is-online': 'Online-only',
+  description: 'Description',
+  email: 'Submitter email',
+};
+
+const COMMON_FIELDS = [
+  'listing-type',
+  'name',
+  'city',
+  'country',
+  'website',
+  'description',
+  'email',
 ];
+
+const TYPE_FIELDS = {
+  park: ['difficulty', 'adult-friendly', 'entry-fee'],
+  shop: ['instagram', 'adult-advice'],
+  group: ['age-range', 'meet-frequency', 'is-online'],
+};
 
 const REQUIRED = ['listing-type', 'name', 'city', 'country', 'description'];
 
@@ -45,19 +61,12 @@ function redirect(location) {
   return { statusCode: 303, headers: { location }, body: '' };
 }
 
-function errorPage(message) {
-  return {
-    statusCode: 502,
-    headers: { 'content-type': 'text/html; charset=utf-8' },
-    body: `<!doctype html><meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Submission failed</title>
-<div style="font-family:system-ui,sans-serif;max-width:32rem;margin:4rem auto;padding:0 1rem">
-<h1>Sorry — that didn't go through</h1>
-<p>${message}</p>
-<p><a href="/submit">Go back and try again</a>, or email us your listing directly at
-<a href="mailto:hello@concretecomeback.com">hello@concretecomeback.com</a>.</p>
-</div>`,
-  };
+function submissionFailure(code, detail = {}) {
+  // Keep diagnosis in provider logs, never in the redirect URL shown to visitors.
+  // Callers pass only field names, status codes, and provider error metadata —
+  // never form values, email contents, configuration values, or secrets.
+  console.error('Submission failed', { code, ...detail });
+  return redirect('/submit/error/');
 }
 
 // Post-deploy smoke test: GET /api/forms/submit?health=1 reports whether the
@@ -97,19 +106,27 @@ async function main(args) {
 
   const missing = REQUIRED.filter((key) => !String(args[key] || '').trim());
   if (missing.length > 0) {
-    return errorPage(`Some required fields were missing: ${missing.join(', ')}.`);
+    return submissionFailure('missing_required_fields', { fields: missing });
+  }
+
+  const listingType = String(args['listing-type']).trim();
+  if (!Object.hasOwn(TYPE_FIELDS, listingType)) {
+    return submissionFailure('invalid_listing_type');
   }
 
   const apiKey = process.env.RESEND_API_KEY;
   const notifyEmail = process.env.SUBMIT_NOTIFY_EMAIL;
   if (!apiKey || !notifyEmail) {
-    return errorPage('The form is not fully configured yet.');
+    const missingConfiguration = [];
+    if (!apiKey) missingConfiguration.push('RESEND_API_KEY');
+    if (!notifyEmail) missingConfiguration.push('SUBMIT_NOTIFY_EMAIL');
+    return submissionFailure('missing_configuration', { settings: missingConfiguration });
   }
 
-  const lines = FIELD_LABELS
-    .map(([key, label]) => {
+  const lines = [...COMMON_FIELDS, ...TYPE_FIELDS[listingType]]
+    .map((key) => {
       const value = String(args[key] || '').trim();
-      return value ? `${label}: ${value}` : null;
+      return value ? `${FIELD_LABELS[key]}: ${value}` : null;
     })
     .filter(Boolean);
 
@@ -121,7 +138,7 @@ async function main(args) {
   const payload = {
     from: 'Concrete Comeback <submissions@concretecomeback.com>',
     to: [notifyEmail],
-    subject: `New listing submission: ${String(args.name).trim()} (${args['listing-type']})`,
+    subject: `New listing submission: ${String(args.name).trim()} (${listingType})`,
     text: lines.join('\n'),
   };
   if (submitterEmail && isValidEmail) {
@@ -140,12 +157,16 @@ async function main(args) {
     });
     if (!res.ok) {
       const detail = await res.text().catch(() => '');
-      console.error('Resend API error', res.status, detail);
-      return errorPage('We could not deliver your submission right now.');
+      return submissionFailure('resend_api_error', {
+        status: res.status,
+        detail: detail.slice(0, 1000),
+      });
     }
   } catch (err) {
-    console.error('Resend request failed', err);
-    return errorPage('We could not deliver your submission right now.');
+    return submissionFailure('resend_request_failed', {
+      name: err instanceof Error ? err.name : 'UnknownError',
+      message: err instanceof Error ? err.message : String(err),
+    });
   }
 
   return redirect('/submit/thanks/');

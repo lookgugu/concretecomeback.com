@@ -13,4 +13,4 @@ featured: false
 addedDate: 2025-09-15
 ---
 
-DLX is more of an industry shop than an adult-specific shop, but the level of skateboarding knowledge among staff is exceptional. If you want expert help building a custom setup without being steered toward trendy products, this is the place.
+DLX is more of an industry shop than an adult-specific shop, but the level of skateboarding knowledge among staff is exceptional. If you want expert help building a custom setup without being steered toward trendy products, this is the place. It sits less than a mile east of SoMa West Skatepark on Duboce Avenue, making it an easy stop for hardware or fresh wheels before an under-freeway session.
