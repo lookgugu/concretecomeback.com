@@ -58,7 +58,7 @@ An e-scooter or a folding bike will usually get you there faster and with less p
 
 Skating to run an errand adds low-key aerobic activity and balance work to a trip you were going to make anyway, without requiring you to find a separate hour for it. That's a real advantage over treating skating purely as scheduled "workout time" — the movement gets folded into a day that was already busy, rather than competing with everything else for a slot on the calendar.
 
-It's not a replacement for a proper session at the park, and it's not trying to be. It's a way to get more time on your board during a week where a dedicated session isn't going to happen, using riding that's lower-consequence and lower-intensity than most of what you'd do at a park anyway.
+It's not a replacement for a proper session at the park, and it's not trying to be. It's a way to get more time on your board during a week where a dedicated session isn't going to happen, using riding that asks less technically and physically than most of what you'd do at a park — just with the traffic-awareness and route judgment that riding around cars asks for instead.
 
 ## Start with one trip
 
