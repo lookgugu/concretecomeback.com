@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-10T15:16:30.453Z
+# Date: 2026-09-10T15:24:01.631Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -2485,7 +2485,7 @@ One exception matters more than the formula: if you take a beta blocker or anoth
 
 If you don't want to do math or wear a chest strap, the talk test is a decent substitute: if you can speak in full sentences without gasping, but singing would be a stretch, you're probably in or near Zone 2. If you can chat easily without any elevated breathing, you're below it. If you're answering in short phrases, you've moved past it.
 
-A basic fitness watch with wrist-based heart rate is accurate enough for this purpose. You don't need lab-grade equipment to train Zone 2 meaningfully.
+A basic fitness watch with wrist-based heart rate is good enough for this purpose most of the time, but treat it as a rough guide rather than gospel while you're actually skating. A 17-beat-wide zone is a narrow target, and wrist-based optical sensors can lag or misread during the vibration and irregular arm movement that pumping and carving produce. If a reading looks implausible — way higher or lower than the effort feels — trust the talk test over the number, and if you want more confidence in the figure itself, a chest strap reads more reliably through motion than a wrist sensor does.
 
 ## Where a typical skate session actually lands
 
@@ -2505,7 +2505,7 @@ If you want a session that's deliberately built around Zone 2, a few adjustments
 
 **Keep moving.** Favor pumping and carving over standing and resetting. A flow section or a bowl with continuous lines gives you far more sustained heart rate time than a technical street spot where you're stopping to reset a trick every 30 seconds.
 
-**Pick terrain with mild, continuous elevation change.** Rolling in and out of a shallow bowl or a mellow transition keeps your legs working the whole time, which is what generates the sustained effort Zone 2 needs. Dead-flat ground rarely gets you there without a lot of pushing.
+**Pick terrain with mild, continuous elevation change — once you've earned it.** Rolling in and out of a shallow bowl or a mellow transition keeps your legs working the whole time, which is what generates the sustained effort Zone 2 needs, but transition terrain is a control and falling-technique question before it's a cardio one. That's a reasonable option only once pushing, stopping, and turning feel automatic on flat ground and you can bail and knee-slide on command — the same bar [this site's 8-week return plan](/blog/8-week-return-plan-adult-skaters/) and [bowl-versus-street guide](/blog/why-bowls-beat-street-for-adult-returners/) set before recommending transition work at all. If you're not there yet, sustained flat-ground pushing is the default way to hit Zone 2 — it just asks for more continuous pushing effort to get your heart rate up, since there's no rolling momentum from elevation doing part of the work for you.
 
 **Check in periodically.** Glance at your watch or run the talk test every few minutes. If you've drifted well above Zone 2 and you're specifically trying to build aerobic base today, ease off the pumping for a lap or two rather than sprinting the whole session.
 
