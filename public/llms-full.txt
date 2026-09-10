@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-10T15:24:01.631Z
+# Date: 2026-09-10T15:30:50.483Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -2137,7 +2137,7 @@ If you've come back to skating and you're only thinking of it as park time, dail
 
 ## Why this works especially well for adults
 
-Transport riding rewards exactly the things a returning adult skater already has: patience, a preference for control over speed, and no particular interest in looking flashy. You're not trying to progress a trick. You're trying to get somewhere smoothly, which is a much lower-consequence version of skating than most park terrain.
+Transport riding rewards exactly the things a returning adult skater already has: patience, a preference for control over speed, and no particular interest in looking flashy. You're not trying to progress a trick. You're trying to get somewhere smoothly, which asks less of you technically than most park terrain does — no ramps, no impact, no falls from height. What it asks instead is attention: a fall near traffic carries a different, and sometimes higher, kind of risk than a fall in a bowl, even when the fall itself is minor. Lower technical demand isn't the same thing as lower stakes.
 
 It's also a genuinely different setup than what most park skating calls for, which is worth knowing before you try to use your park board for it. A popsicle-deck street board — small wheels, tight trucks, built for flip tricks — is a rough tool for actual distance. [A cruiser or longboard](/blog/longboard-vs-cruiser-vs-popsicle-deck/) is the better starting point for transport, because it's built around the things commuting actually needs: momentum, stability, and comfort over rough pavement.
 
@@ -2147,7 +2147,7 @@ A few changes make a big difference in how a board handles as daily transport ra
 
 **Bigger, softer wheels — sized to your deck.** Anything in the 60mm+ range with a softer durometer (roughly 78a–85a) rolls over cracks, small debris, and rough asphalt without jarring your knees and wrists on every seam. But a wheel that large needs clearance to match: on a standard popsicle deck, 60mm+ wheels can hit the underside of the deck when you turn or lean, catching hard enough to stop the board and throw you. If you're building this up from a street deck rather than buying a purpose-built cruiser or longboard complete, pair bigger wheels with higher trucks or add riser pads, and check for wheel bite by leaning the board hard on all sides before you ride it in traffic. The simplest path around this entirely is to start from a cruiser or longboard complete, which is already built with the clearance this wheel size needs.
 
-**Trucks matched to a wider deck, not just widened on their own.** You want predictable, confident turning at cruising speed, not the tight, twitchy response tuned for flip tricks — but that stability should come from riding a wider deck with trucks sized to match it, not from bolting wider trucks onto a narrow street deck. Trucks whose axles extend past the edge of the deck leave the wheels exposed, and a pushing foot can clip one mid-stride and send you down. Keep axle width matched to deck width; if you want a wider stance, go wider on the whole setup.
+**Trucks matched to a wider deck, not just widened on their own.** You want predictable, confident turning at cruising speed — that comes from riding a wider deck with trucks sized to match it, not from bolting wider trucks onto a narrow street deck. Trucks whose axles extend past the edge of the deck leave the wheels exposed, and a pushing foot can clip one mid-stride and send you down. Keep axle width matched to deck width; if you want a wider stance, go wider on the whole setup.
 
 **A kicktail, if you're navigating curbs.** Being able to hop a curb or lift the nose over an uneven edge without dismounting matters a lot more on a commute than it does cruising a smooth path.
 
@@ -2159,7 +2159,7 @@ If the distance or the hills involved are more than you want to push through, an
 
 The best transport routes share a few features: mostly smooth, continuous pavement, minimal steep grades, and some separation from fast car traffic — a bike lane, a shared path, or quiet residential streets.
 
-Start short. A one-to-three-mile errand — the coffee shop, a nearby friend's place, the shorter route to work — is a good sweet spot for learning what your setup can handle and how your body responds to sustained rolling rather than short skate-session bursts. You can extend from there once you know your board and your route.
+Before your first errand, though, that control needs to already be automatic — not something you're still working out for the first time in a bike lane. Pushing, turning, stopping, and bailing on command, practiced on empty pavement or in a parking lot until they're second nature, is the same prerequisite [this site's 8-week return plan](/blog/8-week-return-plan-adult-skaters/) sets before any real-world riding. Once that's solid, start short. A one-to-three-mile errand — the coffee shop, a nearby friend's place, the shorter route to work — is a good sweet spot for learning what your setup can handle and how your body responds to sustained rolling rather than short skate-session bursts. You can extend from there once you know your board and your route.
 
 Hills deserve real attention, in both directions. A downhill you can't control comfortably is not the kind of thing to find out about mid-commute, and a long uphill push can turn a pleasant ride into a slog fast. Scout the route first — a quick look at a map's elevation profile, or just driving it once, tells you what you're actually signing up for.
 
