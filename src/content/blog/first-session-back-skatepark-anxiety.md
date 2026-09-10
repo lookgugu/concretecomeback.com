@@ -44,7 +44,7 @@ This isn't about eliminating the anxiety. It's about having a plan that works wh
 
 **Watch for ten minutes before you skate.** This isn't stalling — it's information gathering. You'll see the terrain, the flow, who's using which section, and you'll almost always notice that nobody's watching the parking lot for new arrivals. That observation alone does a lot of the work.
 
-**Pick one small, boring goal.** Not a trick. Something like "push around the flat ground for ten minutes and see how it feels" or "do five slow laps of the smallest bowl." A low bar means you're likely to clear it, and clearing it is what actually starts to quiet the anxious prediction.
+**Pick one small, boring goal.** Not a trick. Something like "push around the flat ground for ten minutes and see how it feels." Keep the goal on flat ground for this first session — if your pushing and stopping aren't fully automatic yet, a bowl or any transition is a speed and consequence question, not just a confidence one, and it can wait for a session where that's the specific thing you're working on. A low bar means you're likely to clear it, and clearing it is what actually starts to quiet the anxious prediction.
 
 **Say hello to one person.** It doesn't have to be a conversation. A nod and a "how's it going" to whoever's nearest does more to make a park feel like a place you belong than any amount of skating well would. Most skaters, at any age, respond to this warmly — it's a small, low-stakes way to test the "nobody wants me here" thought against reality.
 
