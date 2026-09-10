@@ -18,7 +18,7 @@ The honest answer is: it depends entirely on how you skate. Which is actually us
 
 Heart rate training divides effort into zones, usually numbered 1 through 5, based on percentage of your maximum heart rate. Zone 2 sits around 60–70% of max HR — low enough that you can hold a conversation in full sentences, high enough that you're clearly working. It's the pace you could sustain for an hour or more without your form falling apart.
 
-The reason Zone 2 gets so much attention is that sustained time in that range is what builds your aerobic base: it trains your body to burn fat efficiently for fuel and improves how well your mitochondria — the energy-producing structures in your cells — do their job. You don't get that adaptation from short, hard efforts. You get it from time spent moving at a pace you can hold, repeatedly, over weeks and months.
+The reason Zone 2 gets so much attention is that sustained time in that range is a particularly efficient way to build your aerobic base: it trains your body to burn fat efficiently for fuel and improves how well your mitochondria — the energy-producing structures in your cells — do their job. Short, hard efforts build aerobic fitness too, through a different mechanism — that's part of why interval training works — but they don't accumulate the same kind of steady, low-fatigue volume. Zone 2's advantage is that you can sustain it for a long time, repeatedly, over weeks and months, without digging into the recovery cost a lot of hard intervals would.
 
 None of this makes higher-intensity effort useless. It's a different tool for a different adaptation, and most well-rounded training includes both.
 

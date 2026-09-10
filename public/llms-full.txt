@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-10T09:07:48.286Z
+# Date: 2026-09-10T09:13:34.832Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -2145,7 +2145,7 @@ It's also a genuinely different setup than what most park skating calls for, whi
 
 A few changes make a big difference in how a board handles as daily transport rather than a trick deck:
 
-**Bigger, softer wheels.** Anything in the 60mm+ range with a softer durometer (roughly 78a–85a) rolls over cracks, small debris, and rough asphalt without jarring your knees and wrists on every seam. This is the single biggest upgrade for comfort on real streets.
+**Bigger, softer wheels — sized to your deck.** Anything in the 60mm+ range with a softer durometer (roughly 78a–85a) rolls over cracks, small debris, and rough asphalt without jarring your knees and wrists on every seam. But a wheel that large needs clearance to match: on a standard popsicle deck, 60mm+ wheels can hit the underside of the deck when you turn or lean, catching hard enough to stop the board and throw you. If you're building this up from a street deck rather than buying a purpose-built cruiser or longboard complete, pair bigger wheels with higher trucks or add riser pads, and check for wheel bite by leaning the board hard on all sides before you ride it in traffic. The simplest path around this entirely is to start from a cruiser or longboard complete, which is already built with the clearance this wheel size needs.
 
 **Wider, more stable trucks.** You want predictable, confident turning at cruising speed, not the tight, twitchy response tuned for flip tricks. A setup built for stability lets you relax into longer rides instead of micromanaging every wobble.
 
@@ -2473,7 +2473,7 @@ The honest answer is: it depends entirely on how you skate. Which is actually us
 
 Heart rate training divides effort into zones, usually numbered 1 through 5, based on percentage of your maximum heart rate. Zone 2 sits around 60–70% of max HR — low enough that you can hold a conversation in full sentences, high enough that you're clearly working. It's the pace you could sustain for an hour or more without your form falling apart.
 
-The reason Zone 2 gets so much attention is that sustained time in that range is what builds your aerobic base: it trains your body to burn fat efficiently for fuel and improves how well your mitochondria — the energy-producing structures in your cells — do their job. You don't get that adaptation from short, hard efforts. You get it from time spent moving at a pace you can hold, repeatedly, over weeks and months.
+The reason Zone 2 gets so much attention is that sustained time in that range is a particularly efficient way to build your aerobic base: it trains your body to burn fat efficiently for fuel and improves how well your mitochondria — the energy-producing structures in your cells — do their job. Short, hard efforts build aerobic fitness too, through a different mechanism — that's part of why interval training works — but they don't accumulate the same kind of steady, low-fatigue volume. Zone 2's advantage is that you can sustain it for a long time, repeatedly, over weeks and months, without digging into the recovery cost a lot of hard intervals would.
 
 None of this makes higher-intensity effort useless. It's a different tool for a different adaptation, and most well-rounded training includes both.
 

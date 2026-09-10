@@ -24,7 +24,7 @@ It's also a genuinely different setup than what most park skating calls for, whi
 
 A few changes make a big difference in how a board handles as daily transport rather than a trick deck:
 
-**Bigger, softer wheels.** Anything in the 60mm+ range with a softer durometer (roughly 78a–85a) rolls over cracks, small debris, and rough asphalt without jarring your knees and wrists on every seam. This is the single biggest upgrade for comfort on real streets.
+**Bigger, softer wheels — sized to your deck.** Anything in the 60mm+ range with a softer durometer (roughly 78a–85a) rolls over cracks, small debris, and rough asphalt without jarring your knees and wrists on every seam. But a wheel that large needs clearance to match: on a standard popsicle deck, 60mm+ wheels can hit the underside of the deck when you turn or lean, catching hard enough to stop the board and throw you. If you're building this up from a street deck rather than buying a purpose-built cruiser or longboard complete, pair bigger wheels with higher trucks or add riser pads, and check for wheel bite by leaning the board hard on all sides before you ride it in traffic. The simplest path around this entirely is to start from a cruiser or longboard complete, which is already built with the clearance this wheel size needs.
 
 **Wider, more stable trucks.** You want predictable, confident turning at cruising speed, not the tight, twitchy response tuned for flip tricks. A setup built for stability lets you relax into longer rides instead of micromanaging every wobble.
 
