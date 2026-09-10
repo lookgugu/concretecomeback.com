@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-10T15:04:15.196Z
+# Date: 2026-09-10T15:08:56.861Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -2147,7 +2147,7 @@ A few changes make a big difference in how a board handles as daily transport ra
 
 **Bigger, softer wheels — sized to your deck.** Anything in the 60mm+ range with a softer durometer (roughly 78a–85a) rolls over cracks, small debris, and rough asphalt without jarring your knees and wrists on every seam. But a wheel that large needs clearance to match: on a standard popsicle deck, 60mm+ wheels can hit the underside of the deck when you turn or lean, catching hard enough to stop the board and throw you. If you're building this up from a street deck rather than buying a purpose-built cruiser or longboard complete, pair bigger wheels with higher trucks or add riser pads, and check for wheel bite by leaning the board hard on all sides before you ride it in traffic. The simplest path around this entirely is to start from a cruiser or longboard complete, which is already built with the clearance this wheel size needs.
 
-**Wider, more stable trucks.** You want predictable, confident turning at cruising speed, not the tight, twitchy response tuned for flip tricks. A setup built for stability lets you relax into longer rides instead of micromanaging every wobble.
+**Trucks matched to a wider deck, not just widened on their own.** You want predictable, confident turning at cruising speed, not the tight, twitchy response tuned for flip tricks — but that stability should come from riding a wider deck with trucks sized to match it, not from bolting wider trucks onto a narrow street deck. Trucks whose axles extend past the edge of the deck leave the wheels exposed, and a pushing foot can clip one mid-stride and send you down. Keep axle width matched to deck width; if you want a wider stance, go wider on the whole setup.
 
 **A kicktail, if you're navigating curbs.** Being able to hop a curb or lift the nose over an uneven edge without dismounting matters a lot more on a commute than it does cruising a smooth path.
 
