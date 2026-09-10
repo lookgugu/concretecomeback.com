@@ -30,7 +30,7 @@ A few changes make a big difference in how a board handles as daily transport ra
 
 **A kicktail, if you're navigating curbs.** Being able to hop a curb or lift the nose over an uneven edge without dismounting matters a lot more on a commute than it does cruising a smooth path.
 
-**Somewhere to carry things.** A small backpack or a rack-mounted bag turns "skate to the store" into an actual errand, not just a loop around the block.
+**Somewhere to carry things.** A small backpack or a sling bag that sits flat against your back turns "skate to the store" into an actual errand, not just a loop around the block.
 
 If the distance or the hills involved are more than you want to push through, an [electric skateboard](/blog/electric-skateboard-for-adult-comeback/) is a legitimate option worth considering — it widens your practical commuting range significantly, especially if joint comfort is part of the calculation.
 

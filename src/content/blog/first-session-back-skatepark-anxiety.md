@@ -12,7 +12,7 @@ draft: false
 
 I organize a group that exists specifically to get adults through this. And I still remember sitting in my car outside a skatepark for ten minutes before my first session back, board on the passenger seat, absolutely certain that walking in was a mistake.
 
-Nothing had actually gone wrong yet. I hadn't fallen, hadn't been laughed at, hadn't done anything embarrassing. The anxiety wasn't a reaction to anything real. It was anticipatory, specific, and loud — and it's one of the most common things new members of our group describe about their first day back, almost word for word.
+Nothing had actually gone wrong yet. I hadn't fallen, hadn't been laughed at, hadn't done anything embarrassing. The anxiety wasn't a reaction to anything real. It was anticipatory, specific, and loud — the skatepark version of imposter syndrome — and it's one of the most common things new members of our group describe about their first day back, almost word for word.
 
 This is different from the general, long-arc question of building confidence over months of skating. This is about one specific morning: the first time you show up somewhere public after years away, and your brain runs a very particular set of intrusive thoughts before you've even pushed off.
 

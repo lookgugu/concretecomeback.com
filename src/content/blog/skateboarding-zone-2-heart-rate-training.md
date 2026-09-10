@@ -24,7 +24,9 @@ None of this makes higher-intensity effort useless. It's a different tool for a 
 
 ## Finding your zones
 
-The rough formula most people start with is 220 minus your age, which gives an estimated maximum heart rate. At 50, that's roughly 170 beats per minute, putting Zone 2 somewhere around 102–119 bpm. It's a blunt estimate — individual max heart rate varies more than the formula admits, especially as you get older — so treat it as a starting point, not a precise target.
+The rough formula most people start with is 220 minus your age, which gives an estimated maximum heart rate. At 50, that's roughly 170 beats per minute, putting Zone 2 somewhere around 102–119 bpm. It's a blunt estimate — individual max heart rate varies more than the formula admits — and it tends to run low for older adults specifically. When Hirofumi Tanaka, Kevin Monahan and Douglas Seals pooled data from 351 studies and then measured 514 healthy people in the lab ([*Journal of the American College of Cardiology*, 2001](https://doi.org/10.1016/S0735-1097(00)01054-8)), the line that fit best was 208 minus 0.7 times your age. At 50 that gives 173 rather than 170, and the gap widens with each decade. Either version lands you within a few beats, so treat the number as a starting point, not a precise target.
+
+One exception matters more than the formula: if you take a beta blocker or another medication that lowers your heart rate, or you're managing a heart condition, percentage-of-max targets don't apply to you. Your peak heart rate is capped by the drug, not your age, so a watch will tell you you're loafing when you're working hard. Use the talk test below for day-to-day pacing, and get your actual training range from the cardiologist or physio who knows your history.
 
 If you don't want to do math or wear a chest strap, the talk test is a decent substitute: if you can speak in full sentences without gasping, but singing would be a stretch, you're probably in or near Zone 2. If you can chat easily without any elevated breathing, you're below it. If you're answering in short phrases, you've moved past it.
 
