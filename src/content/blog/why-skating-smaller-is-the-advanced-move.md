@@ -41,7 +41,7 @@ This is also why it's a skill and not just a rule. Anyone can be told to "be car
 
 There's no universal formula, because bodies and skating histories vary too much for one, but a workable approach for most returning adults is to hold each level — terrain, speed, session length — for noticeably longer than feels necessary, and to increase only one variable at a time. If you just extended your session length, don't also push into steeper terrain the same week. If you're trying a new open transition or bank, keep your speed conservative on it until it feels boring, not just comfortable — for a ledge or a drop-in, "conservative" means smaller and better-practiced, not slower, for the reasons above.
 
-"Boring" is actually the signal you want. If a piece of terrain or a trick feels genuinely easy and a little dull, that's usually a better sign that you're ready to size up than any burst of confidence is — confidence tends to arrive well before your body has actually adapted.
+"Boring" is a better signal than a burst of confidence, but it's not sufficient on its own — technique can feel easy within a couple of sessions, well before the tendons and ligaments doing the work have actually adapted. Treat it as ready to size up only once it's stayed boring across multiple sessions spread over a couple of weeks, with no next-day soreness or nagging joint stuff showing up. Boring-and-recent isn't there yet. Boring-and-sustained-with-nothing-nagging is.
 
 ## The long game
 
