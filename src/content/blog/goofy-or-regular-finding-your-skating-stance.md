@@ -16,7 +16,7 @@ If you skated years ago, you probably remember your stance the way you remember 
 
 ## Regular vs. goofy, in plain terms
 
-"Regular" means left foot forward, right foot pushing. "Goofy" means right foot forward, left foot pushing. Neither is better, rarer, or a sign of anything except which way your particular nervous system prefers to organize balance and force. Roughly four in ten skaters are goofy — the Skatepark of Tampa's contest database, the largest tally anyone has published, comes out at about 44% goofy — so it's not exotic, and skate shops, ramps, and instructional videos default to regular stance purely by convention, not because it's more correct.
+"Regular" means left foot forward on the board. "Goofy" means right foot forward. That's the whole definition — which foot you push with is a separate question. Most skaters push with their back foot, but some push "mongo," with the front foot, and they're still regular or goofy based on which foot stays forward, not which foot touches the ground. Neither stance is better, rarer, or a sign of anything except which way your particular nervous system prefers to organize balance and force. Roughly four in ten skaters are goofy — the Skatepark of Tampa's contest database, the largest tally anyone has published, comes out at about 44% goofy — so it's not exotic, and skate shops, ramps, and instructional videos default to regular stance purely by convention, not because it's more correct.
 
 The confusion beginners run into is that stance isn't the same as handedness. Plenty of right-handed people are goofy-footed, and vice versa. Your dominant hand tells you almost nothing here — you need a physical test.
 
