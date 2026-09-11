@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-11T15:01:39.158Z
+# Date: 2026-09-11T15:02:28.157Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -3039,14 +3039,14 @@ The part that gets less attention is the strength and mobility side. Pushing, ca
 A few things I tell every patient who's considering this, regardless of how fit they otherwise are:
 
 - **Get a real medical once-over first if you have any relevant history** — a prior fracture, joint replacement, cardiac condition, or balance disorder unrelated to skating. This isn't a blanket disqualifier for most conditions, but it changes how to start and how fast to progress, and it's worth a conversation with your own doctor rather than guessing. Nothing in a blog post, this one included, replaces that assessment.
-- **Bone density matters more here than in most sports people take up at this age.** If you have osteoporosis or osteopenia, that doesn't automatically rule out skating, but it does mean the calculation around fall risk and protective gear is not optional — it's a conversation to have with your physician first.
-- **Build the supporting strength work alongside it, not after an injury.** Ankle, knee, and hip stability work pays for itself before you need it, not after.
+- **Bone density matters more here than in most sports people take up at this age.** If you have osteoporosis or osteopenia, that doesn't automatically rule out skating, but it does mean the calculation around fall risk and protective gear is not optional — it's a conversation to have with your physician first. I've laid out [where the bone-density case for skating holds and where the caution belongs](/blog/osteoporosis-bone-density-skateboarding/) separately.
+- **Build the supporting strength work alongside it, not after an injury.** Ankle, knee, and hip stability work pays for itself before you need it, not after; the [four muscles adult skaters neglect](/blog/strength-training-muscles-adult-skaters-neglect/) are the place to start.
 - **Learn to fall before you need to.** I've written a [full guide to falling after 40](/blog/how-to-fall-safely-after-40/); the short version is that the instinctive hand-catch is what breaks wrists, and it can be retrained.
 - **Protective gear is not negotiable, and this isn't physio caution talking — it's just the numbers.** A wrist or hip fracture in your 50s takes meaningfully longer to heal and rehab than the same injury at 20, and the consequences of a head injury are harder to reverse than a fracture. The site's [protective gear guide](/blog/safety-gear-guide/) covers what to buy.
 
 ## What I'd pair it with
 
-If a patient tells me they're starting or returning to skating in their 50s, I'll usually suggest pairing it with two things: ankle and hip mobility work, since skating asks a lot of both joints in ranges most desk-bound adults have lost some of, and general lower-body strength work — squats, single-leg balance work, calf raises — that builds the base skating draws on. Neither needs to be extensive. Twenty minutes, two or three times a week, aimed at the joints skating loads most, covers most of what matters, and the site's [three off-board workouts](/blog/cross-training-for-adult-skaters/) are a reasonable place to start.
+If a patient tells me they're starting or returning to skating in their 50s, I'll usually suggest pairing it with two things: ankle and [hip mobility work](/blog/hip-health-for-skaters-over-45/), since skating asks a lot of both joints in ranges most desk-bound adults have lost some of, and general lower-body strength work — squats, single-leg balance work, calf raises — that builds the base skating draws on. Neither needs to be extensive. Twenty minutes, two or three times a week, aimed at the joints skating loads most, covers most of what matters, and the site's [three off-board workouts](/blog/cross-training-for-adult-skaters/) are a reasonable place to start.
 
 ## The bottom line from where I sit
 
