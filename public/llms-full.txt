@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-11T09:07:22.280Z
+# Date: 2026-09-11T09:11:53.614Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -2235,9 +2235,9 @@ What doesn't worry me, or most physios I've spoken with about this, is skateboar
 
 ## The case for it, clinically
 
-Balance training is one of the most consistently recommended interventions for adults over 50, because falls — not cardiovascular disease alone — are what actually start limiting independence for a lot of people in later decades. Most balance training programs are, frankly, boring, which is the biggest reason people don't stick with them. Skateboarding asks for constant small balance corrections literally every second you're moving, which makes it one of the more engaging ways to train the same underlying system that a formal balance program targets, for someone who's motivated to do it.
+I've written elsewhere on this site about the exercise-science case for [skateboarding as balance training](/blog/skateboarding-balance-training-over-40/) — the perturbation-based mechanism, the fall-prevention research, why it beats a wobble board for adherence. I won't re-argue that here. What clinicians actually weigh isn't whether skating trains balance well; it's whether the injury exposure while you're building that capacity makes sense given how a 50-year-old body recovers, and for a healthy adult doing this deliberately, it does.
 
-There's also a strength and mobility component that gets underrated. Pushing, carving, and absorbing small bumps through your ankles, knees, and hips is real, functional lower-body work — closer to a proprioceptive and eccentric strength exercise than people give it credit for.
+The part that gets less attention is the strength and mobility side. Pushing, carving, and absorbing small bumps through your ankles, knees, and hips is real, functional lower-body work — closer to a proprioceptive and eccentric strength exercise than people give it credit for, and it's the piece I actually spend the most time on with patients starting out, more than the balance framing.
 
 ## What I'd caution any patient about
 
@@ -2254,7 +2254,7 @@ If a patient tells me they're starting or returning to skating in their 50s, I'l
 
 ## The bottom line from where I sit
 
-I wouldn't hesitate to recommend deliberate, gradually progressed skateboarding to a healthy adult in their 50s who's genuinely interested in it, and I have, more than once. It's not a magic intervention, and it's not risk-free — no physical activity worth doing is. But practiced the way this site generally recommends — gear on, ego off, terrain and speed built up slowly — it's a legitimate, enjoyable way to train balance, strength, and coordination that most people in this age group otherwise avoid entirely because the standard alternatives are so unengaging. The clinical case for movement you'll actually keep doing is, in the end, stronger than the clinical case for the theoretically perfect program you'll quit in six weeks.
+I wouldn't hesitate to recommend deliberate, gradually progressed skateboarding to a healthy adult in their 50s who's genuinely interested in it, and I have, more than once. It's not a magic intervention, and it's not risk-free — no physical activity worth doing is. The clinical work in front of you isn't deciding whether skating is a good idea in the abstract; it's the medical once-over, the bone-density conversation if it applies to you, the supporting strength work, and the gear — the four things above that turn "probably fine" into something a physio can actually stand behind.
 
 
 ### Why Skating Smaller Is the Advanced Move for Adult Skaters
