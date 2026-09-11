@@ -48,7 +48,9 @@ A small number of people get inconsistent results across all three tests — one
 
 ## Tell people your stance
 
-Once you know your stance, it changes nothing about the board itself — a deck is symmetrical, and the same setup works either way round. What it changes is how instructions land. If you [take a lesson](/blog/finding-a-skateboard-coach-for-adults/) or ask an experienced skater for pointers, tell them your stance up front: "front foot" and "back foot" translate cleanly, but "left" and "right" come out mirrored when a goofy skater follows regular-footed advice, and that saves everyone from confusing corrections.
+Your stance doesn't change how you set up a standard popsicle deck — regular and goofy riders use the same hardware, mounted the same way, just standing on it in mirror image. It's a different story on a directional board: cruisers, old-school shapes, and surfskates often have a distinct nose and tail, and some surfskates use different front and rear trucks entirely. On those, ride the board the way it's built regardless of your stance — don't flip it around to "match" being goofy or regular, since that can change how it turns and pops in ways that have nothing to do with which foot you lead with.
+
+Where your stance does matter is how instructions land. If you [take a lesson](/blog/finding-a-skateboard-coach-for-adults/) or ask an experienced skater for pointers, tell them your stance up front: "front foot" and "back foot" translate cleanly, but "left" and "right" come out mirrored when a goofy skater follows regular-footed advice, and that saves everyone from confusing corrections.
 
 ## Why this is worth sorting out before anything else
 
