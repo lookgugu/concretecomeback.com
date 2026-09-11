@@ -25,7 +25,7 @@ None of this comes from recklessness. It comes from progress feeling good, and f
 Skating smaller isn't about being timid or refusing to progress. It's a specific set of deliberate constraints, applied on purpose, even when you feel ready to drop them:
 
 - **Smaller terrain.** Staying on the mellow transition, the smaller quarter pipe, or flat ground longer than your confidence says you need to.
-- **Smaller speed.** Pushing less hard than you're capable of, especially into anything with a fall risk — a bank, a ledge, a drop-in.
+- **Speed matched to the obstacle, not just dialed down.** For a mellow bank or open transition, going gently is genuinely safer. For a ledge or a drop-in, it isn't — too little speed can catch your wheels on a ledge or leave you stuck mid-commitment on a drop-in, which causes the fall this whole approach is meant to prevent. "Smaller" here means picking terrain and obstacles sized to what you've actually practiced, then committing to them properly, not just slowing down across the board.
 - **Smaller sessions.** Stopping while you still feel good, instead of skating until you're tired and your form starts to break down, which is exactly when careless falls happen. [Short, frequent sessions](/blog/short-skate-sessions-adult-learners/) build skill faster anyway.
 - **Smaller tricks.** Practicing a trick at a scale or speed that lets you fail it safely, rather than attempting it at "real" speed before you've built the specific movement pattern. The [adult trick ladder](/blog/beginner-trick-ladder-for-adult-skaters/) is built in that order.
 
