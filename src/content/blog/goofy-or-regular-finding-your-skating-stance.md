@@ -16,7 +16,7 @@ If you skated years ago, you probably remember your stance the way you remember 
 
 ## Regular vs. goofy, in plain terms
 
-"Regular" means left foot forward, right foot pushing. "Goofy" means right foot forward, left foot pushing. Neither is better, rarer, or a sign of anything except which way your particular nervous system prefers to organize balance and force. Roughly a third of skaters are goofy — it's not exotic, and skate shops, ramps, and instructional videos default to regular stance purely by convention, not because it's more correct.
+"Regular" means left foot forward, right foot pushing. "Goofy" means right foot forward, left foot pushing. Neither is better, rarer, or a sign of anything except which way your particular nervous system prefers to organize balance and force. Roughly four in ten skaters are goofy — the Skatepark of Tampa's contest database, the largest tally anyone has published, comes out at about 44% goofy — so it's not exotic, and skate shops, ramps, and instructional videos default to regular stance purely by convention, not because it's more correct.
 
 The confusion beginners run into is that stance isn't the same as handedness. Plenty of right-handed people are goofy-footed, and vice versa. Your dominant hand tells you almost nothing here — you need a physical test.
 
@@ -26,7 +26,7 @@ No single test is perfect, but if two or three of these agree, you have your ans
 
 ### The push test
 
-Stand normally, then have someone give you a gentle, unexpected shove from behind. Whichever foot shoots forward to catch yourself is very likely your front foot. This works because it bypasses conscious thought — you're seeing your automatic balance response, not a guess.
+Stand normally on grass or carpet, then have someone give you a gentle, unexpected nudge from behind — you want the reflex, not a fall. Whichever foot shoots forward to catch yourself is very likely your front foot. This works because it bypasses conscious thought — you're seeing your automatic balance response, not a guess.
 
 ### The slide test
 
@@ -38,7 +38,7 @@ Imagine kicking a ball as far as you can. Your kicking foot is almost always you
 
 ## When your stance has shifted since you were younger
 
-This happens more often than people expect, and it isn't your imagination. Old injuries change things — a knee that's been surgically repaired, an ankle that's never quite trusted itself since a bad sprain, a shoulder that pulls you one way during a fall reflex. Years of another dominant activity (soccer, martial arts, a manual job that loads one side of your body more) can also nudge which side you trust more for explosive, planted force versus which side you trust for balance.
+This happens, and it isn't your imagination. Old injuries change things — a knee that's been surgically repaired, an ankle that's never quite trusted itself since a bad sprain. Years of another dominant activity (soccer, martial arts, a manual job that loads one side of your body more) can also nudge which side you trust more for explosive, planted force versus which side you trust for balance.
 
 If your push test and slide test now disagree with what you remember from twenty years ago, trust the current tests over the memory. Your body isn't the same body, and the stance that suits it now is worth more than nostalgia for the one you used to have.
 
@@ -46,10 +46,10 @@ If your push test and slide test now disagree with what you remember from twenty
 
 A small number of people get inconsistent results across all three tests — one says regular, another says goofy, and there's no strong lean either way. If that's you, the practical move is to just pick one and commit to it for a few sessions rather than agonizing over it. Muscle memory builds fast once you're consistently pushing and standing the same way, and after a week or two of real practice, the "right" stance for you will usually become obvious in a way no test could tell you in advance. If it still feels wrong after that, switch and give the other side the same fair trial.
 
-## Setting up your board for your stance
+## Tell people your stance
 
-Once you know your stance, it changes almost nothing about the board itself — decks aren't handed the way, say, a guitar can be — but it does determine which way you'll want to mount your board when practicing tricks, and it's worth mentioning to anyone giving you pointers so their left/right instructions translate correctly to your setup. If you take a lesson or ask an experienced skater for feedback, telling them your stance up front saves everyone from mirrored, confusing corrections.
+Once you know your stance, it changes nothing about the board itself — a deck is symmetrical, and the same setup works either way round. What it changes is how instructions land. If you [take a lesson](/blog/finding-a-skateboard-coach-for-adults/) or ask an experienced skater for pointers, tell them your stance up front: "front foot" and "back foot" translate cleanly, but "left" and "right" come out mirrored when a goofy skater follows regular-footed advice, and that saves everyone from confusing corrections.
 
 ## Why this is worth sorting out before anything else
 
-Every subsequent skill — pushing efficiently, carving with control, eventually popping an ollie — assumes you know which foot does which job. Skaters who never nail this down early tend to develop compensations that show up later as bad habits that are harder to unlearn than they would have been to avoid. It takes five minutes to test properly. Do it before your first real session, not after three weeks of wondering why pushing off your "obvious" foot never quite feels right.
+Every subsequent skill — pushing efficiently, carving with control, eventually popping an ollie — assumes you know which foot does which job. Skaters who never nail this down early tend to develop compensations that show up later as bad habits that are harder to unlearn than they would have been to avoid. It takes five minutes to test properly. The [8-week return plan](/blog/8-week-return-plan-adult-skaters/) puts it in the first two weeks, on flat ground, for exactly this reason. Do it before your first real session, not after three weeks of wondering why pushing off your "obvious" foot never quite feels right.

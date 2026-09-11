@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-11T09:11:53.614Z
+# Date: 2026-09-11T14:10:52.922Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -610,7 +610,7 @@ If you skated years ago, you probably remember your stance the way you remember 
 
 ## Regular vs. goofy, in plain terms
 
-"Regular" means left foot forward, right foot pushing. "Goofy" means right foot forward, left foot pushing. Neither is better, rarer, or a sign of anything except which way your particular nervous system prefers to organize balance and force. Roughly a third of skaters are goofy — it's not exotic, and skate shops, ramps, and instructional videos default to regular stance purely by convention, not because it's more correct.
+"Regular" means left foot forward, right foot pushing. "Goofy" means right foot forward, left foot pushing. Neither is better, rarer, or a sign of anything except which way your particular nervous system prefers to organize balance and force. Roughly four in ten skaters are goofy — the Skatepark of Tampa's contest database, the largest tally anyone has published, comes out at about 44% goofy — so it's not exotic, and skate shops, ramps, and instructional videos default to regular stance purely by convention, not because it's more correct.
 
 The confusion beginners run into is that stance isn't the same as handedness. Plenty of right-handed people are goofy-footed, and vice versa. Your dominant hand tells you almost nothing here — you need a physical test.
 
@@ -620,7 +620,7 @@ No single test is perfect, but if two or three of these agree, you have your ans
 
 ### The push test
 
-Stand normally, then have someone give you a gentle, unexpected shove from behind. Whichever foot shoots forward to catch yourself is very likely your front foot. This works because it bypasses conscious thought — you're seeing your automatic balance response, not a guess.
+Stand normally on grass or carpet, then have someone give you a gentle, unexpected nudge from behind — you want the reflex, not a fall. Whichever foot shoots forward to catch yourself is very likely your front foot. This works because it bypasses conscious thought — you're seeing your automatic balance response, not a guess.
 
 ### The slide test
 
@@ -632,7 +632,7 @@ Imagine kicking a ball as far as you can. Your kicking foot is almost always you
 
 ## When your stance has shifted since you were younger
 
-This happens more often than people expect, and it isn't your imagination. Old injuries change things — a knee that's been surgically repaired, an ankle that's never quite trusted itself since a bad sprain, a shoulder that pulls you one way during a fall reflex. Years of another dominant activity (soccer, martial arts, a manual job that loads one side of your body more) can also nudge which side you trust more for explosive, planted force versus which side you trust for balance.
+This happens, and it isn't your imagination. Old injuries change things — a knee that's been surgically repaired, an ankle that's never quite trusted itself since a bad sprain. Years of another dominant activity (soccer, martial arts, a manual job that loads one side of your body more) can also nudge which side you trust more for explosive, planted force versus which side you trust for balance.
 
 If your push test and slide test now disagree with what you remember from twenty years ago, trust the current tests over the memory. Your body isn't the same body, and the stance that suits it now is worth more than nostalgia for the one you used to have.
 
@@ -640,13 +640,13 @@ If your push test and slide test now disagree with what you remember from twenty
 
 A small number of people get inconsistent results across all three tests — one says regular, another says goofy, and there's no strong lean either way. If that's you, the practical move is to just pick one and commit to it for a few sessions rather than agonizing over it. Muscle memory builds fast once you're consistently pushing and standing the same way, and after a week or two of real practice, the "right" stance for you will usually become obvious in a way no test could tell you in advance. If it still feels wrong after that, switch and give the other side the same fair trial.
 
-## Setting up your board for your stance
+## Tell people your stance
 
-Once you know your stance, it changes almost nothing about the board itself — decks aren't handed the way, say, a guitar can be — but it does determine which way you'll want to mount your board when practicing tricks, and it's worth mentioning to anyone giving you pointers so their left/right instructions translate correctly to your setup. If you take a lesson or ask an experienced skater for feedback, telling them your stance up front saves everyone from mirrored, confusing corrections.
+Once you know your stance, it changes nothing about the board itself — a deck is symmetrical, and the same setup works either way round. What it changes is how instructions land. If you [take a lesson](/blog/finding-a-skateboard-coach-for-adults/) or ask an experienced skater for pointers, tell them your stance up front: "front foot" and "back foot" translate cleanly, but "left" and "right" come out mirrored when a goofy skater follows regular-footed advice, and that saves everyone from confusing corrections.
 
 ## Why this is worth sorting out before anything else
 
-Every subsequent skill — pushing efficiently, carving with control, eventually popping an ollie — assumes you know which foot does which job. Skaters who never nail this down early tend to develop compensations that show up later as bad habits that are harder to unlearn than they would have been to avoid. It takes five minutes to test properly. Do it before your first real session, not after three weeks of wondering why pushing off your "obvious" foot never quite feels right.
+Every subsequent skill — pushing efficiently, carving with control, eventually popping an ollie — assumes you know which foot does which job. Skaters who never nail this down early tend to develop compensations that show up later as bad habits that are harder to unlearn than they would have been to avoid. It takes five minutes to test properly. The [8-week return plan](/blog/8-week-return-plan-adult-skaters/) puts it in the first two weeks, on flat ground, for exactly this reason. Do it before your first real session, not after three weeks of wondering why pushing off your "obvious" foot never quite feels right.
 
 
 ### What Skateboarding Actually Costs in 2026
@@ -2231,7 +2231,7 @@ Here's the honest version, as both a physio and someone who came back to it myse
 
 The concern I hear most from colleagues isn't skating itself — it's the pattern where someone in their 50s tries to skate the way they, or their kids, skate at 20: high speed, unfamiliar terrain, minimal warm-up, no protective gear, straight into a long session. That pattern is genuinely risky at any age, and more consequential at 50 because recovery from a bad fall takes longer and the stakes of a specific set of injuries — wrist fractures, hip fractures, concussions — are higher than they were at 20.
 
-What doesn't worry me, or most physios I've spoken with about this, is skateboarding practiced deliberately: flat ground and mellow transitions, real warm-up, real protective gear, sessions that build gradually. That version looks, from a clinical standpoint, a lot like the balance and coordination training we already prescribe for healthy aging — just more enjoyable than most of it.
+What doesn't worry me, or most physios I've spoken with about this, is skateboarding practiced deliberately: flat ground and mellow transitions, real warm-up, real protective gear, [sessions that build gradually](/blog/8-week-return-plan-adult-skaters/). That version looks, from a clinical standpoint, a lot like the balance and coordination training we already prescribe for healthy aging — just more enjoyable than most of it.
 
 ## The case for it, clinically
 
@@ -2243,22 +2243,23 @@ The part that gets less attention is the strength and mobility side. Pushing, ca
 
 A few things I tell every patient who's considering this, regardless of how fit they otherwise are:
 
-- **Get a real medical once-over first if you have any relevant history** — a prior fracture, joint replacement, cardiac condition, or balance disorder unrelated to skating. This isn't a blanket disqualifier for most conditions, but it changes how to start and how fast to progress, and it's worth a conversation with your own doctor rather than guessing.
+- **Get a real medical once-over first if you have any relevant history** — a prior fracture, joint replacement, cardiac condition, or balance disorder unrelated to skating. This isn't a blanket disqualifier for most conditions, but it changes how to start and how fast to progress, and it's worth a conversation with your own doctor rather than guessing. Nothing in a blog post, this one included, replaces that assessment.
 - **Bone density matters more here than in most sports people take up at this age.** If you have osteoporosis or osteopenia, that doesn't automatically rule out skating, but it does mean the calculation around fall risk and protective gear is not optional — it's a conversation to have with your physician first.
 - **Build the supporting strength work alongside it, not after an injury.** Ankle, knee, and hip stability work pays for itself before you need it, not after.
-- **Protective gear is not negotiable, and this isn't physio caution talking — it's just the numbers.** A wrist or hip fracture in your 50s takes meaningfully longer to heal and rehab than the same injury at 20, and a head injury carries higher stakes at any older age.
+- **Learn to fall before you need to.** I've written a [full guide to falling after 40](/blog/how-to-fall-safely-after-40/); the short version is that the instinctive hand-catch is what breaks wrists, and it can be retrained.
+- **Protective gear is not negotiable, and this isn't physio caution talking — it's just the numbers.** A wrist or hip fracture in your 50s takes meaningfully longer to heal and rehab than the same injury at 20, and the consequences of a head injury are harder to reverse than a fracture. The site's [protective gear guide](/blog/safety-gear-guide/) covers what to buy.
 
 ## What I'd pair it with
 
-If a patient tells me they're starting or returning to skating in their 50s, I'll usually suggest pairing it with two things: ankle and hip mobility work, since skating asks a lot of both joints in ranges most desk-bound adults have lost some of, and general lower-body strength work — squats, single-leg balance work, calf raises — that builds the base skating draws on. Neither needs to be extensive. Twenty minutes, two or three times a week, aimed at the joints skating loads most, covers most of what matters.
+If a patient tells me they're starting or returning to skating in their 50s, I'll usually suggest pairing it with two things: ankle and hip mobility work, since skating asks a lot of both joints in ranges most desk-bound adults have lost some of, and general lower-body strength work — squats, single-leg balance work, calf raises — that builds the base skating draws on. Neither needs to be extensive. Twenty minutes, two or three times a week, aimed at the joints skating loads most, covers most of what matters, and the site's [three off-board workouts](/blog/cross-training-for-adult-skaters/) are a reasonable place to start.
 
 ## The bottom line from where I sit
 
-I wouldn't hesitate to recommend deliberate, gradually progressed skateboarding to a healthy adult in their 50s who's genuinely interested in it, and I have, more than once. It's not a magic intervention, and it's not risk-free — no physical activity worth doing is. The clinical work in front of you isn't deciding whether skating is a good idea in the abstract; it's the medical once-over, the bone-density conversation if it applies to you, the supporting strength work, and the gear — the four things above that turn "probably fine" into something a physio can actually stand behind.
+I wouldn't hesitate to recommend deliberate, gradually progressed skateboarding to a healthy adult in their 50s who's genuinely interested in it, and I have, more than once. It's not a magic intervention, and it's not risk-free — no physical activity worth doing is. The clinical work in front of you isn't deciding whether skating is a good idea in the abstract; it's the medical once-over, the bone-density conversation if it applies to you, the supporting strength work, learning to fall, and the gear — the five things above that turn "probably fine" into something a physio can actually stand behind.
 
 
 ### Why Skating Smaller Is the Advanced Move for Adult Skaters
-The instinct to push your speed and terrain back up fast is what ends most adult comebacks. Here's why skating smaller is the harder, smarter skill.
+The instinct to push your speed and terrain back up fast is what ends a lot of adult comebacks. Here's why skating smaller is the harder, smarter skill.
 
 There's a specific moment in most adult comebacks where things go wrong, and it isn't the first session. It's a few weeks in, once the awkwardness has faded and something dangerous has crept back in: confidence. You remember what you used to be capable of, your body is starting to cooperate again, and the pull to skate at the speed, size, and difficulty you used to skate at becomes hard to ignore.
 
@@ -2266,9 +2267,9 @@ That pull is exactly backwards. The skill that actually moves a comeback forward
 
 ## The instinct that ends comebacks
 
-Nearly every injury that derails an adult return follows the same pattern: someone who was skating well within their limits decides, consciously or not, that it's time to catch up to where they used to be. They drop into terrain a notch steeper than what they've been comfortable on. They try a trick at the speed they used to do it, not the speed their current body has actually earned. They skate a session longer because it's finally feeling good, past the point their joints were asking to stop.
+A large share of the injuries that derail an adult return follow the same pattern: someone who was skating well within their limits decides, consciously or not, that it's time to catch up to where they used to be. They drop into terrain a notch steeper than what they've been comfortable on. They try a trick at the speed they used to do it, not the speed their current body has actually earned. They skate a session longer because it's finally feeling good, past the point their joints were asking to stop.
 
-None of this comes from recklessness. It comes from progress feeling good, and from a very human instinct to chase that feeling by turning the dial up. The problem is that your skill and your tissue resilience come back on different timelines. Balance, reflexes, and technique return fast — often within weeks. Tendons, ligaments, and bone density adapt much more slowly, over months. Skating like your skill level, before your body has caught up, is where the gap opens up and injuries happen.
+None of this comes from recklessness. It comes from progress feeling good, and from a very human instinct to chase that feeling by turning the dial up. The problem is that your skill and your tissue resilience come back on different timelines. Balance, reflexes, and technique return fast — often within weeks. Tendons, ligaments, and bone density adapt much more slowly, over months. Skating like your skill level, before your body has caught up, is where the gap opens up and injuries happen. It's the same reason the [8-week return plan](/blog/8-week-return-plan-adult-skaters/) holds you on flat ground for two full weeks that will feel too easy.
 
 ## What "skating smaller" actually means
 
@@ -2276,8 +2277,8 @@ Skating smaller isn't about being timid or refusing to progress. It's a specific
 
 - **Smaller terrain.** Staying on the mellow transition, the smaller quarter pipe, or flat ground longer than your confidence says you need to.
 - **Smaller speed.** Pushing less hard than you're capable of, especially into anything with a fall risk — a bank, a ledge, a drop-in.
-- **Smaller sessions.** Stopping while you still feel good, instead of skating until you're tired and your form starts to break down, which is exactly when careless falls happen.
-- **Smaller tricks.** Practicing a trick at a scale or speed that lets you fail it safely, rather than attempting it at "real" speed before you've built the specific movement pattern.
+- **Smaller sessions.** Stopping while you still feel good, instead of skating until you're tired and your form starts to break down, which is exactly when careless falls happen. [Short, frequent sessions](/blog/short-skate-sessions-adult-learners/) build skill faster anyway.
+- **Smaller tricks.** Practicing a trick at a scale or speed that lets you fail it safely, rather than attempting it at "real" speed before you've built the specific movement pattern. The [adult trick ladder](/blog/beginner-trick-ladder-for-adult-skaters/) is built in that order.
 
 Each of these feels like holding yourself back. Each of them is actually what lets you build real capacity without paying for it in an injury that costs you three months off the board.
 
