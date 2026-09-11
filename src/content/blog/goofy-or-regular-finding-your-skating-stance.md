@@ -40,7 +40,7 @@ Imagine kicking a ball as far as you can. Your kicking foot is almost always you
 
 This happens, and it isn't your imagination. Old injuries change things — a knee that's been surgically repaired, an ankle that's never quite trusted itself since a bad sprain. Years of another dominant activity (soccer, martial arts, a manual job that loads one side of your body more) can also nudge which side you trust more for explosive, planted force versus which side you trust for balance.
 
-If your push test and slide test now disagree with what you remember from twenty years ago, trust the current tests over the memory. Your body isn't the same body, and the stance that suits it now is worth more than nostalgia for the one you used to have.
+If your push test and slide test now disagree with what you remember from twenty years ago, don't switch on the strength of those alone — years of actual riding is stronger evidence than a nudge and a visualization exercise. Treat the disagreement as a reason to check on the board itself: on flat, empty ground, push and carve a few minutes each way and pay attention to which one actually feels controlled, not just familiar. That on-board trial, not the off-board tests, is what should decide it.
 
 ## What to do with a genuinely mixed result
 

@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-11T15:28:07.983Z
+# Date: 2026-09-11T15:32:32.551Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -710,7 +710,7 @@ Imagine kicking a ball as far as you can. Your kicking foot is almost always you
 
 This happens, and it isn't your imagination. Old injuries change things — a knee that's been surgically repaired, an ankle that's never quite trusted itself since a bad sprain. Years of another dominant activity (soccer, martial arts, a manual job that loads one side of your body more) can also nudge which side you trust more for explosive, planted force versus which side you trust for balance.
 
-If your push test and slide test now disagree with what you remember from twenty years ago, trust the current tests over the memory. Your body isn't the same body, and the stance that suits it now is worth more than nostalgia for the one you used to have.
+If your push test and slide test now disagree with what you remember from twenty years ago, don't switch on the strength of those alone — years of actual riding is stronger evidence than a nudge and a visualization exercise. Treat the disagreement as a reason to check on the board itself: on flat, empty ground, push and carve a few minutes each way and pay attention to which one actually feels controlled, not just familiar. That on-board trial, not the off-board tests, is what should decide it.
 
 ## What to do with a genuinely mixed result
 
@@ -3116,7 +3116,7 @@ That pull is exactly backwards. The skill that actually moves a comeback forward
 
 A large share of the injuries that derail an adult return follow the same pattern: someone who was skating well within their limits decides, consciously or not, that it's time to catch up to where they used to be. They drop into terrain a notch steeper than what they've been comfortable on. They try a trick at the speed they used to do it, not the speed their current body has actually earned. They skate a session longer because it's finally feeling good, past the point their joints were asking to stop.
 
-None of this comes from recklessness. It comes from progress feeling good, and from a very human instinct to chase that feeling by turning the dial up. The problem is that your skill and your tissue resilience come back on different timelines. Balance, reflexes, and technique return fast — often within weeks. Tendons, ligaments, and bone density adapt much more slowly, over months. Skating like your skill level, before your body has caught up, is where the gap opens up and injuries happen. It's the same reason the [8-week return plan](/blog/8-week-return-plan-adult-skaters/) holds you on flat ground for two full weeks that will feel too easy.
+None of this comes from recklessness. It comes from progress feeling good, and from a very human instinct to chase that feeling by turning the dial up. The problem is that your skill and your tissue resilience come back on different timelines. Balance, reflexes, and technique return fast — often within weeks. Tendons and ligaments adapt to new, repeated loading much more slowly, over months. (Bone is a longer, separate conversation — skating isn't a shortcut to stronger bones on any timeline this post can promise; see the [osteoporosis and bone density guide](/blog/osteoporosis-bone-density-skateboarding/) if that's a factor for you.) Skating like your skill level, before your soft tissue has caught up, is where the gap opens up and injuries happen. It's the same reason the [8-week return plan](/blog/8-week-return-plan-adult-skaters/) holds you on flat ground for two full weeks that will feel too easy.
 
 ## What "skating smaller" actually means
 
