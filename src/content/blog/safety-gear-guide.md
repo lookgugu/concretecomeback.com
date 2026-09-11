@@ -2,16 +2,17 @@
 title: "The Adult Skater's Guide to Protective Gear"
 description: "Everything you need to know about helmets, pads, and wrist guards for returning adult skaters — what to buy, what to skip, and what will actually protect you."
 pubDate: 2025-11-22
+updatedDate: 2026-09-09
 author: "Jo Fairweather"
 authorAge: 52
 tags: ["safety", "protective-equipment", "gear", "beginner"]
 ---
 
-Protective gear is the subject most adult skaters resist and most physios insist on. The physios are right.
+Protective gear is the subject adult skaters resist most and physios insist on most. The physios are right.
 
-The logic is simple: at 45, a wrist fracture takes 6–8 weeks to heal. At 16, it might have been 3–4 weeks. At 50, a head injury has consequences that don't exist at 20. The risk calculus has shifted.
+At 45, a wrist fracture takes six to eight weeks to heal where at 16 it might have been three or four. At 50, a head injury carries consequences it wouldn't have at 20. The calculus has shifted, whether or not the instinct has caught up.
 
-Here is what to actually buy.
+Here's what to buy.
 
 ## Helmet: the only non-negotiable
 
@@ -47,7 +48,11 @@ Often skipped, occasionally important. If you're working on drops or steep trans
 
 ## Hip pads
 
-Niche but useful for bowl skating or any session where you're working on new maneuvers with a high fall rate. Hip fractures in older adults are serious. Companies like Demon and Hyperlite make padded shorts that look like regular shorts.
+The gap most adult skaters don't know exists. A sideways fall — the kind that happens catching an edge or losing balance mid-carve — tends to land you on the meaty part of the hip, right over the bony point called the greater trochanter. Past 40, and especially past 50, that's a different calculus than it was at 20: bone density has usually started declining, and a hip injury has a well-documented tendency to disrupt mobility and independence for far longer than a wrist or ankle injury of similar severity.
+
+Hip pads are usually sold as "impact shorts" or "hip protectors" — padded shorts you wear under your regular clothes, with foam positioned over each hip and sometimes the tailbone. Done right, they don't prevent a fall; they absorb and disperse the impact energy if you land on your hip, the same principle as a helmet for your skull. But not every padded short does that job equally well — pad placement, coverage, and how much impact the foam actually attenuates vary a lot between products, and a short that merely looks padded isn't the same as one that's been impact-tested over the greater trochanter. If you're buying these specifically because of a bone-density concern, look for a product that documents impact testing rather than assuming any padded short will do; a generic pair bought purely for the look of coverage may not protect much at all. Recent well-made versions run thinner and more breathable than the bulky designs of a decade ago and don't show under jeans or joggers.
+
+Worth wearing if you're still relearning how to fall (the first few months back, before your reflexes for catching a fall have returned), you skate bowls, ramps, or transitions — which produce more sideways and backward falls than flat-ground street skating — or you have any reason to think your bone density is lower than average, which is worth a quick check with your GP if you're not sure.
 
 ## What to skip
 
@@ -55,6 +60,6 @@ Ankle braces: useful if you've had an ankle injury, but not a substitute for bui
 
 Mouth guards: appropriate for aggressive bowl skating or vert, but overkill for the returning adult who's learning to cruise and carve again.
 
-## The one rule
+## One rule
 
-Wear your helmet every time. Not just when you're "trying something." Adults who get head injuries while skating were usually not trying anything dangerous — they were just pushing along and caught an edge or had a momentary lapse of attention.
+Wear your helmet every time, not just when you're trying something. Most adults who take a head injury skating weren't attempting anything difficult. They were pushing along and caught an edge.

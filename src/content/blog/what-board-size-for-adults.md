@@ -23,7 +23,7 @@ Wider boards are more stable. The downside is that flip tricks are slightly hard
 
 ## Wheels
 
-Soft wheels are transformative for adult skating. The difference between 78a and 101a on any surface that isn't perfectly smooth is immediately felt in your knees and ankles.
+Soft wheels change adult skating more than any other single component. The difference between 78a and 101a on anything short of perfect concrete shows up immediately in your knees and ankles.
 
 For park and street: 84a–92a (medium-soft) gives decent grip and absorbs minor surface imperfections.
 

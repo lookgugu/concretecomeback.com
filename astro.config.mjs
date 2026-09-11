@@ -25,6 +25,13 @@ export default defineConfig({
 
   output: 'static',
 
+  // pre-skate-warm-up-routine duplicated warm-up-routine-for-adult-skaters (same
+  // author, same routine, four days apart) and was consolidated into it; keep the
+  // old URL alive rather than 404 anyone who bookmarked or shared it.
+  redirects: {
+    '/blog/pre-skate-warm-up-routine/': '/blog/warm-up-routine-for-adult-skaters/',
+  },
+
   build: {
     format: 'directory',
     assets: '_assets',

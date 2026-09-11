@@ -160,12 +160,47 @@ test('confirming reactivates an existing contact with a single update', async ()
     const token = createToken('returning@example.com', process.env.NEWSLETTER_CONFIRM_SECRET);
     const result = await main({ http: { method: 'POST' }, confirmation_token: token });
     assert.equal(result.headers.location, '/newsletter/confirmed/');
-    assert.equal(requests.length, 1);
+    assert.equal(requests.length, 2);
     assert.equal(requests[0].url, 'https://api.resend.com/contacts/returning%40example.com');
     assert.equal(requests[0].options.method, 'PATCH');
     assert.deepEqual(JSON.parse(requests[0].options.body), { unsubscribed: false });
     assert.ok(requests[0].options.signal instanceof AbortSignal);
+    assert.equal(
+      requests[1].url,
+      'https://api.resend.com/contacts/returning%40example.com/segments/35b5b4f0-ac74-4ffa-b7d3-620e4f0014ed',
+    );
+    assert.equal(requests[1].options.method, 'POST');
   });
+});
+
+test('a returning subscriber is still confirmed when the segment add fails', async () => {
+  const requests = [];
+  await withEnvironment(async (url, options) => {
+    requests.push({ url, options });
+    return requests.length === 1 ? { ok: true, status: 200 } : { ok: false, status: 500 };
+  }, async () => {
+    const token = createToken('returning@example.com', process.env.NEWSLETTER_CONFIRM_SECRET);
+    const result = await main({ http: { method: 'POST' }, confirmation_token: token });
+    assert.equal(result.headers.location, '/newsletter/confirmed/');
+    assert.equal(requests.length, 2);
+  });
+});
+
+test('NEWSLETTER_SEGMENT_ID overrides the built-in segment', async () => {
+  const requests = [];
+  process.env.NEWSLETTER_SEGMENT_ID = 'override-segment';
+  try {
+    await withEnvironment(async (url, options) => {
+      requests.push({ url, options });
+      return { ok: true, status: 200 };
+    }, async () => {
+      const token = createToken('returning@example.com', process.env.NEWSLETTER_CONFIRM_SECRET);
+      await main({ http: { method: 'POST' }, confirmation_token: token });
+      assert.equal(requests[1].url, 'https://api.resend.com/contacts/returning%40example.com/segments/override-segment');
+    });
+  } finally {
+    delete process.env.NEWSLETTER_SEGMENT_ID;
+  }
 });
 
 test('confirming a new address creates the contact only after the update reports 404', async () => {
@@ -181,7 +216,11 @@ test('confirming a new address creates the contact only after the update reports
     assert.equal(requests[0].options.method, 'PATCH');
     assert.equal(requests[1].url, 'https://api.resend.com/contacts');
     assert.equal(requests[1].options.method, 'POST');
-    assert.deepEqual(JSON.parse(requests[1].options.body), { email: 'skater@example.com', unsubscribed: false });
+    assert.deepEqual(JSON.parse(requests[1].options.body), {
+      email: 'skater@example.com',
+      unsubscribed: false,
+      segments: [{ id: '35b5b4f0-ac74-4ffa-b7d3-620e4f0014ed' }],
+    });
     assert.ok(requests[1].options.signal instanceof AbortSignal);
   });
 });
@@ -243,4 +282,52 @@ test('a signed payload without an expiry is rejected rather than living forever'
   const payload = Buffer.from(JSON.stringify({ email: 'skater@example.com' })).toString('base64url');
   const signature = createHmac('sha256', secret).update(payload).digest('base64url');
   assert.equal(readToken(`${payload}.${signature}`, secret, 2_000), null);
+});
+
+// The inline CTA on every blog post is server-rendered, so it still submits when
+// the client bundle never runs. Those submissions are plain navigations and must
+// land on a page; only the fetch path should ever see JSON.
+test('a no-JS form submission lands on a branded page instead of raw JSON', async () => {
+  const requests = [];
+  await withEnvironment(async (url, options) => {
+    requests.push({ url, options });
+    return { ok: true, status: 200 };
+  }, async () => {
+    const result = await main({
+      http: { method: 'POST', headers: { accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8' } },
+      email: 'skater@example.com',
+      consent: 'yes',
+    });
+    assert.equal(requests.length, 1, 'the confirmation email is still sent');
+    assert.equal(result.statusCode, 303);
+    assert.equal(result.headers.location, '/newsletter/pending/');
+    assert.equal(result.body, '');
+  });
+});
+
+test('a failed no-JS submission lands on the branded error page', async () => {
+  await withEnvironment(async () => ({ ok: false, status: 500, text: async () => 'nope' }), async () => {
+    const result = await main({
+      http: { method: 'POST', headers: { accept: 'text/html' } },
+      email: 'skater@example.com',
+      consent: 'yes',
+    });
+    assert.equal(result.statusCode, 303);
+    assert.equal(result.headers.location, '/newsletter/error/');
+  });
+});
+
+test('the fetch path keeps JSON, and so does a caller that sends no Accept header', async () => {
+  await withEnvironment(async () => ({ ok: true, status: 200 }), async () => {
+    const asJson = await main({
+      http: { method: 'POST', headers: { accept: 'application/json' } },
+      email: 'skater@example.com',
+      consent: 'yes',
+    });
+    assert.equal(asJson.statusCode, 202);
+    assert.deepEqual(JSON.parse(asJson.body), { ok: true, status: 'pending' });
+
+    const headerless = await main({ http: { method: 'POST' }, email: 'other@example.com', consent: 'yes' });
+    assert.equal(headerless.statusCode, 202);
+  });
 });

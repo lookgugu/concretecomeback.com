@@ -14,3 +14,7 @@ node_modules/
 
 # Firecrawl scrape output from local skill runs
 .firecrawl/
+
+# Local agent state and run logs
+.agent-state/
+logs/

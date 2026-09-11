@@ -8,9 +8,7 @@ tags: ["community", "groups", "social", "meetups"]
 featured: true
 ---
 
-Skating alone is fine. But skating with people your own age, who understand what it's like to be stiff in the mornings and cautious about falling, is something different.
-
-Here's how to find them.
+Skating alone is fine. Skating with people your own age — who know what it's like to be stiff in the mornings and cautious about falling — is better. Here's how to find them.
 
 ## Start at the park, at the right time
 
@@ -38,6 +36,4 @@ We maintain a directory of skating groups for adults 40+ across the US, UK, Cana
 
 ## Organizing your own session
 
-If there's a gap in your city, fill it. Post in local Facebook groups, put a note on the skate park bulletin board (if there is one), or message a few people you've seen skating at the park. A "show up at 10am Sunday, all welcome" post on social media will often find you more people than you expect.
-
-The adult skate community is growing. It's scattered and informal in most places, but it's there.
+If there's a gap in your city, fill it. Post in local Facebook groups, put a note on the skate park bulletin board if there is one, or message a few people you've seen skating there. A "10am Sunday, all welcome" post will usually turn up more people than you expect.

@@ -1,13 +1,25 @@
 ---
 import BaseLayout from '@layouts/BaseLayout.astro';
+import NewsletterInline from '@components/marketing/NewsletterInline.astro';
 ---
 <BaseLayout title="Subscription link problem | Concrete Comeback" description="We could not confirm your Concrete Comeback subscription." noIndex={true}>
   <section class="max-w-2xl mx-auto px-4 sm:px-6 py-16 text-center">
     <p class="text-skate-orange font-bold uppercase tracking-widest mb-3">That link didn’t land</p>
     <h1 class="font-display text-4xl text-concrete-900 mb-4">Request a fresh confirmation</h1>
-    <p class="text-lg text-concrete-600 mb-8">Confirmation links only work for two hours. Head back to the site and the signup prompt will offer you a fresh one.</p>
-    <a href="/" class="inline-block px-6 py-3 bg-skate-orange text-white font-bold rounded-lg no-underline">Return home</a>
+    <p class="text-lg text-concrete-600 mb-8">
+      Confirmation links only work for two hours, and a signup can fail on our side too.
+      Either way, ask for a fresh link below.
+    </p>
   </section>
+
+  <div class="max-w-2xl mx-auto px-4 sm:px-6 pb-16">
+    <!-- Server-rendered, so it is a real retry path for a visitor who got here
+         from a failed signup with JavaScript off — the popup cannot be one. -->
+    <NewsletterInline />
+    <p class="mt-8 text-center">
+      <a href="/" class="text-sm text-concrete-500 hover:text-concrete-800">← Return home</a>
+    </p>
+  </div>
   <script is:inline>
     // The prompt suppresses itself after a signup or a dismissal, which would make
     // the instruction above impossible to follow. Clear that state — but keep a

@@ -8,15 +8,13 @@ authorBio: "Skated from ages 13–26, took a 20-year break, and came back at 46.
 tags: ["gear", "getting-started", "beginner", "board-setup"]
 ---
 
-The question nobody asks directly but almost everyone googles when they're thinking about getting back into skating: how much is this going to cost me?
+Everyone googles this before they commit: how much is getting back into skating going to cost?
 
-It's a reasonable question and an honest one. Adults have different financial contexts than teenagers, and before committing time to something new, knowing the real cost matters.
+Here's a breakdown across three budget tiers, from starter gear to a fully committed setup, plus the ongoing costs nobody mentions until you're already in.
 
-Here's a complete breakdown — starter gear through to a solid committed setup — with three realistic budget tiers.
+## What you need to start
 
-## What You Actually Need to Start
-
-Before the breakdown, let's separate essential from optional. To start skating, you need:
+Separating essential from optional. To skate, you need:
 
 1. **A skateboard** (complete is fine to start)
 2. **A helmet** (non-negotiable)
@@ -98,9 +96,9 @@ This is the setup for someone who's skating three or more times a week and wants
 
 ---
 
-## Ongoing Costs: What to Expect
+## Ongoing costs
 
-Skating has ongoing costs that are worth knowing about before you start:
+The part that doesn't show up in the initial outlay:
 
 **Shoes:** The highest ongoing cost. Griptape destroys the toe of your dominant foot shoe in 2–4 months of regular skating. Budget $80–$130 every 3–6 months.
 
@@ -116,10 +114,10 @@ Skating has ongoing costs that are worth knowing about before you start:
 
 ---
 
-## The Honest Summary
+## Summary
 
-Getting back into skating at Tier 1 costs roughly what you'd spend on a decent pair of running shoes plus a gym month membership. It's not free, but it's not a major financial commitment either.
+Tier 1 costs roughly what you'd spend on a decent pair of running shoes plus a month of gym membership.
 
-The cost is recoverable too. If you try it and it's not for you, a complete in good condition resells easily. Quality helmets and pads retain value. You're not locked in.
+It's also recoverable. A complete in good condition resells easily, and quality helmets and pads hold their value, so trying it and deciding against it isn't an expensive mistake.
 
-For most returning adults, the realistic first-year cost including replacements is $400–$700 depending on how much you skate and whether you go to indoor parks or free outdoor ones. That's less than annual gym membership in most cities — and the experience is considerably better.
+For most returning adults the realistic first-year cost including replacements is $400–$700, depending on how much you skate and whether you're paying for indoor park sessions. That's under the annual gym membership in most cities.
