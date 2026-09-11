@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-11T15:21:34.159Z
+# Date: 2026-09-11T15:24:49.208Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -680,7 +680,7 @@ The people who come back and stick with it are the ones who stop measuring again
 ### Goofy or Regular? How to Find Your Skating Stance
 How to figure out your regular or goofy stance on a skateboard, and what to do if your teenage stance doesn't feel right anymore.
 
-Almost every beginner guide tells you to "figure out your stance" and then moves on, as if that's obvious. It isn't, and it matters more than most of the advice that comes after it. Your stance determines which way you push, which foot you plant on, and how a hundred small movements — carving, ollieing, dropping in — end up feeling natural or fighting you the whole way.
+Almost every beginner guide tells you to "figure out your stance" and then moves on, as if that's obvious. It isn't, and it matters more than most of the advice that comes after it. Your stance — which foot stays forward on the board — shapes how a hundred small movements end up feeling: carving, ollieing, dropping in, and, for most people, which foot ends up doing the pushing.
 
 If you skated years ago, you probably remember your stance the way you remember a phone number you haven't dialed in decades — confidently, until you actually try to use it. Some returning adults find their old stance still fits perfectly. Others discover it feels off in a way they can't quite explain. Both are normal, and there's a reliable way to sort it out.
 
