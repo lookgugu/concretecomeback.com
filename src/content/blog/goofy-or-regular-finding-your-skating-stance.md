@@ -30,7 +30,7 @@ Stand normally on grass or carpet, then have someone give you a gentle, unexpect
 
 ### The slide test
 
-Find a smooth floor in socks, or imagine sliding across ice. Whichever foot you'd naturally put forward to glide is a strong indicator of your front foot on a board. This one taps the same instinct as the push test but is easier to do alone — just picture it vividly, or actually try it on a slick floor if you have one.
+Picture yourself sliding across ice, or stepping onto a patch of loose gravel — whichever foot you'd instinctively put forward to catch your balance is a strong indicator of your front foot on a board. This one taps the same instinct as the push test but you can do it purely as a mental exercise, no actual sliding required — deliberately reducing your traction to test it isn't worth the fall risk.
 
 ### The kick test
 

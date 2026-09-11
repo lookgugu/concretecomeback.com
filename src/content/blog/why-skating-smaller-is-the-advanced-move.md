@@ -39,7 +39,7 @@ This is also why it's a skill and not just a rule. Anyone can be told to "be car
 
 ## A rough way to pace it
 
-There's no universal formula, because bodies and skating histories vary too much for one, but a workable approach for most returning adults is to hold each level — terrain, speed, session length — for noticeably longer than feels necessary, and to increase only one variable at a time. If you just extended your session length, don't also push into steeper terrain the same week. If you're trying new terrain, keep your speed conservative on it until it feels boring, not just comfortable.
+There's no universal formula, because bodies and skating histories vary too much for one, but a workable approach for most returning adults is to hold each level — terrain, speed, session length — for noticeably longer than feels necessary, and to increase only one variable at a time. If you just extended your session length, don't also push into steeper terrain the same week. If you're trying a new open transition or bank, keep your speed conservative on it until it feels boring, not just comfortable — for a ledge or a drop-in, "conservative" means smaller and better-practiced, not slower, for the reasons above.
 
 "Boring" is actually the signal you want. If a piece of terrain or a trick feels genuinely easy and a little dull, that's usually a better sign that you're ready to size up than any burst of confidence is — confidence tends to arrive well before your body has actually adapted.
 
