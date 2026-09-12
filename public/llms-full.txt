@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-12T09:29:38.255Z
+# Date: 2026-09-12T09:33:08.311Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -3110,7 +3110,7 @@ It's worth being precise about what that study covers: it's in-line skating, not
 
 Not everything sold as a "wrist guard" does this job. A padded glove without a splint protects your skin from road rash and does very little for the bone underneath.
 
-The part doing the actual work is a rigid splint — plastic or composite — running along the palm and sometimes the back of the hand, that physically stops your wrist from bending past a safe angle when it lands. That's the entire mechanism: not cushioning the impact, but preventing the joint from reaching the position where it breaks.
+The part doing the actual work is a rigid splint — plastic or composite — running along the palm and sometimes the back of the hand, that limits how far your wrist can bend backward when it lands and helps spread the load away from the joint. That's the main mechanism, and it isn't a guarantee: a forceful enough fall can still fracture a guarded wrist, just at a higher force and often less severely than an unguarded one. It's risk reduction, not immunity — which is exactly why the falling technique above still matters even with guards on.
 
 ## Guards and your falling technique
 
