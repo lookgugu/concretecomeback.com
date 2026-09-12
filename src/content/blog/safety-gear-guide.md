@@ -2,7 +2,7 @@
 title: "The Adult Skater's Guide to Protective Gear"
 description: "Everything you need to know about helmets, pads, and wrist guards for returning adult skaters — what to buy, what to skip, and what will actually protect you."
 pubDate: 2025-11-22
-updatedDate: 2026-09-09
+updatedDate: 2026-09-12
 author: "Jo Fairweather"
 authorAge: 52
 tags: ["safety", "protective-equipment", "gear", "beginner"]
@@ -30,7 +30,7 @@ Brands that consistently get good reviews: Triple Eight, Pro-Tec, S1 Helmet. Exp
 
 Adults fall forward and sideways, onto their hands. A broken wrist is the most common serious skating injury among adults returning to the sport. Wrist guards with a rigid splint — not just padded gloves — are what prevent this.
 
-The downside of wrist guards is that they change how you catch yourself when you fall. You need to learn to fall on the guard, not try to grab or grip with your hands. This takes some getting used to.
+Wrist guards don't change the falling technique you should already be using — hands away from the ground, rolling onto the fleshy parts of your body, the way [this site's falling guide](/blog/how-to-fall-without-breaking-your-wrist/) lays out. What they change is narrower: on the falls where a hand does end up on the ground despite good technique, the instinct to unlearn is grabbing or gripping. Let the hand slide against the splint instead — clawing at the ground can still twist the wrist against the guard's edge rather than being stopped by it. This takes some getting used to.
 
 Brands worth buying: Triple Eight Hired Hands, Pro-Tec Street gear, Hillbilly Full Finger.
 
