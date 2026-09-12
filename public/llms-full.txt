@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-12T09:19:58.598Z
+# Date: 2026-09-12T09:24:59.239Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -3104,7 +3104,7 @@ This post is about the second line: the falls where a hand ends up on the ground
 
 The number worth knowing comes from a study published in the *New England Journal of Medicine* in 1996, looking at in-line skaters rather than skateboarders specifically. Researchers found that skaters who weren't wearing wrist guards had roughly ten times the odds of a wrist injury compared to skaters who were — an adjusted odds ratio of 10.4.
 
-It's worth being precise about what that study covers: it's in-line skating, not skateboarding, and it's three decades old. Nobody has run the equivalent trial on skateboarders specifically. But the injury mechanism the guard is designed to interrupt — a fall onto an outstretched hand — is the same mechanism in both sports, and a separate biomechanical study on the same population found that wrist guards meaningfully increased the force needed to cause a fracture, on the order of 50%, with less severe breaks when a fracture did occur. Between the epidemiological finding and the biomechanical one, the case for wearing them is stronger than for almost any other piece of skate gear besides a helmet.
+It's worth being precise about what that study covers: it's in-line skating, not skateboarding, and it's three decades old. Nobody has run the equivalent trial on skateboarders specifically. But the injury mechanism the guard is designed to interrupt — a fall onto an outstretched hand — is the same mechanism in both sports, and a separate biomechanical study, using cadaveric forearms rather than live skaters, found that wrist guards meaningfully increased the force needed to cause a fracture, on the order of 50%, with less severe breaks when a fracture did occur. That's a different kind of evidence — lab-measured force-to-fracture, not a population of skaters — but it points the same direction as the epidemiological finding, which together make the case for wearing them stronger than for almost any other piece of skate gear besides a helmet.
 
 ## Why a rigid splint is the part that matters
 
@@ -3116,11 +3116,11 @@ The part doing the actual work is a rigid splint — plastic or composite — ru
 
 Wrist guards don't replace the tuck-and-roll technique in the guide linked above. Hands away from the ground, chin tucked, rolling rather than stopping — that's still the goal on every fall, splint or no splint.
 
-What guards change is narrower. On the falls where a hand does make contact despite good technique — and even experienced skaters have some of these — the instinct to fight is the grip reflex: fingers spread, clawing at whatever's underneath them. A hand that lands and slides lets the splint do its job. A hand that claws or grips at the ground the way it would bare-handed can still twist the wrist against the edge of the splint rather than being stopped by it. The guard is there for the moment your technique runs out, not a substitute for the technique itself, and it's worth a few slow, deliberate practice falls on grass or a mat to feel the difference between the two.
+What guards change is narrower. On the falls where a hand does make contact despite good technique — and even experienced skaters have some of these — the instinct to fight is the grip reflex: fingers spread, clawing at whatever's underneath them. A hand that lands and slides lets the splint do its job. A hand that claws or grips at the ground the way it would bare-handed can still twist the wrist against the edge of the splint rather than being stopped by it. The guard is there for the moment your technique runs out, not a substitute for the technique itself, and not something to deliberately train for by putting a hand down on purpose — the tuck-and-roll practice in the guide above, which keeps hands away from the ground altogether, is still the only falling drill worth rehearsing on purpose.
 
 ## What to actually buy
 
-This site's [protective gear guide](/blog/safety-gear-guide/) covers specific brands and the full buying criteria. The one addition worth calling out here: size to your actual wrist circumference rather than guessing, since a guard that's too loose lets the splint shift out of position exactly when you need it. Expect to pay $25–45 for a pair with a proper rigid splint — small money against six to eight weeks in a cast, which is the realistic recovery time for a broken wrist in your 40s or 50s, often longer than it would have taken at 16.
+This site's [protective gear guide](/blog/safety-gear-guide/) covers specific brands and the full buying criteria. The one addition worth calling out here: guards don't all size the same way — some go by wrist circumference, others by hand or palm circumference around the knuckles — so measure against the specific model's chart rather than assuming, since a guard sized off the wrong measurement lets the splint shift out of position exactly when you need it. Expect to pay $25–45 for a pair with a proper rigid splint — small money against six to eight weeks in a cast, which is the realistic recovery time for a broken wrist in your 40s or 50s, often longer than it would have taken at 16.
 
 ## The part that's entirely up to you
 
