@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-12T14:10:25.449Z
+# Date: 2026-09-12T14:10:49.857Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -3235,7 +3235,7 @@ This post is about the second line: the falls where a hand ends up on the ground
 
 The number worth knowing comes from Schieber et al., "Risk Factors for Injuries from In-Line Skating and the Effectiveness of Safety Gear," published in the *New England Journal of Medicine* in 1996 — a study of in-line skaters, not skateboarders. Researchers found that skaters who weren't wearing wrist guards had roughly ten times the odds of a wrist injury compared to skaters who were — an adjusted odds ratio of 10.4.
 
-It's worth being precise about what that study covers: it's in-line skating, not skateboarding, and it's three decades old. Nobody has run the equivalent trial on skateboarders specifically. The injury mechanism the guard is designed to interrupt — a fall onto an outstretched hand — is the same mechanism in both sports, but the lab evidence on exactly how much a rigid guard changes the physics of that fall is messier than the real-world number above. Cadaveric forearm testing on guarded versus unguarded wrists has produced mixed results across different studies, guard designs, and impact speeds: some have found guards meaningfully raise the force needed to cause a fracture, while a widely cited one — Giacobetti et al., *American Journal of Sports Medicine*, 1997 — found no statistically significant difference under its specific test conditions. The population-level finding is the one worth hanging your hat on here; the lab work mostly explains why the protection isn't absolute, not a reason to doubt that it helps.
+It's worth being precise about what that study covers: it's in-line skating, not skateboarding, and it's three decades old. Nobody has run the equivalent trial on skateboarders specifically. The injury mechanism the guard is designed to interrupt — a fall onto an outstretched hand — is the same mechanism in both sports, but the lab evidence on exactly how much a rigid guard changes the physics of that fall is messier than the real-world number above. Cadaveric forearm testing on guarded versus unguarded wrists has produced mixed results across different studies, guard designs, and impact speeds. The most widely cited null result — Giacobetti et al., *American Journal of Sports Medicine*, 1997 — loaded 20 pairs of cadaver forearms to failure and found no statistically significant difference in the force it took to fracture a guarded wrist versus a bare one. Two other cadaver studies in the same journal found a benefit, just not the one you might expect: Moore et al., 1997, saw fewer carpal fractures and ligament injuries in the braced wrists even though the radius still broke, and Staebler et al., 1999, measured lower bone strain at the distal radius and more energy absorbed before fracture with two commercially available guards. The population-level finding is the one worth hanging your hat on here; the lab work mostly explains why the protection isn't absolute — a guard changes how a wrist fails more reliably than whether it fails — not a reason to doubt that it helps.
 
 ## Why a rigid splint is the part that matters
 
@@ -3251,7 +3251,7 @@ What guards change is narrower. On the falls where a hand does make contact desp
 
 ## What to actually buy
 
-This site's [protective gear guide](/blog/safety-gear-guide/) covers specific brands and the full buying criteria. The one addition worth calling out here: guards don't all size the same way — some go by wrist circumference, others by hand or palm circumference around the knuckles — so measure against the specific model's chart rather than assuming, since a guard sized off the wrong measurement lets the splint shift out of position exactly when you need it. Expect to pay $25–45 for a pair with a proper rigid splint — small money against six to eight weeks in a cast, which is the realistic recovery time for a broken wrist in your 40s or 50s, often longer than it would have taken at 16.
+This site's [protective gear guide](/blog/safety-gear-guide/) covers specific brands and the full buying criteria. The one addition worth calling out here: guards don't all size the same way — some go by wrist circumference, others by hand or palm circumference around the knuckles — so measure against the specific model's chart rather than assuming, since a guard sized off the wrong measurement lets the splint shift out of position exactly when you need it. Expect to pay roughly $25–45 for a basic pair with a proper rigid splint, and more for the leather glove-style guards that guide also recommends — small money either way against six to eight weeks in a cast, which is the realistic recovery time for a broken wrist in your 40s or 50s, often longer than it would have taken at 16.
 
 ## The part that's entirely up to you
 
