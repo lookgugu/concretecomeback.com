@@ -1,6 +1,6 @@
 ---
 title: "The Wrist Guard Study Every Returning Skater Should Know About"
-description: "The real research behind the wrist guard recommendation, what a 10x risk difference actually means, and how to pick a guard that works."
+description: "The real research behind the wrist guard recommendation, what a 10x odds ratio actually means, and how to pick a guard that works."
 pubDate: 2026-09-12
 author: "Jo Fairweather"
 authorAge: 52
