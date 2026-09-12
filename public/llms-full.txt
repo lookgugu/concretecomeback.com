@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-12T09:33:08.311Z
+# Date: 2026-09-12T09:38:22.051Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -3102,15 +3102,15 @@ This post is about the second line: the falls where a hand ends up on the ground
 
 ## What the research actually found
 
-The number worth knowing comes from a study published in the *New England Journal of Medicine* in 1996, looking at in-line skaters rather than skateboarders specifically. Researchers found that skaters who weren't wearing wrist guards had roughly ten times the odds of a wrist injury compared to skaters who were — an adjusted odds ratio of 10.4.
+The number worth knowing comes from Schieber et al., "Risk Factors for Injuries from In-Line Skating and the Effectiveness of Safety Gear," published in the *New England Journal of Medicine* in 1996 — a study of in-line skaters, not skateboarders. Researchers found that skaters who weren't wearing wrist guards had roughly ten times the odds of a wrist injury compared to skaters who were — an adjusted odds ratio of 10.4.
 
-It's worth being precise about what that study covers: it's in-line skating, not skateboarding, and it's three decades old. Nobody has run the equivalent trial on skateboarders specifically. But the injury mechanism the guard is designed to interrupt — a fall onto an outstretched hand — is the same mechanism in both sports, and a separate biomechanical study, using cadaveric forearms rather than live skaters, found that wrist guards meaningfully increased the force needed to cause a fracture, on the order of 50%, with less severe breaks when a fracture did occur. That's a different kind of evidence — lab-measured force-to-fracture, not a population of skaters — but it points the same direction as the epidemiological finding, which together make the case for wearing them stronger than for almost any other piece of skate gear besides a helmet.
+It's worth being precise about what that study covers: it's in-line skating, not skateboarding, and it's three decades old. Nobody has run the equivalent trial on skateboarders specifically. The injury mechanism the guard is designed to interrupt — a fall onto an outstretched hand — is the same mechanism in both sports, but the lab evidence on exactly how much a rigid guard changes the physics of that fall is messier than the real-world number above. Cadaveric forearm testing on guarded versus unguarded wrists has produced mixed results across different studies, guard designs, and impact speeds: some have found guards meaningfully raise the force needed to cause a fracture, while a widely cited one — Giacobetti et al., *American Journal of Sports Medicine*, 1997 — found no statistically significant difference under its specific test conditions. The population-level finding is the one worth hanging your hat on here; the lab work mostly explains why the protection isn't absolute, not a reason to doubt that it helps.
 
 ## Why a rigid splint is the part that matters
 
 Not everything sold as a "wrist guard" does this job. A padded glove without a splint protects your skin from road rash and does very little for the bone underneath.
 
-The part doing the actual work is a rigid splint — plastic or composite — running along the palm and sometimes the back of the hand, that limits how far your wrist can bend backward when it lands and helps spread the load away from the joint. That's the main mechanism, and it isn't a guarantee: a forceful enough fall can still fracture a guarded wrist, just at a higher force and often less severely than an unguarded one. It's risk reduction, not immunity — which is exactly why the falling technique above still matters even with guards on.
+The part doing the actual work is a rigid splint — plastic or composite — running along the palm and sometimes the back of the hand, that limits how far your wrist can bend backward when it lands and helps spread the load away from the joint. That's the main mechanism, and it isn't a guarantee: a forceful enough fall can still fracture a guarded wrist, as the mixed lab results above show. It's risk reduction, not immunity — which is exactly why the falling technique above still matters even with guards on.
 
 ## Guards and your falling technique
 
