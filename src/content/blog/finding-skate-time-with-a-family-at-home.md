@@ -28,7 +28,7 @@ Say it plainly and early: "I'm going to skate on Tuesday and Thursday evenings, 
 
 **Offer an equivalent trade up front.** If skating is two mornings a week, name what you're taking on in exchange — a weeknight of solo kid duty, a chore you'll own without being asked, an evening that's entirely your partner's to use however they want. This isn't a transaction you owe out of guilt; it's what makes an uneven-looking schedule feel fair to both people living inside it.
 
-**Bring kids in when you can, rather than only skating away from them.** A lot of parks have flat ground, cruising paths, or beginner sections that work for a range of ages. An hour where you're skating and your kid is scootering nearby, or trying a board of their own, counts as family time and skate time at once — and it's part of what's driving the visible boom in parents skating alongside their kids right now.
+**Bring kids in when you can, rather than only skating away from them.** A lot of parks have flat ground, cruising paths, or beginner sections that work for a range of ages. An hour where you're skating and your kid is scootering nearby, or trying a board of their own, counts as family time and skate time at once — and it's how several of the parents in our group ended up with a regular skate partner who lives in the same house.
 
 **Renegotiate before it becomes a fight, not during one.** Life changes — a new job, a new baby, a parent needing more help — and a schedule that worked in March might not work in September. Revisit the arrangement on purpose every few months rather than waiting for your partner to bring it up as a complaint.
 

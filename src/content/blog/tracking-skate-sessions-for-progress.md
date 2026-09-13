@@ -1,6 +1,6 @@
 ---
 title: "What Tracking Your Skate Sessions Does for Your Progress"
-description: "A simple session log for older skaters — duration, attempts, soreness, one note — that catches overtraining early and shows progress you'd otherwise miss."
+description: "A simple session log for older skaters — duration, focus, soreness, one note — that catches overtraining early and shows progress you'd otherwise miss."
 pubDate: 2026-09-13
 author: "Jo Fairweather"
 authorAge: 52

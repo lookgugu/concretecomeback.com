@@ -16,7 +16,7 @@ Deck width gets all the attention in gear conversations because it's the thing y
 
 ## The durometer scale, briefly
 
-Skateboard wheel hardness is measured on the "A" durometer scale, printed right on the wheel — something like 99a or 83a. Higher number, harder wheel. That's the whole system, but the range that matters for returning older skaters is roughly 78a to 101a:
+Skateboard wheel hardness is measured on the "A" durometer scale, printed right on the wheel — something like 99a or 83a. Higher number, harder wheel. One wrinkle: a few brands, Bones most visibly, print a "B" scale instead, which reads about 20 points lower for the same hardness — an 83b is roughly a 103a, not a soft wheel. Otherwise that's the whole system, and the range that matters for returning older skaters is roughly 78a to 101a:
 
 - **99a–101a (hard):** Fast, slides easily, transmits almost every crack and pebble straight into your legs. This is what most street-oriented complete boards ship with, because it's what teenagers doing technical tricks on smooth ground want.
 - **90a–97a (medium-hard):** A middle ground some park skaters use — faster than soft wheels, more forgiving than full-hard, but still transmits real vibration on anything but clean concrete.
@@ -40,8 +40,6 @@ The honest answer depends less on your age and more on your terrain, though the 
 
 **A mix of both, which is most people's reality:** Split the difference around 82a–85a. It's the setup that costs you the least regardless of which surface you end up on that day, and it's the range I'd point any returning older skater toward if they only want to own one set of wheels.
 
-**Newer "wheel-friendly" park redesigns with rolling, mixed terrain** — more parks are being built this way specifically because it suits a wider range of riders — reward the same soft-to-medium range rather than the hard wheels a dedicated street or vert setup would use.
-
 ## Size matters too, but less than hardness
 
 Diameter (measured in millimeters, usually 52mm–60mm+ for skateboard wheels) affects how much momentum you carry and how well you roll over cracks, with bigger generally meaning smoother and faster. It's a real factor, but it's secondary to hardness for comfort — a big hard wheel still hammers your joints on rough ground, while a smaller soft wheel still absorbs plenty. If you're prioritizing one variable to get right, make it durometer first.
@@ -49,5 +47,7 @@ Diameter (measured in millimeters, usually 52mm–60mm+ for skateboard wheels) a
 ## When to replace what you have
 
 Wheels wear unevenly and lose their round shape ("coning") well before they're visibly bald, and a coned wheel changes how your board turns without you necessarily noticing why. If your setup has felt off lately — grabbier turns on one side, more chatter than usual — check the wheels before you blame your technique. And if you're still riding whatever came stock on a complete built for street skating, that's worth checking today, not after your next sore-knee session.
+
+One caveat, because it matters: softer wheels take the vibration out of a session, but they don't fix a joint that's already hurting. If your knees are still sore after the swap, or the pain is new, sharp, or one-sided, that's a body question rather than a gear one — [our guide to skating with joint pain](/blog/skating-with-arthritis-chronic-joint-pain/) covers when to rest and when to get it looked at.
 
 If you're building or upgrading a setup from scratch, [our board size guide](/blog/what-board-size-for-adults/) covers deck and truck choices alongside wheels, and [concrete vs. wood vs. asphalt](/blog/concrete-vs-wood-vs-asphalt/) goes deeper on how surface interacts with all of it. But if you only change one thing on an existing board this week, make it the wheels. It's the cheapest gear upgrade on a skateboard, and for most returning older skaters, it's the one that actually changes how your body feels the next morning.
