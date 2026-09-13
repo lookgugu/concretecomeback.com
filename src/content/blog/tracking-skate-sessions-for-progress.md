@@ -28,13 +28,15 @@ Keep it short enough that you'll do it every time. Four things, thirty seconds, 
 
 **What you worked on.** One line: "kick turns," "pump track laps," "just cruising." Over a few weeks this becomes a rough map of where your actual practice time has gone, which is often surprisingly different from where you thought it was going.
 
-**Soreness or pain, rated simply.** A 0–3 scale is plenty: 0 is nothing, 1 is normal muscle fatigue, 2 is a specific joint or spot that's noticeably sore, 3 is something you're avoiding loading. The pattern matters more than any single entry — a joint that keeps showing up at 2 or higher across several sessions is telling you something a single sore day never could.
+**Soreness or pain, rated simply.** A 0–2 scale covers ordinary post-session soreness: 0 is nothing, 1 is normal muscle fatigue, 2 is a specific joint or spot that's noticeably sore. The pattern matters more than any single entry here — a joint that keeps showing up at 2 across several sessions is telling you something a single sore day never could.
+
+New pain that makes you avoid loading a joint or limb isn't a number to log and watch trend — it's a different category entirely, and it gets a different response. Don't wait for a pattern to confirm it. Stop skating on it that day and get it assessed, the same [red-zone rule that applies to any new or unstable joint pain](/blog/skating-with-arthritis-chronic-joint-pain/) — same-day care if you can't bear weight after a fall. Write it down anyway, so you have a record for whoever assesses it, but the log is documentation at that point, not a wait-and-see tool.
 
 **One observation.** Something you noticed — "carving felt smoother today," "still catching my back foot on kick turns," "windy, harder to balance." This is the note that turns into evidence of progress later, because you'll forget the small wins otherwise.
 
 ## Reading the pattern, not the day
 
-The value isn't in any single entry — it's in what shows up after three or four weeks. A soreness score that's crept from mostly 0s and 1s to mostly 2s without you skating any harder is a signal to back off before it becomes an actual injury, not after. A skill note that's shifted from "still can't" to "getting closer" to "did it twice" is real, trackable evidence of progress on exactly the days it doesn't feel like anything is changing.
+The value isn't in any single entry — it's in what shows up after three or four weeks, within the ordinary 0–2 range. A soreness score that's crept from mostly 0s and 1s to mostly 2s without you skating any harder is a signal to back off before it becomes an actual injury, not after. A skill note that's shifted from "still can't" to "getting closer" to "did it twice" is real, trackable evidence of progress on exactly the days it doesn't feel like anything is changing. None of that pattern-reading applies to load-avoiding pain — that gets addressed the day it shows up, not tracked for a trend.
 
 This is also how you catch overtraining before it costs you time off the board entirely. Cumulative joint strain in adult skaters rarely announces itself with one dramatic session — it builds quietly across several, the same way the [hip and joint issues I see most often in clinic](/blog/hip-health-for-skaters-over-45/) tend to. A log that shows rising soreness scores across a week gives you a chance to add a rest day or shorten a session before your body forces the issue for you.
 
