@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-13T15:56:52.478Z
+# Date: 2026-09-13T16:04:10.633Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -2976,7 +2976,7 @@ Keep it short enough that you'll do it every time. Four things, thirty seconds, 
 
 **What you worked on.** One line: "kick turns," "pump track laps," "just cruising." Over a few weeks this becomes a rough map of where your actual practice time has gone, which is often surprisingly different from where you thought it was going.
 
-**Soreness or pain, rated simply.** A 0–2 scale covers ordinary post-session soreness: 0 is nothing, 1 is normal muscle fatigue, 2 is a specific joint or spot that's noticeably sore. The pattern matters more than any single entry here — a joint that keeps showing up at 2 across several sessions is telling you something a single sore day never could.
+**Soreness or pain, rated simply.** A 0–2 scale covers ordinary post-session soreness: 0 is nothing, 1 is normal muscle fatigue, 2 is a specific joint or spot that's noticeably sore. Score it right after you finish, but don't treat that score as final — a joint that felt fine on the board can flare up that evening or the next morning, and that delayed response is the real test of whether the load was right, not how the session felt in the moment. If that happens, go back and bump the entry to a 2 rather than leaving it at whatever you wrote down first; a log that only captures the optimistic in-session number will miss exactly the pattern it's meant to catch. The pattern matters more than any single entry here — a joint that keeps showing up at 2 across several sessions is telling you something a single sore day never could.
 
 New pain that makes you avoid loading a joint or limb isn't a number to log and watch trend — it's a different category entirely, and it gets a different response. Don't wait for a pattern to confirm it. Stop skating on it that day and get it assessed, the same [red-zone rule that applies to any new or unstable joint pain](/blog/skating-with-arthritis-chronic-joint-pain/) — same-day care if you can't bear weight after a fall. Write it down anyway, so you have a record for whoever assesses it, but the log is documentation at that point, not a wait-and-see tool.
 
