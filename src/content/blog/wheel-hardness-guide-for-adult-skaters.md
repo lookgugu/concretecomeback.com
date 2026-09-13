@@ -44,6 +44,8 @@ The honest answer depends less on your age and more on your terrain, though the 
 
 Diameter (measured in millimeters, usually 52mm–60mm+ for skateboard wheels) affects how much momentum you carry and how well you roll over cracks, with bigger generally meaning smoother and faster. It's a real factor, but it's secondary to hardness for comfort — a big hard wheel still hammers your joints on rough ground, while a smaller soft wheel still absorbs plenty. If you're prioritizing one variable to get right, make it durometer first.
 
+One caveat before you size up: a 60mm+ wheel needs clearance to match on a standard street deck with low trucks, or it can hit the underside of the deck when you turn or lean — catching hard enough to stop the board and throw you. If you're going bigger on an existing setup rather than a purpose-built cruiser or longboard, pair it with higher trucks or riser pads and check for wheel bite by leaning the board hard on all sides before you ride it.
+
 ## When to replace what you have
 
 Wheels wear unevenly and lose their round shape ("coning") well before they're visibly bald, and a coned wheel changes how your board turns without you necessarily noticing why. If your setup has felt off lately — grabbier turns on one side, more chatter than usual — check the wheels before you blame your technique. And if you're still riding whatever came stock on a complete built for street skating, that's worth checking today, not after your next sore-knee session.
