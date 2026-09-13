@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-13T09:24:24.421Z
+# Date: 2026-09-13T09:28:47.061Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -3138,7 +3138,7 @@ I wouldn't hesitate to recommend deliberate, gradually progressed skateboarding 
 ### Wheel Hardness: The Setup Detail Older Skaters Get Wrong
 Why durometer matters more than deck shape for aging joints, how the 78a-101a scale actually works, and how to pick wheels for your local terrain.
 
-When I bought my first board back at 46, I spent a week agonizing over deck width and maybe ninety seconds thinking about wheels. I grabbed whatever came stock on the complete I liked the graphic on. Six weeks later my knees were barking after every session, and it took a friend at the shop pointing at my wheels — hard, small, clearly built for a skatepark bowl I wasn't skating — to tell me why.
+When I bought my first board back at 46, I spent a week agonizing over deck width and maybe ninety seconds thinking about wheels. I grabbed whatever came stock on the complete I liked the graphic on. Six weeks later my knees were barking after every session, and it took a friend at the shop pointing at my wheels — hard and small, clearly built for smooth street skating rather than the rough neighborhood pavement I was actually rolling on most days — to tell me why.
 
 Deck width gets all the attention in gear conversations because it's the thing you see and feel most obviously. Wheel hardness is the variable that actually decides how a session feels in your joints afterward, and it's the one most returning older skaters get wrong first, because nobody stocking a shop's front wall is optimizing for a 47-year-old's ankles.
 
