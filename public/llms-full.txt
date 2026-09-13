@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-13T16:12:58.804Z
+# Date: 2026-09-13T16:16:36.286Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -2984,7 +2984,9 @@ None of this 0–2 scoring applies to red-zone symptoms: pain that makes you avo
 
 ## Reading the pattern, not the day
 
-The value isn't in any single entry — it's in what shows up after three or four weeks, within the ordinary 0–2 range. A soreness score that's crept from mostly 0s and 1s to mostly 2s without you skating any harder is a signal to back off before it becomes an actual injury, not after. A skill note that's shifted from "still can't" to "getting closer" to "did it twice" is real, trackable evidence of progress on exactly the days it doesn't feel like anything is changing. None of that pattern-reading applies to any red-zone symptom — load-avoiding pain, sharp or different pain, meaningful swelling, instability, or pain that persists or worsens — those get addressed the day they show up, not tracked for a trend.
+The value isn't in any single entry — it's in what shows up after three or four weeks, within the ordinary 0–2 range. A soreness score that's crept from mostly 0s and 1s to mostly 2s without you skating any harder is a signal to back off before it becomes an actual injury, not after. A skill note that's shifted from "still can't" to "getting closer" to "did it twice" is real, trackable evidence of progress on exactly the days it doesn't feel like anything is changing.
+
+One entry doesn't need three weeks of company to act on, though: if a single session leaves you clearly worse that evening or the next morning than your usual soreness — even without hitting red-zone territory — that delayed reading is telling you the load was already too much that day. Make your next session a rest day rather than waiting to see if the same score shows up again. None of this — trend or single-entry — applies to any red-zone symptom — load-avoiding pain, sharp or different pain, meaningful swelling, instability, or pain that persists or worsens — those get addressed the day they show up, not tracked for a trend.
 
 This is also how you catch overtraining before it costs you time off the board entirely. Cumulative joint strain in older skaters rarely announces itself with one dramatic session — it builds quietly across several, the same way the [hip and joint issues I see most often in clinic](/blog/hip-health-for-skaters-over-45/) tend to. A log that shows rising soreness scores across a week gives you a chance to add a rest day or shorten a session before your body forces the issue for you.
 
