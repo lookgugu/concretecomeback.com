@@ -1,6 +1,6 @@
 ---
 title: "How to Actually Get Skate Time When You Have a Family"
-description: "Skating isn't the hard part of a comeback for most adults with a household to run — the schedule negotiation at home is. Here's how to make it stick."
+description: "Skating isn't the hard part of a comeback for most older skaters with a household to run — the schedule negotiation at home is. Here's how to make it stick."
 pubDate: 2026-09-13
 author: "Sam Torres"
 authorAge: 44
@@ -10,9 +10,9 @@ featured: false
 draft: false
 ---
 
-I run a weekly adult skate session in Portland, and the question I get asked most isn't about tricks, gear, or falling. It's some version of "how do you actually get out the door." Not physically — logistically. A lot of the adults who show up regularly have already done the hard psychological work of deciding to come back to skating. What nearly stopped them wasn't the skatepark. It was the conversation at home about where that time was going to come from.
+I run a weekly skate session for older skaters in Portland, and the question I get asked most isn't about tricks, gear, or falling. It's some version of "how do you actually get out the door." Not physically — logistically. A lot of the older skaters who show up regularly have already done the hard psychological work of deciding to come back to skating. What nearly stopped them wasn't the skatepark. It was the conversation at home about where that time was going to come from.
 
-That conversation gets talked about a lot less than warm-ups and wheel hardness, but it's arguably the bigger barrier for most returning adults with a partner, kids, or a household that already runs on a full calendar. Skateboarding doesn't have a scheduling problem. You do.
+That conversation gets talked about a lot less than warm-ups and wheel hardness, but it's arguably the bigger barrier for most returning older skaters with a partner, kids, or a household that already runs on a full calendar. Skateboarding doesn't have a scheduling problem. You do.
 
 ## Name it as a real thing, not a guilty secret
 
@@ -34,12 +34,12 @@ Say it plainly and early: "I'm going to skate on Tuesday and Thursday evenings, 
 
 ## Watch for the pattern that actually kills consistency
 
-It's rarely one big blowup that ends a returning adult's skating. It's a slow erosion: a session skipped for something reasonable, then another, then the standing slot quietly stops being a thing that happens. The fix isn't heroic willpower. It's protecting the smallest viable version of the habit — [a twenty-minute lunch session](/blog/lunch-break-skate-sessions-for-busy-adults/) still counts, and a short session that actually happens beats a long one that keeps getting postponed until it disappears.
+It's rarely one big blowup that ends a returning older skater's skating. It's a slow erosion: a session skipped for something reasonable, then another, then the standing slot quietly stops being a thing that happens. The fix isn't heroic willpower. It's protecting the smallest viable version of the habit — [a twenty-minute lunch session](/blog/lunch-break-skate-sessions-for-busy-adults/) still counts, and a short session that actually happens beats a long one that keeps getting postponed until it disappears.
 
 ## Bring your household along, at least a little
 
 You don't need your partner to skate for this to go smoother — you need them to understand why it matters to you, which is a different and easier bar. Some of the people in our group have partners who show up occasionally just to watch, or who've started skating themselves after a year of hearing about it at dinner. Neither is required, but both make the ongoing negotiation easier, because skating stops being an unexplained thing you disappear to do and becomes something your household has some context for.
 
-If you're also short on people to skate with once you've carved out the time, [finding other adult skaters](/blog/finding-other-adult-skaters/) and groups like [Old Dude Skater Crew](/blog/old-dude-skater-crew-community/) are worth a look — showing up to a standing group session is, in my experience, easier to defend at home than a vague "I might go skate" plan, because it's a real commitment with other people attached to it.
+If you're also short on people to skate with once you've carved out the time, [finding other older skaters](/blog/finding-other-adult-skaters/) and groups like [Old Dude Skater Crew](/blog/old-dude-skater-crew-community/) are worth a look — showing up to a standing group session is, in my experience, easier to defend at home than a vague "I might go skate" plan, because it's a real commitment with other people attached to it.
 
-The honest version of this advice is unglamorous: pick a specific, recurring slot, trade something concrete for it, and revisit the deal before it breaks rather than after. That's most of what separates the adults in our group who are still skating a year later from the ones who came to two sessions and quietly stopped.
+The honest version of this advice is unglamorous: pick a specific, recurring slot, trade something concrete for it, and revisit the deal before it breaks rather than after. That's most of what separates the older skaters in our group who are still skating a year later from the ones who came to two sessions and quietly stopped.
