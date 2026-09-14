@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-14T14:17:16.404Z
+# Date: 2026-09-14T14:22:17.413Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -190,7 +190,7 @@ You may have learned RICE — rest, ice, compression, elevation — as the stand
 
 **Ice** for 15–20 minutes at a time in the first couple of days helps manage pain and swelling. Always with a barrier between ice and skin.
 
-**Compression** with an elastic bandage limits swelling, wrapped snug but not so tight it cuts off circulation — numbness or tingling means loosen it.
+**Compression** with an elastic bandage limits swelling, wrapped snug but not so tight it cuts off circulation. If numbness or tingling shows up after you wrap it, loosen the bandage right away. But if it doesn't clear within a few minutes of loosening, or if the foot looks pale, blue, or feels cold, or the numbness was already there before you wrapped anything — that's not the bandage. Treat it as a possible nerve or circulation injury and get it seen the same day rather than continuing to self-manage.
 
 **Elevation** above heart level, as often as practical, drains fluid away from the joint and speeds the early swelling down.
 
@@ -202,7 +202,7 @@ This is not optional rehab. Once you're past the acute pain and can bear weight 
 
 ## When to get it looked at
 
-Some symptoms need care the same day, not a wait-and-see approach. Get to urgent care or the ER for imaging that day if any of these apply — the same rule this site uses for any inability to bear weight after a fall, whether that shows up immediately or once swelling builds over the following hours: you can't put any weight on it at all, you can't take four steps unassisted even with a limp, there's focal tenderness right over a bone rather than general soreness — press along the bony bump on either side of the ankle, along the navicular bone on the inner midfoot (roughly where your arch meets the front of your ankle), or along the base of the fifth metatarsal on the outer midfoot (the bony bump about halfway along the outside edge of your foot), and a sharp point of pain at any of those spots is different from tenderness spread across the soft tissue — the joint looks visibly deformed, or the pain is severe and out of proportion to what you'd expect from a sprain. Those bone-tenderness spots and the four-step test are the Ottawa ankle rules, the checklist emergency departments use to decide who needs an X-ray, and any one of them is a trigger even if you can technically stand on the foot. Don't spend 48 hours self-managing something that needs an X-ray.
+Some symptoms need care the same day, not a wait-and-see approach. Get to urgent care or the ER for imaging that day if any of these apply — the same rule this site uses for any inability to bear weight after a fall, whether that shows up immediately or once swelling builds over the following hours: you can't put any weight on it at all, you can't take four steps unassisted even with a limp, there's focal tenderness right over a bone rather than general soreness — press along the bony bump on either side of the ankle, along the navicular bone on the inner midfoot (roughly where your arch meets the front of your ankle), or along the base of the fifth metatarsal on the outer midfoot (the bony bump about halfway along the outside edge of your foot), and a sharp point of pain at any of those spots is different from tenderness spread across the soft tissue — the joint looks visibly deformed, or the pain is severe and out of proportion to what you'd expect from a sprain. Numbness, tingling, or a foot that's pale, blue, or cold — and doesn't resolve within a few minutes of loosening any wrap you've applied — belongs in this same-day category too; that's a possible nerve or circulation injury, not routine swelling. Those bone-tenderness spots and the four-step test are the Ottawa ankle rules, the checklist emergency departments use to decide who needs an X-ray, and any one of them is a trigger even if you can technically stand on the foot. Don't spend 48 hours self-managing something that needs an X-ray.
 
 Short of that, most Grade I sprains and many Grade II sprains can still be managed with POLICE, gradual reloading, and proprioception work — but see a physiotherapist or sports medicine provider within the week if any of these apply: the joint feels genuinely unstable rather than just sore, swelling and bruising are extensive, pain isn't easing after several days of POLICE, or this is a repeat sprain in the same ankle. A repeat sprain especially is worth an actual assessment — it usually means the first one never fully rehabbed the stabilizing muscles and proprioception, not that you're simply unlucky.
 
