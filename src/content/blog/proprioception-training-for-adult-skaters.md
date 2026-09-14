@@ -40,7 +40,9 @@ You don't need equipment to start. This routine has two parts: the single-leg-st
 
 The ankle alphabet is unloaded mobility work, not a balance challenge, so it doesn't need to wait — do it from day one, seated if standing balance isn't there yet, and alongside the foundation rather than after it.
 
-The single-leg reach and eyes-closed weight shifts are a different story: follow the off-board routine's own progression for the single-leg-stance foundation first — solid ground before an unstable surface, eyes open before eyes closed, support within arm's reach at every step, never skipping ahead because a level felt easy once — and only layer those two in once that foundation feels stable. If you ever feel like you're about to fall rather than just wobble, on any of the balance drills, that's the sign to back off a level and get a hand on your support, not push through it — the training only works if the corrections stay small and controlled.
+Eyes-closed weight shifts are two-footed and gentler than everything else here, so they don't need to wait either — use them from the start, and as the easier option on a day the single-leg work feels like too much.
+
+The single-leg reach is the one that follows the foundation's own progression: solid ground before an unstable surface, eyes open before eyes closed, support within arm's reach at every step, never skipping ahead because a level felt easy once — layer the reach in once that single-leg foundation feels stable. If you ever feel like you're about to fall rather than just wobble, on the reach or the foundation itself, that's the sign to back off a level and get a hand on your support, not push through it — the training only works if the corrections stay small and controlled.
 
 ## Set the expectation correctly
 
