@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-14T09:15:51.582Z
+# Date: 2026-09-14T09:23:06.382Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -202,7 +202,7 @@ This is not optional rehab. Once you're past the acute pain and can bear weight 
 
 ## When to get it looked at
 
-Some symptoms need care the same day, not a wait-and-see approach. If you can't put any weight at all on the ankle right after it happens, if the joint looks visibly deformed, or if the pain is severe and out of proportion to what you'd expect from a sprain, treat that as a possible fracture and get to urgent care or the ER for imaging that day — the same rule this site uses for any inability to bear weight after a fall. Don't spend the first 48 hours self-managing something that needs an X-ray.
+Some symptoms need care the same day, not a wait-and-see approach. If you can't put any weight at all on the ankle — whether that's immediately after the fall or once swelling and pain build up over the following hours — if the joint looks visibly deformed, or if the pain is severe and out of proportion to what you'd expect from a sprain, treat that as a possible fracture and get to urgent care or the ER for imaging that day — the same rule this site uses for any inability to bear weight after a fall, full stop, not just in the first few minutes. Don't spend 48 hours self-managing something that needs an X-ray.
 
 Short of that, most Grade I sprains and many Grade II sprains can still be managed with POLICE, gradual reloading, and proprioception work — but see a physiotherapist or sports medicine provider within the week if any of these apply: the joint feels genuinely unstable rather than just sore, swelling and bruising are extensive, pain isn't easing after several days of POLICE, or this is a repeat sprain in the same ankle. A repeat sprain especially is worth an actual assessment — it usually means the first one never fully rehabbed the stabilizing muscles and proprioception, not that you're simply unlucky.
 
@@ -1891,10 +1891,10 @@ If you're past menopause, have a personal or family history of osteoporosis, or 
 Bones respond to being used. So do you.
 
 
-### Proprioception Training: The Balance Work That Actually Prevents Falls
+### Proprioception Training: The Balance Work That Cuts Your Fall Risk
 Why the body's sense of joint position fades after 40, and the specific balance drills that cut an adult skater's fall and ankle-roll risk.
 
-When adult skaters ask me how to fall less, they usually expect the answer to be strength training or better shoes. It's neither. The skill that actually prevents most falls happens before you're aware anything went wrong — your ankle, knee, and hip sensing a shift in the board underneath you and correcting for it in a fraction of a second, without you consciously deciding to. That sense is called proprioception, and it's trainable in a way most people never bother to train it.
+When adult skaters ask me how to fall less, they usually expect the answer to be strength training or better shoes. Those matter too, but there's a piece with an outsized effect that gets skipped almost entirely — something that happens before you're even aware anything went wrong: your ankle, knee, and hip sensing a shift in the board underneath you and correcting for it in a fraction of a second, without you consciously deciding to. That sense is called proprioception, and it's trainable in a way most people never bother to train it.
 
 ## What proprioception actually is
 
@@ -1908,9 +1908,9 @@ An ankle with dulled proprioception doesn't sense an inward roll early enough to
 
 The encouraging part is that this system responds quickly to targeted training, more quickly than most strength adaptations. A few weeks of consistent work produces a noticeable change in how early you catch a wobble.
 
-## A 10-minute weekly routine
+## The routine
 
-You don't need equipment to start, and you don't need much time — consistency matters more than duration here. Every drill below is done within arm's reach of a wall, countertop, or sturdy chair you can catch yourself on the moment you feel unsteady — that safeguard matters even more once eyes are closed or the surface underfoot isn't flat, because the whole point is a small, controlled wobble, never an actual fall.
+You don't need equipment to start. This routine has two parts: the single-leg-stance foundation below (about ten minutes on its own, per the linked post) and three shorter drills that build on it (about six minutes together). If you're already doing that foundation as part of your off-board work, just add the six minutes of new drills. Starting from scratch, plan on foundation plus add-ons running close to sixteen minutes total, two or three times a week — consistency matters more than hitting an exact number every time. Every drill is done within arm's reach of a wall, countertop, or sturdy chair you can catch yourself on the moment you feel unsteady — that safeguard matters even more once eyes are closed or the surface underfoot isn't flat, because the whole point is a small, controlled wobble, never an actual fall.
 
 **The single-leg-stance foundation.** If you've read this site's [off-board workouts for adult skaters](/blog/cross-training-for-adult-skaters/), start with the progression already covered there: single-leg stance on solid ground with eyes open, then eyes closed, then the same progression again on an unstable surface like a folded towel or pillow, support within reach at every level. That foundation is the base layer this routine builds on — the three drills below are what extend it specifically toward the ankle-injury connection this post is about.
 
@@ -2782,11 +2782,11 @@ The common mistake is running every session at high effort because that's what f
 
 You don't need a rigid schedule, but having some structure beats "skate whenever I feel like it, as hard as I feel like it." A framework that works for most returning adults with a handful of sessions a week:
 
-**One skill-focused session, kept short.** 30–45 minutes, high concentration, working on one specific thing — a trick, a line, a technique correction. Short and sharp beats long and unfocused; skill work degrades fast once you're tired, so stop while you're still sharp rather than grinding on when quality drops.
+**One skill-focused session, kept short.** 30–45 minutes, high concentration, working on one specific thing — a trick, a line, a technique correction — at a physical intensity closer to your easy effort than your hard one. Skill work is mentally demanding, not necessarily physically hard; a slow, deliberate rep at low speed teaches the same movement as a fast one without spending your harder-effort budget. Short and sharp beats long and unfocused; skill work degrades fast once you're tired, so stop while you're still sharp rather than grinding on when quality drops.
 
-**One or two easy flow sessions.** Longer, lower-intensity time on the board — cruising, mellow carving, things you're already comfortable with. This is the bulk of your 80%, and it's where a lot of the real conditioning and comfort-on-the-board happens without the wear cost of pushing hard.
+**One or two easy flow sessions.** 45–60 minutes each, lower-intensity time on the board — cruising, mellow carving, things you're already comfortable with. Together with the low-intensity skill session above, this is where the bulk of your week — the 80% — actually lives, and it's where a lot of the real conditioning and comfort-on-the-board happens without the wear cost of pushing hard.
 
-**One genuinely hard session, if your week has room for it.** This is where you push pace, try something at the edge of your ability, or spend real time in a bowl or transition. Treat it like the smaller, deliberate piece of the plan it is — not the default mode for every session.
+**One genuinely hard session, if your week has room for it.** 20–30 minutes of real hard effort within a longer session — this is where you push pace, try something at the edge of your ability, or spend real time in a bowl or transition. Keep that hard-effort chunk to roughly a fifth of your weekly time, the smaller, deliberate piece of the plan it's meant to be — not the default mode for every session.
 
 **At least one full rest or active-recovery day between anything demanding.** Walking, stretching, mobility work — movement, but not skating. This is where the adaptation from your harder sessions actually consolidates.
 

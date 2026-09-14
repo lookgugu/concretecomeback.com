@@ -30,11 +30,11 @@ The common mistake is running every session at high effort because that's what f
 
 You don't need a rigid schedule, but having some structure beats "skate whenever I feel like it, as hard as I feel like it." A framework that works for most returning adults with a handful of sessions a week:
 
-**One skill-focused session, kept short.** 30–45 minutes, high concentration, working on one specific thing — a trick, a line, a technique correction. Short and sharp beats long and unfocused; skill work degrades fast once you're tired, so stop while you're still sharp rather than grinding on when quality drops.
+**One skill-focused session, kept short.** 30–45 minutes, high concentration, working on one specific thing — a trick, a line, a technique correction — at a physical intensity closer to your easy effort than your hard one. Skill work is mentally demanding, not necessarily physically hard; a slow, deliberate rep at low speed teaches the same movement as a fast one without spending your harder-effort budget. Short and sharp beats long and unfocused; skill work degrades fast once you're tired, so stop while you're still sharp rather than grinding on when quality drops.
 
-**One or two easy flow sessions.** Longer, lower-intensity time on the board — cruising, mellow carving, things you're already comfortable with. This is the bulk of your 80%, and it's where a lot of the real conditioning and comfort-on-the-board happens without the wear cost of pushing hard.
+**One or two easy flow sessions.** 45–60 minutes each, lower-intensity time on the board — cruising, mellow carving, things you're already comfortable with. Together with the low-intensity skill session above, this is where the bulk of your week — the 80% — actually lives, and it's where a lot of the real conditioning and comfort-on-the-board happens without the wear cost of pushing hard.
 
-**One genuinely hard session, if your week has room for it.** This is where you push pace, try something at the edge of your ability, or spend real time in a bowl or transition. Treat it like the smaller, deliberate piece of the plan it is — not the default mode for every session.
+**One genuinely hard session, if your week has room for it.** 20–30 minutes of real hard effort within a longer session — this is where you push pace, try something at the edge of your ability, or spend real time in a bowl or transition. Keep that hard-effort chunk to roughly a fifth of your weekly time, the smaller, deliberate piece of the plan it's meant to be — not the default mode for every session.
 
 **At least one full rest or active-recovery day between anything demanding.** Walking, stretching, mobility work — movement, but not skating. This is where the adaptation from your harder sessions actually consolidates.
 

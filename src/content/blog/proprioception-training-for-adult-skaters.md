@@ -1,5 +1,5 @@
 ---
-title: "Proprioception Training: The Balance Work That Actually Prevents Falls"
+title: "Proprioception Training: The Balance Work That Cuts Your Fall Risk"
 description: "Why the body's sense of joint position fades after 40, and the specific balance drills that cut an adult skater's fall and ankle-roll risk."
 pubDate: 2026-09-14
 author: "Jo Fairweather"
@@ -10,7 +10,7 @@ featured: false
 draft: false
 ---
 
-When adult skaters ask me how to fall less, they usually expect the answer to be strength training or better shoes. It's neither. The skill that actually prevents most falls happens before you're aware anything went wrong — your ankle, knee, and hip sensing a shift in the board underneath you and correcting for it in a fraction of a second, without you consciously deciding to. That sense is called proprioception, and it's trainable in a way most people never bother to train it.
+When adult skaters ask me how to fall less, they usually expect the answer to be strength training or better shoes. Those matter too, but there's a piece with an outsized effect that gets skipped almost entirely — something that happens before you're even aware anything went wrong: your ankle, knee, and hip sensing a shift in the board underneath you and correcting for it in a fraction of a second, without you consciously deciding to. That sense is called proprioception, and it's trainable in a way most people never bother to train it.
 
 ## What proprioception actually is
 
@@ -24,9 +24,9 @@ An ankle with dulled proprioception doesn't sense an inward roll early enough to
 
 The encouraging part is that this system responds quickly to targeted training, more quickly than most strength adaptations. A few weeks of consistent work produces a noticeable change in how early you catch a wobble.
 
-## A 10-minute weekly routine
+## The routine
 
-You don't need equipment to start, and you don't need much time — consistency matters more than duration here. Every drill below is done within arm's reach of a wall, countertop, or sturdy chair you can catch yourself on the moment you feel unsteady — that safeguard matters even more once eyes are closed or the surface underfoot isn't flat, because the whole point is a small, controlled wobble, never an actual fall.
+You don't need equipment to start. This routine has two parts: the single-leg-stance foundation below (about ten minutes on its own, per the linked post) and three shorter drills that build on it (about six minutes together). If you're already doing that foundation as part of your off-board work, just add the six minutes of new drills. Starting from scratch, plan on foundation plus add-ons running close to sixteen minutes total, two or three times a week — consistency matters more than hitting an exact number every time. Every drill is done within arm's reach of a wall, countertop, or sturdy chair you can catch yourself on the moment you feel unsteady — that safeguard matters even more once eyes are closed or the surface underfoot isn't flat, because the whole point is a small, controlled wobble, never an actual fall.
 
 **The single-leg-stance foundation.** If you've read this site's [off-board workouts for adult skaters](/blog/cross-training-for-adult-skaters/), start with the progression already covered there: single-leg stance on solid ground with eyes open, then eyes closed, then the same progression again on an unstable surface like a folded towel or pillow, support within reach at every level. That foundation is the base layer this routine builds on — the three drills below are what extend it specifically toward the ankle-injury connection this post is about.
 
