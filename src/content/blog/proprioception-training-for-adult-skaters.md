@@ -1,6 +1,6 @@
 ---
-title: "Proprioception Training: The Balance Work That Cuts Your Fall Risk"
-description: "Why the body's sense of joint position fades after 40, and the specific balance drills that cut an adult skater's fall and ankle-roll risk."
+title: "Proprioception Training: The Balance Work That Cuts Ankle-Sprain Risk"
+description: "Why the body's sense of joint position fades after 40, and the specific balance drills shown to cut ankle-sprain risk for adult skaters."
 pubDate: 2026-09-14
 author: "Jo Fairweather"
 authorAge: 52
@@ -22,7 +22,7 @@ The problem is that this system isn't fixed. It degrades with age — the standa
 
 An ankle with dulled proprioception doesn't sense an inward roll early enough to fire the small stabilizing muscles that would normally catch it before it becomes a sprain. It's a major reason the same ankle so often gets sprained a second and third time — the joint heals structurally, but nobody retrained the sensory system that was supposed to protect it in the first place. The same logic applies to falls more broadly: a body that senses a shift in balance early has time to make a small correction, while a body that senses it late is already committed to falling by the time it registers something's wrong.
 
-The encouraging part is that this is one of the better-evidenced pieces of injury prevention there is. A 2015 meta-analysis in the *Journal of Science and Medicine in Sport* (Schiftan, Ross and Hahne) pooled randomised trials of proprioceptive training in athletes and found it cut ankle sprain rates, with the clearest benefit in people who had already sprained one. The programmes in those trials ran for weeks at a few short sessions a week — which is exactly what the routine below asks for.
+The encouraging part is that this is one of the better-evidenced pieces of injury prevention there is — for ankle sprains specifically. A 2015 meta-analysis in the *Journal of Science and Medicine in Sport* (Schiftan, Ross and Hahne) pooled randomised trials of proprioceptive training in athletes and found it cut ankle sprain rates, with the clearest benefit in people who had already sprained one. The programmes in those trials ran for weeks at a few short sessions a week — which is exactly what the routine below asks for. That trial evidence is about sprain rates, not falls or skateboarding specifically; the broader claim that better proprioception also means catching a wobble before it becomes any kind of fall follows from the same underlying mechanism, but it's a reasonable inference from that mechanism rather than something these trials measured directly.
 
 ## The routine
 
