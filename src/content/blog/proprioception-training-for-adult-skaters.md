@@ -26,21 +26,19 @@ The encouraging part is that this system responds quickly to targeted training, 
 
 ## A 10-minute weekly routine
 
-You don't need equipment to start, and you don't need much time — consistency matters more than duration here.
+You don't need equipment to start, and you don't need much time — consistency matters more than duration here. Every drill below is done within arm's reach of a wall, countertop, or sturdy chair you can catch yourself on the moment you feel unsteady — that safeguard matters even more once eyes are closed or the surface underfoot isn't flat, because the whole point is a small, controlled wobble, never an actual fall.
 
-**Single-leg stands (2–3 minutes).** Stand on one foot on solid ground for 30 seconds, switch, repeat twice per side. Once that's genuinely easy, close your eyes for the last 10–15 seconds of each hold. Removing vision forces your ankle and hip receptors to do the balancing work your eyes were quietly helping with.
+**The single-leg-stance foundation.** If you've read this site's [off-board workouts for adult skaters](/blog/cross-training-for-adult-skaters/), start with the progression already covered there: single-leg stance on solid ground with eyes open, then eyes closed, then the same progression again on an unstable surface like a folded towel or pillow, support within reach at every level. That foundation is the base layer this routine builds on — the three drills below are what extend it specifically toward the ankle-injury connection this post is about.
 
-**Ankle alphabet (2 minutes).** Sitting or standing, lift one foot slightly off the ground and "write" the alphabet in the air with your big toe, capital letters, slow and controlled. This takes the ankle through a huge range of small positions your usual routine never asks for.
+**Ankle alphabet (2 minutes).** Sitting, or standing near your support, lift one foot slightly off the ground and "write" the alphabet in the air with your big toe, capital letters, slow and controlled. This takes the ankle through a huge range of small positions the standard single-leg stance never asks for, and it's the drill most directly useful for the fine ankle control that prevents a roll.
 
-**Unstable-surface holds (2–3 minutes).** Stand on a folded towel, a pillow, or a balance pad if you have one, and hold single-leg balance for as long as you comfortably can, working up toward 30 seconds per side. The unstable surface forces constant micro-corrections instead of one static position — this is the closest dryland equivalent to what your ankle does on a moving board.
+**Single-leg reach (2 minutes).** Standing on one leg, near your support, reach the opposite foot forward, then to the side, then behind you, tapping the ground lightly each time before returning to balance. This trains proprioception through movement rather than a static hold, which is closer to what skating actually demands.
 
-**Single-leg reach (2 minutes).** Standing on one leg, reach the opposite foot forward, then to the side, then behind you, tapping the ground lightly each time before returning to balance. This trains proprioception through movement rather than a static hold, which is closer to what skating actually demands.
-
-**Eyes-closed weight shifts (1 minute).** Standing with feet hip-width apart, close your eyes and slowly shift your weight forward, back, and side to side, staying controlled. This is a gentler version of the single-leg work and a good way to finish.
+**Eyes-closed weight shifts (2 minutes).** Standing with feet hip-width apart, close your eyes and slowly shift your weight forward, back, and side to side, staying controlled. This two-footed version is gentler than the single-leg work above, and a good way to finish the routine or to start it if the single-leg drills feel like too much on a given day.
 
 ## Progressing it
 
-Once single-leg holds with eyes closed on solid ground feel easy, move that same progression onto the unstable surface: eyes open first, then eyes closed once you're stable. If you ever feel like you're about to fall rather than just wobble, that's the sign to back off a level, not push through it — the training only works if the corrections stay small and controlled.
+Follow the off-board routine's own progression for the single-leg-stance foundation — solid ground before an unstable surface, eyes open before eyes closed, support within arm's reach at every step, never skipping ahead because a level felt easy once. Layer the ankle alphabet, single-leg reach, and eyes-closed weight shifts in once that foundation feels stable. If you ever feel like you're about to fall rather than just wobble, on any of these, that's the sign to back off a level and get a hand on your support, not push through it — the training only works if the corrections stay small and controlled.
 
 ## Set the expectation correctly
 
