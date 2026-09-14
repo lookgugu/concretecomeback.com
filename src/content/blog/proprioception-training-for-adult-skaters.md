@@ -14,15 +14,15 @@ When adult skaters ask me how to fall less, they usually expect the answer to be
 
 ## What proprioception actually is
 
-Proprioception is your body's awareness of where its joints are in space, without looking. It's fed by receptors packed into your ligaments, tendons, and joint capsules that constantly report position and movement back to your nervous system. When you catch a wobble on your board before it turns into a fall, that's proprioception firing — not conscious thought, not reflex in the spinal-cord sense, but a fast feedback loop that's been trained by every hour you've ever spent on uneven ground.
+Proprioception is your body's awareness of where its joints are in space, without looking. It's fed by receptors packed into your ligaments, tendons, and joint capsules that constantly report position and movement back to your nervous system. When you catch a wobble on your board before it turns into a fall, that's proprioception firing — part fast spinal reflex, part learned correction, none of it conscious thought, a feedback loop tuned by every hour you've ever spent on uneven ground.
 
-The problem is that this system isn't fixed. It degrades with age and, more importantly, with disuse — and most adult lives are extremely proprioception-poor. You sit in chairs, walk on flat predictable floors, and rarely ask your ankles or hips to make a genuine balance correction. Compare that to being a kid who ran, climbed, and jumped on uneven surfaces constantly. By the time most people come back to skating in their 40s or 50s, that fine-grained balance sense hasn't been actively challenged in years, even in people who are otherwise fit.
+The problem is that this system isn't fixed. It degrades with age — the standard reference is a 2009 review by Daniel Goble and colleagues in *Neuroscience & Biobehavioral Reviews*, which found older adults make larger errors judging where a joint is and are slower to notice a limb being moved — and, more importantly, with disuse — and most adult lives are extremely proprioception-poor. You sit in chairs, walk on flat predictable floors, and rarely ask your ankles or hips to make a genuine balance correction. Compare that to being a kid who ran, climbed, and jumped on uneven surfaces constantly. By the time most people come back to skating in their 40s or 50s, that fine-grained balance sense hasn't been actively challenged in years, even in people who are otherwise fit.
 
 ## Why this connects directly to falls and ankle injuries
 
 An ankle with dulled proprioception doesn't sense an inward roll early enough to fire the small stabilizing muscles that would normally catch it before it becomes a sprain. It's a major reason the same ankle so often gets sprained a second and third time — the joint heals structurally, but nobody retrained the sensory system that was supposed to protect it in the first place. The same logic applies to falls more broadly: a body that senses a shift in balance early has time to make a small correction, while a body that senses it late is already committed to falling by the time it registers something's wrong.
 
-The encouraging part is that this system responds quickly to targeted training, more quickly than most strength adaptations. A few weeks of consistent work produces a noticeable change in how early you catch a wobble.
+The encouraging part is that this is one of the better-evidenced pieces of injury prevention there is. A 2015 meta-analysis in the *Journal of Science and Medicine in Sport* (Schiftan, Ross and Hahne) pooled randomised trials of proprioceptive training in athletes and found it cut ankle sprain rates, with the clearest benefit in people who had already sprained one. The programmes in those trials ran for weeks at a few short sessions a week — which is exactly what the routine below asks for.
 
 ## The routine
 
@@ -46,4 +46,4 @@ The single-leg reach is the one that follows the foundation's own progression: s
 
 ## Set the expectation correctly
 
-This isn't a substitute for strength training or your pre-session warm-up, and it isn't something that pays off after one session. It's cumulative, low-effort work that compounds over weeks — three sessions a week is enough to notice a real difference within a month. Do it consistently and the payoff shows up exactly where you want it: catching the wobble instead of riding it out to a fall, and rolling far fewer ankles along the way.
+This isn't a substitute for strength training or your pre-session warm-up, and it isn't something that pays off after one session. It's cumulative, low-effort work that compounds over weeks — three sessions a week is enough to notice a real difference over four to six weeks. Do it consistently and the payoff shows up exactly where you want it: catching the wobble instead of riding it out to a fall, and rolling far fewer ankles along the way.
