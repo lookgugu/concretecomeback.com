@@ -1,0 +1,57 @@
+---
+title: "Ankle Sprains: The Injury Adult Skaters Underestimate Most"
+description: "A practical guide to ankle sprain grades, the POLICE recovery framework, and knowing when it's actually safe to skate again."
+pubDate: 2026-09-14
+author: "Jo Fairweather"
+authorAge: 52
+authorBio: "Physiotherapist and skater. Came back to skating at 49 and hasn't stopped."
+tags: ["injury-prevention", "safety", "recovery", "joints"]
+featured: false
+draft: false
+---
+
+Ask a returning adult skater which injury worries them and you'll hear wrist first, almost every time. Ankles barely come up — right until someone rolls one landing short off a curb or catching an edge on a transition, and suddenly they're the only thing that matters.
+
+That gap in attention is the problem. Ankles and wrists are consistently the two joints adult skaters injure most, and unlike a wrist fracture, a "minor" ankle sprain is the injury people are most likely to shrug off, skate through, and turn into a chronic problem. It doesn't have to go that way.
+
+## Not all sprains are the same injury
+
+An ankle sprain happens when the ligaments that stabilize the joint — mostly on the outer side, from a classic inward roll — get stretched beyond what they can handle. Clinicians grade the damage in three tiers, and the grade determines everything about how you should respond.
+
+**Grade I** is a mild stretch with little to no fiber tearing. You'll have some swelling and tenderness, you can usually still bear weight, and most people are back to normal walking within a week or two.
+
+**Grade II** is a partial tear. Expect more swelling, visible bruising, some looseness when the joint is tested, and noticeably more pain with weight-bearing. Recovery is typically several weeks, not days.
+
+**Grade III** is a complete tear of one or more ligaments. The joint feels unstable, swelling and bruising are significant, and putting weight on it is genuinely difficult in the first days. This grade takes the longest to heal properly and is the one most likely to need a formal assessment before you decide how to manage it.
+
+The mistake I see most often in adult skaters is treating a Grade II like a Grade I because the swelling looked manageable on day one. If you can't say with confidence which grade you're dealing with, that uncertainty is itself a reason to get it looked at rather than guess.
+
+## The first 48–72 hours: POLICE, not RICE
+
+You may have learned RICE — rest, ice, compression, elevation — as the standard first-aid response to a sprain. Sports medicine has moved past strict rest in favor of **POLICE**: Protection, Optimal Loading, Ice, Compression, Elevation.
+
+**Protection** means avoiding movements that stress the injured ligaments — no skating, and possibly a brace or taping if walking is painful.
+
+**Optimal loading** is the real shift from the old advice. Complete rest for days on end actually slows healing and weakens the joint further. The goal instead is gentle, pain-free movement and weight-bearing as early as it's comfortable — ankle circles, gentle walking within a pain-free range — rather than immobilizing it completely.
+
+**Ice** for 15–20 minutes at a time in the first couple of days helps manage pain and swelling. Always with a barrier between ice and skin.
+
+**Compression** with an elastic bandage limits swelling, wrapped snug but not so tight it cuts off circulation — numbness or tingling means loosen it.
+
+**Elevation** above heart level, as often as practical, drains fluid away from the joint and speeds the early swelling down.
+
+## Why proprioception is the part people skip
+
+Here's the piece that gets missed even by skaters who do everything else right: a sprained ankle doesn't just lose ligament integrity, it loses proprioception — your joint's built-in sense of its own position, fed by receptors in the ligament tissue itself. Damage those receptors and the ankle gets genuinely worse at sensing an unexpected roll before it becomes a full sprain, which is exactly why one ankle sprain so reliably predicts a second one in the same joint.
+
+This is not optional rehab. Once you're past the acute pain and can bear weight comfortably, single-leg balance work — first on solid ground, eyes open, working up to eyes closed or an unstable surface like a folded towel — retrains that sense of position directly. Skip this step and you're returning to skating with a joint that heals structurally but never relearns to protect itself.
+
+## When to get it looked at
+
+Most Grade I sprains and many Grade II sprains can be managed with POLICE, gradual reloading, and proprioception work. See a physiotherapist or sports medicine provider if any of these apply: you can't bear any weight at all in the first 48 hours, the joint feels genuinely unstable rather than just sore, swelling and bruising are extensive, pain isn't easing with a few days of POLICE, or this is a repeat sprain in the same ankle. A repeat sprain especially is worth an actual assessment — it usually means the first one never fully rehabbed the stabilizing muscles and proprioception, not that you're simply unlucky.
+
+## Getting back on the board
+
+There's no fixed calendar date for "cleared to skate" — it's criteria-based, not time-based. Before you push off again, you should have full pain-free range of motion, no swelling that returns after normal daily activity, and single-leg balance that's close to your uninjured side rather than obviously worse. Even once you meet those, ease back in on flat ground and easy pushing before you go near a transition or anything that demands a quick, unplanned direction change — that's exactly the movement a healing ankle is worst prepared for.
+
+Skating through a sprained ankle because it "feels mostly fine" is how a two-week injury becomes a recurring one. Respect the grade, do the proprioception work most people skip, and the ankle that rolled once doesn't have to be the ankle that keeps rolling.
