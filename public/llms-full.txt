@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-14T09:23:06.382Z
+# Date: 2026-09-14T09:28:49.189Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -202,7 +202,7 @@ This is not optional rehab. Once you're past the acute pain and can bear weight 
 
 ## When to get it looked at
 
-Some symptoms need care the same day, not a wait-and-see approach. If you can't put any weight at all on the ankle — whether that's immediately after the fall or once swelling and pain build up over the following hours — if the joint looks visibly deformed, or if the pain is severe and out of proportion to what you'd expect from a sprain, treat that as a possible fracture and get to urgent care or the ER for imaging that day — the same rule this site uses for any inability to bear weight after a fall, full stop, not just in the first few minutes. Don't spend 48 hours self-managing something that needs an X-ray.
+Some symptoms need care the same day, not a wait-and-see approach. Get to urgent care or the ER for imaging that day if any of these apply — the same rule this site uses for any inability to bear weight after a fall, whether that shows up immediately or once swelling builds over the following hours: you can't put any weight on it at all, you can't take four steps unassisted even with a limp, there's focal tenderness right over a bone rather than general soreness — press along the bony bump on either side of the ankle, or along the outside edge of your midfoot, and a sharp point of pain there is different from tenderness spread across the soft tissue — the joint looks visibly deformed, or the pain is severe and out of proportion to what you'd expect from a sprain. Any of those is a standard fracture-screening trigger even if you can technically stand on the foot. Don't spend 48 hours self-managing something that needs an X-ray.
 
 Short of that, most Grade I sprains and many Grade II sprains can still be managed with POLICE, gradual reloading, and proprioception work — but see a physiotherapist or sports medicine provider within the week if any of these apply: the joint feels genuinely unstable rather than just sore, swelling and bruising are extensive, pain isn't easing after several days of POLICE, or this is a repeat sprain in the same ankle. A repeat sprain especially is worth an actual assessment — it usually means the first one never fully rehabbed the stabilizing muscles and proprioception, not that you're simply unlucky.
 
@@ -1914,9 +1914,9 @@ You don't need equipment to start. This routine has two parts: the single-leg-st
 
 **The single-leg-stance foundation.** If you've read this site's [off-board workouts for adult skaters](/blog/cross-training-for-adult-skaters/), start with the progression already covered there: single-leg stance on solid ground with eyes open, then eyes closed, then the same progression again on an unstable surface like a folded towel or pillow, support within reach at every level. That foundation is the base layer this routine builds on — the three drills below are what extend it specifically toward the ankle-injury connection this post is about.
 
-**Ankle alphabet (2 minutes).** Sitting, or standing near your support, lift one foot slightly off the ground and "write" the alphabet in the air with your big toe, capital letters, slow and controlled. This takes the ankle through a huge range of small positions the standard single-leg stance never asks for, and it's the drill most directly useful for the fine ankle control that prevents a roll.
+**Ankle alphabet (1 minute per side, 2 minutes total).** Sitting, or standing near your support, lift one foot slightly off the ground and "write" the alphabet in the air with your big toe, capital letters, slow and controlled. Switch feet and repeat — this only works the ankle you're balancing on, so both sides need the work. This takes the ankle through a huge range of small positions the standard single-leg stance never asks for, and it's the drill most directly useful for the fine ankle control that prevents a roll.
 
-**Single-leg reach (2 minutes).** Standing on one leg, near your support, reach the opposite foot forward, then to the side, then behind you, tapping the ground lightly each time before returning to balance. This trains proprioception through movement rather than a static hold, which is closer to what skating actually demands.
+**Single-leg reach (1 minute per side, 2 minutes total).** Standing on one leg, near your support, reach the opposite foot forward, then to the side, then behind you, tapping the ground lightly each time before returning to balance. Switch legs halfway through. This trains proprioception through movement rather than a static hold, which is closer to what skating actually demands.
 
 **Eyes-closed weight shifts (2 minutes).** Standing with feet hip-width apart, close your eyes and slowly shift your weight forward, back, and side to side, staying controlled. This two-footed version is gentler than the single-leg work above, and a good way to finish the routine or to start it if the single-leg drills feel like too much on a given day.
 
@@ -2762,9 +2762,9 @@ Go during quieter hours while you're building confidence. Watch before you join.
 ### Masters Athlete Logic: Skating Smarter, Not Harder, After 40
 The training principles masters-level athletes rely on — session length, effort distribution, recovery ratios — adapted for adult skaters.
 
-At 46, my instinct when I came back to skating was to train the way I did at 19: show up, skate as hard and as long as I could, repeat the next day if I could still walk. It worked for about three weeks before my body sent that plan back with a note attached — sore knees, a tweaked lower back, and a level of fatigue that didn't clear overnight the way it used to.
+Getting the schedule right was only half the fix when I came back to skating at 46. [How many days a week, how much rest, how much sleep](/blog/recovery-days-for-adult-skaters/) — I sorted that out early and it helped. What kept wrecking me anyway was a different mistake: I ran every single session at the same high effort, treating "easy day" as a concept for other people. Three sessions a week of going as hard as I could sent my body the same overload signal as skating every day would have.
 
-What eventually worked was borrowing a framework from a completely different corner of sport: masters athletes. Competitors well into their 40s and 50s who are still performing at a genuinely high level, across endurance sports, cycling, surfing, and beyond, don't train more than they did at 25. They train according to a different set of ratios. That distinction — not "harder" but "smarter" — is the whole idea, and it translates directly to skating.
+What eventually fixed that piece was borrowing a framework from a completely different corner of sport: masters athletes. Competitors well into their 40s and 50s who are still performing at a genuinely high level, across endurance sports, cycling, surfing, and beyond, don't train more than they did at 25. They train according to a different set of ratios — not how many days, but how hard each one actually is. That distinction — not "harder" but "smarter" — is what this post is about, and it's the layer that sits on top of getting your rest days right in the first place.
 
 ## The core shift: recovery is part of the training, not the absence of it
 
@@ -2788,7 +2788,7 @@ You don't need a rigid schedule, but having some structure beats "skate whenever
 
 **One genuinely hard session, if your week has room for it.** 20–30 minutes of real hard effort within a longer session — this is where you push pace, try something at the edge of your ability, or spend real time in a bowl or transition. Keep that hard-effort chunk to roughly a fifth of your weekly time, the smaller, deliberate piece of the plan it's meant to be — not the default mode for every session.
 
-**At least one full rest or active-recovery day between anything demanding.** Walking, stretching, mobility work — movement, but not skating. This is where the adaptation from your harder sessions actually consolidates.
+**Rest days from the baseline you've already set.** This is where [recovery days for adult skaters](/blog/recovery-days-for-adult-skaters/) does the heavy lifting — how many days a week, sleep, mobility work between sessions. The one addition here: put your rest day right after the hard session, not the easy ones, since that's where the adaptation actually needs to consolidate.
 
 ## Autoregulation: the plan adjusts to you, not the other way around
 

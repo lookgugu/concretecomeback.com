@@ -10,9 +10,9 @@ featured: false
 draft: false
 ---
 
-At 46, my instinct when I came back to skating was to train the way I did at 19: show up, skate as hard and as long as I could, repeat the next day if I could still walk. It worked for about three weeks before my body sent that plan back with a note attached — sore knees, a tweaked lower back, and a level of fatigue that didn't clear overnight the way it used to.
+Getting the schedule right was only half the fix when I came back to skating at 46. [How many days a week, how much rest, how much sleep](/blog/recovery-days-for-adult-skaters/) — I sorted that out early and it helped. What kept wrecking me anyway was a different mistake: I ran every single session at the same high effort, treating "easy day" as a concept for other people. Three sessions a week of going as hard as I could sent my body the same overload signal as skating every day would have.
 
-What eventually worked was borrowing a framework from a completely different corner of sport: masters athletes. Competitors well into their 40s and 50s who are still performing at a genuinely high level, across endurance sports, cycling, surfing, and beyond, don't train more than they did at 25. They train according to a different set of ratios. That distinction — not "harder" but "smarter" — is the whole idea, and it translates directly to skating.
+What eventually fixed that piece was borrowing a framework from a completely different corner of sport: masters athletes. Competitors well into their 40s and 50s who are still performing at a genuinely high level, across endurance sports, cycling, surfing, and beyond, don't train more than they did at 25. They train according to a different set of ratios — not how many days, but how hard each one actually is. That distinction — not "harder" but "smarter" — is what this post is about, and it's the layer that sits on top of getting your rest days right in the first place.
 
 ## The core shift: recovery is part of the training, not the absence of it
 
@@ -36,7 +36,7 @@ You don't need a rigid schedule, but having some structure beats "skate whenever
 
 **One genuinely hard session, if your week has room for it.** 20–30 minutes of real hard effort within a longer session — this is where you push pace, try something at the edge of your ability, or spend real time in a bowl or transition. Keep that hard-effort chunk to roughly a fifth of your weekly time, the smaller, deliberate piece of the plan it's meant to be — not the default mode for every session.
 
-**At least one full rest or active-recovery day between anything demanding.** Walking, stretching, mobility work — movement, but not skating. This is where the adaptation from your harder sessions actually consolidates.
+**Rest days from the baseline you've already set.** This is where [recovery days for adult skaters](/blog/recovery-days-for-adult-skaters/) does the heavy lifting — how many days a week, sleep, mobility work between sessions. The one addition here: put your rest day right after the hard session, not the easy ones, since that's where the adaptation actually needs to consolidate.
 
 ## Autoregulation: the plan adjusts to you, not the other way around
 
