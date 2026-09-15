@@ -10,7 +10,7 @@ featured: false
 draft: false
 ---
 
-We've had three new faces show up to Portland Adult Skate Sessions this year who all said some version of the same thing: they hadn't touched a board since high school, but a video game got them thinking about it again. EA brought its skate. franchise back in free-to-play early access in late 2025, and the nostalgia wave it kicked off hasn't slowed down. If you played the earlier Skate games — or Tony Hawk's Pro Skater before that — in your teens or twenties, and a few hours with a controller has you eyeing your closet for an old board, you're part of a real and fairly large group right now.
+We've had three new faces show up to Portland Adult Skate Sessions this year who all said some version of the same thing: they hadn't touched a board since high school, but a video game got them thinking about it again. EA brought its skate. franchise back as a free-to-play early-access release in September 2025, and the nostalgia wave it kicked off hasn't slowed down. If you played the earlier Skate games — or Tony Hawk's Pro Skater before that — in your teens or twenties, and a few hours with a controller has you eyeing your closet for an old board, you're part of a real and fairly large group right now.
 
 It's a good on-ramp. It's also a specific kind of on-ramp, with its own blind spots worth knowing about before your first real session.
 
