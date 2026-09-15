@@ -32,7 +32,7 @@ Ankles absorb a huge share of the unpredictable, off-axis forces in skating — 
 
 ## Knee loading
 
-Knees in skating take repetitive, compressive load rather than the sharp twisting force people tend to picture — pumping, absorbing a landing, holding a crouch through a carve. The prehab goal is a knee that tolerates that repetitive load well, which mostly comes down to the muscles around it, not the joint itself.
+Knees in skating mostly take repetitive, compressive load — pumping, absorbing a landing, holding a crouch through a carve — rather than the sharp twisting people tend to picture first. That's not the whole picture, though: a rushed carve or a twist to catch your balance after a near-fall does load the knee sideways, and if you're carrying an old ACL tear or ligament repair, that twisting load is exactly what the joint tolerates worst. The prehab work below is aimed at the general compressive load every adult skater's knees take on; it's not a substitute for the tailored strength and stability work a physio would build around a specific ligament history.
 
 **Step-downs and controlled squats** — slow, to a depth you can control without your knee caving inward — build the quad and glute strength that actually protects the joint under load. Depth matters less than control; a shallow squat done with a straight, tracking knee beats a deep one that wobbles.
 

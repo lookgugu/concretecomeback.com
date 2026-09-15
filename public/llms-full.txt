@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-15T09:19:33.743Z
+# Date: 2026-09-15T09:25:20.839Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -1916,7 +1916,7 @@ Ankles absorb a huge share of the unpredictable, off-axis forces in skating — 
 
 ## Knee loading
 
-Knees in skating take repetitive, compressive load rather than the sharp twisting force people tend to picture — pumping, absorbing a landing, holding a crouch through a carve. The prehab goal is a knee that tolerates that repetitive load well, which mostly comes down to the muscles around it, not the joint itself.
+Knees in skating mostly take repetitive, compressive load — pumping, absorbing a landing, holding a crouch through a carve — rather than the sharp twisting people tend to picture first. That's not the whole picture, though: a rushed carve or a twist to catch your balance after a near-fall does load the knee sideways, and if you're carrying an old ACL tear or ligament repair, that twisting load is exactly what the joint tolerates worst. The prehab work below is aimed at the general compressive load every adult skater's knees take on; it's not a substitute for the tailored strength and stability work a physio would build around a specific ligament history.
 
 **Step-downs and controlled squats** — slow, to a depth you can control without your knee caving inward — build the quad and glute strength that actually protects the joint under load. Depth matters less than control; a shallow squat done with a straight, tracking knee beats a deep one that wobbles.
 
@@ -2391,7 +2391,7 @@ It's not all overconfidence. Video-game familiarity gives people real advantages
 
 If this is you, the honest starting point is to treat your board time as its own beginner phase, regardless of how many hours you've logged with a controller. A few things that help specifically for this cohort:
 
-**Start with stance, pushing, and basic turns, no matter how tempting it is to go straight for something you've landed a hundred times in-game.** Your game knowledge means you'll likely progress through fundamentals faster than a true first-timer once your body starts catching up — but it hasn't caught up yet on day one.
+**Start with stance, pushing, stopping, and basic turns on flat ground, no matter how tempting it is to go straight for something you've landed a hundred times in-game.** A controlled stop is non-negotiable before you touch any park terrain — it's the one skill that stands between a wobble and a collision with a rail, a stair set, or another skater, and the game never made you learn it. Don't head for a bowl or a ramp until pushing, stopping, and carving smooth turns on flat pavement all feel automatic. Your game knowledge means you'll likely progress through these fundamentals faster than a true first-timer once your body starts catching up — but it hasn't caught up yet on day one.
 
 **Learn to fall before you need to, on purpose.** [Falling safely after 40](/blog/how-to-fall-safely-after-40/) is the single highest-value thing to drill before you're doing anything the game made look easy. Do it on grass or a real crash mat, from a crouch, ideally with someone experienced walking you through it.
 

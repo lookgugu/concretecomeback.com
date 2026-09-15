@@ -40,7 +40,7 @@ It's not all overconfidence. Video-game familiarity gives people real advantages
 
 If this is you, the honest starting point is to treat your board time as its own beginner phase, regardless of how many hours you've logged with a controller. A few things that help specifically for this cohort:
 
-**Start with stance, pushing, and basic turns, no matter how tempting it is to go straight for something you've landed a hundred times in-game.** Your game knowledge means you'll likely progress through fundamentals faster than a true first-timer once your body starts catching up — but it hasn't caught up yet on day one.
+**Start with stance, pushing, stopping, and basic turns on flat ground, no matter how tempting it is to go straight for something you've landed a hundred times in-game.** A controlled stop is non-negotiable before you touch any park terrain — it's the one skill that stands between a wobble and a collision with a rail, a stair set, or another skater, and the game never made you learn it. Don't head for a bowl or a ramp until pushing, stopping, and carving smooth turns on flat pavement all feel automatic. Your game knowledge means you'll likely progress through these fundamentals faster than a true first-timer once your body starts catching up — but it hasn't caught up yet on day one.
 
 **Learn to fall before you need to, on purpose.** [Falling safely after 40](/blog/how-to-fall-safely-after-40/) is the single highest-value thing to drill before you're doing anything the game made look easy. Do it on grass or a real crash mat, from a crouch, ideally with someone experienced walking you through it.
 
