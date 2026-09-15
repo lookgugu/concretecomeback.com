@@ -36,7 +36,7 @@ Knees in skating take repetitive, compressive load rather than the sharp twistin
 
 **Step-downs and controlled squats** — slow, to a depth you can control without your knee caving inward — build the quad and glute strength that actually protects the joint under load. Depth matters less than control; a shallow squat done with a straight, tracking knee beats a deep one that wobbles.
 
-**Terminal knee extensions** with a light band anchored at knee height train the last few degrees of extension specifically, a range that's easy to neglect and directly relevant to how your knee locks out at the bottom of a pump.
+**Terminal knee extensions** with a light band anchored at knee height train the last few degrees of extension specifically — a range that's easy to neglect and builds the quad strength to control your knee through it. This is strength work for the muscles around the joint, not a cue to skate with a locked knee: pumping itself wants the opposite, a low, bent, fluid stance that absorbs terrain rather than a straight leg that can't.
 
 ## Hip strengthening
 
@@ -44,7 +44,7 @@ The hip is the joint most likely to get skipped in an adult skater's own sense o
 
 ## Building a simple routine
 
-You don't need a separate gym day for this. Fifteen minutes, two or three times a week, covering one ankle exercise, one knee exercise, and one hip exercise, is enough to build real margin over a few months. Attach it to something you already do — after a shower, before you skate, while something's in the microwave — so it doesn't depend on finding extra time you don't have.
+You don't need a separate gym day for this. Fifteen minutes, two or three times a week, covering one ankle exercise, one knee exercise, and one hip exercise, is enough to build real margin over a few months. Do it after a session, on a non-skating day, or at some other point in your day entirely — not as part of your pre-skate warm-up. Fatiguing sets like these are strength work, not warm-up material, and doing them right before you skate can temporarily blunt the power and reaction speed you need the moment you step on the board. Attach it to something you already do instead — after a shower, while something's in the microwave — so it doesn't depend on finding extra time you don't have.
 
 Progress slowly. The point of prehab is steady, boring, cumulative loading, not a personal record. If an exercise causes sharp pain rather than the ordinary fatigue of working a muscle, stop and get it looked at rather than pushing through.
 
