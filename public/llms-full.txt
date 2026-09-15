@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-15T09:25:20.839Z
+# Date: 2026-09-15T09:32:02.444Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -1908,7 +1908,7 @@ The other reason this matters more for returners than for people who never stopp
 
 Ankles absorb a huge share of the unpredictable, off-axis forces in skating — landing slightly rolled, catching an edge, correcting for a board that didn't land flat. Strength alone doesn't cover that; you need the joint to react correctly under load without you consciously directing it.
 
-**Single-leg balance work** is the foundation. Standing on one foot, first with eyes open and then eyes closed, trains the small stabilizing muscles around the ankle to fire automatically. Do it near a wall or counter you can catch yourself on. Once that's easy, add an unstable surface — a folded towel or a pillow — to make the ankle work harder to find its footing.
+**Single-leg balance work** is the foundation. Standing on one foot, first with eyes open and then eyes closed, trains the small stabilizing muscles around the ankle to fire automatically. Do it near a wall or counter you can catch yourself on. Once that's easy, add an unstable surface — a folded towel or a pillow — but restart with eyes open on the new surface before progressing back to eyes closed; stacking a surface change and closed eyes together at the same time is a bigger jump than it looks like.
 
 **Resistance band ankle work** — inversion, eversion, and dorsiflexion against a light band, a few sets a couple of times a week — builds strength through the ranges that a rolled landing actually stresses, not just the up-and-down motion most people's ankles get plenty of already from walking.
 
