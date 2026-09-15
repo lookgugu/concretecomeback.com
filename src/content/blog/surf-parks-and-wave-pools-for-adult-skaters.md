@@ -22,7 +22,7 @@ I covered the broader overlap between surfing and skating in [our crossover-athl
 
 **Pop and pumping mechanics, loosely.** Generating speed on a wave by pumping down the line uses a similar leg-and-hip motion to pumping a transition on a board — bend, extend, redirect the energy forward. It's not identical, but the motor pattern rhymes enough that time spent on one reinforces the other.
 
-**Falling without consequence.** Wiping out in a wave pool is, physically, about as low-stakes as falling gets — you land in water, not concrete. For someone who's still building comfort with losing balance and going down, that's a genuinely useful place to practice the psychological side of falling: staying loose, not panicking, getting back up and going again.
+**A gentler place to practice losing your balance.** Landing in water is a lot easier on your body than landing on concrete, and that difference alone makes a wave pool a useful place to build comfort with going down without bracing to catch yourself. That said, a wipeout there isn't consequence-free: you can still take a hit from your own board, collide with another surfer, or, in a genuine bad moment, struggle in the water — the water absorbs impact, it doesn't remove the risk, the same as it doesn't for outdoor surfing. Wear the leash the facility gives you, follow the lifeguard's or instructor's rules on spacing and wave timing, and treat "safer than pavement" as true without treating it as "safe."
 
 ## What it isn't
 
@@ -44,4 +44,4 @@ A few practical things worth knowing before you book a session:
 
 ## Worth the trip
 
-If there's a wave pool or surf park within a reasonable drive, it's a legitimate addition to an adult skater's training mix — not because it replaces skating, but because it builds the same underlying balance and low-impact conditioning in a setting where a bad rep costs you nothing worse than a mouthful of water. For a returner managing session frequency carefully, that's a real advantage over adding another skate session to the week.
+If there's a wave pool or surf park within a reasonable drive, it's a legitimate addition to an adult skater's training mix — not because it replaces skating, but because it builds the same underlying balance and low-impact conditioning in a setting where a bad rep is far less likely to leave you with the kind of hard-pavement injury a skate session can. For a returner managing session frequency carefully, that's a real advantage over adding another skate session to the week — as long as you're following the facility's water-safety rules, not skating past them.
