@@ -44,7 +44,7 @@ If this is you, the honest starting point is to treat your board time as its own
 
 **Learn to fall before you need to, on purpose.** [Falling safely after 40](/blog/how-to-fall-safely-after-40/) is the single highest-value thing to drill before you're doing anything the game made look easy. Do it on grass or a real crash mat, from a crouch, ideally with someone experienced walking you through it.
 
-**Wear real protective gear from session one.** A helmet and wrist guards aren't optional here, especially given how much of this group's recent "practice" involved zero physical risk and may have built unrealistic comfort with attempting things.
+**Wear real protective gear from session one, not just a helmet and wrist guards.** Get a properly certified helmet, not just any bike helmet — [our gear guide](/blog/safety-gear-guide/) covers what "certified" actually means here. And if the terrain literacy above has you eyeing a bowl or ramp before your body's caught up, full cup knee pads aren't optional there; slim pads alone won't let you slide out of a fall on transition. This group's recent "practice" involved zero physical risk and may have built unrealistic comfort with attempting things gear-appropriate caution would otherwise catch.
 
 **Find people, not just terrain.** The game got you excited about skating; a session with other adult skaters is what actually gets you good at it, and gives you people who'll tell you honestly when you're ready for something and when you're not. [Finding other adult skaters](/blog/finding-other-adult-skaters/) is a good place to start looking.
 
