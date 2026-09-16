@@ -19,7 +19,7 @@ What follows is the checklist I actually use with returning adult skaters in cli
 Before you can tell whether something is getting worse, you need to know what "normal" looks like for your own body. That doesn't require an appointment. Once a month, run a simple self-check:
 
 - **Deep squat.** Can you sit into a full squat, heels down, without pain or obvious asymmetry between sides? A restriction here shows up on a board as a shallower crouch and worse landings.
-- **Single-leg balance.** Stand on one foot, eyes open, for 30 seconds. Then try eyes closed. A big gap between your two sides, or a big drop-off with eyes closed, is worth tracking over time.
+- **Single-leg balance.** Stand on one foot, eyes open, for 30 seconds. Then try eyes closed, within arm's reach of a wall, countertop, or sturdy chair you can catch yourself on the moment you feel unsteady — if you feel yourself losing balance, open your eyes or reach for the support rather than pushing through it. A big gap between your two sides, or a big drop-off with eyes closed, is worth tracking over time.
 - **Ankle dorsiflexion.** Knee-to-wall test: foot flat, knee to the wall without the heel lifting. Tight ankles push extra rotation up into the knee.
 
 Write the results down somewhere, even just a note on your phone. The value isn't the number itself — it's noticing when a number changes.
@@ -37,6 +37,8 @@ The same logic applies within a single session. The first 10–15 minutes should
 Ordinary muscle soreness after a session is expected and not a problem. What's worth flagging to a physiotherapist or doctor is different in kind, not just degree:
 
 - **Pain that's sharp rather than achy**, especially if it's reproducible in one specific position every time.
+- **A new, unfamiliar dull pain**, not just a sharp one — new is the operative word; a pain you haven't felt before deserves a look even if it isn't severe.
+- **A joint that feels like it might give way**, or genuine instability rather than ordinary wobble — that's also an immediate fall risk on a board, not just a tissue problem.
 - **Swelling that shows up within a few hours of skating**, particularly around the knee or ankle.
 - **Pain that's still there, unchanged, two mornings after a session** — normal soreness fades day by day; this doesn't.
 - **A joint that clicks or catches with pain**, as opposed to painless clicking, which is common and usually harmless.
