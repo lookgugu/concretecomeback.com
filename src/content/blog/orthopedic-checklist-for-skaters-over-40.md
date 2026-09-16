@@ -58,7 +58,7 @@ A useful annual visit covers: a baseline strength and mobility assessment for yo
 
 If you only take three things from this checklist, take these:
 
-**Warm up for real.** Five minutes of dynamic movement — hip circles, ankle circles, a few bodyweight squats — before you push off costs almost nothing and measurably reduces how hard your joints work in the first few minutes of a session, which is when most acute tweaks happen.
+**Warm up for real.** A full ten minutes of dynamic movement — hip circles, ankle circles, a few bodyweight squats — before you push off costs almost nothing and measurably reduces how hard your joints work in the first few minutes of a session, which is when most acute tweaks happen. If you're short on time, cut the session, not the warm-up.
 
 **Respect the load-management rule above.** More than any brace or supplement, gradual loading is what keeps joints tolerating the sport long-term.
 

@@ -24,7 +24,7 @@ There's a psychological piece as well, and it matters more than it sounds like i
 
 Night skating isn't just daytime skating with the lights off — it has its own gear list.
 
-**Lighting for yourself, not just the park.** Even a well-lit park has dim patches, and getting to and from it — especially if you're skating there — means being visible to drivers and other pedestrians. A clip-on light or reflective strip on your bag, plus a small front light if you're skating any distance to get there, is cheap insurance.
+**Lighting for yourself, not just the park.** Even a well-lit park has dim patches, and getting to and from it means being visible to drivers and other pedestrians. If you're skating there rather than driving or walking, that's only a good idea on a route that meets the same bar as any other transport riding — pushing, turning, stopping, and bailing already automatic, and a path with real separation from fast traffic, not a first attempt at either in reduced visibility. [This site's guide to skateboarding as transport](/blog/skateboard-as-daily-transport-after-40/) covers both in full; if your route or your control doesn't clear that bar yet, drive or walk to the park until it does. Once it does, a clip-on light or reflective strip on your bag, plus a small front light, is cheap insurance on top of that.
 
 **Reflective or high-visibility elements on your gear.** Some pad sets and helmets already have reflective piping; if yours doesn't, reflective tape on a helmet or backpack takes five minutes and makes a real difference at dusk.
 
