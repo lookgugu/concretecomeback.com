@@ -28,6 +28,8 @@ Night skating isn't just daytime skating with the lights off — it has its own 
 
 **Reflective or high-visibility elements on your gear.** Some pad sets and helmets already have reflective piping; if yours doesn't, reflective tape on a helmet or backpack takes five minutes and makes a real difference at dusk.
 
+**A real way to get help if you're skating a near-empty park alone.** That's the whole appeal of the late session, but it cuts both ways — a bad fall with nobody around to notice is a different situation after dark than it is at 2pm with a full park watching. Bring a charged phone, and tell someone where you're going and roughly when you'll be back before you leave. That's a minute of setup for the exact scenario a quiet park is best at hiding.
+
 **A layer for the temperature drop.** Even in warm months, evening air cools faster than concrete does, and you'll feel it once you stop moving between attempts. A light jacket you can tie around your waist while you're actively skating solves this without slowing you down.
 
 **Extra attention to lighting gaps at the park itself.** Not every park is uniformly lit. Walk the whole surface before you start skating it, in the dark, the same way you'd scout an unfamiliar park in daylight — a transition or a crack that's obvious at noon can be invisible in a shadow at 8pm. On cool or humid evenings, feel the surface for damp patches or condensation while you're at it, not just cracks and shadows — cooling concrete picks up moisture in a way it doesn't during the day, and a slippery film can be there even on a park you know well.
