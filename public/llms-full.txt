@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-16T10:18:46.087Z
+# Date: 2026-09-16T10:22:28.466Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -1941,7 +1941,7 @@ Ordinary muscle soreness after a session is expected and not a problem. What's w
 - **A joint that clicks or catches with pain**, as opposed to painless clicking, which is common and usually harmless.
 - **Pain that changes how you walk**, even a little — whether that shows up mid-session, right after, or on a day you didn't skate at all.
 
-None of these mean you need to stop skating for good. They mean the current pattern needs a second opinion before it becomes a bigger problem than it currently is.
+None of these mean you need to stop skating for good. But if one shows up mid-session rather than afterward, stop that session — don't finish it out first — and get it looked at before you skate again. If it shows up after the fact, the current pattern still needs a second opinion before it becomes a bigger problem than it currently is.
 
 A smaller set of symptoms needs same-day care, not a routine callback: a hot or red joint, swelling with fever, an inability to bear weight after a fall, a new deformity that wasn't there before the fall (not a longstanding one from arthritis or an old, already-managed injury), or new numbness or tingling that starts with a fall or one of these other symptoms — not longstanding or already-managed numbness unrelated to an injury. Those go to urgent care or the ER that day — they're signs of a possible fracture, dislocation, infection, or nerve involvement, not something a physio appointment next week addresses.
 
