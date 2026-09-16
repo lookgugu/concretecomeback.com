@@ -48,7 +48,7 @@ Ordinary muscle soreness after a session is expected and not a problem. What's w
 
 None of these mean you need to stop skating for good. They mean the current pattern needs a second opinion before it becomes a bigger problem than it currently is.
 
-A smaller set of symptoms needs same-day care, not a routine callback: a hot or red joint, swelling with fever, an inability to bear weight after a fall, visible deformity, or numbness or tingling in a limb. Those go to urgent care or the ER that day — they're signs of a possible fracture, dislocation, infection, or nerve involvement, not something a physio appointment next week addresses.
+A smaller set of symptoms needs same-day care, not a routine callback: a hot or red joint, swelling with fever, an inability to bear weight after a fall, visible deformity, or new numbness or tingling that starts with a fall or one of these other symptoms — not longstanding or already-managed numbness unrelated to an injury. Those go to urgent care or the ER that day — they're signs of a possible fracture, dislocation, infection, or nerve involvement, not something a physio appointment next week addresses.
 
 ## Build an annual check-in, not just a reactive one
 
