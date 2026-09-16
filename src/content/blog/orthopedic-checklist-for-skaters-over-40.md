@@ -30,6 +30,8 @@ The single biggest orthopedic risk factor for adult skaters isn't age. It's a su
 
 A workable rule: don't increase your weekly skating time by more than about 20–30% from one week to the next. If you skated 90 minutes total last week, don't jump to four hours this week because the weather's good and you're motivated. Build up over three or four weeks instead. Time alone isn't the whole picture, though — the same rule applies to intensity and terrain. Swapping a week of easy flatground cruising for the same total minutes of drops, stairs, or hard transition work is still a load spike, even though the clock says otherwise; ramp up the difficulty of what you're doing at roughly the same pace you'd ramp up the minutes.
 
+That rule assumes a normal week to build from. After a missed week or two — illness, travel, weather, life — don't apply the percentage to that low or zero baseline; apply it to whatever you were routinely doing before the gap, and treat the return itself as its own gradual build rather than resuming at your old volume immediately.
+
 The same logic applies within a single session. The first 10–15 minutes should be flatground and mellow transitions, not the hardest thing you're working on. Joints and tendons that haven't been loaded that day respond to a gradual ramp far better than an immediate max effort.
 
 ## Watch for the specific red flags, not just "soreness"
