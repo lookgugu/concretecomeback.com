@@ -46,7 +46,7 @@ Ordinary muscle soreness after a session is expected and not a problem. What's w
 - **Swelling that shows up within a few hours of skating**, particularly around the knee or ankle.
 - **Localized joint pain — not diffuse muscle soreness — that's still there, unchanged, well past the normal 24–48 hour soreness window**, say three or four days out. Ordinary muscle soreness peaks and fades within that window; joint pain that doesn't follow that pattern isn't the same thing.
 - **A joint that clicks or catches with pain**, as opposed to painless clicking, which is common and usually harmless.
-- **Pain that changes how you walk**, even a little, on a day you didn't skate.
+- **Pain that changes how you walk**, even a little — whether that shows up mid-session, right after, or on a day you didn't skate at all.
 
 None of these mean you need to stop skating for good. They mean the current pattern needs a second opinion before it becomes a bigger problem than it currently is.
 
