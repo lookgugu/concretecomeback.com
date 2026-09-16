@@ -40,11 +40,13 @@ Ordinary muscle soreness after a session is expected and not a problem. What's w
 - **A new, unfamiliar dull pain**, not just a sharp one — new is the operative word; a pain you haven't felt before deserves a look even if it isn't severe.
 - **A joint that feels like it might give way**, or genuine instability rather than ordinary wobble — that's also an immediate fall risk on a board, not just a tissue problem.
 - **Swelling that shows up within a few hours of skating**, particularly around the knee or ankle.
-- **Pain that's still there, unchanged, two mornings after a session** — normal soreness fades day by day; this doesn't.
+- **Localized joint pain — not diffuse muscle soreness — that's still there, unchanged, well past the normal 24–48 hour soreness window**, say three or four days out. Ordinary muscle soreness peaks and fades within that window; joint pain that doesn't follow that pattern isn't the same thing.
 - **A joint that clicks or catches with pain**, as opposed to painless clicking, which is common and usually harmless.
 - **Pain that changes how you walk**, even a little, on a day you didn't skate.
 
 None of these mean you need to stop skating for good. They mean the current pattern needs a second opinion before it becomes a bigger problem than it currently is.
+
+A smaller set of symptoms needs same-day care, not a routine callback: a hot or red joint, swelling with fever, an inability to bear weight after a fall, visible deformity, or numbness or tingling in a limb. Those go to urgent care or the ER that day — they're signs of a possible fracture, dislocation, infection, or nerve involvement, not something a physio appointment next week addresses.
 
 ## Build an annual check-in, not just a reactive one
 

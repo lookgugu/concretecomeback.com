@@ -34,7 +34,7 @@ Night skating isn't just daytime skating with the lights off — it has its own 
 
 ## Managing joints and warm-up differently at night
 
-Cooler evening air means your joints and muscles start further from ready than they do on a hot afternoon. Don't shorten your warm-up just because you're excited to be back on the board after a long day — if anything, extend it slightly. Five to seven minutes of dynamic movement before you push off matters more in cooler evening conditions than it does at 2pm in August.
+Cooler evening air means your joints and muscles start further from ready than they do on a hot afternoon. Don't shorten your warm-up just because you're excited to be back on the board after a long day — hold the full ten minutes rather than trimming it. If you're short on time, cut the session, not the warm-up: five minutes less skating on a warm body beats five extra minutes on a cold one, and that trade-off matters more in cooler evening conditions than it does at 2pm in August.
 
 The same applies to cooling down. A session that ends abruptly because you're rushing to get home tends to leave joints stiff the next morning. A few minutes of easy pushing to bring your heart rate down, plus the same stretching you'd do after a daytime session, still applies after dark.
 
