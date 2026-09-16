@@ -20,7 +20,7 @@ Before you can tell whether something is getting worse, you need to know what "n
 
 - **Deep squat.** Can you sit into a full squat, heels down, without pain or obvious asymmetry between sides? A restriction here shows up on a board as a shallower crouch and worse landings.
 - **Single-leg balance.** Stand on one foot, eyes open, for 30 seconds. Then try eyes closed, within arm's reach of a wall, countertop, or sturdy chair you can catch yourself on the moment you feel unsteady — if you feel yourself losing balance, open your eyes or reach for the support rather than pushing through it. A big gap between your two sides, or a big drop-off with eyes closed, is worth tracking over time.
-- **Ankle dorsiflexion.** Knee-to-wall test: foot flat, knee to the wall without the heel lifting. Tight ankles push extra rotation up into the knee.
+- **Ankle dorsiflexion.** Knee-to-wall test: stand facing a wall, foot flat, and find the furthest distance back you can place your toes while your knee can still touch the wall without your heel lifting. Measure that toe-to-wall distance and write it down — that number, not just a pass/fail sense of it, is what lets you tell a real decline from an off day next month. Tight ankles push extra rotation up into the knee.
 
 Write the results down somewhere, even just a note on your phone. The value isn't the number itself — it's noticing when a number changes.
 
