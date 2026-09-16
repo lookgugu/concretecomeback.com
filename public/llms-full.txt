@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-16T09:42:38.946Z
+# Date: 2026-09-16T09:47:30.463Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -1919,7 +1919,9 @@ Write the results down somewhere, even just a note on your phone. The value isn'
 
 The single biggest orthopedic risk factor for adult skaters isn't age. It's a sudden jump in load — skating four days this week after skating once a week for two months. Cartilage, tendons, and the bone itself adapt to load gradually; they don't adapt to load spikes.
 
-A workable rule: don't increase your weekly skating time by more than about 20–30% from one week to the next. If you skated 90 minutes total last week, don't jump to four hours this week because the weather's good and you're motivated. Build up over three or four weeks instead. Time alone isn't the whole picture, though — the same rule applies to intensity and terrain. Swapping a week of easy flatground cruising for the same total minutes of drops, stairs, or hard transition work is still a load spike, even though the clock says otherwise; ramp up the difficulty of what you're doing at roughly the same pace you'd ramp up the minutes. Don't stack both increases in the same week — pick minutes or difficulty to build on any given week, not both, since raising each by 20–30% at once compounds into a much bigger jump than either one alone.
+A workable rule: don't increase your weekly skating time by more than about 20–30% from one week to the next. If you skated 90 minutes total last week, don't jump to four hours this week because the weather's good and you're motivated. Build up over three or four weeks instead.
+
+Time alone isn't the whole picture, though. Terrain and intensity load a joint differently than minutes do, and a percentage doesn't translate cleanly onto "harder" the way it does onto a clock — so instead of a number, think in three rough tiers: flatground and mellow transitions; moderate transitions and small features; and drops, stairs, and hard transition work. Move up at most one tier in a given week, and only in a week where you're not also pushing your total minutes — swapping a week of flatground cruising for the same total minutes of drops and stairs is still a load spike, even though the clock says otherwise, and stacking a jump in both time and difficulty in the same week compounds into a bigger spike than either one alone.
 
 That rule assumes a normal week to build from. After a missed week or two — illness, travel, weather, life — come back at roughly half your pre-break volume in your first week, then apply the 20–30% rule from there to work back up, rather than resuming at your full pre-break volume immediately.
 
