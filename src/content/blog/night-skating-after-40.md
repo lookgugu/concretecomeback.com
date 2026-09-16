@@ -30,7 +30,7 @@ Night skating isn't just daytime skating with the lights off — it has its own 
 
 **A layer for the temperature drop.** Even in warm months, evening air cools faster than concrete does, and you'll feel it once you stop moving between attempts. A light jacket you can tie around your waist while you're actively skating solves this without slowing you down.
 
-**Extra attention to lighting gaps at the park itself.** Not every park is uniformly lit. Walk the whole surface before you start skating it, in the dark, the same way you'd scout an unfamiliar park in daylight — a transition or a crack that's obvious at noon can be invisible in a shadow at 8pm.
+**Extra attention to lighting gaps at the park itself.** Not every park is uniformly lit. Walk the whole surface before you start skating it, in the dark, the same way you'd scout an unfamiliar park in daylight — a transition or a crack that's obvious at noon can be invisible in a shadow at 8pm. On cool or humid evenings, feel the surface for damp patches or condensation while you're at it, not just cracks and shadows — cooling concrete picks up moisture in a way it doesn't during the day, and a slippery film can be there even on a park you know well.
 
 ## Managing joints and warm-up differently at night
 
