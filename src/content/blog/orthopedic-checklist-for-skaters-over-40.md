@@ -1,0 +1,67 @@
+---
+title: "The Orthopedic Checklist Every Skater Over 40 Needs"
+description: "A systemic joint-care protocol for adult skaters — mobility checks, load management, and the red flags that mean it's time to see someone."
+pubDate: 2026-09-16
+author: "Jo Fairweather"
+authorAge: 52
+authorBio: "Physiotherapist and skater. Came back to skating at 49 and hasn't stopped."
+tags: ["injury-prevention", "joint-health", "active-aging", "prehab", "safety"]
+featured: false
+draft: false
+---
+
+Most of what adult skaters read about joint care is a product list: which brace, which supplement, which shoe. Useful in its own right, but it skips the more important question — what are you actually doing, on a repeating schedule, to keep your joints able to handle the sport at all? Gear treats symptoms. A protocol prevents them from building up in the first place.
+
+What follows is the checklist I actually use with returning adult skaters in clinic: not a single stretch or single product, but a small set of habits that, done consistently, catch problems while they're still cheap to fix.
+
+## Start with a baseline, not a guess
+
+Before you can tell whether something is getting worse, you need to know what "normal" looks like for your own body. That doesn't require an appointment. Once a month, run a simple self-check:
+
+- **Deep squat.** Can you sit into a full squat, heels down, without pain or obvious asymmetry between sides? A restriction here shows up on a board as a shallower crouch and worse landings.
+- **Single-leg balance.** Stand on one foot, eyes open, for 30 seconds. Then try eyes closed. A big gap between your two sides, or a big drop-off with eyes closed, is worth tracking over time.
+- **Ankle dorsiflexion.** Knee-to-wall test: foot flat, knee to the wall without the heel lifting. Tight ankles push extra rotation up into the knee.
+
+Write the results down somewhere, even just a note on your phone. The value isn't the number itself — it's noticing when a number changes.
+
+## Manage load the way a training plan would
+
+The single biggest orthopedic risk factor for adult skaters isn't age. It's a sudden jump in load — skating four days this week after skating once a week for two months. Cartilage, tendons, and the bone itself adapt to load gradually; they don't adapt to load spikes.
+
+A workable rule: don't increase your weekly skating time by more than about 20–30% from one week to the next. If you skated 90 minutes total last week, don't jump to four hours this week because the weather's good and you're motivated. Build up over three or four weeks instead.
+
+The same logic applies within a single session. The first 10–15 minutes should be flatground and mellow transitions, not the hardest thing you're working on. Joints and tendons that haven't been loaded that day respond to a gradual ramp far better than an immediate max effort.
+
+## Watch for the specific red flags, not just "soreness"
+
+Ordinary muscle soreness after a session is expected and not a problem. What's worth flagging to a physiotherapist or doctor is different in kind, not just degree:
+
+- **Pain that's sharp rather than achy**, especially if it's reproducible in one specific position every time.
+- **Swelling that shows up within a few hours of skating**, particularly around the knee or ankle.
+- **Pain that's still there, unchanged, two mornings after a session** — normal soreness fades day by day; this doesn't.
+- **A joint that clicks or catches with pain**, as opposed to painless clicking, which is common and usually harmless.
+- **Pain that changes how you walk**, even a little, on a day you didn't skate.
+
+None of these mean you need to stop skating for good. They mean the current pattern needs a second opinion before it becomes a bigger problem than it currently is.
+
+## Build an annual check-in, not just a reactive one
+
+Most adults only see a physiotherapist or orthopedist after something already hurts. For a sport with as much repetitive joint load as skating, an annual proactive check-in is worth the hour, especially once you're skating regularly rather than occasionally.
+
+A useful annual visit covers: a baseline strength and mobility assessment for your hips, knees, and ankles; a look at anything that's been nagging even mildly for more than a few weeks; and a plan for any asymmetries the self-checks above have flagged. This is preventive, not diagnostic — you're not waiting for an injury to justify the appointment.
+
+## The habits that do the most work
+
+If you only take three things from this checklist, take these:
+
+**Warm up for real.** Five minutes of dynamic movement — hip circles, ankle circles, a few bodyweight squats — before you push off costs almost nothing and measurably reduces how hard your joints work in the first few minutes of a session, which is when most acute tweaks happen.
+
+**Respect the load-management rule above.** More than any brace or supplement, gradual loading is what keeps joints tolerating the sport long-term.
+
+**Treat the red-flag list as a decision rule, not a suggestion.** If something on that list shows up, get it looked at before your next session rather than after three more.
+
+## Why this matters more than it used to
+
+At 25, a joint that's slightly overloaded usually recovers before it becomes a real problem — the body's repair capacity outpaces the damage. That margin shrinks with age, not because your joints are suddenly fragile, but because recovery capacity declines faster than most people expect relative to how capable those same joints still are during activity. That's exactly why a systemic approach — baseline checks, load management, and taking red flags seriously — matters more at 45 than it did at 20. It's not that skating became more dangerous. It's that the cost of ignoring small warning signs went up.
+
+Skating is genuinely good for long-term joint health when it's managed this way: it loads bone and cartilage in ways that keep them resilient, and it builds the balance and proprioception that prevent falls elsewhere in life. The goal of a checklist like this isn't to make you cautious. It's to make sure the sport keeps paying off for as many years as you want to give it.
