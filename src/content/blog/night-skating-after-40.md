@@ -14,7 +14,7 @@ Ask returning adult skaters when they actually get their best sessions, and a su
 
 ## Why the evening session is different
 
-A midday park is often full of teenagers moving fast and confidently through lines you're not ready to share yet. That's not a knock on them — it's just a different skill level and a different rhythm, and sharing space with it is part of what makes a first session back feel intimidating. An evening session, especially on a weeknight, tends to thin that crowd out. Fewer people means more open flatground, shorter waits for the feature you actually want to practice on, and a lot less pressure to keep up with a line you can't yet skate.
+A midday park is often full of teenagers moving fast and confidently through lines you're not ready to share yet. That's not a knock on them — it's just a different skill level and a different rhythm, and sharing space with it is part of what makes [a first session back](/blog/first-session-back-skatepark-anxiety/) feel intimidating. An evening session, especially on a weeknight, tends to thin that crowd out. Fewer people means more open flatground, shorter waits for the feature you actually want to practice on, and a lot less pressure to keep up with a line you can't yet skate.
 
 The concrete itself is kinder too. Surfaces that have baked in direct sun all day are noticeably hotter and, depending on the material, can affect wheel grip. An evening session on cooling concrete is more comfortable underfoot and easier on wheels that have softened slightly in the heat.
 
@@ -26,7 +26,7 @@ Night skating isn't just daytime skating with the lights off — it has its own 
 
 **Lighting for yourself, not just the park.** Even a well-lit park has dim patches, and getting to and from it means being visible to drivers and other pedestrians. If you're skating there rather than driving or walking, that's only a good idea on a route that meets the same bar as any other transport riding — pushing, turning, stopping, and bailing already automatic, and a path with real separation from fast traffic, not a first attempt at either in reduced visibility. [This site's guide to skateboarding as transport](/blog/skateboard-as-daily-transport-after-40/) covers both in full; if your route or your control doesn't clear that bar yet, drive or walk to the park until it does. Once it does, a clip-on light or reflective strip on your bag, plus a small front light, is cheap insurance on top of that.
 
-**Reflective or high-visibility elements on your gear.** Some pad sets and helmets already have reflective piping; if yours doesn't, reflective tape on a helmet or backpack takes five minutes and makes a real difference at dusk.
+**Reflective or high-visibility elements on your gear.** Some pad sets and helmets already have reflective piping ([the protective-gear guide](/blog/safety-gear-guide/) covers what matters in the pads themselves); if yours doesn't, reflective tape on a helmet or backpack takes five minutes and makes a real difference at dusk.
 
 **A real way to get help if you're skating a near-empty park alone.** That's the whole appeal of the late session, but it cuts both ways — a bad fall with nobody around to notice is a different situation after dark than it is at 2pm with a full park watching. Bring a charged phone, and tell someone where you're going and roughly when you'll be back before you leave. That's a minute of setup for the exact scenario a quiet park is best at hiding.
 
@@ -36,9 +36,9 @@ Night skating isn't just daytime skating with the lights off — it has its own 
 
 ## Managing joints and warm-up differently at night
 
-Cooler evening air means your joints and muscles start further from ready than they do on a hot afternoon. Don't shorten your warm-up just because you're excited to be back on the board after a long day — hold the full ten minutes rather than trimming it. If you're short on time, cut the session, not the warm-up: five minutes less skating on a warm body beats five extra minutes on a cold one, and that trade-off matters more in cooler evening conditions than it does at 2pm in August.
+Cooler evening air means your joints and muscles start further from ready than they do on a hot afternoon. Don't shorten your warm-up just because you're excited to be back on the board after a long day — hold [the full ten minutes](/blog/warm-up-routine-for-adult-skaters/) rather than trimming it. If you're short on time, cut the session, not the warm-up: five minutes less skating on a warm body beats five extra minutes on a cold one, and that trade-off matters more in cooler evening conditions than it does at 2pm in August.
 
-The same applies to cooling down. A session that ends abruptly because you're rushing to get home tends to leave joints stiff the next morning. A few minutes of easy pushing to bring your heart rate down, plus the same stretching you'd do after a daytime session, still applies after dark.
+The same applies to cooling down. A session that ends abruptly because you're rushing to get home tends to leave joints stiff the next morning. A few minutes of easy pushing to bring your heart rate down, plus the same stretching you'd do after a daytime session, still applies after dark — and [the recovery guide](/blog/recovery-guide-for-adult-skaters/) covers what the next morning should and shouldn't feel like.
 
 ## Finding parks that actually stay open and lit late
 
@@ -46,8 +46,8 @@ Not every park is realistic for a night session — plenty close at dusk or simp
 
 - **Check the park's own hours, not just general assumptions.** Municipal parks vary widely; some are lit and open until 10pm or later, others go dark at sunset regardless of posted hours.
 - **Ask at your local shop.** Shop staff usually know which nearby parks are realistically skateable after dark and which have had lighting issues or closure problems.
-- **Look for indoor options as a fallback.** An indoor park sidesteps the lighting question entirely and is worth having on your list for the nights an outdoor park doesn't work out.
-- **Scout once in daylight before committing to a regular night slot**, so you already know the layout, the rough spots, and where the shadows are likely to fall once the sun's down.
+- **Look for indoor options as a fallback.** An indoor park sidesteps the lighting question entirely and is worth having on your list for the nights an outdoor park doesn't work out — [the parks directory has an indoor-only filter](/directory/parks/?indoor=1).
+- **Scout once in daylight before committing to a regular night slot**, using [the same routine you'd use to scout any unfamiliar park](/blog/how-to-scout-a-skatepark-before-you-go/), so you already know the layout, the rough spots, and where the shadows are likely to fall once the sun's down.
 
 ## Building it into a routine
 
