@@ -16,7 +16,7 @@ What follows is the checklist I actually use with returning adult skaters in cli
 
 ## Start with a baseline, not a guess
 
-Before you can tell whether something is getting worse, you need to know what "normal" looks like for your own body. That doesn't require an appointment. Once a month, run a simple self-check:
+Before you can tell whether something is getting worse, you need to know what "normal" looks like for your own body. That doesn't require an appointment for most people — but if you have a joint replacement, a prior significant fracture, or a balance disorder unrelated to skating, get your own doctor's sign-off on these specific tests before you run them; a general checklist like this one doesn't override an individual medical assessment. Otherwise, once a month, run a simple self-check:
 
 - **Deep squat.** Can you sit into a full squat, heels down, without pain or obvious asymmetry between sides? A restriction here shows up on a board as a shallower crouch and worse landings.
 - **Single-leg balance.** Time each leg separately and write both numbers down. Stand on one foot, eyes open, up to 30 seconds — stop timing the moment your raised foot touches down or your standing foot shifts, and record whatever time you actually held. Then repeat on the same leg with your eyes closed, within arm's reach of a wall, countertop, or sturdy chair you can catch yourself on the moment you feel unsteady — if you feel yourself losing balance, open your eyes or reach for the support rather than pushing through it, and record that hold time too. Switch legs and do the same. A big gap between your two sides, or a big drop-off with eyes closed, is worth tracking over time.
@@ -50,7 +50,7 @@ Ordinary muscle soreness after a session is expected and not a problem. What's w
 
 None of these mean you need to stop skating for good. They mean the current pattern needs a second opinion before it becomes a bigger problem than it currently is.
 
-A smaller set of symptoms needs same-day care, not a routine callback: a hot or red joint, swelling with fever, an inability to bear weight after a fall, visible deformity, or new numbness or tingling that starts with a fall or one of these other symptoms — not longstanding or already-managed numbness unrelated to an injury. Those go to urgent care or the ER that day — they're signs of a possible fracture, dislocation, infection, or nerve involvement, not something a physio appointment next week addresses.
+A smaller set of symptoms needs same-day care, not a routine callback: a hot or red joint, swelling with fever, an inability to bear weight after a fall, a new deformity that wasn't there before the fall (not a longstanding one from arthritis or an old, already-managed injury), or new numbness or tingling that starts with a fall or one of these other symptoms — not longstanding or already-managed numbness unrelated to an injury. Those go to urgent care or the ER that day — they're signs of a possible fracture, dislocation, infection, or nerve involvement, not something a physio appointment next week addresses.
 
 ## Build an annual check-in, not just a reactive one
 
