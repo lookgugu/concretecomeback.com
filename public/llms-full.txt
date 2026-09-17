@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-16T14:52:11.216Z
+# Date: 2026-09-17T08:16:13.187Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -3888,6 +3888,18 @@ Location: Tarneit, Victoria, AU
 One of the newer builds in the western suburbs, so the concrete is in good condition. The street section away from the bowl is the sensible place to start if your transition skills are still coming back.
 
 
+### Belconnen Skatepark
+Canberra's premier lakeside concrete skatepark on Lake Ginninderra. Features a forgiving open-plan street plaza with mellow banks and low ledges safely separated from the 10ft Belco Bowl, lit nightly until 10pm.
+Location: Canberra, Australian Capital Territory, AU
+Website: https://www.cityservices.act.gov.au/public-land/public-spaces-and-facilities/skateparks
+
+Perched on the scenic foreshore of Lake Ginninderra in north Canberra, Belconnen Skatepark—fondly known as "Belco"—is the undisputed centerpiece of the ACT skateboarding scene. While famous nationally for its historic 10-foot keyhole bowl and massive competition half-pipe, the facility's extensive modern redevelopment created an accessible landscape for riders of all experience levels.
+
+For older skaters, the primary draw is the expansive street plaza and open-plan snake run, positioned safely away from the vert ramps. Here, riders can warm up across broad flatground lanes, low-height manual pads, approachable flatbars, and mellow concrete transition banks without getting tangled in high-speed competition lines. Timed floodlights keep the park illuminated until 10pm every night, providing ample time for post-work sessions.
+
+As with most major metropolitan hubs, weekday mornings between 7am and 10am offer calm, uncrowded conditions before youth sessions ramp up. Ample lakeside parking, public toilets, and dining options along Emu Bank make it an easy venue to visit for an unhurried morning roll.
+
+
 ### Bondi Beach Skatepark
 A compact but well-designed concrete park perched above Bondi Beach, with a flowing bowl, mellow street section, and one of the best views from any skate park in Australia. The atmosphere is friendly and the park draws a mix of locals of all ages. Morning sessions are popular with adult skaters before the beach crowds arrive.
 Location: Sydney, New South Wales, AU
@@ -3953,6 +3965,18 @@ The park offers regular group lessons and evening progression sessions specifica
 For group morning roll-outs, check out the community-run Adult Skate Melbourne meetup, which coordinates regular weekend sessions across the metro area.
 
 
+### Sydney Park Skate Park
+One of Sydney's largest concrete skate facilities, set inside scenic Sydney Park. Features a dedicated beginner bowl physically separated from the deep flow bowl, extensive street plaza terrain, and floodlights until 9pm.
+Location: Alexandria, New South Wales, AU
+Website: https://www.cityofsydney.nsw.gov.au/parks/sydney-park
+
+Located in the rolling parklands of Alexandria just south of the Sydney CBD, Sydney Park Skate Park is one of the premier concrete wheeled-sports venues in New South Wales. Designed to accommodate multiple disciplines and experience tiers, the facility is deliberately divided into distinct, manageable riding zones.
+
+For older skaters, the standout asset is the purpose-built beginner bowl. By isolating shallower, mellow transitions from the imposing 3.3-metre international flow bowl, it gives returning skaters a safe, unpressured space to find their pumping rhythm and practice carving corners. The surrounding street plaza offers wide-open concrete flats, gentle roll-ins, and manageable low ledges away from high-speed cross-traffic. Floodlights keep the park illuminated until 9pm every night.
+
+Because the skatepark sits next to a popular children's cycling track, mid-day weekend sessions can be overrun with small scooters and family traffic. Early weekday mornings from 7am to 9:30am offer peaceful, clear lines. If you need hardware, fresh wheels, or protective gear, Black Sheep Skate Shop in Surry Hills is about 3.5 kilometres north.
+
+
 ### Ashbridges Bay Skatepark
 Toronto's largest outdoor concrete skatepark, sitting right on the lake at Ashbridges Bay Park near Coxwell Avenue. The size allows a genuine split between street terrain and flowing transition, so a returning skater can work on flatground and banks in one area while more advanced locals use the deeper sections.
 Location: Toronto, Ontario, CA
@@ -3979,6 +4003,18 @@ Website: https://vancouver.ca/parks-recreation-culture/hastings-skatepark.aspx
 Hastings is one of Vancouver's most popular parks and one of the more adult-welcoming. The park's diverse layout means you can find areas that suit your skill level — the mellow transition sections and flatground plazas are accessible to returning skaters while the stairs and rails serve more experienced riders.
 
 
+### Legacy Skatepark
+Ottawa's largest public concrete skatepark, covering over 17,000 square feet behind Ben Franklin Place. Features a sprawling street course and open-ended bowl with ample flatground, offering peaceful early morning sessions for older skaters.
+Location: Ottawa, Ontario, CA
+Website: https://ottawa.ca/en/recreation-and-parks/parks-and-green-space
+
+Situated in Nepean directly behind Ben Franklin Place and the Meridian Theatres, Legacy Skatepark is the premier public concrete skatepark in the National Capital Region. Spanning roughly 18,000 square feet of smooth poured concrete, the park provides an expansive mix of street obstacles, transition banks, and a large open-ended bowl.
+
+For older skaters, the key advantage of Legacy's generous footprint is the abundance of low-risk perimeter space. Wide flatground lanes and gentle sloped banks allow you to dial in board control, pushing tempo, and carve turns away from high-speed drop-in zones. Rather than feeling hemmed in by steep drop-offs, returning riders can take progressive runs over low manual pads and manageable flat rails.
+
+Because the facility lacks dedicated nighttime floodlights, sessions are naturally bounded by daylight hours. Weekday mornings between 7:30am and 10:30am are exceptionally quiet, avoiding the busy youth after-school and weekend rushes. Ample public parking and civic building amenities are available right next to the plaza.
+
+
 ### Mill Woods Skatepark
 Edmonton's expansive South Side concrete park within Mill Woods Sports Park. Features a dedicated beginner zone with low ledges and gentle roll-ins separated from the 8-foot bowl, plus floodlights and an early 5am opening window tailored for quiet morning sessions. Free admission.
 Location: Edmonton, Alberta, CA
@@ -3997,6 +4033,18 @@ Website: https://www.theforks.com/attractions/the-plaza-at-the-forks
 Occupying a prominent position at Winnipeg's historic meeting place where the Red and Assiniboine rivers meet, The Plaza at The Forks is one of the most celebrated concrete plazas in North America. Its sheer scale — covering over 44,000 square feet — means older skaters are never crowded into tight corners or forced to negotiate chaotic drop-ins with high-speed lines.
 
 The park is partitioned between a 29,000-square-foot street plaza (incorporating granite ledges, smooth brick inlays, low banks, and wide-open flatground) and a dedicated 8,500-square-foot bowl complex with a 17-foot cradle. For returning skaters, the expansive flat expanses and gentle banks provide ideal low-impact carving while the evening lighting keeps sessions running comfortably after dark. The Forks Market building right next door offers clean washrooms, water, and food.
+
+
+### Topaz Skatepark
+Victoria's 3,000-square-metre all-wheels concrete skate facility in Topaz Park, built by New Line Skateparks. Features a dedicated beginner street area physically separated from Vancouver Island's largest bowl, backed by floodlights until 10:30pm.
+Location: Victoria, British Columbia, CA
+Website: https://www.victoria.ca/parks-recreation/parks-trails/our-parks/topaz-park
+
+Opened as part of the City of Victoria's comprehensive park improvement plan in collaboration with New Line Skateparks, Topaz Skatepark is Vancouver Island's flagship riding destination. Spanning 3,000 square metres of custom-poured concrete alongside an adjacent 6,000-square-metre bike pump track, the park was engineered with clear zoning to keep riders of different disciplines and ability levels from colliding.
+
+For older skaters, the standout feature is the dedicated beginner area, deliberately segregated from the high-velocity lines feeding into the island's largest deep bowl. Learners and returning riders can practice foundational mechanics across gentle bank ramps, low manual pads, and knee-high ledges without dodging runaway boards. The smooth asphalt pump track also provides an excellent low-impact warm-up for getting your legs and pumping rhythm in sync before hitting the concrete course.
+
+Powerful floodlights illuminate the course until 10:30pm every evening, making post-work sessions straightforward. Sunny weekend mid-afternoons draw heavy crowds of younger riders and scooters, so aim for weekday mornings or later evening windows for the calmest sessions.
 
 
 ### Viaduc Van Horne Skatepark
@@ -4095,6 +4143,30 @@ Open sessions take skateboards, BMX, inline and quads from age seven up. The par
 Cardiff Skateboard Club on Church Street, with its dedicated beginner-equipment range, is the shop to visit first.
 
 
+### Stockwell Skatepark
+London's historic 'Brixton Beach' all-concrete skatepark, featuring organic flowing undulations, mellow rolling banks, and gentle snake runs that give older skaters low-impact carving lines under night floodlights.
+Location: London, England, UK
+Website: https://beta.lambeth.gov.uk/parks/stockwell-skatepark
+
+Dating back to the late 1970s and affectionately known across South London as "Brixton Beach," Stockwell Skatepark is one of the UK's most storied riding locations. Rather than aggressive, coping-heavy vert walls, the park is celebrated for its distinctive landscape of smooth, red-toned concrete mounds, gentle hips, and continuous snake-run contours.
+
+For older skaters rebuilding balance, the organic geometry allows you to generate and maintain speed through fluid pumping without having to ollie or drop into steep transitions. The perimeter flat banks and low hips provide forgiving areas to warm up and dial in foot placement. Floodlights stay on into the evening, though weekday mornings before 10am are the golden hour for clear, undisturbed lines.
+
+Keep in mind that the smooth red concrete loses traction when damp from London drizzle, so wait for a dry deck. If you need replacement hardware, softer cruiser wheels, or safety gear, Slam City Skates in Covent Garden is directly accessible via the Northern line.
+
+
+### The House Skatepark
+Sheffield's landmark indoor timber-and-concrete skatepark, offering sheltered riding across multiple rooms with mellow mini-ramps, low street ledges, an indoor bowl, and late-evening sessions tailored for older skaters.
+Location: Sheffield, England, UK
+Website: https://www.thehouseskatepark.co.uk
+
+Operating out of a spacious industrial unit in Neepsend on the north side of Sheffield, The House Skatepark has been an essential hub for northern skateboarding since the late 1990s. The facility combines a massive multi-room timber street plaza with mini-ramps and the North of England's only indoor concrete bowl, ensuring year-round, weather-proof sessions regardless of the South Yorkshire climate.
+
+For older skaters, the forgiving nature of wood transitions significantly softens the impact of falls while rebuilding joint confidence. The back room houses a pair of mellow 4-foot mini-ramps that are ideal for relearning kickturns and 50-50 stalls, while the main hall provides wide, low-impact flatground, driveways, and low hubbas. Weekday afternoons (12pm to 4pm) during term time and evening slots provide a quiet, adult-friendly atmosphere away from weekend youth rushes.
+
+Admission is paid per session at the front desk, and the venue provides on-site parking, heated seating areas, toilets, and a shop desk stocking basic hardware, wax, and bearings.
+
+
 ### The Level Skatepark
 Brighton's premier 1,400 m² polished concrete park on The Level, built by Freestyle Skateparks. It pairs two deep transition bowls with a dedicated lower-tier street and mini-ramp section built specifically for learners and older skaters rebuilding flow. Free and open 24 hours.
 Location: Brighton, England, UK
@@ -4172,6 +4244,18 @@ The park sits in Eleanor Tinsley Park in the shadow of downtown, with parking at
 The practical tip from locals: the first couple of hours after opening, typically 9am to 11am, are much less crowded, which makes them the right window for anyone relearning the basics. There is a spectator area inside the park, and the walkway in from Sabine Street — "Skater Alley" — is lined with commissioned art.
 
 
+### Lion's Den Skatepark
+Fresno's premier 30,000-square-foot concrete skatepark, designed by Site Design Group. A supervised skateboards-only facility that eliminates bike and scooter collision risks, offering a predictable, calm session for older skaters alongside lit night riding until 10pm.
+Location: Fresno, California, US
+Website: https://www.fresno.gov/parks/parks-trails-facilities/
+
+Built on the corner of Marks and Emerson Avenues in northwest Fresno, Lion's Den is the city's flagship skatepark and one of the largest concrete layouts in the Central Valley. What sets it apart for older skaters is its structured supervision: the park operates as a dedicated skateboards-only facility with gated entry and a mandatory helmet requirement, drastically reducing the erratic cross-traffic and collisions common at unmonitored multi-sport parks.
+
+The 30,000-square-foot footprint by Site Design Group offers plenty of forgiving space to warm up. Low-impact perimeter flat banks, manual pads, and manageable flatbars let you get your feet back under you before approaching the transition areas, which include medium-depth flow sections and a classic cloverleaf bowl. Floodlights keep the park skateable until 10pm, while early weekday mornings offer an open, uncrowded session.
+
+For fresh urethane, replacement bearings, or setup adjustments, Cal Skate on North Blackstone Avenue is roughly three miles east and has been serving Fresno skaters since the 1970s.
+
+
 ### Lower Woodland Skatepark
 Seattle's flagship public skatepark, tucked into Lower Woodland Park near Green Lake. Designed by Wally Hollyday, it pairs two bowls with a mini ramp and a large street area, so groups of mixed ability can spread out instead of queueing for the same feature. Free, floodlit surroundings, and open around the clock.
 Location: Seattle, Washington, US
@@ -4244,6 +4328,18 @@ The plaza layout by New Line Skateparks centers on street terrain: gentle banks,
 If you need hardware or fresh urethane before rolling in, Deluxe Distribution's flagship DLX Skate Shop on Folsom Street is less than a mile east.
 
 
+### Two Rivers Skatepark
+Nashville's premier 25,000-square-foot public concrete facility, set inside Two Rivers Park. Features expansive street and low-transition terrain with floodlights running until 11pm and quiet weekday mornings that give older skaters room to build momentum.
+Location: Nashville, Tennessee, US
+Website: https://www.nashville.gov/departments/parks/parks-and-recreation-facilities
+
+Situated within Two Rivers Park in east Nashville adjacent to the Stones River Greenway, Two Rivers Skatepark is the centerpiece of Nashville Metro Parks' wheeled sports facilities. The 25,000-square-foot concrete park combines a comprehensive street course with multiple transition zones, backed by evening floodlights that extend sessions until 11pm.
+
+For older skaters easing back into riding, the layout separates low-impact obstacles from the high-velocity deep bowl. The street section features mellow banked ramps, low curb-height ledges, pyramid roll-ins, and manual pads where you can dial in pushing and turning mechanics in open space. Metro Parks enforces a mandatory helmet rule, and early weekday mornings (between 6am and 10am) provide a peaceful, low-traffic window across the smooth concrete.
+
+Weekend afternoons during summer can draw heavier crowds due to the neighbouring water park, so plan for earlier hours if you prefer open lines. Plenty of free parking and park restrooms are located directly next to the course.
+
+
 ### Venice Beach Skate Park
 A free outdoor concrete park on the Venice boardwalk with a mix of bowls, pools, banks, and street elements. The iconic setting draws skaters of all ages and skill levels. Weekday mornings tend to be less crowded and more welcoming to returning adult skaters working on fundamentals.
 Location: Los Angeles, California, US
@@ -4271,7 +4367,7 @@ An independent skate shop in Surry Hills with a genuine connection to Sydney's s
 Location: Sydney, New South Wales, AU
 Website: https://www.blacksheepskate.com.au
 
-Black Sheep is a solid independent shop for adult skaters in Sydney. The staff's willingness to talk through beginner-appropriate setups without condescension makes it particularly useful for returning skaters who might feel self-conscious walking into a shop after 20 years away from the sport.
+Black Sheep is a solid independent shop for adult skaters in Sydney. The staff's willingness to talk through beginner-appropriate setups without condescension makes it particularly useful for returning skaters who might feel self-conscious walking into a shop after 20 years away from the sport. The shop is also well situated for riders dialing in setups before heading south to the beginner-friendly bowls at Sydney Park Skate Park.
 
 
 ### Antisocial Skateshop
@@ -4343,7 +4439,7 @@ London's most established independent skate shop, open since 1986. Slam City has
 Location: London, England, UK
 Website: https://www.slamcity.com
 
-Slam City Skates is the authority on skateboarding in London. For returning adult skaters, the combination of decades of institutional knowledge and staff who are themselves adult skaters makes it the best place in the city to get honest advice about gear.
+Slam City Skates is the authority on skateboarding in London. For returning adult skaters, the combination of decades of institutional knowledge and staff who are themselves adult skaters makes it the best place in the city to get honest advice about gear — whether you're gearing up to carve the historic curves at Stockwell Skatepark or exploring local street plazas.
 
 
 ### Welcome Skate Store
@@ -4375,7 +4471,7 @@ One of California's longest-running independent skate shops, Cal Skate has serve
 Location: Fresno, California, US
 Website: https://www.calskate.com
 
-Cal Skate has been around long enough that a large portion of their customer base are adults who grew up skating in the 70s, 80s, and 90s. The shop's institutional knowledge about adult-appropriate setups and protective gear is genuine.
+Cal Skate has been around long enough that a large portion of their customer base are adults who grew up skating in the 70s, 80s, and 90s. The shop's institutional knowledge about adult-appropriate setups and protective gear is genuine. It is also the primary local core shop for tuning up your board before heading over to the supervised concrete courses at Lion's Den Skatepark.
 
 
 ### Cal Skate Skateboards (Portland)

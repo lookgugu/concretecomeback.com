@@ -13,6 +13,7 @@ hasOnlineShop: true
 adultsWelcomeNote: "Staff have been skating since the 80s and 90s — they get what returning adult skaters actually need."
 featured: true
 addedDate: 2025-09-01
+lastVerified: 2026-09-16
 ---
 
-Cal Skate has been around long enough that a large portion of their customer base are adults who grew up skating in the 70s, 80s, and 90s. The shop's institutional knowledge about adult-appropriate setups and protective gear is genuine.
+Cal Skate has been around long enough that a large portion of their customer base are adults who grew up skating in the 70s, 80s, and 90s. The shop's institutional knowledge about adult-appropriate setups and protective gear is genuine. It is also the primary local core shop for tuning up your board before heading over to the supervised concrete courses at Lion's Den Skatepark.
