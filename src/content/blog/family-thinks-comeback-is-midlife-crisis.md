@@ -14,7 +14,7 @@ Every few weeks, someone new shows up to our group and mentions the same thing a
 
 ## Why the skepticism shows up
 
-The "midlife crisis" framing is a cultural shortcut for "a man in his 40s or 50s suddenly doing something out of character," and skateboarding fits the shape of the joke almost too well — it's associated with teenagers, it looks a little risky from the outside, and it's a visible change in someone's routine. None of that makes the joke fair, but it explains why it's the first reaction people reach for.
+The "midlife crisis" framing is a cultural shortcut for "someone in their 40s or 50s, usually a man in the telling, suddenly doing something out of character," and skateboarding fits the shape of the joke almost too well — it's associated with teenagers, it looks a little risky from the outside, and it's a visible change in someone's routine. None of that makes the joke fair, but it explains why it's the first reaction people reach for.
 
 Underneath the joke, the actual worry is usually one of three things: fear that you'll get hurt, a sense that your time and attention are shifting away from family or work, or something less articulated — that your interests are changing in a way that feels unfamiliar to the people who know you. That third one is worth sitting with, because it's the one that isn't really about skateboarding at all. People get unsettled when someone close to them changes, even for the better, because it disrupts a version of you they'd gotten used to.
 
@@ -24,7 +24,7 @@ If your spouse's real concern is that you're out three evenings a week now inste
 
 ## What actually helps
 
-**Invite them to watch, once.** Skepticism about skateboarding is often skepticism about an image people have never updated past 1995 — vert ramps, x-games wipeouts, reckless teenagers. An adult skate session looks almost nothing like that: people in their 40s, 50s, and older, rolling slowly, spotting each other, mostly cruising rather than launching off anything. Watching ten minutes of an actual session does more to correct that image than any explanation.
+**Invite them to watch, once.** Skepticism about skateboarding is often skepticism about an image people have never updated past 1995 — vert ramps, X Games wipeouts, reckless teenagers. An adult skate session looks almost nothing like that: people in their 40s, 50s, and older, rolling slowly, spotting each other, mostly cruising rather than launching off anything. Watching ten minutes of an actual session does more to correct that image than any explanation.
 
 **Show the ordinary parts, not just the wins.** If you're posting clips or telling stories, resist only sharing the moments that look impressive or risky. Mention the warm-up, the gear, the fact that you sat out a session because your knee felt off. The mundane, careful parts of a real practice are the most reassuring thing you can show someone who's worried about your judgment, not your hobby.
 
@@ -36,7 +36,7 @@ If your spouse's real concern is that you're out three evenings a week now inste
 
 ## The research skeptics rarely ask for, but appreciate hearing
 
-Nobody needs a citation to start skating, and it's worth being honest that a lot of what makes this comeback worth it — the joy of it, the community, the feeling of doing something hard and getting better at it — isn't the kind of thing a study measures well. But if a health-focused family member wants the physical case, this site's [skateboarding counts as real exercise](/blog/skateboarding-counts-as-real-exercise/) and [balance training over 40](/blog/skateboarding-balance-training-over-40/) posts lay it out without hype: it's a genuine full-body activity with real balance and proprioception benefits, the kind that specifically matters more as you age, not less. That framing tends to land better with a worried parent than "it's fun," even though "it's fun" is honestly reason enough.
+Nobody needs a citation to start skating, and it's worth being honest that a lot of what makes this comeback worth it — the joy of it, the community, the feeling of doing something hard and getting better at it — isn't the kind of thing a study measures well. But if a health-focused family member wants the physical case, this site's [skateboarding counts as real exercise](/blog/skateboarding-counts-as-real-exercise/) and [balance training over 40](/blog/skateboarding-balance-training-over-40/) posts lay it out without hype: it counts as moderate-intensity exercise on the same scale doctors use, and it trains balance and proprioception, the kind of capacity that specifically matters more as you age, not less. That framing tends to land better with a worried parent than "it's fun," even though "it's fun" is honestly reason enough.
 
 ## It gets easier
 

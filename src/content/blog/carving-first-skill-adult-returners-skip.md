@@ -22,7 +22,7 @@ If you've only ever pushed in straight lines and turned by twisting your front f
 
 Carving doesn't look like progress the way a trick does. There's no moment where you either land it or don't — it's a smooth, boring-looking skill that takes weeks of unglamorous repetition to actually feel different in your body. Adult returners, understandably impatient to feel like skaters again, tend to treat it as a warm-up rather than the main event, then wonder later why bowl skating feels so much harder than it should.
 
-Coaches who work with adult camps and clinics bring this up constantly: the returners who spend their first month deliberately building carving ability progress faster on everything downstream of it — pumping, dropping in, riding transition — than the ones who rushed to tricks and never built the underlying board feel.
+In my own comeback, and in the returners I've skated alongside since, the pattern has been consistent: the ones who spent their first month deliberately building carving ability progressed faster on everything downstream of it — pumping, dropping in, riding transition — than the ones who rushed to tricks and never built the underlying board feel. This site's [bowl guide](/blog/why-bowls-beat-street-for-adult-returners/) makes the same call for a first session on transition: start with carving, not dropping in.
 
 ## The mechanics
 
@@ -46,7 +46,7 @@ A slalom-style drill helps here too: mark a line of flat, low-profile spots — 
 
 Once carving feels natural on flat or gently sloped ground, transition terrain stops being intimidating in the same way. The steering you just built — edge pressure, hip lead, continuous turning — is what lets you line up a bowl corner or a mini ramp wall on purpose instead of just rolling straight at it, and it's the skill [pumping](/blog/pump-tracks-for-adult-skaters/) gets layered onto once you're generating speed through the transition as well as turning through it. [Why bowls beat street for adult returners](/blog/why-bowls-beat-street-for-adult-returners/) covers that terrain choice in more depth, and it assumes the carving foundation this post is about.
 
-Carving also does quiet injury-prevention work. A skater who can carve well controls speed by turning rather than by stopping abruptly or bailing, which means fewer of the sudden, unplanned falls that cause most adult injuries. It's not a flashy skill to put time into. It's the one that makes almost everything else easier, sooner than you'd expect.
+Carving also does quiet injury-prevention work. A skater who can carve well controls speed by turning rather than by stopping abruptly or bailing, which means fewer of the sudden, unplanned falls behind most skating injuries. It reduces how often you fall; it doesn't change what happens when you do, so it sits alongside knowing [how to fall](/blog/how-to-fall-safely-after-40/) and wearing the [right gear](/blog/safety-gear-guide/), not in place of either. It's not a flashy skill to put time into. It's the one that makes almost everything else easier, sooner than you'd expect.
 
 ## The one-month test
 
