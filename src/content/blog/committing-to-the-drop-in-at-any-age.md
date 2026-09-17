@@ -42,7 +42,7 @@ One prerequisite sits above all four steps, not inside them: before you stand on
 
 ## What "committing" actually means
 
-It doesn't mean skating faster or more aggressively than feels right. It means finishing the motion you started rather than aborting halfway — the dangerous version of the drop-in isn't a full commit that goes wrong, it's a half-commit where you push forward, panic, and yank your weight back mid-roll. That's the fall that actually hurts, because you're fighting your own momentum. A clean, fully committed drop-in at a height you've built up to properly is one of the safer moves in skating, precisely because there's no hesitation in the middle of it to go wrong.
+It doesn't mean skating faster or more aggressively than feels right. It means finishing the motion you started rather than aborting halfway — the half-commit, where you push forward, panic, and yank your weight back mid-roll, is a specific and needless way to fall, because you end up fighting your own momentum on top of everything else. Committing fully removes that particular failure mode. It doesn't remove the others: too much forward lean, a foot in the wrong place, a wheel or truck catching the coping, or a plain slip can still put you down even on a clean, fully committed attempt. That's exactly why the prerequisites above — transition comfort, a practiced knee slide, real pads, and building up in small height increments — aren't optional extras around the commitment technique. They're what make a committed attempt survivable when something else still goes wrong.
 
 ## When to just walk away for the day
 

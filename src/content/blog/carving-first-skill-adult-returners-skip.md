@@ -40,7 +40,7 @@ Find a stretch of smooth, gently sloped ground — a shallow driveway, an empty 
 
 Start by carving one direction only, heel-side or toe-side, back and forth across the same width of pavement, for entire sessions if needed. Don't try to link turns into an S-pattern yet — get one clean carve, straighten out, stop, reset, and do it again. Once a single carve in each direction feels controlled rather than wobbly, start linking them: carve one way, let the board straighten naturally through the middle, carve the other way. That's the S-pattern, and it's the same motion a pump track or bowl asks for, just without the vertical terrain.
 
-A slalom-style drill helps here too: set a loose line of anything soft — a water bottle, a folded shirt — every eight to ten feet, and carve around each one. The regular spacing forces a rhythm that free carving on open pavement doesn't.
+A slalom-style drill helps here too: mark a line of flat, low-profile spots — sidewalk chalk marks or flat marker discs, not anything with height for a wheel or truck to catch on — every eight to ten feet, and carve around each one. The regular spacing forces a rhythm that free carving on open pavement doesn't.
 
 ## What it sets up
 
