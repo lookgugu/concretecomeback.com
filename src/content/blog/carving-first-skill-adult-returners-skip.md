@@ -36,7 +36,9 @@ Carving comes from three things working together, and adults tend to be missing 
 
 ## A practical way to build it
 
-Find a stretch of smooth, gently sloped ground — a shallow driveway, an empty parking lot with the slightest grade, a bank with no lip. Flat ground works too, though a slope gives you speed for free, which makes the carve easier to feel.
+One prerequisite before adding any slope: pushing, stopping, and turning both ways should already be automatic on flat ground. A slope hands you speed you didn't ask for, and if stopping on purpose isn't reliable yet, that's the wrong moment to add it. If you're not there yet, build carving on flat ground first — the practice below works the same way, just without the speed boost — and add a gentle grade once flat-ground control is solid.
+
+With that in place, find a stretch of smooth, gently sloped ground — a shallow driveway, an empty parking lot with the slightest grade, a bank with no lip — or stay on flat ground if you're still building that control. A slope gives you speed for free, which makes the carve easier to feel, but it's an upgrade, not a requirement.
 
 Start by carving one direction only, heel-side or toe-side, back and forth across the same width of pavement, for entire sessions if needed. Don't try to link turns into an S-pattern yet — get one clean carve, straighten out, stop, reset, and do it again. Once a single carve in each direction feels controlled rather than wobbly, start linking them: carve one way, let the board straighten naturally through the middle, carve the other way. That's the S-pattern, and it's the same motion a pump track or bowl asks for, just without the vertical terrain.
 
