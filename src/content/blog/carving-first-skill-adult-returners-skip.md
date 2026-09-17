@@ -44,7 +44,7 @@ A slalom-style drill helps here too: set a loose line of anything soft — a wat
 
 ## What it sets up
 
-Once carving feels natural on flat or gently sloped ground, transition terrain stops being intimidating in the same way. Pumping a mini ramp or bowl corner is carving applied to a curved surface — the same weighted, continuous turn, just with the transition doing some of the work for you. [Why bowls beat street for adult returners](/blog/why-bowls-beat-street-for-adult-returners/) covers that terrain choice in more depth, and it assumes the carving foundation this post is about.
+Once carving feels natural on flat or gently sloped ground, transition terrain stops being intimidating in the same way. The steering you just built — edge pressure, hip lead, continuous turning — is what lets you line up a bowl corner or a mini ramp wall on purpose instead of just rolling straight at it, and it's the skill [pumping](/blog/pump-tracks-for-adult-skaters/) gets layered onto once you're generating speed through the transition as well as turning through it. [Why bowls beat street for adult returners](/blog/why-bowls-beat-street-for-adult-returners/) covers that terrain choice in more depth, and it assumes the carving foundation this post is about.
 
 Carving also does quiet injury-prevention work. A skater who can carve well controls speed by turning rather than by stopping abruptly or bailing, which means fewer of the sudden, unplanned falls that cause most adult injuries. It's not a flashy skill to put time into. It's the one that makes almost everything else easier, sooner than you'd expect.
 
