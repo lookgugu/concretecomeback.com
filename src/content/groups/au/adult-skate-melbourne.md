@@ -15,4 +15,4 @@ addedDate: 2025-09-01
 active: true
 ---
 
-Adult Skate Melbourne is one of the most active adult skating groups in Australia. The early morning format and fortnightly schedule works well for the group's core demographic of adults with demanding weekday schedules who still prioritize time on a board.
+Adult Skate Melbourne is one of the most active adult skating groups in Australia. The early morning format and fortnightly schedule works well for the group's core demographic of older skaters with demanding weekday schedules who still prioritize time on a board. Sessions rotate across Melbourne parks, with Prahran Skate Park serving as a primary regular base where the modern Convic redevelopment provides wide flatground lanes and an accessible mini-ramp separated from the vert ramp.
