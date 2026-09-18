@@ -18,7 +18,7 @@ This is a gap in most comeback advice. Articles about returning to skating in yo
 
 Estrogen does more than regulate cycles. It plays a role in collagen production, bone remodeling, and how your body manages inflammation and temperature. As estrogen declines through perimenopause and into menopause, several things shift at once: connective tissue (tendons, ligaments) tends to become less resilient, bone density loss accelerates, sleep gets more fragmented for a lot of women, and joint aches that weren't there before start showing up. None of this is exotic — it's the same hormonal shift every skater's mother or older sister has gone through — but it's rarely connected to what happens on a board.
 
-## Joint Laxity: The One Nobody Warns You About
+## When a Knee or Wrist Feels Less Stable
 
 Some returning skaters in perimenopause and menopause notice a knee or wrist that feels less stable than it used to — a wrist that tweaks more easily under a catch, a knee that feels less "held together" through a deep carve. It's tempting to chalk this up to the connective-tissue changes that come with this transition, but instability isn't something to self-diagnose. It can also be an orthopedic issue, a strength deficit, or something unrelated to hormones entirely, and only an actual assessment can tell you which. That's especially true for a joint that suddenly gives way or a new pain that wasn't there last month — a joint that feels like it might give way can mean an acute ligament, meniscal, or other injury, and skating on it is also a fall risk in the moment. Stop the session and get it looked at before you decide how to manage it going forward.
 
