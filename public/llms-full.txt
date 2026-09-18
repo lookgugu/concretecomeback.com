@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-18T09:08:47.893Z
+# Date: 2026-09-18T09:16:24.129Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -1855,7 +1855,7 @@ If you've been telling yourself you don't have time to skate during the week, th
 
 
 ### Why Your Skateboard Muscle Memory Survived a 20-Year Break
-The neuroscience of procedural memory explains why skating skills you learned as a teenager come back in days, not months.
+The neuroscience of procedural memory explains why basic skating skills — balance, pushing, carving — return in days, not months.
 
 The first time I pushed off after a twenty-year gap, I expected to feel like a beginner. Instead I felt like someone who'd taken a few weeks off — wobbly for about ten minutes, and then it was just there. Pushing, carving, reading a transition, knowing where my weight needed to be without thinking about it. I hadn't touched a board since my mid-twenties, and my body acted like it had been last week.
 
@@ -2191,13 +2191,13 @@ Estrogen does more than regulate cycles. It plays a role in collagen production,
 
 ## Joint Laxity: The One Nobody Warns You About
 
-Lower estrogen is linked to reduced collagen support in tendons and ligaments, which can show up as joints that feel less stable than they used to — a wrist that tweaks more easily under a catch, a knee that feels less "held together" through a deep carve. This isn't the same as an actual injury, but it does mean the margin for error is smaller than it was a few years ago.
+Lower estrogen is linked to reduced collagen support in tendons and ligaments, which can show up as joints that feel gradually less stable than they used to — a wrist that tweaks a little more easily under a catch, a knee that feels a bit less "held together" through a deep carve than it did a couple of years ago. That kind of familiar, slow-building looseness is different in kind from a joint that suddenly gives way or a new pain that wasn't there last month. New instability or new pain is an assessment moment, not a warm-up-and-strengthen moment — a joint that feels like it might give way can mean an acute ligament, meniscal, or other injury, and skating on it is also a fall risk in the moment. Stop the session and get it looked at before you decide how to manage it going forward.
 
-The practical response isn't to fear your joints — it's to give them more support than you needed before. A longer, more thorough warm-up matters more now, not less. Strength work around the joints you rely on most — wrists, ankles, knees, hips — helps compensate for connective tissue that's doing less of the stabilizing on its own. Wrist guards stop being optional gear you might skip on a mellow day.
+For the familiar, gradual kind of laxity — not new, not sudden, something you've been living with for a while — the practical response isn't to fear your joints, it's to give them more support than you needed before. A longer, more thorough warm-up matters more now, not less. Strength work around the joints you rely on most — wrists, ankles, knees, hips — helps compensate for connective tissue that's doing less of the stabilizing on its own. Wrist guards stop being optional gear you might skip on a mellow day.
 
-## Bone Density Works in Your Favor Here
+## Bone Density: A Real Category, Not a Proven Result
 
-The menopause transition raises the risk of bone density loss, which is exactly the kind of thing that makes people nervous about a fall-prone sport. But skateboarding is weight-bearing and includes real impact loading through pushing, landing, and absorbing terrain — the type of activity that stimulates bone maintenance rather than working against it. That doesn't cancel out the injury risk of a bad fall, and it's not a substitute for whatever your doctor recommends for bone health specifically. But as an activity to keep doing through this transition, rather than a reason to stop, skating has more going for it than most people assume.
+The menopause transition raises the risk of bone density loss, which is exactly the kind of thing that makes people nervous about a fall-prone sport. General bone-health research points to weight-bearing, impact exercise as the category most supportive of bone density, and skateboarding's pushing, landing, and impact loading belongs in that category. But that's a statement about the general category, not a proven result specific to skateboarding — nobody has studied whether a skating-specific bone benefit outweighs its fall risk for someone whose bone density is already low. Because bone loss during and after menopause is frequently silent, you could be in that higher-risk group without knowing it. That's not a reason to assume skating is off the table — it's a reason to treat "is this a good idea for my bones specifically" as a question for your doctor rather than something a blog post can answer for you, especially if you're already postmenopausal or have a personal or family history of osteoporosis.
 
 ## Sleep, Recovery, and Why Yesterday's Session Hits Harder
 

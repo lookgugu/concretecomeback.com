@@ -1,6 +1,6 @@
 ---
 title: "Why Your Skateboard Muscle Memory Survived a 20-Year Break"
-description: "The neuroscience of procedural memory explains why skating skills you learned as a teenager come back in days, not months."
+description: "The neuroscience of procedural memory explains why basic skating skills — balance, pushing, carving — return in days, not months."
 pubDate: 2026-09-18
 author: "Marcus Webb"
 authorAge: 47
