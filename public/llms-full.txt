@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-18T09:16:24.129Z
+# Date: 2026-09-18T09:20:35.967Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -2193,7 +2193,7 @@ Estrogen does more than regulate cycles. It plays a role in collagen production,
 
 Lower estrogen is linked to reduced collagen support in tendons and ligaments, which can show up as joints that feel gradually less stable than they used to — a wrist that tweaks a little more easily under a catch, a knee that feels a bit less "held together" through a deep carve than it did a couple of years ago. That kind of familiar, slow-building looseness is different in kind from a joint that suddenly gives way or a new pain that wasn't there last month. New instability or new pain is an assessment moment, not a warm-up-and-strengthen moment — a joint that feels like it might give way can mean an acute ligament, meniscal, or other injury, and skating on it is also a fall risk in the moment. Stop the session and get it looked at before you decide how to manage it going forward.
 
-For the familiar, gradual kind of laxity — not new, not sudden, something you've been living with for a while — the practical response isn't to fear your joints, it's to give them more support than you needed before. A longer, more thorough warm-up matters more now, not less. Strength work around the joints you rely on most — wrists, ankles, knees, hips — helps compensate for connective tissue that's doing less of the stabilizing on its own. Wrist guards stop being optional gear you might skip on a mellow day.
+Even the familiar, gradual kind of laxity is worth getting checked once rather than assumed. If a knee or wrist has been quietly less stable for a while and you haven't had it looked at, get it assessed before you settle into a routine of managing it yourself — a physio or doctor can confirm whether what you're feeling is ordinary hormone-linked laxity or an underlying issue that's been building unnoticed. Once that's been ruled out, the practical response is to give the joint more support than you needed before, not to fear it: a longer, more thorough warm-up matters more now, not less; strength work around the joints you rely on most — wrists, ankles, knees, hips — helps compensate for connective tissue that's doing less of the stabilizing on its own; and wrist guards stop being optional gear you might skip on a mellow day.
 
 ## Bone Density: A Real Category, Not a Proven Result
 
