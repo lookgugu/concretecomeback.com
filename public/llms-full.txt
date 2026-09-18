@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-18T09:24:14.351Z
+# Date: 2026-09-18T09:27:37.970Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -2191,9 +2191,9 @@ Estrogen does more than regulate cycles. It plays a role in collagen production,
 
 ## Joint Laxity: The One Nobody Warns You About
 
-Lower estrogen is linked to reduced collagen support in tendons and ligaments, which can show up as joints that feel gradually less stable than they used to — a wrist that tweaks a little more easily under a catch, a knee that feels a bit less "held together" through a deep carve than it did a couple of years ago. That kind of familiar, slow-building looseness is different in kind from a joint that suddenly gives way or a new pain that wasn't there last month. New instability or new pain is an assessment moment, not a warm-up-and-strengthen moment — a joint that feels like it might give way can mean an acute ligament, meniscal, or other injury, and skating on it is also a fall risk in the moment. Stop the session and get it looked at before you decide how to manage it going forward.
+Some returning skaters in perimenopause and menopause notice a knee or wrist that feels less stable than it used to — a wrist that tweaks more easily under a catch, a knee that feels less "held together" through a deep carve. It's tempting to chalk this up to the connective-tissue changes that come with this transition, but instability isn't something to self-diagnose. It can also be an orthopedic issue, a strength deficit, or something unrelated to hormones entirely, and only an actual assessment can tell you which. That's especially true for a joint that suddenly gives way or a new pain that wasn't there last month — a joint that feels like it might give way can mean an acute ligament, meniscal, or other injury, and skating on it is also a fall risk in the moment. Stop the session and get it looked at before you decide how to manage it going forward.
 
-Even the familiar, gradual kind of laxity is worth getting checked once rather than assumed. If a knee or wrist has been quietly less stable for a while and you haven't had it looked at, get it assessed before you settle into a routine of managing it yourself — instability is a symptom that needs an actual diagnosis, not something to self-attribute to hormones without a professional ruling out an orthopedic or strength-related problem underneath it. Once you've been assessed and there's nothing else going on, the practical response is to give the joint more support than you needed before, not to fear it: a longer, more thorough warm-up matters more now, not less; strength work around the joints you rely on most — wrists, ankles, knees, hips — helps compensate for connective tissue that's doing less of the stabilizing on its own; and wrist guards stop being optional gear you might skip on a mellow day.
+Even instability that's familiar and slow-building is worth getting checked once rather than managed on assumption. If a knee or wrist has been quietly less stable for a while and you haven't had it looked at, get it assessed before you settle into a routine of managing it yourself — a physio or doctor can confirm what's actually going on and rule out anything that needs more than warm-up and strength work. Once you've been assessed and there's nothing else going on, the practical response is to give the joint more support than you needed before, not to fear it: a longer, more thorough warm-up matters more now, not less; strength work around the joints you rely on most — wrists, ankles, knees, hips — helps the joint handle load better regardless of what's behind the change; and wrist guards stop being optional gear you might skip on a mellow day.
 
 ## Bone Density: A Real Category, Not a Proven Result
 
