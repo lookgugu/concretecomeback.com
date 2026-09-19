@@ -16,7 +16,7 @@ isCovered: false
 isIndoor: false
 openingHours: "Daily 7:00 AM – 11:00 PM (May to October; floodlit until 11:00 PM)"
 entryFee: "Free"
-website: "https://www.quebec.qc.ca"
+website: "https://www.ville.quebec.qc.ca"
 googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=Skatepark+du+parc+Victoria+6+rue+Robert+Rumilly+Quebec+QC+G1K+2K5"
 featured: false
 addedDate: 2026-09-18

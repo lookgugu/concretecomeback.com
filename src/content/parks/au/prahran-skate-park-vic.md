@@ -5,7 +5,7 @@ stateProvince: "Victoria"
 city: "Prahran"
 address: "276 Malvern Rd, Prahran VIC 3181"
 description: "Iconic Melbourne inner-south skate park inside Princes Gardens, redeveloped by Convic with a modern concrete street plaza and mini-ramp alongside its legendary steel vert ramp. Host venue for Adult Skate Melbourne sessions and fully lit for night riding."
-surface: ["concrete"]
+surface: ["concrete", "hybrid"]
 features: ["street", "ramps", "rails", "stairs", "flatground", "banks", "transitions", "mini-ramp", "vert"]
 difficulty: "mixed"
 adultFriendly: true

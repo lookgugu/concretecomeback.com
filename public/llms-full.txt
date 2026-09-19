@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-18T13:21:01.847Z
+# Date: 2026-09-19T22:11:47.836Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -4064,7 +4064,7 @@ Because the broader sports park opens at 5:00 AM, morning skaters with work or p
 ### Skatepark du parc Victoria
 Premier municipal concrete skate plaza in Quebec City, located along the Saint-Charles River in Parc Victoria. Features expansive flatground, low bank-to-ledge terrain, floodlights until 11pm, and a calm morning window.
 Location: Quebec City, Quebec, CA
-Website: https://www.quebec.qc.ca
+Website: https://www.ville.quebec.qc.ca
 
 Situated within scenic Parc Victoria in the La Cité-Limoilou borough of Quebec City, the Skatepark du parc Victoria is the region's flagship outdoor concrete facility. Designed by Tessier Récréo-Parc in conjunction with New Line Skateparks, the park combines organic architectural flow with a modern street plaza layout along the banks of the Saint-Charles River.
 
