@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-19T09:12:33.701Z
+# Date: 2026-09-19T09:16:36.903Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -2159,9 +2159,9 @@ Perimenopause is the transition period — often lasting several years — leadi
 
 None of the above is a reason to stop or scale back dramatically. It's a reason to adjust a few specific things.
 
-**Prioritize strength work around the joints you load most.** If ligaments are somewhat less stable during this period, the muscles around your ankles, knees, and hips need to do more of the stabilizing work. Two sessions a week of basic strength training — squats, single-leg balance work, calf raises — is a genuinely higher-leverage move right now than it would have been a decade ago.
+**Prioritize strength work around the joints you load most.** Whatever the exact mechanism, this life stage carries elevated risk for sprains and tendon issues, and the muscles around your ankles, knees, and hips are what actually control how a joint handles load day to day. Two sessions a week of basic strength training — squats, single-leg balance work, calf raises — is a genuinely higher-leverage move right now than it would have been a decade ago.
 
-**Take your warm-up more seriously, not less.** Cold, less pliable connective tissue is more vulnerable at end ranges of motion. A full warm-up before you push into a deep carve or a bank isn't optional at this stage — it's the specific thing that offsets the ligament-laxity piece above.
+**Take your warm-up more seriously, not less.** Tendon tissue that hasn't been properly warmed up is more vulnerable at end ranges of motion, and that's plausibly more true, not less, if perimenopausal tendon is also stiffer and less elastic to begin with. A full warm-up before you push into a deep carve or a bank isn't optional at this stage.
 
 **Don't assume every new ache is serious, but don't ignore a pattern either.** Some extra stiffness and slower bounce-back is an expected part of this transition. A specific joint that's consistently painful, swollen, or unstable — as opposed to generally achy — is worth getting assessed rather than attributed to hormones by default.
 
@@ -3705,7 +3705,7 @@ This isn't a supplements post — [that ground is covered elsewhere on this site
 
 **If you're skating first thing, don't skip breakfast to save time.** A small carbohydrate snack fifteen to twenty minutes before an early session — even just a piece of fruit — is enough to top up glucose that's dropped overnight, without needing a full meal to digest first.
 
-**Hydrate before you're thirsty.** By the time you feel thirsty, you're already mildly dehydrated, and dehydration shows up as fatigue and reduced focus before it shows up as obvious thirst. A glass of water in the hour before a session, and water on hand during it, especially in warm weather, matters more than most adult skaters give it credit for.
+**Drink to thirst, but don't wait until you're on the board to start.** For a recreational session, thirst is a reasonable guide, not a sign you've already fallen behind — and drinking well past it, especially on a long or hot session, can do more harm than good. What actually catches most adult skaters out isn't ignoring thirst mid-session, it's showing up already a little behind on fluids from the rest of the day. Have water on hand during longer or hotter sessions and drink when you're thirsty, rather than either ignoring it or forcing extra water in ahead of it.
 
 ## Right after you skate
 

@@ -30,9 +30,9 @@ Perimenopause is the transition period — often lasting several years — leadi
 
 None of the above is a reason to stop or scale back dramatically. It's a reason to adjust a few specific things.
 
-**Prioritize strength work around the joints you load most.** If ligaments are somewhat less stable during this period, the muscles around your ankles, knees, and hips need to do more of the stabilizing work. Two sessions a week of basic strength training — squats, single-leg balance work, calf raises — is a genuinely higher-leverage move right now than it would have been a decade ago.
+**Prioritize strength work around the joints you load most.** Whatever the exact mechanism, this life stage carries elevated risk for sprains and tendon issues, and the muscles around your ankles, knees, and hips are what actually control how a joint handles load day to day. Two sessions a week of basic strength training — squats, single-leg balance work, calf raises — is a genuinely higher-leverage move right now than it would have been a decade ago.
 
-**Take your warm-up more seriously, not less.** Cold, less pliable connective tissue is more vulnerable at end ranges of motion. A full warm-up before you push into a deep carve or a bank isn't optional at this stage — it's the specific thing that offsets the ligament-laxity piece above.
+**Take your warm-up more seriously, not less.** Tendon tissue that hasn't been properly warmed up is more vulnerable at end ranges of motion, and that's plausibly more true, not less, if perimenopausal tendon is also stiffer and less elastic to begin with. A full warm-up before you push into a deep carve or a bank isn't optional at this stage.
 
 **Don't assume every new ache is serious, but don't ignore a pattern either.** Some extra stiffness and slower bounce-back is an expected part of this transition. A specific joint that's consistently painful, swollen, or unstable — as opposed to generally achy — is worth getting assessed rather than attributed to hormones by default.
 

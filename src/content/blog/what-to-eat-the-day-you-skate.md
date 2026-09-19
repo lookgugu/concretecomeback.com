@@ -20,7 +20,7 @@ This isn't a supplements post — [that ground is covered elsewhere on this site
 
 **If you're skating first thing, don't skip breakfast to save time.** A small carbohydrate snack fifteen to twenty minutes before an early session — even just a piece of fruit — is enough to top up glucose that's dropped overnight, without needing a full meal to digest first.
 
-**Hydrate before you're thirsty.** By the time you feel thirsty, you're already mildly dehydrated, and dehydration shows up as fatigue and reduced focus before it shows up as obvious thirst. A glass of water in the hour before a session, and water on hand during it, especially in warm weather, matters more than most adult skaters give it credit for.
+**Drink to thirst, but don't wait until you're on the board to start.** For a recreational session, thirst is a reasonable guide, not a sign you've already fallen behind — and drinking well past it, especially on a long or hot session, can do more harm than good. What actually catches most adult skaters out isn't ignoring thirst mid-session, it's showing up already a little behind on fluids from the rest of the day. Have water on hand during longer or hotter sessions and drink when you're thirsty, rather than either ignoring it or forcing extra water in ahead of it.
 
 ## Right after you skate
 
