@@ -16,7 +16,9 @@ So here's the map. This isn't a training plan — the site already has one of th
 
 ## Week one: the soreness surprises you more than the falling does
 
-The bruises get the attention, but it's the deep, unfamiliar soreness that catches people off guard first. Calves, ankles, and the small stabilizer muscles around your hips do work in skating that almost nothing else in adult life asks of them, and they let you know about it for two or three days afterward. This is ordinary delayed-onset muscle soreness, not injury, and it fades faster than it feels like it will on day two.
+The bruises get the attention, but it's the deep, unfamiliar soreness that catches people off guard first. Calves, ankles, and the small stabilizer muscles around your hips do work in skating that almost nothing else in adult life asks of them, and they let you know about it for two or three days afterward. This is ordinary delayed-onset muscle soreness (DOMS) — a dull, symmetrical, whole-muscle ache that peaks around 24–48 hours and improves a little more every day — not injury, and it fades faster than it feels like it will on day two.
+
+That said, DOMS has a specific shape, and it's worth knowing what falls outside it. Sharp or localized pain (as opposed to a general ache), swelling or bruising around a joint, pain that's worse on one side than the other for no reason you can place, or soreness that's still getting worse rather than better after three or four days isn't DOMS — it's a signal to rest and get it looked at rather than push through. When in doubt, treat it as the latter until a professional tells you otherwise.
 
 The other week-one surprise is how much your ankles wobble on flat, boring ground you'd have called "easy" without thinking twice as a teenager. That wobble is your proprioception — your sense of where your foot and the board are without looking — waking back up after years dormant. It comes back fast, but week one is when it's at its worst, and that's exactly why the flat-ground phase of any return plan exists.
 
@@ -47,4 +49,3 @@ It's also, ironically, a period where injuries can tick up slightly if people le
 ## What to do with this map
 
 None of these timelines are exact, and your own comeback will run faster or slower depending on your starting fitness, how often you skate, and plain luck with injuries. The point of laying it out isn't to give you a schedule to measure yourself against anxiously. It's so that when you hit the month-three plateau, or the week-one soreness, or the month-five confidence that suddenly makes you want to try something bigger, you recognize it as a known, normal stage of the process — not a sign that something's wrong, and not a sign you need to push harder than you already are. Just a sign you're exactly where a comeback is supposed to be at that point.
-</content>
