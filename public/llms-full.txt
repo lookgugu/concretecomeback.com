@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-20T09:12:24.515Z
+# Date: 2026-09-20T14:08:38.441Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -224,7 +224,7 @@ Here's what actually changes, and what to do about each one.
 
 ## Wet leaves are not a minor inconvenience
 
-A leaf on wet pavement isn't just slippery the way wet pavement is slippery — it's slippery the way ice is slippery. The physics is well documented in road-safety research: a wet leaf develops a thin water film over its waxy surface, similar to what forms on ice, and because the leaf itself isn't bonded to the ground the way ice is, it can slide against both the pavement and whatever's rolling over it, adding a second sliding surface on top of the first. Stopping distances on wet-leaf-covered roads have been measured at several times longer than on dry pavement — worse than plain wet pavement alone.
+A leaf on wet pavement isn't just slippery the way wet pavement is slippery — it's slippery the way ice is slippery. The physics is well documented in road-safety research: a wet leaf develops a thin water film over its waxy surface, similar to what forms on ice, and because the leaf itself isn't bonded to the ground the way ice is, it can slide against both the pavement and whatever's rolling over it, adding a second sliding surface on top of the first. Road-safety demonstrations put a car's stopping distance on wet leaves at roughly three times what it is on dry pavement — and noticeably longer than on plain wet pavement.
 
 None of that research was done on skateboard wheels, but the underlying mechanism doesn't care what's rolling over it. A small, hard wheel making brief contact with a wet leaf has even less surface area to find grip than a car tire does. Practically, that means:
 
@@ -234,25 +234,25 @@ None of that research was done on skateboard wheels, but the underlying mechanis
 
 ## Daylight is disappearing faster than you think
 
-Depending on your latitude, you can lose several minutes of usable daylight every single day through September and October. The session that started in full sun at 5:30 in July is now finishing in genuine dusk at the same clock time. The problem isn't romantic golden-hour lighting — it's the specific loss of depth perception and contrast that comes right before full dark, which is exactly when it's hardest to judge a crack, a lip, or another skater's speed and distance.
+Around the September equinox, mid-latitude cities lose roughly two to three minutes of daylight every single day, and closer to four the further north you are. The session that started in full sun at 5:30 in July is now finishing in genuine dusk at the same clock time. The problem isn't romantic golden-hour lighting — it's the specific loss of depth perception and contrast that comes right before full dark, which is exactly when it's hardest to judge a crack, a lip, or another skater's speed and distance.
 
 - **Check sunset time before you go, not after you're already at the park.** A quick look at your phone's weather app takes ten seconds and tells you exactly how much usable light you have left.
 - **Build in a buffer.** Plan to be packing up 15–20 minutes before sunset rather than treating sunset as your hard stop — the last stretch of usable light degrades faster than people expect.
-- **If a park has lighting, learn its actual coverage**, not just whether it has lights at all. Many "lit" parks only light the main bowl or street course, leaving entry ramps and edges dim.
+- **If a park has lighting, learn its actual coverage**, not just whether it has lights at all. Many "lit" parks only light the main bowl or street course, leaving entry ramps and edges dim. [The night-skating guide](/blog/night-skating-after-40/) covers how to scout a park's lighting gaps and what visibility gear is worth carrying.
 
 ## Cold changes how your wheels grip
 
-Wheel hardness is rated for a reason, and most adult-friendly setups (78a–87a) are chosen for their grip and shock absorption at typical riding temperatures. As pavement temperature drops through autumn, urethane wheels genuinely get harder and less compliant — the same wheel that felt grippy and forgiving in September warmth can feel noticeably skatier and less predictable on a cold October morning, particularly over the first few minutes before you've built any heat into them.
+Wheel hardness is rated for a reason, and most setups this site recommends for older skaters ([78a–87a, per the wheel-hardness guide](/blog/wheel-hardness-guide-for-adult-skaters/)) are chosen for their grip and shock absorption at typical riding temperatures. As pavement temperature drops through autumn, urethane wheels genuinely get harder and less compliant — the same wheel that felt grippy and forgiving in September warmth can feel noticeably skatier and less predictable on a cold October morning, particularly over the first few minutes before you've built any heat into them.
 
 - **Give yourself a longer warm-up push before attempting anything you'd normally do without thinking.** A few extra minutes of pushing and carving lets you feel out how the wheels are actually gripping today, not how you remember them gripping last week.
 - **Be more conservative on cold mornings specifically** — the first session of a cold day is when the mismatch between expected grip and actual grip is largest, before your body and your wheels have both had a chance to adjust.
-- **If you're skating year-round into genuinely cold weather, this is worth revisiting again in winter** — the effect only becomes more pronounced as temperatures keep dropping.
+- **If you're skating year-round into genuinely cold weather, this is worth revisiting again in winter** — the effect only becomes more pronounced as temperatures keep dropping. [The year-round skating guide](/blog/year-round-skating-guide-for-adults/) covers ice on covered concrete, longer winter warm-ups, and how to keep your balance through the off-season.
 
 ## The pattern underneath all three
 
 Every one of these hazards has the same shape: something about the park changed since your last visit, and the visible surface doesn't necessarily show it. Wet leaves can look dry. Dusk can look like plenty of light. Cold wheels look identical to warm ones. That's exactly why autumn catches returning adult skaters off guard more than any other season — the risk isn't dramatic or obvious, it's a small mismatch between what your body expects and what the park is actually giving you.
 
-The fix isn't to skate less through autumn. It's to spend the first few minutes of every autumn session actively checking, rather than assuming the conditions match what you remember from summer. A short, deliberate warm-up lap around the whole park — checking for damp patches, testing your wheels' grip, and clocking how much daylight you actually have left — costs you almost nothing and catches most of what autumn is going to throw at you before it costs you something bigger.
+The fix isn't to skate less through autumn. It's to spend the first few minutes of every autumn session actively checking, rather than assuming the conditions match what you remember from summer. A short, deliberate warm-up lap around the whole park — checking for damp patches, testing your wheels' grip, and clocking how much daylight you actually have left — on top of [the usual ten-minute warm-up](/blog/warm-up-routine-for-adult-skaters/), costs you almost nothing and catches most of what autumn is going to throw at you before it costs you something bigger.
 
 ## A note for the Southern Hemisphere
 
@@ -876,15 +876,15 @@ A month-by-month guide to the soreness, wobble, and confidence shifts of a real 
 
 The question I get asked more than any other by people thinking about a comeback isn't "what board should I buy" or "which park is beginner-friendly." It's some version of: is what I'm feeling right now normal? Usually asked a week or two in, usually with a slightly worried edge to it, usually about something that is, in fact, completely normal and just never got mapped out anywhere.
 
-So here's the map. This isn't a training plan — the site already has one of those. It's what the actual experience tends to feel like, month by month, based on years of watching people go through it at our sessions and going through most of it myself.
+So here's the map. This isn't a training plan — the site already has one of those, [the 8-week return plan](/blog/8-week-return-plan-adult-skaters/). It's what the actual experience tends to feel like, month by month, based on years of watching people go through it at our sessions and going through most of it myself.
 
 ## Week one: the soreness surprises you more than the falling does
 
-The bruises get the attention, but it's the deep, unfamiliar soreness that catches people off guard first. Calves, ankles, and the small stabilizer muscles around your hips do work in skating that almost nothing else in adult life asks of them, and they let you know about it for two or three days afterward. This is ordinary delayed-onset muscle soreness (DOMS) — a dull, symmetrical, whole-muscle ache that peaks around 24–48 hours and improves a little more every day — not injury, and it fades faster than it feels like it will on day two.
+The bruises get the attention, but it's the deep, unfamiliar soreness that catches people off guard first. Calves, ankles, and the small stabilizer muscles around your hips do work in skating that almost nothing else in adult life asks of them, and they let you know about it for two or three days afterward. This is ordinary delayed-onset muscle soreness (DOMS) — a dull, symmetrical, whole-muscle ache that peaks somewhere between 24 and 72 hours after the session and improves a little more every day — not injury, and it fades faster than it feels like it will on day two.
 
-That said, DOMS has a specific shape, and it's worth knowing what falls outside it. Sharp or localized pain (as opposed to a general ache), swelling or bruising around a joint, pain that's worse on one side than the other for no reason you can place, or soreness that's still getting worse rather than better after three or four days isn't DOMS — it's a signal to rest and get it looked at rather than push through. When in doubt, treat it as the latter until a professional tells you otherwise.
+That said, DOMS has a specific shape, and it's worth knowing what falls outside it. Sharp or localized pain (as opposed to a general ache), swelling or bruising around a joint, pain that's worse on one side than the other for no reason you can place, or soreness that's still getting worse rather than better after three or four days isn't DOMS — it's a signal to rest and get it looked at rather than push through. [The recovery guide](/blog/recovery-guide-for-adult-skaters/) has the fuller list of what's normal and what's a red flag. When in doubt, treat it as the latter until a professional tells you otherwise.
 
-The other week-one surprise is how much your ankles wobble on flat, boring ground you'd have called "easy" without thinking twice as a teenager. That wobble is your proprioception — your sense of where your foot and the board are without looking — waking back up after years dormant. It comes back fast, but week one is when it's at its worst, and that's exactly why the flat-ground phase of any return plan exists.
+The other week-one surprise is how much your ankles wobble on flat, boring ground you'd have called "easy" without thinking twice as a teenager. That wobble is your proprioception — your sense of where your foot and the board are without looking — waking back up after years dormant. It comes back fast, but week one is when it's at its worst, and that's exactly why the flat-ground phase of any return plan exists. [The proprioception post](/blog/proprioception-training-for-adult-skaters/) has the balance drills that speed this up.
 
 ## Month one: the awkward, promising phase
 
@@ -896,7 +896,7 @@ It isn't slow. It's the normal shape of skill acquisition: fast initial gains as
 
 This is usually the turning point people remember afterward as "when it started feeling like skating again." Somewhere in this window, pushing and carving stop requiring active thought — you're not narrating "weight forward, look ahead, bend your knees" to yourself anymore, and your body starts making small balance corrections automatically, the way it used to.
 
-Physically, this tends to line up with real gains in ankle stability and single-leg balance, which is exactly the proprioceptive rebuilding that started wobbling in week one finally consolidating into something durable. It's also usually the point where a returner's confidence outpaces their skill just slightly, which is worth being honest with yourself about — this is a common window for a first real fall that actually hurts, precisely because things feel easier than they are.
+Physically, this tends to line up with real gains in ankle stability and single-leg balance, which is exactly the proprioceptive rebuilding that started wobbling in week one finally consolidating into something durable. It's also usually the point where a returner's confidence outpaces their skill just slightly, which is worth being honest with yourself about — this is a common window for a first real fall that actually hurts, precisely because things feel easier than they are. It's worth having [practised how to fall](/blog/how-to-fall-safely-after-40/) before you get here, not after.
 
 ## Month three to four: the plateau that isn't a plateau
 
@@ -2796,15 +2796,15 @@ Don't try to replace your commute on day one. Pick a single short, low-stakes er
 ### Skateboarding Might Be the Best Thing You Do for Your Brain After 40
 New research shows measurable cognitive decline can start in your 30s. Here's why skateboarding's demands on balance and problem-solving may help.
 
-For years, the working assumption — mine included — was that cognitive decline was a problem for your seventies, something to worry about decades from now. A pooled analysis published this year, tracking 14,389 adults across three cohorts on different continents, found something less comfortable: measurable decline in global cognition was already detectable in people aged 31 to 40. Non-memory domains — the kind of processing speed and executive function you use constantly without noticing — showed the earliest drop-off. Memory itself didn't show a clear decline until after 50.
+For years, the working assumption — mine included — was that cognitive decline was a problem for your seventies, something to worry about decades from now. A pooled analysis published this year in the *Journal of Prevention of Alzheimer's Disease* — [tracking 14,389 adults across three population cohorts](https://pubmed.ncbi.nlm.nih.gov/42566820/) in China, the United States, and the Czech Republic — found something less comfortable: measurable decline in global cognition was already detectable in people aged 31 to 40. Non-memory domains — the kind of processing speed and executive function you use constantly without noticing — showed the earliest drop-off. Memory itself didn't show a clear decline until after 50.
 
 That's not a reason to panic. It's a reason to pay attention earlier than most of us were taught to, and it's part of why I think returning to skateboarding in your 40s is doing more for you than it looks like from the outside.
 
 ## What the research actually says — and doesn't say
 
-To be precise about what that study found: it's a large-scale, cross-cohort look at when cognitive decline first becomes statistically detectable in the general population. It is not a study of skateboarding, and there's no direct research linking skateboarding specifically to slower cognitive aging. Nobody has run that trial. What does exist is a well-established, much broader body of research on the kinds of activity that tend to support brain health as we age — activity that combines physical movement with real-time problem-solving, rather than either alone.
+To be precise about what that study found: it's a large-scale, cross-cohort look at when cognitive decline first becomes statistically detectable in the general population, and its main argument is that monitoring cognitive health should start in midlife rather than waiting for memory problems in old age. It is not a study of skateboarding, and there's no published research linking skateboarding specifically to slower cognitive aging. Nobody has run that trial. What does exist is a well-established, much broader body of research on the kinds of activity that tend to support brain health as we age — activity that combines physical movement with real-time problem-solving, rather than either alone.
 
-Skateboarding happens to sit squarely in that category, for reasons worth being specific about rather than hand-wavy about.
+Skateboarding happens to sit squarely in that category, for reasons worth being specific about rather than hand-wavy about. (If you want the motor-learning side of this in more depth, [the brain-at-45 post](/blog/your-brain-at-45-can-still-learn-tricks/) covers why adults can still learn new tricks at all.)
 
 ## Why the specific demands of skating fit that profile
 
@@ -2822,11 +2822,11 @@ A treadmill workout is good for your cardiovascular system, but it asks very lit
 
 None of this is a promise that skating will keep your brain young — nobody can promise that, and treat anyone who does with suspicion. What it means is that the specific activity you've already chosen to come back to happens to combine several of the ingredients that broader cognitive-health research associates with resilience: physical activity, novel motor learning, spatial reasoning, and real-time decision-making, all in one package, several times a week.
 
-If you were looking for a reason to feel less guilty about the time you spend at the park, or a way to explain to a skeptical partner or friend why this matters to you beyond nostalgia, this is a legitimate one. You're not just chasing a feeling from your teenage years. You're doing one of the more cognitively demanding things available to you as regular exercise, at exactly the point in life when that demand seems to matter most.
+If you were looking for a reason to feel less guilty about the time you spend at the park, or a way to explain to a skeptical partner or friend why this matters to you beyond nostalgia, this is a legitimate one. You're not just chasing a feeling from your teenage years. You're doing one of the more cognitively demanding things available to you as regular exercise, at exactly the point in life when that demand seems to matter most. (And yes, [it counts as real exercise](/blog/skateboarding-counts-as-real-exercise/) on the cardiovascular side too.)
 
 ## The part that's still on you
 
-The research on early-onset cognitive decline is also a nudge, not a verdict. A detectable drop at the population level in your 30s and 40s doesn't mean decline is inevitable or fixed for any individual — lifestyle factors, of which physical activity is one of the better-studied, appear to meaningfully affect the trajectory. Skating alone isn't a substitute for sleep, general fitness, or staying socially connected, all of which show up repeatedly in the same research as protective. It's one strong contributor among several, and it happens to be the one you were already showing up for.
+The research on early-onset cognitive decline is also a nudge, not a verdict. A detectable drop at the population level in your 30s and 40s doesn't mean decline is inevitable or fixed for any individual — lifestyle factors, of which physical activity is one of the better-studied, appear to meaningfully affect the trajectory. Skating alone isn't a substitute for sleep, general fitness, or staying socially connected, all of which show up repeatedly in the broader dementia-prevention research as protective. It's one strong contributor among several, and it happens to be the one you were already showing up for.
 
 Keep showing up. The board was always going to be good for your legs and your mood. It's looking increasingly plausible that it's good for your head, too — for reasons that have nothing to do with nostalgia and everything to do with what the sport actually demands of you, session after session.
 
