@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-20T14:25:05.481Z
+# Date: 2026-09-20T14:28:59.429Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -3845,7 +3845,7 @@ This isn't a supplements post — [that ground is covered elsewhere on this site
 
 **A protein-forward breakfast helps more than people expect.** Overnight is when a lot of repair work happens, and starting the next day with protein — eggs, Greek yogurt with fruit, a protein smoothie — supports the tail end of that process rather than leaving your body running on whatever you had for dinner.
 
-**Anti-inflammatory whole foods are worth leaning into, without overselling them.** Fatty fish, berries, leafy greens, and foods with turmeric are commonly cited for supporting the body's natural inflammatory response, and there's no downside to building more of them into your regular diet. Some people find tart cherry juice or a curcumin-rich meal helpful for next-day soreness; treat that as worth trying rather than a guaranteed fix; the evidence is more suggestive than settled, and consistent training and recovery habits do far more of the actual work.
+**Anti-inflammatory whole foods are worth leaning into, without overselling them.** Fatty fish, berries, leafy greens, and foods with turmeric are commonly cited for supporting the body's natural inflammatory response, and for most people there's no downside to building more of them into your regular diet. One exception worth knowing: if you're on warfarin or another vitamin K-sensitive blood thinner, a sudden increase in leafy greens can shift your vitamin K intake enough to affect how well the medication works — keep your intake roughly consistent and talk to your doctor before changing it meaningfully. Some people find tart cherry juice or a curcumin-rich meal helpful for next-day soreness; treat that as worth trying rather than a guaranteed fix; the evidence is more suggestive than settled, and consistent training and recovery habits do far more of the actual work.
 
 **Don't confuse "sore" with "under-fed."** If you're waking up genuinely depleted — foggy, unusually hungry, flat — the day after sessions, that's often a sign your overall calorie or protein intake isn't matching your activity level, not just a normal soreness response. Adult skaters who are trying to eat "light" while also skating several times a week are frequently underfueling without realizing it.
 
