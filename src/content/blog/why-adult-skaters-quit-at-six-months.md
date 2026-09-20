@@ -14,13 +14,15 @@ I've watched a lot of adults come back to skating through organising sessions he
 
 If you're a few months into your comeback and starting to feel your motivation wobble, you're not failing at this. You've just arrived at the point where most people arrive, and it's worth naming exactly what's going on so you can do something about it instead of quietly drifting off.
 
+One scope note before the list. [The month-by-month guide to the first six months](/blog/first-six-months-back-what-to-expect/) covers what your body, balance, and skill are actually doing through this window, including the plateau itself. This post is about the narrower question of why people stop showing up at that point, and the habits that keep them coming back.
+
 ## The three triggers
 
 **The novelty wears off.** Month one runs on excitement — you're relearning to push, everything feels like progress, and just being back at a park is its own reward. That excitement is real, but it's also borrowed energy, and it doesn't last. Once the "wow, I'm doing this again" feeling fades, whatever's underneath it — whether you actually enjoy the process of getting better — is what has to carry you forward. A lot of people don't notice that shift is coming, so when the initial thrill fades, it feels like something's wrong rather than like the entirely normal next phase.
 
 **Soreness and small setbacks accumulate.** Early sessions are forgiving because expectations are low and every wobble feels like an adventure. By month three or four, the accumulated bruises, the tweaked ankle that never quite resolved, and the general low-grade fatigue of an unfamiliar sport start to add up. None of it is usually serious on its own. Together, it's the kind of grinding discomfort that makes skipping a session feel reasonable, and skipped sessions compound.
 
-**Progress plateaus right when life gets in the way.** The easy, visible gains — pushing, carving, basic balance — happen fast. What comes next is slower and less obviously rewarding: refining a carve, building the confidence to try a bank, getting comfortable with speed. That slowdown tends to land at the exact moment the initial schedule-clearing enthusiasm has worn off and ordinary life — work, family, the things that got deprioritized in month one — reasserts itself. Slower progress plus less protected time is a hard combination to keep showing up for.
+**Progress plateaus right when life gets in the way.** The easy, visible gains — pushing, carving, basic balance — happen fast, and what comes next is slower and less obviously rewarding. That slowdown tends to land at the exact moment the initial schedule-clearing enthusiasm has worn off and ordinary life — work, family, the things that got deprioritized in month one — reasserts itself. Slower progress plus less protected time is a hard combination to keep showing up for.
 
 None of these three triggers is a signal that skating isn't for you. They're just what month three to six actually feels like for almost everyone. Knowing that in advance is most of the battle — the people I see quit are usually the ones who read the wobble as a verdict rather than a phase.
 
