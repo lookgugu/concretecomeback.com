@@ -24,7 +24,7 @@ The other week-one surprise is how much your ankles wobble on flat, boring groun
 
 ## Month one: the awkward, promising phase
 
-By four weeks in, most returners have stopped being sore after every single session and have a genuine, if shaky, feel for pushing and turning. This is also, frustratingly, when a lot of people quit — because the initial novelty has worn off, the soreness has faded enough that the "getting fitter" feeling isn't as obvious, and the visible progress feels slow compared to how fast it felt in week one.
+By four weeks in, most returners have stopped being sore after every single session and have a genuine, if shaky, feel for pushing and turning. This is also, frustratingly, when motivation first wobbles — because the initial novelty has worn off, the soreness has faded enough that the "getting fitter" feeling isn't as obvious, and the visible progress feels slow compared to how fast it felt in week one. Most people push through this first dip; the more dangerous one comes later, around months three to six, when the plateau below meets ordinary life reasserting itself.
 
 It isn't slow. It's the normal shape of skill acquisition: fast initial gains as your brain relearns gross motor patterns it already had stored, followed by a plateau while the finer coordination catches up. If month one feels like you've stalled, you haven't. You've moved from the steep part of the curve to the harder, less dramatic middle part, and that's where consistency matters more than intensity.
 
