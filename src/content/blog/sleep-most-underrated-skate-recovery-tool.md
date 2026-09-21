@@ -16,7 +16,7 @@ Sleep isn't a lifestyle nice-to-have sitting next to your training. It's the pri
 
 ## What sleep is actually doing while you're out
 
-Most of the physical repair from a session — muscle protein synthesis, tissue repair, the hormonal environment that supports recovery — is concentrated in deep, slow-wave sleep, which clusters in the first half of the night. Growth hormone release, which drives a lot of that tissue repair, peaks during this stage. Cut your sleep short, or fragment it with frequent waking, and you're specifically cutting into the stage doing the most physical repair, not just losing hours off the top.
+Most of the physical repair from a session — muscle protein synthesis, tissue repair, the hormonal environment that supports recovery — is concentrated in deep, slow-wave sleep, which clusters in the first half of the night. Growth hormone release, which drives a lot of that tissue repair, peaks during this stage. A late bedtime or a night broken up by frequent waking cuts directly into that stage, since slow-wave sleep is front-loaded and hasn't happened yet or keeps getting interrupted. Waking up early instead, with a normal bedtime, tends to cost you a different part of the night — which matters just as much, for a different reason.
 
 There's a second piece that matters just as much for a skater specifically: motor learning and memory consolidation happen substantially during sleep, including the later REM-heavy stretches toward morning. The tic-tac you finally started linking together, the drop-in you got more comfortable with — a chunk of that skill actually consolidates while you're asleep, not just during the session itself. Skimp on sleep and you're not just recovering slower; you're also banking less of what you practiced.
 
