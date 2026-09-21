@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-21T09:25:38.421Z
+# Date: 2026-09-21T09:31:04.658Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -1950,7 +1950,9 @@ There's also a specific mechanical link worth naming, because it explains a patt
 
 **Nerve-related pain** is a different animal and needs different handling. Pain that radiates down a leg past the knee, numbness or tingling in the foot, or weakness in pushing off with one leg are signs the issue involves a nerve root, not just muscle and joint irritation. That's not a "stretch it out and skate through it" situation — it's worth an actual assessment before you keep loading the area the same way.
 
-**A small set of symptoms means stop and get emergency care, not just an appointment.** New loss of bladder or bowel control, numbness in the saddle or groin area, or numbness and weakness spreading into both legs together can signal cauda equina syndrome — a rare but genuine emergency where delayed treatment risks permanent nerve damage. Any of those, on their own or alongside back pain, means the emergency room the same day, not a wait-and-see.
+**A small set of symptoms means stop and get emergency care, not just an appointment.** New loss of bladder or bowel control, new difficulty starting urination or a sense you can't fully empty your bladder, numbness in the saddle or groin area, or numbness and weakness spreading into both legs together can signal cauda equina syndrome — a rare but genuine emergency where delayed treatment risks permanent nerve damage. Any of those, on their own or alongside back pain, means the emergency room the same day, not a wait-and-see.
+
+A few other patterns also belong in urgent care rather than self-management, independent of any nerve symptoms above. Back pain that starts right after a fall or any real impact — especially if you have osteoporosis, osteopenia, or another reason to suspect lower bone density, where even a minor fall can fracture a vertebra — needs the same day assessment, not a wait-and-see. So does back pain accompanied by fever, unexplained weight loss, or a personal history of cancer, any of which points to a cause beyond ordinary mechanical strain.
 
 Soreness that's worse first thing in the morning and eases as you move around during the day is a pattern that fits ordinary mechanical stiffness, but morning stiffness alone doesn't rule out something that needs a professional look — some inflammatory back conditions produce a similar pattern. Use it as one data point, not a self-diagnosis. Pain that gets sharply worse with specific movements — bending forward, coughing, sitting for a stretch — that includes any leg symptoms, or that simply isn't easing over a couple of weeks of sensible self-care, deserves an actual assessment rather than more stretching.
 
@@ -3547,7 +3549,7 @@ Sleep isn't a lifestyle nice-to-have sitting next to your training. It's the pri
 
 ## What sleep is actually doing while you're out
 
-Most of the physical repair from a session — muscle protein synthesis, tissue repair, the hormonal environment that supports recovery — is concentrated in deep, slow-wave sleep, which clusters in the first sleep cycles after you fall asleep, whatever time that happens to be. Growth hormone release, which drives a lot of that tissue repair, peaks during this stage. A night broken up by frequent waking cuts directly into that stage, since it keeps getting interrupted before it can run its course. A late bedtime paired with a wake time that doesn't move with it works the same way, by leaving less total time for those early cycles to complete. Simply going to bed later and getting up later doesn't have the same effect — slow-wave sleep still happens, just on a shifted clock. What a shortened night reliably costs, regardless of which end gets cut, is the later, REM-heavy stretch toward morning — which matters just as much, for a different reason.
+Most of the physical repair from a session — muscle protein synthesis, tissue repair, the hormonal environment that supports recovery — is concentrated in deep, slow-wave sleep, which clusters in the earliest sleep cycles after you fall asleep. Growth hormone release, which drives a lot of that tissue repair, peaks during this stage. A night broken up by frequent waking is the one pattern that reliably cuts into it, by interrupting those early cycles before they run their course. A shortened night from any other cause — a late bedtime with a wake time that doesn't move, or waking up early after a normal bedtime — tends to cost you a different part of the night instead: slow-wave sleep is prioritized by your body and holds up reasonably well under a shorter night, while the lighter, REM-heavy sleep concentrated later on is what actually gets cut. That stretch matters just as much, for a different reason.
 
 There's a second piece that matters just as much for a skater specifically: motor learning and memory consolidation happen substantially during sleep, including the later REM-heavy stretches toward morning. The tic-tac you finally started linking together, the drop-in you got more comfortable with — a chunk of that skill actually consolidates while you're asleep, not just during the session itself. Skimp on sleep and you're not just recovering slower; you're also banking less of what you practiced.
 
