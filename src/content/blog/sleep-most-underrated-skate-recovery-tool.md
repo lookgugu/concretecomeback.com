@@ -44,7 +44,9 @@ There's also a safety angle worth being direct about. Reaction time and balance 
 
 ## Adjusting your training around the sleep you're actually getting
 
-The same way [recovery days](/blog/recovery-days-for-adult-skaters/) should flex around how your body actually feels rather than a fixed schedule, your session intensity should flex around how you actually slept. A short, rough night doesn't mean cancel the session — it's reasonable to still go, just with lower expectations for how hard you push a new trick or how long you stay out. Save the sessions where you're chasing genuine progress for the days you're rested enough to actually consolidate them.
+The same way [recovery days](/blog/recovery-days-for-adult-skaters/) should flex around how your body actually feels rather than a fixed schedule, your session intensity should flex around how you actually slept. An ordinary short, rough night doesn't mean cancel the session — it's reasonable to still go, just with lower expectations for how hard you push a new trick or how long you stay out. Save the sessions where you're chasing genuine progress for the days you're rested enough to actually consolidate them.
+
+That's different from genuinely impaired. If you're noticeably drowsy, catching yourself nodding off, dizzy, or clumsier than usual in ordinary moving around — not just a bit flat, but visibly off — that's a day to skip skating entirely, not just dial it back. Scaling down trick difficulty doesn't restore reaction time or balance that sleep deprivation has actually degraded, and skating on a board while that impaired raises real fall risk. Rest, and get back on when you're actually alert.
 
 ## The simple version
 
