@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-21T09:53:22.193Z
+# Date: 2026-09-21T14:08:42.476Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -1517,7 +1517,7 @@ Someone starting at 60 is usually after one of a few different things: pure nove
 
 **Weeks 1–4: flatground, pushing, and stopping, full stop.** Learn to push comfortably, turn with control, foot-brake to a stop on command, and step off the board on purpose when a stop isn't going to happen in time — and, most importantly, [learn to fall properly](/blog/how-to-fall-safely-skateboarding/) before you do anything else. Practice falling on grass or a real crash mat, from a low crouch, ideally with someone experienced walking you through it. Stopping and bailing on purpose should be automatic, not something you're still thinking about, before you move on — this is the single highest-value phase you can spend your first month on, at any age, and it matters more here, not less.
 
-**Weeks 4–8: mellow terrain, still flatground-dominant.** Once stopping and controlled bailing are solid, add a flat empty parking lot, wide-open sections of a skatepark during quiet hours, and only the gentlest of rolling grades — a slope hands you speed you didn't choose, so it's the reward for the first phase, not a shortcut around it. The goal is comfort and control at low speed, not height or challenge. If a session ever asks you to commit to something you're not confident about to avoid an awkward outcome, that's the sign you've found the edge of where you should be for now, not a challenge to push through.
+**Weeks 5–8: mellow terrain, still flatground-dominant.** Once stopping and controlled bailing are solid, add a flat empty parking lot, wide-open sections of a skatepark during quiet hours, and only the gentlest of rolling grades — a slope hands you speed you didn't choose, so it's the reward for the first phase, not a shortcut around it. The goal is comfort and control at low speed, not height or challenge. If a session ever asks you to commit to something you're not confident about to avoid an awkward outcome, that's the sign you've found the edge of where you should be for now, not a challenge to push through.
 
 **Two months and beyond: let your own goals decide the next step.** If cruising and flatground is genuinely satisfying, there's no obligation to chase anything more — a lot of the joy and fitness benefit of skating lives right there. If you want to progress toward mellow transitions or basic tricks, do it the same way: gradually, on terrain you've scouted first, ideally with a coach or an experienced friend the first several times. [Finding a skateboard coach](/blog/finding-a-skateboard-coach-for-adults/) is worth reading regardless of age — a few paid lessons early is one of the most efficient ways to build good habits before bad ones set in.
 
@@ -1960,7 +1960,7 @@ Soreness that's worse first thing in the morning and eases as you move around du
 
 **Core stability, not core "strength" in the crunches sense.** The muscles that protect your lower back during a long session are the deep stabilizers — transverse abdominis, multifidus, the muscles that hold your spine in a neutral position under load — not the six-pack muscles a typical ab routine trains. Planks, dead bugs, and bird-dogs, held with a neutral spine, train the right thing. Two or three short sessions a week is enough to notice a difference within a month.
 
-**Hip mobility work, specifically hip flexor length.** Since a tight hip flexor pushes the compensation straight into your lumbar spine, the kneeling hip flexor stretch described in [the hip health piece](/blog/hip-health-for-skaters-over-45/) does double duty here. Do it after skating, not before — you want your hips loose for the day, not right before you load them.
+**Hip mobility work, specifically hip flexor length.** Since a tight hip flexor pushes the compensation straight into your lumbar spine, the kneeling hip flexor stretch described in [the hip health piece](/blog/hip-health-for-skaters-over-45/) does double duty here. Do it after skating, when the tissue is already warm, rather than cold before a session — a held stretch doesn't warm anything up, and the warm-up below is what belongs before you skate.
 
 **A genuine warm-up before you crouch into anything deep.** Cat-cow stretches, gentle trunk rotations, and a few minutes of walking before you strap on pads gets blood into a lower back that's been sitting all morning. Skating cold into a deep carve asks a stiff structure to do its most demanding work first.
 

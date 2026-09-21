@@ -34,7 +34,7 @@ Soreness that's worse first thing in the morning and eases as you move around du
 
 **Core stability, not core "strength" in the crunches sense.** The muscles that protect your lower back during a long session are the deep stabilizers — transverse abdominis, multifidus, the muscles that hold your spine in a neutral position under load — not the six-pack muscles a typical ab routine trains. Planks, dead bugs, and bird-dogs, held with a neutral spine, train the right thing. Two or three short sessions a week is enough to notice a difference within a month.
 
-**Hip mobility work, specifically hip flexor length.** Since a tight hip flexor pushes the compensation straight into your lumbar spine, the kneeling hip flexor stretch described in [the hip health piece](/blog/hip-health-for-skaters-over-45/) does double duty here. Do it after skating, not before — you want your hips loose for the day, not right before you load them.
+**Hip mobility work, specifically hip flexor length.** Since a tight hip flexor pushes the compensation straight into your lumbar spine, the kneeling hip flexor stretch described in [the hip health piece](/blog/hip-health-for-skaters-over-45/) does double duty here. Do it after skating, when the tissue is already warm, rather than cold before a session — a held stretch doesn't warm anything up, and the warm-up below is what belongs before you skate.
 
 **A genuine warm-up before you crouch into anything deep.** Cat-cow stretches, gentle trunk rotations, and a few minutes of walking before you strap on pads gets blood into a lower back that's been sitting all morning. Skating cold into a deep carve asks a stiff structure to do its most demanding work first.
 
