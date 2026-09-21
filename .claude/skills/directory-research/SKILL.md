@@ -157,3 +157,6 @@ Keep this current when a batch defers something, so the next pass starts here. T
 - **Brisbane shop** — Barry Kicker, 115 Gotha St, Fortitude Valley, surfaced only as a blog listing (no hours/site).
 - **Adelaide shop** — nothing solid surfaced.
 - **Melbourne shop** — Fast Times is a shopping-centre chain; no independent core shop found yet.
+- **Grundy's Skate Store, Newcastle NSW** — long-standing skater-owned shop; historical addresses between Warners Bay and Charlestown unverified for current active retail storefront. Held: physical storefront address unconfirmed.
+- **Prime Skatepark / Deluxe, Plymouth UK** — Commercial Place / Ebrington St; adult session schedules variable across facilities. Held: session schedules and operating hours require verification.
+- **Kangaroo Bay Skate Park (Rosny Skatepark), Hobart / Clarence TAS** — Bastick St, Rosny; concrete competition bowl and street course; City of Clarence master planning reviews for surrounding precinct. Held: civic precinct master planning review.
