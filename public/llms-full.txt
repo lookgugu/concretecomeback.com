@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-22T09:13:27.269Z
+# Date: 2026-09-22T09:19:26.969Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -3450,7 +3450,7 @@ Timelines vary by procedure and by person, but most surgeons want to see you wel
 
 ## If you get a green light
 
-Assume you're starting over on technique, not picking up where you left off. Rebuild pushing and balance on flat, smooth ground exactly the way [the 8-week return plan](/blog/8-week-return-plan-adult-skaters/) lays out for any returning adult, regardless of how advanced you were decades ago. Favor the softest wheels that still roll well — vibration through a replaced joint is worth minimizing even more than for a joint that's merely aging — and treat falls as a genuinely bigger deal than they were before, since a hard fall onto a replaced hip or knee is a different risk than the same fall onto a natural one. Build your session around flow and carving rather than anything involving drops, stairs, or transition with real height, and check in with your surgeon or physio again if anything about the joint feels different than expected once you're actually loading it regularly.
+Assume you're starting over on technique, not picking up where you left off. Rebuild pushing and balance on flat, smooth ground exactly the way [the 8-week return plan](/blog/8-week-return-plan-adult-skaters/) lays out for any returning adult, regardless of how advanced you were decades ago. Favor the softest wheels that still roll well — vibration through a replaced joint is worth minimizing even more than for a joint that's merely aging — and treat falls as a genuinely bigger deal than they were before, since a hard fall onto a replaced hip or knee is a different risk than the same fall onto a natural one. Build your sessions around exactly the pushing, carving, and cruising on smooth pavement you described to your surgeon — not banks, transitions, drops, stairs, or anything else that adds speed or height beyond that. If flow terrain or anything more dynamic starts to appeal to you later, that's a new conversation to have with your surgeon before you try it, not a natural next step to take on your own. Check in with your surgeon or physio again, too, if anything about the joint feels different than expected once you're actually loading it regularly.
 
 ## What this isn't
 
