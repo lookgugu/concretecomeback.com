@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-22T14:11:07.452Z
+# Date: 2026-09-22T14:25:22.105Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -1873,7 +1873,7 @@ Good reasons to consider a brace: a diagnosed ligament issue, osteoarthritis tha
 
 ## The three types, and what each one is actually for
 
-**Compression sleeves** are the simplest option — an elastic tube that slides over the knee, available at any pharmacy for not much money. They don't add structural support, but they improve proprioception (your brain's sense of where the joint is in space) and provide mild compression that some skaters find genuinely reduces ache and swelling after a session. If your knee is generally achy but stable, a sleeve is the sensible place to start.
+**Compression sleeves** are the simplest option — an elastic tube that slides over the knee, available at any pharmacy for not much money. They don't add structural support, but they improve proprioception (your brain's sense of where the joint is in space) and provide mild compression that some skaters find genuinely reduces ache and swelling after a session. If your knee has a familiar, already-assessed ache — the kind you recognize, not a new symptom — a sleeve is the sensible place to start. A new ache is a different situation: [stop and get it looked at first](/blog/in-session-joint-management-guide/) rather than masking it with compression while you keep loading whatever's causing it.
 
 **Hinged braces** add rigid or semi-rigid supports on either side of the knee, connected by a hinge that moves with the joint. They give real side-to-side stability, which makes them the right fit once you're skating on a knee with a diagnosed, known instability — an old ligament repair, or a joint your physio has told you needs that extra support. The hinge lets you bend and extend normally while resisting the sideways forces a wobbly landing or an awkward push-off can put through the joint. A hinged brace belongs on a joint your clinician has already looked at and cleared — not as a first response to a knee that has given way or feels newly unstable, which, as above, needs [assessing before you buy anything](/blog/in-session-joint-management-guide/).
 
