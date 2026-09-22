@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-22T14:25:22.105Z
+# Date: 2026-09-22T14:29:34.040Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -1476,7 +1476,7 @@ Before you commit to a section, watch it for a minute. Who's using it, and how? 
 Once you've identified the zones, move through them with intent rather than wandering:
 
 1. **Start on the flat.** Five to ten minutes of pushing and carving, even if you feel ready for more. This is your actual warm-up, not a formality — cold muscles and cold judgment are a worse combination than either one alone.
-2. **Move to flow or a pump track next**, if the park has one. This is usually the sweet spot for an adult returner: enough terrain to feel like real skating, low enough consequence that a mistake doesn't end your session.
+2. **Move to a pump track next, if the park has one and your flat-ground basics are solid.** A pump track is the gentler of the two flow-type options — see the caveat above — and a good next step once pushing and carving feel automatic, not on day one. **Flow terrain proper** (the banks and transitions described above) asks for more: [the 8-week return plan](/blog/8-week-return-plan-adult-skaters/) has most returning adults building flat-ground skill for weeks before gentle terrain enters the picture at all, so treat flow as something to grow into, not a default second stop after a short warm-up.
 3. **Sample transition cautiously**, if you're drawn to it, starting at the mellowest, shallowest section available — often a small bank or the flat bottom of a bowl before you ever consider dropping in. [Committing to the drop-in](/blog/committing-to-the-drop-in-at-any-age/) is its own skill with its own timeline; don't rush toward it just because the terrain is in front of you.
 4. **Save street for last, if at all**, and treat it as optional. There's no rule that says a session has to touch every zone a park offers.
 
