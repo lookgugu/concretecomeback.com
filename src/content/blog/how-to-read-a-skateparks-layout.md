@@ -26,7 +26,7 @@ Most modern parks — and especially the new wave of "all-ages" designs opening 
 
 **Bowls and transition.** Pools, bowls, and vert-adjacent terrain with steep walls. Beautiful to watch, genuinely difficult to use well, and not where you want to be figuring out your pushing stance for the first time.
 
-**Pump tracks.** Increasingly common as a standalone feature or a dedicated corner of a larger park — rolling terrain meant to be ridden with pumping motion rather than pushing. If a park has one, it's often the best-kept secret for an adult returner: real cardio, real flow, low fall risk.
+**Pump tracks.** Increasingly common as a standalone feature or a dedicated corner of a larger park — rolling terrain meant to be ridden with pumping motion rather than pushing. If a park has one, it's often the best-kept secret for an adult returner: real cardio, real flow, and a gentler impact profile than a bowl or street section, provided you keep it to a sensible pace — carry too much speed into a roller and you can still catch air, slip out, or get thrown, so [the site's pump track guide](/blog/pump-tracks-for-adult-skaters/) is worth reading before you treat it as a break from protective gear.
 
 ## Read the crowd the same way you read the concrete
 
