@@ -16,7 +16,7 @@ I used to just pick a spot and start pushing around, usually wherever looked lea
 
 ## Parks are built in zones, even when they don't look like it
 
-Most modern parks — and especially the new wave of "all-ages" designs opening around the country this year — are laid out with distinct sections, even if there's no signage telling you where one ends and the next begins. Learning to spot these zones on sight is the whole skill.
+Most modern parks — and especially [the newer all-ages builds](/blog/inclusive-skateparks-all-ages/) — are laid out with distinct sections, even if there's no signage telling you where one ends and the next begins. Learning to spot these zones on sight is the whole skill.
 
 **Warm-up and flat sections.** Usually near an entrance or along one edge — smooth, flat concrete with no major features. This is where you push around, get your legs under you, and feel out the surface before committing to anything with consequences.
 
