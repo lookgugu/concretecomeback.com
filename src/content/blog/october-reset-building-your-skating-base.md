@@ -34,7 +34,7 @@ This isn't about hitting a specific number for its own sake. It's about noticing
 
 Autumn surfaces aren't summer surfaces, and it's worth adjusting for that rather than skating on them the same way.
 
-**Damp concrete** loses grip in ways that aren't always obvious until you're mid-carve. Morning dew and afternoon drizzle both leave a thin film that cuts traction noticeably, especially in shaded areas of a park that don't dry out as fast as the open sections. Give a surface a visual check before you commit to speed on it, and be willing to skate the sunnier, drier side of the park even if it's not your preferred line.
+**Damp concrete** loses grip in ways that aren't always obvious until you're mid-carve — and not always obvious to your eyes either. A thin film of dew or drizzle can look like a dry surface. Feel a section for dampness or condensation before you commit to speed on it, the same way you would scouting a park at night, rather than trusting a visual check alone, and be willing to skate the sunnier, drier side of the park — shaded areas hold moisture longer — even if it's not your preferred line.
 
 **Leaf debris** is a specific autumn hazard that's easy to underrate. A few wet leaves sitting in a transition or across a line you're used to skating clean can take your wheels out from under you exactly like a patch of gravel would, and they're harder to spot at speed. Do a slow lap of any new or unfamiliar terrain before pushing hard through it, and sweep an area yourself if you're skating somewhere without regular maintenance.
 
