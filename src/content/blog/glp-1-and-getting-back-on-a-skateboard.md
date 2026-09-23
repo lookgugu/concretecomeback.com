@@ -10,7 +10,7 @@ featured: false
 draft: false
 ---
 
-I'm seeing a new kind of patient in clinic this year: someone in their 40s or 50s who's finished a course of a GLP-1 medication — semaglutide, tirzepatide, whatever their doctor prescribed — lost a significant amount of weight, and is now asking what sport to take up now that their body feels lighter and more capable. Skateboarding comes up more than you'd expect. It's a reasonable instinct. It's also a body in a genuinely different state than the one that would have shown up in this conversation a few years ago, and it's worth understanding why before you buy a board.
+I'm seeing a new kind of patient in clinic this year: someone in their 40s or 50s who is currently taking, or has recently reduced or come off, a GLP-1 medication — semaglutide, tirzepatide, whatever their prescriber has them on — under their doctor's direction, has lost a significant amount of weight, and is now asking what sport to take up now that their body feels lighter and more capable. Skateboarding comes up more than you'd expect. It's a reasonable instinct. It's also a body in a genuinely different state than the one that would have shown up in this conversation a few years ago, and it's worth understanding why before you buy a board.
 
 ## Weight loss isn't the whole story
 
@@ -36,11 +36,11 @@ Here's the part that should be encouraging rather than discouraging, with one im
 
 A few things worth doing before and during your first sessions:
 
-- **Talk to your prescriber first**, especially if you're still tapering off the medication or dealing with side effects like nausea, fatigue, or lightheadedness — all of which interact badly with a balance sport.
+- **Talk to your prescriber first**, especially if you're currently adjusting your dose under their direction or dealing with side effects like nausea, fatigue, or lightheadedness — all of which interact badly with a balance sport. Any change to a GLP-1 regimen, including stopping it, is a decision for you and your prescriber, not something to time around a new hobby.
 - **Watch for low blood sugar signs** if you're managing diabetes alongside GLP-1 use; dizziness on a rolling board is a different problem than dizziness standing still.
 - **Hydrate deliberately.** GLP-1 medications commonly reduce appetite and thirst cues together, and dehydration undermines balance and reaction time.
 - **Start on flat, empty ground**, not ramps or bowls, regardless of how confident you feel. Pushing, balance, and stopping come first for everyone, and there's no reason to skip that step just because you're motivated.
-- **Wear full pads — helmet, wrist guards, knee pads — from session one.** A body that's recently changed composition is not the moment to skip protective gear "just this once."
+- **Wear a helmet, wrist guards, and knee pads from session one** — a body that's recently changed composition is not the moment to skip protective gear "just this once." Be clear-eyed about what this set doesn't cover, though: it protects the head, wrists, and knees, not the hip or spine, which are the sites that matter most for a fracture if bone density is a real concern for you. If you have diagnosed osteoporosis, osteopenia, or other risk factors for low bone density, talk to your doctor before starting, and read the [osteoporosis and skateboarding post](/blog/osteoporosis-bone-density-skateboarding/) on why gear alone doesn't resolve that particular risk — hip protectors are worth considering specifically, not assuming the standard pad set has you covered.
 
 ## The bigger point
 
