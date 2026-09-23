@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-23T10:02:53.104Z
+# Date: 2026-09-23T10:09:00.825Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -998,7 +998,7 @@ None of that is a reason to avoid skateboarding. It's a reason to treat "I've lo
 
 ## Rebuild strength before you rebuild speed
 
-If you're newly lighter and haven't been doing resistance work alongside the weight loss, spend a few weeks on basic strength before your first real skate session. You don't need a gym membership or a complicated program — bodyweight squats, step-ups, calf raises, and simple balance work (standing on one leg while brushing your teeth is a genuinely useful habit) rebuild the leg and ankle strength that absorbs impact and holds a stance. Two or three short sessions a week for a month is enough to notice a real difference in how stable you feel standing on flat ground.
+If you're newly lighter and haven't been doing resistance work alongside the weight loss, spend a few weeks on basic strength before your first real skate session. You don't need a gym membership or a complicated program — bodyweight squats, step-ups, calf raises, and simple balance work (standing on one leg near a wall or countertop you can catch yourself on — while brushing your teeth is a genuinely useful habit for fitting it in) rebuild the leg and ankle strength that absorbs impact and holds a stance. Two or three short sessions a week for a month is enough to notice a real difference in how stable you feel standing on flat ground.
 
 This matters more for skateboarding than for a lot of other "get moving again" sports, because skateboarding asks your legs and ankles to do constant small stabilizing work the whole time you're rolling, not just at discrete moments like a stroke or a swing.
 
@@ -2229,7 +2229,7 @@ Autumn surfaces aren't summer surfaces, and it's worth adjusting for that rather
 
 **Leaf debris** is a specific autumn hazard that's easy to underrate. A few wet leaves sitting in a transition or across a line you're used to skating clean can take your wheels out from under you exactly like a patch of gravel would, and they're harder to spot at speed. Do a slow lap of any new or unfamiliar terrain before pushing hard through it, and sweep an area yourself if you're skating somewhere without regular maintenance.
 
-**Shorter daylight** compresses your after-work skating window fast through October. If you're relying on evening sessions, shift them earlier where you can, or invest in genuinely good lighting for the park you use rather than skating in poor visibility and telling yourself you can see fine.
+**Shorter daylight** compresses your after-work skating window fast through October. If you're relying on evening sessions, shift them earlier where you can. If you can't, don't treat a personally-brought light as a fix for a park that isn't actually lit — partial, portable lighting still leaves cracks, transitions, and shadows hard to read. Find a park with real installed lighting or an indoor option instead; [the night-skating guide](/blog/night-skating-after-40/) covers how to find one and what to check before you commit to it as a regular slot.
 
 ## What this adds up to
 

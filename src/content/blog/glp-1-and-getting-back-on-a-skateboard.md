@@ -20,7 +20,7 @@ None of that is a reason to avoid skateboarding. It's a reason to treat "I've lo
 
 ## Rebuild strength before you rebuild speed
 
-If you're newly lighter and haven't been doing resistance work alongside the weight loss, spend a few weeks on basic strength before your first real skate session. You don't need a gym membership or a complicated program — bodyweight squats, step-ups, calf raises, and simple balance work (standing on one leg while brushing your teeth is a genuinely useful habit) rebuild the leg and ankle strength that absorbs impact and holds a stance. Two or three short sessions a week for a month is enough to notice a real difference in how stable you feel standing on flat ground.
+If you're newly lighter and haven't been doing resistance work alongside the weight loss, spend a few weeks on basic strength before your first real skate session. You don't need a gym membership or a complicated program — bodyweight squats, step-ups, calf raises, and simple balance work (standing on one leg near a wall or countertop you can catch yourself on — while brushing your teeth is a genuinely useful habit for fitting it in) rebuild the leg and ankle strength that absorbs impact and holds a stance. Two or three short sessions a week for a month is enough to notice a real difference in how stable you feel standing on flat ground.
 
 This matters more for skateboarding than for a lot of other "get moving again" sports, because skateboarding asks your legs and ankles to do constant small stabilizing work the whole time you're rolling, not just at discrete moments like a stroke or a swing.
 

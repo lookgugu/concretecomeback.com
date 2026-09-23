@@ -38,7 +38,7 @@ Autumn surfaces aren't summer surfaces, and it's worth adjusting for that rather
 
 **Leaf debris** is a specific autumn hazard that's easy to underrate. A few wet leaves sitting in a transition or across a line you're used to skating clean can take your wheels out from under you exactly like a patch of gravel would, and they're harder to spot at speed. Do a slow lap of any new or unfamiliar terrain before pushing hard through it, and sweep an area yourself if you're skating somewhere without regular maintenance.
 
-**Shorter daylight** compresses your after-work skating window fast through October. If you're relying on evening sessions, shift them earlier where you can, or invest in genuinely good lighting for the park you use rather than skating in poor visibility and telling yourself you can see fine.
+**Shorter daylight** compresses your after-work skating window fast through October. If you're relying on evening sessions, shift them earlier where you can. If you can't, don't treat a personally-brought light as a fix for a park that isn't actually lit — partial, portable lighting still leaves cracks, transitions, and shadows hard to read. Find a park with real installed lighting or an indoor option instead; [the night-skating guide](/blog/night-skating-after-40/) covers how to find one and what to check before you commit to it as a regular slot.
 
 ## What this adds up to
 
