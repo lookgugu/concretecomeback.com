@@ -34,6 +34,12 @@ Padel, like most racket sports, is built around a fairly repeatable pattern: lat
 
 Skateboarding asks something different of your body: continuous balance and proprioceptive correction rather than discrete strokes at a ball. There's real value in that as you get older — the small stabilizing adjustments a skateboard demands train exactly the kind of balance control that keeps people steady and confident on their feet generally, not just on a board. Neither pattern is objectively better; they train different things, and if you're already doing structured cardio elsewhere, skateboarding's balance-and-coordination emphasis might be the more useful gap to fill.
 
+## And the injury picture is genuinely different
+
+This is worth being honest about, because the two sports fail differently. Padel's injury pattern looks like most racket sports': ankle sprains from quick direction changes, Achilles strain, and the overuse shoulder and elbow issues that come from repeated overhead and forehand strokes over months of regular play. The enclosed glass court adds its own quirk — return-of-serve collisions with walls and other players are a real, if minor, category that a sport played on open ground doesn't have.
+
+Skateboarding's risk is concentrated differently: most injuries come from falls rather than repetitive strain, and a bad fall risk is real, especially while you're building the basic falling and balance skills covered elsewhere on this site. That's exactly why gear — helmet, wrist guards, knee pads — isn't optional the way it might feel optional in padel, and why starting on flat ground rather than ramps matters more here than the equivalent "start slow" advice does in a racket sport. Neither injury profile is obviously worse; padel trades acute falls for accumulated overuse risk, and skateboarding is the reverse. If you're already managing an old joint or tendon issue, that trade-off is worth weighing specifically rather than assuming either sport is automatically the gentler choice.
+
 ## The social shape, again
 
 Padel's social structure looks a lot like pickleball's: you typically play with the same three or four people at a scheduled time, which builds a specific, reliable kind of community — you know who you'll see, and there's a built-in reason to show up. If reliable, scheduled social contact is what you're missing in your week, that's a real point in padel's favor.

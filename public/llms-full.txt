@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-23T09:14:12.261Z
+# Date: 2026-09-23T09:23:58.741Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -1008,7 +1008,7 @@ Regardless of how weight loss happened, changing your body's mass and center of 
 
 ## The good news: skateboarding is actually a decent match, done right
 
-Here's the part that should be encouraging rather than discouraging. Skateboarding is low-impact compared to running or court sports — you're not pounding joints with repeated ground strikes — and it's unusually rich in the proprioceptive, balance-building work that's exactly what a body coming off rapid weight change benefits from. Done at the right pace, it's a genuinely good choice, not a risky one. The caution here isn't "don't do this," it's "prepare for it the way you would for any sport you're starting essentially fresh."
+Here's the part that should be encouraging rather than discouraging, with one important distinction built in. Controlled rolling itself is low-impact compared to running or court sports — you're not pounding joints with repeated ground strikes — and it's unusually rich in the proprioceptive, balance-building work that's exactly what a body coming off rapid weight change benefits from. That's a genuinely different thing from a fall, though, and it's worth being explicit about the difference rather than filing skateboarding under "low-impact" without qualification. A fall is a sudden, unplanned impact, and for someone who may be carrying less muscle and bone density than before, that's exactly the kind of event that raises fracture risk. Skateboarding done at the right pace, on flat ground, with the strength and balance work above already in place, is a genuinely good choice — but "low-impact" describes the rolling, not the learning curve, and tricks or terrain that increase your fall risk increase that risk directly. The caution here isn't "don't do this," it's "prepare for it, respect the difference between rolling and falling, and build up to anything beyond flat ground gradually."
 
 ## A practical starting checklist
 
@@ -2497,6 +2497,12 @@ A skateboard setup is a one-time cost that lasts years with basic maintenance �
 Padel, like most racket sports, is built around a fairly repeatable pattern: lateral movement, short sprints, overhead and forehand strokes, tracking a ball with a partner. It's genuinely good cardiovascular and reaction-time work, and the doubles format means you're rarely standing still for long.
 
 Skateboarding asks something different of your body: continuous balance and proprioceptive correction rather than discrete strokes at a ball. There's real value in that as you get older — the small stabilizing adjustments a skateboard demands train exactly the kind of balance control that keeps people steady and confident on their feet generally, not just on a board. Neither pattern is objectively better; they train different things, and if you're already doing structured cardio elsewhere, skateboarding's balance-and-coordination emphasis might be the more useful gap to fill.
+
+## And the injury picture is genuinely different
+
+This is worth being honest about, because the two sports fail differently. Padel's injury pattern looks like most racket sports': ankle sprains from quick direction changes, Achilles strain, and the overuse shoulder and elbow issues that come from repeated overhead and forehand strokes over months of regular play. The enclosed glass court adds its own quirk — return-of-serve collisions with walls and other players are a real, if minor, category that a sport played on open ground doesn't have.
+
+Skateboarding's risk is concentrated differently: most injuries come from falls rather than repetitive strain, and a bad fall risk is real, especially while you're building the basic falling and balance skills covered elsewhere on this site. That's exactly why gear — helmet, wrist guards, knee pads — isn't optional the way it might feel optional in padel, and why starting on flat ground rather than ramps matters more here than the equivalent "start slow" advice does in a racket sport. Neither injury profile is obviously worse; padel trades acute falls for accumulated overuse risk, and skateboarding is the reverse. If you're already managing an old joint or tendon issue, that trade-off is worth weighing specifically rather than assuming either sport is automatically the gentler choice.
 
 ## The social shape, again
 
