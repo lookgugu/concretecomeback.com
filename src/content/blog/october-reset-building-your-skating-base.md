@@ -26,7 +26,7 @@ Practically: pick one fundamental a week. Spend the first ten minutes of every s
 
 ## Build in a real rest-day ratio
 
-Adult bodies recover slower than the 16-year-old version of you remembers, and one of the most common ways adult skaters derail a good stretch of progress is skating hard every available day and running into overuse pain by week three. A simple ratio works well for most people building a base: for every two or three days you skate, take one full rest or active-recovery day — walking, stretching, easy cycling, whatever keeps you moving without loading the same joints and muscles again.
+Adult bodies recover slower than the 16-year-old version of you remembers, and one of the most common ways adult skaters derail a good stretch of progress is skating hard every available day and running into overuse pain by week three. The rule that matters more than any specific number: don't stack two hard sessions back to back. If you're skating three or four days in a given week, put a full rest or active-recovery day — walking, stretching, easy cycling, whatever keeps you moving without loading the same joints and muscles again — between any two of them rather than skating on consecutive days.
 
 This isn't about hitting a specific number for its own sake. It's about noticing that consistent, moderate sessions with real recovery in between get you further over six weeks than a burst of daily sessions that ends in a sore ankle and two weeks off entirely. If you're logging sessions already — see the [tracking guide](/blog/tracking-skate-sessions-for-progress/) if you're not — look back at your pattern and be honest about whether you're actually resting or just skating slightly less hard on your "rest" days.
 

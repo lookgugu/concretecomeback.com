@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-23T09:23:58.741Z
+# Date: 2026-09-23T09:30:24.533Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -2217,7 +2217,7 @@ Practically: pick one fundamental a week. Spend the first ten minutes of every s
 
 ## Build in a real rest-day ratio
 
-Adult bodies recover slower than the 16-year-old version of you remembers, and one of the most common ways adult skaters derail a good stretch of progress is skating hard every available day and running into overuse pain by week three. A simple ratio works well for most people building a base: for every two or three days you skate, take one full rest or active-recovery day — walking, stretching, easy cycling, whatever keeps you moving without loading the same joints and muscles again.
+Adult bodies recover slower than the 16-year-old version of you remembers, and one of the most common ways adult skaters derail a good stretch of progress is skating hard every available day and running into overuse pain by week three. The rule that matters more than any specific number: don't stack two hard sessions back to back. If you're skating three or four days in a given week, put a full rest or active-recovery day — walking, stretching, easy cycling, whatever keeps you moving without loading the same joints and muscles again — between any two of them rather than skating on consecutive days.
 
 This isn't about hitting a specific number for its own sake. It's about noticing that consistent, moderate sessions with real recovery in between get you further over six weeks than a burst of daily sessions that ends in a sore ankle and two weeks off entirely. If you're logging sessions already — see the [tracking guide](/blog/tracking-skate-sessions-for-progress/) if you're not — look back at your pattern and be honest about whether you're actually resting or just skating slightly less hard on your "rest" days.
 
@@ -2490,7 +2490,7 @@ It's also a real constraint. If your schedule is unpredictable, or you don't wan
 
 Padel paddles run a wide range of prices, and you'll also typically pay court fees per session unless your club includes it in membership — a genuinely different cost structure from most sports, closer to squash or indoor tennis than to running or cycling. It's not necessarily expensive, but it's an ongoing, recurring cost tied to court access, on top of the paddle itself.
 
-A skateboard setup is a one-time cost that lasts years with basic maintenance — new bearings and grip tape occasionally, wheels eventually. Once you own it, there's no per-session fee and nothing to book. If ongoing cost predictability matters to you, that's worth weighing seriously.
+A skateboard setup isn't actually one-and-done, to be fair to padel here — shoes wear out fastest (griptape eats through the toe of your push foot in a few months), and wheels, bearings, and eventually the deck itself need replacing somewhere between every six months and two years depending how much you skate. See the [full cost breakdown](/blog/how-much-does-skateboarding-cost/) for real numbers. The shape of the cost is still genuinely different from padel's, though: it's wear-and-tear on gear you already own rather than a recurring fee for access, and most outdoor public skateparks are free — it's mainly indoor parks that charge per session or by membership, and nothing needs booking either way. If ongoing cost predictability matters to you, skating's costs come in occasional lumps (a deck finally cracking) rather than padel's steady per-session fee, but "lasts years for nothing" isn't the accurate version.
 
 ## What your body actually does
 
