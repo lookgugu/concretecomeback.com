@@ -20,7 +20,7 @@ For anyone who hasn't played it: padel is doubles-only, played on a smaller encl
 
 Here's the first real difference from skateboarding, and it's a practical one. Padel is a court sport. You need an available court, usually booked in advance, usually shared with three other specific people who also need to show up at that time. That's genuinely appealing if you like structure and you're the kind of person who skates — sorry, plays — better with a fixed slot in the calendar and people counting on you to be there.
 
-It's also a real constraint. If your schedule is unpredictable, or you don't want appointment-based recreation, that structure is friction rather than a feature. A skate session needs a board and a park that's open, which for most public skateparks means "always." You show up when you have twenty free minutes; nobody needs to book anything, and nobody's waiting on you.
+It's also a real constraint. If your schedule is unpredictable, or you don't want appointment-based recreation, that structure is friction rather than a feature. A skate session just needs a board and an open park — no partners to coordinate, no court to reserve, nobody waiting on you. That's not the same as "always open," though: plenty of parks have fixed daylight hours, close at dusk, or shut for a weekly maintenance day, so check your local park's actual hours rather than assuming round-the-clock access. But within whatever hours it does keep, you show up when you have twenty free minutes and skate — you're not also trying to line up three other people's calendars.
 
 ## The equipment and cost picture
 

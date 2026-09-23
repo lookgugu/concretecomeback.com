@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-23T09:49:05.092Z
+# Date: 2026-09-23T09:55:07.507Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -1016,7 +1016,7 @@ A few things worth doing before and during your first sessions:
 
 - **Talk to your prescriber first**, especially if you're currently adjusting your dose under their direction or dealing with side effects like nausea, fatigue, or lightheadedness — all of which interact badly with a balance sport. Any change to a GLP-1 regimen, including stopping it, is a decision for you and your prescriber, not something to time around a new hobby.
 - **Watch for low blood sugar signs** if you're managing diabetes alongside GLP-1 use; dizziness on a rolling board is a different problem than dizziness standing still.
-- **Hydrate deliberately.** GLP-1 medications commonly reduce appetite and thirst cues together, and dehydration undermines balance and reaction time.
+- **Hydrate deliberately, especially if you've had GI side effects.** Nausea, vomiting, or diarrhea from a GLP-1 medication can cause real fluid loss, and dehydration undermines balance and reaction time. Drink to thirst as you normally would rather than forcing extra water — but if you've had any of those symptoms recently, or you're skating somewhere hot, that's worth factoring in deliberately rather than assuming your usual habits cover it.
 - **Start on flat, empty ground**, not ramps or bowls, regardless of how confident you feel. Pushing, balance, and stopping come first for everyone, and there's no reason to skip that step just because you're motivated.
 - **Wear a helmet, wrist guards, and knee pads from session one** — a body that's recently changed composition is not the moment to skip protective gear "just this once." Be clear-eyed about what this set doesn't cover, though: it protects the head, wrists, and knees, not the hip or spine, which are the sites that matter most for a fracture if bone density is a real concern for you. If you have diagnosed osteoporosis, osteopenia, or other risk factors for low bone density, talk to your doctor before starting, and read the [osteoporosis and skateboarding post](/blog/osteoporosis-bone-density-skateboarding/) on why gear alone doesn't resolve that particular risk — hip protectors are worth considering specifically, not assuming the standard pad set has you covered.
 
@@ -2484,7 +2484,7 @@ For anyone who hasn't played it: padel is doubles-only, played on a smaller encl
 
 Here's the first real difference from skateboarding, and it's a practical one. Padel is a court sport. You need an available court, usually booked in advance, usually shared with three other specific people who also need to show up at that time. That's genuinely appealing if you like structure and you're the kind of person who skates — sorry, plays — better with a fixed slot in the calendar and people counting on you to be there.
 
-It's also a real constraint. If your schedule is unpredictable, or you don't want appointment-based recreation, that structure is friction rather than a feature. A skate session needs a board and a park that's open, which for most public skateparks means "always." You show up when you have twenty free minutes; nobody needs to book anything, and nobody's waiting on you.
+It's also a real constraint. If your schedule is unpredictable, or you don't want appointment-based recreation, that structure is friction rather than a feature. A skate session just needs a board and an open park — no partners to coordinate, no court to reserve, nobody waiting on you. That's not the same as "always open," though: plenty of parks have fixed daylight hours, close at dusk, or shut for a weekly maintenance day, so check your local park's actual hours rather than assuming round-the-clock access. But within whatever hours it does keep, you show up when you have twenty free minutes and skate — you're not also trying to line up three other people's calendars.
 
 ## The equipment and cost picture
 
