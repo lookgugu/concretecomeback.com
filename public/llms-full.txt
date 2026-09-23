@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-23T10:09:00.825Z
+# Date: 2026-09-23T10:14:19.836Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -2490,7 +2490,7 @@ It's also a real constraint. If your schedule is unpredictable, or you don't wan
 
 Padel paddles run a wide range of prices, and you'll also typically pay court fees per session unless your club includes it in membership — a genuinely different cost structure from most sports, closer to squash or indoor tennis than to running or cycling. It's not necessarily expensive, but it's an ongoing, recurring cost tied to court access, on top of the paddle itself.
 
-A skateboard setup isn't actually one-and-done, to be fair to padel here — shoes wear out fastest (griptape eats through the toe of your push foot in a few months), and wheels, bearings, and eventually the deck itself need replacing somewhere between every six months and two years depending how much you skate. See the [full cost breakdown](/blog/how-much-does-skateboarding-cost/) for real numbers. The shape of the cost is still genuinely different from padel's, though: it's wear-and-tear on gear you already own rather than a recurring fee for access, and most outdoor public skateparks are free — it's mainly indoor parks that charge per session or by membership, and nothing needs booking either way. If ongoing cost predictability matters to you, skating's costs come in occasional lumps (a deck finally cracking) rather than padel's steady per-session fee, but "lasts years for nothing" isn't the accurate version.
+A skateboard setup isn't actually one-and-done, to be fair to padel here — shoes wear out fastest (griptape eats through the toe of your push foot in a few months), and wheels, bearings, and eventually the deck itself need replacing somewhere between every six months and two years depending how much you skate. See the [full cost breakdown](/blog/how-much-does-skateboarding-cost/) for real numbers. The shape of the cost is still genuinely different from padel's, though: it's wear-and-tear on gear you already own rather than a recurring fee for access, and most outdoor public skateparks are free — it's mainly indoor parks that charge per session or by membership — and some indoor parks run timed, capacity-limited sessions you do need to reserve, so check a specific indoor park's policy before assuming it's a walk-in. An outdoor public park is still the drop-in, nothing-to-book option. If ongoing cost predictability matters to you, skating's costs come in occasional lumps (a deck finally cracking) rather than padel's steady per-session fee, but "lasts years for nothing" isn't the accurate version.
 
 ## What your body actually does
 
