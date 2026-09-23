@@ -1,6 +1,6 @@
 ---
 title: "What GLP-1 Users Should Know Before Getting Back on a Skateboard"
-description: "Finishing a GLP-1 course and looking for a sport? Here's how to prepare your body for skateboarding safely after significant weight loss."
+description: "Taking a GLP-1 medication and looking for a sport? Here's how to prepare your body for skateboarding safely after significant weight loss."
 pubDate: 2026-09-23
 author: "Jo Fairweather"
 authorAge: 52
@@ -44,6 +44,6 @@ A few things worth doing before and during your first sessions:
 
 ## The bigger point
 
-Finishing a GLP-1 course and wanting to move your body is a good instinct, and skateboarding is a legitimately good answer to it. Just don't skip the step where you rebuild strength and re-test your balance before you ask your body to do something as coordination-heavy as rolling on four wheels. Treat the first month as preparation, not the comeback itself, and the actual comeback will go a lot more smoothly.
+Wanting to move your body while you're on a GLP-1 medication, or after your prescriber has adjusted your treatment, is a good instinct, and skateboarding is a legitimately good answer to it. Just don't skip the step where you rebuild strength and re-test your balance before you ask your body to do something as coordination-heavy as rolling on four wheels. Treat the first month as preparation, not the comeback itself, and the actual comeback will go a lot more smoothly.
 
 If you're not sure where to start once you've done that groundwork, the [8-week return plan for adult skaters](/blog/8-week-return-plan-adult-skaters/) is built for exactly this kind of fresh start — just give yourself the strength and balance runway above before day one of it.
