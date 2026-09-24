@@ -1,6 +1,6 @@
 ---
 title: "The Brain Chemistry Behind Why Skateboarding Feels So Good"
-description: "Dopamine, endorphins, serotonin, and oxytocin all fire during a skate session. Here's what each one is actually doing for your midlife mood."
+description: "How dopamine, endorphins, serotonin, and oxytocin plausibly explain why a skate session lifts your mood more than exercise usually does."
 pubDate: 2026-09-24
 author: "Marcus Webb"
 authorAge: 47
@@ -42,6 +42,6 @@ This is the piece that's easiest to miss if you only think about skating as a so
 
 None of these four systems are unique to skating, and none of them are unique to midlife. What's different is that a 45-year-old typically has fewer other reliable sources of all four running at once. Career novelty fades, social circles narrow, physical mastery starts reading as something to protect rather than build. A twenty-two-year-old often has dopamine from a new job, serotonin from an expanding social identity, and oxytocin from an active friend group, all independent of any single activity.
 
-By midlife, those sources have usually consolidated or gone quiet. An activity that reliably hits all four systems in a single ninety-minute session is doing more relative work for a 45-year-old brain than it would for a 22-year-old one, purely because there's less competing supply from everywhere else. That's not a metaphor — it's the specific reason a skate session tends to land harder on your mood at this age than it probably did the first time around.
+By midlife, those sources have usually consolidated or gone quiet. An activity that plausibly touches all four systems in a single ninety-minute session is doing more relative work for a 45-year-old brain than it would for a 22-year-old one, purely because there's less competing supply from everywhere else. That's the likely reason a skate session tends to land harder on your mood at this age than it probably did the first time around — not a proven one, but a mechanism that fits both the general research and what a lot of returning adult skaters independently report.
 
 None of this makes skating a substitute for treatment if you're dealing with clinical anxiety or depression. It's a plausible, well-grounded explanation — built from how these systems are known to work generally, not from a study of skaters specifically — for why a good session leaves you feeling better than it left you tired. Knowing the likely mechanism can still make it easier to prioritize skating on the days you'd otherwise talk yourself out of going.

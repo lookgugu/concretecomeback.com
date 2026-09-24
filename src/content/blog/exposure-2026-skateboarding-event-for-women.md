@@ -14,7 +14,7 @@ If you've come back to skating as an adult woman and assumed events like this ar
 
 ## What it actually is
 
-Exposure is a women-and-girls skateboarding event, open to entrants from anywhere in the world, spanning bowl, street, and vert. It's been running since the mid-2000s and is generally described as the longest-running event of its kind — built specifically around visibility and participation for women in a sport that spent decades treating them as a footnote.
+Exposure is a women-and-girls skateboarding event, open to entrants from anywhere in the world, spanning bowl, street, and vert. It was founded in 2012 by Olympic skateboarder Amelia Brodka and philanthropist Lesli Cohen, and is generally described as the longest-running event of its kind — built specifically around visibility and participation for women in a sport that spent decades treating them as a footnote.
 
 That framing matters for how you think about attending, competing, or just watching. This isn't a showcase built around a handful of elite athletes with everyone else as scenery. The division structure — open/pro, advanced, intermediate — exists because the event is organized around the idea that women's skateboarding includes more than its top tier.
 
