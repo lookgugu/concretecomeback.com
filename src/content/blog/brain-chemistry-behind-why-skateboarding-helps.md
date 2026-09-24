@@ -16,7 +16,7 @@ Four neurochemical systems are well established in the general exercise and psyc
 
 ## Dopamine: the feedback loop that keeps you coming back
 
-Dopamine is best understood as a learning and motivation signal, not simply a "pleasure chemical" — it fires around anticipation and reward prediction, which is exactly what a trick attempt is built from. You try something, you don't quite land it, you adjust, you try again. Each small improvement — a cleaner pop, a more controlled landing, finally sticking something you've been close to for a week — triggers a real dopamine response tied to that specific progress.
+Dopamine is best understood as a learning and motivation signal, not simply a "pleasure chemical" — it fires around anticipation and reward prediction, which is exactly what a trick attempt is built from. You try something, you don't quite land it, you adjust, you try again. Each small improvement — a cleaner pop, a more controlled landing, finally sticking something you've been close to for a week — plausibly triggers a dopamine response tied to that specific progress, the same way any skill-building activity with visible feedback would.
 
 This is a large part of why skating stays motivating in a way that, say, a treadmill often doesn't. A treadmill gives you steady, predictable output. Skating gives you a constant stream of small, uncertain, achievable goals, and uncertain-but-achievable is the exact reward structure that keeps dopamine engaged rather than flat.
 
@@ -24,19 +24,19 @@ This is a large part of why skating stays motivating in a way that, say, a tread
 
 Endorphins are your body's own opioid-like painkillers, released during sustained physical exertion and associated with the "runner's high" effect in other sports. A real skate session — pushing, carving, popping in and out of things for an hour — is sustained moderate-to-vigorous activity, even though it doesn't feel like a workout the way running or lifting does.
 
-That disconnect is useful. A lot of adults who've stopped responding well to "exercise" as a category still get the endorphin payoff from a skate session, specifically because their brain isn't filing it under the same mental heading as the gym. You get the physiological benefit without the psychological resistance.
+That disconnect is useful. A lot of adults who've stopped responding well to "exercise" as a category likely still get the endorphin payoff from a skate session, since the exertion is real even if their brain isn't filing it under the same mental heading as the gym. You plausibly get the physiological benefit without the psychological resistance.
 
 ## Serotonin: the mastery signal
 
-Serotonin is linked to mood stability and is influenced by a sense of social standing and accomplishment — feeling competent and respected in a domain that matters to you. Skateboarding is unusually good at generating this in adulthood specifically because it's one of the few places adults get to be visibly, measurably a beginner making progress, in front of other people, without professional stakes attached.
+Serotonin is linked to mood stability and is influenced by a sense of social standing and accomplishment — feeling competent and respected in a domain that matters to you. Skateboarding looks unusually well-suited to generating this in adulthood, because it's one of the few places adults get to be visibly, measurably a beginner making progress, in front of other people, without professional stakes attached.
 
-Most adult life stops offering legible progress after your twenties. Careers plateau into routine, familiar hobbies stop feeling like growth. A skate session where you land something today you couldn't land last month is a rare, direct hit of the mastery signal that serotonin responds to — and it's available every single session, not just on the days something dramatic happens.
+Most adult life stops offering legible progress after your twenties. Careers plateau into routine, familiar hobbies stop feeling like growth. A skate session where you land something today you couldn't land last month plausibly hits the same mastery signal that serotonin responds to in other domains — and that kind of session is available most weeks, not just on the days something dramatic happens.
 
 ## Oxytocin: the part that comes from other people
 
 Oxytocin is associated with social bonding and trust, and it's released through positive social contact — the kind of low-stakes, repeated interaction skateparks are unusually good at generating. You don't need deep friendships for this to fire. A stranger cheering when you land something, a nod of acknowledgment when you clear a line, the informal camaraderie of a session with people you don't know well yet — all of it counts.
 
-This is the piece that's easiest to miss if you only think about skating as a solo physical activity. Skating alone still gets you dopamine and endorphins. Skating around other people, even without much conversation, adds oxytocin to the mix — which is one reason a session at a busy park often feels different, in a good way, from skating alone in an empty lot.
+This is the piece that's easiest to miss if you only think about skating as a solo physical activity. Skating alone still plausibly gives you the dopamine and endorphin pieces on their own. Skating around other people, even without much conversation, is what plausibly adds oxytocin to the mix — which may be part of why a session at a busy park often feels different, in a good way, from skating alone in an empty lot.
 
 ## Why this matters more at 45 than it did at 20
 
