@@ -16,4 +16,4 @@ addedDate: 2026-09-05
 lastVerified: 2026-09-05
 ---
 
-NOTE spent 18 years on Tib Street and a spell in Afflecks Palace before making 61 Thomas Street its permanent home, and it has become as much a clothing and footwear destination as a skate shop. For our purposes the important part is the counter: knowledgeable staff, assembly on the spot, and one of the widest ranges of hardware in the country. Open Monday to Saturday, 10am to 6:30pm, and Sunday 11am to 5pm, with fast domestic and international shipping from the online store.
+NOTE spent 18 years on Tib Street and a spell in Afflecks Palace before making 61 Thomas Street its permanent home, and it has become as much a clothing and footwear destination as a skate shop. For our purposes the important part is the counter: knowledgeable staff, assembly on the spot, and one of the widest ranges of hardware in the country. Open Monday to Saturday, 10am to 6:30pm, and Sunday 11am to 5pm, with fast domestic and international shipping from the online store. It is paired closely with Projekts MCR and Graystone Action Sports for excellent local skating.

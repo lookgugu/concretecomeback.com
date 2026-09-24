@@ -13,4 +13,4 @@ featured: false
 addedDate: 2025-09-15
 ---
 
-Route One is a Bristol institution and a good option for adult skaters in the southwest of England. The Stokes Croft location has knowledgeable staff and a wide range of protective gear — often harder to find in smaller shops.
+Route One is a Bristol institution and a good option for adult skaters in the southwest of England. The Stokes Croft location has knowledgeable staff and a wide range of protective gear — often harder to find in smaller shops. It's a great place to stop before hitting Campus Pool Skatepark in Bishopsworth.

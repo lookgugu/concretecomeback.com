@@ -14,4 +14,4 @@ addedDate: 2026-09-05
 lastVerified: 2026-09-05
 ---
 
-Ninetimes describes its Calgary opening as an attempt to give the city a proper skate shop again after several closed, and it has stuck. Hours are 11am to 7pm Monday to Friday, 10am to 6pm Saturday and 10am to 5pm Sunday. Cowboys Park — Canada's largest outdoor skatepark, with a genuinely separate beginner area — is a short ride away.
+Ninetimes describes its Calgary opening as an attempt to give the city a proper skate shop again after several closed, and it has stuck. Hours are 11am to 7pm Monday to Friday, 10am to 6pm Saturday and 10am to 5pm Sunday. Cowboys Park — Canada's largest outdoor skatepark, with a genuinely separate beginner area — and South Glenmore Bicycle Pump Track are a short ride away.
