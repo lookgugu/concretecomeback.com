@@ -12,7 +12,7 @@ draft: false
 
 I've written before about [why skating clears your head at 45](/blog/skateboarding-mental-health-over-40/) — the social structure, the focus, the mastery. What I didn't get into there is the chemistry underneath it, and it's worth separating out, because understanding the mechanism is what makes the benefit predictable instead of lucky.
 
-Four neurochemical systems reliably fire during a skate session, and each one is doing a different job. None of this is exotic or unique to skateboarding — it's the same machinery behind most rewarding physical activity — but skating happens to activate all four at once in a way a lot of exercise doesn't.
+Four neurochemical systems are well established in the general exercise and psychology literature, and each is doing a different job. None of this is exotic or unique to skateboarding — it's the same machinery behind most rewarding physical activity — and nobody has run a study hooking skaters up to sensors mid-session to measure it directly. What follows is the mechanism as I understand it, applied to what a skate session actually contains: the reward structure, the exertion, the visible progress, the people around you. Skating isn't uniquely wired to trigger these systems more than other activities that share the same ingredients — but it happens to combine several of those ingredients in one activity in a way a lot of exercise doesn't.
 
 ## Dopamine: the feedback loop that keeps you coming back
 
@@ -44,4 +44,4 @@ None of these four systems are unique to skating, and none of them are unique to
 
 By midlife, those sources have usually consolidated or gone quiet. An activity that reliably hits all four systems in a single ninety-minute session is doing more relative work for a 45-year-old brain than it would for a 22-year-old one, purely because there's less competing supply from everywhere else. That's not a metaphor — it's the specific reason a skate session tends to land harder on your mood at this age than it probably did the first time around.
 
-None of this makes skating a substitute for treatment if you're dealing with clinical anxiety or depression. It's a genuinely well-supported mechanism for why a good session leaves you feeling better than it left you tired — and knowing why can make it easier to prioritize on the days you'd otherwise talk yourself out of going.
+None of this makes skating a substitute for treatment if you're dealing with clinical anxiety or depression. It's a plausible, well-grounded explanation — built from how these systems are known to work generally, not from a study of skaters specifically — for why a good session leaves you feeling better than it left you tired. Knowing the likely mechanism can still make it easier to prioritize skating on the days you'd otherwise talk yourself out of going.

@@ -12,11 +12,13 @@ draft: false
 
 Patients ask me some version of the same question when they find out I skate: isn't that dangerous at your age? It's a fair question, and it deserves a real answer instead of either "it's totally safe" or "yes, obviously." Here's what the injury data actually shows, and what it doesn't.
 
-## The headline number is about participation, not danger
+## The headline number, and what it can't actually tell you
 
-Emergency-room data compilations tracking skateboarding injuries show that adults over 25 now make up a noticeably larger share of skate-related ER visits than they did a decade ago — in some analyses, close to double. Read on its own, that sounds alarming. Read alongside participation trends, it's the expected result of more adults skating, full stop. If the adult share of everyone at the skatepark has grown, the adult share of everyone who gets hurt at the skatepark grows with it. A rising count of injured adults is not the same claim as skating having become more dangerous for adults, and conflating the two is the single most common misreading of this kind of data.
+Emergency-room data compilations tracking skateboarding injuries show that adults over 25 now make up a noticeably larger share of skate-related ER visits than they did a decade ago — in some analyses, close to double. Read on its own, that sounds alarming.
 
-That distinction matters because it changes what you should do with the number. It's not a reason to avoid skating. It's a reason to expect that the people around you at the park, at whatever age, include more first- and second-year adult skaters than there used to be — which is its own useful context for judging how a session is likely to go.
+Here's the honest caveat: these compilations count raw ER visits, not injuries per skater. They don't track how many adults are actually skating, so they can't tell you whether the injury *rate* per adult skater has gone up, stayed flat, or gone down. What we do know independently — participation surveys and the sheer volume of adult-focused gear, coaching, and content that didn't exist a decade ago — is that a lot more adults are skating now than were a decade ago. A rising raw count of injured adults is consistent with more adults skating at a similar rate of injury each; it doesn't by itself prove that, and it doesn't rule out the less comfortable possibility that something about how adults are skating has gotten riskier. Nobody has the denominator to say which explanation carries more of the number, and it's worth being suspicious of anyone — this post included — who states it as settled.
+
+What that means practically: don't read the rising injury count as an all-clear that skating hasn't gotten more dangerous, and don't read it as proof that it has. Treat it as a real, unresolved question, and let the specific, well-supported points below — which body parts, which gear helps — do the actual work of informing how you skate.
 
 ## What actually gets hurt, and how often
 
@@ -26,9 +28,9 @@ That split is the whole logic behind the standard skate gear recommendation. Wri
 
 ## Where the protective gear actually earns its place
 
-The pattern above is why [wrist guards and a certified skate helmet](/blog/gear-for-aging-joints/) aren't equally optional. Analyses of helmet use and skateboarding fatality data consistently find that the large majority of skateboarding deaths involve a head injury sustained without a helmet, and estimates of how much helmet use reduces fatality risk generally land in the 80%-plus range across different studies and datasets. That's a big enough effect, and a consistent enough one across multiple sources, to treat as settled rather than debatable.
+The pattern above is why [wrist guards and a certified skate helmet](/blog/gear-for-aging-joints/) aren't equally optional. Reviews of skateboarding fatality data consistently find that the large majority of documented deaths involved a rider who wasn't wearing a helmet, and head trauma is the dominant cause of death when things go seriously wrong. That's worth being precise about, though: the share of fatalities that were unhelmeted tells you helmets are strongly associated with the surviving cases, not a clean, controlled measurement of exactly how many percentage points a helmet subtracts from your personal fatality risk. Nobody has run a randomized trial on that question, for obvious reasons. The direction of the effect is about as well established as anything in this field gets; treat any specific percentage attached to it — including ones you'll see cited elsewhere — with some skepticism.
 
-Wrist guards with a rigid splint show a similarly large protective effect against the injury category they're built for, in studies that have specifically tested guard use against no guard use. Given how routinely the instinctive hand-catch happens in a fall, guards are addressing the injury mechanism that's actually most common, not a hypothetical one.
+Wrist guards with a rigid splint show a real protective effect against the injury category they're built for in studies that have compared guard use against no guard use, though exact effect sizes vary by study design. Given how routinely the instinctive hand-catch happens in a fall, guards are addressing the injury mechanism that's actually most common, not a hypothetical one.
 
 ## What the numbers can't tell you
 
@@ -38,4 +40,4 @@ What they do support, consistently and across sources, is the same practical con
 
 ## The actual takeaway
 
-Skating is not risk-free, and nobody serious about the sport claims it is. But the injury data doesn't support treating it as uniquely dangerous for an adult body, either. It supports a specific, narrow conclusion: wear a real helmet, wear wrist guards, and you've addressed the two categories that account for most of what actually goes wrong. Everything past that is normal bumps and bruises, the same as any other physical activity you'd take up in your 40s or 50s.
+Skating is not risk-free, and nobody serious about the sport claims it is. But the injury data doesn't support treating it as uniquely dangerous for an adult body, either. It supports a specific, narrow conclusion: wear a real helmet, wear wrist guards, and you've addressed the two categories that show up most often and matter most when they go badly. That's not the same as saying everything else is minor — ankle, knee, shoulder, and spinal injuries are real categories in the same data, and no piece of gear covered here prevents most of them. Skating within your current level, on terrain that matches it, and building the strength and balance work the rest of this site covers does more for that remaining risk than any single purchase can.
