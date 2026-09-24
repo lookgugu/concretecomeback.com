@@ -15,4 +15,4 @@ addedDate: 2025-09-01
 lastVerified: 2026-09-16
 ---
 
-Black Sheep is a solid independent shop for adult skaters in Sydney. The staff's willingness to talk through beginner-appropriate setups without condescension makes it particularly useful for returning skaters who might feel self-conscious walking into a shop after 20 years away from the sport. The shop is also well situated for riders dialing in setups before heading south to the beginner-friendly bowls at Sydney Park Skate Park.
+Black Sheep is a solid independent shop for adult skaters in Sydney. The staff's willingness to talk through beginner-appropriate setups without condescension makes it particularly useful for returning skaters who might feel self-conscious walking into a shop after 20 years away from the sport. The shop is also well situated for riders dialing in setups before heading south to the beginner-friendly bowls at Sydney Park Skate Park or the mellow transitions at Meadowbank Skatepark.
