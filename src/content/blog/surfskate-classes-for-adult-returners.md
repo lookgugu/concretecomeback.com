@@ -36,7 +36,7 @@ It's less suited to anyone hoping to jump straight into transition or bowl ridin
 
 ## What to bring
 
-Wear closed-toe shoes with reasonably grippy soles, clothes you can move in, and bring your own helmet if you have one — loaner helmets aren't always available or well-fitted. Wrist guards are worth bringing too; surfskates are stable at slow speeds but a caught front wheel at a bad angle can still put you down quickly.
+Wear closed-toe shoes with reasonably grippy soles and clothes you can move in. Bring your own properly fitted skate helmet — don't treat this as optional, and don't count on a class having loaners in your size. If you don't already own one, buy a helmet before your first class rather than riding bareheaded while you wait to get one. Wrist guards are worth bringing too; surfskates are stable at slow speeds but a caught front wheel at a bad angle can still put you down quickly.
 
 ## Finding a class
 
@@ -44,6 +44,8 @@ Search "surfskate lesson" or "surfskate class" plus your city, and check local s
 
 ## From class to riding on your own
 
-Once pumping feels close to automatic — you're generating and holding speed on flat ground without thinking about the mechanics — you're ready to take the board out on your own. Start with the same quiet, low-traffic spots you'd use for any new skill: empty parking lots, smooth bike paths, the flat sections of a park during off-peak hours. The class gets you the fundamentals fast; the mileage after it is what makes them stick.
+Pumping isn't the only thing to have solid before you ride alone — you need a reliable way to slow down and stop, too. A class focused on pumping doesn't always drill this explicitly, so before your first solo session, practice foot braking (or another controlled stopping method) until you can shed speed on command, not just coast to a stop when nothing's in your way. Pumping builds speed quickly, and a bike path or parking lot can put a pedestrian, cyclist, or parked car in your path with no warning.
+
+Once pumping feels close to automatic and you can stop reliably on demand, you're ready to take the board out on your own. Start with the same quiet, low-traffic spots you'd use for any new skill: empty parking lots, smooth bike paths, the flat sections of a park during off-peak hours. The class gets you the fundamentals fast; the mileage after it is what makes them stick.
 
 A surfskate isn't a replacement for a standard deck if street skating or classic transition riding is your goal long-term. But as a genuinely lower-pressure way back onto four wheels, especially with a class removing the guesswork, it's one of the easiest on-ramps available right now.
