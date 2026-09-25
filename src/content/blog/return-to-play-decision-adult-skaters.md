@@ -34,7 +34,9 @@ This one gets dismissed as unscientific, and it shouldn't be. Hesitation at the 
 
 ## Building your own version of this test
 
-You don't need a sports medicine lab to apply this. Before returning to full sessions after any injury that kept you off the board for more than a couple of weeks, run through all three:
+This self-check is scoped to common musculoskeletal complaints — a joint, muscle, or tendon that felt off and has since healed. It does not cover head injuries. If you hit your head or have any concussion symptoms — headache, dizziness, confusion, sensitivity to light — treat that as its own category entirely: symptoms settling down is not clearance to skate. Concussion return-to-sport needs a symptom-limited, graduated progression overseen by a clinician, not a home checklist, whatever your joints are telling you.
+
+For the musculoskeletal case, you don't need a sports medicine lab to apply this. Before returning to full sessions after any joint or soft-tissue injury that kept you off the board for more than a couple of weeks, run through all three:
 
 - Move the joint through its full range, comparing sides, with no pain or guarding at the end range
 - Test strength side-to-side with a simple single-leg exercise relevant to the injury — calf raises for an ankle, step-downs for a knee, bridges for a hip
@@ -48,6 +50,8 @@ Passing this check means you're ready to start reloading the joint under real co
 
 ## When to bring in a professional
 
-This self-check is a reasonable filter for a joint that felt off, healed, and is being tested cautiously — not a substitute for care after anything more serious. If you had a fracture, a joint that felt unstable, swelling that lasted more than a few days, or you're returning after a surgery of any kind, get an actual clearance from a physiotherapist or your surgeon before you apply any of this yourself. The three criteria here are the same ones a professional would check; the difference is that they'll catch a deficit you can't feel on your own, and they can tell you whether the plan to return needs to be slower than you think.
+Treat the three checks above as warning signs, not a clearance you can grant yourself. Failing one tells you clearly that you're not ready. Passing all three is more limited than it feels — it rules out the obvious red flags, but a professional assessment covers ground this checklist can't: injury-specific diagnosis, actual stability testing rather than a felt sense of "not wobbly," proprioception, and functional tests built around the specific movement that hurt you. That gap matters most for anything beyond a mild strain — a sprain that never fully swelled down, a tendon that's been nagging for weeks, anything where you're not entirely sure how bad it was to begin with.
+
+Get an actual clearance from a physiotherapist or your surgeon, rather than relying on this checklist alone, if you had a fracture, a joint that felt unstable, swelling that lasted more than a few days, a ligament or tendon injury that's taken more than a couple of weeks to feel normal, or you're returning after any surgery. This self-check is a reasonable sanity check for a minor, short-lived strain that's already resolved — it is not a substitute for a professional's eyes on anything more serious than that.
 
 The instinct to trust "it doesn't hurt anymore" is understandable — it's the most obvious signal available, and for most of life, it's a perfectly good one. Skating just asks more of a joint than most daily activity does, which is exactly why it needs a better test than pain alone.
