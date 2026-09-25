@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-25T14:11:14.543Z
+# Date: 2026-09-25T14:18:19.088Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -2938,7 +2938,7 @@ Compare the injured side to the uninjured one, through the joint's full normal r
 
 ### Strength symmetry
 
-This is the one people trust least and need most. Compare the injured side's strength directly against the uninjured side — a single-leg calf raise to fatigue, a single-leg squat depth and control, a single-leg balance hold. You're not looking for perfection. The working threshold clinicians use most is a limb symmetry index of about 90 percent — the injured side managing at least nine-tenths of what the uninjured side can, whether that's reps to fatigue or seconds held. The number comes out of knee research: in the [Delaware-Oslo ACL cohort study](https://doi.org/10.1136/bjsports-2016-096031), more symmetrical quadriceps strength before return, alongside waiting at least nine months after reconstruction, substantially cut the reinjury rate. Plenty of clinicians want closer to 95 percent before a pivoting sport. A joint that's visibly weaker on the injured side, even if it doesn't hurt, is a joint set up to compensate badly the first time it's asked to work hard.
+This is the one people trust least and need most. Compare the injured side's strength directly against the uninjured side — a single-leg calf raise to fatigue, a single-leg squat depth and control, a single-leg balance hold. You're not looking for perfection. For the knee, the working threshold clinicians use is a limb symmetry index of about 90 percent — the injured leg managing at least nine-tenths of what the uninjured one can on a standardised strength or hop test. That figure comes out of ACL research: in the [Delaware-Oslo ACL cohort study](https://doi.org/10.1136/bjsports-2016-096031), more symmetrical quadriceps strength before return, alongside waiting at least nine months after reconstruction, substantially cut the reinjury rate, and plenty of clinicians want closer to 95 percent before a pivoting sport. Counting calf raises or timing a balance hold at home is a rough proxy for those tests, not the tests themselves: a clear side-to-side gap is a meaningful warning, but a near-match is not evidence of readiness, and for an ankle, wrist, elbow or shoulder there is no validated home number to hit — the threshold, where one exists, is specific to the injury and the test. A joint that's visibly weaker on the injured side, even if it doesn't hurt, is a joint set up to compensate badly the first time it's asked to work hard.
 
 ### Mental readiness
 
