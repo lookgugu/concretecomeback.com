@@ -1,6 +1,6 @@
 ---
 title: "Surfskate Classes: A Lower-Pressure On-Ramp Back to Skating"
-description: "Structured surfskate classes are showing up in more cities — here's why the class format removes the friction that keeps nervous adult returners off a board."
+description: "Why a structured surfskate class removes the guesswork and social friction that keep nervous adult returners off a board, what to expect, and how to find one."
 pubDate: 2026-09-25
 author: "Marcus Webb"
 authorAge: 47
@@ -24,7 +24,7 @@ A surfskate uses a specially designed front truck that lets the nose pivot and s
 
 ## What a typical class looks like
 
-Formats vary, but most beginner surfskate classes follow a similar shape: a short talk on stance and board mechanics, guided pumping drills on flat ground or a gentle bowl, then progressively looser free-ride time as the group gets more comfortable. Classes typically run 60–90 minutes, and most studios or programs provide loaner boards, so you can try the format before deciding whether to buy your own setup.
+Formats vary, but most beginner surfskate classes follow a similar shape: a short talk on stance and board mechanics, guided pumping drills on flat ground or a gentle bowl, then progressively looser free-ride time as the group gets more comfortable. Sessions usually run 60–90 minutes, and many programs include a board — often a helmet and pads too — in the price, so you can try the format before deciding whether to buy your own setup. Confirm what's included when you book rather than assuming.
 
 Expect the first class to feel almost entirely about the pump — getting your hips, knees, and shoulders moving together instead of stiff and separate. That's normal and it's the actual skill being taught; everything else about surfskating builds on it.
 
@@ -36,11 +36,11 @@ It's less suited to anyone hoping to jump straight into transition or bowl ridin
 
 ## What to bring
 
-Wear closed-toe shoes with reasonably grippy soles and clothes you can move in. Bring your own properly fitted skate helmet — don't treat this as optional, and don't count on a class having loaners in your size. If you don't already own one, buy a helmet before your first class rather than riding bareheaded while you wait to get one. Wrist guards are worth bringing too; surfskates are stable at slow speeds but a caught front wheel at a bad angle can still put you down quickly.
+Wear closed-toe shoes with reasonably grippy soles and clothes you can move in. Bring your own properly fitted skate helmet — don't treat this as optional, and don't count on a class having loaners in your size. The [safety gear guide](/blog/safety-gear-guide/) covers which certification to look for. If you don't already own one, buy a helmet before your first class rather than riding bareheaded while you wait to get one. Wrist guards are worth bringing too; surfskates are stable at slow speeds but a caught front wheel at a bad angle can still put you down quickly.
 
 ## Finding a class
 
-Search "surfskate lesson" or "surfskate class" plus your city, and check local skate shops directly — a lot of them run informal sessions that never show up in a general search. Surf shops in coastal areas often run them too, since the crossover audience is exactly who surfskates were designed for. If nothing formal exists near you, some shops will do a private lesson on request, which is worth the extra cost if it gets you past the intimidation of a first solo session.
+Search "surfskate lesson" or "surfskate class" plus your city, and check local skate shops directly — a lot of them run informal sessions that never show up in a general search. Surf shops in coastal areas often run them too, since the crossover audience is exactly who surfskates were designed for. If nothing formal exists near you, some shops will do a private lesson on request, which is worth the extra cost if it gets you past the intimidation of a first solo session. The same vetting applies to a class instructor as to a one-on-one coach — the [coach-finding guide](/blog/finding-a-skateboard-coach-for-adults/) covers what to look for and what a first lesson should cover.
 
 ## From class to riding on your own
 

@@ -22,7 +22,7 @@ The problem is when caution tips into avoidance — when you find reasons to ski
 
 ## Why this fear sits differently than beginner nerves
 
-First-session-back nerves are usually about competence — will I look foolish, do I still remember how to do this. The fear after a specific bad fall is different: it's your nervous system flagging one particular motion, angle, or piece of terrain as dangerous, based on a real event that actually happened to you. That makes it more precise and, often, more stubborn. You're not vaguely nervous about skating in general — you're specifically flinching at the exact commitment point where things went wrong last time.
+First-session-back nerves are usually about competence — will I look foolish, do I still remember how to do this — and the [confidence guide](/blog/building-confidence-at-40/) covers that kind. The fear after a specific bad fall is different: it's your nervous system flagging one particular motion, angle, or piece of terrain as dangerous, based on a real event that actually happened to you. That makes it more precise and, often, more stubborn. You're not vaguely nervous about skating in general — you're specifically flinching at the exact commitment point where things went wrong last time.
 
 Knowing that difference matters, because it points to a different fix. General nerves fade with repetition. A fall-specific fear usually needs you to deliberately rebuild trust in that exact movement, in smaller pieces than you'd expect to need.
 
@@ -36,17 +36,17 @@ This is slower than most people expect, and that's the point. Rushing it is what
 
 ## Mental rehearsal before you're physically ready
 
-Visualization sounds soft until you've actually used it. Sitting somewhere calm and mentally walking through the feature — the approach, the commitment point, the landing, your body staying loose and centered the whole way — primes the same movement patterns you'll use on the board, without any physical risk while you rehearse it. Elite athletes across nearly every sport use some version of this before a comeback from injury, not as a substitute for physical practice but as a way to soften the panic response before you're actually standing at the top of the feature.
+Visualization sounds soft until you've actually used it. Sitting somewhere calm and mentally walking through the feature — the approach, the commitment point, the landing, your body staying loose and centered the whole way — primes the same movement patterns you'll use on the board, without any physical risk while you rehearse it. It's a standard tool in sports-injury rehabilitation for exactly that reason — not a substitute for physical practice, but a way to soften the panic response before you're actually standing at the top of the feature.
 
 Do this a few times before you attempt a step in your graduated exposure plan, not instead of it.
 
 ## Practice falling, not just avoiding it
 
-Part of what makes fall-specific fear so persistent is that most people's last experience with falling was uncontrolled and painful. Deliberately practicing controlled falls — from a stationary position, onto grass or a mat, low to the ground — gives your body a recent, calmer memory of what falling actually feels like to replace the panic memory. It won't erase the original fall, but it stops that one bad memory from being the only data point your nervous system has.
+Part of what makes fall-specific fear so persistent is that most people's last experience with falling was uncontrolled and painful. Deliberately practicing controlled falls — from a crouch, onto grass or a real crash mat, the way the [falling technique guide](/blog/how-to-fall-safely-after-40/) lays out — gives your body a recent, calmer memory of what falling actually feels like to replace the panic memory. It won't erase the original fall, but it stops that one bad memory from being the only data point your nervous system has.
 
 ## When it's not just fear
 
-Sometimes the hesitation is your body being right. If a joint still feels different, catches, or aches under load, that's not a mental block to push through — it's a signal to get it checked before you force a return. Fear and an unhealed injury can look identical from the outside; the difference is whether the concern is in your head or in the joint. If you're not sure which it is, treat it as the joint until a professional tells you otherwise.
+Sometimes the hesitation is your body being right. If a joint still feels different, catches, or aches under load, that's not a mental block to push through — it's a signal to get it checked before you force a return. Fear and an unhealed injury can look identical from the outside; the difference is whether the concern is in your head or in the joint. If you're not sure which it is, treat it as the joint until a professional tells you otherwise. The [return-to-play checks](/blog/return-to-play-decision-adult-skaters/) are a reasonable first screen, and the [orthopedic checklist](/blog/orthopedic-checklist-for-skaters-over-40/) lists the red flags that mean it's time to see someone.
 
 ## There's no shortcut, and that's fine
 
