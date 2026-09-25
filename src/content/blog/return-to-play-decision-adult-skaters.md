@@ -39,7 +39,7 @@ This self-check is scoped to common musculoskeletal complaints — a joint, musc
 For the musculoskeletal case, you don't need a sports medicine lab to apply this. Before returning to full sessions after any joint or soft-tissue injury that kept you off the board for more than a couple of weeks, run through all three:
 
 - Move the joint through its full range, comparing sides, with no pain or guarding at the end range
-- Test strength side-to-side with a simple single-leg exercise relevant to the injury — calf raises for an ankle, step-downs for a knee, bridges for a hip
+- Test strength side-to-side with a simple exercise that loads the injured area directly — calf raises for an ankle, step-downs for a knee, bridges for a hip, wrist push-ups or a plank hold for a wrist, a slow push-up or band press for a shoulder, a bent-arm hang or band curl for an elbow
 - Notice, honestly, whether you flinch or hesitate imagining the specific movement that caused the injury in the first place
 
 If any of the three is clearly off, that's your answer, even if the joint doesn't currently hurt. Waiting a bit longer and closing that gap is cheaper than reinjuring the same joint and starting the clock over — often from further behind than the first time.
