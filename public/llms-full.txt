@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-24T10:22:11.809Z
+# Date: 2026-09-26T02:19:44.077Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -4745,7 +4745,7 @@ Set in the parkland of Princes Gardens off Malvern Road, Prahran Skate Park has 
 
 For older skaters, the modern layout is vastly more accommodating than its aggressive predecessors. The street plaza offers expansive flatground lanes, low mellow ledges, gentle banks, and an accessible concrete mini-ramp, all sensibly isolated from the high-velocity lines of the vert ramp. Crucially, Prahran is a regular rotating host venue for [Adult Skate Melbourne](/directory/groups/au/adult-skate-melbourne), whose fortnightly Saturday morning sessions (8:00 AM to 10:00 AM) bring together skaters aged 35 and older in a supportive, zero-attitude atmosphere before the general weekend crowd arrives.
 
-The park is open 24 hours and features modern floodlighting for comfortable evening sessions after business hours. Public amenities, drinking fountains, and shaded spectator seating are available throughout Princes Gardens, and the adjacent Prahran Aquatic Centre offers additional facilities.
+The park is open 24 hours and features modern floodlighting for comfortable evening sessions after business hours. Public amenities, drinking fountains, and shaded spectator seating are available throughout Princes Gardens, and the adjacent Prahran Aquatic Centre offers additional facilities. If you need a board or advice, Melbourne's longest-running independent shop, Evolve Skate Store, is just up the street on Chapel St.
 
 
 ### RampFest Indoor Skatepark
@@ -4788,6 +4788,26 @@ Location: Toronto, Ontario, CA
 Website: https://www.toronto.ca/explore-enjoy/parks-recreation/places-spaces/parks-and-recreation-facilities/location/?id=1&title=Ashbridges-Bay-Park
 
 Being on the waterfront makes this an easy sell if you are bringing family along — the beach and the Martin Goodman Trail are right there. Lakeside wind can be a factor; mornings tend to be calmer as well as quieter.
+
+
+### Chuck Bailey Skatepark
+Canada's first purpose-built, partially covered outdoor skatepark. Featuring a massive roof over the bowl and 24-hour floodlights, it is highly practical for older skaters working around winter weather.
+Location: Surrey, British Columbia, CA
+Website: https://www.surrey.ca/parks-recreation/parks/chuck-bailey-recreation-centre
+
+Located adjacent to the Chuck Bailey Recreation Centre, this New Line-designed facility solves the biggest problem with skating in the Pacific Northwest: the rain. 
+
+The park's centerpiece is a large, architecturally striking roof that completely covers the deep concrete bowl and adjacent transition elements, keeping them perfectly dry during wet weather. Combined with high-quality floodlights and a 24-hour operating policy, it is one of the most reliable options in the Lower Mainland for older skaters who need to squeeze in a session around work hours, regardless of the forecast.
+
+
+### CJ's Skatepark
+A massive indoor wooden skatepark featuring extensive beginner zones. They run dedicated 'Adult Skateboarders Group Lessons' every Saturday, making it one of the most accessible facilities in the GTA.
+Location: Mississauga, Ontario, CA
+Website: https://cjsskatepark.com/
+
+CJ's is a staple for year-round skating in the Greater Toronto Area. As a massive indoor facility, it's primarily built from wood and offers a wide variety of terrain, from mellow street sections and mini-ramps to larger transitions. 
+
+For older returning skaters, the real draw is their programming. They host an "Adult Skateboarders Group Lesson" on Saturday mornings that explicitly caters to older beginners, providing 45 minutes of coaching followed by free skate time in a highly supportive environment. The park operates on a session basis, so check their schedule and book online before heading over.
 
 
 ### Cowboys Park Skatepark (formerly Shaw Millennium Park)
@@ -4930,6 +4950,16 @@ For older skaters, the standout area is the modern street expansion, which was s
 The Resort Municipality of Whistler explicitly recommends that beginners and returning skaters take advantage of early morning sessions when the concrete is quiet. The facility is free to ride daily from April to November, and push-button floodlights mounted on light poles keep the park illuminated until 1:00 AM. Paid parking is available in Day Lot 3 ($4/hr or $21/day), and mountain bikes are strictly prohibited to prevent debris and protect the concrete surface.
 
 
+### Adrenaline Alley
+One of the largest indoor skateparks in Europe, featuring dedicated quiet zones like 'The Ledge' with mellow ramps specifically designed for building confidence away from advanced traffic.
+Location: Corby, Northamptonshire, UK
+Website: https://www.adrenalinealley.co.uk/
+
+Adrenaline Alley is massive—spanning multiple buildings and disciplines—but it is highly organized to accommodate all levels. For returning and older skaters, the standout feature is the physical separation of skill levels. 
+
+You can warm up in "The Academy," a dedicated beginner area with a mellow driveway and low ledges, or head to "The Ledge," a quiet corner specifically built with mellow ramps for low-pressure progression away from the main traffic. The park requires advance online booking and pre-registration for all sessions.
+
+
 ### Bridges Urban Sports Park
 Belfast's flagship public concrete park, sheltered directly underneath the spans of the M3 flyover. Provides dry, lit terrain through damp Northern Irish winters, with an open street plaza and beginner-approachable banks separated from the deep capsule bowl. Free council facility.
 Location: Belfast, Northern Ireland, UK
@@ -4972,6 +5002,16 @@ Tucked into Trenance Park on the southern edge of Newquay, Concrete Waves is wid
 What makes Concrete Waves accessible for older skaters is its deliberate four-zone layout. The park features a dedicated "Nursery Slope" beginner zone, which provides mellow banks, wide flatground, and low-impact roll-ins completely isolated from the imposing 3-metre competition bowl and tight retro pool. Returning skaters can rebuild board feel and balance on gentle transitions without the risk of high-velocity collisions from advanced transition riders.
 
 Because Newquay is a popular seaside holiday destination, summer afternoons can see heavy traffic from visiting holidaymakers. Early mornings from dawn to 10:00 AM deliver pristine, quiet concrete with ocean air. Public parking is available throughout Trenance Valley, and seasonal council toilets are on site. Note that the park relies on natural daylight, so plan sessions before dusk.
+
+
+### Flo Skatepark
+A community-focused indoor timber park that successfully relocated to Derby. Known for its inclusive atmosphere, adult-specific 'Over 30s' sessions, and beginner coaching.
+Location: Derby, Derbyshire, UK
+Website: https://www.floskatepark.com/
+
+After moving its operating hub from Nottingham to the Derbion centre in Derby, Flo Skatepark has established itself as a deeply community-focused indoor space. Built entirely of timber, the park features a street plaza, transition sections, and dedicated beginner areas.
+
+The facility explicitly caters to returning and older skaters, running dedicated "Over 30s" sessions and beginner-friendly, coach-led taster sessions that provide a structured, supportive environment for getting comfortable on a board. Advance online booking is highly recommended.
 
 
 ### Graystone Action Sports
@@ -5116,6 +5156,16 @@ Website: https://www.brighton-hove.gov.uk/libraries-leisure-and-arts/parks-and-g
 Positioned at the southern end of The Level park in central Brighton, this purpose-built concrete facility is the heartbeat of Sussex skateboarding. While its interconnected bowl complex attracts high-flying transition skaters, the park was thoughtfully planned with a segregated shallower section that gives older skaters a calm, low-consequence environment to warm up knees and test balance.
 
 The lower level includes gentle concrete mini-ramps facing each other, smooth flat banks, low ledges, and small stairs. Lighting across the surrounding public park provides visibility into the evening, and being open 24 hours means early morning sunrise sessions before the coastal crowds wake up are straightforward. Public toilets and park benches are right beside the course.
+
+
+### Ann Arbor Skatepark
+A 30,000-square-foot concrete facility featuring kidney pools, a snake run, and beginner-friendly transition sections. Known for community programs that explicitly welcome and teach older skaters.
+Location: Ann Arbor, Michigan, US
+Website: https://www.a2gov.org/departments/Parks-Recreation/parks-places/Pages/AnnArborSkatepark.aspx
+
+Located within Veterans Memorial Park, this 30,000-square-foot concrete park offers everything from forgiving beginner areas to deep kidney pools and a sprawling snake run. The continuous layout makes it easy to find a mellow line to practice carving without getting in the way of advanced traffic.
+
+The local community is highly supportive, running regular outreach and beginner sessions that explicitly welcome older skaters and provide a comfortable environment for learning the basics. Push-button lighting keeps the park sessionable well past sunset.
 
 
 ### Burnside Skate Park
@@ -5282,7 +5332,7 @@ Website: https://thecharles.org/our-work/lynch-family-skatepark/
 
 The Charles River Conservancy planned, designed and built Lynch on a former contaminated site at North Point Park, and the state's Department of Conservation and Recreation now runs it. The location under the bridge ramps is the practical draw: weather that empties other parks leaves large parts of this one skateable, and the lights extended to 10pm mean a session after work in winter is realistic.
 
-The terrain covers most of what you might want to relearn — a bowl, a mini ramp, quarterpipes, banks, ledges, curbs, manual pads, flat and handrails, stairs and a wallride — and the Conservancy points to regular skate groups that welcome beginners on any wheels. Bring nothing that needs parking: street spaces are scarce and metered with a two-hour limit, and it is a short walk from the Museum of Science. Free walls for graffiti artists are part of the park's programme, so expect the paint to change.
+The terrain covers most of what you might want to relearn — a bowl, a mini ramp, quarterpipes, banks, ledges, curbs, manual pads, flat and handrails, stairs and a wallride — and the Conservancy points to regular skate groups that welcome beginners on any wheels. Bring nothing that needs parking: street spaces are scarce and metered with a two-hour limit, and it is a short walk from the Museum of Science. Free walls for graffiti artists are part of the park's programme, so expect the paint to change. If you need a board or adult-friendly advice, Orchard Skateshop over in Allston is the essential local core shop.
 
 
 ### Mabel Davis Skate Park
@@ -5302,7 +5352,7 @@ Website: https://www.visitphilly.com/things-to-do/attractions/paines-park/
 
 Paine's is a plaza, not a bowl park: quarterpipes, banks, ledges, curbs, manual pads, flat and handrails, a stair set and a wallride, spread across a riverfront site that doubles as a public park and connects straight onto the Schuylkill River Trail. Head for the south end first. When Philadelphia magazine sent two "oldheads" to dust off their boards here, they settled in that section — "low ollie boxes and benches and a lot of flat ground for cruising" — and called it a de facto old-folks zone that suited them fine. FDR, the city's famous DIY park, is a very different proposition.
 
-It was conceived in 2002 by Franklin's Paine Skatepark Fund, the skater-run non-profit that later helped win a skate plaza at the Municipal Services Building, and it opened in 2013. Limited parking at the Waterworks Drive lot off Kelly Drive and paid parking at the Art Museum garage; SEPTA buses 43 and 38 stop nearby.
+It was conceived in 2002 by Franklin's Paine Skatepark Fund, the skater-run non-profit that later helped win a skate plaza at the Municipal Services Building, and it opened in 2013. Limited parking at the Waterworks Drive lot off Kelly Drive and paid parking at the Art Museum garage; SEPTA buses 43 and 38 stop nearby. Need a board before heading down? Stop by Nocturnal Skateshop on 5th St.
 
 
 ### Pier 62 Skatepark (Hudson River Park)
@@ -5379,6 +5429,16 @@ Location: Sydney, New South Wales, AU
 Website: https://www.blacksheepskate.com.au
 
 Black Sheep is a solid independent shop for adult skaters in Sydney. The staff's willingness to talk through beginner-appropriate setups without condescension makes it particularly useful for returning skaters who might feel self-conscious walking into a shop after 20 years away from the sport. The shop is also well situated for riders dialing in setups before heading south to the beginner-friendly bowls at Sydney Park Skate Park or the mellow transitions at Meadowbank Skatepark.
+
+
+### Evolve Skate Store
+Melbourne's longest-running independent core shop. Known for a welcoming atmosphere and staff who are consistently praised for being helpful and patient with beginners.
+Location: Prahran, Victoria, AU
+Website: https://evolveskatestore.com/
+
+Evolve is Melbourne's longest-running independent skate shop and an institution in the local scene. Despite its deep roots and core pedigree, the shop is famous for being incredibly welcoming.
+
+Whether you're stepping on a board for the first time in twenty years or need help figuring out modern truck sizing, customers consistently report that the staff are patient, knowledgeable, and completely lack the intimidating "cooler-than-you" attitude sometimes found in core shops. It's perfectly positioned on Chapel Street for grabbing gear before rolling down to Prahran Skate Park.
 
 
 ### Antisocial Skateshop
@@ -5524,6 +5584,26 @@ Location: Austin, Texas, US
 Website: https://nocomplyatx.com
 
 No-Comply carries the new-school brands alongside the ones you will remember — Alien Workshop and Baker sit next to Limosine and Opera — and will build a complete to suit you rather than sell you a pre-made one. Hours are 11am to 7pm Monday to Friday, 10am to 7pm Saturday and 10am to 6pm Sunday, and the online store ships worldwide. Heath Eiland and Mabel Davis parks are both in easy reach.
+
+
+### Nocturnal Skateshop
+A staple of the Philadelphia skate scene founded by Kerry Getz. Known for experienced staff who take the time to guide older beginners through their first setup.
+Location: Philadelphia, Pennsylvania, US
+Website: https://nocturnalphilly.com
+
+Founded in 2000 by pro skater Kerry Getz, Nocturnal is a cornerstone of the Philadelphia skate scene. While its core pedigree can feel intimidating from the outside, reviewers consistently note that the staff are patient, welcoming, and excellent at talking older returning skaters through their gear choices. 
+
+They carry a deep selection of core brands and offer full assembly and repair services. A perfect stop before heading to Paine's Park.
+
+
+### Orchard Skateshop
+A Boston skateboarding institution that opened in 2006. Recently moved back to its Allston roots in a massive new flagship space, known for an explicitly welcoming attitude toward older skaters.
+Location: Boston, Massachusetts, US
+Website: https://orchardshop.com/
+
+Orchard has anchored the Boston skate scene since 2006. In 2025, the shop moved into a massive new flagship space in Allston, continuing their legacy of community building.
+
+Far from the gatekeeping sometimes found in core shops, Orchard's ownership has a documented history of making sure their spaces—including their famous indoor mini-ramps—are comfortable for older, returning skaters to learn on. It's an essential stop if you need gear before heading to the Lynch Family Skatepark across the river.
 
 
 ### Pacific Drive Skateboard Shop
