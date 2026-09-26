@@ -62,9 +62,15 @@ export function shouldHideOnEscape(event, activeElement, panel) {
 function track(event, source) {
   window.dataLayer = window.dataLayer || [];
   window.dataLayer.push(source ? { event, newsletter_source: source } : { event });
-  if (typeof window.gtag === 'function') {
-    window.gtag('event', event, source ? { newsletter_source: source } : {});
+  // GTM's own GA4 tag does not create a page-level `gtag`, so define the
+  // canonical wrapper rather than testing for one. It must push the raw
+  // `arguments` object: that is the shape gtag.js reads commands in, and an
+  // array is ignored. When the Google tag is live the command reaches GA4;
+  // when it is not, the push is inert.
+  if (typeof window.gtag !== 'function') {
+    window.gtag = function gtag() { window.dataLayer.push(arguments); };
   }
+  window.gtag('event', event, source ? { newsletter_source: source } : {});
 }
 
 export function initNewsletterSignup(panel) {

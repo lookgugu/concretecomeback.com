@@ -239,13 +239,21 @@ test('signup events reach GA4 through gtag, not only the dataLayer', () => {
   delete global.window.gtag;
 });
 
-test('a page without gtag still tracks without throwing', () => {
+test('a page with no gtag gets the canonical wrapper, queued for the Google tag', () => {
   const popup = fakePopup();
   delete global.window.gtag;
   popup.closeButton.listeners.forEach((fn) => fn());
 
-  const events = global.window.dataLayer.map((entry) => entry.event);
-  assert.ok(events.includes('newsletter_popup_dismissed'));
+  assert.equal(typeof global.window.gtag, 'function', 'the wrapper is defined, not skipped');
+  // gtag.js reads commands as Arguments objects; an array is ignored, so the
+  // queued entry must not be one.
+  const queued = global.window.dataLayer[global.window.dataLayer.length - 1];
+  assert.ok(!Array.isArray(queued), 'commands queue as Arguments, never as an array');
+  assert.deepEqual(
+    [queued[0], queued[1]],
+    ['event', 'newsletter_popup_dismissed'],
+  );
+  delete global.window.gtag;
 });
 
 test('the close button still records a real dismissal', () => {
