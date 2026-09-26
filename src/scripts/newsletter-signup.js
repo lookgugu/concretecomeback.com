@@ -54,9 +54,17 @@ export function shouldHideOnEscape(event, activeElement, panel) {
   return true;
 }
 
+// Two sinks on purpose. The dataLayer push is the GTM channel, but it only
+// reaches GA4 once someone adds a custom-event trigger per event name in the
+// GTM UI, and none exist — so every signup event has been invisible in GA4
+// since launch. `gtag` is defined by the container's own GA4 config tag, and
+// events sent through it land in GA4 with no trigger configuration at all.
 function track(event, source) {
   window.dataLayer = window.dataLayer || [];
   window.dataLayer.push(source ? { event, newsletter_source: source } : { event });
+  if (typeof window.gtag === 'function') {
+    window.gtag('event', event, source ? { newsletter_source: source } : {});
+  }
 }
 
 export function initNewsletterSignup(panel) {

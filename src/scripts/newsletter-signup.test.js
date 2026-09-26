@@ -223,6 +223,31 @@ test('a popup that retreats after an inline signup is not counted as a dismissal
   assert.equal(popup.panel.dataset.visible, 'false');
 });
 
+test('signup events reach GA4 through gtag, not only the dataLayer', () => {
+  const calls = [];
+  const popup = fakePopup();
+  // fakePopup() runs initNewsletterSignup, so install the spy and re-fire the
+  // event the visitor triggers next. The GTM container has no custom-event
+  // trigger for these names: without this call they never reach GA4.
+  global.window.gtag = (...args) => calls.push(args);
+  popup.closeButton.listeners.forEach((fn) => fn());
+
+  assert.deepEqual(
+    calls.map(([kind, event]) => `${kind}:${event}`),
+    ['event:newsletter_popup_dismissed'],
+  );
+  delete global.window.gtag;
+});
+
+test('a page without gtag still tracks without throwing', () => {
+  const popup = fakePopup();
+  delete global.window.gtag;
+  popup.closeButton.listeners.forEach((fn) => fn());
+
+  const events = global.window.dataLayer.map((entry) => entry.event);
+  assert.ok(events.includes('newsletter_popup_dismissed'));
+});
+
 test('the close button still records a real dismissal', () => {
   const popup = fakePopup();
   popup.closeButton.listeners.forEach((fn) => fn());
