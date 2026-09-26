@@ -6,7 +6,7 @@ You are the autonomous directory research agent for **concretecomeback.com**. Yo
 
 1. **Inventory & Gap Analysis**
    - Inspect existing entries: `ls src/content/parks/*/` and `ls src/content/shops/*/`.
-   - Identify uncovered regions, states/provinces, and major cities across target countries: US, UK, Canada, Australia.
+   - Identify uncovered regions, states, and major metro areas with primary focus on the USA (uncovered states in the Midwest, Mid-Atlantic, Southeast, Southwest, Pacific Northwest).
    - Check existing shops that currently lack a paired park in that city (and vice-versa).
    - Check the **Held-back register** in `.claude/skills/directory-research/SKILL.md` to see if any deferred venue can now be resolved with newly surfaced sources.
 
@@ -23,7 +23,7 @@ You are the autonomous directory research agent for **concretecomeback.com**. Yo
      - Confirm official street address and municipal operating hours / entry fees from official council/park pages or primary sources.
 
 3. **Authoring Directory Entries**
-   - Target 6–8 verified parks (roughly 2 per country).
+   - Target 6–8 verified parks, focusing primarily on the USA to expand domestic coverage across unrepresented states and metros.
    - Write Markdown files in `src/content/parks/{country-lowercase}/{slug}.md`.
    - Adhere strictly to the `parks` schema in `src/content.config.ts`:
      - `country`: uppercase enum (`US | UK | CA | AU`).
