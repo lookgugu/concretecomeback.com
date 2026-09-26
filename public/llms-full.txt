@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-26T15:03:00.034Z
+# Date: 2026-09-26T21:49:56.831Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -5543,6 +5543,16 @@ Positioned at the southern end of The Level park in central Brighton, this purpo
 The lower level includes gentle concrete mini-ramps facing each other, smooth flat banks, low ledges, and small stairs. Lighting across the surrounding public park provides visibility into the evening, and being open 24 hours means early morning sunrise sessions before the coastal crowds wake up are straightforward. Public toilets and park benches are right beside the course.
 
 
+### 3rd Lair SkatePark
+Twin Cities indoor institution featuring forgiving wooden surfaces, dedicated coaching clinics for older skaters, private instruction, and a separate mini-ramp and ditch course decoupled from high-impact street traffic.
+Location: Golden Valley, Minnesota, US
+Website: https://3rdlair.com
+
+Operating continuously since 1997, 3rd Lair is the backbone of the Upper Midwest skate community. The indoor climate-controlled setup provides year-round skating protected from harsh Minnesota winters, surfaced with smooth wood and Skatelite that cushions impacts far more gently than outdoor concrete.
+
+For returning and older skaters, the facility runs structured adult skateboard clinics and offers private one-on-one coaching. Start on the mellow mini-ramp or "The Ditch" flow section before navigating the main street course, which offers ample flatground and progressive ledge heights.
+
+
 ### Ann Arbor Skatepark
 A 30,000-square-foot concrete facility featuring kidney pools, a snake run, and beginner-friendly transition sections. Known for community programs that explicitly welcome and teach older skaters.
 Location: Ann Arbor, Michigan, US
@@ -5551,6 +5561,16 @@ Website: https://www.a2gov.org/departments/Parks-Recreation/parks-places/Pages/A
 Located within Veterans Memorial Park, this 30,000-square-foot concrete park offers everything from forgiving beginner areas to deep kidney pools and a sprawling snake run. The continuous layout makes it easy to find a mellow line to practice carving without getting in the way of advanced traffic.
 
 The local community is highly supportive, running regular outreach and beginner sessions that explicitly welcome older skaters and provide a comfortable environment for learning the basics. Push-button lighting keeps the park sessionable well past sunset.
+
+
+### Astoria Skatepark
+Covered 21,500 sq ft concrete street plaza beneath the RFK Triborough Bridge in Queens, offering rain and sun shelter, wide flatground avenues, and calm dawn sessions from 6am.
+Location: Queens, New York, US
+Website: https://www.nycgovparks.org/parks/astoria-park/facilities/skateparks
+
+Spanning 21,500 square feet within Astoria Park directly beneath the Robert F. Kennedy (Triborough) Bridge approach, Astoria Skatepark is one of NYC's largest and most functional public skate plazas. The massive overhead bridge deck provides vital weather shielding against drizzle and intense midday summer heat, creating consistent skating conditions when other outdoor spots are soaked.
+
+The plaza layout features generous flatground runways and low-rise manual pads and ledges completely separated from the multi-stair and rail setups. Gates unlock at 6am daily; the dawn window between 6am and 9am is exceptionally peaceful, giving older skaters room to carve and practice technical fundamentals before school breaks. Pair your session with a visit to Labor Skateshop on Canal Street in the Lower East Side for fresh wheels and hardware.
 
 
 ### Burnside Skate Park
@@ -5614,6 +5634,16 @@ The sheer size works in a returning skater's favour — there is almost always a
 303 Boards — a Denver brick-and-mortar since 1997, with stores on South Broadway and East Colfax — is the shop paired with this park.
 
 
+### Ed Benedict Skatepark
+Portland's premier 18,000 sq ft concrete street plaza featuring wide flatground lanes, mellow low-rise ledges, and landscaped biofiltration buffers, offering a low-impact alternative to tight transition parks.
+Location: Portland, Oregon, US
+Website: https://www.portland.gov/parks/ed-benedict-park
+
+Opened in 2009 as Portland's first designated skate plaza, Ed Benedict is an environmentally integrated 18,000-square-foot concrete facility built with rain gardens and biofiltration islands that divide the park into distinct, low-stress zones. Unlike the steep, fast coping lines of Burnside, Ed Benedict emphasizes technical flatground, gentle banks, and low ledges that allow older skaters to rebuild muscle memory with low consequence.
+
+Arrive during the early morning hours between 5am and 9am for quiet, uninterrupted runs across the wide concrete avenues. Before your session, visit Cal Skate Skateboards on NW 6th Avenue in downtown Portland for setup adjustments and softer wheels.
+
+
 ### Heath Eiland & Morgan Moss Skate Park
 Austin's flagship 30,000 sq ft skate park in the heart of the city, designed by New Line Skateparks. A large flowing bowl takes up a third of the park, alongside an expansive street plaza, banks, rails, and a unique skateable public art piece. Shade structures make midday sessions bearable in the Texas heat. The park draws a wide age range — weekday mornings consistently attract adult skaters in their 30s, 40s, and 50s who have the run of the place before the after-school crowd arrives.
 Location: Austin, Texas, US
@@ -5654,6 +5684,16 @@ Spanning 68,000 square feet within Lake Cunningham Regional Park in East San Jos
 For older skaters, the standout feature is the dedicated Drop Zone, where concrete steps of 1.5, 3, and 5 feet allow you to build dropping-in confidence incrementally rather than confronting an intimidating vertical roll-in. The low-profile ledges, gentle banks, and broad flatground corridors provide ample space to re-establish edge control and balance without fear of getting snaked by cross-park lines.
 
 The park enforces a strict mandatory helmet, elbow pad, and knee pad policy for every rider, creating a supportive culture where older skaters wearing full protective gear blend right in. The facility is closed on Mondays and Tuesdays, and because there is no nighttime floodlighting, sessions end thirty minutes after sunset. Regional park parking fees apply at the entrance lot.
+
+
+### Lakewood Skatepark
+Scenic 9,500 sq ft concrete street plaza on Lake Erie featuring gentle banks, low curb ledges, and quiet morning municipal clinic sessions designed for low-impact progression.
+Location: Lakewood, Ohio, US
+Website: https://www.lakewoodoh.gov/parks-facilities/
+
+Nestled inside the scenic 31-acre Lakewood Park along Lake Erie, this 9,500-square-foot poured-concrete street plaza is the heart of Greater Cleveland's outdoor skate community. Designed with smooth, wide-open flatground corridors and gradual banked transitions, Lakewood provides an inviting setting for older skaters who prefer technical flatground and low ledges over deep transition drops.
+
+The Lakewood Recreation Department runs seasonal community clinics focusing on fundamentals like balance, carving, and controlled dismounts. Morning hours from 9am to 11am are particularly tranquil before family and youth traffic picks up. Restrooms, drinking water, and ample park parking are adjacent to the facility.
 
 
 ### Lauridsen Skatepark
@@ -5740,6 +5780,16 @@ Paine's is a plaza, not a bowl park: quarterpipes, banks, ledges, curbs, manual 
 It was conceived in 2002 by Franklin's Paine Skatepark Fund, the skater-run non-profit that later helped win a skate plaza at the Municipal Services Building, and it opened in 2013. Limited parking at the Waterworks Drive lot off Kelly Drive and paid parking at the Art Museum garage; SEPTA buses 43 and 38 stop nearby. Need a board before heading down? Stop by Nocturnal Skateshop on 5th St.
 
 
+### Pecos Skatepark
+Expansive 29,500 sq ft concrete facility in Ahwatukee featuring mellow pump bumps, low grind ledges, and a strict skateboard-only policy excluding bikes to minimize collision hazards, lit nightly to 10:45pm.
+Location: Phoenix, Arizona, US
+Website: https://www.phoenix.gov/parks/parks/skate-parks
+
+Situated in the Ahwatukee Foothills within Pecos Park, this 29,500-square-foot concrete facility is one of the premier municipal skateparks in Arizona. A crucial advantage for older skaters is the park's strict skateboard-and-inline rule that prohibits bicycles and motorized scooters, dramatically reducing unpredictable crossing traffic and high-speed collision hazards.
+
+The layout features an expansive, open-concept street plaza loaded with gentle rolling pump bumps, flat ground banks, and wide curb-height ledges alongside a 7-foot transition bowl. Morning sessions between 7am and 9am are the best window for returning skaters, avoiding both peak desert temperatures and crowded afternoon gatherings.
+
+
 ### Pier 62 Skatepark (Hudson River Park)
 New York's first modern full-sized concrete transition park, built on a Chelsea pier in 2010 by California Skateparks. Free, open 8am to dusk, and laid out by level: a marked Beginner Ollie Zone with a 4-foot quarter, 2-foot wedge and start box, an Intermediate Fun Box with a 24-foot ledge and kinked rail, and the big flowing bowl for when you are ready.
 Location: New York, New York, US
@@ -5752,6 +5802,16 @@ What makes it a good comeback park is that the levels are named on the map. Star
 For a setup before you go, Labor Skateshop on Canal Street — skateboarder-owned since 2012 — is the Lower East Side shop paired with this park.
 
 
+### Powhatan Springs Skate Park
+Renovated 16,300 sq ft concrete facility in the DC metro area featuring a shallow 4.5ft egg bowl, mellow flow zone, and low street rails isolated from an 11ft pro bowl, with daily floodlights until 10pm.
+Location: Arlington, Virginia, US
+Website: https://www.arlingtonva.us/Government/Departments/Parks-Recreation/Locations/Parks/Powhatan-Springs-Skate-Park
+
+Renovated by Arlington County and recognized with statewide park awards, Powhatan Springs offers one of the most comprehensive concrete layouts in the Washington DC metropolitan area. The park's standout feature for older skaters is its dedicated 4.5-to-5-foot egg bowl and rolling snake flow section, which are physically decoupled from the 11-foot deep pro kidney bowl.
+
+The street course provides wide flatground corridors, manageable flat rails, and small A-frame banks. Floodlights operate until 10pm every evening, and morning sessions between 7am and 10am offer calm riding conditions before afternoon youth arrivals. Helmets are mandatory under county park rules.
+
+
 ### Robb Field Skatepark
 Roughly 40,000 square feet of concrete in Ocean Beach, and the first skatepark built and maintained by the City of San Diego. The layout covers a wide spread of terrain, from mellow banks and flatground through to deeper transition, which is why it stays busy with a genuinely mixed-age crowd rather than just teenagers.
 Location: San Diego, California, US
@@ -5760,6 +5820,26 @@ Website: https://www.sandiego.gov/park-and-recreation/parks/regional/robbfield
 Helmets are required at San Diego city skateparks, so bring one. The perimeter flatground and banks are the easiest entry point; go earlier in the day to avoid the after-school rush.
 
 Pacific Drive Skateboard Shop in Pacific Beach, established 1987 and still owner-run, is the shop paired with this park.
+
+
+### Rogers Family Skate Plaza
+Four-tiered 13,000 sq ft concrete street plaza by Team Pain in the Raleigh metro area, featuring tiered flat ledges and gentle banks isolated from a multi-level bowl, open 24 hours with floodlights.
+Location: Apex, North Carolina, US
+Website: https://www.apexnc.org/Facilities/Facility/Details/Rogers-Family-Skate-Plaza-63
+
+Constructed by Team Pain within Hunter Street Park, the Rogers Family Skate Plaza offers a four-tiered concrete design tailored to simulate street lines while maintaining clean line-of-sight separation. Lower tiers are dedicated to wide flatground ledges, mini-banks, and curb-height rails, keeping novice and returning skaters out of the trajectory of the higher-speed multi-level bowl.
+
+The plaza remains open around the clock with automated floodlights extending until 9:30pm on weeknights and 11:30pm on Saturdays. An early dawn visit provides peaceful, dew-free concrete before heat and school crowds set in. Town ordinance strictly mandates helmets and protective pads, fostering a safe, respectful environment for older skaters.
+
+
+### Skatepark of Tampa (SPoT)
+Legendary skate facility operating since 1993, famous for its annual 'Old Man Bowl' contest for skaters 30+, featuring forgiving Skatelite indoor wood terrain, private adult coaching, and dedicated session schedules.
+Location: Tampa, Florida, US
+Website: https://skateparkoftampa.com
+
+Operating continuously since 1993, Skatepark of Tampa is one of the most culturally revered parks in skateboarding history. Far from just a contest venue for pros, SPoT is a welcoming hub for veterans and returners, highlighted each year by its Old Man Bowl Jam specifically dedicated to skaters aged 30, 40, and 50 and older.
+
+The indoor street course and mini-ramps are surfaced in forgiving Skatelite wood, delivering smoother roll-in transitions and softer impacts when stepping off. The park offers private one-on-one coaching for older skaters looking to regain board confidence or build ramp-carving fundamentals. BMX bikes are restricted to designated days (Wednesdays and Sundays), keeping the course free of heavy metal frames during standard skateboard sessions.
 
 
 ### SoMa West Skatepark
@@ -5944,7 +6024,7 @@ Cal Skate has been around long enough that a large portion of their customer bas
 Widely recognised as one of the oldest skate shops in the world, trading in downtown Portland for close to fifty years and recently handed from founder Howard Weiner to Chris Nukala, who bought his first board here at eight and never left the scene. A core shop with the deepest possible roots, a short ride from Burnside.
 Location: Portland, Oregon, US
 
-Cal Skate predates most of the words we use for skateboarding, and it is still on NW 6th Avenue downtown. When ownership passed to Chris Nukala after nearly fifty years, local news covered it as a passing of the torch: "I got my first board at Cal Skate when I was eight years old," he said, "the experience changed my life." That continuity is what a returning skater is buying into. Check current hours before you go — they were not published at the time of listing — and pair the visit with Burnside, the DIY park under the bridge that Portland is known for.
+Cal Skate predates most of the words we use for skateboarding, and it is still on NW 6th Avenue downtown. When ownership passed to Chris Nukala after nearly fifty years, local news covered it as a passing of the torch: "I got my first board at Cal Skate when I was eight years old," he said, "the experience changed my life." That continuity is what a returning skater is buying into. Check current hours before you go — they were not published at the time of listing — and pair the visit with Ed Benedict Skatepark for mellow street plaza lines or Burnside for iconic transition under the bridge.
 
 
 ### DLX Skate Shop
@@ -5960,7 +6040,7 @@ A skateboarder-owned and operated core shop on Canal Street in the Lower East Si
 Location: New York, New York, US
 Website: https://laborskateshop.com
 
-Labor opened in 2012 as a skateboarder-owned shop — owner James Rewolinski came up through a Milwaukee core shop before moving to New York — and it has stayed that kind of place: the counter is staffed by people who skate the city. Hours are 11am to 7pm Monday to Saturday and 11am to 6pm Sunday, and the online store offers free shipping over $120. Pier 62 on the Hudson, with its marked beginner zone, is the park to pair it with; the Coleman/LES park round the corner is the local street spot.
+Labor opened in 2012 as a skateboarder-owned shop — owner James Rewolinski came up through a Milwaukee core shop before moving to New York — and it has stayed that kind of place: the counter is staffed by people who skate the city. Hours are 11am to 7pm Monday to Saturday and 11am to 6pm Sunday, and the online store offers free shipping over $120. Pier 62 on the Hudson, with its marked beginner zone, and the covered Astoria Skatepark under the RFK Bridge in Queens are ideal parks to pair it with; the Coleman/LES park round the corner is the local street spot.
 
 
 ### No-Comply Skateshop
