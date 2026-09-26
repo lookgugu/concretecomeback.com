@@ -18,7 +18,7 @@ Testosterone doesn't fall off a cliff the way estrogen does around menopause. It
 
 The changes that matter for an active adult, and for skating specifically, show up gradually rather than suddenly:
 
-**Slower tissue repair.** Testosterone plays a role in how efficiently your body repairs muscle and connective tissue after load. A lower level doesn't mean you stop recovering — it means recovery takes a bit longer than it used to, which is part of why the same fall or the same hard session that shook off in a day at 30 can leave you sore for three days at 50.
+**Slower tissue repair, for some men.** Testosterone plays a role in how efficiently the body repairs muscle and connective tissue after load, so for men whose levels have dropped meaningfully, that can be part of the picture. It's one contributor among several, though, not a guarantee — plenty of the same fall or hard session shaking off in a day at 30 and taking three at 50 comes down to ordinary aging, training load, sleep, and recovery habits, with or without any change in testosterone specifically.
 
 **Gradual bone density changes.** Testosterone supports bone density in men the way estrogen does in women, just less abruptly. Combined with the ordinary age-related bone density decline everyone experiences, this is part of why impact-bearing activity — which skating provides in a useful, moderate way — matters more, not less, as you get older. See [the osteoporosis and bone density piece](/blog/osteoporosis-bone-density-skateboarding/) for more on that side of it.
 
