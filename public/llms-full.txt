@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-26T14:59:13.907Z
+# Date: 2026-09-26T15:03:00.034Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -1054,7 +1054,7 @@ A few ordinary aging changes affect skating more than most people expect.
 
 **Your Achilles tendon loses resilience.** Tendon is living tissue that remodels slowly, and with age its collagen becomes more cross-linked, its water content drops, and its tolerance for repetitive loading falls. Counter-intuitively, in-vivo studies find the older Achilles is more compliant, not stiffer: it stores and returns energy less efficiently and copes worse with sudden loads. The Achilles does the most work every time you push, pop, or absorb a landing, and Achilles tendinopathy is largely a condition of middle age — its incidence rises from the 40s in athletes and non-athletes alike — so it deserves its own warm-up rather than an afterthought.
 
-**Your arch and plantar fascia take on more strain.** The plantar fascia — the band of tissue running along the bottom of your foot — has to work harder to stabilize your arch as supporting muscles and tissue elasticity decline with age. Plantar fasciitis, an inflammation of that tissue that shows up as a sharp, specific pain under the heel, particularly first thing in the morning or when you stand up after sitting, becomes meaningfully more common from your 40s on, in skaters and non-skaters alike.
+**Your arch and plantar fascia take on more strain.** The plantar fascia — the band of tissue running along the bottom of your foot — has to work harder to stabilize your arch as supporting muscles and tissue elasticity decline with age. Plantar fasciitis, despite the name, is usually degenerative rather than classically inflamed tissue — ongoing microtearing and disorganized collagen from repeated strain, not a short-lived inflammatory flare. It shows up as a sharp, specific pain under the heel, particularly first thing in the morning or when you stand up after sitting, and becomes meaningfully more common from your 40s on, in skaters and non-skaters alike.
 
 None of this means your feet are falling apart. It means the margin for skating on the wrong shoes, skipping a warm-up, or ignoring an early ache is smaller than it used to be.
 
