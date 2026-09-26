@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-26T09:25:22.452Z
+# Date: 2026-09-26T09:29:09.736Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -4265,7 +4265,7 @@ If your local shop carries one, ask to try it in the parking lot before you comm
 
 
 ### Testosterone After 40: What It Means for Male Skaters
-Testosterone declines gradually after 40, slowing recovery and bone adaptation. Here's what that means for skating and what actually helps.
+Testosterone declines gradually after 40 and can affect recovery and bone health for some men. Here's what that means for skating and what actually helps.
 
 This site already has [a piece on perimenopause and joints](/blog/perimenopause-joints-and-skateboarding/) for the hormonal changes women navigate returning to skating in their 40s and beyond. Men go through their own gradual hormonal shift over the same decades, and it gets talked about far less — usually either ignored entirely or wrapped up in TRT marketing that oversells what's actually going on. Here's the practical, non-hyped version, and what it means for the specific demands skating puts on your body.
 
@@ -4283,7 +4283,7 @@ The changes that matter for an active adult, and for skating specifically, show 
 
 ## What the evidence actually supports doing about it
 
-**Resistance training is the highest-leverage lever you control.** Strength training is one of the more reliably supported ways to support healthy testosterone levels and, just as importantly, to counteract the muscle and bone effects of lower levels regardless of what your actual number is. This isn't specific to skating — it's general exercise physiology — but it stacks well with skating, which builds balance and joint control without doing much for raw strength on its own. [The strength training piece](/blog/strength-training-muscles-adult-skaters-neglect/) covers the specific muscle groups adult skaters tend to undertrain.
+**Resistance training is the highest-leverage lever you control.** Don't count on regular strength training to meaningfully raise a low resting testosterone number — the evidence for that is weak, despite how often it gets repeated. What it reliably does is counteract the muscle-loss and bone-density consequences of lower levels directly, regardless of what your actual number is, which matters just as much. This isn't specific to skating — it's general exercise physiology — but it stacks well with skating, which builds balance and joint control without doing much for raw strength on its own. [The strength training piece](/blog/strength-training-muscles-adult-skaters-neglect/) covers the specific muscle groups adult skaters tend to undertrain.
 
 **Sleep matters more than almost anything else here.** Testosterone production is closely tied to sleep, particularly deep sleep, and chronic sleep deprivation measurably suppresses it in ways that are often more significant than age alone. If you're skating regularly, sleeping poorly, and feeling like recovery has gotten harder than it should, sleep is worth fixing before you look anywhere else. [The sleep and recovery piece](/blog/sleep-most-underrated-skate-recovery-tool/) goes into this in more depth.
 

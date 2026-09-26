@@ -1,6 +1,6 @@
 ---
 title: "Testosterone After 40: What It Means for Male Skaters"
-description: "Testosterone declines gradually after 40, slowing recovery and bone adaptation. Here's what that means for skating and what actually helps."
+description: "Testosterone declines gradually after 40 and can affect recovery and bone health for some men. Here's what that means for skating and what actually helps."
 pubDate: 2026-09-26
 author: "Jo Fairweather"
 authorAge: 52
@@ -26,7 +26,7 @@ The changes that matter for an active adult, and for skating specifically, show 
 
 ## What the evidence actually supports doing about it
 
-**Resistance training is the highest-leverage lever you control.** Strength training is one of the more reliably supported ways to support healthy testosterone levels and, just as importantly, to counteract the muscle and bone effects of lower levels regardless of what your actual number is. This isn't specific to skating — it's general exercise physiology — but it stacks well with skating, which builds balance and joint control without doing much for raw strength on its own. [The strength training piece](/blog/strength-training-muscles-adult-skaters-neglect/) covers the specific muscle groups adult skaters tend to undertrain.
+**Resistance training is the highest-leverage lever you control.** Don't count on regular strength training to meaningfully raise a low resting testosterone number — the evidence for that is weak, despite how often it gets repeated. What it reliably does is counteract the muscle-loss and bone-density consequences of lower levels directly, regardless of what your actual number is, which matters just as much. This isn't specific to skating — it's general exercise physiology — but it stacks well with skating, which builds balance and joint control without doing much for raw strength on its own. [The strength training piece](/blog/strength-training-muscles-adult-skaters-neglect/) covers the specific muscle groups adult skaters tend to undertrain.
 
 **Sleep matters more than almost anything else here.** Testosterone production is closely tied to sleep, particularly deep sleep, and chronic sleep deprivation measurably suppresses it in ways that are often more significant than age alone. If you're skating regularly, sleeping poorly, and feeling like recovery has gotten harder than it should, sleep is worth fixing before you look anywhere else. [The sleep and recovery piece](/blog/sleep-most-underrated-skate-recovery-tool/) goes into this in more depth.
 
