@@ -15,4 +15,4 @@ addedDate: 2026-09-05
 lastVerified: 2026-09-26
 ---
 
-Labor opened in 2012 as a skateboarder-owned shop — owner James Rewolinski came up through a Milwaukee core shop before moving to New York — and it has stayed that kind of place: the counter is staffed by people who skate the city. Hours are 11am to 7pm Monday to Saturday and 11am to 6pm Sunday, and the online store offers free shipping over $120. Pier 62 on the Hudson, with its marked beginner zone, and the covered Astoria Skatepark under the RFK Bridge in Queens are ideal parks to pair it with; the Coleman/LES park round the corner is the local street spot.
+Labor opened in 2012 as a skateboarder-owned shop — owner James Rewolinski came up through a Milwaukee core shop before moving to New York — and it has stayed that kind of place: the counter is staffed by people who skate the city. Hours are 11am to 7pm Monday to Saturday and 11am to 6pm Sunday, and the online store offers free shipping over $120. Pier 62 on the Hudson, with its marked beginner zone, and Astoria Skatepark beside the RFK Bridge in Queens are ideal parks to pair it with; the Coleman/LES park round the corner is the local street spot.

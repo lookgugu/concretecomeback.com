@@ -9,7 +9,7 @@ surface: ["wood", "concrete", "hybrid"]
 features: ["bowl", "street", "mini-ramp", "transitions", "ramps", "rails", "stairs"]
 difficulty: "mixed"
 adultFriendly: true
-isIndoor: false
+isIndoor: true
 hasLighting: true
 hasParking: true
 hasToilets: true

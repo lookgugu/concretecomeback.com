@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-26T21:49:56.831Z
+# Date: 2026-09-26T22:48:02.414Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -5564,11 +5564,11 @@ The local community is highly supportive, running regular outreach and beginner 
 
 
 ### Astoria Skatepark
-Covered 21,500 sq ft concrete street plaza beneath the RFK Triborough Bridge in Queens, offering rain and sun shelter, wide flatground avenues, and calm dawn sessions from 6am.
+Expansive 21,500 sq ft concrete street plaza beside the RFK Triborough Bridge approach in Queens, offering wide flatground avenues, low manual pads, and calm dawn sessions from 6am.
 Location: Queens, New York, US
 Website: https://www.nycgovparks.org/parks/astoria-park/facilities/skateparks
 
-Spanning 21,500 square feet within Astoria Park directly beneath the Robert F. Kennedy (Triborough) Bridge approach, Astoria Skatepark is one of NYC's largest and most functional public skate plazas. The massive overhead bridge deck provides vital weather shielding against drizzle and intense midday summer heat, creating consistent skating conditions when other outdoor spots are soaked.
+Spanning 21,500 square feet within Astoria Park beside the Robert F. Kennedy (Triborough) Bridge approach, Astoria Skatepark is one of NYC's largest and most functional public skate plazas. The open-air setting along the East River waterfront provides cooling breezes and a spacious concrete layout.
 
 The plaza layout features generous flatground runways and low-rise manual pads and ledges completely separated from the multi-stair and rail setups. Gates unlock at 6am daily; the dawn window between 6am and 9am is exceptionally peaceful, giving older skaters room to carve and practice technical fundamentals before school breaks. Pair your session with a visit to Labor Skateshop on Canal Street in the Lower East Side for fresh wheels and hardware.
 
@@ -6040,7 +6040,7 @@ A skateboarder-owned and operated core shop on Canal Street in the Lower East Si
 Location: New York, New York, US
 Website: https://laborskateshop.com
 
-Labor opened in 2012 as a skateboarder-owned shop — owner James Rewolinski came up through a Milwaukee core shop before moving to New York — and it has stayed that kind of place: the counter is staffed by people who skate the city. Hours are 11am to 7pm Monday to Saturday and 11am to 6pm Sunday, and the online store offers free shipping over $120. Pier 62 on the Hudson, with its marked beginner zone, and the covered Astoria Skatepark under the RFK Bridge in Queens are ideal parks to pair it with; the Coleman/LES park round the corner is the local street spot.
+Labor opened in 2012 as a skateboarder-owned shop — owner James Rewolinski came up through a Milwaukee core shop before moving to New York — and it has stayed that kind of place: the counter is staffed by people who skate the city. Hours are 11am to 7pm Monday to Saturday and 11am to 6pm Sunday, and the online store offers free shipping over $120. Pier 62 on the Hudson, with its marked beginner zone, and Astoria Skatepark beside the RFK Bridge in Queens are ideal parks to pair it with; the Coleman/LES park round the corner is the local street spot.
 
 
 ### No-Comply Skateshop
