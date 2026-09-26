@@ -223,6 +223,39 @@ test('a popup that retreats after an inline signup is not counted as a dismissal
   assert.equal(popup.panel.dataset.visible, 'false');
 });
 
+test('signup events reach GA4 through gtag, not only the dataLayer', () => {
+  const calls = [];
+  const popup = fakePopup();
+  // fakePopup() runs initNewsletterSignup, so install the spy and re-fire the
+  // event the visitor triggers next. The GTM container has no custom-event
+  // trigger for these names: without this call they never reach GA4.
+  global.window.gtag = (...args) => calls.push(args);
+  popup.closeButton.listeners.forEach((fn) => fn());
+
+  assert.deepEqual(
+    calls.map(([kind, event]) => `${kind}:${event}`),
+    ['event:newsletter_popup_dismissed'],
+  );
+  delete global.window.gtag;
+});
+
+test('a page with no gtag gets the canonical wrapper, queued for the Google tag', () => {
+  const popup = fakePopup();
+  delete global.window.gtag;
+  popup.closeButton.listeners.forEach((fn) => fn());
+
+  assert.equal(typeof global.window.gtag, 'function', 'the wrapper is defined, not skipped');
+  // gtag.js reads commands as Arguments objects; an array is ignored, so the
+  // queued entry must not be one.
+  const queued = global.window.dataLayer[global.window.dataLayer.length - 1];
+  assert.ok(!Array.isArray(queued), 'commands queue as Arguments, never as an array');
+  assert.deepEqual(
+    [queued[0], queued[1]],
+    ['event', 'newsletter_popup_dismissed'],
+  );
+  delete global.window.gtag;
+});
+
 test('the close button still records a real dismissal', () => {
   const popup = fakePopup();
   popup.closeButton.listeners.forEach((fn) => fn());
