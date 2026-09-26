@@ -45,6 +45,8 @@ Most foot soreness after a session is ordinary adaptation and settles with rest.
 
 A podiatrist or sports physiotherapist can usually tell within one visit whether what you're dealing with is ordinary overuse that responds to load management, or something that needs imaging and a different plan.
 
+One Achilles symptom pattern is a different category entirely and isn't a wait-and-see situation: a sudden pop or snap you feel or hear, a palpable gap in the tendon, or a sudden inability to push off or rise onto your toes on that foot. That's the profile of an acute Achilles rupture, and it can happen with surprisingly little pain once the initial moment passes — a torn tendon can stop hurting fast, which is part of why people talk themselves out of getting it checked. Treat any of those signs as an urgent same-day medical matter, not something to monitor for a few days first.
+
 ## The practical version
 
 Feet are easy to ignore because they're the part of your body you look at least. But they're absorbing every landing, every push, and every mile of pavement between you and the rest of your session. A better insole, a shoe that isn't purely about board feel, and a warm-up that actually reaches your ankles are small changes that do more for how your feet hold up over a season than almost anything else on this list. Catch the early signals, and the foot problems that end other adult skaters' seasons are mostly avoidable.

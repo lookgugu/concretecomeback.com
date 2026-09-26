@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-26T09:17:25.390Z
+# Date: 2026-09-26T09:21:22.881Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -1078,6 +1078,8 @@ Most foot soreness after a session is ordinary adaptation and settles with rest.
 - Any pain that's worsening session over session rather than settling with a few days of rest.
 
 A podiatrist or sports physiotherapist can usually tell within one visit whether what you're dealing with is ordinary overuse that responds to load management, or something that needs imaging and a different plan.
+
+One Achilles symptom pattern is a different category entirely and isn't a wait-and-see situation: a sudden pop or snap you feel or hear, a palpable gap in the tendon, or a sudden inability to push off or rise onto your toes on that foot. That's the profile of an acute Achilles rupture, and it can happen with surprisingly little pain once the initial moment passes — a torn tendon can stop hurting fast, which is part of why people talk themselves out of getting it checked. Treat any of those signs as an urgent same-day medical matter, not something to monitor for a few days first.
 
 ## The practical version
 
