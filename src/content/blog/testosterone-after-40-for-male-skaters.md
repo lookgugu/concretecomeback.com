@@ -38,7 +38,7 @@ The changes that matter for an active adult, and for skating specifically, show 
 
 Fatigue, a real drop in strength or motivation, reduced libido, and mood changes that persist for weeks rather than days are the signals worth taking to a doctor, not something to self-diagnose from a symptom list. A blood test gives you an actual number rather than a guess, and it's worth ruling out other causes — thyroid issues, depression, sleep apnea, and several other conditions produce overlapping symptoms — before assuming testosterone is the explanation.
 
-Testosterone swings with time of day, food, illness, and normal day-to-day variation, so a single result isn't a diagnosis. Levels are highest in the morning, which is why the test should be drawn then, and a low morning reading is confirmed with a second early-morning test on a separate day before anyone treats it as a real finding rather than noise.
+Testosterone swings with time of day, food, illness, and normal day-to-day variation, so a single result isn't a diagnosis. Levels are highest in the morning, which is why the test should be drawn then, and fasting — a meal beforehand can temporarily suppress the number. A low fasting, early-morning reading is confirmed with a second fasting, early-morning test on a separate day before anyone treats it as a real finding rather than noise.
 
 If a confirmed test does come back low, that's a conversation to have with a doctor who can weigh the actual risks and benefits of treatment for your specific situation, not something to self-manage based on internet forums. TRT is a real medical intervention with real trade-offs, not a supplement.
 
