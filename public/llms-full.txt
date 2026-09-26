@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-26T02:24:39.581Z
+# Date: 2026-09-26T15:03:00.034Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -1039,6 +1039,51 @@ It's also, ironically, a period where injuries can tick up slightly if people le
 ## What to do with this map
 
 None of these timelines are exact, and your own comeback will run faster or slower depending on your starting fitness, how often you skate, and plain luck with injuries. The point of laying it out isn't to give you a schedule to measure yourself against anxiously. It's so that when you hit the month-three plateau, or the week-one soreness, or the month-five confidence that suddenly makes you want to try something bigger, you recognize it as a known, normal stage of the process — not a sign that something's wrong, and not a sign you need to push harder than you already are. Just a sign you're exactly where a comeback is supposed to be at that point.
+
+
+### What Podiatrists Want Adult Skaters Over 40 to Know About Their Feet
+The post-40 foot behaves differently under a skateboard. Here's what changes, what podiatrists actually recommend, and which symptoms mean stop and get it checked.
+
+This site has covered ankles, wrists, knees, hips, and lower backs. Feet keep getting left out, which is strange, because everything that happens on a skateboard happens through them first. If you're skating regularly in your 40s or beyond and something in your feet has started nagging at you, this is the post that's specifically about that.
+
+## Why the post-40 foot is a different foot
+
+A few ordinary aging changes affect skating more than most people expect.
+
+**Your heel fat pad thins.** The cushioning layer under your heel bone — the part that absorbs impact every time your foot lands — gradually loses volume and elasticity with age. Ultrasound studies find the heel pad thinner and less elastic in older adults, and it's the loss of elasticity, more than raw thickness, that has been linked to heel pain. It's the same reason walking barefoot on hard floors feels different at 45 than it did at 25. On a skateboard, where your heel takes repeated jolts every time you land a drop-in, ride out a bump, or just push off hard pavement, a thinner heel pad means more of that impact reaches bone and joint rather than getting absorbed on the way through.
+
+**Your Achilles tendon loses resilience.** Tendon is living tissue that remodels slowly, and with age its collagen becomes more cross-linked, its water content drops, and its tolerance for repetitive loading falls. Counter-intuitively, in-vivo studies find the older Achilles is more compliant, not stiffer: it stores and returns energy less efficiently and copes worse with sudden loads. The Achilles does the most work every time you push, pop, or absorb a landing, and Achilles tendinopathy is largely a condition of middle age — its incidence rises from the 40s in athletes and non-athletes alike — so it deserves its own warm-up rather than an afterthought.
+
+**Your arch and plantar fascia take on more strain.** The plantar fascia — the band of tissue running along the bottom of your foot — has to work harder to stabilize your arch as supporting muscles and tissue elasticity decline with age. Plantar fasciitis, despite the name, is usually degenerative rather than classically inflamed tissue — ongoing microtearing and disorganized collagen from repeated strain, not a short-lived inflammatory flare. It shows up as a sharp, specific pain under the heel, particularly first thing in the morning or when you stand up after sitting, and becomes meaningfully more common from your 40s on, in skaters and non-skaters alike.
+
+None of this means your feet are falling apart. It means the margin for skating on the wrong shoes, skipping a warm-up, or ignoring an early ache is smaller than it used to be.
+
+## What podiatrists actually recommend
+
+**Cushioning over pure board feel.** Flat-soled skate shoes are built for board feel, which matters for flip tricks and ledge work but does nothing for your heel on landings. If you're skating primarily for fitness, cruising, or park riding rather than technical street tricks, a shoe with genuine heel cushioning — or a quality aftermarket insole added to a flatter skate shoe — is a reasonable trade to make. See [the skate shoes guide](/blog/skate-shoes-for-adults-over-40/) for specific models that balance the two.
+
+**A real sport insole, not a drugstore gel pad.** A proper insole is shaped to support your specific arch and distribute heel impact rather than just adding a thin layer of foam. It's a genuinely underused upgrade — [the gear guide for aging joints](/blog/gear-for-aging-joints/) covers what to look for and roughly what to expect to spend.
+
+**Warm up your feet and ankles specifically, not just your legs.** Ankle circles, calf raises, and a few minutes of walking on the balls of your feet before you push off do more for a stiff Achilles and a cold plantar fascia than stretching your quads does. If you already have a warm-up routine, check it actually reaches your feet rather than stopping at your hips — [the warm-up guide](/blog/warm-up-routine-for-adult-skaters/) has a version that does.
+
+**Don't skate through morning heel pain.** That first-step-out-of-bed stab under your heel is close to a textbook plantar fasciitis symptom, and it tends to get worse with continued unmanaged loading, not better. Catching it early — rest, a proper insole, calf and plantar fascia stretching, and a podiatrist visit if it doesn't ease within a couple of weeks — is a much shorter path back than skating through it for two months first.
+
+## Symptoms that mean stop and get it checked
+
+Most foot soreness after a session is ordinary adaptation and settles with rest. A few patterns are worth an actual appointment rather than waiting it out:
+
+- Sharp, localized heel pain that's worse with your first steps in the morning and doesn't ease as you warm up during the day.
+- Pain along the Achilles tendon that's tender to the touch, especially if there's any swelling or a sense the tendon feels thicker than usual.
+- Numbness, tingling, or a burning sensation across the ball of the foot, which can point to nerve irritation rather than a simple overuse ache.
+- Any pain that's worsening session over session rather than settling with a few days of rest.
+
+A podiatrist or sports physiotherapist can usually tell within one visit whether what you're dealing with is ordinary overuse that responds to load management, or something that needs imaging and a different plan.
+
+One Achilles symptom pattern is a different category entirely and isn't a wait-and-see situation: a sudden pop or snap you feel or hear, a palpable gap in the tendon, or a sudden inability to push off or rise onto your toes on that foot. That's the profile of an acute Achilles rupture, and it can happen with surprisingly little pain once the initial moment passes — a torn tendon can stop hurting fast, which is part of why people talk themselves out of getting it checked. Treat any of those signs as an urgent same-day medical matter, not something to monitor for a few days first.
+
+## The practical version
+
+Feet are easy to ignore because they're the part of your body you look at least. But they're absorbing every landing, every push, and every mile of pavement between you and the rest of your session. A better insole, a shoe that isn't purely about board feel, and a warm-up that actually reaches your ankles are small changes that do more for how your feet hold up over a season than almost anything else on this list. Catch the early signals, and the foot problems that end other adult skaters' seasons are mostly avoidable.
 
 
 ### Gear That Makes a Difference When You're Skating Over 40
@@ -4217,6 +4262,88 @@ Not necessarily. A surfskate is closer to a cross-training tool than a straight 
 But as a first board — something to build balance, get comfortable being on wheels again, and enjoy the ride from week one — it's a genuinely underrated option. It rewards a smooth, controlled, low-impact style of riding that tends to come more naturally to an adult body than trying to relearn pop tricks from twenty years ago.
 
 If your local shop carries one, ask to try it in the parking lot before you commit. It's different enough from what you remember that a five-minute test ride is worth more than any spec sheet.
+
+
+### Testosterone After 40: What It Means for Male Skaters
+Testosterone declines gradually after 40 and can affect recovery and bone health for some men. Here's what that means for skating and what actually helps.
+
+This site already has [a piece on perimenopause and joints](/blog/perimenopause-joints-and-skateboarding/) for the hormonal changes women navigate returning to skating in their 40s and beyond. Men go through their own gradual hormonal shift over the same decades, and it gets talked about far less — usually either ignored entirely or wrapped up in TRT marketing that oversells what's actually going on. Here's the practical, non-hyped version, and what it means for the specific demands skating puts on your body.
+
+## What actually happens
+
+Testosterone doesn't fall off a cliff the way estrogen does around menopause. It's a slow, gradual decline that typically starts in your 30s and continues at a modest rate — commonly cited estimates put it somewhere around one to two percent a year on average — through your 40s, 50s, and beyond. There's real individual variation: sleep quality, body composition, chronic stress, and underlying health conditions all move the number around, and some men in their 50s test well within a normal range while others test low.
+
+The changes that matter for an active adult, and for skating specifically, show up gradually rather than suddenly:
+
+**Slower tissue repair, for some men.** Testosterone plays a role in how efficiently the body repairs muscle and connective tissue after load, so for men whose levels have dropped meaningfully, that can be part of the picture. It's one contributor among several, though, not a guarantee — plenty of the same fall or hard session shaking off in a day at 30 and taking three at 50 comes down to ordinary aging, training load, sleep, and recovery habits, with or without any change in testosterone specifically.
+
+**Gradual bone density changes.** Testosterone supports bone density in men the way estrogen does in women, just less abruptly. Combined with the ordinary age-related bone density decline everyone experiences, this is part of why impact-bearing activity — which skating provides in a useful, moderate way — matters more, not less, as you get older. See [the osteoporosis and bone density piece](/blog/osteoporosis-bone-density-skateboarding/) for more on that side of it.
+
+**Changes in muscle mass and fat distribution.** Lower testosterone is associated with a gradual shift toward less muscle mass and more fat mass at the same body weight, which is part of why maintaining strength — not just cardio fitness — takes deliberate effort rather than happening automatically the way it might have at 25.
+
+## What the evidence actually supports doing about it
+
+**Resistance training is the highest-leverage lever you control.** Don't count on regular strength training to meaningfully raise a low resting testosterone number — the evidence for that is weak, despite how often it gets repeated. A 2018 systematic review and meta-analysis in *Frontiers in Physiology* (Hayes and Elliott) pooled trials in men aged 60 and over and found resistance training had no measurable effect on resting testosterone, even though the same men still gained muscle and strength. What it reliably does is counteract the muscle-loss and bone-density consequences of lower levels directly, regardless of what your actual number is, which matters just as much. This isn't specific to skating — it's general exercise physiology — but it stacks well with skating, which builds balance and joint control without doing much for raw strength on its own. [The strength training piece](/blog/strength-training-muscles-adult-skaters-neglect/) covers the specific muscle groups adult skaters tend to undertrain.
+
+**Sleep matters more than almost anything else here.** Testosterone production is closely tied to sleep, and sleep loss suppresses it faster than aging does. In a University of Chicago study published in *JAMA* in 2011 (Leproult and Van Cauter), one week of five-hour nights lowered daytime testosterone in healthy young men by 10 to 15 percent — roughly what a decade of normal aging takes off. If you're skating regularly, sleeping poorly, and feeling like recovery has gotten harder than it should, sleep is worth fixing before you look anywhere else. [The sleep and recovery piece](/blog/sleep-most-underrated-skate-recovery-tool/) covers the recovery side of that.
+
+**Body composition and chronic stress both move the number.** Carrying significant excess body fat and running under chronic unmanaged stress both correlate with lower testosterone levels, independent of age. Neither is a quick fix, but both are levers that respond to the same training and lifestyle changes that help everything else on this list.
+
+**Alcohol is worth being honest about.** Regular heavy drinking measurably suppresses testosterone and also degrades the sleep quality that supports it. If you're already managing a slower recovery curve, this is one of the more controllable variables.
+
+## When to actually get tested
+
+Fatigue, a real drop in strength or motivation, reduced libido, and mood changes that persist for weeks rather than days are the signals worth taking to a doctor, not something to self-diagnose from a symptom list. A blood test gives you an actual number rather than a guess, and it's worth ruling out other causes — thyroid issues, depression, sleep apnea, and several other conditions produce overlapping symptoms — before assuming testosterone is the explanation.
+
+Testosterone swings with time of day, food, illness, and normal day-to-day variation, so a single result isn't a diagnosis. Levels are highest in the morning, which is why the test should be drawn then, and fasting — a meal beforehand can temporarily suppress the number. The Endocrine Society's 2018 clinical practice guideline on testosterone therapy asks for exactly that: a fasting, early-morning total testosterone, confirmed with a second fasting, early-morning test on a separate day before anyone treats it as a real finding rather than noise. Around 30 percent of men whose first result comes back low test normal on the repeat.
+
+If a confirmed test does come back low, that's a conversation to have with a doctor who can weigh the actual risks and benefits of treatment for your specific situation, not something to self-manage based on internet forums. TRT is a real medical intervention with real trade-offs, not a supplement.
+
+## The skating-specific takeaway
+
+None of this is a reason to worry, and it's definitely not a reason to chase a hormone number instead of just training well. The practical version is the boring one: lift something heavy twice a week, protect your sleep, keep drinking in check, and let skating do what it already does well — build balance, coordination, and moderate impact tolerance that supports the bone density this whole picture depends on. The men who handle this transition best aren't the ones optimizing a lab number. They're the ones who kept training consistently through it.
+
+
+### Skate Like You've Got Twenty Years, Not Twenty Weeks
+Most adult returners plan their comeback like a 90-day project. Here's what changes about gear, sessions, and goals when you plan for 20 years instead.
+
+Most people who come back to skating as adults frame it, at least at first, as a project with an end point. Get comfortable pushing and turning. Land a few tricks. Feel confident at the local park. Somewhere around three months in, that framing runs out — the project either "succeeded" and you're not sure what's next, or it stalled and quitting starts to look reasonable. I've watched this happen to a lot of people, and it happened to me too, until I stopped thinking about my comeback as a 90-day plan and started thinking about it as a 20-year one.
+
+That single reframe changes more than it sounds like it should.
+
+## The 90-day trap
+
+A near-term goal is useful for getting started — it's hard to motivate yourself with "get good at skating eventually," and a concrete target like "comfortable dropping in by spring" gives you something to aim at. The problem shows up after you hit it, or after you don't.
+
+If you hit the goal, there's often a flat feeling that follows. You did the thing. Now what? Some people drift away here, not because they stopped enjoying skating, but because the structure that was motivating them — the countdown, the milestone — is gone and nothing replaced it.
+
+If you don't hit the goal on schedule, the 90-day frame turns ordinary setbacks into evidence of failure. A nagging ankle that costs you three weeks, a stretch of bad weather, a busy month at work — any of these can look like proof the comeback isn't working, when really they're just the normal texture of an activity you're planning to do for two decades, not two months.
+
+## What changes when the horizon is 20 years
+
+**Setbacks stop being verdicts.** A month off for a minor injury is nothing against a 20-year timeline. It's a rounding error. That reframe alone removes a lot of the anxiety that makes adult skaters quit at exactly the point — [usually somewhere around six months in](/blog/why-adult-skaters-quit-at-six-months/) — where the initial motivation wears off and the activity has to run on something more durable.
+
+**Gear decisions get more conservative, in a good way.** If you're optimizing for the next month, you might push a board setup or a trick attempt that's slightly past what your body's ready for, because the deadline is close. If you're optimizing for two decades, you choose the wider deck, the softer wheels, and the terrain that lets you accumulate hours without accumulating damage — because an injury that costs you six months matters a lot more against a 90-day plan than against a 20-year one, and yet it's the 20-year thinker who ends up avoiding it, precisely because they're not in a hurry.
+
+**Trick selection changes.** A 90-day mindset chases the trick that looks impressive soon. A 20-year mindset asks a different question: is this the kind of skill that keeps paying off, or a one-off flex? Carving, pumping, reading terrain, falling well — the unglamorous fundamentals — are the skills that make every year of skating after this one better. [Bowls over street](/blog/why-bowls-beat-street-for-adult-returners/) is partly this argument in terrain form: transition skating rewards exactly the fundamentals that compound.
+
+**Recovery stops being an obstacle and becomes part of the plan.** If your only goal is a milestone next month, a rest day feels like lost progress. If your goal is still skating at 65, rest days are simply part of how that happens — [the recovery day piece](/blog/recovery-days-for-adult-skaters/) covers the specifics, but the mindset shift matters more than the schedule.
+
+**You stop comparing your session count to anyone else's.** A 20-year plan has room for a slow year, a busy year, a year where an injury or a move or a new job cuts your sessions to almost nothing. None of that ends the plan. It just means this particular year was lighter than the last one. Compare that to a 90-day frame, where a slow month can feel like the whole project falling apart.
+
+## What this looks like in practice
+
+Concretely, thinking on a 20-year horizon means a few habits:
+
+**Track trends, not weeks.** Instead of judging your progress against last week, look at where you are compared to six months ago, or a year ago. [Session tracking](/blog/tracking-skate-sessions-for-progress/) is more useful read as a multi-month trend line than as a daily scorecard.
+
+**Build a body that lasts, not a highlight reel.** Prehab, strength work, and joint-friendly terrain choices are boring compared to trick progress, but they're the difference between skating at 70 and not. [Skating smarter, not harder](/blog/skating-smarter-not-harder-after-40/) is the same idea from a different angle.
+
+**Let some years be about maintenance.** Not every year needs to be a progression year. Some years, showing up consistently and staying healthy is the whole win, and that's fine on a 20-year plan in a way it isn't on a 90-day one.
+
+## The actual point
+
+This isn't really about tricks or gear. It's about what happens to your motivation when the finish line moves from three months away to something closer to the rest of your life. Oddly, it takes the pressure off rather than adding to it — there's no deadline to fail, just a long, ongoing thing you're doing because it's good for you and you enjoy it. Plan for 20 years, and the next 90 days take care of themselves.
 
 
 ### Tony Hawk Is 58 and Still Skating — What He's Finally Learned
