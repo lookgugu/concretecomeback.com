@@ -1,0 +1,412 @@
+{
+  "AU|australian capital territory|canberra": {
+    "lat": -35.2976,
+    "lng": 149.1013,
+    "source": "Canberra, District of Canberra Central, Australian Capital Territory, 2600, Australia"
+  },
+  "AU|new south wales|alexandria": {
+    "lat": -33.9092,
+    "lng": 151.1921,
+    "source": "Alexandria, Sydney, New South Wales, 2015, Australia"
+  },
+  "AU|new south wales|newcastle": {
+    "lat": -32.9193,
+    "lng": 151.7795,
+    "source": "Newcastle, Newcastle-Maitland, New South Wales, 2300, Australia"
+  },
+  "AU|new south wales|ryde": {
+    "lat": -33.8016,
+    "lng": 151.1046,
+    "source": "Council of the City of Ryde, Sydney, New South Wales, Australia"
+  },
+  "AU|new south wales|sydney": {
+    "lat": -33.8698,
+    "lng": 151.2083,
+    "source": "Sydney, New South Wales, Australia"
+  },
+  "AU|queensland|alexandra headland": {
+    "lat": -26.6696,
+    "lng": 153.1018,
+    "source": "Alexandra Headland, Sunshine Coast, Queensland, 4572, Australia"
+  },
+  "AU|queensland|brisbane": {
+    "lat": -27.469,
+    "lng": 153.0235,
+    "source": "Brisbane, Queensland, Australia"
+  },
+  "AU|queensland|miami": {
+    "lat": -28.0692,
+    "lng": 153.4351,
+    "source": "Miami, Gold Coast, Queensland, Australia"
+  },
+  "AU|south australia|adelaide": {
+    "lat": -34.9282,
+    "lng": 138.5999,
+    "source": "Adelaide, South Australia, Australia"
+  },
+  "AU|victoria|braybrook": {
+    "lat": -37.7867,
+    "lng": 144.8548,
+    "source": "Braybrook, Melbourne, Victoria, 3019, Australia"
+  },
+  "AU|victoria|melbourne": {
+    "lat": -37.8142,
+    "lng": 144.9632,
+    "source": "Melbourne, Victoria, Australia"
+  },
+  "AU|victoria|prahran": {
+    "lat": -37.85,
+    "lng": 144.9898,
+    "source": "Prahran, Porter Street, Prahran, Melbourne, Victoria, 3181, Australia"
+  },
+  "AU|victoria|tarneit": {
+    "lat": -37.8322,
+    "lng": 144.6946,
+    "source": "Tarneit, Beatrice Way, Tarneit, Melbourne, Victoria, 3029, Australia"
+  },
+  "AU|western australia|busselton": {
+    "lat": -33.6445,
+    "lng": 115.3489,
+    "source": "Busselton, Western Australia, Australia"
+  },
+  "AU|western australia|perth": {
+    "lat": -31.9559,
+    "lng": 115.8606,
+    "source": "Perth, Western Australia, 6000, Australia"
+  },
+  "CA|alberta|calgary": {
+    "lat": 51.0456,
+    "lng": -114.0575,
+    "source": "Calgary, Alberta, Canada"
+  },
+  "CA|alberta|edmonton": {
+    "lat": 53.5462,
+    "lng": -113.4912,
+    "source": "Edmonton, Alberta, Canada"
+  },
+  "CA|british columbia|surrey": {
+    "lat": 49.1913,
+    "lng": -122.8491,
+    "source": "Surrey, Metro Vancouver Regional District, British Columbia, Canada"
+  },
+  "CA|british columbia|vancouver": {
+    "lat": 49.2609,
+    "lng": -123.114,
+    "source": "Vancouver, Metro Vancouver Regional District, British Columbia, Canada"
+  },
+  "CA|british columbia|victoria": {
+    "lat": 48.4283,
+    "lng": -123.365,
+    "source": "Victoria, Capital Regional District, British Columbia, Canada"
+  },
+  "CA|british columbia|whistler": {
+    "lat": 50.1172,
+    "lng": -122.9543,
+    "source": "Whistler Resort Municipality, Squamish-Lillooet Regional District, British Columbia, Canada"
+  },
+  "CA|manitoba|winnipeg": {
+    "lat": 49.8955,
+    "lng": -97.1385,
+    "source": "Winnipeg, Manitoba, Canada"
+  },
+  "CA|ontario|mississauga": {
+    "lat": 43.5885,
+    "lng": -79.6437,
+    "source": "Mississauga, Peel Region, Golden Horseshoe, Ontario, Canada"
+  },
+  "CA|ontario|ottawa": {
+    "lat": 45.4209,
+    "lng": -75.6901,
+    "source": "Ottawa, Eastern Ontario, Ontario, Canada"
+  },
+  "CA|ontario|toronto": {
+    "lat": 43.6535,
+    "lng": -79.3839,
+    "source": "Toronto, Golden Horseshoe, Ontario, Canada"
+  },
+  "CA|quebec|montreal": {
+    "lat": 45.5032,
+    "lng": -73.5698,
+    "source": "Montréal, Agglomération de Montréal, Montréal (région administrative), Québec, Canada"
+  },
+  "CA|quebec|quebec city": {
+    "lat": 46.8137,
+    "lng": -71.2084,
+    "source": "Québec, Agglomération de Québec, Capitale-Nationale, Québec, Canada"
+  },
+  "CA|saskatchewan|saskatoon": {
+    "lat": 52.1318,
+    "lng": -106.6608,
+    "source": "Saskatoon, Saskatchewan, Canada"
+  },
+  "UK||bristol": {
+    "lat": 51.443,
+    "lng": -2.5817,
+    "source": "City of Bristol, West of England, England, United Kingdom"
+  },
+  "UK|derbyshire|derby": {
+    "lat": 52.9233,
+    "lng": -1.4765,
+    "source": "Derby, Derbyshire, East Midlands, England, DE1 3AE, United Kingdom"
+  },
+  "UK|england|brighton": {
+    "lat": 50.8215,
+    "lng": -0.1401,
+    "source": "Brighton, Brighton and Hove, England, BN1 1HJ, United Kingdom"
+  },
+  "UK|england|bristol": {
+    "lat": 51.443,
+    "lng": -2.5817,
+    "source": "City of Bristol, West of England, England, United Kingdom"
+  },
+  "UK|england|havering": {
+    "lat": 51.5579,
+    "lng": 0.2498,
+    "source": "London Borough of Havering, Greater London, England, United Kingdom"
+  },
+  "UK|england|leeds": {
+    "lat": 53.7974,
+    "lng": -1.5438,
+    "source": "Leeds, West Yorkshire, England, LS1 6AL, United Kingdom"
+  },
+  "UK|england|london": {
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "source": "Greater London, England, United Kingdom"
+  },
+  "UK|england|manchester": {
+    "lat": 53.4425,
+    "lng": -2.2325,
+    "source": "Manchester, Greater Manchester, England, United Kingdom"
+  },
+  "UK|england|newquay": {
+    "lat": 50.4134,
+    "lng": -5.0849,
+    "source": "Newquay, Cornwall, England, United Kingdom"
+  },
+  "UK|england|plymouth": {
+    "lat": 50.3714,
+    "lng": -4.1424,
+    "source": "Plymouth, England, United Kingdom"
+  },
+  "UK|england|sheffield": {
+    "lat": 53.3807,
+    "lng": -1.4702,
+    "source": "Sheffield, South Yorkshire, England, United Kingdom"
+  },
+  "UK|england|watford": {
+    "lat": 51.6554,
+    "lng": -0.3957,
+    "source": "Watford, Hertfordshire, England, WD17 2DN, United Kingdom"
+  },
+  "UK|northamptonshire|corby": {
+    "lat": 52.4877,
+    "lng": -0.7033,
+    "source": "Corby, North Northamptonshire, England, NN17 9SD, United Kingdom"
+  },
+  "UK|northern ireland|belfast": {
+    "lat": 54.5964,
+    "lng": -5.9302,
+    "source": "Belfast City District, County Antrim, Northern Ireland / Tuaisceart Éireann, United Kingdom"
+  },
+  "UK|scotland|edinburgh": {
+    "lat": 55.9533,
+    "lng": -3.1884,
+    "source": "City of Edinburgh, Alba / Scotland, United Kingdom"
+  },
+  "UK|scotland|glasgow": {
+    "lat": 55.8612,
+    "lng": -4.2502,
+    "source": "Glasgow, Glasgow City, Alba / Scotland, G2 1AR, United Kingdom"
+  },
+  "UK|wales|cardiff": {
+    "lat": 51.4817,
+    "lng": -3.1792,
+    "source": "Cardiff, Cymru / Wales, CF10 2AF, United Kingdom"
+  },
+  "UK|wales|swansea": {
+    "lat": 51.6196,
+    "lng": -3.9459,
+    "source": "Swansea, Cymru / Wales, SA1 3BN, United Kingdom"
+  },
+  "US|arizona|phoenix": {
+    "lat": 33.4484,
+    "lng": -112.0741,
+    "source": "Phoenix, Maricopa County, Arizona, United States"
+  },
+  "US|california|fresno": {
+    "lat": 36.7394,
+    "lng": -119.7848,
+    "source": "Fresno, Fresno County, California, United States"
+  },
+  "US|california|los angeles": {
+    "lat": 34.0537,
+    "lng": -118.2428,
+    "source": "Los Angeles, Los Angeles County, California, United States"
+  },
+  "US|california|san diego": {
+    "lat": 32.7157,
+    "lng": -117.1638,
+    "source": "San Diego, San Diego County, California, United States"
+  },
+  "US|california|san francisco": {
+    "lat": 37.7879,
+    "lng": -122.4075,
+    "source": "San Francisco, California, United States"
+  },
+  "US|california|san jose": {
+    "lat": 37.3362,
+    "lng": -121.8906,
+    "source": "San Jose, Santa Clara County, California, United States"
+  },
+  "US|california|santa monica": {
+    "lat": 34.0195,
+    "lng": -118.4912,
+    "source": "Santa Monica, Los Angeles County, California, United States"
+  },
+  "US|colorado|denver": {
+    "lat": 39.7392,
+    "lng": -104.9849,
+    "source": "Denver, Colorado, United States"
+  },
+  "US|florida|jacksonville": {
+    "lat": 30.3262,
+    "lng": -81.6579,
+    "source": "Jacksonville, Duval County, Florida, United States"
+  },
+  "US|florida|tampa": {
+    "lat": 27.945,
+    "lng": -82.4583,
+    "source": "Tampa, Hillsborough County, Florida, United States"
+  },
+  "US|georgia|atlanta": {
+    "lat": 33.7545,
+    "lng": -84.3898,
+    "source": "Atlanta, Fulton County, Georgia, United States"
+  },
+  "US|illinois|chicago": {
+    "lat": 41.8756,
+    "lng": -87.6244,
+    "source": "Chicago, South Chicago Township, Cook County, Illinois, United States"
+  },
+  "US|iowa|des moines": {
+    "lat": 41.5869,
+    "lng": -93.6249,
+    "source": "Des Moines, Polk County, Iowa, United States"
+  },
+  "US|kentucky|louisville": {
+    "lat": 38.2542,
+    "lng": -85.7594,
+    "source": "Louisville, Jefferson County, Kentucky, United States"
+  },
+  "US|massachusetts|boston": {
+    "lat": 42.3588,
+    "lng": -71.0578,
+    "source": "Boston, Suffolk County, Massachusetts, United States"
+  },
+  "US|massachusetts|cambridge": {
+    "lat": 42.3656,
+    "lng": -71.104,
+    "source": "Cambridge, Middlesex County, Massachusetts, United States"
+  },
+  "US|michigan|ann arbor": {
+    "lat": 42.2814,
+    "lng": -83.7485,
+    "source": "Ann Arbor, Washtenaw County, Michigan, United States"
+  },
+  "US|minnesota|golden valley": {
+    "lat": 44.9861,
+    "lng": -93.3785,
+    "source": "Golden Valley, Hennepin County, Minnesota, United States"
+  },
+  "US|nevada|north las vegas": {
+    "lat": 36.2005,
+    "lng": -115.1215,
+    "source": "North Las Vegas, Clark County, Nevada, United States"
+  },
+  "US|new york|new york": {
+    "lat": 40.7127,
+    "lng": -74.006,
+    "source": "New York, United States"
+  },
+  "US|new york|queens": {
+    "lat": 40.7135,
+    "lng": -73.8283,
+    "source": "Queens, Queens County, New York, United States"
+  },
+  "US|north carolina|apex": {
+    "lat": 35.7325,
+    "lng": -78.8506,
+    "source": "Apex, Wake County, North Carolina, 27502, United States"
+  },
+  "US|ohio|lakewood": {
+    "lat": 41.482,
+    "lng": -81.7982,
+    "source": "Lakewood, Cuyahoga County, Ohio, 44107, United States"
+  },
+  "US|oregon|portland": {
+    "lat": 45.5202,
+    "lng": -122.6742,
+    "source": "Portland, Multnomah County, Oregon, United States"
+  },
+  "US|pennsylvania|philadelphia": {
+    "lat": 39.9527,
+    "lng": -75.1635,
+    "source": "Philadelphia, Philadelphia County, Pennsylvania, United States"
+  },
+  "US|tennessee|nashville": {
+    "lat": 36.1623,
+    "lng": -86.7743,
+    "source": "Nashville, Davidson County, Middle Tennessee, Tennessee, United States"
+  },
+  "US|texas|austin": {
+    "lat": 30.2711,
+    "lng": -97.7437,
+    "source": "Austin, Travis County, Texas, United States"
+  },
+  "US|texas|houston": {
+    "lat": 29.7589,
+    "lng": -95.3677,
+    "source": "Houston, Harris County, Texas, United States"
+  },
+  "US|texas|plano": {
+    "lat": 33.0137,
+    "lng": -96.6925,
+    "source": "Plano, Collin County, Texas, United States"
+  },
+  "US|texas|south houston": {
+    "lat": 29.663,
+    "lng": -95.2355,
+    "source": "South Houston, Harris County, Texas, 77587, United States"
+  },
+  "US|virginia|arlington": {
+    "lat": 38.8769,
+    "lng": -77.0893,
+    "source": "Arlington County, Virginia, United States"
+  },
+  "US|washington|seattle": {
+    "lat": 47.6038,
+    "lng": -122.3301,
+    "source": "Seattle, King County, Washington, United States"
+  },
+  "AU": {
+    "lat": -33.5878,
+    "lng": 144.2172,
+    "source": "derived: mean of 15 listed AU cities"
+  },
+  "CA": {
+    "lat": 48.3536,
+    "lng": -100.2405,
+    "source": "derived: mean of 13 listed CA cities"
+  },
+  "UK": {
+    "lat": 52.5479,
+    "lng": -2.3614,
+    "source": "derived: mean of 17 listed UK cities"
+  },
+  "US": {
+    "lat": 37.4137,
+    "lng": -95.7037,
+    "source": "derived: mean of 32 listed US cities"
+  }
+}
