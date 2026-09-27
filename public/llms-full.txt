@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-27T09:25:32.689Z
+# Date: 2026-09-27T09:28:52.188Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -482,7 +482,7 @@ The caution here isn't about undermining training — it's cardiovascular. Sauna
 
 **Skip cold immersion immediately after a session focused on strength or skill-building you actually want to improve.** The research behind the adaptation-blunting concern tests immersion right after exercise, in that narrow post-workout window — it doesn't establish a specific safe cutoff afterward, and the biological signals that drive adaptation keep running for hours, not minutes. Waiting until later that evening or the next day is a reasonable, lower-risk habit if soreness reduction is still your goal, but treat it as an untested guess at caution, not a confirmed workaround that fully protects your gains.
 
-**Cold immersion is the more useful choice before an event or a demanding stretch where feeling fresh matters more than long-term adaptation** — a tournament, a trip where you want to skate every day, a physically demanding week where showing up rested matters more than optimizing for the next training cycle. "More useful" isn't "unrestricted," though: the cardiovascular caution above still applies every time, event or not.
+**Cold immersion is the more useful choice between sessions of a demanding stretch where feeling fresh matters more than long-term adaptation** — the evening after day one of a multi-day trip where you're skating every day, or between rounds of a tournament, rather than immediately before you get back on the board. Cold exposure without time to rewarm can leave muscles measurably cooler, less powerful, and less coordinated for a while afterward, which is a fall risk on a board rather than just a performance dip — so build in a few hours, not minutes, between a cold session and your next time riding. The cardiovascular caution above still applies every time, event or not.
 
 **Sauna use has more flexibility around timing**, since it doesn't carry the same adaptation-blunting concern — but skip it when you're already dehydrated, and rehydrate properly before you use one after a hard session.
 
