@@ -24,6 +24,8 @@ Most of what we know about cold water immersion and sauna use for recovery comes
 
 **The practical read:** if you're chasing pure adaptation — trying to build strength, bone density, or connective tissue resilience over months — routine cold immersion after every session may be working slightly against you. If you need to recover fast for a specific reason — a competition, a trip, a physically demanding week ahead — using it selectively makes more sense than making it a daily ritual.
 
+**Cold immersion carries its own cardiovascular caution, separate from sauna's.** Sudden cold exposure triggers a cold-shock response — an abrupt gasp reflex, spike in breathing rate, heart rate, and blood pressure — that can provoke a dangerous arrhythmia in someone with hypertension, an existing heart rhythm condition, or other cardiovascular disease. This isn't a reason to avoid cold immersion outright, but it is a reason to get medical clearance first if any of that applies to you, to ease in with a cold shower or a moderately cool bath before a full ice-water plunge, and to keep sessions short — a couple of minutes is plenty to get the soreness-reduction effect research actually supports, and there's no evidence that colder or longer is better once you're past that point.
+
 ## Sauna and heat: a different, less contested case
 
 Sauna use has a better-established case for general cardiovascular and recovery benefit, largely from a long-running body of Finnish population research linking regular sauna use to lower cardiovascular risk over time, plus more mechanistic work on heat exposure improving blood vessel function and triggering some of the same cellular stress-adaptation pathways that exercise itself does.
@@ -36,7 +38,7 @@ The caution here isn't about undermining training — it's cardiovascular. Sauna
 
 **Skip cold immersion immediately after a session focused on strength or skill-building you actually want to improve.** Give the adaptation window some room — later that evening or the next day is a more sensible time if soreness reduction is still your goal, since the concern is mainly about immersion happening in the same narrow post-exercise window where the adaptation signal is strongest.
 
-**Use cold immersion freely before an event or a demanding stretch where feeling fresh matters more than long-term adaptation.** This is the clearest, least controversial use case: a tournament, a trip where you want to skate every day, a physically demanding week where showing up rested matters more than optimizing for the next training cycle.
+**Cold immersion is the more useful choice before an event or a demanding stretch where feeling fresh matters more than long-term adaptation** — a tournament, a trip where you want to skate every day, a physically demanding week where showing up rested matters more than optimizing for the next training cycle. "More useful" isn't "unrestricted," though: the cardiovascular caution above still applies every time, event or not.
 
 **Sauna use has more flexibility around timing**, since it doesn't carry the same adaptation-blunting concern — but skip it when you're already dehydrated, and rehydrate properly before you use one after a hard session.
 
