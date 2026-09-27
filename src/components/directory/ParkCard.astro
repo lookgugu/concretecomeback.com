@@ -2,6 +2,7 @@
 import type { CollectionEntry } from 'astro:content';
 import CountryBadge from './CountryBadge.astro';
 import FeatureBadge from './FeatureBadge.astro';
+import { cardPosition } from './cardPosition';
 
 interface Props {
   entry: CollectionEntry<'parks'>;
@@ -26,6 +27,8 @@ const dataAttrs = {
   // Tags are searchable so a metro alias ("boston" for a park in Cambridge) is
   // findable without misstating the venue's actual municipality in `city`.
   'data-tags': (tags ?? []).join(' ').toLowerCase(),
+  // Position for the "near me" sort; absent when the city has no centroid.
+  ...cardPosition(entry.data),
 };
 ---
 <article
@@ -55,7 +58,9 @@ const dataAttrs = {
       <CountryBadge country={country} />
     </div>
 
-    <p class="text-sm text-concrete-500 mb-3">{location}</p>
+    <p class="text-sm text-concrete-500 mb-3">
+      {location}<span data-distance class="text-skate-orange font-medium" hidden></span>
+    </p>
 
     <div class="flex flex-wrap gap-1.5 mb-3">
       <FeatureBadge label={difficulty} variant="difficulty" />

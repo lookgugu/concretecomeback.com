@@ -47,6 +47,16 @@ npx astro check    # TypeScript/Astro diagnostics
 
 The script selects `#directory-grid > article` — a card wrapped in an extra element silently stops filtering. Attribute names map to camelCase in `dataset` (`data-adult-advice` → `dataset.adultAdvice`). No JS framework.
 
+**Directory proximity sort** ("Find near me") adds a fourth file to that group and one generated data file:
+1. `src/data/city-coords.json` — city centroids, **generated** by `node scripts/geocode-cities.mjs` (Nominatim, 1 req/sec, cached so a rerun only fetches genuinely new cities; a failed lookup keeps the previous row and exits non-zero). Rows are keyed `COUNTRY|state|city` (folded: lowercase, diacritics stripped, so `Montréal`/`Montreal` are one row) — the state segment is what keeps Portland, OR apart from a future Portland, ME. Each row keeps the `source` display name it matched, so a wrong match is reviewable instead of being two anonymous numbers. Country rows (bare `"UK"`) are *not* geocoded — free-form country lookup returns nonsense (Nominatim puts "Canada" in Bolivia) — they are the mean of that country's listed cities.
+2. `src/scripts/geo-distance.js` — `resolveCoords`/`haversineKm`/`formatDistance` plus the `NATIONWIDE` set, imported both at build time (by the cards and the geocoder) and at runtime (by the filter script). Covered by `src/scripts/geo-distance.test.js`.
+3. `cardPosition.ts` stamps each card with `data-lat`, `data-lng` and `data-position` (`exact` | `city` | `country`). **It throws — failing the build — for any non-online entry it cannot position**, naming the file and the geocoder command. That is the enforcement for new cities; there is deliberately no separate frontmatter-parsing test, because zod has already parsed the data here.
+4. The `sortByDistance` block in `DirectoryFilter.astro` orders cards with the CSS `order` property — **not** by moving nodes, so the server-rendered DOM order (what a no-JS visitor and a crawler see) is untouched.
+
+An entry's position is its own frontmatter `coordinates` if present (optional on all three collections), else — when its city is one of the `NATIONWIDE` placeholders (`Various`, `Nationwide`, `Countrywide`; that set is the single source of truth) — its country centroid, else its city centroid. A `country`-precision card sorts but shows **no** distance label, because that position is a sort anchor rather than a place. The nationwide check runs *before* the city lookup so a stray geocoded placeholder can never surface as a driveable distance.
+
+The visitor's coordinates deliberately stay out of the URL (filter state is meant to be shared; a location is not) and live in `sessionStorage` under `cc-near-me`, which is what re-applies the sort across `/directory/parks`, `/directory/shops` and `/directory/groups` without a second permission prompt. Geolocation is only ever requested from the explicit button, which toggles: while a sort is active, clicking it undoes the sort alone. A geolocation answer that lands after the visitor has reset is dropped via a generation token rather than undoing the reset.
+
 **Submit form conditional sections** need *two* markers on the same element, driving two mechanisms:
 - `.park-fields` / `.shop-fields` / `.group-fields` — the CSS `:has()` rules in `global.css` that control visibility.
 - `data-listing-section="park|shop|group"` — read by `initListingTypeFields` in `src/scripts/submit-form.js`, which disables controls in inactive sections so the browser omits them from the submission.
@@ -71,6 +81,7 @@ Create a `.md` file in the appropriate `src/content/{collection}/{country}/` sub
 - There is no `ONLINE` country. Entries under `groups/online/` still set a real `country` plus `isOnline: true`.
 - Length floors are enforced: `description` min 50 chars everywhere; blog `description` 50–165, blog `title` max 80, blog `tags` 1–8.
 - `addedDate` is required on parks/shops/groups; `pubDate` and `author` are required on blog posts.
+- A listing in a **city (or city + state) not already used by another entry** needs `node scripts/geocode-cities.mjs` rerun and `src/data/city-coords.json` committed — the build fails otherwise (see *Directory proximity sort*). Entries with their own `coordinates` are exempt.
 - `googleMapsUrl` for parks must use `https://www.google.com/maps/search/?api=1&query=ADDRESS` format — not `maps.app.goo.gl` short links.
 
 ## The submit function

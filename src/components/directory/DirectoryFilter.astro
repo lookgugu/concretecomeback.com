@@ -11,6 +11,28 @@ const { type } = Astro.props;
   <h2 class="font-display text-base text-concrete-800 mb-4 uppercase tracking-wide">Filter</h2>
 
   <form id="directory-filter" class="flex flex-col gap-5">
+    <!-- Near me -->
+    <div>
+      <button
+        type="button"
+        id="filter-locate"
+        aria-pressed="false"
+        class="w-full flex items-center justify-center gap-2 px-3 py-2 text-sm font-medium text-concrete-700 bg-concrete-50 border border-concrete-200 rounded-lg hover:border-skate-orange hover:text-skate-orange transition-colors cursor-pointer disabled:opacity-60 disabled:cursor-wait"
+      >
+        <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true">
+          <path d="M8 0a5.5 5.5 0 0 0-5.5 5.5c0 4.1 5.5 10.5 5.5 10.5s5.5-6.4 5.5-10.5A5.5 5.5 0 0 0 8 0Zm0 7.75A2.25 2.25 0 1 1 8 3.25a2.25 2.25 0 0 1 0 4.5Z"/>
+        </svg>
+        <span id="filter-locate-label">Find near me</span>
+      </button>
+      <p
+        id="filter-location-status"
+        class="text-xs text-concrete-500 mt-1.5 leading-snug"
+        role="status"
+        aria-live="polite"
+        hidden
+      ></p>
+    </div>
+
     <!-- Search -->
     <div>
       <label for="filter-search" class="block text-xs text-concrete-500 uppercase tracking-wide mb-1">Search</label>
@@ -122,6 +144,181 @@ const { type } = Astro.props;
 </div>
 
 <script>
+  import { haversineKm, distanceUnit, formatDistance } from '../../scripts/geo-distance.js';
+
+  // The visitor's position is deliberately kept out of the URL: filter state is
+  // meant to be bookmarked and shared, and a shared link should not carry
+  // someone's coordinates. sessionStorage instead, so the sort survives moving
+  // between /directory/parks, /shops and /groups without a second permission
+  // prompt, and is gone when the tab closes.
+  const ORIGIN_KEY = 'cc-near-me';
+
+  interface Origin { lat: number; lng: number; }
+
+  function readOrigin(): Origin | null {
+    try {
+      const raw = sessionStorage.getItem(ORIGIN_KEY);
+      if (!raw) return null;
+      const parsed = JSON.parse(raw) as Partial<Origin>;
+      if (!Number.isFinite(parsed.lat) || !Number.isFinite(parsed.lng)) return null;
+      return { lat: parsed.lat as number, lng: parsed.lng as number };
+    } catch {
+      // Private browsing, blocked site data, or a corrupt value: fall back to
+      // an unsorted list rather than breaking the whole filter script.
+      return null;
+    }
+  }
+
+  function writeOrigin(origin: Origin | null): void {
+    try {
+      if (origin) sessionStorage.setItem(ORIGIN_KEY, JSON.stringify(origin));
+      else sessionStorage.removeItem(ORIGIN_KEY);
+    } catch { /* not worth failing the sort over */ }
+  }
+
+  function setStatus(message: string): void {
+    const status = document.getElementById('filter-location-status');
+    if (!status) return;
+    // Reveal before writing: a mutation inside a display:none live region is
+    // outside the accessibility tree and screen readers ignore it.
+    status.hidden = !message;
+    status.textContent = message;
+  }
+
+  function setLocateLabel(text: string): void {
+    const label = document.getElementById('filter-locate-label');
+    if (label) label.textContent = text;
+  }
+
+  const SORTED_STATUS =
+    'Nearest first. Distances are approximate — measured to the centre of each town or city. Click again to undo.';
+
+  function showSorted(button: HTMLButtonElement | null): void {
+    setLocateLabel('Sorted by distance');
+    setStatus(SORTED_STATUS);
+    button?.setAttribute('aria-pressed', 'true');
+  }
+
+  function showUnsorted(button: HTMLButtonElement | null): void {
+    setLocateLabel('Find near me');
+    setStatus('');
+    button?.setAttribute('aria-pressed', 'false');
+  }
+
+  // Bumped by every request and by reset. A geolocation answer that arrives
+  // after the visitor has already cleared the filters carries a stale token
+  // and is dropped instead of silently undoing the reset and re-persisting a
+  // position for the rest of the session.
+  let locateGeneration = 0;
+
+  /**
+   * Orders the grid nearest-first and stamps each card with its distance.
+   *
+   * Cards are reordered with the CSS `order` property rather than by moving
+   * nodes, so the server-rendered DOM order stays intact — which is the order a
+   * visitor without JavaScript, and a crawler, still sees. Entries with no
+   * position (online groups, or a city missing from the centroid table) sort
+   * after everything measurable instead of being treated as lat 0, lng 0.
+   */
+  function sortByDistance(origin: Origin): void {
+    const unit = distanceUnit(navigator.language);
+    const cards = Array.from(
+      document.querySelectorAll<HTMLElement>('#directory-grid > article'),
+    );
+
+    const ranked = cards.map((card) => {
+      const lat = Number(card.dataset.lat);
+      const lng = Number(card.dataset.lng);
+      const positioned = Number.isFinite(lat) && Number.isFinite(lng)
+        && (card.dataset.lat ?? '') !== '' && (card.dataset.lng ?? '') !== '';
+      return {
+        card,
+        km: positioned ? haversineKm(origin, { lat, lng }) : Infinity,
+        // A country-precision position is the centre of mass of that country's
+        // listings, so it orders a nationwide entry sensibly but must never be
+        // reported as a distance anyone could drive.
+        measurable: positioned && card.dataset.position !== 'country',
+      };
+    });
+
+    ranked.sort((a, b) => a.km - b.km);
+
+    ranked.forEach(({ card, km, measurable }, index) => {
+      card.style.order = String(index);
+      const badge = card.querySelector<HTMLElement>('[data-distance]');
+      if (!badge) return;
+      if (measurable && Number.isFinite(km)) {
+        badge.textContent = ` · ${formatDistance(km, unit)}`;
+        badge.hidden = false;
+      } else {
+        badge.textContent = '';
+        badge.hidden = true;
+      }
+    });
+  }
+
+  /** Undoes sortByDistance, restoring the server-rendered order. */
+  function clearDistanceSort(button: HTMLButtonElement | null): void {
+    locateGeneration++;
+    writeOrigin(null);
+    document.querySelectorAll<HTMLElement>('#directory-grid > article').forEach((card) => {
+      card.style.removeProperty('order');
+      const badge = card.querySelector<HTMLElement>('[data-distance]');
+      if (badge) {
+        badge.textContent = '';
+        badge.hidden = true;
+      }
+    });
+    if (button) button.disabled = false;
+    showUnsorted(button);
+  }
+
+  function geolocationErrorMessage(err: GeolocationPositionError): string {
+    switch (err.code) {
+      case err.PERMISSION_DENIED:
+        return 'Location access was blocked. You can still search by city above.';
+      case err.POSITION_UNAVAILABLE:
+        return "Couldn't work out where you are. Try searching by city instead.";
+      case err.TIMEOUT:
+        return 'Finding your location took too long. Try again, or search by city.';
+      default:
+        return 'Something went wrong finding your location. Try searching by city.';
+    }
+  }
+
+  function requestLocation(button: HTMLButtonElement): void {
+    if (!('geolocation' in navigator)) {
+      setStatus('This browser cannot share your location. Search by city instead.');
+      return;
+    }
+
+    const generation = ++locateGeneration;
+    button.disabled = true;
+    setLocateLabel('Locating…');
+    setStatus('');
+
+    navigator.geolocation.getCurrentPosition(
+      (position) => {
+        if (generation !== locateGeneration) return;
+        const origin = {
+          lat: position.coords.latitude,
+          lng: position.coords.longitude,
+        };
+        writeOrigin(origin);
+        sortByDistance(origin);
+        button.disabled = false;
+        showSorted(button);
+      },
+      (err) => {
+        if (generation !== locateGeneration) return;
+        button.disabled = false;
+        showUnsorted(button);
+        setStatus(geolocationErrorMessage(err));
+      },
+      { enableHighAccuracy: false, timeout: 10000, maximumAge: 600000 },
+    );
+  }
+
   function debounce<T extends (...args: unknown[]) => void>(fn: T, ms: number): T {
     let id: ReturnType<typeof setTimeout>;
     return ((...args: unknown[]) => { clearTimeout(id); id = setTimeout(() => fn(...args), ms); }) as T;
@@ -204,12 +401,33 @@ const { type } = Astro.props;
 
     applyFilters();
 
+    // The button toggles: while a sort is active, clicking it undoes the sort
+    // alone. Otherwise the only way out was "Clear filters", which also wipes
+    // every other filter and the session-wide position with it.
+    const locate = document.getElementById('filter-locate') as HTMLButtonElement | null;
+    if (locate) {
+      locate.addEventListener('click', () => {
+        if (readOrigin()) clearDistanceSort(locate);
+        else requestLocation(locate);
+      });
+    }
+
+    // A position shared earlier this session re-applies silently: the browser
+    // has already been asked, so asking again on every directory page would be
+    // noise.
+    const stored = readOrigin();
+    if (stored) {
+      sortByDistance(stored);
+      showSorted(locate);
+    }
+
     const debouncedSync = debounce(() => syncToURL(form), 200);
     form.addEventListener('input', debouncedSync);
 
     form.addEventListener('reset', () => {
       requestAnimationFrame(() => {
         history.replaceState(null, '', window.location.pathname);
+        clearDistanceSort(locate);
         applyFilters();
       });
     });
