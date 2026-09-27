@@ -211,20 +211,34 @@ const { type } = Astro.props;
   // position for the rest of the session.
   let locateGeneration = 0;
 
+  // The sort that is currently applied. This — not sessionStorage — is what
+  // the toggle consults: storage exists only to carry the position to the next
+  // directory page, and it can be blocked (private browsing, cleared site
+  // data), in which case the sort must still be undoable on this page.
+  let activeOrigin: Origin | null = null;
+
+  // The server-rendered card order, captured before the first reorder so the
+  // sort can be undone exactly.
+  let originalOrder: HTMLElement[] | null = null;
+
   /**
    * Orders the grid nearest-first and stamps each card with its distance.
    *
-   * Cards are reordered with the CSS `order` property rather than by moving
-   * nodes, so the server-rendered DOM order stays intact — which is the order a
-   * visitor without JavaScript, and a crawler, still sees. Entries with no
-   * position (online groups, or a city missing from the centroid table) sort
-   * after everything measurable instead of being treated as lat 0, lng 0.
+   * Cards are physically moved in the DOM, not just given a CSS `order`, so
+   * keyboard focus order and screen-reader reading order match what the
+   * screen shows after the status announces "Nearest first". The served HTML
+   * is unaffected either way — this only ever runs after a visitor's click —
+   * and `originalOrder` lets clearDistanceSort restore it exactly. Entries
+   * with no position (online groups) sort after everything measurable
+   * instead of being treated as lat 0, lng 0.
    */
   function sortByDistance(origin: Origin): void {
+    const grid = document.getElementById('directory-grid');
+    if (!grid) return;
     const unit = distanceUnit(navigator.language);
-    const cards = Array.from(
-      document.querySelectorAll<HTMLElement>('#directory-grid > article'),
-    );
+    const cards = Array.from(grid.querySelectorAll<HTMLElement>(':scope > article'));
+    originalOrder ??= cards.slice();
+    activeOrigin = origin;
 
     const ranked = cards.map((card) => {
       const lat = Number(card.dataset.lat);
@@ -243,8 +257,10 @@ const { type } = Astro.props;
 
     ranked.sort((a, b) => a.km - b.km);
 
-    ranked.forEach(({ card, km, measurable }, index) => {
-      card.style.order = String(index);
+    // append() re-inserts each card in ranked order in a single pass.
+    grid.append(...ranked.map(({ card }) => card));
+
+    ranked.forEach(({ card, km, measurable }) => {
       const badge = card.querySelector<HTMLElement>('[data-distance]');
       if (!badge) return;
       if (measurable && Number.isFinite(km)) {
@@ -260,9 +276,11 @@ const { type } = Astro.props;
   /** Undoes sortByDistance, restoring the server-rendered order. */
   function clearDistanceSort(button: HTMLButtonElement | null): void {
     locateGeneration++;
+    activeOrigin = null;
     writeOrigin(null);
+    const grid = document.getElementById('directory-grid');
+    if (grid && originalOrder) grid.append(...originalOrder);
     document.querySelectorAll<HTMLElement>('#directory-grid > article').forEach((card) => {
-      card.style.removeProperty('order');
       const badge = card.querySelector<HTMLElement>('[data-distance]');
       if (badge) {
         badge.textContent = '';
@@ -407,7 +425,7 @@ const { type } = Astro.props;
     const locate = document.getElementById('filter-locate') as HTMLButtonElement | null;
     if (locate) {
       locate.addEventListener('click', () => {
-        if (readOrigin()) clearDistanceSort(locate);
+        if (activeOrigin) clearDistanceSort(locate);
         else requestLocation(locate);
       });
     }
