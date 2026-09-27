@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-27T09:28:52.188Z
+# Date: 2026-09-27T09:32:15.300Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -490,7 +490,7 @@ The caution here isn't about undermining training — it's cardiovascular. Sauna
 
 ## A practical home version, if you're not buying equipment
 
-You don't need a purpose-built cold plunge tub or a home sauna to test any of this. A cold shower for a few minutes, or an ice bath in a regular tub with a couple of bags of ice, gives you most of the practical effect people are chasing. A local gym or spa with sauna access is a reasonable way to try heat exposure a few times before deciding it's worth a bigger investment. Try either for a few weeks, pay attention to how your soreness and your actual training progress respond, and let that — not the wellness-media hype cycle — decide whether it earns a permanent spot in your routine.
+You don't need a purpose-built cold plunge tub or a home sauna to test any of this, but "a couple of bags of ice" isn't a controlled temperature — a small tub with a lot of ice gets far colder than a large one with a little, and neither reliably lands in the roughly 10–15°C range the research behind this actually tested. A cheap pool or aquarium thermometer removes the guesswork; a cold shower is a gentler, lower-risk starting point than an unmeasured ice bath while you're still working out how your body responds. A local gym or spa with sauna access is a reasonable way to try heat exposure a few times before deciding it's worth a bigger investment. Try either for a few weeks, pay attention to how your soreness and your actual training progress respond, and let that — not the wellness-media hype cycle, and not a guess at water temperature — decide whether it earns a permanent spot in your routine.
 
 
 ### How to Actually Commit to the Drop-In at Any Age
