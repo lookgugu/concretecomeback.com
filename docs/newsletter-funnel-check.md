@@ -68,10 +68,14 @@ subject `CC newsletter check`. Under 150 words:
 2. confirmation emails sent in the last 24h,
 3. what it means — but only where these two numbers settle it.
 
-When submissions and subscribers are both zero, they do **not** settle it: "the
+**Whenever submissions in the last 24h are zero**, they do not settle it: "the
 CTA was never seen" and "it was seen and declined" produce identical numbers and
 are told apart only by `popup_shown`, which this routine cannot read. Say the
 diagnosis is pending the manual GA4 check. Do not pick one.
+
+This keys on submissions alone, never on the subscriber total — subscribers is a
+cumulative count, so once a real subscriber exists it stays non-zero through
+every quiet day and would otherwise mask exactly the case this rule protects.
 
 State plainly when nothing has changed. A quiet day is a valid result and should
 read as one sentence, not a padded report.
