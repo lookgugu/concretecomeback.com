@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-27T09:16:43.230Z
+# Date: 2026-09-27T09:21:19.733Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -480,7 +480,7 @@ The caution here isn't about undermining training — it's cardiovascular. Sauna
 
 ## Timing, if you're going to use either
 
-**Skip cold immersion immediately after a session focused on strength or skill-building you actually want to improve.** Give the adaptation window some room — later that evening or the next day is a more sensible time if soreness reduction is still your goal, since the concern is mainly about immersion happening in the same narrow post-exercise window where the adaptation signal is strongest.
+**Skip cold immersion immediately after a session focused on strength or skill-building you actually want to improve.** The research behind the adaptation-blunting concern tests immersion right after exercise, in that narrow post-workout window — it doesn't establish a specific safe cutoff afterward, and the biological signals that drive adaptation keep running for hours, not minutes. Waiting until later that evening or the next day is a reasonable, lower-risk habit if soreness reduction is still your goal, but treat it as an untested guess at caution, not a confirmed workaround that fully protects your gains.
 
 **Cold immersion is the more useful choice before an event or a demanding stretch where feeling fresh matters more than long-term adaptation** — a tournament, a trip where you want to skate every day, a physically demanding week where showing up rested matters more than optimizing for the next training cycle. "More useful" isn't "unrestricted," though: the cardiovascular caution above still applies every time, event or not.
 
@@ -686,7 +686,7 @@ You don't need to turn every session into structured training. But if VO2 max sp
 
 **Build in real duration.** Thirty to forty-five minutes of mostly continuous effort, at a pace where conversation is difficult but not impossible, is a reasonable target — this is the same range covered in the Zone 2 guide, and time in the effort zone is what drives the adaptation, not brief spikes.
 
-**Or go the other direction on purpose.** A session structured as genuinely hard runs — pushing yourself close to your limit for 20–30 seconds, recovering, then going again — trains the same capacity through intervals instead, and is a legitimate substitute on days continuous flow terrain isn't available.
+**Or go the other direction on purpose — with real screening first.** A session structured as genuinely hard runs — pushing yourself close to your limit for 20–30 seconds, recovering, then going again — trains the same capacity through intervals instead, and is a legitimate substitute on days continuous flow terrain isn't available. But this is the highest-intensity option here, and it deserves the same caveat [the Zone 2 guide](/blog/skateboarding-zone-2-heart-rate-training/) gives its own targets: if you're new to structured training, inactive for a long stretch before your comeback, managing a cardiovascular condition, or on a medication that alters heart rate, get your actual safe intensity range from a doctor or cardiologist before pushing close to your limit, and build up to it gradually rather than starting there. Near-maximal effort on a moving board carries a second risk ordinary interval training doesn't: exertional dizziness or a sudden drop in control turns into a fall, not just a stopped treadmill, so this is one to earn through gradual progression rather than attempt on day one.
 
 **Don't assume a casual cruising session is doing this work.** Easy pushing on flat ground is pleasant, low-impact movement with real value of its own, but it mostly won't be the stimulus that moves your VO2 max, because the effort level rarely gets high enough for long enough.
 

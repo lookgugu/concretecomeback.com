@@ -36,7 +36,7 @@ The caution here isn't about undermining training — it's cardiovascular. Sauna
 
 ## Timing, if you're going to use either
 
-**Skip cold immersion immediately after a session focused on strength or skill-building you actually want to improve.** Give the adaptation window some room — later that evening or the next day is a more sensible time if soreness reduction is still your goal, since the concern is mainly about immersion happening in the same narrow post-exercise window where the adaptation signal is strongest.
+**Skip cold immersion immediately after a session focused on strength or skill-building you actually want to improve.** The research behind the adaptation-blunting concern tests immersion right after exercise, in that narrow post-workout window — it doesn't establish a specific safe cutoff afterward, and the biological signals that drive adaptation keep running for hours, not minutes. Waiting until later that evening or the next day is a reasonable, lower-risk habit if soreness reduction is still your goal, but treat it as an untested guess at caution, not a confirmed workaround that fully protects your gains.
 
 **Cold immersion is the more useful choice before an event or a demanding stretch where feeling fresh matters more than long-term adaptation** — a tournament, a trip where you want to skate every day, a physically demanding week where showing up rested matters more than optimizing for the next training cycle. "More useful" isn't "unrestricted," though: the cardiovascular caution above still applies every time, event or not.
 
