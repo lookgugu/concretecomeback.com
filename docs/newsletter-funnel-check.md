@@ -41,21 +41,21 @@ distinguishes "nobody submitted" from "people submitted but never confirmed".
 Those two have completely different fixes, so always report this separately from
 the subscriber count.
 
-## Check 3 — traffic and events (Windsor-ai → GA4)
+## GA4 is not part of this check
 
-GA4 property `543447613`. Pull the last 7 days of `event_name` + `event_count`,
-and sessions/users if available.
+There is no automated route to GA4. Windsor.ai was the only one and has been
+dropped deliberately — do not try to read GA4, and do not report a traffic or
+`newsletter_popup_shown` figure. Say the GA4 half is checked manually instead of
+implying the number is zero.
 
-**Trap:** if any returned field contains `not your real numbers` or `reads are
-paused`, the Windsor free-plan limit is blocking reads and the numbers are
-placeholders. Report GA4 as **UNAVAILABLE** in that case. Never present those
-zeros as real data — they are indistinguishable from a genuine zero at a glance.
+`newsletter_popup_shown` is still the number that settles the diagnosis; it just
+has to be read by hand in the GA4 app (property `543447613`).
 
 ## How to read the result
 
 | Signal | Meaning | Next step |
 |---|---|---|
-| `newsletter_popup_shown` ≈ 0 | The CTA is rarely seen. It triggers at 45s on a first pageview, or 50% scroll — and traffic is almost entirely first-time, single-page visitors. | Loosen the triggers in `src/scripts/newsletter-signup.js` |
+| Submissions 0 for days, `popup_shown` ≈ 0 (read manually) | The CTA is rarely seen. It triggers at 45s on a first pageview, or 50% scroll — and traffic is almost entirely first-time, single-page visitors. | Loosen the triggers in `src/scripts/newsletter-signup.js` |
 | `popup_shown` healthy, submissions 0 | People see it and decline. | Offer and copy problem, not plumbing |
 | Submissions > 0, subscribers 0 | People submit but never confirm. | Investigate deliverability and the confirm step |
 
@@ -66,8 +66,7 @@ subject `CC newsletter check`. Under 150 words:
 
 1. subscribers in the segment (excluding the canary),
 2. confirmation emails sent in the last 24h,
-3. GA4 status — `newsletter_popup_shown` count, or UNAVAILABLE,
-4. one line on what it means, using the table above.
+3. one line on what it means, using the table above.
 
 State plainly when nothing has changed. A quiet day is a valid result and should
 read as one sentence, not a padded report.
