@@ -1,6 +1,7 @@
 ---
 name: "Shaw Skatepark"
 country: "US"
+stateProvince: "District of Columbia"
 city: "Washington"
 address: "11th Street and Rhode Island Avenue NW, Washington, DC 20001"
 description: "A centrally located concrete park in D.C. featuring a diverse layout with a flow bowl and street elements, allowing new skaters to progress at their own pace during quieter hours."

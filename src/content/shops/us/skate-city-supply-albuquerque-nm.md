@@ -3,7 +3,7 @@ name: "Skate City Supply"
 country: "US"
 stateProvince: "New Mexico"
 city: "Albuquerque"
-address: "Albuquerque, NM"
+address: "1311 Eubank Blvd NE, Albuquerque, NM 87112"
 description: "One of Albuquerque's most established locally owned skate shops, offering a wide selection of hard goods and professional repair services for older skaters."
 website: "https://skatecitysupply.com"
 servicesOffered: ["decks", "completes", "trucks", "wheels", "bearings", "shoes", "apparel", "protective-gear", "repairs"]

@@ -3,7 +3,7 @@ name: "Minus Skate Shop"
 country: "US"
 stateProvince: "Indiana"
 city: "Carmel"
-address: "Carmel, IN"
+address: "622 S. Rangeline Road, Ste. F, Carmel, IN 46032"
 description: "A community-focused core shop known for full skateboard service, board evaluations, and welcoming skaters of all ages."
 website: "https://minusskateshop.com"
 servicesOffered: ["decks", "completes", "trucks", "wheels", "bearings", "shoes", "repairs", "board-building", "adult-advice"]

@@ -3,7 +3,7 @@ name: "Prestige Skateshop"
 country: "US"
 stateProvince: "Idaho"
 city: "Boise"
-address: "Downtown Boise, ID"
+address: "106 S. 11th Street, Boise, ID 83702"
 description: "A long-standing local core shop carrying quality decks, safety gear, and pre-built completes. Highly recommended for beginners needing expert guidance."
 website: "https://prestigeskateboards.com"
 servicesOffered: ["decks", "completes", "trucks", "wheels", "bearings", "shoes", "protective-gear", "adult-advice"]
