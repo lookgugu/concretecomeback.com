@@ -16,7 +16,7 @@ If you're 45 or 55 and quietly wondering whether you've aged out of a sport you 
 
 ## The résumé, briefly
 
-Macdonald picked up a board at 12, in 1986, and turned pro in 1994. Over a career that's now spanned four decades, he's collected 23 X Games medals — eight of them gold, mostly in vert and vert doubles between 1996 and 2002 — and holds the record for the most X Games medals won in vert skateboarding. He also has ten World Cup Skateboarding overall championships. He was, by any measure, one of the sport's defining competitors well before anyone was talking about his age.
+Macdonald picked up a board at 12, in 1986, and turned pro in 1994. Over a career that's now spanned four decades, he's collected 23 X Games medals — eight of them gold, mostly in vert and vert doubles between 1996 and 2002 — and holds the record for the most X Games medals won in vert skateboarding. He's also won eight World Cup Skateboarding overall championships. He was, by any measure, one of the sport's defining competitors well before anyone was talking about his age.
 
 Then, in 2024, more than 20 years after he first started lobbying for skateboarding's inclusion in the Games, he qualified for Paris — and became the oldest skateboarder ever to compete at an Olympics. Tony Hawk, 56 at the time and Macdonald's longtime friend and competitor, was in the stands cheering him on. When Macdonald closed his run with a backflip, the crowd gave him standing ovations every time he dropped in.
 
