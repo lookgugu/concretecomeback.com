@@ -161,3 +161,5 @@ Keep this current when a batch defers something, so the next pass starts here. T
 - **Prime Skatepark / Deluxe, Plymouth UK** — Commercial Place / Ebrington St; adult session schedules variable across facilities. Held: session schedules and operating hours require verification.
 - **Kangaroo Bay Skate Park (Rosny Skatepark), Hobart / Clarence TAS** — Bastick St, Rosny; concrete competition bowl and street course; City of Clarence master planning reviews for surrounding precinct. Held: civic precinct master planning review.
 - **Crushed Skate Shop, Washington DC** — 1342 U Street NW; closed physical storefront in April 2025. Held: physical storefront closed.
+- **Cream City Skatepark, Milwaukee WI** — 5560 N. Park Dr; lease ended April 12th, actively looking for a new location. Held: no longer at the original address.
+- **Mat Hoffman Action Sports Park, Oklahoma City OK** — 1700 S Robinson Ave; 27-acre park with 5,000 sf plaza addition. Held: no specific adult-friendly evidence or beginner separation layout sourced yet.
