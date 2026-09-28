@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-28T09:24:40.232Z
+# Date: 2026-09-28T09:28:22.504Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -720,7 +720,7 @@ Morning sessions ask something different of your body than an afternoon one does
 
 **You're stiffer, and that's not optional to work around.** After a night of sleep, your joints and connective tissue haven't been through a normal day of movement yet, and older joints in particular take longer to loosen up than they did at 20. This isn't a reason to skip the morning session — it's a reason to never shorten the warm-up for one. [The full warm-up routine](/blog/warm-up-routine-for-adult-skaters/) matters more here than at any other time of day, not less. Give yourself the full ten minutes, including ankle and hip mobility work, before you step on the board.
 
-**The concrete itself hasn't heated up yet.** In warmer months, pavement that's baked all afternoon can get genuinely hot underfoot and can affect wheel grip and rubber wear. Morning concrete is cool and, in most climates, more consistent to skate on than the same surface at 3pm in July.
+**The concrete itself hasn't heated up yet — but check it before you trust it.** In warmer months, pavement that's baked all afternoon can get genuinely hot underfoot and can affect wheel grip and rubber wear, and morning concrete sidesteps that. It brings its own catch, though: cool, humid dawn air is exactly when dew or condensation forms, and a thin film of it can look like a perfectly dry surface. Feel a section for dampness before you commit to speed on it, the same way [the autumn hazards guide](/blog/autumn-skating-hazards-for-adults/) recommends checking for it — a quick check that matters more at 6am than at almost any other hour.
 
 **Your focus tends to be sharper before the day has had a chance to fill up.** This one's harder to measure, but it's the reason "morning routine" content resonates so widely for this age group — a session before the inbox, the commute, and everyone else's needs have claimed your attention tends to feel less divided than one squeezed in after a full day has already worn down your patience.
 
