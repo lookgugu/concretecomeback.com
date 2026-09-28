@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-28T09:32:23.716Z
+# Date: 2026-09-28T09:36:08.531Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -3814,7 +3814,7 @@ Skateboarding *can* be a good match for this mechanism, but only the version of 
 
 ## Building it into what you're already doing
 
-The practical version of all this is almost anticlimactic: if you're already skating two or three times a week, you're likely already getting a meaningful share of the exercise benefit that shows up in prediabetes management guidance, without having done anything differently. What's worth adding, if you want to be deliberate about it, is consistency over intensity — regular moderate sessions do more for this than occasional hard ones — and paying attention to whether a session after a meal, rather than before, fits naturally into your day.
+The practical version of all this comes with the same conditions as above: if you're already skating two or three times a week, in sessions with real sustained pumping and carving rather than mostly standing around, and those sessions add up to something in the neighborhood of the ~150-minute weekly target, you're likely already getting a meaningful share of the exercise benefit that shows up in prediabetes management guidance. If your current sessions are shorter or more casual than that, that's not a reason to feel like skating "doesn't count" — it's a reason to treat building toward that duration and intensity as the concrete goal, rather than assuming frequency alone gets you there. Either way, paying attention to whether a session after a meal, rather than before, fits naturally into your day is a small, free adjustment worth making.
 
 None of this makes skateboarding a treatment. It makes it a genuinely well-matched form of the kind of movement your doctor is already telling you to get more of, and one you're more likely to actually keep doing than a prescribed walk you don't enjoy. If you haven't had your blood sugar checked and you're in the age range where prediabetes becomes common, get it checked — the sessions you're already doing will still be there afterward, whatever the number says.
 
