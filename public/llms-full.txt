@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-28T09:28:22.504Z
+# Date: 2026-09-28T09:32:23.716Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -3800,7 +3800,7 @@ If you've already been told you're prediabetic, the good news is that this is on
 
 Here's the mechanism, in plain terms. Your muscles are one of the biggest consumers of glucose in your bloodstream, and there are two separate ways they pull sugar out of your blood to use as fuel. One depends on insulin doing its job of unlocking the cell. The other — triggered directly by muscle contraction itself — works even when insulin resistance is part of the problem, which is exactly the situation in prediabetes. That second pathway is why exercise helps blood sugar control even before it changes your weight or your fitness level: the very act of contracting muscle, repeatedly, pulls glucose out of circulation through a route that bypasses the part that's not working as well as it should.
 
-Skateboarding is a good match for this mechanism, precisely because of the pattern most sessions actually take. A typical session isn't steady output the way a treadmill run is — it's push, glide, push, carve, pump through a transition, stand around and chat, push again. [The Zone 2 breakdown](/blog/skateboarding-zone-2-heart-rate-training/) on this site covers this same pattern from a cardio-training angle: skating naturally alternates between easier and harder effort. That intermittent pattern — bursts of real muscular work interspersed with recovery — resembles the kind of interval-style movement that research on exercise and glucose control consistently favors over pure steady-state effort, without requiring you to structure a formal interval workout to get some of the benefit.
+Skateboarding *can* be a good match for this mechanism, but only the version of a session that actually reaches real effort. A typical session isn't steady output the way a treadmill run is — it's push, glide, push, carve, pump through a transition, stand around and chat, push again — and [the Zone 2 breakdown](/blog/skateboarding-zone-2-heart-rate-training/) on this site is honest that casual cruising alone can sit as low as Zone 1, with standing around between runs cutting into sustained effort further still. The glucose-control research behind interval-style exercise assumes a real work-to-recovery pattern — genuine exertion, not just intermittent motion — so the benefit described above applies to sessions built around sustained pumping and carving rather than to slow rolling and long pauses. If you want your sessions to count toward this specifically, that's a reason to favor continuous, moderately hard stretches over a stop-and-chat pace, not a reason to assume any skating automatically qualifies.
 
 ## What this does and doesn't mean in practice
 
