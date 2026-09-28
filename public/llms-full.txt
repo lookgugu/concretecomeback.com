@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-28T09:44:26.045Z
+# Date: 2026-09-28T09:47:30.371Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -711,6 +711,8 @@ I resisted this for a long time. Getting up earlier than I have to has never bee
 ## The park you get at dawn
 
 The single biggest difference is obvious the moment you pull in: nobody's there. Most public skateparks are close to empty before 7 or 8am on a weekday, and often on weekends too, before families and after-school crowds arrive. That means every feature is available, there's no waiting your turn, and there's no pressure to keep a line moving because someone's watching for their turn behind you.
+
+That same emptiness cuts both ways, the same way it does for [a late-night session](/blog/night-skating-after-40/): a bad fall with nobody around to notice is a different situation at 6am than it is at 2pm with a full park watching. Bring a charged phone, and tell someone where you're going and roughly when you'll be back before you leave. That's a minute of setup for exactly the scenario an empty park is best at hiding.
 
 For an adult still building confidence, that's not a small thing. A lot of the anxiety [first sessions back](/blog/first-session-back-skatepark-anxiety/) generate isn't about the skating itself — it's about being watched while you're still shaky. An empty park removes the audience entirely. You can fall, reset, and try again without an unspoken clock running.
 
