@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-28T09:19:59.275Z
+# Date: 2026-09-28T09:24:40.232Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -734,7 +734,7 @@ Making a 6am session actually happen, repeatedly, comes down to a few unglamorou
 
 **Don't skip breakfast, but don't front-load it either.** A small amount of something easy to digest — half a banana, a slice of toast — before an early session is usually enough to avoid the lightheaded, low-energy feeling of skating on a completely empty stomach, without weighing you down. [The nutrition guide](/blog/what-to-eat-the-day-you-skate/) covers this in more detail if you're skating longer or harder morning sessions.
 
-**Build in a genuine cool-down before you go straight into your day.** An afternoon or evening session naturally winds down into the rest of your evening. A morning session often gets cut short because work is waiting. Protect at least a few minutes of easy rolling and stretching at the end anyway — [the recovery guide](/blog/recovery-guide-for-adult-skaters/) is clear that skipping this is one of the more common ways adults turn a good session into a sore afternoon.
+**Build in a genuine cool-down before you go straight into your day.** An afternoon or evening session naturally winds down into the rest of your evening. A morning session often gets cut short because work is waiting. Protect at least a few minutes of easy rolling and stretching at the end anyway, rather than going straight from a hard push to a shower and a commute. What you do the rest of that day matters too — [the recovery guide](/blog/recovery-guide-for-adult-skaters/) covers the next-day habits, like gentle movement and hydration, that do more for next-day soreness than the cool-down itself.
 
 ## It won't work for everyone, and that's fine
 
