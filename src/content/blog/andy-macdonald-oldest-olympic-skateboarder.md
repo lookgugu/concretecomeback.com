@@ -10,7 +10,7 @@ featured: false
 draft: false
 ---
 
-In August 2024, at the Paris Olympics, a 51-year-old skateboarder dropped into the Parc Urbain bowl and got a standing ovation from Tony Hawk. Andy Macdonald finished 18th out of 22 in his heat and didn't medal. It didn't matter. He'd already made the point he'd spent two decades campaigning to make: skateboarding at the Olympic level doesn't have to belong to teenagers alone.
+In August 2024, at the Paris Olympics, a 51-year-old skateboarder dropped into the Parc Urbain bowl and got a standing ovation from Tony Hawk. Andy Macdonald finished 18th overall in the preliminary round — one of 22 skaters split across several heats — and missed the cut for the eight-skater final. It didn't matter. He'd already made the point he'd spent two decades campaigning to make: skateboarding at the Olympic level doesn't have to belong to teenagers alone.
 
 If you're 45 or 55 and quietly wondering whether you've aged out of a sport you loved, or one you're only now discovering, Macdonald's story is worth more than a highlight reel. It's a working example of what actually gets someone that far past the age most people assume is a hard ceiling.
 

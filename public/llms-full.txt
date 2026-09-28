@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-28T09:15:34.666Z
+# Date: 2026-09-28T09:19:59.275Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -164,7 +164,7 @@ For someone already skating consistently and happily, it's harder to justify on 
 ### Andy Macdonald at 51: What Skating This Long Actually Takes
 Andy Macdonald became the oldest Olympic skateboarder ever at 51. What his approach to falls, training, and fun says about skating for decades.
 
-In August 2024, at the Paris Olympics, a 51-year-old skateboarder dropped into the Parc Urbain bowl and got a standing ovation from Tony Hawk. Andy Macdonald finished 18th out of 22 in his heat and didn't medal. It didn't matter. He'd already made the point he'd spent two decades campaigning to make: skateboarding at the Olympic level doesn't have to belong to teenagers alone.
+In August 2024, at the Paris Olympics, a 51-year-old skateboarder dropped into the Parc Urbain bowl and got a standing ovation from Tony Hawk. Andy Macdonald finished 18th overall in the preliminary round — one of 22 skaters split across several heats — and missed the cut for the eight-skater final. It didn't matter. He'd already made the point he'd spent two decades campaigning to make: skateboarding at the Olympic level doesn't have to belong to teenagers alone.
 
 If you're 45 or 55 and quietly wondering whether you've aged out of a sport you loved, or one you're only now discovering, Macdonald's story is worth more than a highlight reel. It's a working example of what actually gets someone that far past the age most people assume is a hard ceiling.
 
@@ -730,7 +730,7 @@ Making a 6am session actually happen, repeatedly, comes down to a few unglamorou
 
 **Lay out your gear the night before.** The single biggest threat to an early session isn't willpower at 6am — it's the five extra minutes of hunting for a helmet or wrist guards that turns "quick session before work" into "not today." Have everything by the door.
 
-**Check that the park is actually lit or has enough daylight for your specific slot.** Depending on the season, 6am can mean full daylight or genuine darkness. In darker months, treat it the way [the night-skating guide](/blog/night-skating-after-40/) treats any low-light session — confirm the park has adequate lighting, and add reflective elements to your own gear if you're walking, biking, or skating there in dim conditions.
+**Check the park's actual opening hours, not just whether it'll be light out.** Plenty of public parks — [several in this site's own directory](/directory/parks/) among them — post a fixed opening time well after 6am rather than staying open dawn to dusk, and showing up before that time gets you a locked gate regardless of daylight. Confirm official hours before you build a routine around a specific time. Separately, check whether 6am means full daylight or genuine darkness for the season you're in. In darker months, treat it the way [the night-skating guide](/blog/night-skating-after-40/) treats any low-light session — confirm the park has adequate lighting, and add reflective elements to your own gear if you're walking, biking, or skating there in dim conditions.
 
 **Don't skip breakfast, but don't front-load it either.** A small amount of something easy to digest — half a banana, a slice of toast — before an early session is usually enough to avoid the lightheaded, low-energy feeling of skating on a completely empty stomach, without weighing you down. [The nutrition guide](/blog/what-to-eat-the-day-you-skate/) covers this in more detail if you're skating longer or harder morning sessions.
 
@@ -3806,7 +3806,7 @@ Skateboarding is a good match for this mechanism, precisely because of the patte
 
 **It's not a replacement for medical management.** If you've been told you're prediabetic, that conversation with your doctor about diet, monitoring, and possibly medication doesn't get replaced by adding skate sessions. Exercise is one lever among several, and a genuinely good one, but treat this as a complement to your care plan, not a substitute for it.
 
-**Consistency matters more than any single session.** The muscle-contraction pathway that helps clear glucose from your blood is most useful when it's a regular event, not an occasional one. Three sessions a week, even short ones, do more for this than one long session on the weekend — the same consistency argument this site has made about [why regular sessions beat sporadic ones](/blog/short-skate-sessions-adult-learners/) for skill, applies here to metabolic effect too.
+**Consistency matters, but it doesn't replace the weekly total.** The muscle-contraction pathway that helps clear glucose from your blood is most useful when it's a regular event, not an occasional one — spreading real effort across the week generally beats saving it all for one outing. But frequency isn't a substitute for volume: the National Diabetes Prevention Program's benchmark is around 150 minutes of moderate activity a week, and three five-minute rolls don't add up to what one substantial session would. Aim for that weekly total spread across several sessions, not just "more often" on its own — the same consistency argument this site has made about [why regular sessions beat sporadic ones](/blog/short-skate-sessions-adult-learners/) for skill applies here, as long as the sessions are long and hard enough to count.
 
 **Timing after meals is worth knowing about, even if you never formalize it.** Blood sugar tends to rise for one to two hours after eating, and movement during that window — even a walk, let alone a skate session — blunts that rise more than the same movement earlier in the day. You don't need to build your whole schedule around this, but if you're choosing between a pre-dinner or post-dinner session on a given day, post-dinner has a real physiological edge for this specific purpose.
 
