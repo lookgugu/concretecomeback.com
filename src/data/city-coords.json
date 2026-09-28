@@ -229,10 +229,20 @@
     "lng": -3.9459,
     "source": "Swansea, Cymru / Wales, SA1 3BN, United Kingdom"
   },
+  "US|alabama|birmingham": {
+    "lat": 33.5207,
+    "lng": -86.8024,
+    "source": "Birmingham, Jefferson County, Alabama, United States"
+  },
   "US|arizona|phoenix": {
     "lat": 33.4484,
     "lng": -112.0741,
     "source": "Phoenix, Maricopa County, Arizona, United States"
+  },
+  "US|california|carlsbad": {
+    "lat": 33.1581,
+    "lng": -117.3506,
+    "source": "Carlsbad, San Diego County, California, United States"
   },
   "US|california|fresno": {
     "lat": 36.7394,
@@ -339,6 +349,11 @@
     "lng": -83.7485,
     "source": "Ann Arbor, Washtenaw County, Michigan, United States"
   },
+  "US|michigan|royal oak": {
+    "lat": 42.4895,
+    "lng": -83.1446,
+    "source": "Royal Oak, Oakland County, Michigan, United States"
+  },
   "US|minnesota|golden valley": {
     "lat": 44.9861,
     "lng": -93.3785,
@@ -368,6 +383,11 @@
     "lat": 35.7325,
     "lng": -78.8506,
     "source": "Apex, Wake County, North Carolina, 27502, United States"
+  },
+  "US|north carolina|cary": {
+    "lat": 35.7874,
+    "lng": -78.7812,
+    "source": "Cary, Wake County, North Carolina, United States"
   },
   "US|ohio|lakewood": {
     "lat": 41.482,
@@ -419,6 +439,11 @@
     "lng": -95.2355,
     "source": "South Houston, Harris County, Texas, 77587, United States"
   },
+  "US|utah|park city": {
+    "lat": 40.6461,
+    "lng": -111.498,
+    "source": "Park City, Summit County, Utah, United States"
+  },
   "US|virginia|arlington": {
     "lat": 38.8769,
     "lng": -77.0893,
@@ -445,8 +470,8 @@
     "source": "derived: mean of 17 listed UK cities"
   },
   "US": {
-    "lat": 37.7421,
-    "lng": -94.5822,
-    "source": "derived: mean of 40 listed US cities"
+    "lat": 37.673,
+    "lng": -94.6859,
+    "source": "derived: mean of 45 listed US cities"
   }
 }

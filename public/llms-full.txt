@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-28T14:16:17.783Z
+# Date: 2026-09-28T22:24:59.188Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -5801,6 +5801,15 @@ Operating continuously since 1997, 3rd Lair is the backbone of the Upper Midwest
 For returning and older skaters, the facility runs structured adult skateboard clinics and offers private one-on-one coaching. Start on the mellow mini-ramp or "The Ditch" flow section before navigating the main street course, which offers ample flatground and progressive ledge heights.
 
 
+### Alga Norte Skatepark
+A well-lit, beautifully maintained municipal park offering a highly forgiving street section and pump track alongside advanced bowls, drawing a diverse crowd of older skaters.
+Location: Carlsbad, California, US
+
+Alga Norte Skatepark is widely regarded as one of San Diego North County's most welcoming spots for beginners and older skaters. The park layout is smartly designed to separate the intimidating deep bowls from a mellow, open street section and a pump track, giving returning skaters plenty of space to find their balance.
+
+The park is fully lit until 10 pm, making it incredibly practical for an after-work evening session when the daytime crowd has thinned out. It’s part of a larger community facility with clean amenities; remember that helmets are required by city rules, and pads are strongly recommended.
+
+
 ### Ann Arbor Skatepark
 A 30,000-square-foot concrete facility featuring kidney pools, a snake run, and beginner-friendly transition sections. Known for community programs that explicitly welcome and teach older skaters.
 Location: Ann Arbor, Michigan, US
@@ -5848,6 +5857,16 @@ A well-maintained public skate park in Grant Park with smooth concrete, a flowin
 Location: Chicago, Illinois, US
 
 Grant Park Skate Park is one of the best options for adult beginners in the Chicago area. The layout avoids steep drops and deep bowls, focusing on flowing, navigable terrain that builds confidence without demanding high-level skills.
+
+
+### City Walk BHAM Skatepark
+A massive 58,000-square-foot facility with dedicated beginner bowls and quarter-pipe areas physically separated from the advanced sections, making it ideal for older skaters getting back on a board.
+Location: Birmingham, Alabama, US
+Website: https://citywalkbham.com/skate-park/
+
+City Walk BHAM offers an impressive, world-class skating environment right in downtown Birmingham. For older skaters, the standout feature is the physical separation of ability levels: the facility includes specific beginner bowls and quarter-pipe zones so you can learn without navigating heavy advanced traffic. 
+
+Admission is completely free, though you will need to sign a waiver before your first session. With a pump track, diverse street course, and deep bowls, it’s a park that will grow with you as your confidence returns.
 
 
 ### Craig Ranch Skatepark
@@ -6048,6 +6067,26 @@ Situated on the campus of the Indy Cycloplex, Major Taylor Skatepark is a concre
 As a popular public park, it can get busy during peak hours. However, sources note a reliable quiet window during weekday mornings, offering older beginners a much less intimidating environment to practice without navigating heavy traffic. Proper safety gear—including helmets, knee pads, and elbow pads—is required for all users. For board evaluations, repairs, or custom builds, [Minus Skate Shop](/directory/shops/us/minus-skateshop-carmel-in) in nearby Carmel is highly recommended.
 
 
+### Modern Skate and Surf
+A sprawling indoor wood park that hosts dedicated adult-only sessions (21+) and stays open late into the evening, perfect for older skaters dodging the weather.
+Location: Royal Oak, Michigan, US
+Website: https://www.modernskate.com
+
+Modern Skate and Surf in Royal Oak is a staple of the Michigan skate scene and a lifesaver during harsh winters. It earns its adult-friendly credentials by regularly hosting 21+ adult-only skate nights and late evening sessions, giving older skaters a relaxed window to ride without dodging a chaotic after-school crowd.
+
+The park is entirely indoor with smooth wooden surfaces, featuring everything from a forgiving mini-ramp section to deep bowls and a varied street course. Be sure to check their website or call ahead for the current week's session schedule and any adult-specific events.
+
+
+### North Houston Skatepark
+At over 77,000 square feet, this massive concrete park provides dedicated beginner flow bowls and enough sheer space to find a quiet corner away from the crowds.
+Location: Houston, Texas, US
+Website: https://northhouston.org/skatepark/
+
+North Houston Skatepark is one of the largest skateparks in North America, and that sheer scale is its biggest asset for older skaters. Even on busy days, the sprawling 77,000-square-foot footprint offers enough low-traffic areas to comfortably practice your basics. 
+
+The layout intelligently separates skill levels, featuring a forgiving beginner flow bowl that keeps you safely out of the way of the competition-scale vert and street sections. It is free to use and heavily lit for night sessions. Note that the park is traditionally closed on Tuesdays and requires helmets for all riders.
+
+
 ### Paine's Park
 Philadelphia's landmark public skate plaza on the Schuylkill River Banks behind the Art Museum, opened in 2013 after a decade of work by the skater-led Franklin's Paine Skatepark Fund. Its south section — low ollie boxes, benches and a lot of flatground — was described by two returning skaters in Philadelphia magazine as a de facto old-folks zone, and that is exactly what it is good for.
 Location: Philadelphia, Pennsylvania, US
@@ -6130,6 +6169,16 @@ Shaw Skatepark is a popular, concrete community park situated in the heart of Wa
 The park's varied layout allows returning skaters to find a comfortable zone and progress at their own pace. Because of its central location, it can draw a crowd; beginners are encouraged to observe the flow of the park and visit during quieter, off-peak periods to build confidence. Be aware that while official hours are dawn to dusk, the gates are occasionally reported locked in the early evening.
 
 
+### Sk8-Cary Action Sports
+An inclusive, supervised wood park that actively supports older skaters with scheduled 18+ adult sessions and structured beginner programs.
+Location: Cary, North Carolina, US
+Website: https://www.carync.gov/recreation-enjoyment/facilities/sk8-cary
+
+Sk8-Cary provides a structured, supportive environment that is rare for municipal parks. Built primarily with wood frames and Skatelite Pro surfaces, it caters explicitly to older skaters by reserving specific 18+ adult sessions, ensuring you have time to ride without younger traffic. 
+
+The facility is supervised and requires a waiver as well as full safety gear (helmets and pads). With an on-site pro shop and accessible beginner ramps alongside more challenging street features, it’s an excellent home base for easing back into the sport. Check their official town page for the most current session hours.
+
+
 ### SK8 Charleston
 A premier concrete park offering individual lessons upon request, allowing older beginners to specify their skill level and focus areas with a dedicated instructor.
 Location: Charleston, South Carolina, US
@@ -6192,6 +6241,16 @@ Website: https://www.laparks.org/venice-beach-skate-park
 Venice Beach Skate Park has something for everyone — a dedicated beginner section with smaller banks and mellow transitions alongside technical pool terrain. The morning hours are populated by a solid contingent of adult skaters, many of them regulars who've been skating there for decades.
 
 Rip City Skates, in the same building on Santa Monica Boulevard since 1978, is the shop paired with this park — ten minutes away and older than most of the people skating here.
+
+
+### Woodward Park City
+A premium action sports hub featuring a dedicated weekly Adult Night (18+) and world-class indoor concrete and wood progression zones.
+Location: Park City, Utah, US
+Website: https://www.woodwardparkcity.com
+
+Woodward Park City’s indoor hub is built entirely around the philosophy of safe progression, making it a goldmine for returning skaters. Its strongest draw for older skaters is the weekly Tuesday Adult Night (18+), giving you a dedicated two-hour window to access the entire facility among peers rather than teenagers.
+
+The massive indoor layout combines a polished concrete skatepark with wood ramp zones, pump tracks, foam pits, and resi-landings—allowing you to dial in new tricks with a soft landing. Because this is a premium facility, sessions must be booked online and a waiver is required.
 
 ============================================================
 ## LOCAL SHOPS
