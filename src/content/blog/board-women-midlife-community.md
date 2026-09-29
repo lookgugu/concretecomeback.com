@@ -14,13 +14,13 @@ Most of the community-building advice on this site is small in scale, deliberate
 
 ## What Board Women actually is
 
-Board Women is a community built for women taking up or returning to skateboarding, surfing, and snowboarding in midlife — not a single-sport club, but a shared space for anyone using a board to move through their forties, fifties, and beyond. It's grown to nearly 13,000 members, runs a regular podcast, and organizes meetups and in-person "culture days" that bring the online community into a room together.
+Board Women is a community built for women and non-binary people taking up or returning to skateboarding, surfing, and snowboarding in midlife — not a single-sport club, but a shared space for anyone using a board to move through their forties, fifties, and beyond. Its founder, Caroline Keylock, took up skateboarding at 45, struggled to find other women her age skating in person, and noticed small groups of over-40 women skaters appearing online around the country. She built the community around that. It has grown to almost 13,000 members, runs a regular podcast in which Keylock interviews midlife board-sport beginners alongside confidence coaches and perimenopause specialists, and organizes meetups and in-person "culture days" that bring the online community into a room together.
 
 What makes it worth writing about isn't the size on its own. It's what the size represents: enough demand from midlife women taking up board sports that a dedicated, sustained community was worth building around it, rather than these women being a small side note inside communities built mainly for teenagers and twentysomethings.
 
 ## Why this matters if you'll never set foot in the UK
 
-If you've read the piece on this site about women over 40 taking over the skatepark, you already know the broad trend — more women in their forties and fifties are picking up boards, and skate culture has largely made room for them. Board Women is what that trend looks like once it has enough scale to build real infrastructure: a podcast means new members can learn from people ahead of them on the same path. Culture days mean the online community becomes a real one, at least for a weekend. A meetup calendar means "I don't know anyone else who does this" stops being true.
+If you've read the piece on this site about [women over 40 taking over the skatepark](/blog/women-over-40-skateboarding/), you already know the broad trend — more women in their forties and fifties are picking up boards, and skate culture has largely made room for them. Board Women is what that trend looks like once it has enough scale to build real infrastructure: a podcast means new members can learn from people ahead of them on the same path. Culture days mean the online community becomes a real one, at least for a weekend. A meetup calendar means "I don't know anyone else who does this" stops being true.
 
 That's the part worth taking regardless of where you live. The exact organization doesn't need to exist in your city for the pattern to be useful to you.
 
@@ -36,6 +36,6 @@ You're very unlikely to be within driving distance of a Board Women culture day.
 
 ## The bigger pattern
 
-Board Women isn't an isolated data point. It sits alongside a wider shift — women's-only sessions at UK skateparks, visible figures like Oorbee Roy building an audience skating in her late forties, and a general loosening of the assumption that skateparks are a young person's, and often a young man's, space. None of these needed permission from the sport's traditional gatekeepers. They needed enough people in the same situation to find each other, which is precisely what organized communities are built to accelerate.
+Board Women isn't an isolated data point. It sits alongside a wider shift — women's-only sessions at UK skateparks, visible figures like Oorbee Roy, who took up skateboarding at 43 and built an audience doing it, and a general loosening of the assumption that skateparks are a young person's, and often a young man's, space. None of these needed permission from the sport's traditional gatekeepers. They needed enough people in the same situation to find each other, which is precisely what organized communities are built to accelerate.
 
 If you're an older woman hesitating about whether you'll be welcome, the honest answer is: probably yes, more so than at almost any point in the sport's history, and there is very likely a version of this — a local group, a set of accounts worth following, a meetup that already exists or is one Facebook post away from existing — closer than you think. You don't need thirteen thousand people to start. You need the first handful, and those tend to be easier to find than you'd expect once you actually go looking.
