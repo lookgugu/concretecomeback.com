@@ -28,16 +28,18 @@ Vitamin C's role is more specific than "general immune support." It's a required
 
 Controlled trials in tendon conditions like patellar and Achilles tendinopathy have generally found that collagen paired with a structured loading exercise program outperforms exercise alone for pain and function scores over a period of months, not days. That's an important detail: the supplement was never tested as a standalone fix. It was tested as an addition to appropriate loading exercise, which is doing real work in every trial where collagen showed a benefit.
 
+It's worth being precise about what's actually been tested, because the individual pieces below come from different kinds of studies. The 45-to-60-minute pre-exercise timing comes mainly from acute research measuring blood collagen levels after a dose, not from the tendinopathy trials themselves. Those clinical trials tested daily collagen supplementation alongside a rehab exercise program over weeks or months, generally without pinning the dose to that exact pre-exercise window, and used varying products and amounts rather than one standardized dose.
+
 ## A realistic protocol
 
-Based on how these trials are typically structured, a reasonable approach looks like this:
+Nobody has run a single trial testing this exact combination as a unit. What follows is a reasonable synthesis of the two bodies of evidence above — the timing from the pharmacokinetic research, the daily consistency and pairing-with-loading-exercise from the clinical trials — not a protocol that was itself directly tested:
 
 - **10–15 grams of hydrolyzed collagen peptides** (a scoopable powder, usually flavorless, dissolves in water or coffee)
 - **Alongside 50mg or more of vitamin C** — a small glass of orange juice covers this, or a low-dose supplement if you're not near citrus
-- **Taken 45–60 minutes before your skate session or rehab exercises** — this is the timing that lines up with peak blood collagen levels and mechanical loading
-- **Daily, consistently, for at least 8–12 weeks** before judging whether it's helping
+- **Taken 45–60 minutes before your skate session or rehab exercises** — this timing is drawn from research on when blood collagen peaks, not from the clinical tendinopathy trials directly
+- **Daily, consistently, for at least 8–12 weeks** before judging whether it's helping — this part does match how the clinical trials were run
 
-That last point is the one people skip. Taking collagen occasionally, or only on days your ankle feels bad, isn't the protocol that's actually been studied, and it's unlikely to produce the same result.
+That last point is the one people skip. Taking collagen occasionally, or only on days your ankle feels bad, isn't close to how any of this was studied, and it's unlikely to produce the same result.
 
 ## Who this is actually for
 
