@@ -2,13 +2,14 @@
 title: "Women Over 40 Are Taking Over the Skatepark"
 description: "Older women are returning to skateboarding in growing numbers. Here's what's changed in skate culture, and why right now is the best time to start."
 pubDate: 2026-07-09
+updatedDate: 2026-09-29
 author: "Jo Fairweather"
 authorAge: 52
 authorBio: "Physiotherapist and skater. Came back to skating at 49 and hasn't stopped."
 tags: ["motivation", "representation", "community", "women-who-skate", "getting-started"]
 ---
 
-Oorbee Roy started skating in her late forties and began posting clips of it — bowls, a sari, an audience that grew fast. Her account, @auntyskates, became a reference point: a South Asian woman in her forties carving concrete and building a following doing it.
+Oorbee Roy started skating at 43 and began posting clips of it — bowls, a sari, an audience that grew fast. Her account, @auntyskates, became a reference point: a South Asian woman in her forties carving concrete and building a following doing it.
 
 She wasn't the first older woman to pick up a skateboard. But the visibility helped, and it landed on top of something that was already building. Women over 40 are getting back on boards in numbers the sport hasn't seen before, and skate culture is largely welcoming them.
 
