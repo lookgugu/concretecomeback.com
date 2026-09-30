@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-28T22:24:59.188Z
+# Date: 2026-09-30T01:19:04.357Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -5820,6 +5820,13 @@ Located within Veterans Memorial Park, this 30,000-square-foot concrete park off
 The local community is highly supportive, running regular outreach and beginner sessions that explicitly welcome older skaters and provide a comfortable environment for learning the basics. Push-button lighting keeps the park sessionable well past sunset.
 
 
+### Ann Van Middlesworth Skatepark
+A beloved DIY concrete skatepark with a beginner-friendly bowl and mini-ramp. The park is lit, giving working locals a solid spot to skate after hours.
+Location: Hillsborough, New Jersey, US
+
+This evolving DIY concrete park features a highly regarded beginner bowl alongside a spine and mini-ramp. Because it benefits from lights and a dedicated local community, it's very accommodating to older skaters returning to the sport. The concrete surface dries relatively quickly, making it a reliable choice.
+
+
 ### Astoria Skatepark
 Expansive 21,500 sq ft concrete street plaza beside the RFK Triborough Bridge approach in Queens, offering wide flatground avenues, low manual pads, and calm dawn sessions from 6am.
 Location: Queens, New York, US
@@ -5901,6 +5908,13 @@ The sheer size works in a returning skater's favour — there is almost always a
 303 Boards — a Denver brick-and-mortar since 1997, with stores on South Broadway and East Colfax — is the shop paired with this park.
 
 
+### Dover Skatepark
+Opened in 2023, this 10,700-square-foot concrete park features a variety of street features and ramps. The park is fully lit, allowing for extended evening sessions.
+Location: Dover, New Hampshire, US
+
+A modern concrete facility that has quickly become a community hub. The park's welcoming atmosphere and top-tier amenities, notably its full lighting system, make it especially practical for older skaters who need evening access to practice their skills.
+
+
 ### Ed Benedict Skatepark
 Portland's premier 18,000 sq ft concrete street plaza featuring wide flatground lanes, mellow low-rise ledges, and landscaped biofiltration buffers, offering a low-impact alternative to tight transition parks.
 Location: Portland, Oregon, US
@@ -5919,6 +5933,13 @@ Website: https://fargoskateboarding.com
 Fargo Skateboarding is a nearly 10,000-square-foot heated indoor facility in DeKalb, constructed primarily with smooth wooden ramps. It is designed to be an accessible, community-focused space that caters directly to progression.
 
 Older skaters are exceptionally well-supported here. The facility hosts specific beginner sessions (typically on Saturdays) that provide a low-stress environment supervised by coaches. Beyond the beginner blocks, they offer private group classes structured specifically for adults. The building also houses an [on-site skate shop](/directory/shops/us/fargo-skateboarding-shop-dekalb-il) that can provide all the necessary protective gear and completes to get you started safely. Call ahead to confirm the schedule for the next adult-specific session.
+
+
+### Hazelwood Skatepark
+A smooth concrete park featuring two large bowls and street elements. The design explicitly caters to varying skill levels, providing separation for beginners and experienced skaters.
+Location: Baltimore, Maryland, US
+
+A welcoming $4.3 million community project, Hazelwood Skatepark includes a spacious main bowl and a secondary bowl, along with a variety of street elements like quarter pipes and ledges. The layout provides ample space and varying difficulty levels, making it approachable for older skaters looking to rebuild their confidence away from advanced traffic.
 
 
 ### Heath Eiland & Morgan Moss Skate Park
@@ -6097,6 +6118,14 @@ Paine's is a plaza, not a bowl park: quarterpipes, banks, ledges, curbs, manual 
 It was conceived in 2002 by Franklin's Paine Skatepark Fund, the skater-run non-profit that later helped win a skate plaza at the Municipal Services Building, and it opened in 2013. Limited parking at the Waterworks Drive lot off Kelly Drive and paid parking at the Art Museum garage; SEPTA buses 43 and 38 stop nearby. Need a board before heading down? Stop by Nocturnal Skateshop on 5th St.
 
 
+### Parisite DIY Skatepark
+A skater-built, 6,000-square-foot concrete park under the I-610 overpass. The covered location offers excellent weather protection, making it a dependable spot for older skaters.
+Location: New Orleans, Louisiana, US
+Website: https://www.instagram.com/parisite_diy/
+
+New Orleans' first official public skatepark started as a DIY project and is now a celebrated community space. Nestled beneath the bustling Interstate 610 overpass, it provides essential cover from the sun and rain, which is a major advantage for older skaters needing a reliable venue. It caters to all skill levels with varied cast-in-place concrete features.
+
+
 ### Pecos Skatepark
 Expansive 29,500 sq ft concrete facility in Ahwatukee featuring mellow pump bumps, low grind ledges, and a strict skateboard-only policy excluding bikes to minimize collision hazards, lit nightly to 10:45pm.
 Location: Phoenix, Arizona, US
@@ -6105,6 +6134,13 @@ Website: https://www.phoenix.gov/parks/parks/skate-parks
 Situated in the Ahwatukee Foothills within Pecos Park, this 29,500-square-foot concrete facility is one of the premier municipal skateparks in Arizona. A crucial advantage for older skaters is the park's strict skateboard-and-inline rule that prohibits bicycles and motorized scooters, dramatically reducing unpredictable crossing traffic and high-speed collision hazards.
 
 The layout features an expansive, open-concept street plaza loaded with gentle rolling pump bumps, flat ground banks, and wide curb-height ledges alongside a 7-foot transition bowl. Morning sessions between 7am and 9am are the best window for returning skaters, avoiding both peak desert temperatures and crowded afternoon gatherings.
+
+
+### Peter Mathews Memorial Skate Garden
+A well-designed, versatile concrete skate garden in the Bevo Mill neighborhood. Fully lit and open until 10 PM, offering a welcoming environment for evening sessions.
+Location: St. Louis, Missouri, US
+
+Often referred to as a "skate garden", this 14,000-square-foot park was built on a previously vacant lot. The space is lined with local artwork and features practical elements for all levels. With lighting and late operating hours, it's an ideal choice for older skaters fitting a ride into their busy week.
 
 
 ### Pier 62 Skatepark (Hudson River Park)
@@ -6157,6 +6193,13 @@ Website: https://www.apexnc.org/Facilities/Facility/Details/Rogers-Family-Skate-
 Constructed by Team Pain within Hunter Street Park, the Rogers Family Skate Plaza offers a four-tiered concrete design tailored to simulate street lines while maintaining clean line-of-sight separation. Lower tiers are dedicated to wide flatground ledges, mini-banks, and curb-height rails, keeping novice and returning skaters out of the trajectory of the higher-speed multi-level bowl.
 
 The plaza remains open around the clock with automated floodlights extending until 9:30pm on weeknights and 11:30pm on Saturdays. An early dawn visit provides peaceful, dew-free concrete before heat and school crowds set in. Town ordinance strictly mandates helmets and protective pads, fostering a safe, respectful environment for older skaters.
+
+
+### Sayreville Skatepark
+A concrete haven featuring a bowl and street section. Operating from 6 a.m. to midnight with lights, it's highly accessible for those skating around work schedules.
+Location: Sayreville, New Jersey, US
+
+Located within Sayreville Kennedy Park, this skatepark offers a thoughtful design with both bowl and street sections. The extensive hours (open until midnight) and comprehensive lighting make it a practical spot for older skaters to get a session in after work.
 
 
 ### Shaw Skatepark

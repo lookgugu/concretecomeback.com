@@ -334,6 +334,16 @@
     "lng": -85.7594,
     "source": "Louisville, Jefferson County, Kentucky, United States"
   },
+  "US|louisiana|new orleans": {
+    "lat": 29.9561,
+    "lng": -90.0734,
+    "source": "New Orleans, Orleans Parish, Louisiana, United States"
+  },
+  "US|maryland|baltimore": {
+    "lat": 39.2909,
+    "lng": -76.6108,
+    "source": "Baltimore, Maryland, United States"
+  },
   "US|massachusetts|boston": {
     "lat": 42.3588,
     "lng": -71.0578,
@@ -359,10 +369,30 @@
     "lng": -93.3785,
     "source": "Golden Valley, Hennepin County, Minnesota, United States"
   },
+  "US|missouri|st. louis": {
+    "lat": 38.6254,
+    "lng": -90.19,
+    "source": "Saint Louis, Missouri, United States"
+  },
   "US|nevada|north las vegas": {
     "lat": 36.2005,
     "lng": -115.1215,
     "source": "North Las Vegas, Clark County, Nevada, United States"
+  },
+  "US|new hampshire|dover": {
+    "lat": 43.1981,
+    "lng": -70.874,
+    "source": "Dover, Strafford County, New Hampshire, 03820, United States"
+  },
+  "US|new jersey|hillsborough": {
+    "lat": 40.5052,
+    "lng": -74.6733,
+    "source": "Hillsborough Township, Somerset County, New Jersey, United States"
+  },
+  "US|new jersey|sayreville": {
+    "lat": 40.4635,
+    "lng": -74.3618,
+    "source": "Sayreville, Middlesex County, New Jersey, United States"
   },
   "US|new mexico|albuquerque": {
     "lat": 35.0841,
@@ -470,8 +500,8 @@
     "source": "derived: mean of 17 listed UK cities"
   },
   "US": {
-    "lat": 37.673,
-    "lng": -94.6859,
-    "source": "derived: mean of 45 listed US cities"
+    "lat": 37.7907,
+    "lng": -92.8951,
+    "source": "derived: mean of 51 listed US cities"
   }
 }
