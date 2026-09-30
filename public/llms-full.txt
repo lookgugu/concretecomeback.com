@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-30T09:13:42.863Z
+# Date: 2026-09-30T15:22:04.410Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -79,7 +79,7 @@ The structure exists to remove the guesswork, not to become another source of pr
 ### What Adaptive Skateboarding Means for Every Returning Skater
 Adaptive skateboarding is getting real visibility ahead of the 2028 LA Games. What it is, why it's growing, and what its design lessons offer you.
 
-On May 2, 2026, Pelican Park in Mandeville, Louisiana opened a new skatepark built around a simple brief: welcome anyone on wheels, not just skateboards. The grand opening schedule led with a free WCMX and adaptive skate clinic before the ribbon was even cut, with demonstrations from Andrew Garcia of Ability Skateboarding & Action Sports and Tony Torres of TNT 360 Mobility. The park itself was designed as an "all wheels" space — skateboards, wheelchairs, and scooters sharing the same terrain rather than being sorted into separate zones.
+On May 2, 2026, Pelican Park in Mandeville, Louisiana opened a new skatepark built around a simple brief: welcome anyone on wheels, not just skateboards. The grand opening schedule led with a free WCMX and adaptive skate clinic before the ribbon was even cut, hosted by TNT 360 Mobility — WCMX athlete Tony Torres's adaptive-equipment outfit — and Andrew Garcia's Ability Skateboarding & Action Sports. The park itself was designed as an "all wheels" space — skateboards, wheelchairs, and scooters sharing the same terrain rather than being sorted into separate zones.
 
 I see a lot of patients whose bodies don't move the way they used to — replaced hips, surgically repaired ankles, decades-old injuries that never fully resolved. Watching adaptive skateboarding get real visibility this year has made me think harder about what "accessible design" actually means, and why it matters even if you've never used a wheelchair, a prosthetic limb, or an adaptive board in your life.
 
@@ -89,7 +89,7 @@ I see a lot of patients whose bodies don't move the way they used to — replace
 
 ## Why it's suddenly visible
 
-Skateboarding doesn't currently have a Paralympic medal program, but that's actively shifting in the run-up to the 2028 Los Angeles Games. Adaptive skaters have been featured at high-profile Olympic and Paralympic buildup events — Edward Jeffries, known as "Skateboard E," demonstrated adaptive skateboarding in Paris ahead of it becoming part of the broader LA28 push, and the LA28 Paralympic handover celebration showcased adaptive athletes including Oscar Loreto Jr., Kanya Sesser, and Aaron "Wheelz" Fotheringham. On the ground, programs like the City of Los Angeles's PlayLA Adaptive Youth Sports Program — run with the Challenged Athletes Foundation and coached by Paralympians including Mike Shea and Rudy Garcia-Tolson — are already teaching adaptive skateboarding to kids with disabilities. Pelican Park's opening is one visible example of that momentum reaching a local park rather than staying at the elite level.
+Let's be precise about the Paralympic side, because it gets overstated. Skateboarding is not a Paralympic sport, and it won't be one in 2028: the International Paralympic Committee approved 22 sports for the Los Angeles Games in January 2023 and added para climbing as a 23rd in June 2024, and adaptive skateboarding wasn't among them. What has changed is visibility around the LA28 build-up. When Paris handed the Paralympic flag to Los Angeles at the closing ceremony on September 8, 2024, the LA28 segment was filmed at the Venice Beach skatepark, with adaptive skaters Oscar Loreto Jr. and Kanya Sesser and WCMX pioneer Aaron "Wheelz" Fotheringham riding alongside Anderson .Paak. On the ground, the City of Los Angeles's PlayLA Adaptive Youth Sports Program has run adaptive skateboarding and WCMX classes since autumn 2022 with the Challenged Athletes Foundation, coached by Paralympians Mike Shea and Rudy Garcia-Tolson and by Loreto himself. World WCMX, the sport's governing body, has announced its first North American Adaptive Skateboarding Championship for December 2026 at La Quinta X Park in California. Pelican Park's opening is one visible example of that momentum reaching a local park rather than staying at the elite level.
 
 ## The design lesson that applies to you
 
@@ -4137,13 +4137,13 @@ The answer has a name, and it isn't "exercise." It's "third place" — and once 
 
 ## What a third place actually is
 
-The sociologist Ray Oldenburg coined the term decades ago to describe the informal public spaces that sit outside home (your "first place") and work (your "second place") — somewhere you can show up without an agenda, without needing to buy anything, and be around other people without the structure of a meeting, a shift, or a family obligation. Cafés, pubs, barbershops, and town squares used to fill this role. Oldenburg's argument was that a healthy adult life needs all three places, and that most modern life has quietly let the third one wither.
+The sociologist Ray Oldenburg coined the term in his 1989 book *The Great Good Place* to describe the informal public spaces that sit outside home (your "first place") and work (your "second place") — somewhere you can show up without an agenda, without needing to buy anything, and be around other people without the structure of a meeting, a shift, or a family obligation. Cafés, pubs, barbershops, bookstores, and town squares used to fill this role. Oldenburg's argument was that a healthy adult life needs all three places, and that most modern life has quietly let the third one wither.
 
-That withering is most of why "third place" has become a mainstream phrase again — usually paired with reporting on how isolated a lot of adults have become. The 2023 U.S. Surgeon General's advisory on loneliness put a public-health label on something a lot of people already felt: adult social circles shrink hard after your twenties, and most of the places built to reverse that have disappeared or gone commercial.
+That withering is most of why "third place" has become a mainstream phrase again — usually paired with reporting on how isolated a lot of adults have become. The U.S. Surgeon General's 2023 advisory, *Our Epidemic of Loneliness and Isolation*, put a public-health label on something a lot of people already felt. Its headline figure: Americans spent about 20 minutes a day in person with friends in 2020, down from roughly an hour a day in 2003. Adult social circles shrink, and most of the places built to reverse that have disappeared or gone commercial.
 
 ## Why almost nothing else qualifies anymore
 
-Look honestly at the candidates. A coffee shop now expects you to buy something, and most of the people in it have headphones on and a laptop open — it's a second workplace, not a gathering spot. A bar costs money, skews toward evenings and a narrower age band, and centers around alcohol rather than an activity. A gym is transactional: you're there for your own workout, on your own schedule, and the social layer is mostly optional and thin. Community centers and churches, Oldenburg's classic examples, have declined in most cities to the point where they're not a realistic daily option for most adults anymore.
+Look honestly at the candidates. A coffee shop now expects you to buy something, and most of the people in it have headphones on and a laptop open — it's a second workplace, not a gathering spot. A bar costs money, skews toward evenings and a narrower age band, and centers around alcohol rather than an activity. A gym is transactional: you're there for your own workout, on your own schedule, and the social layer is mostly optional and thin. Community centers and churches have declined in most cities to the point where they're not a realistic daily option for most adults anymore.
 
 A skatepark, almost by accident, still checks every box.
 
@@ -4175,7 +4175,7 @@ If you've only ever treated the park as a workout location, a few small shifts m
 
 ## The part that compounds
 
-The first time you show up, you're a stranger. By the fifth or sixth time, you're "that person who's always here on Tuesdays" — and that small bit of recognition is doing more for your week than it looks like from the outside. It's not a deep friendship yet. It doesn't need to be. Public-health researchers who study loneliness keep landing on the same finding: it's the low-stakes, repeated, casual contact — not the rare big social event — that actually protects people against isolation over the long run.
+The first time you show up, you're a stranger. By the fifth or sixth time, you're "that person who's always here on Tuesdays" — and that small bit of recognition is doing more for your week than it looks like from the outside. It's not a deep friendship yet. It doesn't need to be. There's research behind that. In two studies published in 2014, psychologists Gillian Sandstrom and Elizabeth Dunn had people count their daily interactions and found that on days with more casual contact with acquaintances — "weak ties," in the jargon — people reported feeling happier and more like they belonged. The low-stakes, repeated, casual contact does more for you than the rare big social event.
 
 You don't need to be good at skating for any of this to work. You need to keep showing up to the same slab of concrete, at roughly the same time, often enough that it starts to know you back.
 
