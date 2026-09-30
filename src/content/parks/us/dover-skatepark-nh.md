@@ -12,7 +12,7 @@ adultFriendly: true
 hasLighting: true
 hasParking: true
 isIndoor: false
-openingHours: "Check the site for current hours"
+openingHours: "Open daily for extended evening sessions"
 entryFee: "Free"
 googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=Guppey+Park+Portland+Ave+Dover+NH+03820"
 featured: false

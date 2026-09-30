@@ -11,7 +11,7 @@ difficulty: "mixed"
 adultFriendly: true
 hasLighting: true
 isIndoor: false
-openingHours: "Dawn to dusk (lights operational)"
+openingHours: "Open daily"
 entryFee: "Free"
 googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=591+Pleasant+View+Rd+Hillsborough+NJ+08844"
 featured: false
