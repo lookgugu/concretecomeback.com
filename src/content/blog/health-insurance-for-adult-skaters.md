@@ -44,7 +44,7 @@ Insurers respond better to a paper trail than a verbal explanation, and if you'r
 
 When you're looking at open enrollment options side by side, skip the marketing summary and check these four numbers directly:
 
-**The deductible for outpatient imaging.** An X-ray or MRI after a bad fall is routine in this sport. Know what you'd actually pay before you need one.
+**What you'd actually owe for outpatient imaging.** An X-ray or MRI after a bad fall is routine in this sport, and the deductible alone won't tell you the number — plenty of plans apply a copay or coinsurance to imaging on top of or instead of the general deductible. Check whether imaging counts toward your deductible at all, what the copay or coinsurance is once it's met, whether network matters, and where that falls relative to your out-of-pocket maximum. Know the real number before you need one.
 
 **Out-of-network urgent care coverage**, especially if you skate somewhere other than your home city — travel, visiting family, a weekend trip to a park you've been wanting to try.
 
