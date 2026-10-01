@@ -1,6 +1,6 @@
 ---
 title: "What Adult Skaters Should Know Before Open Enrollment"
-description: "A practical look at HSA/FSA-eligible gear, documenting recurring injuries, and what to check on your health plan before you re-enroll this fall."
+description: "A practical look at HSA/FSA-eligible gear, documenting recurring injuries, and what to check on your health plan before your next open enrollment."
 pubDate: 2026-10-01
 author: "Jo Fairweather"
 authorAge: 52

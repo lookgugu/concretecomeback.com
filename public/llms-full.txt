@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-01T09:52:00.796Z
+# Date: 2026-10-01T09:55:45.287Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -1548,7 +1548,7 @@ Every subsequent skill — pushing efficiently, carving with control, eventually
 
 
 ### What Adult Skaters Should Know Before Open Enrollment
-A practical look at HSA/FSA-eligible gear, documenting recurring injuries, and what to check on your health plan before you re-enroll this fall.
+A practical look at HSA/FSA-eligible gear, documenting recurring injuries, and what to check on your health plan before your next open enrollment.
 
 Open enrollment rolls around every year — often in the fall, though the exact window depends on your employer, your country, and whether you're on a marketplace or workplace plan — and most adult skaters treat their health plan the way they treat the fine print on a software update — something to click past. Then February arrives, a knee flares up, physical therapy gets recommended, and it's a scramble to figure out what's actually covered. Check your own plan's actual dates rather than assuming a calendar month; missing your specific window can mean waiting a full year for another chance to change coverage.
 
