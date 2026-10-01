@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-01T10:06:34.105Z
+# Date: 2026-10-01T14:09:42.890Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -1550,7 +1550,7 @@ Every subsequent skill — pushing efficiently, carving with control, eventually
 ### What Adult Skaters Should Know Before Open Enrollment
 A practical look at HSA/FSA-eligible gear, documenting recurring injuries, and what to check on your health plan before your next open enrollment.
 
-Open enrollment rolls around every year — often in the fall, though the exact window depends on your employer, your country, and whether you're on a marketplace or workplace plan — and most adult skaters treat their health plan the way they treat the fine print on a software update — something to click past. Then February arrives, a knee flares up, physical therapy gets recommended, and it's a scramble to figure out what's actually covered. Check your own plan's actual dates rather than assuming a calendar month; missing your specific window can mean waiting a full year for another chance to change coverage.
+Open enrollment rolls around every year, often in the fall, though the exact window depends on your employer, your country, and whether you're on a marketplace or workplace plan. Most adult skaters treat their health plan the way they treat the fine print on a software update: something to click past. Then February arrives, a knee flares up, physical therapy gets recommended, and it's a scramble to figure out what's actually covered. Check your own plan's actual dates rather than assuming a calendar month. Outside that window, the only way to change coverage is a special enrollment period after a qualifying life event — a marriage, a new child, a move, losing other coverage — and a skating injury isn't one, so missing your window usually means waiting a full year.
 
 You don't need to become an insurance expert. You do need to ask a handful of specific questions before you lock in a plan for the year, because the honest truth is that returning to a fall-based sport in your 40s or 50s changes what you need from a policy. None of this is legal or financial advice, and most of the specifics below — HSAs, FSAs, copays, provider networks — are U.S. concepts tied to U.S. employer and marketplace plans. If you're in the UK, Canada, or Australia, your public and private coverage works differently, but the underlying questions still transfer: what a recurring physio/PT need actually costs you, what a fall-related ER visit or imaging scan costs under your system, and whether any employer benefit or tax-advantaged account in your country covers protective gear. Check what your own system's equivalent looks like rather than assuming any of this applies directly.
 
@@ -2519,9 +2519,9 @@ Longboard dancing is skating a longer, often wider deck (40 inches and up) with 
 
 ## What you actually need to start
 
-**A longboard built for dancing**, not just any longboard. Look for a top-mounted deck (it sits directly on the trucks rather than dropped through them) in the 40–46 inch range, with some flex and real kicktails. Top-mount gives you the uninterrupted standing platform that cross-stepping needs, and a usable kicktail is what gives you the leverage for manuals. A drop-through or drop-deck board — the kind built for downhill or commuting stability — works against both of those: the dropped platform gets in the way of your feet mid cross-step, and most don't have a real kicktail at all. It looks like a longboard, but it's the wrong tool for this specifically.
+**A longboard built for dancing**, not just any longboard. Look for a top-mounted deck (it sits directly on the trucks rather than dropped through them) in the 40–48 inch range, with some flex and real kicktails. Top-mount gives you the uninterrupted standing platform that cross-stepping needs, and a usable kicktail is what gives you the leverage for manuals. A drop-through or drop-deck board — the kind built for downhill or commuting stability — works against both of those: the dropped platform gets in the way of your feet mid cross-step, and most don't have a real kicktail at all. It looks like a longboard, but it's the wrong tool for this specifically.
 
-**Softer, larger wheels** — think 70mm or bigger, in the 78a–83a durometer range — for a smooth, forgiving ride on imperfect pavement. This is the opposite end of the wheel spectrum from street skating, and it's part of what makes dancing feel so much more controllable at low speed.
+**Softer, mid-sized wheels** — think 65–70mm, in the 78a–83a durometer range — for a smooth, forgiving ride on imperfect pavement. This is the opposite end of the wheel spectrum from street skating, and it's part of what makes dancing feel so much more controllable at low speed. Dancing wheels stop around 70mm rather than going bigger because a top-mount deck sits close to the wheels, and anything larger needs risers to clear the deck — which is the wheel-bite problem covered next.
 
 **Trucks set up looser than you're used to**, if you skated a popsicle deck as a teenager — dancing relies on the board turning readily under a shifting weight, so a truck tightness that felt right for stability on a traditional deck will feel locked-up and awkward here. Loosen them gradually, though, and check for wheel bite at every step: bigger wheels plus looser trucks means more lean, and a wheel that catches the underside of the deck mid-turn stops the board dead and throws you. Before you take a freshly loosened setup anywhere with traffic or other people, lean the board hard over on both sides while stationary and confirm nothing catches. If it does, back off the looseness, size down the wheels, or add risers until it clears.
 
@@ -4408,7 +4408,7 @@ What happens when one person in a relationship falls back into skateboarding and
 
 I didn't coin the term "skate widow," but I hear some version of it constantly at our sessions — usually said half-joking by a skater about their own partner, and usually with a wince underneath the joke. It describes something real: one person in a household gets back into skateboarding, and the other person is left wondering where their Tuesday evenings went, why there's a new $150 line item on the credit card, and why their 44-year-old partner has a bruise shaped like a curb.
 
-This is different from the family-skepticism conversation I've written about before, where parents or siblings question whether a comeback is a midlife crisis from the outside. This is closer in, and it's less about being judged and more about two people's time and attention pulling in different directions inside the same household.
+This is different from [the family-skepticism conversation I've written about before](/blog/family-thinks-comeback-is-midlife-crisis/), which is about answering the midlife-crisis judgment itself, whether it comes from a spouse, a parent, or a friend. This is closer in, and it's less about being judged and more about two people's time and attention pulling in different directions inside the same household.
 
 ## Why this hits differently than other hobbies
 

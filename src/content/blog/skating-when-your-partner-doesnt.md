@@ -12,7 +12,7 @@ draft: false
 
 I didn't coin the term "skate widow," but I hear some version of it constantly at our sessions — usually said half-joking by a skater about their own partner, and usually with a wince underneath the joke. It describes something real: one person in a household gets back into skateboarding, and the other person is left wondering where their Tuesday evenings went, why there's a new $150 line item on the credit card, and why their 44-year-old partner has a bruise shaped like a curb.
 
-This is different from the family-skepticism conversation I've written about before, where parents or siblings question whether a comeback is a midlife crisis from the outside. This is closer in, and it's less about being judged and more about two people's time and attention pulling in different directions inside the same household.
+This is different from [the family-skepticism conversation I've written about before](/blog/family-thinks-comeback-is-midlife-crisis/), which is about answering the midlife-crisis judgment itself, whether it comes from a spouse, a parent, or a friend. This is closer in, and it's less about being judged and more about two people's time and attention pulling in different directions inside the same household.
 
 ## Why this hits differently than other hobbies
 
