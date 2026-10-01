@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-01T09:31:37.821Z
+# Date: 2026-10-01T09:40:41.860Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -1570,7 +1570,7 @@ This is the one most skaters skip, and it's the one that matters most if you're 
 
 ## What's often eligible under an HSA or FSA
 
-If your employer offers a Health Savings Account or Flexible Spending Account, a surprising amount of skate-adjacent gear can qualify as an eligible medical expense — but eligibility rules are specific and change, so confirm with your plan administrator before you buy, and keep receipts either way.
+If your employer offers a Health Savings Account or Flexible Spending Account, a surprising amount of skate-adjacent gear can qualify as an eligible medical expense — but eligibility rules are specific and change, and the two accounts don't check that eligibility the same way. For an FSA, your plan administrator is the one to confirm with before you buy. For an HSA, there's no administrator to ask — you're the one determining whether an expense qualifies, so check current IRS guidance (or a tax professional) rather than treating anything short of that as approval. Either way, keep receipts.
 
 Items that are sometimes eligible, often with a Letter of Medical Necessity from a doctor: wrist guards and knee braces prescribed for an existing or recurring injury, orthotic inserts, and compression gear recommended as part of a treatment plan. A general "just in case" purchase of protective gear is far less likely to qualify than gear tied to a documented injury or a provider's recommendation — that documentation step is usually what decides it.
 
@@ -2529,7 +2529,7 @@ Helmet and wrist guards still apply — this is lower-impact, not no-impact, and
 
 ## How to actually start learning
 
-Begin with pushing and basic turning until the board's length stops feeling unfamiliar under your feet — this takes longer than it does on a shorter deck, simply because there's more board to manage. From there, the foundational dancing move is the cross-step: walking your feet toward the nose and back toward the tail while the board keeps rolling, which is less about balance tricks and more about trusting the board to stay under you while your feet are doing something other than standing still.
+Begin with pushing, basic turning, and a reliable stop — foot braking, dragging your back foot against the pavement until you've fully slowed — until the board's length stops feeling unfamiliar under your feet and you can stop on command, not just in theory. This takes longer than it does on a shorter deck, simply because there's more board to manage, but it's not optional: even on empty, traffic-free pavement you still need to stop before a curb, a boundary, or anything unexpected. Only once that's solid should you move on to the foundational dancing move, the cross-step: walking your feet toward the nose and back toward the tail while the board keeps rolling, which is less about balance tricks and more about trusting the board to stay under you while your feet are doing something other than standing still.
 
 YouTube has a genuinely good library of longboard dancing tutorials that break the cross-step and basic manuals into small, practicable steps — look for ones that emphasize slow, controlled practice over speed, since speed is the last thing you add, not the first. Most people get a usable cross-step within a handful of sessions of flat-ground practice, well before it would feel natural to add any kind of trick.
 

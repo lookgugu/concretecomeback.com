@@ -30,7 +30,7 @@ This is the one most skaters skip, and it's the one that matters most if you're 
 
 ## What's often eligible under an HSA or FSA
 
-If your employer offers a Health Savings Account or Flexible Spending Account, a surprising amount of skate-adjacent gear can qualify as an eligible medical expense — but eligibility rules are specific and change, so confirm with your plan administrator before you buy, and keep receipts either way.
+If your employer offers a Health Savings Account or Flexible Spending Account, a surprising amount of skate-adjacent gear can qualify as an eligible medical expense — but eligibility rules are specific and change, and the two accounts don't check that eligibility the same way. For an FSA, your plan administrator is the one to confirm with before you buy. For an HSA, there's no administrator to ask — you're the one determining whether an expense qualifies, so check current IRS guidance (or a tax professional) rather than treating anything short of that as approval. Either way, keep receipts.
 
 Items that are sometimes eligible, often with a Letter of Medical Necessity from a doctor: wrist guards and knee braces prescribed for an existing or recurring injury, orthotic inserts, and compression gear recommended as part of a treatment plan. A general "just in case" purchase of protective gear is far less likely to qualify than gear tied to a documented injury or a provider's recommendation — that documentation step is usually what decides it.
 
