@@ -24,11 +24,11 @@ Longboard dancing is skating a longer, often wider deck (40 inches and up) with 
 
 ## What you actually need to start
 
-**A longboard built for dancing**, not just any longboard. Look for a deck in the 40–46 inch range with a drop-through or drop-deck construction (lowers your stance for stability) and enough standing platform — foot room — to actually cross-step along it. A board built for downhill or commuting is too short and too narrow for this; the deck length is the one spec that matters most.
+**A longboard built for dancing**, not just any longboard. Look for a top-mounted deck (it sits directly on the trucks rather than dropped through them) in the 40–46 inch range, with some flex and real kicktails. Top-mount gives you the uninterrupted standing platform that cross-stepping needs, and a usable kicktail is what gives you the leverage for manuals. A drop-through or drop-deck board — the kind built for downhill or commuting stability — works against both of those: the dropped platform gets in the way of your feet mid cross-step, and most don't have a real kicktail at all. It looks like a longboard, but it's the wrong tool for this specifically.
 
 **Softer, larger wheels** — think 70mm or bigger, in the 78a–83a durometer range — for a smooth, forgiving ride on imperfect pavement. This is the opposite end of the wheel spectrum from street skating, and it's part of what makes dancing feel so much more controllable at low speed.
 
-**Trucks set up looser than you're used to**, if you skated a popsicle deck as a teenager. Dancing relies on the board turning readily under a shifting weight, so a truck tightness that felt right for stability on a traditional deck will feel locked-up and awkward here.
+**Trucks set up looser than you're used to**, if you skated a popsicle deck as a teenager — dancing relies on the board turning readily under a shifting weight, so a truck tightness that felt right for stability on a traditional deck will feel locked-up and awkward here. Loosen them gradually, though, and check for wheel bite at every step: bigger wheels plus looser trucks means more lean, and a wheel that catches the underside of the deck mid-turn stops the board dead and throws you. Before you take a freshly loosened setup anywhere with traffic or other people, lean the board hard over on both sides while stationary and confirm nothing catches. If it does, back off the looseness, size down the wheels, or add risers until it clears.
 
 Helmet and wrist guards still apply — this is lower-impact, not no-impact, and a stumble at speed on pavement is still a stumble on pavement.
 
