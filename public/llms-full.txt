@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-01T14:14:43.222Z
+# Date: 2026-10-01T14:19:44.641Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -2521,7 +2521,7 @@ Longboard dancing is skating a longer, often wider deck (40 inches and up) with 
 
 **A longboard built for dancing**, not just any longboard. Look for a top-mounted deck (it sits directly on the trucks rather than dropped through them) in the 40–48 inch range, with some flex and real kicktails. Top-mount gives you the uninterrupted standing platform that cross-stepping needs, and a usable kicktail is what gives you the leverage for manuals. A drop-through or drop-deck board — the kind built for downhill or commuting stability — works against both of those: the dropped platform gets in the way of your feet mid cross-step, and most don't have a real kicktail at all. It looks like a longboard, but it's the wrong tool for this specifically.
 
-**Softer, mid-sized wheels** — think 65–70mm, in the 78a–83a durometer range — for a smooth, forgiving ride on imperfect pavement. This is the opposite end of the wheel spectrum from street skating, and it's part of what makes dancing feel so much more controllable at low speed. Dancing wheels stop around 70mm rather than going bigger because a top-mount deck sits close to the wheels, and anything larger needs risers to clear the deck — which is the wheel-bite problem covered next.
+**Softer, mid-sized wheels** — think 65–70mm, in the 78a–83a durometer range — for a smooth, forgiving ride on imperfect pavement. This is the opposite end of the wheel spectrum from street skating, and it's part of what makes dancing feel so much more controllable at low speed. Dancing wheels generally stay in this range rather than going bigger because most top-mount decks sit close to the wheels, but clearance really depends on your specific deck's wheel wells, truck height, and wheel width — not the wheel size alone. Don't treat 70mm as an automatic green light or a hard ceiling; the stationary clearance test covered next is what actually tells you.
 
 **Trucks set up looser than you're used to**, if you skated a popsicle deck as a teenager — dancing relies on the board turning readily under a shifting weight, so a truck tightness that felt right for stability on a traditional deck will feel locked-up and awkward here. Loosen them gradually, though, and check for wheel bite at every step: bigger wheels plus looser trucks means more lean, and a wheel that catches the underside of the deck mid-turn stops the board dead and throws you. Before you take a freshly loosened setup anywhere with traffic or other people, lean the board hard over on both sides while stationary and confirm nothing catches. If it does, back off the looseness, size down the wheels, or add risers until it clears.
 
