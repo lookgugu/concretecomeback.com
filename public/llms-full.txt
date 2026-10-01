@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-01T09:22:07.642Z
+# Date: 2026-10-01T09:31:37.821Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -1552,7 +1552,7 @@ A practical look at HSA/FSA-eligible gear, documenting recurring injuries, and w
 
 Open enrollment rolls around every year — often in the fall, though the exact window depends on your employer, your country, and whether you're on a marketplace or workplace plan — and most adult skaters treat their health plan the way they treat the fine print on a software update — something to click past. Then February arrives, a knee flares up, physical therapy gets recommended, and it's a scramble to figure out what's actually covered. Check your own plan's actual dates rather than assuming a calendar month; missing your specific window can mean waiting a full year for another chance to change coverage.
 
-You don't need to become an insurance expert. You do need to ask a handful of specific questions before you lock in a plan for the year, because the honest truth is that returning to a fall-based sport in your 40s or 50s changes what you need from a policy. None of this is legal or financial advice — plans vary enormously by country, employer, and insurer — but the categories below are worth checking regardless of where you live.
+You don't need to become an insurance expert. You do need to ask a handful of specific questions before you lock in a plan for the year, because the honest truth is that returning to a fall-based sport in your 40s or 50s changes what you need from a policy. None of this is legal or financial advice, and most of the specifics below — HSAs, FSAs, copays, provider networks — are U.S. concepts tied to U.S. employer and marketplace plans. If you're in the UK, Canada, or Australia, your public and private coverage works differently, but the underlying questions still transfer: what a recurring physio/PT need actually costs you, what a fall-related ER visit or imaging scan costs under your system, and whether any employer benefit or tax-advantaged account in your country covers protective gear. Check what your own system's equivalent looks like rather than assuming any of this applies directly.
 
 ## Why this is worth ten minutes of your enrollment window
 
@@ -1578,7 +1578,7 @@ The two accounts work differently once you've got that paperwork. An FSA typical
 
 ## Documenting a recurring injury so it actually counts
 
-Insurers and HSA administrators both respond better to a paper trail than a verbal explanation. If you're dealing with something that keeps coming back — a wrist that aches after longer sessions, a hip that needs a warm-up before it cooperates — a short, dated note from your doctor or physiotherapist describing the diagnosis and recommended treatment is worth getting even if you don't need it immediately. It turns "this happens sometimes" into something a claims reviewer can act on, and it's much easier to request while you're already in an appointment than to chase down six months later.
+Insurers respond better to a paper trail than a verbal explanation, and if you're ever audited on an HSA withdrawal, so will you. If you're dealing with something that keeps coming back — a wrist that aches after longer sessions, a hip that needs a warm-up before it cooperates — a short, dated note from your doctor or physiotherapist describing the diagnosis and recommended treatment is worth getting even if you don't need it immediately. It turns "this happens sometimes" into something an insurer's claims reviewer can act on — or, for an HSA withdrawal, something you have on hand if you ever need to substantiate it — and it's much easier to request while you're already in an appointment than to chase down six months later.
 
 ## What to actually compare between plans
 
@@ -2515,7 +2515,7 @@ Longboard dancing is skating a longer, often wider deck (40 inches and up) with 
 
 **The falls are different.** You're not dropping into a bowl or launching off anything. Dancing happens rolling on flat or gently rolling ground, at a controllable speed, with your feet already in motion rather than static before a trick attempt. That doesn't mean you can't fall — balance mistakes happen, especially early on — but the mechanism of injury is closer to a stumble than an impact, and it rarely involves the kind of vertical drop that makes wrist and ankle injuries so common on a popsicle deck.
 
-**The practice venue is almost anywhere.** A quiet stretch of smooth pavement, an empty parking lot on a weekend morning, a bike path with light traffic — dancing doesn't require a skatepark, which removes both the logistics problem and the "will I feel out of place among teenagers doing tricks" problem that keeps a lot of adults from their first session back.
+**The practice venue is almost anywhere, once you can steer and stop reliably.** A quiet stretch of smooth pavement or an empty parking lot on a weekend morning is where the learning actually happens — cross-steps and early manuals are unpredictable enough that they need traffic-free ground, not a shared path. Dancing still doesn't require a skatepark, which removes both the logistics problem and the "will I feel out of place among teenagers doing tricks" problem that keeps a lot of adults from their first session back — save an actual bike path or trail for once you can control the board confidently at a walking pace.
 
 ## What you actually need to start
 

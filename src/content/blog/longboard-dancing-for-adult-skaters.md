@@ -20,7 +20,7 @@ Longboard dancing is skating a longer, often wider deck (40 inches and up) with 
 
 **The falls are different.** You're not dropping into a bowl or launching off anything. Dancing happens rolling on flat or gently rolling ground, at a controllable speed, with your feet already in motion rather than static before a trick attempt. That doesn't mean you can't fall — balance mistakes happen, especially early on — but the mechanism of injury is closer to a stumble than an impact, and it rarely involves the kind of vertical drop that makes wrist and ankle injuries so common on a popsicle deck.
 
-**The practice venue is almost anywhere.** A quiet stretch of smooth pavement, an empty parking lot on a weekend morning, a bike path with light traffic — dancing doesn't require a skatepark, which removes both the logistics problem and the "will I feel out of place among teenagers doing tricks" problem that keeps a lot of adults from their first session back.
+**The practice venue is almost anywhere, once you can steer and stop reliably.** A quiet stretch of smooth pavement or an empty parking lot on a weekend morning is where the learning actually happens — cross-steps and early manuals are unpredictable enough that they need traffic-free ground, not a shared path. Dancing still doesn't require a skatepark, which removes both the logistics problem and the "will I feel out of place among teenagers doing tricks" problem that keeps a lot of adults from their first session back — save an actual bike path or trail for once you can control the board confidently at a walking pace.
 
 ## What you actually need to start
 
