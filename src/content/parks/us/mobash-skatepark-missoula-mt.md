@@ -12,7 +12,7 @@ adultFriendly: true
 hasLighting: false
 hasParking: true
 isIndoor: false
-openingHours: "Open daily, generally 24 hours"
+openingHours: "6:00 a.m. - 11:00 p.m. daily"
 entryFee: "Free"
 website: "https://www.ci.missoula.mt.us/175/Skatepark"
 googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=600+Cregg+Ln+Missoula+MT"
