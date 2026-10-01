@@ -42,7 +42,7 @@ Insurers respond better to a paper trail than a verbal explanation, and if you'r
 
 ## What to actually compare between plans
 
-When you're looking at open enrollment options side by side, skip the marketing summary and check these four numbers directly:
+These four categories are specific to the injury pattern this sport creates — they're not the whole picture. A plan can lead on all four and still cost you more over the year once you factor in the premium, so weigh them against the basics you'd compare for any plan: the premium itself (and what your employer covers), the general deductible, and the overall out-of-pocket maximum, which is what actually caps your exposure in a bad-fall year. With those as the baseline, check these four numbers for how this specific sport will use the plan:
 
 **What you'd actually owe for outpatient imaging.** An X-ray or MRI after a bad fall is routine in this sport, and the deductible alone won't tell you the number — plenty of plans apply a copay or coinsurance to imaging on top of or instead of the general deductible. Check whether imaging counts toward your deductible at all, what the copay or coinsurance is once it's met, whether network matters, and where that falls relative to your out-of-pocket maximum. Know the real number before you need one.
 
