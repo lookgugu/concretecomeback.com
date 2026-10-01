@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-09-30T15:22:04.410Z
+# Date: 2026-10-01T07:29:38.005Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -6192,6 +6192,25 @@ Fargo Skateboarding is a nearly 10,000-square-foot heated indoor facility in DeK
 Older skaters are exceptionally well-supported here. The facility hosts specific beginner sessions (typically on Saturdays) that provide a low-stress environment supervised by coaches. Beyond the beginner blocks, they offer private group classes structured specifically for adults. The building also houses an [on-site skate shop](/directory/shops/us/fargo-skateboarding-shop-dekalb-il) that can provide all the necessary protective gear and completes to get you started safely. Call ahead to confirm the schedule for the next adult-specific session.
 
 
+### Gathering Place Skate Park
+A modern, smooth concrete park with three separate areas catering to different skill levels, offering older skaters a stress-free learning environment. Open daily and fully lit for evening sessions.
+Location: Tulsa, Oklahoma, US
+Website: https://www.gatheringplace.org/attractions/attractions/skate-park
+
+The Gathering Place Skate Park features smooth concrete and an inclusive layout divided into three distinct skill zones, allowing newer or returning skaters to practice without weaving through advanced traffic. A pump track and mellow street elements make it highly approachable. 
+
+The park is well-lit for evening use, which is ideal for older skaters fitting a session in after work. It opens early at 7am, offering a quieter window before the afternoon crowds arrive.
+
+
+### Glasgow Skate Park
+A 24,000-square-foot concrete facility featuring a street plaza and two bowls. Ideal for older skaters seeking weekday morning quiet windows on smooth, well-maintained surfaces.
+Location: Newark, Delaware, US
+
+Glasgow Skate Park is a substantial 24,000-square-foot public concrete facility set within Glasgow Regional Park. It features a varied street section with hubba ledges and banked wall rides, alongside two different styles of bowls. 
+
+The park is praised for its smooth, well-maintained surface, making it an excellent spot for learning and progression. While it can get busy on weekends, older skaters consistently recommend weekday morning and early afternoon hours for a quiet, low-pressure session. The varied features allow skaters to pick obstacles perfectly matched to their current comfort level.
+
+
 ### Hazelwood Skatepark
 A smooth concrete park featuring two large bowls and street elements. The design explicitly caters to varying skill levels, providing separation for beginners and experienced skaters.
 Location: Baltimore, Maryland, US
@@ -6345,6 +6364,26 @@ Situated on the campus of the Indy Cycloplex, Major Taylor Skatepark is a concre
 As a popular public park, it can get busy during peak hours. However, sources note a reliable quiet window during weekday mornings, offering older beginners a much less intimidating environment to practice without navigating heavy traffic. Proper safety gear—including helmets, knee pads, and elbow pads—is required for all users. For board evaluations, repairs, or custom builds, [Minus Skate Shop](/directory/shops/us/minus-skateshop-carmel-in) in nearby Carmel is highly recommended.
 
 
+### Mat Hoffman Action Sports Park
+A sprawling 26,000-square-foot concrete park clearly divided into flow and street zones. While challenging, early mornings (8am–11am) provide a relaxed atmosphere for older skaters.
+Location: Oklahoma City, Oklahoma, US
+Website: https://www.okc.gov/departments/parks-recreation/parks-trails/mat-hoffman-action-sports-park
+
+Mat Hoffman Action Sports Park is a massive concrete facility divided into two distinct primary areas: a flow course featuring varied bowl combinations, and a street course with ledges, rails, and stairs. They are separated by a wide sidewalk, which helps physically separate different riding lines.
+
+While the park features intimidating advanced elements like an 11-foot half pipe, the physical separation means you can stick to your comfort zone. Local sources heavily recommend visiting during the morning hours (8am–11am) to avoid the crowds, making it a viable and welcoming space for older skaters learning or regaining their balance.
+
+
+### MoBash Skatepark
+A large concrete park in McCormick Park offering mellow practice zones for learners alongside advanced bowls. A supportive community hub for all ages.
+Location: Missoula, Montana, US
+Website: https://www.ci.missoula.mt.us/175/Skatepark
+
+MoBash Skatepark is a smooth, sprawling concrete facility located within McCormick Park. While it features advanced elements like deep bowls and a full cradle, its layout intentionally includes mellow ramps and practice zones that are perfect for those just learning or regaining their balance.
+
+The park serves as a welcoming community hub for skaters of all ages. Note that the facility is unsupervised and city ordinance strictly requires wearing a properly fastened helmet, so come prepared.
+
+
 ### Modern Skate and Surf
 A sprawling indoor wood park that hosts dedicated adult-only sessions (21+) and stays open late into the evening, perfect for older skaters dodging the weather.
 Location: Royal Oak, Michigan, US
@@ -6391,6 +6430,16 @@ Website: https://www.phoenix.gov/parks/parks/skate-parks
 Situated in the Ahwatukee Foothills within Pecos Park, this 29,500-square-foot concrete facility is one of the premier municipal skateparks in Arizona. A crucial advantage for older skaters is the park's strict skateboard-and-inline rule that prohibits bicycles and motorized scooters, dramatically reducing unpredictable crossing traffic and high-speed collision hazards.
 
 The layout features an expansive, open-concept street plaza loaded with gentle rolling pump bumps, flat ground banks, and wide curb-height ledges alongside a 7-foot transition bowl. Morning sessions between 7am and 9am are the best window for returning skaters, avoiding both peak desert temperatures and crowded afternoon gatherings.
+
+
+### Penn Valley Skatepark
+A 17,000-square-foot concrete plaza known for a diverse, welcoming atmosphere. Features a shallow bowl perfect for learning to drop in, and lights that stay on until midnight.
+Location: Kansas City, Missouri, US
+Website: https://kcparks.org/places/penn-valley-skate-park/
+
+Penn Valley Skatepark, also known as Kansas City Skate Plaza, is a 17,000-square-foot concrete facility set in a scenic park. The layout serves both street and transition skaters, and importantly lacks any localized, intimidating vibe.
+
+Older skaters will appreciate the shallow end of the bowl, widely recommended as an ideal spot to safely learn to drop in and practice transition basics. For those balancing skating with work, the park opens at 5am and remains brightly lit until midnight. It pairs excellently with a visit to the local core shop, Escapist Skateboarding.
 
 
 ### Peter Mathews Memorial Skate Garden
@@ -6450,6 +6499,15 @@ Website: https://www.apexnc.org/Facilities/Facility/Details/Rogers-Family-Skate-
 Constructed by Team Pain within Hunter Street Park, the Rogers Family Skate Plaza offers a four-tiered concrete design tailored to simulate street lines while maintaining clean line-of-sight separation. Lower tiers are dedicated to wide flatground ledges, mini-banks, and curb-height rails, keeping novice and returning skaters out of the trajectory of the higher-speed multi-level bowl.
 
 The plaza remains open around the clock with automated floodlights extending until 9:30pm on weeknights and 11:30pm on Saturdays. An early dawn visit provides peaceful, dew-free concrete before heat and school crowds set in. Town ordinance strictly mandates helmets and protective pads, fostering a safe, respectful environment for older skaters.
+
+
+### Rydell Skatepark
+A freshly resurfaced concrete park blending an open bowl with street features. Designed to be highly approachable for new skaters with lights extending sessions until 11pm.
+Location: Grand Forks, North Dakota, US
+
+Rydell Skatepark, located in Kannowski Park, is a community staple that received a major concrete resurfacing and revitalization in 2023. The layout blends an open bowl with fundamental street features.
+
+The park is widely celebrated as beginner-friendly and safe, designed specifically to be approachable for new riders while still allowing room for progression. With operating hours starting early at 6am and lights keeping the park open until 11pm, older skaters have plenty of flexibility to find a quiet window that fits their schedule.
 
 
 ### Sayreville Skatepark
@@ -6710,6 +6768,16 @@ Location: San Francisco, California, US
 Website: https://www.dlxsf.com
 
 DLX is more of an industry shop than an adult-specific shop, but the level of skateboarding knowledge among staff is exceptional. If you want expert help building a custom setup without being steered toward trendy products, this is the place. It sits less than a mile east of SoMa West Skatepark on Duboce Avenue, making it an easy stop for hardware or fresh wheels before an under-freeway session.
+
+
+### Escapist Skateboarding
+Kansas City's premier independent core shop. Known for patient, knowledgeable staff who guide newer skaters toward quality setups over big-box alternatives.
+Location: Kansas City, Missouri, US
+Website: https://escapistskateboarding.com
+
+Escapist Skateboarding is widely regarded as the cornerstone of the Kansas City skate scene. Rather than pushing intimidating core vibes, the skater-owned shop focuses heavily on community and support for all skill levels. 
+
+Customers rave about the staff's willingness to patiently explain equipment differences to beginners and older skaters getting back on a board. If you're heading to the nearby Penn Valley Skatepark, stopping here first for a custom build or fresh gear is highly recommended.
 
 
 ### Fargo Skateboarding Shop
