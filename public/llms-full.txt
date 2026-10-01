@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-01T09:17:59.348Z
+# Date: 2026-10-01T09:22:07.642Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -1550,7 +1550,7 @@ Every subsequent skill — pushing efficiently, carving with control, eventually
 ### What Adult Skaters Should Know Before Open Enrollment
 A practical look at HSA/FSA-eligible gear, documenting recurring injuries, and what to check on your health plan before you re-enroll this fall.
 
-Every November, open enrollment rolls around and most adult skaters treat their health plan the way they treat the fine print on a software update — something to click past. Then February arrives, a knee flares up, physical therapy gets recommended, and it's a scramble to figure out what's actually covered.
+Open enrollment rolls around every year — often in the fall, though the exact window depends on your employer, your country, and whether you're on a marketplace or workplace plan — and most adult skaters treat their health plan the way they treat the fine print on a software update — something to click past. Then February arrives, a knee flares up, physical therapy gets recommended, and it's a scramble to figure out what's actually covered. Check your own plan's actual dates rather than assuming a calendar month; missing your specific window can mean waiting a full year for another chance to change coverage.
 
 You don't need to become an insurance expert. You do need to ask a handful of specific questions before you lock in a plan for the year, because the honest truth is that returning to a fall-based sport in your 40s or 50s changes what you need from a policy. None of this is legal or financial advice — plans vary enormously by country, employer, and insurer — but the categories below are worth checking regardless of where you live.
 
@@ -1574,7 +1574,7 @@ If your employer offers a Health Savings Account or Flexible Spending Account, a
 
 Items that are sometimes eligible, often with a Letter of Medical Necessity from a doctor: wrist guards and knee braces prescribed for an existing or recurring injury, orthotic inserts, and compression gear recommended as part of a treatment plan. A general "just in case" purchase of protective gear is far less likely to qualify than gear tied to a documented injury or a provider's recommendation — that documentation step is usually what decides it.
 
-If you've already been through [a knee brace decision](/blog/knee-braces-for-adult-skaters/) or an [ankle sprain](/blog/ankle-sprains-adult-skaters/) this year, that paperwork from your provider is exactly what an FSA/HSA administrator will want to see attached to the claim.
+The two accounts work differently once you've got that paperwork. An FSA typically runs through your employer's plan administrator — you submit a claim, often with that documentation attached, and get reimbursed. An HSA usually has no claims process at all: you pay directly from the account (or reimburse yourself later), and you're the one who determines the expense is qualified and keeps the records — it's self-certified, with the documentation there to support you if the IRS ever asks, not to get approved by anyone up front. If you've already been through [a knee brace decision](/blog/knee-braces-for-adult-skaters/) or an [ankle sprain](/blog/ankle-sprains-adult-skaters/) this year, hang onto that paperwork from your provider either way.
 
 ## Documenting a recurring injury so it actually counts
 
