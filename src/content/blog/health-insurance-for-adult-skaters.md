@@ -26,7 +26,7 @@ This is the one most skaters skip, and it's the one that matters most if you're 
 
 **Is a physician referral required before PT is covered?** Plans that require a referral add a step (and a copay) you'll want to budget time for before you can start treatment, not after an injury is already slowing your recovery.
 
-**What's the copay per visit, and is it different for in-network versus out-of-network providers?** A physiotherapist who specializes in sports or skate-specific rehab may be out-of-network. Worth knowing the cost difference before you need to decide under pressure.
+**What does a PT visit actually cost you, in-network versus out-of-network?** A flat copay isn't the only way plans charge for this — plenty put PT toward your deductible or charge coinsurance on the negotiated rate instead, so "no copay" doesn't necessarily mean cheap before you've met your deductible. Check deductible applicability, copay or coinsurance, and the in-network allowed amount, not just the copay line. A physiotherapist who specializes in sports or skate-specific rehab may be out-of-network, too — worth knowing that cost difference before you need to decide under pressure.
 
 ## What's often eligible under an HSA or FSA
 
