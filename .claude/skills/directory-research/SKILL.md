@@ -162,7 +162,5 @@ Keep this current when a batch defers something, so the next pass starts here. T
 - **Kangaroo Bay Skate Park (Rosny Skatepark), Hobart / Clarence TAS** — Bastick St, Rosny; concrete competition bowl and street course; City of Clarence master planning reviews for surrounding precinct. Held: civic precinct master planning review.
 - **Crushed Skate Shop, Washington DC** — 1342 U Street NW; closed physical storefront in April 2025. Held: physical storefront closed.
 - **Cream City Skatepark, Milwaukee WI** — 5560 N. Park Dr; lease ended April 12th, actively looking for a new location. Held: no longer at the original address.
-- **Mat Hoffman Action Sports Park, Oklahoma City OK** — 1700 S Robinson Ave; 27-acre park with 5,000 sf plaza addition. Held: no specific adult-friendly evidence or beginner separation layout sourced yet.
-- **Gathering Place Skate Park, Tulsa OK** — 2650 S John Williams Way E; lit, separated areas. Held: surface material not explicitly confirmed in sources.
 - **Roberts Skate Park, Omaha NE** — 730 N 78th St; 14,000 sq ft concrete park. Held: no strong evidence of adult-specific sessions, physical separation, or lighting (open dawn to dusk only).
 - **Tosa Skatepark, Wauwatosa WI** — 7300 W Chestnut St. Held: no strong evidence of adult-specific sessions, physical separation, or lighting (fundraising for lights ongoing).

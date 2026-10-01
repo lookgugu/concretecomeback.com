@@ -279,6 +279,11 @@
     "lng": -104.9849,
     "source": "Denver, Colorado, United States"
   },
+  "US|delaware|newark": {
+    "lat": 39.6828,
+    "lng": -75.7516,
+    "source": "Newark, New Castle County, Delaware, United States"
+  },
   "US|district of columbia|washington": {
     "lat": 38.8951,
     "lng": -77.0364,
@@ -369,10 +374,20 @@
     "lng": -93.3785,
     "source": "Golden Valley, Hennepin County, Minnesota, United States"
   },
+  "US|missouri|kansas city": {
+    "lat": 39.1001,
+    "lng": -94.5781,
+    "source": "Kansas City, Jackson County, Missouri, United States"
+  },
   "US|missouri|st. louis": {
     "lat": 38.6254,
     "lng": -90.19,
     "source": "Saint Louis, Missouri, United States"
+  },
+  "US|montana|missoula": {
+    "lat": 46.8701,
+    "lng": -113.9953,
+    "source": "Missoula, Missoula County, Montana, United States"
   },
   "US|nevada|north las vegas": {
     "lat": 36.2005,
@@ -419,10 +434,25 @@
     "lng": -78.7812,
     "source": "Cary, Wake County, North Carolina, United States"
   },
+  "US|north dakota|grand forks": {
+    "lat": 47.9252,
+    "lng": -97.0306,
+    "source": "Grand Forks, Grand Forks County, North Dakota, United States"
+  },
   "US|ohio|lakewood": {
     "lat": 41.482,
     "lng": -81.7982,
     "source": "Lakewood, Cuyahoga County, Ohio, 44107, United States"
+  },
+  "US|oklahoma|oklahoma city": {
+    "lat": 35.473,
+    "lng": -97.5171,
+    "source": "Oklahoma City, Oklahoma County, Oklahoma, United States"
+  },
+  "US|oklahoma|tulsa": {
+    "lat": 36.1563,
+    "lng": -95.9928,
+    "source": "Tulsa, Oklahoma, United States"
   },
   "US|oregon|portland": {
     "lat": 45.5202,
@@ -500,8 +530,8 @@
     "source": "derived: mean of 17 listed UK cities"
   },
   "US": {
-    "lat": 37.7907,
-    "lng": -92.8951,
-    "source": "derived: mean of 51 listed US cities"
+    "lat": 38.1146,
+    "lng": -93.202,
+    "source": "derived: mean of 57 listed US cities"
   }
 }
