@@ -279,6 +279,11 @@
     "lng": -104.9849,
     "source": "Denver, Colorado, United States"
   },
+  "US|connecticut|hamden": {
+    "lat": 41.3836,
+    "lng": -72.902,
+    "source": "Hamden, South Central Connecticut Planning Region, Connecticut, United States"
+  },
   "US|delaware|newark": {
     "lat": 39.6828,
     "lng": -75.7516,
@@ -334,6 +339,11 @@
     "lng": -93.6249,
     "source": "Des Moines, Polk County, Iowa, United States"
   },
+  "US|kansas|lenexa": {
+    "lat": 38.9697,
+    "lng": -94.7846,
+    "source": "Lenexa, Johnson County, Kansas, United States"
+  },
   "US|kentucky|louisville": {
     "lat": 38.2542,
     "lng": -85.7594,
@@ -343,6 +353,11 @@
     "lat": 29.9561,
     "lng": -90.0734,
     "source": "New Orleans, Orleans Parish, Louisiana, United States"
+  },
+  "US|maine|south portland": {
+    "lat": 43.6382,
+    "lng": -70.2529,
+    "source": "South Portland, Cumberland County, Maine, 04106, United States"
   },
   "US|maryland|baltimore": {
     "lat": 39.2909,
@@ -388,6 +403,11 @@
     "lat": 46.8701,
     "lng": -113.9953,
     "source": "Missoula, Missoula County, Montana, United States"
+  },
+  "US|nebraska|norfolk": {
+    "lat": 42.0283,
+    "lng": -97.417,
+    "source": "Norfolk, Madison County, Nebraska, United States"
   },
   "US|nevada|north las vegas": {
     "lat": 36.2005,
@@ -469,6 +489,11 @@
     "lng": -79.8828,
     "source": "Swissvale, Allegheny County, Pennsylvania, 15218, United States"
   },
+  "US|rhode island|providence": {
+    "lat": 41.824,
+    "lng": -71.4128,
+    "source": "Providence, Providence County, Rhode Island, United States"
+  },
   "US|south carolina|charleston": {
     "lat": 32.7884,
     "lng": -79.9399,
@@ -504,6 +529,11 @@
     "lng": -111.498,
     "source": "Park City, Summit County, Utah, United States"
   },
+  "US|vermont|burlington": {
+    "lat": 44.4762,
+    "lng": -73.2129,
+    "source": "Burlington, Chittenden County, Vermont, United States"
+  },
   "US|virginia|arlington": {
     "lat": 38.8769,
     "lng": -77.0893,
@@ -530,8 +560,8 @@
     "source": "derived: mean of 17 listed UK cities"
   },
   "US": {
-    "lat": 38.1146,
-    "lng": -93.202,
-    "source": "derived: mean of 57 listed US cities"
+    "lat": 38.4897,
+    "lng": -91.9444,
+    "source": "derived: mean of 63 listed US cities"
   }
 }
