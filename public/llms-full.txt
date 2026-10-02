@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-01T14:19:44.641Z
+# Date: 2026-10-02T19:26:12.214Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -6191,6 +6191,16 @@ Alga Norte Skatepark is widely regarded as one of San Diego North County's most 
 The park is fully lit until 10 pm, making it incredibly practical for an after-work evening session when the daytime crowd has thinned out. It’s part of a larger community facility with clean amenities; remember that helmets are required by city rules, and pads are strongly recommended.
 
 
+### Andy A-Dog Williams Skatepark
+A world-class 22,000-square-foot waterfront concrete park. The 'Friends for A-Dog' group regularly hosts beginner-friendly programs, and older skaters will appreciate the quiet mornings before the afternoon crowds arrive.
+Location: Burlington, Vermont, US
+Website: https://parksfoundationburlington.org/a-dog-skatepark/
+
+Set right on the Burlington waterfront with views of Lake Champlain, the Andy A-Dog Williams Skatepark is a beautifully designed 22,000-square-foot concrete facility. The smooth flatground and smaller transition areas offer a forgiving environment for those looking to regain their balance. 
+
+For older skaters looking to avoid the high-energy afternoon traffic, the park's early 7:00 AM opening time provides a perfect quiet window for a relaxed morning session. It lacks lighting, so be sure to plan your visits during daylight hours before the park closes at 8:00 PM.
+
+
 ### Ann Arbor Skatepark
 A 30,000-square-foot concrete facility featuring kidney pools, a snake run, and beginner-friendly transition sections. Known for community programs that explicitly welcome and teach older skaters.
 Location: Ann Arbor, Michigan, US
@@ -6314,6 +6324,16 @@ Website: https://fargoskateboarding.com
 Fargo Skateboarding is a nearly 10,000-square-foot heated indoor facility in DeKalb, constructed primarily with smooth wooden ramps. It is designed to be an accessible, community-focused space that caters directly to progression.
 
 Older skaters are exceptionally well-supported here. The facility hosts specific beginner sessions (typically on Saturdays) that provide a low-stress environment supervised by coaches. Beyond the beginner blocks, they offer private group classes structured specifically for adults. The building also houses an [on-site skate shop](/directory/shops/us/fargo-skateboarding-shop-dekalb-il) that can provide all the necessary protective gear and completes to get you started safely. Call ahead to confirm the schedule for the next adult-specific session.
+
+
+### FLUX
+An indoor wooden skatepark and wellness hub offering large mellow ledges. Older skaters will appreciate the on-site recovery lounge, gym, and 7-day key code access for members.
+Location: Hamden, Connecticut, US
+Website: https://flux-str.com/
+
+FLUX is far more than a traditional skatepark—it is a combined action sports and wellness hub. The indoor wooden park features a layout with large down ledges and round coping, designed with significant input from the local community to create a smooth, accessible flow.
+
+What truly sets FLUX apart for older skaters is its holistic approach to the sport. The facility includes a dedicated recovery lounge equipped with infrared saunas, compression boots, and massage tools, alongside a standard gym. While public hours run Thursday through Sunday, members receive a key code for 7-day access, allowing for completely flexible scheduling away from peak crowds.
 
 
 ### Gathering Place Skate Park
@@ -6518,6 +6538,26 @@ Modern Skate and Surf in Royal Oak is a staple of the Michigan skate scene and a
 The park is entirely indoor with smooth wooden surfaces, featuring everything from a forgiving mini-ramp section to deep bowls and a varied street course. Be sure to check their website or call ahead for the current week's session schedule and any adult-specific events.
 
 
+### Neutaconkanut Skatepark
+A classic Providence outdoor concrete park offering a mellow small bowl, pump track, and smooth flow elements perfect for older skaters getting their bearings back.
+Location: Providence, Rhode Island, US
+Website: https://www.nhill.org/
+
+Set within the expansive Neutaconkanut Park and Hill recreation area, this concrete skatepark is one of the oldest and largest in Providence. Despite its age, it boasts smooth, well-maintained surfaces that encourage creative, flowing lines rather than high-impact stunts.
+
+Older skaters will appreciate the approachable small bowl and pump track, which offer excellent, low-risk spaces for dialing in your balance and rhythm. The park operates from sunrise to sunset and is surrounded by extensive walking trails and green spaces. Morning visits are recommended to enjoy the park at its quietest.
+
+
+### Norfolk Skatepark
+A well-rounded concrete park featuring a forgiving 4-6 foot bean-shaped bowl and mini-ramp section. Equipped with lights for evening skating, making it practical for older skaters with daytime commitments.
+Location: Norfolk, Nebraska, US
+Website: https://norfolkne.gov/government/departments/parks-and-recreation/parks-and-facilities/veterans-memorial-park.html
+
+Located in Veterans Memorial Park, the Norfolk Skatepark is a smooth 14,500-square-foot concrete facility built by Spohn Ranch. It replaced an aging wood-and-metal setup with a modern, flowing design that suits a variety of skill levels.
+
+For older skaters, the standout features are the mellow 4-to-6-foot bean-shaped bowl and the dedicated mini-ramp section, both of which provide lower-impact transition practice. The inclusion of park lighting ensures you can comfortably skate after dusk until the park closes for the night.
+
+
 ### North Houston Skatepark
 At over 77,000 square feet, this massive concrete park provides dedicated beginner flow bowls and enough sheer space to find a quiet corner away from the crowds.
 Location: Houston, Texas, US
@@ -6625,6 +6665,16 @@ Constructed by Team Pain within Hunter Street Park, the Rogers Family Skate Plaz
 The plaza remains open around the clock with automated floodlights extending until 9:30pm on weeknights and 11:30pm on Saturdays. An early dawn visit provides peaceful, dew-free concrete before heat and school crowds set in. Town ordinance strictly mandates helmets and protective pads, fostering a safe, respectful environment for older skaters.
 
 
+### Rolling Magic Skate Park
+A modern concrete facility rebuilt in 2023 with a dedicated low-speed technical zone for beginners, plus push-button lights available until 11:00 PM for late sessions.
+Location: Lenexa, Kansas, US
+Website: https://www.lenexa.com/Parks-Places/Sar-Ko-Par-Trails-Park
+
+Rolling Magic, situated within Sar-Ko-Par Trails Park, is a completely revitalized facility that pays homage to a historic 1970s private park of the same name. Rebuilt in 2023 by New Line Skateparks, it strikes an excellent balance for older skaters by offering a designated low-speed technical zone specifically intended for beginners and skill progression.
+
+The park is separated into clear zones, ensuring those working on fundamentals aren't competing for space with advanced riders in the deep flow bowl. Best of all, push-button lighting extends the riding hours until 11:00 PM, making it incredibly practical for fitting in a session after work.
+
+
 ### Rydell Skatepark
 A freshly resurfaced concrete park blending an open bowl with street features. Designed to be highly approachable for new skaters with lights extending sessions until 11pm.
 Location: Grand Forks, North Dakota, US
@@ -6691,6 +6741,16 @@ Tucked beneath the Central Freeway between Valencia and Otis, SoMa West turns an
 The plaza layout by New Line Skateparks centers on street terrain: gentle banks, low ledges, flat rails, manual pads, and mellow transition quarterpipes alongside taller stair sets. While afternoon and weekend crowds bring fast-moving traffic, local guides consistently note that weekday mornings offer a calm, low-pressure window for older skaters rebuilding their board confidence.
 
 If you need hardware or fresh urethane before rolling in, Deluxe Distribution's flagship DLX Skate Shop on Folsom Street is less than a mile east.
+
+
+### South Portland Skate Park
+A welcoming 10,000-square-foot concrete park known for its approachability. The local Parks & Recreation department actively offers organized skateboarding lessons suited for all skill levels, including returning older skaters.
+Location: South Portland, Maine, US
+Website: https://southportland.gov/435/Parks-Recreation-Waterfront
+
+Located adjacent to the South Portland Community Center, this 10,000-square-foot concrete park was designed with an emphasis on flow and accessibility. Its mix of street elements, quarter pipes, and a flow bowl make it an excellent training ground for rebuilding confidence on a board.
+
+The park is widely cited as having a welcoming environment for adults and beginners alike, reinforced by the organized skateboarding lessons offered by the local Parks & Recreation department. Note that there are no lights, so sessions are strictly limited to daylight hours. Helmets and pads are highly recommended by the city.
 
 
 ### Switch and Signal Skatepark
@@ -7046,6 +7106,15 @@ A Reddit community for skaters over 30, with active participation from adults in
 Location: Online, US
 
 r/OldSkaters is the most active global online community for adult skaters. The subreddit is welcoming to complete beginners and experienced adults alike, and the advice shared about gear, spots, and the mental side of returning to skating is consistently practical and supportive.
+
+
+### Skaters Over 40
+A global community of more than 40,000 skateboarders aged 40 and older who actively skate. Emphasizes real skateboarding over board collecting, providing a supportive, zero-ego hub to share session clips, injury rehab strategies, setup tweaks, and local meetup planning.
+Location: Online, US
+
+With over 40,000 members worldwide, Skaters Over 40 is one of the most active online spaces dedicated purely to older skaters. Unlike groups focused on vintage deck hoarding or wall hangers, the community rule is "strictly skateboarding": members post clips of their weekly sessions, celebrate small progression milestones, and trade practical advice on stretching, knee braces, and shoe padding.
+
+The group serves as a valuable resource for finding local skate buddies, with members frequently organizing informal early-morning weekend meetups at neighbourhood skateparks across the US, UK, Canada, and Australia.
 
 
 ### Silver Skate UK

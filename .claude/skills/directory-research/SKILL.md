@@ -162,5 +162,8 @@ Keep this current when a batch defers something, so the next pass starts here. T
 - **Kangaroo Bay Skate Park (Rosny Skatepark), Hobart / Clarence TAS** — Bastick St, Rosny; concrete competition bowl and street course; City of Clarence master planning reviews for surrounding precinct. Held: civic precinct master planning review.
 - **Crushed Skate Shop, Washington DC** — 1342 U Street NW; closed physical storefront in April 2025. Held: physical storefront closed.
 - **Cream City Skatepark, Milwaukee WI** — 5560 N. Park Dr; lease ended April 12th, actively looking for a new location. Held: no longer at the original address.
+- **Four Seasons Skatepark, Milwaukee WI** — 200 N 25th St; permanently closed on March 31, 2026 after building sold. Held: permanently closed.
+- **Kanis Skatepark, Little Rock AR** — 820 S Rodney Parham Rd; concrete. Held: renowned for its challenging deep peanut bowl; described as best suited for experienced skaters with no documented beginner-friendly features or adult sessions.
+- **Trinity Skatepark, Providence RI** — downtown Providence; community-built DIY spot. Held: grassroots space with no formal beginner or adult programs and no documented lighting for evening sessions.
 - **Roberts Skate Park, Omaha NE** — 730 N 78th St; 14,000 sq ft concrete park. Held: no strong evidence of adult-specific sessions, physical separation, or lighting (open dawn to dusk only).
 - **Tosa Skatepark, Wauwatosa WI** — 7300 W Chestnut St. Held: no strong evidence of adult-specific sessions, physical separation, or lighting (fundraising for lights ongoing).
