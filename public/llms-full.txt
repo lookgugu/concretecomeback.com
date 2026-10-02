@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-02T19:19:33.373Z
+# Date: 2026-10-02T19:25:02.708Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -7014,33 +7014,3 @@ Location: Austin, Texas, US
 Website: https://www.facebook.com/groups/silverskaters.austin
 
 Silver Skaters Austin is one of the more organized adult skate groups in the US. The rotating park format keeps sessions fresh, and the explicitly 35+ age restriction means the vibe is reliably different from a standard open skate session.
-
-
-### Skate Like a Girl Portland
-Active Portland chapter hosting monthly evening sessions, coaching clinics, and relaxed park roll-outs for women, trans, non-binary, and older returning skaters across the Portland metro area.
-Location: Portland, Oregon, US
-Website: https://www.skatelikeagirl.com
-
-Operating across the Portland metro area, Skate Like a Girl PDX provides structured, patient instruction and casual group sessions for older skaters, adult beginners, and returning riders. The focus is strictly on mutual encouragement, building confidence, and learning safe dismount and falling mechanics.
-
-Sessions rotate between regional indoor spaces during rainy months and outdoor venues like Ed Benedict Skatepark, whose mellow concrete street plaza and gentle banks offer ideal terrain for low-stress progression. Before rolling out, drop by Cal Skate Skateboards on NW 6th Avenue for board checks and softer wheel setups.
-
-
-### Skate Like a Girl Seattle
-Pacific Northwest non-profit running dedicated monthly evening sessions and progressive workshops for women, trans, non-binary, and older returning skaters across Seattle skateparks like Lower Woodland and Judkins Park.
-Location: Seattle, Washington, US
-Website: https://www.skatelikeagirl.com
-
-Skate Like a Girl's Seattle chapter has cultivated one of the most inclusive skateboarding communities in the Pacific Northwest. Their dedicated evening sessions provide a welcoming environment specifically reserved for older skaters, beginners, and returning riders navigating their boards after years away.
-
-Free loaner boards, helmets, and protective pads are available at all community sessions. Sessions regularly rotate through local parks, including the separate street zone at Lower Woodland Skatepark. For setup tune-ups or gear recommendations, the crew pairs with 35th North on Capitol Hill.
-
-
-### SKATEYOGI Adult Open Skate
-A welcoming community of older skaters in NYC organizing dedicated weekly evening open sessions, four-week progressive clinic series, and relaxed group practice across their indoor Brooklyn spaces in Williamsburg and Prospect Lefferts Gardens.
-Location: New York, New York, US
-Website: https://www.skateyogi.com
-
-SKATEYOGI runs dedicated evening open skate sessions and multi-week coaching series tailored specifically for older skaters and beginner returners. Hosted indoors on smooth wood ramps and flatground in Brooklyn, sessions emphasize patience, safe footwork, and zero ego.
-
-Beyond indoor practice, the community coordinates weekend meetups at nearby public parks. Pair a session with a visit to Labor Skateshop on Canal Street for hardware advice, or head to Astoria Skatepark in Queens for wide open street lines.
