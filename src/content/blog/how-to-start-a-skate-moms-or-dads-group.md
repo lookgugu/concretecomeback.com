@@ -38,7 +38,9 @@ Post it in local parenting Facebook groups, neighborhood apps, and your kid's sc
 
 ## Step 3: Make the first session deliberately small and easy
 
-Keep the first meetup to 45 minutes to an hour, structured around pushing, carving, and falling safely — not tricks. Nobody signed up to be taught; they signed up to try. If someone in the group already skates, ask them to spend the session alongside beginners rather than demonstrating ahead of them. The goal of session one is that everyone who showed up wants to come back, not that anyone progresses.
+Keep the first meetup to 45 minutes to an hour, structured around pushing and carving — not tricks. Nobody signed up to be taught; they signed up to try. If someone in the group already skates, ask them to spend the session alongside beginners rather than demonstrating ahead of them. The goal of session one is that everyone who showed up wants to come back, not that anyone progresses.
+
+If you want to drill falling safely as a group — worth doing, since it's the skill that actually prevents injuries — do it on grass or a mat before anyone's on pavement, starting from a crouch rather than full height. That's a separate five minutes at the start or end of the session, not something to practice at speed on the asphalt you picked in Step 1.
 
 End it before anyone's tired, frustrated, or sore. A session that ends on "that was fun, same time next week?" does more for the group's survival than an extra twenty minutes of practice.
 
