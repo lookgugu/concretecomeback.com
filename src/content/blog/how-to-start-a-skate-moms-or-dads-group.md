@@ -30,9 +30,9 @@ If you're not sure which local park suits total beginners, look for flat, wide-o
 
 The groups that stick describe their first post the same way: specific, low-pressure, and explicit about who it's for. Something like:
 
-> "Starting a casual parent skate meetup — Saturdays 9am at [park]. Complete beginners welcome, no kids required (though they can come watch or ride along). Bring whatever you've got, or just come watch the first time. No experience, no gear, no plan beyond showing up."
+> "Starting a casual parent skate meetup — Saturdays 9am at [park]. Complete beginners welcome, no kids required (though they can come watch or ride along). No experience needed, no plan beyond showing up — just bring (or borrow) a helmet and wrist guards if you're going to get on a board; totally fine to just come watch the first time instead."
 
-The line that matters most is "no plan beyond showing up." It lowers the bar from "join a club" to "show up once," and showing up once is how every one of these groups actually started.
+The line that matters most is "no plan beyond showing up." It lowers the bar from "join a club" to "show up once," and showing up once is how every one of these groups actually started. The one thing not to soften is the gear line — "no experience required" should never read as "no helmet required." If someone shows up without a helmet or wrist guards, have them watch that first session rather than skate, and see if anyone in the group has a spare set to lend.
 
 Post it in local parenting Facebook groups, neighborhood apps, and your kid's school parent group chat if you're comfortable there — parent networks already exist and are usually a faster path to the first five people than starting from nothing on a general skating forum.
 

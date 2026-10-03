@@ -16,7 +16,7 @@ This list is for that person — the one 6 to 18 months into their comeback, who
 
 ## For the body they're actually using differently now
 
-**A real aftermarket insole.** Superfeet Blue or Green, or Spenco Polysorb, dropped into whatever shoes they already skate in. This is the gift that looks boring on paper and gets used every single session — returning adult skaters absorb a lot of repetitive impact through the feet, and most people never think to buy themselves this kind of unglamorous upgrade.
+**A real aftermarket insole — but check sizing first, or make it a gift card.** Superfeet Blue or Green, or Spenco Polysorb, are the kind of unglamorous upgrade most people never buy themselves, and returning adult skaters absorb a lot of repetitive impact through the feet. The catch: these aren't drop-in-and-done. Sizing runs by shoe size and heel-cup fit rather than one-size-fits-all, the original insole needs to come out first, and Blue versus Green is a different profile (flexible low-arch support versus firmer, higher support) for a different foot. Know their shoe size and roughly their arch height, or skip the guesswork and give a gift card to a shop that does fittings instead.
 - Around $40–$50.
 
 **A proper foam roller or massage ball.** Not a novelty gift-shop item — a dense foam roller or a lacrosse-style massage ball for calves, quads, and the soles of the feet. Recovery between sessions matters more at 45 than it did at 20, and most adult skaters under-invest in it for themselves.
