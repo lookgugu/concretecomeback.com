@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-02T19:26:12.214Z
+# Date: 2026-10-03T14:15:37.864Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -6169,7 +6169,7 @@ Website: https://www.brighton-hove.gov.uk/libraries-leisure-and-arts/parks-and-g
 
 Positioned at the southern end of The Level park in central Brighton, this purpose-built concrete facility is the heartbeat of Sussex skateboarding. While its interconnected bowl complex attracts high-flying transition skaters, the park was thoughtfully planned with a segregated shallower section that gives older skaters a calm, low-consequence environment to warm up knees and test balance.
 
-The lower level includes gentle concrete mini-ramps facing each other, smooth flat banks, low ledges, and small stairs. Lighting across the surrounding public park provides visibility into the evening, and being open 24 hours means early morning sunrise sessions before the coastal crowds wake up are straightforward. Public toilets and park benches are right beside the course.
+The lower level includes gentle concrete mini-ramps facing each other, smooth flat banks, low ledges, and small stairs. Lighting across the surrounding public park provides visibility into the evening, and being open 24 hours means early morning sunrise sessions before the coastal crowds wake up are straightforward. Public toilets and park benches are right beside the course. For structured indoor coaching or wet-weather sessions, local older skaters also connect with The Skate Club in neighbouring Hove.
 
 
 ### 3rd Lair SkatePark
@@ -7125,6 +7125,16 @@ Website: https://www.facebook.com/groups/silverskateuk
 Silver Skate UK is one of the most active adult skating communities in Britain. The national scope means sessions happen across the country, and the Facebook group functions as a real community hub — not just a notice board — where members share tips, spots, and session reports.
 
 
+### The Skate Club Hove
+Indoor skate club and park in Hove offering weekly evening sessions and structured coaching tailored specifically for older learners and returners, emphasizing a relaxed, non-intimidating environment on forgiving timber ramps.
+Location: Hove, England, UK
+Website: https://theskateclub.com
+
+Located in Hove on the Sussex coast, The Skate Club operates a private indoor timber skatepark with a dedicated focus on coaching and community. Their evening sessions for older skaters are designed as an explicit counterweight to crowded public parks: no shouting, no ego, and structured guidance from patient instructors who understand how to pace learning safely.
+
+The facility features mellow micro-ramps, smooth timber banks, and forgiving flatground ideal for dialling in turns, kickturns, and balance recovery. When weather allows outdoor sessions, the group regularly visits The Level Skatepark in neighbouring Brighton.
+
+
 ### Old Man Army Los Angeles
 A loose collective of adult skaters in the Los Angeles area who organize regular sessions, film videos, and support each other's skating. The group's name is self-aware and the vibe is positive — the focus is on enjoying skateboarding as an adult without taking it too seriously. Sessions happen at various LA parks; check Instagram for upcoming meet-ups.
 Location: Los Angeles, California, US
@@ -7138,3 +7148,33 @@ Location: Austin, Texas, US
 Website: https://www.facebook.com/groups/silverskaters.austin
 
 Silver Skaters Austin is one of the more organized adult skate groups in the US. The rotating park format keeps sessions fresh, and the explicitly 35+ age restriction means the vibe is reliably different from a standard open skate session.
+
+
+### Skate Like a Girl Portland
+Active Portland chapter hosting monthly evening sessions, coaching clinics, and relaxed park roll-outs for women, trans, non-binary, and older returning skaters across the Portland metro area.
+Location: Portland, Oregon, US
+Website: https://www.skatelikeagirl.com
+
+Operating across the Portland metro area, Skate Like a Girl PDX provides structured, patient instruction and casual group sessions for older skaters, adult beginners, and returning riders. The focus is strictly on mutual encouragement, building confidence, and learning safe dismount and falling mechanics.
+
+Sessions rotate between regional indoor spaces during rainy months and outdoor venues like Ed Benedict Skatepark, whose mellow concrete street plaza and gentle banks offer ideal terrain for low-stress progression. Before rolling out, drop by Cal Skate Skateboards on NW 6th Avenue for board checks and softer wheel setups.
+
+
+### Skate Like a Girl Seattle
+Pacific Northwest non-profit running dedicated monthly evening sessions and progressive workshops for women, trans, non-binary, and older returning skaters across Seattle skateparks like Lower Woodland and Judkins Park.
+Location: Seattle, Washington, US
+Website: https://www.skatelikeagirl.com
+
+Skate Like a Girl's Seattle chapter has cultivated one of the most inclusive skateboarding communities in the Pacific Northwest. Their dedicated evening sessions provide a welcoming environment specifically reserved for older skaters, beginners, and returning riders navigating their boards after years away.
+
+Free loaner boards, helmets, and protective pads are available at all community sessions. Sessions regularly rotate through local parks, including the separate street zone at Lower Woodland Skatepark. For setup tune-ups or gear recommendations, the crew pairs with 35th North on Capitol Hill.
+
+
+### SKATEYOGI Adult Open Skate
+A welcoming community of older skaters in NYC organizing dedicated weekly evening open sessions, four-week progressive clinic series, and relaxed group practice across their indoor Brooklyn spaces in Williamsburg and Prospect Lefferts Gardens.
+Location: New York, New York, US
+Website: https://www.skateyogi.com
+
+SKATEYOGI runs dedicated evening open skate sessions and multi-week coaching series tailored specifically for older skaters and beginner returners. Hosted indoors on smooth wood ramps and flatground in Brooklyn, sessions emphasize patience, safe footwork, and zero ego.
+
+Beyond indoor practice, the community coordinates weekend meetups at nearby public parks. Pair a session with a visit to Labor Skateshop on Canal Street for hardware advice, or head to Astoria Skatepark in Queens for wide open street lines.

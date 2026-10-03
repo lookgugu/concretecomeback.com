@@ -164,6 +164,11 @@
     "lng": 0.2498,
     "source": "London Borough of Havering, Greater London, England, United Kingdom"
   },
+  "UK|england|hove": {
+    "lat": 50.8287,
+    "lng": -0.1746,
+    "source": "Hove, Brighton and Hove, England, United Kingdom"
+  },
   "UK|england|leeds": {
     "lat": 53.7974,
     "lng": -1.5438,
@@ -555,9 +560,9 @@
     "source": "derived: mean of 13 listed CA cities"
   },
   "UK": {
-    "lat": 52.5479,
-    "lng": -2.3614,
-    "source": "derived: mean of 17 listed UK cities"
+    "lat": 52.4524,
+    "lng": -2.2399,
+    "source": "derived: mean of 18 listed UK cities"
   },
   "US": {
     "lat": 38.4897,
