@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-03T09:28:05.100Z
+# Date: 2026-10-03T09:33:34.596Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -3975,7 +3975,9 @@ Skating as an adult puts you in a specific, repeated situation: you try somethin
 
 Do that enough times and you're running a kind of low-stakes exposure practice for a feeling most adults spend their whole lives avoiding — looking incompetent in front of other people. The skatepark is one of the only places left in adult life where failing publicly is not just tolerated but expected. Everyone there has eaten pavement attempting something. It's the baseline, not the exception.
 
-That matters because the fear most adults carry isn't really "I might fail." It's "I might fail where someone can see it." Skating runs you through exactly that scenario, repeatedly, and — within the comfortable zone this site keeps recommending, with a helmet and wrist guards actually on — the fall itself is usually a minor, recoverable thing rather than a real injury. That's not a guarantee; skating still carries real risk of a wrist fracture or worse, which is exactly why gear and staying inside your current skill level aren't optional here the way they might be for the office pitch this is supposedly training you for. But the typical outcome of a typical practice fall is sore, not serious. Your nervous system doesn't fully separate "failed at a kickturn in front of strangers" from "failed at a pitch in front of my boss" — it's processing the same basic pattern: did something risky, was seen, survived it, wasn't as bad as the anticipation. Enough repetitions of that pattern in one context quietly lowers the alarm response in others.
+That matters because the fear most adults carry isn't really "I might fail." It's "I might fail where someone can see it." Skating runs you through exactly that scenario, repeatedly, and — within the comfortable zone this site keeps recommending, with a helmet and wrist guards actually on — the fall itself is usually a minor, recoverable thing rather than a real injury. That's not a guarantee; skating still carries real risk of a wrist fracture or worse, which is exactly why gear and staying inside your current skill level aren't optional here the way they might be for the office pitch this is supposedly training you for. But the typical outcome of a typical practice fall is sore, not serious.
+
+I want to be upfront that what follows is my own theory, built from my experience and conversations with other adult skaters, not a settled finding — the psychology research on skill transfer generally finds it's narrower than people assume, limited to closely related activities rather than jumping freely between, say, a kickturn and a work presentation. My working guess is that the two situations share enough of a pattern — did something risky, was seen, survived it, wasn't as bad as the anticipation — that practicing the pattern in one place can make it a little easier to recognize in another. Whether that's literally how the nervous system generalizes it, or just a story I'm telling myself about why I've felt less rattled lately, I can't actually prove from here. Take the mechanism as a plausible guess, not a diagnosis.
 
 ## The part that surprised me
 
@@ -3985,7 +3987,7 @@ A few other adult skaters I've talked to describe the same shift in different ro
 
 ## Why this is believable, not magic
 
-This isn't a mystical claim about skateboarding specifically — it's closer to what sports psychologists call self-efficacy: the belief that you can handle a difficult situation, built specifically through having actually handled difficult situations before, not through being told you can. Skating is an unusually efficient way to rack up those reps as an adult, because so few other parts of adult life hand you repeated, survivable, public failure on demand. You don't get many chances to publicly try and fail at something low-stakes once you're past your twenties. Skating manufactures that chance every single session.
+This isn't a mystical claim about skateboarding specifically — it's closer to what sports psychologists call self-efficacy: the belief that you can handle a difficult situation, built specifically through having actually handled difficult situations before, not through being told you can. Worth saying plainly: the research on self-efficacy generally finds it transfers best between closely related activities, not freely between something as different as a kickturn and a work presentation, so treat "skating builds general-purpose confidence" as my extrapolation, not an established result. What skating can more confidently claim is the rep count — it's an unusually efficient way to rack up practice at trying and failing publicly as an adult, because so few other parts of adult life hand you repeated, survivable, public failure on demand. You don't get many chances to publicly try and fail at something low-stakes once you're past your twenties. Skating manufactures that chance every single session.
 
 It also helps that the failure is physical and immediate rather than social and lingering. You fall, you're on the ground for two seconds, you're back up. There's no meeting to debrief, no awkward follow-up email. The feedback loop closes fast, which seems to be part of why it generalizes — your brain gets a clean, repeated lesson that risk-and-recovery is quick and survivable, without the residue that makes failure feel bigger in other parts of life.
 
