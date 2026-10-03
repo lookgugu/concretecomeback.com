@@ -12,12 +12,12 @@ draft: false
 
 Most skate gift guides assume the recipient is either twelve or has never stepped on a board. Neither describes the adult in your life who got back into skating eight months ago, already owns a complete, and doesn't need another helmet explained to them.
 
-This list is for that person — the one 6 to 18 months into their comeback, who has the basics covered and would actually use something more specific. Everything here is under $50 except the one item where it's worth saying plainly that it isn't, and why.
+This list is for that person — the one 6 to 18 months into their comeback, who has the basics covered and would actually use something more specific. Everything here has a sub-$50 option, except two items called out below where it's worth saying plainly what they actually cost, and why.
 
 ## For the body they're actually using differently now
 
-**A real aftermarket insole — but check sizing first, or make it a gift card.** Superfeet Blue or Green, or Spenco Polysorb, are the kind of unglamorous upgrade most people never buy themselves, and returning adult skaters absorb a lot of repetitive impact through the feet. The catch: these aren't drop-in-and-done. Sizing runs by shoe size and heel-cup fit rather than one-size-fits-all, the original insole needs to come out first, and Blue versus Green is a different profile (flexible low-arch support versus firmer, higher support) for a different foot. Know their shoe size and roughly their arch height, or skip the guesswork and give a gift card to a shop that does fittings instead.
-- Around $40–$50.
+**A real aftermarket insole — but check sizing first, or make it a gift card.** Spenco Polysorb is the sub-$50 default pick, and the kind of unglamorous upgrade most people never buy themselves even though returning adult skaters absorb a lot of repetitive impact through the feet. Superfeet's Blue and Green lines are the step-up option — Blue is medium-arch, Green is high-arch, and both run closer to $55–$65, which breaks this guide's ceiling the same way the private lesson below does. Whichever you pick, these aren't drop-in-and-done: sizing runs by shoe size and heel-cup fit rather than one-size-fits-all, and the original insole needs to come out first. Know their shoe size and roughly their arch height, or skip the guesswork and give a gift card to a shop that does fittings instead.
+- Spenco Polysorb: around $25–$30. Superfeet Blue/Green: around $55–$65.
 
 **A proper foam roller or massage ball.** Not a novelty gift-shop item — a dense foam roller or a lacrosse-style massage ball for calves, quads, and the soles of the feet. Recovery between sessions matters more at 45 than it did at 20, and most adult skaters under-invest in it for themselves.
 - Around $15–$30.
@@ -52,4 +52,4 @@ This list is for that person — the one 6 to 18 months into their comeback, who
 
 ## The actual point of this list
 
-None of this is about buying someone into the hobby — they're already in it. The useful gift at this stage is something that removes a small piece of friction from a routine they've already built: a sore foot that gets a little relief, a board that rolls slightly better, a plateau that gets a nudge. Thoughtful and specific beats expensive and generic every time, and everything on this list, except the one lesson, costs less than a round of drinks.
+None of this is about buying someone into the hobby — they're already in it. The useful gift at this stage is something that removes a small piece of friction from a routine they've already built: a sore foot that gets a little relief, a board that rolls slightly better, a plateau that gets a nudge. Thoughtful and specific beats expensive and generic every time, and most of what's on this list costs less than a round of drinks.
