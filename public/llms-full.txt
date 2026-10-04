@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-03T14:15:37.864Z
+# Date: 2026-10-04T08:19:12.857Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -6182,6 +6182,15 @@ Operating continuously since 1997, 3rd Lair is the backbone of the Upper Midwest
 For returning and older skaters, the facility runs structured adult skateboard clinics and offers private one-on-one coaching. Start on the mellow mini-ramp or "The Ditch" flow section before navigating the main street course, which offers ample flatground and progressive ledge heights.
 
 
+### Albert M. Gallego Skate Park (Santa Rita Park)
+A 16,000-square-foot in-ground concrete facility providing practical options for older skaters with evening lighting keeping it skateable until 10:30 PM.
+Location: Tucson, Arizona, US
+
+Located in Santa Rita Park, the Albert M. Gallego Skate Park is a popular 16,000-square-foot in-ground concrete destination. It's especially practical for older skaters needing to beat the harsh Arizona sun, as the facility is equipped with lights and remains open until 10:30 PM daily.
+
+The park is transition-heavy, featuring three distinct bowls: a Flow Course, a Kidney bowl, and a Clam bowl. While there are some street elements, the flowing transition lines are the main draw. It is an unsupervised facility, so checking the bowls for debris and dust before dropping in is highly recommended.
+
+
 ### Alga Norte Skatepark
 A well-lit, beautifully maintained municipal park offering a highly forgiving street section and pump track alongside advanced bowls, drawing a diverse crowd of older skaters.
 Location: Carlsbad, California, US
@@ -6267,6 +6276,15 @@ City Walk BHAM offers an impressive, world-class skating environment right in do
 Admission is completely free, though you will need to sign a waiver before your first session. With a pump track, diverse street course, and deep bowls, it’s a park that will grow with you as your confidence returns.
 
 
+### Clippard Park Skatepark
+A well-designed concrete park featuring ability separation, keeping the 4-foot beginner bowl separate from the advanced 10-foot bowl with pool coping.
+Location: Colerain Township, Ohio, US
+
+Clippard Park Skatepark is a solid concrete facility in the greater Cincinnati area that caters well to older skaters returning to the sport. The layout offers clear ability separation between its transition features.
+
+The highlight for those regaining their confidence is a mellow 4-foot bowl with a ledge, which is kept physically distinct from the daunting 10-foot advanced bowl with pool coping. The street section includes a staircase, ramp, and railings, providing a balanced mix for all riding styles.
+
+
 ### Craig Ranch Skatepark
 A sprawling concrete park in North Las Vegas that opens at 7:00 AM. Equipped with lights, the early morning window provides a quiet environment for older skaters to beat the desert heat.
 Location: North Las Vegas, Nevada, US
@@ -6297,6 +6315,15 @@ Website: https://denvergov.org/Government/Agencies-Departments-Offices/Agencies-
 The sheer size works in a returning skater's favour — there is almost always an underused corner to practise in. Weekday mornings are quietest. The street section's smaller ledges and flat banks are the friendliest starting point; the deeper bowls are best left until your transition confidence is back.
 
 303 Boards — a Denver brick-and-mortar since 1997, with stores on South Broadway and East Colfax — is the shop paired with this park.
+
+
+### Dike West Skatepark
+Fargo's premier 23,000-square-foot concrete park. The layout contains challenges separated for all skill levels, allowing older skaters to find a comfortable pace.
+Location: Fargo, North Dakota, US
+
+Dike West is a massive 23,000-square-foot formed concrete facility and the most popular skate park in Fargo. Its sprawling footprint provides a layout that accommodates and separates challenges for beginner, intermediate, and advanced skaters, making it an excellent space for older skaters easing back onto a board.
+
+The park features a smooth riding surface packed with transition elements like a mini ramp with a spine, alongside a 6-to-10-foot bowl. The street section includes an array of banks, ledges, and rails. The concrete can become extremely slippery when wet, so avoid the park during or immediately after rain.
 
 
 ### Dover Skatepark
@@ -6353,6 +6380,15 @@ Location: Newark, Delaware, US
 Glasgow Skate Park is a substantial 24,000-square-foot public concrete facility set within Glasgow Regional Park. It features a varied street section with hubba ledges and banked wall rides, alongside two different styles of bowls. 
 
 The park is praised for its smooth, well-maintained surface, making it an excellent spot for learning and progression. While it can get busy on weekends, older skaters consistently recommend weekday morning and early afternoon hours for a quiet, low-pressure session. The varied features allow skaters to pick obstacles perfectly matched to their current comfort level.
+
+
+### Irwin A. and Robert D. Goodman Skatepark (McPike Park)
+A popular concrete park catering to older skaters with lighting until 10pm and a layout that separates a 4–7ft flow bowl from the deeper eggplant bowl.
+Location: Madison, Wisconsin, US
+
+Goodman Skatepark is the premier spot in Madison, located within McPike Park. The 20,000-square-foot facility is well-regarded by older skaters for its generous lighting hours (open until 10pm from mid-April to October) and early 4am opening, making it highly practical for those fitting a session around work.
+
+The layout physically separates the street section (which makes up about 70% of the park) from the transition area. The transition section itself offers two distinct bowls: a mellow 4–7 foot flow bowl that is ideal for warming up or regaining confidence, and a more advanced 9-foot eggplant bowl for experienced riders.
 
 
 ### Hazelwood Skatepark
@@ -6468,6 +6504,15 @@ Website: https://www.cabq.gov/parksandrecreation/parks/skate-parks
 The largest skatepark in the Southwest is a massive concrete facility that caters to all skill levels. While its deep bowls attract advanced riders, the park is highly regarded by older skaters for its thoughtful beginner-friendly zones. A large drop-in area with gentle ramps and a small center bump provides a safe, low-stakes environment to practice rolling and basic transitions.
 
 Adding to its appeal is the recently installed pump track located near the parking lot—a perfect spot to warm up or practice flow without the pressure of the main park. The atmosphere is generally described as chill and welcoming, with night lighting extending the session hours. Helmet use is mandatory for those under 18 and strongly recommended for adults. If you need gear or repairs, check out [Skate City Supply](/directory/shops/us/skate-city-supply-albuquerque-nm) nearby.
+
+
+### Lot 11 Skatepark
+A professional-grade 50,000-square-foot facility providing practical shelter for older skaters, built under the I-95 overpass to offer shade and rain protection.
+Location: Miami, Florida, US
+
+Situated in the heart of Downtown Miami, Lot 11 Skatepark is a sprawling, state-of-the-art concrete facility. Because it is built entirely under the I-95 overpass, the park is completely covered. This provides critical shade from the intense Florida sun and protection from rain, making it an incredibly practical and reliable spot for older skaters with limited time windows.
+
+The facility is divided into distinct zones, including a smooth skate plaza, two unique street-style courses with varying obstacles, and a contest-ready curved bowl. With lights keeping the park active until 10:00 PM every day, it’s one of the few places in Miami that remains dependably skateable regardless of the weather.
 
 
 ### Lower Woodland Skatepark
@@ -6623,6 +6668,15 @@ The park sits on a pile-supported pier over the Hudson, on the spot where Chelse
 What makes it a good comeback park is that the levels are named on the map. Start in the Beginner Ollie Zone (4-foot quarter, 2-foot wedge, 3-foot start box), move to the Intermediate Fun Box (24-foot ledge, kinked flat rail, 18-foot ollie ledge), and leave the 5-foot spine and the deep end of the bowl for later. Hudson River Park also runs a street-style park at Pier 25 in Tribeca if flat ledges suit you better than transition.
 
 For a setup before you go, Labor Skateshop on Canal Street — skateboarder-owned since 2012 — is the Lower East Side shop paired with this park.
+
+
+### Pitcher Park Memorial Skatepark
+A comprehensive concrete facility with explicit ability separation. It features a flatground beginner street area on an upper deck, keeping learners out of the advanced tiered street course.
+Location: Carnegie, Pennsylvania, US
+
+Pitcher Park Memorial Skatepark is a standout concrete destination in the Pittsburgh area, famously known for its gnarly bowl and iconic full pipe. However, older skaters returning to the sport will appreciate its thoughtful layout, which explicitly separates ability levels to keep traffic manageable.
+
+The park features a dedicated flatground beginner street area situated on an upper deck, complete with ledge room for seating and resting. This section provides a calm space separate from the intermediate street course and the tiered advanced street section, which contains larger hubbas, handrails, and a euro gap. Some locals note that the park lights can occasionally be dim or out in the bowl area, so ride with caution if visiting near dusk.
 
 
 ### Powhatan Springs Skate Park
