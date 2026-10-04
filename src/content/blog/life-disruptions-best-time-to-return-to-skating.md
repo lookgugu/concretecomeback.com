@@ -34,7 +34,7 @@ Skating is good for this specifically because it's demanding enough to occupy yo
 
 ## What to actually do with the opening
 
-Don't wait for the disruption to resolve before you start. Use the unstructured time now, while it exists, rather than after you've refilled the calendar with something else. Start small — the [8-week return plan](/blog/8-week-return-plan-adult-skaters/) on this site is built for exactly this kind of fresh start, and it doesn't require you to have your life sorted out first.
+Don't wait for the disruption to resolve before you start — that's the general advice here, and it applies cleanly to a divorce, a retirement, or an empty nest. If your disruption was a health scare, a new diagnosis, surgery, or anything else medical, treat that part differently: get your doctor's clearance to be active again first, the same way you would after any injury or illness, and only then apply everything else in this piece. The unstructured time is still an asset once you're cleared — there's just no version of "use the opening" that means skating before your body is actually ready. For everyone else, start small — the [8-week return plan](/blog/8-week-return-plan-adult-skaters/) on this site is built for exactly this kind of fresh start, and it doesn't require you to have your life sorted out first.
 
 Treat the first few sessions as separate from whatever's going on in the rest of your life. You don't need to process anything on the board. You just need to push, carve, and let your nervous system do something unrelated to the thing that's weighing on you.
 
