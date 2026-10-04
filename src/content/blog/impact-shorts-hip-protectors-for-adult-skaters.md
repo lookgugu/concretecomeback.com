@@ -1,6 +1,6 @@
 ---
 title: "Impact Shorts: The Hip Protector Adult Skaters Are Ignoring"
-description: "Padded impact shorts can cushion a hip fracture risk that climbs sharply after 45. Here's what the evidence actually supports and how to buy."
+description: "Padded impact shorts can cushion a hip fracture risk that rises with age and declining bone density. What the evidence actually supports, and how to buy."
 pubDate: 2026-10-04
 author: "Jo Fairweather"
 authorAge: 52
