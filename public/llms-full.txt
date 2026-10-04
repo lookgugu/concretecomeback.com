@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-03T09:41:18.237Z
+# Date: 2026-10-04T14:28:00.740Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -2152,7 +2152,7 @@ The bigger point is that you don't have to treat every new park as a gamble. Fif
 ### How to Start a Skate Moms (or Skate Dads) Group in Your City
 A practical guide to starting a parent skate group from zero — picking a venue, writing the first invite, and surviving past session two.
 
-A few parent skate groups show the same pattern playing out in different places — a crew of [Brooklyn moms who turned their school drop-off window into skatepark time](https://www.cbsnews.com/amp/newyork/news/brooklyn-moms-skateboarding) got covered by both CBS News and Fox5 NY in late 2024, a Cornwall-based group called [The Board Mums Club](https://skateboardgb.org/event/newquay-board-mums-club-birthday-bash/) runs fortnightly meetups around getting mums rolling for the first time, and a California group at the [Etnies Skatepark in Lake Forest](https://boardworld.com.au/blogs/news/skateboard-mum-and-the-sisters-of-shred) built a following of several hundred members over the years since it started, many of whom took up skating in their 40s and 50s. None of them began as an organization. Every one of them started as a small handful of parents who decided to show up at the same place at the same time.
+A few parent skate groups show the same pattern playing out in different places — a crew of [Brooklyn moms who turned their school drop-off window into skatepark time](https://www.cbsnews.com/newyork/news/brooklyn-moms-skateboarding/) got covered by both CBS News and Fox5 NY in late 2024, a Cornwall-based group called [The Board Mums Club](https://skateboardgb.org/event/newquay-board-mums-club-birthday-bash/) — started by five mums aged 44 to 50 — runs fortnightly meetups around getting mums rolling for the first time, and the Sisters of Shred, a California group at the [Etnies Skatepark in Lake Forest](https://boardworld.com.au/blogs/news/skateboard-mum-and-the-sisters-of-shred) fronted by Barbara Odanaka, built a following of around 300 members over the years since it started, many of whom took up skating in their 40s and 50s. None of them began as an organization. Every one of them started as a small handful of parents who decided to show up at the same place at the same time.
 
 That's the part worth taking from these stories if you'll never set foot in Brooklyn, Cornwall, or Lake Forest: the mechanism is boring and repeatable. Here's how to run it where you live.
 
@@ -6313,7 +6313,7 @@ Website: https://www.brighton-hove.gov.uk/libraries-leisure-and-arts/parks-and-g
 
 Positioned at the southern end of The Level park in central Brighton, this purpose-built concrete facility is the heartbeat of Sussex skateboarding. While its interconnected bowl complex attracts high-flying transition skaters, the park was thoughtfully planned with a segregated shallower section that gives older skaters a calm, low-consequence environment to warm up knees and test balance.
 
-The lower level includes gentle concrete mini-ramps facing each other, smooth flat banks, low ledges, and small stairs. Lighting across the surrounding public park provides visibility into the evening, and being open 24 hours means early morning sunrise sessions before the coastal crowds wake up are straightforward. Public toilets and park benches are right beside the course.
+The lower level includes gentle concrete mini-ramps facing each other, smooth flat banks, low ledges, and small stairs. Lighting across the surrounding public park provides visibility into the evening, and being open 24 hours means early morning sunrise sessions before the coastal crowds wake up are straightforward. Public toilets and park benches are right beside the course. For structured indoor coaching or wet-weather sessions, local older skaters also connect with The Skate Club in neighbouring Hove.
 
 
 ### 3rd Lair SkatePark
@@ -6324,6 +6324,15 @@ Website: https://3rdlair.com
 Operating continuously since 1997, 3rd Lair is the backbone of the Upper Midwest skate community. The indoor climate-controlled setup provides year-round skating protected from harsh Minnesota winters, surfaced with smooth wood and Skatelite that cushions impacts far more gently than outdoor concrete.
 
 For returning and older skaters, the facility runs structured adult skateboard clinics and offers private one-on-one coaching. Start on the mellow mini-ramp or "The Ditch" flow section before navigating the main street course, which offers ample flatground and progressive ledge heights.
+
+
+### Albert M. Gallego Skate Park (Santa Rita Park)
+A 16,000-square-foot in-ground concrete facility providing practical options for older skaters with evening lighting keeping it skateable until 10:30 PM.
+Location: Tucson, Arizona, US
+
+Located in Santa Rita Park, the Albert M. Gallego Skate Park is a popular 16,000-square-foot in-ground concrete destination. It's especially practical for older skaters needing to beat the harsh Arizona sun, as the facility is equipped with lights and remains open until 10:30 PM daily.
+
+The park is transition-heavy, featuring three distinct bowls: a Flow Course, a Kidney bowl, and a Clam bowl. While there are some street elements, the flowing transition lines are the main draw. It is an unsupervised facility, so checking the bowls for debris and dust before dropping in is highly recommended.
 
 
 ### Alga Norte Skatepark
@@ -6411,6 +6420,15 @@ City Walk BHAM offers an impressive, world-class skating environment right in do
 Admission is completely free, though you will need to sign a waiver before your first session. With a pump track, diverse street course, and deep bowls, it’s a park that will grow with you as your confidence returns.
 
 
+### Clippard Park Skatepark
+A well-designed concrete park featuring ability separation, keeping the 4-foot beginner bowl separate from the advanced 10-foot bowl with pool coping.
+Location: Colerain Township, Ohio, US
+
+Clippard Park Skatepark is a solid concrete facility in the greater Cincinnati area that caters well to older skaters returning to the sport. The layout offers clear ability separation between its transition features.
+
+The highlight for those regaining their confidence is a mellow 4-foot bowl with a ledge, which is kept physically distinct from the daunting 10-foot advanced bowl with pool coping. The street section includes a staircase, ramp, and railings, providing a balanced mix for all riding styles.
+
+
 ### Craig Ranch Skatepark
 A sprawling concrete park in North Las Vegas that opens at 7:00 AM. Equipped with lights, the early morning window provides a quiet environment for older skaters to beat the desert heat.
 Location: North Las Vegas, Nevada, US
@@ -6441,6 +6459,15 @@ Website: https://denvergov.org/Government/Agencies-Departments-Offices/Agencies-
 The sheer size works in a returning skater's favour — there is almost always an underused corner to practise in. Weekday mornings are quietest. The street section's smaller ledges and flat banks are the friendliest starting point; the deeper bowls are best left until your transition confidence is back.
 
 303 Boards — a Denver brick-and-mortar since 1997, with stores on South Broadway and East Colfax — is the shop paired with this park.
+
+
+### Dike West Skatepark
+Fargo's premier 23,000-square-foot concrete park. The layout contains challenges separated for all skill levels, allowing older skaters to find a comfortable pace.
+Location: Fargo, North Dakota, US
+
+Dike West is a massive 23,000-square-foot formed concrete facility and the most popular skate park in Fargo. Its sprawling footprint provides a layout that accommodates and separates challenges for beginner, intermediate, and advanced skaters, making it an excellent space for older skaters easing back onto a board.
+
+The park features a smooth riding surface packed with transition elements like a mini ramp with a spine, alongside a 6-to-10-foot bowl. The street section includes an array of banks, ledges, and rails. The concrete can become extremely slippery when wet, so avoid the park during or immediately after rain.
 
 
 ### Dover Skatepark
@@ -6497,6 +6524,15 @@ Location: Newark, Delaware, US
 Glasgow Skate Park is a substantial 24,000-square-foot public concrete facility set within Glasgow Regional Park. It features a varied street section with hubba ledges and banked wall rides, alongside two different styles of bowls. 
 
 The park is praised for its smooth, well-maintained surface, making it an excellent spot for learning and progression. While it can get busy on weekends, older skaters consistently recommend weekday morning and early afternoon hours for a quiet, low-pressure session. The varied features allow skaters to pick obstacles perfectly matched to their current comfort level.
+
+
+### Irwin A. and Robert D. Goodman Skatepark (McPike Park)
+A popular concrete park catering to older skaters with lighting until 10pm and a layout that separates a 4–7ft flow bowl from the deeper eggplant bowl.
+Location: Madison, Wisconsin, US
+
+Goodman Skatepark is the premier spot in Madison, located within McPike Park. The 20,000-square-foot facility is well-regarded by older skaters for its generous lighting hours (open until 10pm from mid-April to October) and early 4am opening, making it highly practical for those fitting a session around work.
+
+The layout physically separates the street section (which makes up about 70% of the park) from the transition area. The transition section itself offers two distinct bowls: a mellow 4–7 foot flow bowl that is ideal for warming up or regaining confidence, and a more advanced 9-foot eggplant bowl for experienced riders.
 
 
 ### Hazelwood Skatepark
@@ -6612,6 +6648,15 @@ Website: https://www.cabq.gov/parksandrecreation/parks/skate-parks
 The largest skatepark in the Southwest is a massive concrete facility that caters to all skill levels. While its deep bowls attract advanced riders, the park is highly regarded by older skaters for its thoughtful beginner-friendly zones. A large drop-in area with gentle ramps and a small center bump provides a safe, low-stakes environment to practice rolling and basic transitions.
 
 Adding to its appeal is the recently installed pump track located near the parking lot—a perfect spot to warm up or practice flow without the pressure of the main park. The atmosphere is generally described as chill and welcoming, with night lighting extending the session hours. Helmet use is mandatory for those under 18 and strongly recommended for adults. If you need gear or repairs, check out [Skate City Supply](/directory/shops/us/skate-city-supply-albuquerque-nm) nearby.
+
+
+### Lot 11 Skatepark
+A professional-grade 50,000-square-foot facility providing practical shelter for older skaters, built under the I-95 overpass to offer shade and rain protection.
+Location: Miami, Florida, US
+
+Situated in the heart of Downtown Miami, Lot 11 Skatepark is a sprawling, state-of-the-art concrete facility. Because it is built entirely under the I-95 overpass, the park is completely covered. This provides critical shade from the intense Florida sun and protection from rain, making it an incredibly practical and reliable spot for older skaters with limited time windows.
+
+The facility is divided into distinct zones, including a smooth skate plaza, two unique street-style courses with varying obstacles, and a contest-ready curved bowl. With lights keeping the park active until 10:00 PM every day, it’s one of the few places in Miami that remains dependably skateable regardless of the weather.
 
 
 ### Lower Woodland Skatepark
@@ -6767,6 +6812,15 @@ The park sits on a pile-supported pier over the Hudson, on the spot where Chelse
 What makes it a good comeback park is that the levels are named on the map. Start in the Beginner Ollie Zone (4-foot quarter, 2-foot wedge, 3-foot start box), move to the Intermediate Fun Box (24-foot ledge, kinked flat rail, 18-foot ollie ledge), and leave the 5-foot spine and the deep end of the bowl for later. Hudson River Park also runs a street-style park at Pier 25 in Tribeca if flat ledges suit you better than transition.
 
 For a setup before you go, Labor Skateshop on Canal Street — skateboarder-owned since 2012 — is the Lower East Side shop paired with this park.
+
+
+### Pitcher Park Memorial Skatepark
+A comprehensive concrete facility with explicit ability separation. It features a flatground beginner street area on an upper deck, keeping learners out of the advanced tiered street course.
+Location: Carnegie, Pennsylvania, US
+
+Pitcher Park Memorial Skatepark is a standout concrete destination in the Pittsburgh area, famously known for its gnarly bowl and iconic full pipe. However, older skaters returning to the sport will appreciate its thoughtful layout, which explicitly separates ability levels to keep traffic manageable.
+
+The park features a dedicated flatground beginner street area situated on an upper deck, complete with ledge room for seating and resting. This section provides a calm space separate from the intermediate street course and the tiered advanced street section, which contains larger hubbas, handrails, and a euro gap. Some locals note that the park lights can occasionally be dim or out in the bowl area, so ride with caution if visiting near dusk.
 
 
 ### Powhatan Springs Skate Park
@@ -7252,12 +7306,31 @@ Location: Online, US
 r/OldSkaters is the most active global online community for adult skaters. The subreddit is welcoming to complete beginners and experienced adults alike, and the advice shared about gear, spots, and the mental side of returning to skating is consistently practical and supportive.
 
 
+### Skaters Over 40
+A global community of more than 40,000 skateboarders aged 40 and older who actively skate. Emphasizes real skateboarding over board collecting, providing a supportive, zero-ego hub to share session clips, injury rehab strategies, setup tweaks, and local meetup planning.
+Location: Online, US
+
+With over 40,000 members worldwide, Skaters Over 40 is one of the most active online spaces dedicated purely to older skaters. Unlike groups focused on vintage deck hoarding or wall hangers, the community rule is "strictly skateboarding": members post clips of their weekly sessions, celebrate small progression milestones, and trade practical advice on stretching, knee braces, and shoe padding.
+
+The group serves as a valuable resource for finding local skate buddies, with members frequently organizing informal early-morning weekend meetups at neighbourhood skateparks across the US, UK, Canada, and Australia.
+
+
 ### Silver Skate UK
 A national community of UK skaters aged 35 and over, running monthly meetups at parks across England, Scotland, and Wales. Welcoming to all skill levels, with a strong emphasis on fun over progression pressure. The Facebook group is the main hub for session announcements and meetup coordination.
 Location: Various, UK
 Website: https://www.facebook.com/groups/silverskateuk
 
 Silver Skate UK is one of the most active adult skating communities in Britain. The national scope means sessions happen across the country, and the Facebook group functions as a real community hub — not just a notice board — where members share tips, spots, and session reports.
+
+
+### The Skate Club Hove
+Indoor skate club and park in Hove offering weekly evening sessions and structured coaching tailored specifically for older learners and returners, emphasizing a relaxed, non-intimidating environment on forgiving timber ramps.
+Location: Hove, England, UK
+Website: https://theskateclub.com
+
+Located in Hove on the Sussex coast, The Skate Club operates a private indoor timber skatepark with a dedicated focus on coaching and community. Their evening sessions for older skaters are designed as an explicit counterweight to crowded public parks: no shouting, no ego, and structured guidance from patient instructors who understand how to pace learning safely.
+
+The facility features mellow micro-ramps, smooth timber banks, and forgiving flatground ideal for dialling in turns, kickturns, and balance recovery. When weather allows outdoor sessions, the group regularly visits The Level Skatepark in neighbouring Brighton.
 
 
 ### Old Man Army Los Angeles
@@ -7273,3 +7346,33 @@ Location: Austin, Texas, US
 Website: https://www.facebook.com/groups/silverskaters.austin
 
 Silver Skaters Austin is one of the more organized adult skate groups in the US. The rotating park format keeps sessions fresh, and the explicitly 35+ age restriction means the vibe is reliably different from a standard open skate session.
+
+
+### Skate Like a Girl Portland
+Active Portland chapter hosting monthly evening sessions, coaching clinics, and relaxed park roll-outs for women, trans, non-binary, and older returning skaters across the Portland metro area.
+Location: Portland, Oregon, US
+Website: https://www.skatelikeagirl.com
+
+Operating across the Portland metro area, Skate Like a Girl PDX provides structured, patient instruction and casual group sessions for older skaters, adult beginners, and returning riders. The focus is strictly on mutual encouragement, building confidence, and learning safe dismount and falling mechanics.
+
+Sessions rotate between regional indoor spaces during rainy months and outdoor venues like Ed Benedict Skatepark, whose mellow concrete street plaza and gentle banks offer ideal terrain for low-stress progression. Before rolling out, drop by Cal Skate Skateboards on NW 6th Avenue for board checks and softer wheel setups.
+
+
+### Skate Like a Girl Seattle
+Pacific Northwest non-profit running dedicated monthly evening sessions and progressive workshops for women, trans, non-binary, and older returning skaters across Seattle skateparks like Lower Woodland and Judkins Park.
+Location: Seattle, Washington, US
+Website: https://www.skatelikeagirl.com
+
+Skate Like a Girl's Seattle chapter has cultivated one of the most inclusive skateboarding communities in the Pacific Northwest. Their dedicated evening sessions provide a welcoming environment specifically reserved for older skaters, beginners, and returning riders navigating their boards after years away.
+
+Free loaner boards, helmets, and protective pads are available at all community sessions. Sessions regularly rotate through local parks, including the separate street zone at Lower Woodland Skatepark. For setup tune-ups or gear recommendations, the crew pairs with 35th North on Capitol Hill.
+
+
+### SKATEYOGI Adult Open Skate
+A welcoming community of older skaters in NYC organizing dedicated weekly evening open sessions, four-week progressive clinic series, and relaxed group practice across their indoor Brooklyn spaces in Williamsburg and Prospect Lefferts Gardens.
+Location: New York, New York, US
+Website: https://www.skateyogi.com
+
+SKATEYOGI runs dedicated evening open skate sessions and multi-week coaching series tailored specifically for older skaters and beginner returners. Hosted indoors on smooth wood ramps and flatground in Brooklyn, sessions emphasize patience, safe footwork, and zero ego.
+
+Beyond indoor practice, the community coordinates weekend meetups at nearby public parks. Pair a session with a visit to Labor Skateshop on Canal Street for hardware advice, or head to Astoria Skatepark in Queens for wide open street lines.

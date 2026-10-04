@@ -167,3 +167,6 @@ Keep this current when a batch defers something, so the next pass starts here. T
 - **Trinity Skatepark, Providence RI** — downtown Providence; community-built DIY spot. Held: grassroots space with no formal beginner or adult programs and no documented lighting for evening sessions.
 - **Roberts Skate Park, Omaha NE** — 730 N 78th St; 14,000 sq ft concrete park. Held: no strong evidence of adult-specific sessions, physical separation, or lighting (open dawn to dusk only).
 - **Tosa Skatepark, Wauwatosa WI** — 7300 W Chestnut St. Held: no strong evidence of adult-specific sessions, physical separation, or lighting (fundraising for lights ongoing).
+- **Seymour Smith Skate Park, Omaha NE** — 6802 Harrison St; 11,161 sq ft concrete. Held: no strong evidence of ability separation or adult programs.
+- **Laurel Skatepark, Glen Allen VA** — 10301 Hungary Spring Rd; concrete. Held: standard transition and street features with no documented ability separation or adult-friendly sessions.
+- **Renaissance Park Skatepark, Charlotte NC** — 1536 W Tyvola Rd; concrete. Held: has lights, but is a small 4,000 sq ft park noted to get crowded, with no documented beginner-friendly features or separation.
