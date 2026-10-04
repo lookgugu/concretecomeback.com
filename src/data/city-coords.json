@@ -244,6 +244,11 @@
     "lng": -112.0741,
     "source": "Phoenix, Maricopa County, Arizona, United States"
   },
+  "US|arizona|tucson": {
+    "lat": 32.2229,
+    "lng": -110.9748,
+    "source": "Tucson, Pima County, Arizona, United States"
+  },
   "US|california|carlsbad": {
     "lat": 33.1581,
     "lng": -117.3506,
@@ -303,6 +308,11 @@
     "lat": 30.3262,
     "lng": -81.6579,
     "source": "Jacksonville, Duval County, Florida, United States"
+  },
+  "US|florida|miami": {
+    "lat": 25.7742,
+    "lng": -80.1936,
+    "source": "Miami, Miami-Dade County, Florida, United States"
   },
   "US|florida|tampa": {
     "lat": 27.945,
@@ -459,10 +469,20 @@
     "lng": -78.7812,
     "source": "Cary, Wake County, North Carolina, United States"
   },
+  "US|north dakota|fargo": {
+    "lat": 46.8772,
+    "lng": -96.7898,
+    "source": "Fargo, Cass County, North Dakota, United States"
+  },
   "US|north dakota|grand forks": {
     "lat": 47.9252,
     "lng": -97.0306,
     "source": "Grand Forks, Grand Forks County, North Dakota, United States"
+  },
+  "US|ohio|colerain township": {
+    "lat": 39.2585,
+    "lng": -84.6329,
+    "source": "Colerain Township, Hamilton County, Ohio, United States"
   },
   "US|ohio|lakewood": {
     "lat": 41.482,
@@ -483,6 +503,11 @@
     "lat": 45.5202,
     "lng": -122.6742,
     "source": "Portland, Multnomah County, Oregon, United States"
+  },
+  "US|pennsylvania|carnegie": {
+    "lat": 40.4087,
+    "lng": -80.0834,
+    "source": "Carnegie, Allegheny County, Pennsylvania, United States"
   },
   "US|pennsylvania|philadelphia": {
     "lat": 39.9527,
@@ -549,6 +574,11 @@
     "lng": -122.3301,
     "source": "Seattle, King County, Washington, United States"
   },
+  "US|wisconsin|madison": {
+    "lat": 43.0747,
+    "lng": -89.3842,
+    "source": "Madison, Dane County, Wisconsin, United States"
+  },
   "AU": {
     "lat": -33.5878,
     "lng": 144.2172,
@@ -565,8 +595,8 @@
     "source": "derived: mean of 18 listed UK cities"
   },
   "US": {
-    "lat": 38.4897,
-    "lng": -91.9444,
-    "source": "derived: mean of 63 listed US cities"
+    "lat": 38.4416,
+    "lng": -91.8051,
+    "source": "derived: mean of 69 listed US cities"
   }
 }
