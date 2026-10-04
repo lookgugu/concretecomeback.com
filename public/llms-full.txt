@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-04T14:28:00.740Z
+# Date: 2026-10-04T14:35:00.748Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -2200,7 +2200,7 @@ Most informal groups don't fail because of low interest. They fail at session tw
 
 ## You don't need a name, a logo, or a plan
 
-Every example above started as a text thread or a single social post before it had any identity of its own. The name, the regular meetup spot, and the social media page came later, once the group had already proven itself by meeting a few times. Don't let the absence of those things stop you from sending the first message. If you're waiting for a sign that there's demand for this in your city, the sign is that you're the one asking.
+None of the examples above started as an organization. The Brooklyn group grew out of parents already crossing paths at the same skatepark during drop-off; the Sisters of Shred trace back to a single planned event — Barbara Odanaka expected three or four people to show up to a casual skate party and got nineteen. Different starting points, same shape: something small and informal, with no name or structure yet, that kept happening because enough people wanted it to. The name, the regular meetup spot, and the social media page came later, once the group had already proven itself by meeting a few times. Don't let the absence of those things stop you from picking a park, a time, and sending the first invite. If you're waiting for a sign that there's demand for this in your city, the sign is that you're the one asking.
 
 
 ### How to Start Skateboarding in Your 60s
