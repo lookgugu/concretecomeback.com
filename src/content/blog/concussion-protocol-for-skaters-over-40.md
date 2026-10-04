@@ -1,6 +1,6 @@
 ---
-title: "Concussions Over 40: Why Recovery Takes Longer (and What to Do)"
-description: "Why concussion recovery runs slower after 40, the graduated return-to-skate protocol to actually use, and the red flags that mean the ER, now."
+title: "Concussion Recovery After 40: The Protocol You Actually Need"
+description: "The clinician-cleared return-to-skate protocol for a concussion, the red flags that mean the ER now, and why the youth-sports timeline may not apply."
 pubDate: 2026-10-04
 author: "Jo Fairweather"
 authorAge: 52
@@ -24,9 +24,9 @@ That doesn't mean a concussion after 40 is permanent or catastrophic. It means t
 
 ## The red flags that mean the ER today, not a wait-and-see
 
-Most concussions don't need an ambulance, but a specific set of signs does, because they can indicate an expanding bleed inside the skull rather than an ordinary concussion: repeated vomiting, a headache that keeps getting worse rather than easing, slurred speech, one pupil noticeably larger than the other, a seizure, increasing confusion or agitation, weakness or numbness in an arm or leg, or any period where you couldn't be woken up normally. Any loss of consciousness, even brief, belongs in this same category. [CDC guidance](https://www.cdc.gov/traumatic-brain-injury/signs-symptoms/index.html) is explicit that any of these means calling emergency services or getting to an emergency department right away — not waiting to get checked out later that day.
+Most concussions don't need an ambulance, but a specific set of signs does, because they can indicate an expanding bleed inside the skull rather than an ordinary concussion: repeated vomiting, a headache that keeps getting worse rather than easing, slurred speech, one pupil noticeably larger than the other, a seizure, increasing confusion or agitation, weakness or numbness in an arm or leg, or any period where you couldn't be woken up normally. Any loss of consciousness — actual or just suspected, even brief — or any gap in memory around the fall, including simply not being able to remember the impact itself, belongs in this same category: the [Amsterdam Consensus Statement](https://bjsm.bmj.com/content/57/11/695) and [NICE head-injury guidance](https://www.nice.org.uk/guidance/ng232/chapter/recommendations) both direct these straight to acute assessment, same as the signs above. [CDC guidance](https://www.cdc.gov/traumatic-brain-injury/signs-symptoms/index.html) is explicit that any of these means calling emergency services or getting to an emergency department right away — not waiting to get checked out later that day.
 
-Short of those, still get evaluated within a day or two if you were hit hard enough to be dazed, if you can't remember the fall itself, or if you're not certain whether you blacked out. "I probably don't need to go" is exactly the judgment a concussed brain is bad at making about itself — if someone else at the park thinks you should get checked, that's a reasonable tiebreaker.
+Short of those, still get evaluated within a day or two if you were hit hard enough to be dazed, confused, or just feeling "off," with full, clear memory of the fall and no question about whether you blacked out. The moment either of those is uncertain, treat it as the emergency category above rather than this one. "I probably don't need to go" is exactly the judgment a concussed brain is bad at making about itself — if someone else at the park thinks you should get checked, that's a reasonable tiebreaker.
 
 ## The protocol: why "I feel fine" isn't the test
 

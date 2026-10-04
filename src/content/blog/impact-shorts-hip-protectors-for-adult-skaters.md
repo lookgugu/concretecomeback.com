@@ -41,7 +41,7 @@ Coverage over the greater trochanter — the bony point on the outer hip you'd l
 
 ## Who should prioritize this most
 
-Women past the menopause transition and anyone with a known bone density concern get the clearest benefit, given how directly hip fracture risk tracks with declining bone density. Beginners of any age are also a good fit, simply because less-controlled falls are more common early in a comeback, before your balance and falling technique catch up to your enthusiasm.
+Women past the menopause transition and anyone with a known bone density concern have the most reason to consider this gear, given how directly hip fracture risk tracks with declining bone density. Be clear with yourself about what that means, though: it's an argument from their higher stakes if a fall goes wrong, not a demonstrated protective effect specific to that group — the community-trial evidence above is as mixed for them as for anyone else. Beginners of any age are also a good fit, simply because less-controlled falls are more common early in a comeback, before your balance and falling technique catch up to your enthusiasm.
 
 ## The honest bottom line
 
