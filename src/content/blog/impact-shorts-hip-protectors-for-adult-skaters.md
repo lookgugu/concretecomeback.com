@@ -32,7 +32,7 @@ What that doesn't mean is that today's impact shorts have their own body of skat
 
 ## What to look for when you buy
 
-Coverage over the greater trochanter — the bony point on the outer hip you'd land on in a sideways fall — is the non-negotiable feature; some versions extend coverage to the tailbone as well, which is worth having if you skate transition or anything with a backward-fall risk. Beyond that:
+Coverage over the greater trochanter — the bony point on the outer hip you'd land on in a sideways fall — and documented impact testing are the two non-negotiables. Pad placement, coverage, and how much force the foam actually attenuates vary a lot between products, and a short that merely looks padded isn't the same as one that's been tested to show what it does on impact. If a product page doesn't state or link independent impact-attenuation testing, treat its protection as unproven rather than assuming coverage alone means protection — this matters even more if you're buying specifically because of a bone-density concern. Some versions extend coverage to the tailbone as well, which is worth having if you skate transition or anything with a backward-fall risk. Beyond that:
 
 - **Fit that stays put.** A pad that shifts out of position during a session protects nothing. Try sitting, crouching, and dropping into a stance before you buy, not just standing in front of a mirror.
 - **Breathable fabric.** You're layering this under regular clothes for a full session; a shell that doesn't breathe gets skipped on hot days, which is the compliance problem all over again.
