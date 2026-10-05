@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-05T14:19:56.313Z
+# Date: 2026-10-05T14:25:14.048Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -4379,7 +4379,7 @@ On cost, running shoes need replacing every few hundred miles and that's close t
 
 ## Community
 
-Running has a mature, structured community infrastructure: clubs, group runs, race calendars, a free parkrun most Saturday mornings in the UK, Australia, and a handful of other countries, the US included. It's some of the easiest built-in social structure of any sport on this list.
+Running has a mature, structured community infrastructure: clubs, group runs, race calendars, a free parkrun most Saturday mornings in the UK, Australia, and a growing list of other countries, the US included. It's some of the easiest built-in social structure of any sport on this list.
 
 Skating's community is looser and less scheduled — you show up to a session and whoever's there is there — but it's real, and it tends to form the kind of informal, repeated-contact camaraderie [this site has written about](/blog/old-man-mondays-adult-skate-sessions/) rather than a race-day one.
 
