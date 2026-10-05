@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-05T10:06:57.708Z
+# Date: 2026-10-05T10:14:14.586Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -2286,7 +2286,7 @@ A few things matter more than brand:
 
 ## The honest trade-off
 
-Impact shorts cost more than knee pads, feel unnecessary until the day they aren't, and nobody at the park will ever know you're wearing them. That's probably the whole reason they're the gear adults skip. They're not a guarantee against the injury they're built to blunt — a hip fracture is the one with the longest, hardest recovery on this entire list, and no study has shown padded shorts actually prevent one. What they plausibly do is attenuate the force of a fall that matters, which is a real reason to have them in your bag even without a promise attached to it.
+Impact shorts cost more than knee pads, feel unnecessary until the day they aren't, and nobody at the park will ever know you're wearing them. That's probably the whole reason they're the gear adults skip. They're not a guarantee against the injury they're built to blunt — a hip fracture is the one with the longest, hardest recovery on this entire list. The clinical evidence for hip protectors is itself setting-dependent: trials in nursing and residential care have found a small reduction in fracture risk, but that effect disappears in community-dwelling adults living independently — which is the population an active skater actually belongs to — and there's no skate-specific outcome data either way. What they plausibly do, for someone in that position, is attenuate the force of a fall that matters, which is a real reason to have them in your bag even without a stronger promise attached to it.
 
 
 ### Compression, Tape, and Braces: In-Session Joint Management
@@ -2874,7 +2874,7 @@ That baseline matters more than the supplement conversation usually lets on. If 
 
 ## The forms, and which one to actually buy
 
-**Magnesium glycinate** is bound to glycine, tends to be gentler on digestion than other forms, and is the one most often recommended for steady daily use or an evening routine aimed at sleep. It's a reasonable default if you're trying magnesium for the first time and don't want to risk stomach upset.
+**Magnesium glycinate** is bound to glycine, and tends to be gentler on digestion than other forms. It's a reasonable default if you're trying magnesium for the first time and don't want to risk stomach upset — not because it's a stronger choice for sleep specifically, but because it's the form least likely to cause GI side effects at a steady daily dose.
 
 **Magnesium citrate** is cheaper and widely available, and absorbs reasonably well, but the unabsorbed portion draws water into the bowel — which is exactly why it also doubles as an over-the-counter laxative at higher doses. Fine at a modest dose; easy to overshoot into digestive discomfort if you're not paying attention to the amount.
 

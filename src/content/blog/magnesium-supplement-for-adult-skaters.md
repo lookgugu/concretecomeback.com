@@ -28,7 +28,7 @@ That baseline matters more than the supplement conversation usually lets on. If 
 
 ## The forms, and which one to actually buy
 
-**Magnesium glycinate** is bound to glycine, tends to be gentler on digestion than other forms, and is the one most often recommended for steady daily use or an evening routine aimed at sleep. It's a reasonable default if you're trying magnesium for the first time and don't want to risk stomach upset.
+**Magnesium glycinate** is bound to glycine, and tends to be gentler on digestion than other forms. It's a reasonable default if you're trying magnesium for the first time and don't want to risk stomach upset — not because it's a stronger choice for sleep specifically, but because it's the form least likely to cause GI side effects at a steady daily dose.
 
 **Magnesium citrate** is cheaper and widely available, and absorbs reasonably well, but the unabsorbed portion draws water into the bowel — which is exactly why it also doubles as an over-the-counter laxative at higher doses. Fine at a modest dose; easy to overshoot into digestive discomfort if you're not paying attention to the amount.
 
