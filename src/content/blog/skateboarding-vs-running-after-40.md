@@ -1,0 +1,53 @@
+---
+title: "Skateboarding vs. Running: An Honest Comparison for Adults Over 40"
+description: "Running is booming among older adults. Here's how it stacks up against skateboarding on cardio, joint impact, injury risk, and cost."
+pubDate: 2026-10-05
+author: "Sam Torres"
+authorAge: 44
+authorBio: "Came back to skating at 40. Community organiser and one of the founders of the Portland Adult Skate Sessions."
+tags: ["comparison", "fitness", "getting-started", "community", "health"]
+featured: false
+draft: false
+---
+
+I've already made the case against [pickleball](/blog/skateboarding-vs-pickleball/), [padel](/blog/padel-vs-skateboarding/), and [cycling](/blog/skateboarding-vs-cycling-comeback-sport/) being the only options on the table for an adult comeback sport. Running belongs in that same conversation, for a different reason than the others: it isn't trendy right now so much as it's permanently popular, and a lot of readers who land on this site are weighing it directly against picking up a board. So, the same honest comparison, running edition.
+
+## The accessibility gap runs the other way
+
+Running wins this one outright, and it's worth saying plainly. You need shoes and a stretch of ground. No board, no park, no learning curve standing between you and your first mile. If pure convenience and the lowest possible barrier to starting tomorrow morning is what matters most to you, running is hard to beat.
+
+Skateboarding asks more up front — a board, somewhere worth riding it, and a real learning curve before it starts to feel like exercise rather than an exercise in falling down. That's a genuine cost, not a minor one, which is why [this site exists](/blog/getting-back-on-board/) to help make that curve less discouraging than it looks from the outside.
+
+## The cardio picture
+
+Running is one of the most efficient, well-understood ways to build sustained cardiovascular fitness there is. It's continuous, it scales cleanly with pace and distance, and you can track progress with nothing more than a watch. If structured, measurable cardio training is your actual goal, running gives you that directly in a way few activities match.
+
+Skateboarding's cardio benefit is real but shaped differently — closer to interval work than a steady-state run, with bursts of pushing and pumping between periods of coasting, carving, and recovering. [The site's piece on skateboarding's VO2 max benefit](/blog/does-skateboarding-build-your-vo2-max/) and [zone 2 heart rate training on a board](/blog/skateboarding-zone-2-heart-rate-training/) both cover this in more depth. Skating also trains something running doesn't touch at all: continuous balance and proprioceptive correction, which [this site's piece on balance training after 40](/blog/skateboarding-balance-training-over-40/) argues is one of the genuinely underrated fitness capacities that declines with age.
+
+## Joint impact, honestly
+
+This is the comparison most people actually come here for, and it cuts in skateboarding's favor more than people expect. Running is a repetitive, high-impact activity — every stride sends a meaningful jolt up through the ankle, knee, hip, and lower back, thousands of times per mile, mile after mile, run after run. Healthy joints generally tolerate that well, and running doesn't inherently wear out healthy knees the way an older generation of advice assumed. But the repetitive, cumulative nature of that loading is exactly why running produces such a long, familiar list of overuse injuries — shin splints, runner's knee, IT band pain, plantar fasciitis, and stress fractures — that tend to show up gradually, as volume adds up week after week, rather than from any single bad step.
+
+Skateboarding's loading pattern is different: lower-repetition impact spread across pushes, landings, and pumps, rather than thousands of identical strides. The trade-off is the acute fall — skating's dominant injury pattern is the sudden one, not the gradual one, which is why [wrist guards](/blog/wrist-guards-for-adult-skaters/) and a real falling technique matter so much more here than in running. Neither sport hands you a free pass. Running's risk accumulates quietly in connective tissue over weeks; skateboarding's risk shows up suddenly, on a single bad landing.
+
+## The injury conversation, past 40 specifically
+
+If you're already managing cranky knees, a stiff lower back, or hip pain, running's repetitive pounding is worth weighing carefully — it's exactly the loading pattern that tends to aggravate those issues rather than work around them. Skateboarding on smooth park concrete, at a sensible pace and level, asks less of those same joints per session, though it demands more of your balance and reaction time instead.
+
+If it's an old ankle or wrist that worries you, the calculus flips: running's steady, predictable footfall is gentler on a wrist entirely, and gentler on an ankle than skating's unpredictable surface changes and fall risk.
+
+## Learning curve and cost
+
+Running has close to none — you can run, badly, on day one, and get meaningfully better just by doing more of it. Skateboarding's curve is real and takes patience; [the 8-week return plan](/blog/8-week-return-plan-adult-skaters/) and [the beginner trick ladder](/blog/beginner-trick-ladder-for-adult-skaters/) both exist because that curve needs structure to not be discouraging.
+
+On cost, running shoes need replacing every few hundred miles and that's close to the entire expense. A skateboard setup costs more up front and needs more ongoing replacement of wheels, bearings, and grip — [the full cost breakdown](/blog/how-much-does-skateboarding-cost/) covers real numbers — though most public skateparks are free to use, same as most roads and trails are free to run on.
+
+## Community
+
+Running has a mature, structured community infrastructure: clubs, group runs, race calendars, a parkrun most Saturdays in a lot of towns. It's some of the easiest built-in social structure of any sport on this list.
+
+Skating's community is looser and less scheduled — you show up to a session and whoever's there is there — but it's real, and it tends to form the kind of informal, repeated-contact camaraderie [this site has written about](/blog/old-man-mondays-adult-skate-sessions/) rather than a race-day one.
+
+## So which one wins?
+
+If straightforward, measurable cardio and the lowest possible barrier to starting today is what you want, running is the better fit, full stop. If you're looking for something that trains balance and coordination as much as cardio, that comes with a genuine skill curve to chase rather than just a pace to chase, and that can be gentler on joints already dealing with repetitive strain, skateboarding earns its place in the conversation. Plenty of adults in our sessions do both — a few easy runs during the week, a skate session or two for something that asks a different kind of attention from your body. This isn't an argument for picking one forever. It's an argument for not assuming running is the only sensible choice just because it's the familiar one.
