@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-05T09:44:43.387Z
+# Date: 2026-10-05T09:50:52.633Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -2866,7 +2866,7 @@ That baseline matters more than the supplement conversation usually lets on. If 
 
 ## The three things skaters actually want it for
 
-**Muscle cramps.** This is the most common reason people reach for magnesium, and it's worth separating two different things people call "cramps." For ordinary nighttime leg cramps — the kind unrelated to exercise — a Cochrane review found clinically meaningful benefit unlikely in older adults, whatever form of magnesium you use. For cramps that actually happen during or right after skating, there's no good randomized evidence either way; it's simply not been studied properly. And the downside isn't nothing: that same review found gastrointestinal side effects (loose stools, cramping of a different kind) in a meaningful share of people taking magnesium, not none. The honest version is: don't reach for magnesium as a general cramp treatment. It's worth discussing with a doctor if you suspect an actual magnesium deficiency, and worth ruling out the more established causes first — hydration, and overall mineral balance including sodium and potassium, not just magnesium.
+**Muscle cramps.** This is the most common reason people reach for magnesium, and it's worth separating two different things people call "cramps." For ordinary nighttime leg cramps — the kind unrelated to exercise — a Cochrane review found clinically meaningful benefit unlikely in older adults, whatever form of magnesium you use. For cramps that actually happen during or right after skating, there's no good randomized evidence either way; it's simply not been studied properly. And the downside isn't nothing: that same review found gastrointestinal side effects (loose stools, cramping of a different kind) in a meaningful share of people taking magnesium, not none. The honest version is: don't reach for magnesium as a general cramp treatment. What actually causes exercise-associated cramps is itself unsettled — a 2026 systematic review found no consistent link to hydration, electrolyte levels, or training factors, and some cramping athletes have tested with higher rather than lower electrolyte levels afterward, undercutting the tidy "you're just dehydrated" story. If cramps are a recurring problem, that's worth raising with a doctor rather than guessing your way through hydration, electrolytes, and supplements on your own.
 
 **Sleep.** This is the more plausible-sounding half of the pitch, but "plausible" is as far as the evidence currently goes. Magnesium plays a role in the nervous system processes involved in settling down for sleep, and glycine — the amino acid magnesium is bound to in the glycinate form — has its own separate research for improving sleep quality. But a 2026 systematic review of randomized trials testing oral magnesium for insomnia found inconsistent results and low-to-very-low certainty evidence overall, and stopped short of recommending it as a routine treatment. "Might help some people a bit, evidence is genuinely mixed" is the honest summary — not a reliable fix for a bad night.
 
@@ -2886,7 +2886,7 @@ That baseline matters more than the supplement conversation usually lets on. If 
 
 Adults generally need somewhere around 310 to 420 milligrams a day total, from food and supplements combined, depending on age and sex. That total-RDA figure is not the same thing as a safe supplement dose, though, and it's worth not conflating the two: the NIH sets a separate upper limit of 350 milligrams a day of elemental magnesium specifically from supplements and magnesium-containing medications, because food magnesium doesn't carry the same risk of digestive upset and excess that supplemental magnesium does. Check the elemental magnesium amount on the label — not just the total pill weight — and stay under that 350 milligram supplemental ceiling regardless of how much you're also getting from food.
 
-Talk to your doctor before adding a magnesium supplement if you have kidney disease — impaired kidneys can't clear excess magnesium the way healthy ones do — or if you're on medications that interact with it, including some antibiotics and diuretics. For most otherwise healthy adults, magnesium is one of the lower-risk supplements to experiment with, which is part of why it's worth trying if sleep or cramps are a real issue for you.
+Talk to your doctor before adding a magnesium supplement if you have kidney disease — impaired kidneys can't clear excess magnesium the way healthy ones do — or if you're on medications that interact with it, including some antibiotics and diuretics. For most otherwise healthy adults, magnesium is one of the lower-risk supplements to experiment with, which is part of why it's worth trying if sleep has been a genuine problem or you suspect an actual deficiency — not as a general-purpose answer to cramps.
 
 ## The honest verdict
 
