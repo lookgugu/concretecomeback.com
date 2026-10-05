@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-05T09:55:30.787Z
+# Date: 2026-10-05T10:00:43.348Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -2886,11 +2886,11 @@ That baseline matters more than the supplement conversation usually lets on. If 
 
 Adults generally need somewhere around 310 to 420 milligrams a day total, from food and supplements combined, depending on age and sex. That total-RDA figure is not the same thing as a safe supplement dose, though, and it's worth not conflating the two: the NIH sets a separate upper limit of 350 milligrams a day of elemental magnesium specifically from supplements and magnesium-containing medications, because food magnesium doesn't carry the same risk of digestive upset and excess that supplemental magnesium does. Check the elemental magnesium amount on the label — not just the total pill weight — and stay under that 350 milligram supplemental ceiling regardless of how much you're also getting from food.
 
-Talk to your doctor before adding a magnesium supplement if you have kidney disease — impaired kidneys can't clear excess magnesium the way healthy ones do — or if you're on medications that interact with it, including some antibiotics and diuretics. For most otherwise healthy adults, magnesium is one of the lower-risk supplements to experiment with, which is part of why it's worth trying if sleep has been a genuine problem or you suspect an actual deficiency — not as a general-purpose answer to cramps.
+Talk to your doctor before adding a magnesium supplement if you have kidney disease — impaired kidneys can't clear excess magnesium the way healthy ones do — or if you're on medications that interact with it, including some antibiotics and diuretics. For most otherwise healthy adults, magnesium is one of the lower-risk supplements to experiment with — but that's a reason to discuss a suspected deficiency with your doctor, not a reason to self-prescribe it for sleep or cramps on the strength of "low risk" alone.
 
 ## The honest verdict
 
-Magnesium isn't a recovery shortcut, and it won't undo a training load your body isn't ready for. It's a basic mineral that some adults are mildly short on, with genuinely weak evidence for cramps and uncertain, mixed evidence for sleep — a 2026 systematic review of a dozen randomized trials found inconsistent results with low-to-very-low certainty, and stopped short of recommending oral magnesium as a routine insomnia treatment. "Some people report it helps a bit" is a fair, honest description. "Solid evidence it works" is not. If your diet is already magnesium-rich, you're probably not missing much by skipping it. If it isn't, or if sleep has been genuinely rough, a glycinate supplement at a sensible, within-limit dose is a reasonable, low-risk thing to try — just don't expect it to replace the unglamorous basics that do most of the actual recovery work.
+Magnesium isn't a recovery shortcut, and it won't undo a training load your body isn't ready for. It's a basic mineral that some adults are mildly short on, with genuinely weak evidence for cramps and uncertain, mixed evidence for sleep — a 2026 systematic review of a dozen randomized trials found inconsistent results with low-to-very-low certainty, and stopped short of recommending oral magnesium as a routine insomnia treatment. "Some people report it helps a bit" is a fair, honest description. "Solid evidence it works" is not — and the current evidence doesn't support reaching for it as a routine insomnia fix. If your diet is already magnesium-rich, you're probably not missing much by skipping it. If it isn't — or you suspect an actual deficiency — a glycinate supplement at a sensible, within-limit dose is a low-risk thing to discuss with your doctor; sleep alone, without a suspected deficiency, isn't a strong enough reason on its own. Either way, don't expect it to replace the unglamorous basics that do most of the actual recovery work.
 
 
 ### Night Skating: Why After 7pm Is the Best Time to Skate at 45
@@ -4431,7 +4431,7 @@ Skating's community is looser and less scheduled — you show up to a session an
 
 ## So which one wins?
 
-If straightforward, measurable cardio and the lowest possible barrier to starting today is what you want, running is the better fit, full stop. If you're looking for something that trains balance and coordination as much as cardio, that comes with a genuine skill curve to chase rather than just a pace to chase, and that can be gentler on joints already dealing with repetitive strain, skateboarding earns its place in the conversation. Plenty of adults in our sessions do both — a few easy runs during the week, a skate session or two for something that asks a different kind of attention from your body. This isn't an argument for picking one forever. It's an argument for not assuming running is the only sensible choice just because it's the familiar one.
+If straightforward, measurable cardio and the lowest possible barrier to starting today is what you want, running is the better fit, full stop. If you're looking for something that trains balance and coordination as much as cardio, and that comes with a genuine skill curve to chase rather than just a pace to chase, skateboarding earns its place in the conversation — neither sport gets a blanket edge on joint pain, so if that's your deciding factor, it's a question for your own body and a clinician, not something this comparison can settle for you. Plenty of adults in our sessions do both — a few easy runs during the week, a skate session or two for something that asks a different kind of attention from your body. This isn't an argument for picking one forever. It's an argument for not assuming running is the only sensible choice just because it's the familiar one.
 
 
 ### Is Skateboarding a Zone 2 Workout? A Heart Rate Reality Check
