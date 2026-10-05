@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-05T09:31:54.006Z
+# Date: 2026-10-05T09:39:17.739Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -2274,7 +2274,9 @@ They're also worth considering during any period where you're relearning to fall
 
 A few things matter more than brand:
 
-**Padding placement over padding thickness.** Make sure the shaped pads actually sit over your hip bones and tailbone when you're in a skating stance — crouched, not standing upright — rather than just somewhere on the short. Padding that's an inch off target when you're actually bent into a ride does very little.
+**Documented impact testing first.** Not every padded short absorbs impact equally well — independent testing of commercial hip protectors has found force attenuation ranging anywhere from barely any reduction to a substantial one, and thicker padding doesn't automatically mean better attenuation. As [the safety gear guide](/blog/safety-gear-guide/) puts it, a short that merely looks padded isn't the same as one that's been impact-tested over the greater trochanter. Look for a product that documents its impact testing before anything else on this list, especially if you're buying specifically because of a bone-density concern.
+
+**Padding placement, not just thickness.** Once you've confirmed a product is actually tested, make sure the shaped pads sit over your hip bones and tailbone when you're in a skating stance — crouched, not standing upright — rather than just somewhere on the short. Padding that's an inch off target when you're actually bent into a ride does very little, however well it tested in a lab.
 
 **A snug, compression fit.** Loose padding shifts out of position exactly when you need it, usually mid-fall. Impact shorts are supposed to fit like a tight base layer, not like regular shorts.
 
