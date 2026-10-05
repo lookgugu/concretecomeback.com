@@ -50,4 +50,4 @@ A few things matter more than brand:
 
 ## The honest trade-off
 
-Impact shorts cost more than knee pads, feel unnecessary until the day they aren't, and nobody at the park will ever know you're wearing them. That's probably the whole reason they're the gear adults skip. But the injury they're built to prevent is the one with the longest, hardest recovery on this entire list — and that's exactly the kind of risk worth padding against quietly, rather than finding out the hard way that you should have.
+Impact shorts cost more than knee pads, feel unnecessary until the day they aren't, and nobody at the park will ever know you're wearing them. That's probably the whole reason they're the gear adults skip. They're not a guarantee against the injury they're built to blunt — a hip fracture is the one with the longest, hardest recovery on this entire list, and no study has shown padded shorts actually prevent one. What they plausibly do is attenuate the force of a fall that matters, which is a real reason to have them in your bag even without a promise attached to it.
