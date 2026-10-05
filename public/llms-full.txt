@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-05T14:19:56.313Z
+# Date: 2026-10-05T14:25:21.439Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -798,6 +798,52 @@ Avoid. These surfaces are unpredictable, have gaps that catch wheels, and are pu
 **Best for just pushing around**: freshly laid asphalt path or empty car park on a weekend morning.
 
 **Worth upgrading your wheels for**: any outdoor surface. Soft wheels (78a–87a) make rough pavement rideable.
+
+
+### Concussion Recovery After 40: The Protocol You Actually Need
+The clinician-cleared return-to-skate protocol for a concussion, the red flags that mean the ER now, and why the youth-sports timeline may not apply.
+
+Most adult skaters I talk to have a mental file for wrist and ankle injuries — what a bad one feels like, roughly how long it takes, when to worry. Almost none of them have the same file for a concussion, even though a head impact is the injury on this list most likely to actually change your life. Part of that is denial — a hard hit to the head is scarier to think about than a sprained wrist — and part of it is that most concussion advice online is written for teenage athletes, not a 45-year-old getting back into bowls, with return-to-play timelines and research that doesn't automatically transfer to a midlife body. That gap is worth its own guide.
+
+## What's actually happening in a concussion
+
+A concussion is a traumatic brain injury caused by a rapid movement of the head — a direct hit, or a fall hard enough to snap the head forward or sideways even without striking it directly. The brain doesn't bruise the way a muscle does; the injury is more about disrupted chemical and electrical signaling between neurons, which is why a concussion can produce real symptoms — headache, fogginess, nausea, light sensitivity, balance problems — without anything showing up on a standard CT scan. "Normal imaging" doesn't mean "no injury."
+
+## What the evidence on age and recovery actually shows
+
+The honest picture is mixed, and worth stating plainly rather than oversimplifying either direction. A small 2015 brain-imaging study from Taipei Medical University, [published in *Radiology*](https://www.rsna.org/news/2015/october-november/older-patients-recover-more-slowly-from-concussion), the Radiological Society of North America's journal, compared 13 concussed patients aged 51–68 against 13 aged 21–30, scanning both once within the first month after injury and again six weeks after that first scan. The younger group showed a significant decline in symptoms like working-memory trouble between those two scans; the older group showed no such decline, and a different brain-activation pattern too — persistent under-activation where the younger brains had briefly over-activated and then settled. That's a real, specific signal — but it's drawn from only 13 older participants, so it's a lead, not a settled finding.
+
+A larger body of evidence points the other way, with a caveat of its own. A 2023 systematic review and meta-analysis in the *British Journal of Sports Medicine* ([Putukian, Purcell, Schneider, and colleagues](https://bjsm.bmj.com/content/57/12/798)) pooled the sport-related concussion literature and found that, once study-to-study variation and overlapping confidence intervals are accounted for, older and younger age cohorts had broadly similar recovery patterns — age by itself wasn't a strong predictor. The same review found your initial symptom burden, not your age, was the strongest predictor of how long recovery actually took. The caveat is that this is athlete research: its "older" cohorts are adult athletes, not a midlife population, so it speaks to the gap between a teenager and a young adult far more directly than to a 45-year-old.
+
+Put plainly: there's no well-established rule that a 45-year-old's concussion recovers on a different timeline than a 25-year-old's. What there is, is genuine uncertainty, one small signal that older brains might compensate differently, and essentially no concussion research or return-to-play guidance written with a midlife recreational skater in mind. That combination is why "don't assume you get the fast youth-sports timeline just because nobody's specifically studied you" is the sensible default here — not because the science has proven adults recover slower, but because nobody can currently tell you that you won't, and pushing back into skating on an unverified fast timeline is exactly how a mostly-healed concussion turns into a second one.
+
+## The red flags that mean the ER today, not a wait-and-see
+
+A specific set of signs means calling emergency services or getting to an emergency department right away, not later today — [CDC guidance](https://www.cdc.gov/traumatic-brain-injury/signs-symptoms/index.html) is explicit about this list because these can indicate an expanding bleed inside the skull rather than an ordinary concussion: repeated vomiting, a headache that keeps getting worse rather than easing, slurred speech, newly decreased coordination, one pupil noticeably larger than the other, a seizure, any confusion, agitation, disorientation, or behavior that isn't like you, weakness or numbness in an arm or leg, looking very drowsy even if you can still be woken, or any period where you couldn't be woken up normally. Any loss of consciousness — actual or just suspected, even brief — or any gap in memory around the fall, including simply not being able to remember the impact itself, belongs in this same emergency category too; the [Amsterdam Consensus Statement](https://bjsm.bmj.com/content/57/11/695) is explicit that suspected loss of consciousness or amnesia gets the same acute response. NICE's own ambulance criteria add a broader catch-all on top of everything above: any new focal neurological deficit — NICE's own term for a new nervous-system problem, whether that's confined to one part of the body or general. Double vision or any other new visual change, new difficulty understanding, speaking, reading, or writing, abnormal reflexes, loss of balance, and general weakness (not just weakness in one arm or leg) all count, on top of the specific weakness, numbness, and coordination problems already listed — plus any suspicion of a skull fracture or penetrating wound (a visible skull deformity, a wound you can't be sure didn't penetrate the skull, clear fluid leaking from the nose or ear, bleeding from the ear specifically, or bruising behind the ear — a plain nosebleed on its own, common after a facial impact, isn't one of these), and a genuinely high-energy mechanism — NICE's own benchmark is a fall of more than about a meter (roughly three feet) or more than five stairs, a collision with a vehicle, or the kind of hit that sends you flying rather than just down. A routine fall off a board onto flat ground, even a hard one, doesn't meet this bar on its own.
+
+A second set of factors doesn't necessarily mean an ambulance, but does mean getting seen today rather than waiting — [NICE's head-injury guidance](https://www.nice.org.uk/guidance/ng232/chapter/recommendations) puts them in its same-day referral tier because they change the risk calculus even without a dramatic symptom: a single episode of vomiting even without repeats, a headache that's persistent without necessarily worsening, a known bleeding or clotting disorder, being on an anticoagulant or antiplatelet medication (a blood thinner) other than aspirin alone, any previous brain surgery, or current drug or alcohol intoxication. This and the emergency list above cover the factors most relevant to an adult skater, not NICE's complete clinical checklist — if something about the fall or how you feel afterward worries you and isn't covered here, that worry is itself a reasonable reason to get seen rather than wait.
+
+Short of all of those, still get evaluated within a day or two if you were hit hard enough to be dazed or just feeling "off" — without any actual confusion, agitation, or disorientation, which belong in the emergency tier above — with full, clear memory of the fall and no question about whether you blacked out. The moment any of that is uncertain, treat it as the emergency category above rather than this one. "I probably don't need to go" is exactly the judgment a concussed brain is bad at making about itself — if someone else at the park thinks you should get checked, that's a reasonable tiebreaker.
+
+## The protocol: why "I feel fine" isn't the test
+
+Concussion management changed meaningfully with the 2023 Amsterdam Consensus Statement on Concussion in Sport — the update from the 6th International Conference on Concussion in Sport, published in the *British Journal of Sports Medicine* — which explicitly moved away from the old advice of complete rest. Current guidance calls for *relative* rest, not strict rest, during the first 24–48 hours — reduced screen time and mental exertion alongside your normal activities of daily living, not lying in a dark room doing nothing. Light activity is now recommended within that same window rather than avoided — a short walk, for instance — and a mild, brief flare from it (symptoms a couple of points worse on a 0–10 scale, settling back down within an hour) isn't a reason to stop; it's the version of "pushing through" this guidance actually allows.
+
+From there, recovery moves through graded stages: light aerobic exercise, then moderate aerobic exercise, then sport-specific movement that carries no risk of a head impact — those three are where the same mild-and-brief tolerance from the first 48 hours still applies. Everything after that is a different tier: non-contact training drills, and then anything with real contact or fall risk (which for skating means essentially any normal session, since a fall is always possible), both require you to be back at your actual baseline first, with no flare tolerance, not just "manageable." Each stage typically takes at least 24 hours, and the full sequence takes at least a week even when everything goes smoothly — this isn't a same-day checklist, and feeling fine on one short walk doesn't mean you skip stages.
+
+What this protocol doesn't hand you is the authority to clear yourself into that later tier. Current guidance is explicit that a healthcare professional — not the skater, and not a friend at the park — needs to sign off before you progress into non-contact training drills and anything beyond them, not just before the final return to skating. For an adult skater, that means an actual clearance from a doctor or a clinician experienced with concussion before you start running drills on a board, not just deciding on your own that you feel fine. "Let me just try a mellow session and see how it feels" is exactly the judgment this rule exists to take out of your hands, because a brain that's still recovering won't reliably warn you before you're compromised.
+
+## Why a second concussion before the first one heals is the real danger
+
+Taking a second head impact while still symptomatic from the first carries real risk of a longer, more complicated recovery than either injury would cause alone. The most severe documented outcomes from a second impact are concentrated in teenagers and young adults, not adults in their 40s and 50s, and the evidence for a distinct "second-impact syndrome" is itself debated — so this isn't a settled finding about what happens to an older brain specifically. What isn't in dispute is the basic logic: a brain that hasn't finished healing is less able to absorb another hit, at any age. This is the single best argument for being conservative about the return-to-skate timeline rather than optimistic about it — the cost of being wrong isn't a few extra weeks off the board, it's risking a materially worse injury.
+
+## The gear side: helmet fit matters more than the sticker
+
+A helmet doesn't prevent concussions outright — no helmet does, since they're built primarily to prevent skull fracture and reduce the force transmitted to the brain, not eliminate the rotational forces a glancing fall produces. But fit matters enormously: a helmet that sits too high, rocks side to side, or isn't buckled snugly loses a meaningful share of its protection before you've even fallen. Multi-directional impact protection system (MIPS) — a low-friction layer inside the helmet designed to let it rotate slightly on impact and reduce rotational force on the brain — is increasingly common in bike and multi-sport helmets, and it's worth looking for if you're replacing yours, alongside a proper skate-specific certification rather than a repurposed bike lid — [this site's protective gear guide](/blog/safety-gear-guide/) covers fit and certification in detail. [This site's piece on injury statistics](/blog/skateboarding-injury-statistics-for-adults/) has the fuller picture on what the evidence does and doesn't say about helmet protection specifically.
+
+## The actual takeaway
+
+A concussion isn't the injury to shrug off because the swelling looks manageable or the headache fades after a day. Give it the structured, staged return the way you would any serious injury, get immediate emergency care for the red-flag signs, get an actual clinical clearance before you return to anything with fall risk, and treat "when in doubt, sit it out" as the rule rather than the exception. Your wrist will heal roughly on schedule either way. The research on whether your brain's schedule is genuinely different after 40 is thin and mixed, not settled — and that uncertainty, not a proven slower timeline, is the honest reason not to assume the "back in a week or two" rule from youth sports applies to you.
 
 
 ### 3 Off-Board Workouts That Make You a Better Adult Skater
@@ -2243,6 +2289,47 @@ This is the part I'd push hardest on. A 60-something starting alone, at an empty
 Starting to skateboard in your 60s is a real, achievable thing — not a stunt, not something you need to caveat when you tell people about it. It asks for a longer timeline, a more careful risk calculation, and more deliberate recovery than it would at 40, and none of that is a reason to wait. The version of this that works isn't the version that rushes to catch up to a younger returner's pace. It's the version that's honest about starting where you actually are, and builds from there.
 
 
+### Impact Shorts: The Hip Protector Adult Skaters Are Ignoring
+Padded impact shorts can cushion a hip fracture risk that rises with age and declining bone density. What the evidence actually supports, and how to buy.
+
+Ask an adult skater what gear they wear and you'll hear helmet, wrist guards, maybe knee pads, almost every time. Almost nobody mentions their hips, even though a direct fall onto a hip is one of the more common ways a skateboarding fall actually lands, and a hip fracture is a dramatically more serious injury at 50 than it is at 20. Impact shorts — padded underlayers built to cushion that exact fall — are a real, buyable piece of gear that most returning skaters have simply never been told exists. [This site's protective gear guide](/blog/safety-gear-guide/) covers them briefly alongside the rest of the kit; this is the longer look at the evidence behind them.
+
+## Why the hip specifically deserves attention as you age
+
+Bone density declines gradually through adulthood and accelerates for women around menopause, which [this site's piece on perimenopause](/blog/perimenopause-joints-and-skateboarding/) covers from the hormonal side. The hip is one of the areas that decline shows up most, and a hip fracture is a different category of injury from a sprained ankle or a broken wrist. Recovery is measured in months rather than weeks, surgery is common, and for older adults generally, a hip fracture carries real risk of lost independence afterward — not because skateboarding makes that specific outcome likely, but because it's the injury class where the stakes are highest if something does go wrong.
+
+A fall directly onto the side of the hip, rather than a controlled slide or a hand-catch, is exactly the kind of fall that produces that injury. It's also a completely normal way to go down on a board — missing a trick, catching a wheel, or getting caught off guard by uneven pavement can all put you on the ground sideways with no time to tuck and roll the way you'd want to.
+
+## What the hip-protector research actually says
+
+Be honest about the evidence here, because it's more mixed than a typical gear-buying article lets on. The research base on hip protectors mostly comes from fall-prevention studies in older adults, not from skateboarding specifically — there's no skating-specific trial the way there's a real study behind the standard wrist-guard recommendation. Within that older-adult research, the picture is uneven: trials that provided hip protectors to residents of nursing homes and residential-care facilities, comparing them against residents who weren't given any, found a small reduction in hip fractures — the [Cochrane review](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD001255.pub5/full) puts it at a risk ratio of 0.82, with a confidence interval that just reaches no effect — and that's the result of being offered one, not a result restricted to people confirmed to have actually worn it. Trials of independent, community-dwelling older adults have generally not shown the same benefit.
+
+Part of that gap is poor compliance. The devices studied in a lot of this research were bulky, hard plastic shells sewn into unflattering underwear, and plenty of participants in the community trials simply didn't wear them consistently enough for any protective effect to show up — a hip protector that stays in the drawer protects nobody. But compliance isn't the whole explanation: the largest community-based randomized trial — Birks and colleagues' 2004 study of 4,169 women aged 70 and over recruited through UK general practices — also found no benefit among the women who *did* wear theirs regularly (odds ratio 1.12, nowhere near a protective effect), with only 31% reporting daily wear at 12 months, and the Cochrane review's own conclusion is that hip protectors probably have little or no effect in community settings — not just that bad data obscured a real one. Treat poor compliance as a real, documented contributor to the mixed results, not a complete explanation for them.
+
+## Why today's "impact shorts" are a different product
+
+What's sold as impact shorts for action sports now — aimed at skaters, snowboarders, and mountain bikers — is a meaningfully different design from the rigid nursing-home shell studied in most of that research. Modern versions use slim, flexible foam or gel padding over the hip and tailbone, often the same impact-absorbing foam used in other protective sportswear, built into compression shorts that are actually comfortable enough to wear under normal clothes for a full session. That addresses part of why the community trials likely underperformed — but given that even regular wearers of the old-style protectors didn't show a benefit in the largest trial, a more wearable design closing the compliance gap is not the same as proof that it closes the protection gap too.
+
+What that means is that today's impact shorts don't have their own body of skateboarding-specific evidence behind them, and the mixed community-trial results above mean you shouldn't assume comfort alone fixes what those trials found. What you're actually relying on is the basic physics of padding absorbing and spreading impact force — the same logic behind every other piece of protective gear on this site — on a product you'll realistically keep wearing, which matters but isn't a substitute for the impact-testing evidence the next section asks you to look for.
+
+## What to look for when you buy
+
+Coverage over the greater trochanter — the bony point on the outer hip you'd land on in a sideways fall — and documented impact testing are the two non-negotiables. Pad placement, coverage, and how much force the foam actually attenuates vary a lot between products, and a short that merely looks padded isn't the same as one that's been tested to show what it does on impact. If a product page doesn't state or link independent impact-attenuation testing, treat its protection as unproven rather than assuming coverage alone means protection — this matters even more if you're buying specifically because of a bone-density concern. Some versions extend coverage to the tailbone as well, which is worth having if you skate transition or anything with a backward-fall risk. Beyond that:
+
+- **Fit that stays put.** A pad that shifts out of position during a session protects nothing. Try sitting, crouching, and dropping into a stance before you buy, not just standing in front of a mirror.
+- **Breathable fabric.** You're layering this under regular clothes for a full session; a shell that doesn't breathe gets skipped on hot days, which is the compliance problem all over again.
+- **Washability.** Gear that's unpleasant to clean gets worn less often. This matters more than it sounds like it should.
+- **Pads you can remove or replace.** Foam compresses and loses some protective capacity over repeated hard impacts, same as helmet foam. A shell that lets you swap pads extends the useful life of the garment.
+
+## Who should prioritize this most
+
+Women past the menopause transition and anyone with a known bone density concern have the most reason to consider this gear, given how directly hip fracture risk tracks with declining bone density. Be clear with yourself about what that means, though: it's an argument from their higher stakes if a fall goes wrong, not a demonstrated protective effect specific to that group — the community-trial evidence above is as mixed for them as for anyone else. Beginners of any age are also a good fit, simply because less-controlled falls are more common early in a comeback, before your balance and falling technique catch up to your enthusiasm.
+
+## The honest bottom line
+
+Impact shorts aren't a guarantee against a hip fracture, and nobody should skate more aggressively because they're wearing a pair — the community-trial evidence above means that claim isn't one this site is willing to make. What they are is a low-friction way to add plausible, physics-backed protection to the one major impact zone most adult skaters have never thought to cover, in a design that's actually comfortable enough to wear consistently, which the older style of hip protector largely wasn't. Pair it with the basics — a real helmet, wrist guards, and skating within your current level — rather than treating it as a replacement for any of them.
+
+
 ### Compression, Tape, and Braces: In-Session Joint Management
 A practical guide to compression sleeves, KT tape, and knee braces for adult skaters managing joint stress during sessions, not just after.
 
@@ -2602,6 +2689,40 @@ A cyclist can dial in almost any effort level just by picking a smaller hill or 
 If you're returning to skating after also having tried (or considered) a comeback in another sport, the transferable lessons are real: start smaller than your memory tells you to, hold onto the identity reason more than the fitness reason, and find your community early. But don't let a smooth cycling or running comeback lull you into skipping the skating-specific work — the falling practice, the deliberate search for mellow terrain, the acceptance that this particular comeback has a rougher, less linear on-ramp than most others.
 
 Every returning athlete in midlife is running roughly the same experiment: can the identity survive the gap the body created. The specifics differ by sport. The bet underneath it doesn't.
+
+
+### Why Life's Disruptions Are the Best Time to Return to Skating
+Divorce, retirement, an empty nest, a layoff — why the disruption that broke your routine might be exactly what gets you back on a board.
+
+I didn't come back to skating on a quiet Tuesday because I woke up and decided it was time. I came back because my job of twelve years ended, and for the first time since I was twenty-six, I had a Wednesday afternoon with nothing in it. I filled that silence by digging my old board out of a closet, mostly out of restlessness. I didn't expect it to become the thing that got me through the next year.
+
+That pattern shows up constantly in the stories adult skaters tell about their comebacks. Not "I decided to get fit" in the abstract, but a specific break in the routine — a divorce, a retirement, the last kid moving out, a health scare, a layoff — that cracked open space where a rigid schedule used to be. If something like that just happened to you, it's worth hearing directly: that disruption isn't a distraction from getting your life back in order. For a lot of people, it's the opening that makes the comeback possible in the first place.
+
+## Why disruption works where willpower usually fails
+
+Most adults don't skip skating because they lack motivation. They skip it because their week is already fully booked by a version of themselves that doesn't have room for it — the parent on school-pickup duty, the employee who's "just too busy right now," the spouse whose Saturdays are already spoken for. That identity is sticky. It doesn't yield to a New Year's resolution, because the resolution has to compete with a schedule that's been running on autopilot for years.
+
+A real disruption breaks the autopilot. Retirement removes the job that structured your day. Divorce changes who gets a say in your weekend. An empty nest hands back hours that used to belong to someone else's homework and practice schedule. None of that is painless, and I'm not going to pretend the upheaval itself is a gift. But the side effect — an identity that's suddenly unassigned, a calendar with real gaps in it — is exactly the condition that lets a new habit take root where an old one used to be locked in.
+
+## The part people get backwards
+
+The instinct after a disruption is often to treat it as a problem to solve fast: fill the gap, restore the old structure, get back to "normal" as quickly as possible. That instinct is understandable, but it's also how people slam the door shut on the exact opening that made room for something new.
+
+The better move is to notice the gap before you rush to fill it with more of the same. If you've got unstructured time for the first time in years, that's not a crisis to manage — it's an asset most people with a full, stable life don't have. The returning skaters I know who used a disruption well didn't wait until they'd "figured life out" before getting on a board. They used the disorientation itself as cover to try something that didn't fit their old identity, specifically because that old identity was already dissolving.
+
+## Grief and skating can coexist
+
+If your disruption is a loss — a relationship, a job you loved, a version of your health you took for granted — you might feel like treating it as an opportunity is disrespectful to how hard it actually is. It isn't. Grieving something and building something new don't take turns; they run alongside each other, and having a physical, absorbing activity that asks for your full attention for an hour is one of the more functional ways people get through a hard stretch, not a way of skipping past it.
+
+Skating is good for this specifically because it's demanding enough to occupy your attention completely. You can't ruminate about a divorce while you're carving a bowl with any real focus — the terrain won't let you. That's not therapy, and it's not a replacement for whatever support you actually need through a hard transition, but it's a real, specific relief that a passive hobby doesn't offer in the same way.
+
+## What to actually do with the opening
+
+Don't wait for the disruption to resolve before you start — that's the general advice here, and it applies cleanly to a divorce, a retirement, or an empty nest. If your disruption was a health scare, a new diagnosis, surgery, or anything else medical, treat that part differently: get your doctor's clearance to be active again first, the same way you would after any injury or illness, and only then apply everything else in this piece. The unstructured time is still an asset once you're cleared — there's just no version of "use the opening" that means skating before your body is actually ready. For everyone else, start small — the [8-week return plan](/blog/8-week-return-plan-adult-skaters/) on this site is built for exactly this kind of fresh start, and it doesn't require you to have your life sorted out first.
+
+Treat the first few sessions as separate from whatever's going on in the rest of your life. You don't need to process anything on the board. You just need to push, carve, and let your nervous system do something unrelated to the thing that's weighing on you.
+
+And resist the pressure — from yourself or anyone else — to frame this as either "a healthy new hobby" or "a midlife crisis." If someone close to you reaches for that second label, [this site has a piece for that conversation too](/blog/family-thinks-comeback-is-midlife-crisis/). The honest version is simpler than either label: something in your life broke open, and you used the space it left behind to go do something that makes you feel more like yourself, not less. That's not a crisis. That's just using the opening while you have it.
 
 
 ### Longboard Dancing: The Low-Pressure Way Back to Skating
@@ -4379,7 +4500,7 @@ On cost, running shoes need replacing every few hundred miles and that's close t
 
 ## Community
 
-Running has a mature, structured community infrastructure: clubs, group runs, race calendars, a free parkrun most Saturday mornings in the UK, Australia, and a handful of other countries, the US included. It's some of the easiest built-in social structure of any sport on this list.
+Running has a mature, structured community infrastructure: clubs, group runs, race calendars, a free parkrun most Saturday mornings in the UK, Australia, and a growing list of other countries, the US included. It's some of the easiest built-in social structure of any sport on this list.
 
 Skating's community is looser and less scheduled — you show up to a session and whoever's there is there — but it's real, and it tends to form the kind of informal, repeated-contact camaraderie [this site has written about](/blog/old-man-mondays-adult-skate-sessions/) rather than a race-day one.
 
