@@ -26,7 +26,7 @@ The tailbone takes a similar unprotected hit on nearly any backward fall, and co
 
 Impact shorts are a compression short — similar in base construction to a cycling or running base layer — with shaped padding sewn in over the hips, tailbone, and sometimes the outer thighs. The padding is usually a dense foam or honeycomb-structured shock-absorbing material, built to spread the force of an impact across a wider area and slow it down, rather than letting it concentrate on one point of bone. They're worn under your regular skate clothes, not as a visible layer over them, which is a big part of why they're easy to forget exist — unlike a helmet or wrist guards, nobody can see whether you're wearing them.
 
-They won't make a hard fall painless. Nothing does. What they reliably do is turn the kind of landing that would otherwise be a deep bone bruise or worse into something closer to a sore hip you can walk off.
+They won't make a hard fall painless, and they're not a guarantee against a serious injury — even trials of purpose-built hip protectors haven't shown a clear reduction in hip-fracture risk in community-dwelling older adults, and there's no skating-specific research on impact shorts to point to. What padding reliably does is spread an impact out and slow it down rather than letting it concentrate on one point of bone, which plausibly reduces how much force actually reaches the joint underneath. That's worth having in your corner on a fall that matters, even though it isn't a promise of a minor outcome.
 
 ## When they matter most
 

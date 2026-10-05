@@ -32,7 +32,7 @@ Skateboarding's loading pattern is different: lower-repetition impact spread acr
 
 ## The injury conversation, past 40 specifically
 
-If you're already managing cranky knees, a stiff lower back, or hip pain, running's repetitive pounding is worth weighing carefully — it's exactly the loading pattern that tends to aggravate those issues rather than work around them. Skateboarding on smooth park concrete, at a sensible pace and level, asks less of those same joints per session, though it demands more of your balance and reaction time instead.
+If you're already managing cranky knees, a stiff lower back, or hip pain, this isn't a case where either sport gets a clean bill of health by default. The research on this is less settled than the "running wrecks your knees" instinct suggests — a systematic review found recreational running wasn't associated with worsening pain or radiographic knee osteoarthritis, and plenty of people with a cranky joint run comfortably for years. What actually matters more than the sport you pick is the specific diagnosis, how much load you're putting through the joint, and what your own body tells you session to session. If a joint is actively painful, that's a conversation for a physio or doctor who can look at your specific situation, not a blanket "switch sports" answer — and once you have that read on it, the same loading principles apply to either sport: start well below what provokes symptoms and build gradually from there.
 
 If it's an old ankle or wrist that worries you, the calculus flips: running's steady, predictable footfall is gentler on a wrist entirely, and gentler on an ankle than skating's unpredictable surface changes and fall risk.
 

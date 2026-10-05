@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-05T09:15:54.851Z
+# Date: 2026-10-05T09:23:29.319Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -2262,7 +2262,7 @@ The tailbone takes a similar unprotected hit on nearly any backward fall, and co
 
 Impact shorts are a compression short — similar in base construction to a cycling or running base layer — with shaped padding sewn in over the hips, tailbone, and sometimes the outer thighs. The padding is usually a dense foam or honeycomb-structured shock-absorbing material, built to spread the force of an impact across a wider area and slow it down, rather than letting it concentrate on one point of bone. They're worn under your regular skate clothes, not as a visible layer over them, which is a big part of why they're easy to forget exist — unlike a helmet or wrist guards, nobody can see whether you're wearing them.
 
-They won't make a hard fall painless. Nothing does. What they reliably do is turn the kind of landing that would otherwise be a deep bone bruise or worse into something closer to a sore hip you can walk off.
+They won't make a hard fall painless, and they're not a guarantee against a serious injury — even trials of purpose-built hip protectors haven't shown a clear reduction in hip-fracture risk in community-dwelling older adults, and there's no skating-specific research on impact shorts to point to. What padding reliably does is spread an impact out and slow it down rather than letting it concentrate on one point of bone, which plausibly reduces how much force actually reaches the joint underneath. That's worth having in your corner on a fall that matters, even though it isn't a promise of a minor outcome.
 
 ## When they matter most
 
@@ -2866,7 +2866,7 @@ That baseline matters more than the supplement conversation usually lets on. If 
 
 **Muscle cramps.** This is the most common reason people reach for magnesium, and it's also where the evidence is weakest. A 2020 Cochrane review of trials on ordinary nighttime leg cramps found magnesium, in any form, unlikely to meaningfully reduce them in older adults. If cramps are your main reason for considering a magnesium supplement, it's reasonable to try — the downside risk is low — but go in without expecting a reliable fix, and look at hydration and overall mineral balance (sodium and potassium too, not just magnesium) alongside it.
 
-**Sleep.** This is the plausible half of the pitch. Magnesium plays a role in the nervous system processes involved in settling down for sleep, and glycine — the amino acid magnesium is bound to in the glycinate form — has its own separate evidence for improving sleep quality and reducing how long it takes to fall asleep. Readers who've tried it for sleep more than muscle soreness tend to report the more consistent results, though "tends to help some people sleep a bit better" is a realistic bar to set, not a guaranteed fix for a bad night.
+**Sleep.** This is the more plausible-sounding half of the pitch, but "plausible" is as far as the evidence currently goes. Magnesium plays a role in the nervous system processes involved in settling down for sleep, and glycine — the amino acid magnesium is bound to in the glycinate form — has its own separate research for improving sleep quality. But a 2026 systematic review of randomized trials testing oral magnesium for insomnia found inconsistent results and low-to-very-low certainty evidence overall, and stopped short of recommending it as a routine treatment. "Might help some people a bit, evidence is genuinely mixed" is the honest summary — not a reliable fix for a bad night.
 
 **Muscle recovery generally.** This is the vaguest of the three claims and the hardest to pin to solid evidence specific to magnesium alone. What's true is that magnesium is genuinely required for normal muscle function, so correcting an actual deficiency can plausibly help recovery feel less dragged-out. What's not well supported is the idea that magnesium on top of an already-adequate intake accelerates recovery beyond what sleep, hydration, and [the basics covered in the main recovery guide](/blog/recovery-guide-for-adult-skaters/) already do. [Sleep in particular does more heavy lifting here](/blog/sleep-most-underrated-skate-recovery-tool/) than any supplement is likely to.
 
@@ -2882,13 +2882,13 @@ That baseline matters more than the supplement conversation usually lets on. If 
 
 ## Realistic dosing, and when to be cautious
 
-Adults generally need somewhere around 310 to 420 milligrams a day total, from food and supplements combined, depending on age and sex — and most multivitamins and standalone magnesium supplements are formulated with that range in mind. More isn't better past a certain point; higher doses mostly just increase the odds of digestive discomfort rather than adding extra benefit.
+Adults generally need somewhere around 310 to 420 milligrams a day total, from food and supplements combined, depending on age and sex. That total-RDA figure is not the same thing as a safe supplement dose, though, and it's worth not conflating the two: the NIH sets a separate upper limit of 350 milligrams a day of elemental magnesium specifically from supplements and magnesium-containing medications, because food magnesium doesn't carry the same risk of digestive upset and excess that supplemental magnesium does. Check the elemental magnesium amount on the label — not just the total pill weight — and stay under that 350 milligram supplemental ceiling regardless of how much you're also getting from food.
 
 Talk to your doctor before adding a magnesium supplement if you have kidney disease — impaired kidneys can't clear excess magnesium the way healthy ones do — or if you're on medications that interact with it, including some antibiotics and diuretics. For most otherwise healthy adults, magnesium is one of the lower-risk supplements to experiment with, which is part of why it's worth trying if sleep or cramps are a real issue for you.
 
 ## The honest verdict
 
-Magnesium isn't a recovery shortcut, and it won't undo a training load your body isn't ready for. It's a basic mineral that some adults are mildly short on, with plausible-to-solid evidence for sleep and weak evidence for cramps specifically. If your diet is already magnesium-rich, you're probably not missing much by skipping it. If it isn't, or if sleep has been genuinely rough, a glycinate supplement at a sensible dose is a reasonable, low-risk thing to try — just don't expect it to replace the unglamorous basics that do most of the actual recovery work.
+Magnesium isn't a recovery shortcut, and it won't undo a training load your body isn't ready for. It's a basic mineral that some adults are mildly short on, with genuinely weak evidence for cramps and uncertain, mixed evidence for sleep — a 2026 systematic review of a dozen randomized trials found inconsistent results with low-to-very-low certainty, and stopped short of recommending oral magnesium as a routine insomnia treatment. "Some people report it helps a bit" is a fair, honest description. "Solid evidence it works" is not. If your diet is already magnesium-rich, you're probably not missing much by skipping it. If it isn't, or if sleep has been genuinely rough, a glycinate supplement at a sensible, within-limit dose is a reasonable, low-risk thing to try — just don't expect it to replace the unglamorous basics that do most of the actual recovery work.
 
 
 ### Night Skating: Why After 7pm Is the Best Time to Skate at 45
@@ -4411,7 +4411,7 @@ Skateboarding's loading pattern is different: lower-repetition impact spread acr
 
 ## The injury conversation, past 40 specifically
 
-If you're already managing cranky knees, a stiff lower back, or hip pain, running's repetitive pounding is worth weighing carefully — it's exactly the loading pattern that tends to aggravate those issues rather than work around them. Skateboarding on smooth park concrete, at a sensible pace and level, asks less of those same joints per session, though it demands more of your balance and reaction time instead.
+If you're already managing cranky knees, a stiff lower back, or hip pain, this isn't a case where either sport gets a clean bill of health by default. The research on this is less settled than the "running wrecks your knees" instinct suggests — a systematic review found recreational running wasn't associated with worsening pain or radiographic knee osteoarthritis, and plenty of people with a cranky joint run comfortably for years. What actually matters more than the sport you pick is the specific diagnosis, how much load you're putting through the joint, and what your own body tells you session to session. If a joint is actively painful, that's a conversation for a physio or doctor who can look at your specific situation, not a blanket "switch sports" answer — and once you have that read on it, the same loading principles apply to either sport: start well below what provokes symptoms and build gradually from there.
 
 If it's an old ankle or wrist that worries you, the calculus flips: running's steady, predictable footfall is gentler on a wrist entirely, and gentler on an ankle than skating's unpredictable surface changes and fall risk.
 
