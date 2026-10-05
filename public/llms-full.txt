@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-05T10:28:13.003Z
+# Date: 2026-10-05T10:34:06.100Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -4409,7 +4409,7 @@ Skateboarding's cardio benefit is real but shaped differently — closer to inte
 
 This is the comparison most people actually come here for, and it cuts in skateboarding's favor more than people expect. Running is a repetitive, high-impact activity — every stride sends a meaningful jolt up through the ankle, knee, hip, and lower back, thousands of times per mile, mile after mile, run after run. Healthy joints generally tolerate that well, and running doesn't inherently wear out healthy knees the way an older generation of advice assumed. But the repetitive, cumulative nature of that loading is exactly why running produces such a long, familiar list of overuse injuries — shin splints, runner's knee, IT band pain, plantar fasciitis, and stress fractures — that tend to show up gradually, as volume adds up week after week, rather than from any single bad step.
 
-Skateboarding's loading pattern is different: lower-repetition impact spread across pushes, landings, and pumps, rather than thousands of identical strides, but it's not free of the gradual pathway either — skating too frequently without enough recovery produces its own overuse strain on knees and tendons, which is part of why [the October reset guide](/blog/october-reset-building-your-skating-base/) and [this site's recovery guides](/blog/collagen-peptides-tendon-recovery/) exist. What skating adds on top of that is the acute fall — a distinctive risk running doesn't really have, which is why [wrist guards](/blog/wrist-guards-for-adult-skaters/) and a real falling technique matter so much more here than in running. Neither sport hands you a free pass. Running's overuse risk accumulates quietly in connective tissue over weeks; skateboarding carries that same kind of gradual strain alongside a second, more sudden risk that running simply doesn't have — a single bad landing.
+Skateboarding's loading pattern is different: lower-repetition impact spread across pushes, landings, and pumps, rather than thousands of identical strides, but it's not free of the gradual pathway either — skating too frequently without enough recovery produces its own overuse strain on knees and tendons, which is part of why [the October reset guide](/blog/october-reset-building-your-skating-base/) and [this site's recovery guides](/blog/collagen-peptides-tendon-recovery/) exist. Running isn't free of acute falls either — trail runners in particular roll ankles and go down on uneven ground at a real, non-trivial rate — but the fall is the exception in running rather than the rule. In skating, it's the defining injury mechanism, which is why [wrist guards](/blog/wrist-guards-for-adult-skaters/) and a real falling technique matter more here, session to session, than they typically do for a run. Neither sport hands you a free pass. Running's injury profile is mostly overuse with falls as the exception; skating carries that same kind of gradual strain plus a sudden-fall risk that's central to the sport rather than incidental to it.
 
 ## The injury conversation, past 40 specifically
 
