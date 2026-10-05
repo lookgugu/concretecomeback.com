@@ -1,6 +1,6 @@
 ---
 title: "Skateboarding vs. Running: An Honest Comparison for Adults Over 40"
-description: "Running is booming among older adults. Here's how it stacks up against skateboarding on cardio, joint impact, injury risk, and cost."
+description: "Running is the default comeback sport for a lot of adults over 40. Here's how it stacks up against skateboarding on cardio, joint impact, injury risk, and cost."
 pubDate: 2026-10-05
 author: "Sam Torres"
 authorAge: 44
@@ -22,7 +22,7 @@ Skateboarding asks more up front — a board, somewhere worth riding it, and a r
 
 Running is one of the most efficient, well-understood ways to build sustained cardiovascular fitness there is. It's continuous, it scales cleanly with pace and distance, and you can track progress with nothing more than a watch. If structured, measurable cardio training is your actual goal, running gives you that directly in a way few activities match.
 
-Skateboarding's cardio benefit is real but shaped differently — closer to interval work than a steady-state run, with bursts of pushing and pumping between periods of coasting, carving, and recovering. [The site's piece on skateboarding's VO2 max benefit](/blog/does-skateboarding-build-your-vo2-max/) and [zone 2 heart rate training on a board](/blog/skateboarding-zone-2-heart-rate-training/) both cover this in more depth. Running isn't a balance vacuum — it demands real single-leg postural control with every stride, and there's evidence long-term joggers hold onto static balance better than non-runners. But skating asks more of that system, continuously and in less predictable ways: a wheel catching a crack or a surface shifting mid-ride forces a correction running's repeating, symmetrical stride rarely does. [This site's piece on balance training after 40](/blog/skateboarding-balance-training-over-40/) argues that reactive, unpredictable kind of balance work is one of the genuinely underrated fitness capacities that declines with age.
+Skateboarding's cardio benefit is real but shaped differently — closer to interval work than a steady-state run, with bursts of pushing and pumping between periods of coasting, carving, and recovering. [The site's piece on skateboarding's VO2 max benefit](/blog/does-skateboarding-build-your-vo2-max/) and [zone 2 heart rate training on a board](/blog/skateboarding-zone-2-heart-rate-training/) both cover this in more depth. Running isn't a balance vacuum — it demands real single-leg postural control with every stride, and some studies of long-term older joggers find they hold onto static balance better than non-runners (others find no difference, so treat that evidence as mixed). But skating asks more of that system, continuously and in less predictable ways: a wheel catching a crack or a surface shifting mid-ride forces a correction running's repeating, symmetrical stride rarely does. [This site's piece on balance training after 40](/blog/skateboarding-balance-training-over-40/) argues that reactive, unpredictable kind of balance work is one of the genuinely underrated fitness capacities that declines with age.
 
 ## Joint impact, honestly
 
@@ -32,7 +32,7 @@ Skateboarding's loading pattern is different: lower-repetition impact spread acr
 
 ## The injury conversation, past 40 specifically
 
-If you're already managing cranky knees, a stiff lower back, or hip pain, this isn't a case where either sport gets a clean bill of health by default. The research on this is less settled than the "running wrecks your knees" instinct suggests — a systematic review found recreational running wasn't associated with worsening pain or radiographic knee osteoarthritis, and plenty of people with a cranky joint run comfortably for years. What actually matters more than the sport you pick is the specific diagnosis, how much load you're putting through the joint, and what your own body tells you session to session. If a joint is actively painful, that's a conversation for a physio or doctor who can look at your specific situation, not a blanket "switch sports" answer — and once you have that read on it, the same loading principles apply to either sport: start well below what provokes symptoms and build gradually from there.
+If you're already managing cranky knees, a stiff lower back, or hip pain, this isn't a case where either sport gets a clean bill of health by default. The research on this is less settled than the "running wrecks your knees" instinct suggests — a [2023 systematic review of 17 studies](https://pubmed.ncbi.nlm.nih.gov/36875337/) covering more than 7,000 runners found running wasn't associated with worsening knee pain or radiographic knee osteoarthritis (knee pain was actually more common among the non-runners), and plenty of people with a cranky joint run comfortably for years. What actually matters more than the sport you pick is the specific diagnosis, how much load you're putting through the joint, and what your own body tells you session to session. If a joint is actively painful, that's a conversation for a physio or doctor who can look at your specific situation, not a blanket "switch sports" answer — and once you have that read on it, the same loading principles apply to either sport: start well below what provokes symptoms and build gradually from there.
 
 If it's an old wrist that worries you, running is the clearer call — it simply doesn't load your wrists at all, where a hand-catch on a fall is one of skating's most common injury mechanisms. An old ankle is less clear-cut: running injuries land on the foot and ankle often enough that it isn't automatically the gentler option, and ankle sprains are common in skating too. Both sports can aggravate a vulnerable ankle in their own way — running through its repetitive footfall, skating through an unpredictable surface or a fall — so that one is worth the same individualized read from a physio rather than assuming either activity is safer by default.
 
@@ -44,7 +44,7 @@ On cost, running shoes need replacing every few hundred miles and that's close t
 
 ## Community
 
-Running has a mature, structured community infrastructure: clubs, group runs, race calendars, a parkrun most Saturdays in a lot of towns. It's some of the easiest built-in social structure of any sport on this list.
+Running has a mature, structured community infrastructure: clubs, group runs, race calendars, a free parkrun most Saturday mornings in the UK, Australia, and a growing list of other countries, the US included. It's some of the easiest built-in social structure of any sport on this list.
 
 Skating's community is looser and less scheduled — you show up to a session and whoever's there is there — but it's real, and it tends to form the kind of informal, repeated-contact camaraderie [this site has written about](/blog/old-man-mondays-adult-skate-sessions/) rather than a race-day one.
 
