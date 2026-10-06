@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-06T14:12:27.259Z
+# Date: 2026-10-06T14:20:32.651Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -4983,7 +4983,7 @@ A shared physical difficulty is fairly rare in parent-child relationships past a
 ### What a 1,200-Mile Skateboard Journey Teaches Returning Skaters About Grit
 Skyler King skated over 1,000 miles for suicide prevention. What his journey says about grit, community, and why adults come back to skating.
 
-This past summer, a skateboarder named Skyler King — a Horn Lake, Mississippi native now living in Oxford, where he's president of the Oxford Skateboard Association — pushed off from the Oxford skatepark on August 1 and rolled into New York City on September 12. That's nearly 1,200 miles across nine states in 43 days, with only a day and a half of rest along the way. The trip was in honor of his older brother, Justin Judkins, who died by suicide on September 3, 2024 — and who was the one who'd taught Skyler to skate in the first place, at the Latimer Lake Park skatepark a couple of miles from their childhood home.
+This past summer, a skateboarder named Skyler King — a Horn Lake, Mississippi native based in Oxford, where he was president of the Oxford Skateboard Association — pushed off from the Oxford skatepark on August 1 and rolled into New York City on September 12, the city he'd been planning to move to and used the trip itself to get there. That's nearly 1,200 miles across nine states in 43 days, with only a day and a half of rest along the way. The trip was in honor of his older brother, Justin Judkins, who died by suicide on September 3, 2024 — and who was the one who'd taught Skyler to skate in the first place, at the Latimer Lake Park skatepark a couple of miles from their childhood home.
 
 The trip was King's way of turning that loss into something that moved forward instead of sitting still. His fundraiser, which he called Push for Prevention, brought in almost $11,000. Donations mainly covered his own costs on the road — food, lodging, and emergencies — with whatever was left over going to the American Foundation for Suicide Prevention and the Ben Raemers Foundation, a UK-based charity working specifically to reduce the stigma around mental health inside skateboarding.
 
