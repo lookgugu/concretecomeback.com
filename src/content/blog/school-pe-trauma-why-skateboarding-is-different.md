@@ -10,9 +10,9 @@ featured: false
 draft: false
 ---
 
-A piece went around recently in a UK cycling magazine making the case that brutal 1980s school PE lessons left a lot of people nervous about sport for life — the writer's point was that a big chunk of adults now in their 50s and 60s still carry those lessons as a reason they hesitate to try something physical, even decades on. His own path through PE wasn't a horror story — by his account he got through it fine and came back to sport in his late twenties — but the pattern he was describing will be familiar to plenty of you anyway.
+A piece went around recently in a UK cycling magazine making the case that brutal 1980s school PE lessons left a lot of people nervous about sport for life. The writer's own memories back it up — a teacher who handed out slaps and press-ups in the snow, cross-country runs that put him off running for years, PE periods he simply started skipping once he was old enough to get away with it — and his broader point was that a big chunk of adults now in their 50s and 60s still carry those years as a reason they hesitate to try something physical, even decades on. He wasn't permanently sidelined by it — he found his way back to sport, on a bike, in his late twenties — but the damage those lessons did in the meantime was real.
 
-I hear versions of it constantly from adults coming back to skating, including from people who never had any one dramatic PE memory to point to. Something in a lot of us associates "organized physical activity" with being watched, judged, and ranked — because for a decade of our lives, that's exactly what it was for some kids, even if not for this particular writer.
+I hear versions of this constantly from adults coming back to skating. Something in a lot of us associates "organized physical activity" with being watched, judged, and punished for not measuring up — because for a chunk of our childhoods, that's exactly what it was.
 
 ## Skateboarding was never built like that
 

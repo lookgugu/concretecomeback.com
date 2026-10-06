@@ -10,7 +10,7 @@ featured: false
 draft: false
 ---
 
-This past summer, a skateboarder from Horn Lake, Mississippi named Skyler King pushed off from the Oxford, Mississippi skatepark and didn't stop for more than a month. His destination was New York City, nearly 1,200 miles away across nine states. His goal was to arrive by his brother's anniversary — Justin Judkins died by suicide on September 3, 2024, and Skyler wanted to reach the city around that date two years later.
+This past summer, a skateboarder from Horn Lake, Mississippi named Skyler King pushed off from the Oxford, Mississippi skatepark and didn't stop for more than a month. His destination was New York City, nearly 1,200 miles away across nine states. His target was World Suicide Prevention Day, September 10 — and the trip itself was in honor of his older brother, Justin Judkins, who died by suicide on September 3, 2024.
 
 Justin was the one who put Skyler on a board in the first place. The trip was King's way of turning that loss into something that moved forward instead of sitting still. Donations through his fundraiser mainly covered his own costs on the road — food, lodging, and emergencies — with whatever was left over going to the American Foundation for Suicide Prevention and the Ben Raemers Foundation, a UK-based charity working specifically to reduce the stigma around mental health inside skateboarding.
 

@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-06T09:20:58.852Z
+# Date: 2026-10-06T09:25:52.422Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -3725,9 +3725,9 @@ Wear your helmet every time, not just when you're trying something. Most adults 
 ### If School PE Put You Off Sport, Here's Why Skateboarding Feels Different
 Bad gym class memories keep a lot of adults away from sport for decades. Here's why skateboarding doesn't trigger the same old reflexes.
 
-A piece went around recently in a UK cycling magazine making the case that brutal 1980s school PE lessons left a lot of people nervous about sport for life — the writer's point was that a big chunk of adults now in their 50s and 60s still carry those lessons as a reason they hesitate to try something physical, even decades on. His own path through PE wasn't a horror story — by his account he got through it fine and came back to sport in his late twenties — but the pattern he was describing will be familiar to plenty of you anyway.
+A piece went around recently in a UK cycling magazine making the case that brutal 1980s school PE lessons left a lot of people nervous about sport for life. The writer's own memories back it up — a teacher who handed out slaps and press-ups in the snow, cross-country runs that put him off running for years, PE periods he simply started skipping once he was old enough to get away with it — and his broader point was that a big chunk of adults now in their 50s and 60s still carry those years as a reason they hesitate to try something physical, even decades on. He wasn't permanently sidelined by it — he found his way back to sport, on a bike, in his late twenties — but the damage those lessons did in the meantime was real.
 
-I hear versions of it constantly from adults coming back to skating, including from people who never had any one dramatic PE memory to point to. Something in a lot of us associates "organized physical activity" with being watched, judged, and ranked — because for a decade of our lives, that's exactly what it was for some kids, even if not for this particular writer.
+I hear versions of this constantly from adults coming back to skating. Something in a lot of us associates "organized physical activity" with being watched, judged, and punished for not measuring up — because for a chunk of our childhoods, that's exactly what it was.
 
 ## Skateboarding was never built like that
 
@@ -4983,7 +4983,7 @@ A shared physical difficulty is fairly rare in parent-child relationships past a
 ### What a 1,200-Mile Skateboard Journey Teaches Returning Skaters About Grit
 Skyler King skated over 1,000 miles for suicide prevention. What his journey says about grit, community, and why adults come back to skating.
 
-This past summer, a skateboarder from Horn Lake, Mississippi named Skyler King pushed off from the Oxford, Mississippi skatepark and didn't stop for more than a month. His destination was New York City, nearly 1,200 miles away across nine states. His goal was to arrive by his brother's anniversary — Justin Judkins died by suicide on September 3, 2024, and Skyler wanted to reach the city around that date two years later.
+This past summer, a skateboarder from Horn Lake, Mississippi named Skyler King pushed off from the Oxford, Mississippi skatepark and didn't stop for more than a month. His destination was New York City, nearly 1,200 miles away across nine states. His target was World Suicide Prevention Day, September 10 — and the trip itself was in honor of his older brother, Justin Judkins, who died by suicide on September 3, 2024.
 
 Justin was the one who put Skyler on a board in the first place. The trip was King's way of turning that loss into something that moved forward instead of sitting still. Donations through his fundraiser mainly covered his own costs on the road — food, lodging, and emergencies — with whatever was left over going to the American Foundation for Suicide Prevention and the Ben Raemers Foundation, a UK-based charity working specifically to reduce the stigma around mental health inside skateboarding.
 
