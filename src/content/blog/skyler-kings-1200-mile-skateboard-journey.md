@@ -10,17 +10,17 @@ featured: false
 draft: false
 ---
 
-This past summer, a skateboarder from Horn Lake, Mississippi named Skyler King pushed off from the Oxford, Mississippi skatepark and didn't stop for more than a month. His destination was New York City, more than 1,000 miles away by the route he took through Mississippi, Alabama, Tennessee, Virginia, and West Virginia. His goal was to arrive by September 3 — the two-year anniversary of the day his older brother, Justin Judkins, died by suicide.
+This past summer, a skateboarder from Horn Lake, Mississippi named Skyler King pushed off from the Oxford, Mississippi skatepark and didn't stop for more than a month. His destination was New York City, nearly 1,200 miles away across nine states. His goal was to arrive by his brother's anniversary — Justin Judkins died by suicide on September 3, 2024, and Skyler wanted to reach the city around that date two years later.
 
-Justin was the one who put Skyler on a board in the first place. The trip was King's way of turning that loss into something that moved forward instead of sitting still — raising money and awareness for the American Foundation for Suicide Prevention and the Ben Raemers Foundation, a UK-based charity working specifically to reduce the stigma around mental health inside skateboarding.
+Justin was the one who put Skyler on a board in the first place. The trip was King's way of turning that loss into something that moved forward instead of sitting still. Donations through his fundraiser mainly covered his own costs on the road — food, lodging, and emergencies — with whatever was left over going to the American Foundation for Suicide Prevention and the Ben Raemers Foundation, a UK-based charity working specifically to reduce the stigma around mental health inside skateboarding.
 
-I don't know Skyler King, and this isn't a site about extreme endurance stunts. But a 40-something adult pushing a skateboard across five states, alone, on a specific emotional deadline, has more to say to this site's readers than it might look like at first.
+King is in his late twenties, not a returning 40-something — this isn't his comeback story, and this isn't a site about extreme endurance stunts either. But someone pushing a skateboard across nine states, alone, on a specific emotional deadline, has more to say to this site's readers than it might look like at first.
 
 ## You don't need his mileage to recognize his problem
 
 The logistics of King's trip are not relatable to most returning adult skaters. Few of us are going to push 20-plus miles a day on a board with a backpack. What is relatable is the structure underneath it: a hard goal, a body that wasn't built for the specific demand being placed on it, and a schedule that didn't care how tired he was on any given morning.
 
-That's a smaller, quieter version of what every adult comeback actually requires. You're not skating across five states, but you are asking a body that's 20 or 30 years past its skating prime to relearn something it used to do without thinking, on a schedule that competes with work, family, and everything else already on your plate. The scale is different. The problem — sustained effort on a body under more strain than it's used to — is not.
+That's a smaller, quieter version of what every adult comeback actually requires. You're not skating across nine states, but if you're coming back in your 40s or 50s you are asking a body that's 20 or 30 years past its skating prime to relearn something it used to do without thinking, on a schedule that competes with work, family, and everything else already on your plate. The scale is different. The problem — sustained effort on a body under more strain than it's used to — is not.
 
 ## Strangers showed up, and that's the actual story
 

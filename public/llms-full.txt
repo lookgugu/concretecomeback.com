@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-06T09:15:26.242Z
+# Date: 2026-10-06T09:20:58.852Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -3725,9 +3725,9 @@ Wear your helmet every time, not just when you're trying something. Most adults 
 ### If School PE Put You Off Sport, Here's Why Skateboarding Feels Different
 Bad gym class memories keep a lot of adults away from sport for decades. Here's why skateboarding doesn't trigger the same old reflexes.
 
-A piece went around recently in a UK cycling magazine where a 53-year-old writer laid out, in detail, how miserable his school PE lessons were — picked last, forced to run a cross-country course nobody trained him for, humiliated in front of the class for being slow or unfit. He wasn't writing about a few bad memories. He was describing how those lessons shaped his relationship with physical activity for the next three decades.
+A piece went around recently in a UK cycling magazine making the case that brutal 1980s school PE lessons left a lot of people nervous about sport for life — the writer's point was that a big chunk of adults now in their 50s and 60s still carry those lessons as a reason they hesitate to try something physical, even decades on. His own path through PE wasn't a horror story — by his account he got through it fine and came back to sport in his late twenties — but the pattern he was describing will be familiar to plenty of you anyway.
 
-I hear versions of this constantly from adults coming back to skating, even from people who were never asked to write about it for a magazine. Something in a lot of us associates "organized physical activity" with being watched, judged, and ranked — because for a decade of our lives, that's exactly what it was.
+I hear versions of it constantly from adults coming back to skating, including from people who never had any one dramatic PE memory to point to. Something in a lot of us associates "organized physical activity" with being watched, judged, and ranked — because for a decade of our lives, that's exactly what it was for some kids, even if not for this particular writer.
 
 ## Skateboarding was never built like that
 
@@ -3755,7 +3755,7 @@ If your early associations with sport were about being sorted into "good at this
 
 ## What to do with this if it's you
 
-If you recognize yourself in the Cycling Weekly writer's story, the useful move isn't to argue yourself out of the old feeling. It's to notice, deliberately, the first few times it shows up at a skatepark, that nothing in the environment is actually confirming it. Nobody is picking teams. Nobody has a clipboard. The kid who just landed a trick you can't do yet isn't thinking about you at all.
+If you recognize yourself in that pattern, the useful move isn't to argue yourself out of the old feeling. It's to notice, deliberately, the first few times it shows up at a skatepark, that nothing in the environment is actually confirming it. Nobody is picking teams. Nobody has a clipboard. The kid who just landed a trick you can't do yet isn't thinking about you at all.
 
 Give it a few sessions before you trust that. The nervous system that learned "sport means being watched and judged" in sixth grade doesn't update instantly just because the facts changed. But it does update, especially somewhere built from the start to not work the way PE did.
 
@@ -4983,17 +4983,17 @@ A shared physical difficulty is fairly rare in parent-child relationships past a
 ### What a 1,200-Mile Skateboard Journey Teaches Returning Skaters About Grit
 Skyler King skated over 1,000 miles for suicide prevention. What his journey says about grit, community, and why adults come back to skating.
 
-This past summer, a skateboarder from Horn Lake, Mississippi named Skyler King pushed off from the Oxford, Mississippi skatepark and didn't stop for more than a month. His destination was New York City, more than 1,000 miles away by the route he took through Mississippi, Alabama, Tennessee, Virginia, and West Virginia. His goal was to arrive by September 3 — the two-year anniversary of the day his older brother, Justin Judkins, died by suicide.
+This past summer, a skateboarder from Horn Lake, Mississippi named Skyler King pushed off from the Oxford, Mississippi skatepark and didn't stop for more than a month. His destination was New York City, nearly 1,200 miles away across nine states. His goal was to arrive by his brother's anniversary — Justin Judkins died by suicide on September 3, 2024, and Skyler wanted to reach the city around that date two years later.
 
-Justin was the one who put Skyler on a board in the first place. The trip was King's way of turning that loss into something that moved forward instead of sitting still — raising money and awareness for the American Foundation for Suicide Prevention and the Ben Raemers Foundation, a UK-based charity working specifically to reduce the stigma around mental health inside skateboarding.
+Justin was the one who put Skyler on a board in the first place. The trip was King's way of turning that loss into something that moved forward instead of sitting still. Donations through his fundraiser mainly covered his own costs on the road — food, lodging, and emergencies — with whatever was left over going to the American Foundation for Suicide Prevention and the Ben Raemers Foundation, a UK-based charity working specifically to reduce the stigma around mental health inside skateboarding.
 
-I don't know Skyler King, and this isn't a site about extreme endurance stunts. But a 40-something adult pushing a skateboard across five states, alone, on a specific emotional deadline, has more to say to this site's readers than it might look like at first.
+King is in his late twenties, not a returning 40-something — this isn't his comeback story, and this isn't a site about extreme endurance stunts either. But someone pushing a skateboard across nine states, alone, on a specific emotional deadline, has more to say to this site's readers than it might look like at first.
 
 ## You don't need his mileage to recognize his problem
 
 The logistics of King's trip are not relatable to most returning adult skaters. Few of us are going to push 20-plus miles a day on a board with a backpack. What is relatable is the structure underneath it: a hard goal, a body that wasn't built for the specific demand being placed on it, and a schedule that didn't care how tired he was on any given morning.
 
-That's a smaller, quieter version of what every adult comeback actually requires. You're not skating across five states, but you are asking a body that's 20 or 30 years past its skating prime to relearn something it used to do without thinking, on a schedule that competes with work, family, and everything else already on your plate. The scale is different. The problem — sustained effort on a body under more strain than it's used to — is not.
+That's a smaller, quieter version of what every adult comeback actually requires. You're not skating across nine states, but if you're coming back in your 40s or 50s you are asking a body that's 20 or 30 years past its skating prime to relearn something it used to do without thinking, on a schedule that competes with work, family, and everything else already on your plate. The scale is different. The problem — sustained effort on a body under more strain than it's used to — is not.
 
 ## Strangers showed up, and that's the actual story
 

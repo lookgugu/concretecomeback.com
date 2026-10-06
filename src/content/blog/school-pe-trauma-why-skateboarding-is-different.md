@@ -10,9 +10,9 @@ featured: false
 draft: false
 ---
 
-A piece went around recently in a UK cycling magazine where a 53-year-old writer laid out, in detail, how miserable his school PE lessons were — picked last, forced to run a cross-country course nobody trained him for, humiliated in front of the class for being slow or unfit. He wasn't writing about a few bad memories. He was describing how those lessons shaped his relationship with physical activity for the next three decades.
+A piece went around recently in a UK cycling magazine making the case that brutal 1980s school PE lessons left a lot of people nervous about sport for life — the writer's point was that a big chunk of adults now in their 50s and 60s still carry those lessons as a reason they hesitate to try something physical, even decades on. His own path through PE wasn't a horror story — by his account he got through it fine and came back to sport in his late twenties — but the pattern he was describing will be familiar to plenty of you anyway.
 
-I hear versions of this constantly from adults coming back to skating, even from people who were never asked to write about it for a magazine. Something in a lot of us associates "organized physical activity" with being watched, judged, and ranked — because for a decade of our lives, that's exactly what it was.
+I hear versions of it constantly from adults coming back to skating, including from people who never had any one dramatic PE memory to point to. Something in a lot of us associates "organized physical activity" with being watched, judged, and ranked — because for a decade of our lives, that's exactly what it was for some kids, even if not for this particular writer.
 
 ## Skateboarding was never built like that
 
@@ -40,7 +40,7 @@ If your early associations with sport were about being sorted into "good at this
 
 ## What to do with this if it's you
 
-If you recognize yourself in the Cycling Weekly writer's story, the useful move isn't to argue yourself out of the old feeling. It's to notice, deliberately, the first few times it shows up at a skatepark, that nothing in the environment is actually confirming it. Nobody is picking teams. Nobody has a clipboard. The kid who just landed a trick you can't do yet isn't thinking about you at all.
+If you recognize yourself in that pattern, the useful move isn't to argue yourself out of the old feeling. It's to notice, deliberately, the first few times it shows up at a skatepark, that nothing in the environment is actually confirming it. Nobody is picking teams. Nobody has a clipboard. The kid who just landed a trick you can't do yet isn't thinking about you at all.
 
 Give it a few sessions before you trust that. The nervous system that learned "sport means being watched and judged" in sixth grade doesn't update instantly just because the facts changed. But it does update, especially somewhere built from the start to not work the way PE did.
 
