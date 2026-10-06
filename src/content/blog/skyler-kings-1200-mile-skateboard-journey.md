@@ -10,11 +10,11 @@ featured: false
 draft: false
 ---
 
-This past summer, a skateboarder from Horn Lake, Mississippi named Skyler King pushed off from the Oxford, Mississippi skatepark and didn't stop for 43 days. His destination was New York City, nearly 1,200 miles away across nine states. The trip was in honor of his older brother, Justin Judkins, who died by suicide on September 3, 2024 — and who was the one who'd put Skyler on a board in the first place.
+This past summer, a skateboarder from Horn Lake, Mississippi named Skyler King pushed off from the Oxford, Mississippi skatepark and completed the trip in 43 days, with only a day and a half of rest along the way. His destination was New York City, nearly 1,200 miles away across nine states. The trip was in honor of his older brother, Justin Judkins, who died by suicide on September 3, 2024 — and who was the one who'd put Skyler on a board in the first place.
 
 The trip was King's way of turning that loss into something that moved forward instead of sitting still. Donations through his fundraiser mainly covered his own costs on the road — food, lodging, and emergencies — with whatever was left over going to the American Foundation for Suicide Prevention and the Ben Raemers Foundation, a UK-based charity working specifically to reduce the stigma around mental health inside skateboarding.
 
-King is in his late twenties, not a returning 40-something — this isn't his comeback story, and this isn't a site about extreme endurance stunts either. But someone pushing a skateboard across nine states, alone, for a reason that mattered enough to him to keep going for 43 straight days, has more to say to this site's readers than it might look like at first.
+King is in his late twenties, not a returning 40-something — this isn't his comeback story, and this isn't a site about extreme endurance stunts either. But someone pushing a skateboard across nine states, alone, for a reason that mattered enough to him to keep going for 43 days, has more to say to this site's readers than it might look like at first.
 
 ## You don't need his mileage to recognize his problem
 
