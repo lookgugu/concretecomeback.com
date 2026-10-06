@@ -239,6 +239,11 @@
     "lng": -86.8024,
     "source": "Birmingham, Jefferson County, Alabama, United States"
   },
+  "US|alaska|anchorage": {
+    "lat": 61.2163,
+    "lng": -149.8949,
+    "source": "Anchorage, Alaska, United States"
+  },
   "US|arizona|phoenix": {
     "lat": 33.4484,
     "lng": -112.0741,
@@ -248,6 +253,11 @@
     "lat": 32.2229,
     "lng": -110.9748,
     "source": "Tucson, Pima County, Arizona, United States"
+  },
+  "US|arkansas|bentonville": {
+    "lat": 36.3729,
+    "lng": -94.2088,
+    "source": "Bentonville, Benton County, Arkansas, United States"
   },
   "US|california|carlsbad": {
     "lat": 33.1581,
@@ -324,6 +334,11 @@
     "lng": -84.3898,
     "source": "Atlanta, Fulton County, Georgia, United States"
   },
+  "US|hawaii|honolulu": {
+    "lat": 21.3045,
+    "lng": -157.8557,
+    "source": "Honolulu, Honolulu County, Hawaii, United States"
+  },
   "US|idaho|boise": {
     "lat": 43.6166,
     "lng": -116.2009,
@@ -394,6 +409,11 @@
     "lng": -83.7485,
     "source": "Ann Arbor, Washtenaw County, Michigan, United States"
   },
+  "US|michigan|grand rapids": {
+    "lat": 42.9632,
+    "lng": -85.6679,
+    "source": "Grand Rapids, Kent County, Michigan, United States"
+  },
   "US|michigan|royal oak": {
     "lat": 42.4895,
     "lng": -83.1446,
@@ -403,6 +423,16 @@
     "lat": 44.9861,
     "lng": -93.3785,
     "source": "Golden Valley, Hennepin County, Minnesota, United States"
+  },
+  "US|minnesota|minneapolis": {
+    "lat": 44.9773,
+    "lng": -93.2655,
+    "source": "Minneapolis, Hennepin County, Minnesota, United States"
+  },
+  "US|mississippi|tupelo": {
+    "lat": 34.2576,
+    "lng": -88.7034,
+    "source": "Tupelo, Lee County, Mississippi, United States"
   },
   "US|missouri|kansas city": {
     "lat": 39.1001,
@@ -463,6 +493,11 @@
     "lat": 35.7325,
     "lng": -78.8506,
     "source": "Apex, Wake County, North Carolina, 27502, United States"
+  },
+  "US|north carolina|asheville": {
+    "lat": 35.5954,
+    "lng": -82.5508,
+    "source": "Asheville, Buncombe County, North Carolina, United States"
   },
   "US|north carolina|cary": {
     "lat": 35.7874,
@@ -595,8 +630,8 @@
     "source": "derived: mean of 18 listed UK cities"
   },
   "US": {
-    "lat": 38.4416,
-    "lng": -91.8051,
-    "source": "derived: mean of 69 listed US cities"
+    "lat": 38.5415,
+    "lng": -93.2461,
+    "source": "derived: mean of 76 listed US cities"
   }
 }

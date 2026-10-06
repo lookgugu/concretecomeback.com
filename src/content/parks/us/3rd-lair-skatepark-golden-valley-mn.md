@@ -1,28 +1,27 @@
 ---
-name: "3rd Lair SkatePark"
+name: "3rd Lair Skatepark"
 country: "US"
 stateProvince: "Minnesota"
 city: "Golden Valley"
 address: "850 Florida Ave S, Golden Valley, MN 55426"
-description: "Twin Cities indoor institution featuring forgiving wooden surfaces, dedicated coaching clinics for older skaters, private instruction, and a separate mini-ramp and ditch course decoupled from high-impact street traffic."
+description: "A premier indoor and outdoor training facility serving the Twin Cities since 1997. It offers strong adult-focused programming, including a weekly Wednesday night session for skaters 30 and older, as well as dedicated adult clinics."
 surface: ["wood"]
-features: ["bowl", "street", "mini-ramp", "transitions", "ramps", "rails"]
+features: ["bowl", "mini-ramp", "street", "banks"]
 difficulty: "mixed"
 adultFriendly: true
 isIndoor: true
+isCovered: true
 hasLighting: true
-hasParking: true
-hasToilets: true
-openingHours: "Monday 12pm–8pm; Tuesday–Sunday 12pm–7pm"
-entryFee: "$15 per session ($5 for members)"
+openingHours: "Mon 12pm–6pm, Tue 12pm–7pm, Wed–Fri 12pm–10pm, Sat–Sun 12pm–9pm (Check site for current hours)"
+entryFee: "$12 non-members, $5 members for specific sessions"
 website: "https://3rdlair.com"
-googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=850+Florida+Ave+S+Golden+Valley+MN+55426"
+googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=850+Florida+Ave+S+Golden+Valley+MN"
 featured: false
-addedDate: 2026-09-26
-lastVerified: 2026-09-26
-tags: ["indoor", "wood", "minneapolis", "twin-cities", "clinics"]
+addedDate: 2026-10-06
+lastVerified: 2026-10-06
+tags: ["indoor", "clinics", "minneapolis", "twin cities"]
 ---
 
-Operating continuously since 1997, 3rd Lair is the backbone of the Upper Midwest skate community. The indoor climate-controlled setup provides year-round skating protected from harsh Minnesota winters, surfaced with smooth wood and Skatelite that cushions impacts far more gently than outdoor concrete.
+3rd Lair has been a cornerstone of the Twin Cities skate scene for decades, providing a crucial winter haven with its extensive indoor wood and Skatelite terrain. The park is uniquely welcoming to older skaters, offering a dedicated 30+ session every Wednesday night where you can progress in a more relaxed atmosphere.
 
-For returning and older skaters, the facility runs structured adult skateboard clinics and offers private one-on-one coaching. Start on the mellow mini-ramp or "The Ditch" flow section before navigating the main street course, which offers ample flatground and progressive ledge heights.
+The facility features a variety of areas, from a classic bowl and mini-ramp to multiple street sections. If you're coming back to the board or starting fresh, check out their adult clinics to build your confidence alongside peers. Cross-reference your visit with **Familia Skateshop** in nearby Minneapolis for all your gear needs.
