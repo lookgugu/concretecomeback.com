@@ -10,7 +10,7 @@ featured: false
 draft: false
 ---
 
-A clip made the rounds recently of a group of teenage boys at a skatepark coaching an older woman through a drop-in, cheering when she landed it. It struck a nerve beyond the skating world because most adults can't name many other public spaces where a 16-year-old and a 55-year-old end up genuinely helping each other at the same activity, on equal footing, without one of them being in charge.
+A clip that still circulates every so often shows two young men at a skatepark steadying an older woman by the arms while she rolls on flat ground for the first time, grinning the whole way. It keeps resurfacing because most adults can't name many other public spaces where a teenager and someone old enough to be his grandmother end up genuinely helping each other at the same activity, on equal footing, without one of them being in charge.
 
 Skateparks are one of the few places left that still work that way. If you're coming back to skating as an adult, the age mix at your local park isn't a side detail — it's one of the things worth paying attention to.
 

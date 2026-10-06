@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-06T09:37:10.109Z
+# Date: 2026-10-06T09:41:41.906Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -6016,7 +6016,7 @@ The point of a winter plan isn't to keep training as hard as you did in summer. 
 ### What Teenage Regulars at the Park Can Teach a Returning Adult Skater
 Skateparks are one of the few places teenagers and adults genuinely mix. Here's what older returners pick up from younger skaters, and what they give back.
 
-A clip made the rounds recently of a group of teenage boys at a skatepark coaching an older woman through a drop-in, cheering when she landed it. It struck a nerve beyond the skating world because most adults can't name many other public spaces where a 16-year-old and a 55-year-old end up genuinely helping each other at the same activity, on equal footing, without one of them being in charge.
+A clip that still circulates every so often shows two young men at a skatepark steadying an older woman by the arms while she rolls on flat ground for the first time, grinning the whole way. It keeps resurfacing because most adults can't name many other public spaces where a teenager and someone old enough to be his grandmother end up genuinely helping each other at the same activity, on equal footing, without one of them being in charge.
 
 Skateparks are one of the few places left that still work that way. If you're coming back to skating as an adult, the age mix at your local park isn't a side detail — it's one of the things worth paying attention to.
 
