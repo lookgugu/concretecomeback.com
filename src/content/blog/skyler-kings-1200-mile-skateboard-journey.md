@@ -10,11 +10,11 @@ featured: false
 draft: false
 ---
 
-This past summer, a skateboarder from Horn Lake, Mississippi named Skyler King pushed off from the Oxford, Mississippi skatepark and didn't stop for more than a month. His destination was New York City, nearly 1,200 miles away across nine states. His target was World Suicide Prevention Day, September 10 — and the trip itself was in honor of his older brother, Justin Judkins, who died by suicide on September 3, 2024.
+This past summer, a skateboarder from Horn Lake, Mississippi named Skyler King pushed off from the Oxford, Mississippi skatepark and didn't stop for 43 days. His destination was New York City, nearly 1,200 miles away across nine states. He'd originally hoped to arrive by World Suicide Prevention Day, September 10, but let that target go partway through — slowing down to actually talk with the people he met along the way instead of racing the calendar. The trip itself was in honor of his older brother, Justin Judkins, who died by suicide on September 3, 2024.
 
 Justin was the one who put Skyler on a board in the first place. The trip was King's way of turning that loss into something that moved forward instead of sitting still. Donations through his fundraiser mainly covered his own costs on the road — food, lodging, and emergencies — with whatever was left over going to the American Foundation for Suicide Prevention and the Ben Raemers Foundation, a UK-based charity working specifically to reduce the stigma around mental health inside skateboarding.
 
-King is in his late twenties, not a returning 40-something — this isn't his comeback story, and this isn't a site about extreme endurance stunts either. But someone pushing a skateboard across nine states, alone, on a specific emotional deadline, has more to say to this site's readers than it might look like at first.
+King is in his late twenties, not a returning 40-something — this isn't his comeback story, and this isn't a site about extreme endurance stunts either. But someone pushing a skateboard across nine states, alone, for a reason that mattered enough to him to keep going even after the original plan stopped making sense, has more to say to this site's readers than it might look like at first.
 
 ## You don't need his mileage to recognize his problem
 
@@ -32,13 +32,13 @@ That's also, in miniature, what a skatepark does for adults who show up consiste
 
 ## Why this matters for a comeback specifically
 
-A long comeback — six months, a year, longer — needs more than motivation on day one. It needs a reason that still holds up on the mornings when motivation doesn't show. King's reason was about as concrete as they come: a date on the calendar tied to his brother's memory, and a destination he either reached or didn't.
+A long comeback — six months, a year, longer — needs more than motivation on day one. It needs a reason that still holds up on the mornings when motivation doesn't show. King's reason was about as concrete as they come: his brother's memory and a destination he intended to reach. Notice what he did when the original deadline stopped serving that reason — he dropped the date, not the trip. The mission outlasted the schedule, which is the opposite of what most of us do when a plan stops going the way we wanted.
 
 Most returning adult skaters don't have a story that dramatic, and you don't need one. But it's worth being honest with yourself about what your own version of that reason is. "I want to get back in shape" rarely survives a bad week. "I'm doing this because skating is one of the only things that quiets my head down" tends to survive a lot more, because it's a reason you can feel the absence of when you skip it.
 
 ## The part worth borrowing
 
-You're not going to skate 1,200 miles, and you shouldn't try to. What's worth taking from King's trip isn't the scale — it's the shape of it: a real reason, a schedule that doesn't wait for motivation to catch up, and an openness to the people who show up along the way instead of trying to do it entirely alone.
+You're not going to skate 1,200 miles, and you shouldn't try to. What's worth taking from King's trip isn't the scale — it's the shape of it: a real reason, a willingness to let the plan bend without abandoning the goal, and an openness to the people who show up along the way instead of trying to do it entirely alone.
 
 If skating is part of how you're processing something — stress, loss, the general weight of being 45 and trying to feel like yourself again — that's not a lesser reason to be at the park than training for a competition. It might be the better one. It's also, per King's own story and the growing body of coverage connecting skateboarding to [mental health support work](/blog/brain-chemistry-behind-why-skateboarding-helps/), exactly the kind of reason that tends to keep people coming back.
 
