@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-06T09:41:41.906Z
+# Date: 2026-10-06T14:12:27.259Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -3725,7 +3725,7 @@ Wear your helmet every time, not just when you're trying something. Most adults 
 ### If School PE Put You Off Sport, Here's Why Skateboarding Feels Different
 Bad gym class memories keep a lot of adults away from sport for decades. Here's why skateboarding doesn't trigger the same old reflexes.
 
-A piece went around recently in a UK cycling magazine making the case that brutal 1980s school PE lessons left a lot of people nervous about sport for life. The writer's own memories back it up — a teacher who handed out slaps and press-ups in the snow, cross-country runs that put him off running for years, PE periods he simply started skipping once he was old enough to get away with it — and his broader point was that a big chunk of adults now in their 50s and 60s still carry those years as a reason they hesitate to try something physical, even decades on. He wasn't permanently sidelined by it — he found his way back to sport, on a bike, in his late twenties — but the damage those lessons did in the meantime was real.
+A piece went around earlier this year in Cycling Weekly making the case that brutal 1980s school PE lessons left a lot of people nervous about sport for life. The writer, now 53, had the memories to back it up — a teacher who handed out slaps and press-ups in the snow, cross-country runs that put him off running for years, PE periods he simply started skipping at 15 — and he wasn't permanently sidelined by it, finding his way back to sport on a bike in his late twenties. The hook for the piece was a survey by Age UK: polling 2,385 British adults aged 50 to 65, it estimated that around 4 million people in that age group were put off exercise and sport for life by school PE, that 4.1 million still feel traumatised by it, and that 42% are anxious about joining a sports group or class at their age. Being picked last for teams and feeling self-conscious about their body were each named by 40% of respondents.
 
 I hear versions of this constantly from adults coming back to skating. Something in a lot of us associates "organized physical activity" with being watched, judged, and punished for not measuring up — because for a chunk of our childhoods, that's exactly what it was.
 
@@ -4983,9 +4983,9 @@ A shared physical difficulty is fairly rare in parent-child relationships past a
 ### What a 1,200-Mile Skateboard Journey Teaches Returning Skaters About Grit
 Skyler King skated over 1,000 miles for suicide prevention. What his journey says about grit, community, and why adults come back to skating.
 
-This past summer, a skateboarder from Horn Lake, Mississippi named Skyler King pushed off from the Oxford, Mississippi skatepark and completed the trip in 43 days, with only a day and a half of rest along the way. His destination was New York City, nearly 1,200 miles away across nine states. The trip was in honor of his older brother, Justin Judkins, who died by suicide on September 3, 2024 — and who was the one who'd put Skyler on a board in the first place.
+This past summer, a skateboarder named Skyler King — a Horn Lake, Mississippi native now living in Oxford, where he's president of the Oxford Skateboard Association — pushed off from the Oxford skatepark on August 1 and rolled into New York City on September 12. That's nearly 1,200 miles across nine states in 43 days, with only a day and a half of rest along the way. The trip was in honor of his older brother, Justin Judkins, who died by suicide on September 3, 2024 — and who was the one who'd taught Skyler to skate in the first place, at the Latimer Lake Park skatepark a couple of miles from their childhood home.
 
-The trip was King's way of turning that loss into something that moved forward instead of sitting still. Donations through his fundraiser mainly covered his own costs on the road — food, lodging, and emergencies — with whatever was left over going to the American Foundation for Suicide Prevention and the Ben Raemers Foundation, a UK-based charity working specifically to reduce the stigma around mental health inside skateboarding.
+The trip was King's way of turning that loss into something that moved forward instead of sitting still. His fundraiser, which he called Push for Prevention, brought in almost $11,000. Donations mainly covered his own costs on the road — food, lodging, and emergencies — with whatever was left over going to the American Foundation for Suicide Prevention and the Ben Raemers Foundation, a UK-based charity working specifically to reduce the stigma around mental health inside skateboarding.
 
 King is in his late twenties, not a returning 40-something — this isn't his comeback story, and this isn't a site about extreme endurance stunts either. But someone pushing a skateboard across nine states, alone, for a reason that mattered enough to him to keep going for 43 days, has more to say to this site's readers than it might look like at first.
 
@@ -6016,9 +6016,9 @@ The point of a winter plan isn't to keep training as hard as you did in summer. 
 ### What Teenage Regulars at the Park Can Teach a Returning Adult Skater
 Skateparks are one of the few places teenagers and adults genuinely mix. Here's what older returners pick up from younger skaters, and what they give back.
 
-A clip that still circulates every so often shows two young men at a skatepark steadying an older woman by the arms while she rolls on flat ground for the first time, grinning the whole way. It keeps resurfacing because most adults can't name many other public spaces where a teenager and someone old enough to be his grandmother end up genuinely helping each other at the same activity, on equal footing, without one of them being in charge.
+A clip that still circulates every so often, first posted to TikTok in January 2021 by a skater named Kevin Perez, shows two young men holding an older woman's hands as she coasts slowly down a street on a skateboard for the first time. When she realizes she's being filmed she announces, "This is marvelous!" It keeps resurfacing because most adults can't name many other situations where a young skater and someone old enough to be his grandmother end up genuinely helping each other at the same activity, on equal footing, without one of them being in charge.
 
-Skateparks are one of the few places left that still work that way. If you're coming back to skating as an adult, the age mix at your local park isn't a side detail — it's one of the things worth paying attention to.
+That clip wasn't even shot at a skatepark, but skateparks are one of the few places left where that kind of exchange happens routinely rather than as a one-off. If you're coming back to skating as an adult, the age mix at your local park isn't a side detail — it's one of the things worth paying attention to.
 
 ## What younger skaters actually bring
 

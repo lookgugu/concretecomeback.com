@@ -10,9 +10,9 @@ featured: false
 draft: false
 ---
 
-A clip that still circulates every so often shows two young men at a skatepark steadying an older woman by the arms while she rolls on flat ground for the first time, grinning the whole way. It keeps resurfacing because most adults can't name many other public spaces where a teenager and someone old enough to be his grandmother end up genuinely helping each other at the same activity, on equal footing, without one of them being in charge.
+A clip that still circulates every so often, first posted to TikTok in January 2021 by a skater named Kevin Perez, shows two young men holding an older woman's hands as she coasts slowly down a street on a skateboard for the first time. When she realizes she's being filmed she announces, "This is marvelous!" It keeps resurfacing because most adults can't name many other situations where a young skater and someone old enough to be his grandmother end up genuinely helping each other at the same activity, on equal footing, without one of them being in charge.
 
-Skateparks are one of the few places left that still work that way. If you're coming back to skating as an adult, the age mix at your local park isn't a side detail — it's one of the things worth paying attention to.
+That clip wasn't even shot at a skatepark, but skateparks are one of the few places left where that kind of exchange happens routinely rather than as a one-off. If you're coming back to skating as an adult, the age mix at your local park isn't a side detail — it's one of the things worth paying attention to.
 
 ## What younger skaters actually bring
 
