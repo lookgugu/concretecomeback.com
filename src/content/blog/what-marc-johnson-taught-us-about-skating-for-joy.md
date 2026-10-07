@@ -12,7 +12,7 @@ draft: false
 
 Marc Johnson died on May 26, 2026, at 49. If that name doesn't mean much to you, that's fine — this isn't a post for people who already know the catalog. It's a post about the specific thing he was known for among people who skated through the 2000s, because that thing is more useful to a 45-year-old coming back to a board than almost anything a current pro could teach you.
 
-Johnson started skating in 1990 at 13, growing up in Burke County, North Carolina. He turned pro, co-founded Enjoi with Rodney Mullen in 2000, and built a career that peaked with his closing part in *Fully Flared* in 2007 — a part still widely cited as one of the best skate video parts ever filmed, and the one that earned him Thrasher's Skater of the Year award that year. His friend Louie Barletta said Johnson had seemed sober, healthy, and full of life when the two spent time together in San Jose less than a month before he died. A cause of death hasn't been made public, and I'm not going to speculate on it here.
+Johnson started skating in 1990 at 13, growing up in Winston-Salem, North Carolina. He turned pro, co-founded Enjoi with Rodney Mullen in 2000, and built a career that peaked with his closing part in *Fully Flared* in 2007 — a part still widely cited as one of the best skate video parts ever filmed, and the one that earned him Thrasher's Skater of the Year award that year. His friend Louie Barletta said Johnson had seemed sober, healthy, and full of life when the two spent time together in San Jose less than a month before he died. A cause of death hasn't been made public, and I'm not going to speculate on it here.
 
 What I want to talk about instead is why people who watched him skate for twenty years keep using the same word to describe it: style.
 

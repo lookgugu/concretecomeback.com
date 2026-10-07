@@ -34,7 +34,7 @@ What hasn't been studied directly is whether skateboarding specifically outperfo
 
 ## What this doesn't mean
 
-This isn't a replacement for medication, therapy, or whatever management plan is actually working for you, and it isn't a claim that skateboarding treats ADHD as a clinical matter. The research above supports exercise as a genuinely helpful adjunct for adult ADHD symptoms — not a substitute for diagnosis and treatment, and not evidence that skating outperforms medication or structured therapy where those are needed.
+This isn't a replacement for medication, therapy, or whatever management plan is actually working for you, and it isn't a claim that skateboarding treats ADHD as a clinical matter. The research above supports exercise as a genuinely helpful adjunct for inhibitory control in adult ADHD specifically — not a proven fix for ADHD symptoms generally, not a substitute for diagnosis and treatment, and not evidence that skating outperforms medication or structured therapy where those are needed.
 
 It's also fair to say skateboarding isn't the only activity that offers this kind of structure. Surfing, climbing, and other sports with fast feedback loops and physical variability likely offer something similar. Skateboarding's specific advantage for this site's audience is mostly practical — it's cheaper and more accessible than surfing or climbing for most adults, and a session fits into an hour at a local park rather than requiring travel to a specific location.
 
