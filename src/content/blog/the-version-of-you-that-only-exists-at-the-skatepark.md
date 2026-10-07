@@ -1,6 +1,6 @@
 ---
 title: "The Version of You That Only Exists at the Skatepark"
-description: "Research on middle-aged skateboarders found something other exercise rarely offers: an identity completely separate from your family and work roles."
+description: "Research on middle-aged skateboarders found an identity completely separate from family and work roles — rarer, in this writer's view, than it should be."
 pubDate: 2026-10-07
 author: "Marcus Webb"
 authorAge: 47
