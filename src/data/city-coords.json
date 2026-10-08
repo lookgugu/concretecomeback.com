@@ -354,6 +354,11 @@
     "lng": -88.7714,
     "source": "DeKalb County, Illinois, United States"
   },
+  "US|illinois|round lake": {
+    "lat": 42.3534,
+    "lng": -88.0934,
+    "source": "Round Lake, Lake County, Illinois, 60073, United States"
+  },
   "US|indiana|carmel": {
     "lat": 39.9784,
     "lng": -86.1284,
@@ -479,6 +484,11 @@
     "lng": -106.651,
     "source": "Albuquerque, Bernalillo County, New Mexico, United States"
   },
+  "US|new york|brooklyn": {
+    "lat": 40.6526,
+    "lng": -73.9497,
+    "source": "Brooklyn, Kings County, New York, United States"
+  },
   "US|new york|new york": {
     "lat": 40.7127,
     "lng": -74.006,
@@ -533,6 +543,11 @@
     "lat": 36.1563,
     "lng": -95.9928,
     "source": "Tulsa, Oklahoma, United States"
+  },
+  "US|oregon|milwaukie": {
+    "lat": 45.444,
+    "lng": -122.6413,
+    "source": "Milwaukie, Clackamas County, Oregon, 97222, United States"
   },
   "US|oregon|portland": {
     "lat": 45.5202,
@@ -630,8 +645,8 @@
     "source": "derived: mean of 18 listed UK cities"
   },
   "US": {
-    "lat": 38.5415,
-    "lng": -93.2461,
-    "source": "derived: mean of 76 listed US cities"
+    "lat": 38.7039,
+    "lng": -93.3087,
+    "source": "derived: mean of 79 listed US cities"
   }
 }

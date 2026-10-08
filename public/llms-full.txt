@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-08T06:33:44.419Z
+# Date: 2026-10-08T06:34:01.384Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -6812,6 +6812,16 @@ Alga Norte Skatepark is widely regarded as one of San Diego North County's most 
 The park is fully lit until 10 pm, making it incredibly practical for an after-work evening session when the daytime crowd has thinned out. It’s part of a larger community facility with clean amenities; remember that helmets are required by city rules, and pads are strongly recommended.
 
 
+### All Together Skatepark
+An indoor, skatelite-surfaced park built below the evo Seattle store. Designed to be accessible to all levels, the park runs a dedicated 30+ 'OG' session on Sunday nights for older skaters.
+Location: Seattle, Washington, US
+Website: https://www.alltogetherskatepark.com
+
+All Together Skatepark is an indoor staple in Seattle that provides a dry, welcoming environment when the weather turns. It’s located underneath the evo store and features smooth Skatelite surfaces over a mix of street obstacles and a mini-ramp. The park is highly regarded for its inclusive vibe and regularly scheduled programming.
+
+Older skaters will appreciate the weekly "30+ OG Night" on Sundays from 7–10 PM, creating a comfortable space to practice without the usual crowds. They also offer adult skate camp programs for those looking to rebuild their confidence on a board. Remember to check their online schedule before visiting, as session times vary throughout the week. Pair your visit with a stop at local shop 35th North.
+
+
 ### Andy A-Dog Williams Skatepark
 A world-class 22,000-square-foot waterfront concrete park. The 'Friends for A-Dog' group regularly hosts beginner-friendly programs, and older skaters will appreciate the quiet mornings before the afternoon crowds arrive.
 Location: Burlington, Vermont, US
@@ -6857,6 +6867,16 @@ Website: https://www.nycgovparks.org/parks/astoria-park/facilities/skateparks
 Spanning 21,500 square feet within Astoria Park beside the Robert F. Kennedy (Triborough) Bridge approach, Astoria Skatepark is one of NYC's largest and most functional public skate plazas. The open-air setting along the East River waterfront provides cooling breezes and a spacious concrete layout.
 
 The plaza layout features generous flatground runways and low-rise manual pads and ledges completely separated from the multi-stair and rail setups. Gates unlock at 6am daily; the dawn window between 6am and 9am is exceptionally peaceful, giving older skaters room to carve and practice technical fundamentals before school breaks. Pair your session with a visit to Labor Skateshop on Canal Street in the Lower East Side for fresh wheels and hardware.
+
+
+### Asylum Skatepark
+A large indoor wooden skatepark offering a mix of street obstacles, mini-ramps, and a kidney bowl. Hosts a weekly 'Old Man Skate Jam' for skaters 30 and up.
+Location: Round Lake, Illinois, US
+Website: https://asylumskatepark.com
+
+Asylum Skatepark is a massive indoor facility serving the greater Chicago area, now located in Round Lake. Built entirely of wood, the park provides a forgiving surface and includes everything from a kidney bowl with extensions to comprehensive street sections and mini-ramps. 
+
+For older skaters, the highlight is the "Old Man Skate Jam" held on Wednesday nights specifically for ages 30+. This session provides a relaxed environment to skate the bowl or practice street lines without navigating the typical weekend crowds. Helmets are always a good idea, and the park also runs beginner clinics on weekend mornings if you need a structured refresher. Stop by Uprise in Chicago for gear needs.
 
 
 ### Burnside Skate Park
@@ -6905,6 +6925,16 @@ Location: Colerain Township, Ohio, US
 Clippard Park Skatepark is a solid concrete facility in the greater Cincinnati area that caters well to older skaters returning to the sport. The layout offers clear ability separation between its transition features.
 
 The highlight for those regaining their confidence is a mellow 4-foot bowl with a ledge, which is kept physically distinct from the daunting 10-foot advanced bowl with pool coping. The street section includes a staircase, ramp, and railings, providing a balanced mix for all riding styles.
+
+
+### Commonwealth Skateboarding
+An indoor concrete skatepark and shop located in southeast Portland. Hosts a dedicated 30+ 'Old Man Night' session every Wednesday.
+Location: Portland, Oregon, US
+Website: https://commonwealthskateboarding.com
+
+Commonwealth Skateboarding combines a core skateshop with an impressive indoor concrete park right in the heart of southeast Portland. The park features a tight concrete bowl, a mini-ramp, and an array of street obstacles including ledges and banks, all protected from the Pacific Northwest rain.
+
+Older skaters should circle Wednesday nights on their calendar for the "30+ Only" session from 8–10 PM. This dedicated window provides a perfect opportunity to skate with peers in a laid-back environment without dodging flying teenagers. A signed waiver is mandatory for all skaters, and free parking is available around the corner on Hawthorne Blvd. Be sure to also check out Cal Skate Portland for gear needs.
 
 
 ### Craig Ranch Skatepark
@@ -6963,6 +6993,16 @@ Website: https://www.portland.gov/parks/ed-benedict-park
 Opened in 2009 as Portland's first designated skate plaza, Ed Benedict is an environmentally integrated 18,000-square-foot concrete facility built with rain gardens and biofiltration islands that divide the park into distinct, low-stress zones. Unlike the steep, fast coping lines of Burnside, Ed Benedict emphasizes technical flatground, gentle banks, and low ledges that allow older skaters to rebuild muscle memory with low consequence.
 
 Arrive during the early morning hours between 5am and 9am for quiet, uninterrupted runs across the wide concrete avenues. Before your session, visit Cal Skate Skateboards on NW 6th Avenue in downtown Portland for setup adjustments and softer wheels.
+
+
+### Familia Headquarters
+An iconic indoor facility paired with Familia Skateshop. Built with high-grip Traxion surfaces, the park offers a climate-controlled, welcoming environment for older learners.
+Location: Minneapolis, Minnesota, US
+Website: https://familiaskate.com
+
+Familia Headquarters (Familia HQ) is the anchor of the Minneapolis skate scene. Featuring a unique high-grip Traxion surface over wood, the indoor park provides a reliable, climate-controlled space that is highly practical for people skating around work and the harsh midwestern winters.
+
+The facility is widely praised for its "no stupid questions" vibe, making it an excellent starting point for older skaters or beginners. Since it is paired directly with Familia Skateshop, you can easily get advice on gear or a board setup from knowledgeable staff right before hitting the ramps. Call ahead or check their social media to confirm public session times.
 
 
 ### Fargo Skateboarding
@@ -7436,6 +7476,16 @@ Operating continuously since 1993, Skatepark of Tampa is one of the most cultura
 The indoor street course and mini-ramps are surfaced in forgiving Skatelite wood, delivering smoother roll-in transitions and softer impacts when stepping off. The park offers private one-on-one coaching for older skaters looking to regain board confidence or build ramp-carving fundamentals. BMX bikes are restricted to designated days (Wednesdays and Sundays), keeping the course free of heavy metal frames during standard skateboard sessions.
 
 
+### SKATEYOGI (Williamsburg)
+An indoor instructional skate space focusing on adult basics. Features wooden ramps and hosts a weekly Adult Open Skate session.
+Location: Brooklyn, New York, US
+Website: https://www.skateyogi.com
+
+SKATEYOGI’s Williamsburg location is an indoor skate space dedicated primarily to instruction and progression. With a focus on accessibility, the facility uses low-impact wooden ramps and platforms tailored for learning the fundamentals in a controlled environment. 
+
+It is arguably one of the most welcoming spaces for older skaters just starting out. They offer structured 4-week "Adult Basics" series, as well as a weekly Adult Open Skate (typically Wednesday evenings). Space is limited and sessions require advance registration via their website, so check their live calendar before heading over. For gear, local favorite Labor Skateshop is just a subway ride away.
+
+
 ### SoMa West Skatepark
 San Francisco's under-freeway concrete skate plaza beneath the Central Freeway, sheltered overhead from rain and fog. Equipped with floodlights until 9pm, it offers a predictable dry session and a quiet weekday morning window ideal for older skaters warming back up.
 Location: San Francisco, California, US
@@ -7456,6 +7506,26 @@ Website: https://southportland.gov/435/Parks-Recreation-Waterfront
 Located adjacent to the South Portland Community Center, this 10,000-square-foot concrete park was designed with an emphasis on flow and accessibility. Its mix of street elements, quarter pipes, and a flow bowl make it an excellent training ground for rebuilding confidence on a board.
 
 The park is widely cited as having a welcoming environment for adults and beginners alike, reinforced by the organized skateboarding lessons offered by the local Parks & Recreation department. Note that there are no lights, so sessions are strictly limited to daylight hours. Helmets and pads are highly recommended by the city.
+
+
+### Southside Skatepark
+A long-standing indoor facility in Houston featuring wood and concrete ramps. The park is highly beginner-friendly, offering quiet weekday afternoon sessions and direct access to their core shop.
+Location: South Houston, Texas, US
+Website: https://southsideskatepark.com
+
+Southside Skatepark is a well-established indoor facility that welcomes skaters of all skill levels. The course includes various obstacles such as quarter pipes, half-pipes, and mini ramps, built with a mix of wood and concrete elements. 
+
+The environment is known for being extremely approachable for older skaters or beginners looking to find their footing. Weekday afternoons (starting at 2 PM) are generally recommended as they provide a much quieter window to practice basics without navigating crowds. Because it is paired directly with Southside Skateshop under the same roof, you can grab a new deck or tweak your setup while taking a break at the snack bar.
+
+
+### Stronger Skatepark
+An indoor wood park specializing in beginner confidence and inclusion. Offers an adult skateboarding class on Mondays and designated 30+ sessions.
+Location: Milwaukie, Oregon, US
+Website: https://strongerskatepark.com
+
+Located just outside Portland in Milwaukie, Stronger Skatepark is purpose-built to be an inclusive, low-intimidation space for all ages. The park features a Baltic birch top layer over its wood ramps and focuses heavily on flatground, mellow street obstacles, and transition learning areas.
+
+It is a standout facility for older skaters returning to the sport. They offer an adult skateboarding class every Monday night, as well as specific 30+ sessions bookable on their calendar. Weekday afternoons before 5 PM are generally quieter if you want to work on basics. Check out nearby Cal Skate Skateboards when you're in the Portland area.
 
 
 ### Switch and Signal Skatepark
@@ -7653,7 +7723,7 @@ A cornerstone of Seattle skateboarding since 2001, now on Capitol Hill after sta
 Location: Seattle, Washington, US
 Website: https://35thnorth.com
 
-Owner Tony Croghan opened 35th North in 2001, and the shop has grown from a tiny University District room into one of the city's best-known skate stores. It is open 11am to 8pm Monday through Saturday and 11am to 5pm on Sunday, with discounted shipping for Washington residents and free shipping over $100 if you order online. Lower Woodland is the obvious park to pair it with.
+Owner Tony Croghan opened 35th North in 2001, and the shop has grown from a tiny University District room into one of the city's best-known skate stores. It is open 11am to 8pm Monday through Saturday and 11am to 5pm on Sunday, with discounted shipping for Washington residents and free shipping over $100 if you order online. Lower Woodland is the obvious park to pair it with, or hit up All Together Skatepark for indoor sessions.
 
 
 ### Cal Skate
@@ -7668,7 +7738,7 @@ Cal Skate has been around long enough that a large portion of their customer bas
 Widely recognised as one of the oldest skate shops in the world, trading in downtown Portland for close to fifty years and recently handed from founder Howard Weiner to Chris Nukala, who bought his first board here at eight and never left the scene. A core shop with the deepest possible roots, a short ride from Burnside.
 Location: Portland, Oregon, US
 
-Cal Skate predates most of the words we use for skateboarding, and it is still on NW 6th Avenue downtown. When ownership passed to Chris Nukala after nearly fifty years, local news covered it as a passing of the torch: "I got my first board at Cal Skate when I was eight years old," he said, "the experience changed my life." That continuity is what a returning skater is buying into. Check current hours before you go — they were not published at the time of listing — and pair the visit with Ed Benedict Skatepark for mellow street plaza lines or Burnside for iconic transition under the bridge.
+Cal Skate predates most of the words we use for skateboarding, and it is still on NW 6th Avenue downtown. When ownership passed to Chris Nukala after nearly fifty years, local news covered it as a passing of the torch: "I got my first board at Cal Skate when I was eight years old," he said, "the experience changed my life." That continuity is what a returning skater is buying into. Check current hours before you go — they were not published at the time of listing — and pair the visit with Ed Benedict Skatepark for mellow street plaza lines, Burnside for iconic transition under the bridge, or Commonwealth Skateboarding for indoor sessions.
 
 
 ### DLX Skate Shop
@@ -7696,7 +7766,7 @@ Website: https://familiaskateshop.com
 
 Familia Skateshop has been serving the Twin Cities area for over a decade and a half and is widely recognized as a central hub for the local scene. The shop is deeply community-driven and maintains a welcoming atmosphere for skaters of all ages and abilities. 
 
-The staff are highly knowledgeable and will gladly walk returning or beginner skaters through building a custom setup without any elitism. They also operate the **Familia HQ** indoor skatepark. For dedicated adult-specific instruction and sessions, it's also worth visiting **3rd Lair Skatepark** in nearby Golden Valley.
+The staff are highly knowledgeable and will gladly walk returning or beginner skaters through building a custom setup without any elitism. They also operate the **Familia Headquarters** indoor skatepark. For dedicated adult-specific instruction and sessions, it's also worth visiting **3rd Lair Skatepark** in nearby Golden Valley.
 
 
 ### Fargo Skateboarding Shop
@@ -7824,7 +7894,7 @@ Chicago's long-running independent skate shop in Wicker Park, trading for more t
 Location: Chicago, Illinois, US
 Website: https://upriseskateshop.com
 
-Uprise has been part of Chicago skateboarding for over a quarter of a century, long enough that the closing of its upstairs "Uprise Loft" was marked as the end of an era. The shop on Milwaukee Avenue is open noon to 7pm Monday through Saturday, with curbside pickup available, and the online store offers free domestic shipping on orders over $75. Pair it with a session at Grant Park.
+Uprise has been part of Chicago skateboarding for over a quarter of a century, long enough that the closing of its upstairs "Uprise Loft" was marked as the end of an era. The shop on Milwaukee Avenue is open noon to 7pm Monday through Saturday, with curbside pickup available, and the online store offers free domestic shipping on orders over $75. Pair it with a session at Grant Park or make the trip to Asylum Skatepark for indoor sessions.
 
 ============================================================
 ## GROUPS & COMMUNITIES
