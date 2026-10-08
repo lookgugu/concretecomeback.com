@@ -233,17 +233,26 @@ export function showCompletedState(panel, state) {
 // counts, and any signup on the page stops the observer before it can. Without
 // IntersectionObserver there is no honest signal, so nothing is counted; the
 // form itself works either way.
+const INLINE_VISIBLE_RATIO = 0.5;
+
 function trackInlineImpression(form, source) {
   if (typeof IntersectionObserver !== 'function') return;
   let done = false;
+  // The threshold only schedules callbacks: the browser also calls back once on
+  // observe(), and isIntersecting is true for a sliver or even an edge-adjacent
+  // form. Only the reported ratio says the form is half on screen.
+  const halfOnScreen = (entry) => entry.target === form
+    && entry.isIntersecting
+    && entry.intersectionRatio >= INLINE_VISIBLE_RATIO;
   const observer = new IntersectionObserver((entries) => {
-    if (done || form.hidden || !entries.some((entry) => entry.isIntersecting)) return;
+    if (done || form.hidden || !entries.some(halfOnScreen)) return;
     stop();
     track('newsletter_inline_shown', source);
-  }, { threshold: 0.5 });
+  }, { threshold: INLINE_VISIBLE_RATIO });
   const stop = () => {
     done = true;
     observer.disconnect();
+    document.removeEventListener(SIGNUP_EVENT, stop);
   };
   // Fired for this form's own signup as well as another CTA's.
   document.addEventListener(SIGNUP_EVENT, stop);

@@ -18,8 +18,13 @@ import {
 function fakeDocument() {
   const listeners = {};
   global.document = {
+    listeners,
     addEventListener: (type, fn) => { (listeners[type] ||= []).push(fn); },
-    dispatchEvent: (event) => { (listeners[event.type] || []).forEach((fn) => fn(event)); },
+    removeEventListener: (type, fn) => {
+      listeners[type] = (listeners[type] || []).filter((other) => other !== fn);
+    },
+    // Like the DOM, a listener removed mid-dispatch doesn't skip the others.
+    dispatchEvent: (event) => { [...(listeners[event.type] || [])].forEach((fn) => fn(event)); },
   };
   global.CustomEvent = function CustomEventStub(type, init) {
     return { type, detail: init && init.detail };
@@ -318,9 +323,15 @@ function fakeIntersectionObserver() {
     observers.push(observer);
     return observer;
   };
-  const deliver = (isIntersecting) => observers.forEach((observer) => {
+  // A browser reports how much of the target is visible, not just whether it
+  // touches the viewport: the initial callback fires even below the threshold,
+  // and an edge-adjacent target intersects with a ratio of 0.
+  const deliver = (intersectionRatio, isIntersecting = intersectionRatio > 0) => observers.forEach((observer) => {
     if (!observer.disconnected) {
-      observer.callback(observer.targets.map((target) => ({ target, isIntersecting })), observer);
+      observer.callback(
+        observer.targets.map((target) => ({ target, isIntersecting, intersectionRatio })),
+        observer,
+      );
     }
   });
   return { observers, deliver };
@@ -338,20 +349,58 @@ test('the inline CTA counts one impression, only once its form is actually on sc
   global.window.gtag = (...args) => calls.push(args);
   try {
     initInlineNewsletterSignup(panel);
+    const signupListeners = global.document.listeners['cc:newsletter-pending'].length;
 
     // Rendering the HTML is not an impression; the form is below the fold.
     assert.equal(inlineImpressions().length, 0);
     assert.deepEqual(io.observers[0].targets, [form]);
-    io.deliver(false);
+    io.deliver(0);
     assert.equal(inlineImpressions().length, 0);
 
-    io.deliver(true);
-    io.deliver(true);
+    io.deliver(0.5);
+    io.deliver(1);
     assert.deepEqual(inlineImpressions(), [{ event: 'newsletter_inline_shown', newsletter_source: 'in_post' }]);
     assert.deepEqual(calls, [['event', 'newsletter_inline_shown', { newsletter_source: 'in_post', send_to: 'G-VYW5FDDX52' }]]);
     assert.equal(io.observers[0].disconnected, true, 'the observer is released once it has counted');
+    assert.equal(
+      global.document.listeners['cc:newsletter-pending'].length,
+      signupListeners - 1,
+      'and so is its signup listener; the stand-down listener stays',
+    );
   } finally {
     delete global.window.gtag;
+    delete global.IntersectionObserver;
+  }
+});
+
+test('a form less than half on screen is not an impression, even when the observer calls back', () => {
+  const { panel, form } = fakePanel({ email: '' });
+  global.window.localStorage = storage();
+  const io = fakeIntersectionObserver();
+  try {
+    initInlineNewsletterSignup(panel);
+    assert.deepEqual(io.observers[0].options, { threshold: 0.5 });
+
+    // The threshold only decides when the browser calls back; the first
+    // callback arrives regardless, and isIntersecting is true for any overlap.
+    io.deliver(0, true);
+    io.deliver(0.01);
+    io.deliver(0.49);
+    assert.equal(inlineImpressions().length, 0);
+    assert.equal(io.observers[0].disconnected, false, 'still waiting for a real impression');
+
+    // Another element's entry says nothing about this form.
+    io.observers[0].callback(
+      [{ target: {}, isIntersecting: true, intersectionRatio: 1 }],
+      io.observers[0],
+    );
+    assert.equal(inlineImpressions().length, 0);
+
+    io.deliver(0.5);
+    assert.deepEqual(inlineImpressions(), [{ event: 'newsletter_inline_shown', newsletter_source: 'in_post' }]);
+    assert.deepEqual(io.observers[0].targets, [form]);
+    assert.equal(io.observers[0].disconnected, true);
+  } finally {
     delete global.IntersectionObserver;
   }
 });
@@ -362,7 +411,7 @@ test('a visitor who already signed up sees the outcome and is never counted as a
   const io = fakeIntersectionObserver();
   try {
     initInlineNewsletterSignup(panel);
-    io.deliver(true);
+    io.deliver(1);
 
     assert.equal(io.observers.length, 0);
     assert.equal(form.hidden, true);
@@ -385,7 +434,10 @@ test('a signup through another CTA stops the inline CTA counting impressions', (
     assert.equal(inline.form.hidden, true);
     assert.equal(io.observers[0].disconnected, true);
     // A callback already queued before the disconnect must still not count.
-    io.observers[0].callback([{ target: inline.form, isIntersecting: true }], io.observers[0]);
+    io.observers[0].callback(
+      [{ target: inline.form, isIntersecting: true, intersectionRatio: 1 }],
+      io.observers[0],
+    );
     assert.equal(inlineImpressions().length, 0, 'a stood-down form is not an impression');
   } finally {
     delete global.IntersectionObserver;
@@ -416,7 +468,7 @@ test('a hidden form never counts, even if the observer reports it intersecting',
   try {
     initInlineNewsletterSignup(inline.panel);
     inline.form.hidden = true;
-    io.deliver(true);
+    io.deliver(1);
     assert.equal(inlineImpressions().length, 0);
   } finally {
     delete global.IntersectionObserver;
