@@ -226,6 +226,30 @@ export function showCompletedState(panel, state) {
   }
 }
 
+// The inline CTA's counterpart to `newsletter_popup_shown`. Being in the HTML
+// is not being seen — on a long post the form is far below the fold — so the
+// impression waits until at least half of the live form is on screen, counts
+// once, and lets the observer go. A form that has stood down (hidden) never
+// counts, and any signup on the page stops the observer before it can. Without
+// IntersectionObserver there is no honest signal, so nothing is counted; the
+// form itself works either way.
+function trackInlineImpression(form, source) {
+  if (typeof IntersectionObserver !== 'function') return;
+  let done = false;
+  const observer = new IntersectionObserver((entries) => {
+    if (done || form.hidden || !entries.some((entry) => entry.isIntersecting)) return;
+    stop();
+    track('newsletter_inline_shown', source);
+  }, { threshold: 0.5 });
+  const stop = () => {
+    done = true;
+    observer.disconnect();
+  };
+  // Fired for this form's own signup as well as another CTA's.
+  document.addEventListener(SIGNUP_EVENT, stop);
+  observer.observe(form);
+}
+
 export function initInlineNewsletterSignup(panel) {
   const storage = getStorage();
   const state = signupCompletionState(storage);
@@ -236,9 +260,11 @@ export function initInlineNewsletterSignup(panel) {
   // A page can mount both CTAs, so the one that wasn't submitted has to be told:
   // neither reads storage again after init, and leaving a live form next to
   // "check your inbox" invites a duplicate submission.
-  bindNewsletterForm(panel, {
+  const source = 'in_post';
+  if (!bindNewsletterForm(panel, {
     storage,
-    source: 'in_post',
+    source,
     onOtherSignup: () => showCompletedState(panel, 'pending'),
-  });
+  })) return;
+  trackInlineImpression(panel.querySelector('form'), source);
 }

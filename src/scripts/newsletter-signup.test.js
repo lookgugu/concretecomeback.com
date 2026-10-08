@@ -4,6 +4,7 @@ import {
   DISMISSAL_MS,
   PENDING_MS,
   bindNewsletterForm,
+  initInlineNewsletterSignup,
   initNewsletterSignup,
   isSignupSuppressed,
   shouldHideOnEscape,
@@ -299,4 +300,143 @@ test('the close button still records a real dismissal', () => {
   const events = global.window.dataLayer.map((entry) => entry.event);
   assert.ok(events.includes('newsletter_popup_dismissed'));
   assert.ok(!events.includes('newsletter_popup_stood_down'));
+});
+
+// Stand-in for the browser's IntersectionObserver: records what was observed
+// and lets a test deliver the entries a scroll would.
+function fakeIntersectionObserver() {
+  const observers = [];
+  global.IntersectionObserver = function IntersectionObserverStub(callback, options) {
+    const observer = {
+      callback,
+      options,
+      targets: [],
+      disconnected: false,
+      observe: (target) => observer.targets.push(target),
+      disconnect: () => { observer.disconnected = true; },
+    };
+    observers.push(observer);
+    return observer;
+  };
+  const deliver = (isIntersecting) => observers.forEach((observer) => {
+    if (!observer.disconnected) {
+      observer.callback(observer.targets.map((target) => ({ target, isIntersecting })), observer);
+    }
+  });
+  return { observers, deliver };
+}
+
+function inlineImpressions() {
+  return global.window.dataLayer.filter((entry) => entry.event === 'newsletter_inline_shown');
+}
+
+test('the inline CTA counts one impression, only once its form is actually on screen', () => {
+  const { panel, form } = fakePanel({ email: '' });
+  global.window.localStorage = storage();
+  const io = fakeIntersectionObserver();
+  const calls = [];
+  global.window.gtag = (...args) => calls.push(args);
+  try {
+    initInlineNewsletterSignup(panel);
+
+    // Rendering the HTML is not an impression; the form is below the fold.
+    assert.equal(inlineImpressions().length, 0);
+    assert.deepEqual(io.observers[0].targets, [form]);
+    io.deliver(false);
+    assert.equal(inlineImpressions().length, 0);
+
+    io.deliver(true);
+    io.deliver(true);
+    assert.deepEqual(inlineImpressions(), [{ event: 'newsletter_inline_shown', newsletter_source: 'in_post' }]);
+    assert.deepEqual(calls, [['event', 'newsletter_inline_shown', { newsletter_source: 'in_post', send_to: 'G-VYW5FDDX52' }]]);
+    assert.equal(io.observers[0].disconnected, true, 'the observer is released once it has counted');
+  } finally {
+    delete global.window.gtag;
+    delete global.IntersectionObserver;
+  }
+});
+
+test('a visitor who already signed up sees the outcome and is never counted as an impression', () => {
+  const { panel, form, status } = fakePanel({ email: '' });
+  global.window.localStorage = storage({ 'cc-newsletter-status': 'subscribed' });
+  const io = fakeIntersectionObserver();
+  try {
+    initInlineNewsletterSignup(panel);
+    io.deliver(true);
+
+    assert.equal(io.observers.length, 0);
+    assert.equal(form.hidden, true);
+    assert.equal(status.textContent, "You're subscribed to the monthly roundup.");
+    assert.equal(inlineImpressions().length, 0);
+  } finally {
+    delete global.IntersectionObserver;
+  }
+});
+
+test('a signup through another CTA stops the inline CTA counting impressions', () => {
+  const inline = fakePanel({ email: '' });
+  global.window.localStorage = storage();
+  const io = fakeIntersectionObserver();
+  try {
+    initInlineNewsletterSignup(inline.panel);
+    // The popup on the same page takes the signup.
+    global.document.dispatchEvent({ type: 'cc:newsletter-pending', detail: { panel: {} } });
+
+    assert.equal(inline.form.hidden, true);
+    assert.equal(io.observers[0].disconnected, true);
+    // A callback already queued before the disconnect must still not count.
+    io.observers[0].callback([{ target: inline.form, isIntersecting: true }], io.observers[0]);
+    assert.equal(inlineImpressions().length, 0, 'a stood-down form is not an impression');
+  } finally {
+    delete global.IntersectionObserver;
+  }
+});
+
+test('submitting the inline form itself also releases the observer', async () => {
+  const inline = fakePanel({ email: 'skater@example.com' });
+  global.window.localStorage = storage();
+  global.fetch = async () => ({ ok: true, json: async () => ({ ok: true }) });
+  const io = fakeIntersectionObserver();
+  try {
+    initInlineNewsletterSignup(inline.panel);
+    await inline.submitted();
+
+    assert.equal(inline.form.hidden, true);
+    assert.equal(io.observers[0].disconnected, true);
+    assert.equal(inlineImpressions().length, 0);
+  } finally {
+    delete global.IntersectionObserver;
+  }
+});
+
+test('a hidden form never counts, even if the observer reports it intersecting', () => {
+  const inline = fakePanel({ email: '' });
+  global.window.localStorage = storage();
+  const io = fakeIntersectionObserver();
+  try {
+    initInlineNewsletterSignup(inline.panel);
+    inline.form.hidden = true;
+    io.deliver(true);
+    assert.equal(inlineImpressions().length, 0);
+  } finally {
+    delete global.IntersectionObserver;
+  }
+});
+
+test('without IntersectionObserver the form still submits and no impression is invented', async () => {
+  const inline = fakePanel({ email: 'skater@example.com' });
+  global.window.localStorage = storage();
+  delete global.IntersectionObserver;
+  const calls = [];
+  global.fetch = async (url, init) => {
+    calls.push({ url, init });
+    return { ok: true, json: async () => ({ ok: true }) };
+  };
+
+  initInlineNewsletterSignup(inline.panel);
+  await inline.submitted();
+
+  assert.equal(calls.length, 1);
+  assert.equal(inline.status.textContent, 'Check your inbox and confirm your subscription.');
+  assert.equal(inlineImpressions().length, 0);
 });
