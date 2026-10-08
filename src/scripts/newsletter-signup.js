@@ -61,26 +61,37 @@ const GA4_MEASUREMENT_ID = 'G-VYW5FDDX52';
 // reaches GA4 once someone adds a custom-event trigger per event name in the
 // GTM UI, and none exist — so every signup event has been invisible in GA4
 // since launch. The `gtag` command is the route that needs no GTM changes.
+// Do not also route these names through a GTM GA4 event tag while this direct
+// `gtag` call remains, or every signup event is counted twice.
+//
+// Analytics is best-effort, and each sink is guarded on its own: a broken
+// dataLayer or a throwing gtag (a blocked, half-loaded or replaced Google tag)
+// must neither cost the other sink its event nor reach the caller, where it
+// would stop a signup being sent or undo the pending state after one was.
 function track(event, source) {
-  window.dataLayer = window.dataLayer || [];
-  window.dataLayer.push(source ? { event, newsletter_source: source } : { event });
-  // GTM's own GA4 tag does not create a page-level `gtag`, so define the
-  // canonical wrapper rather than testing for one. It must push the raw
-  // `arguments` object: that is the shape gtag.js reads commands in, and an
-  // array is ignored. When the Google tag is live the command reaches GA4;
-  // when it is not, the push is inert.
-  if (typeof window.gtag !== 'function') {
-    window.gtag = function gtag() { window.dataLayer.push(arguments); };
-  }
-  // `send_to` is not optional. With no page-level `gtag('config', …)` there is
-  // no default destination, and on production an event without it creates no
-  // collect request at all (page_view and scroll, sent by GTM's own tag, are
-  // unaffected). Naming the stream routes it without adding a second config —
-  // which would double-count page views. Never put the visitor's address or
-  // any other personal data in these parameters.
-  const params = { send_to: GA4_MEASUREMENT_ID };
-  if (source) params.newsletter_source = source;
-  window.gtag('event', event, params);
+  try {
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push(source ? { event, newsletter_source: source } : { event });
+  } catch (_error) {}
+  try {
+    // GTM's own GA4 tag does not create a page-level `gtag`, so define the
+    // canonical wrapper rather than testing for one. It must push the raw
+    // `arguments` object: that is the shape gtag.js reads commands in, and an
+    // array is ignored. When the Google tag is live the command reaches GA4;
+    // when it is not, the push is inert.
+    if (typeof window.gtag !== 'function') {
+      window.gtag = function gtag() { window.dataLayer.push(arguments); };
+    }
+    // `send_to` is not optional. With no page-level `gtag('config', …)` there is
+    // no default destination, and on production an event without it creates no
+    // collect request at all (page_view and scroll, sent by GTM's own tag, are
+    // unaffected). Naming the stream routes it without adding a second config —
+    // which would double-count page views. Never put the visitor's address or
+    // any other personal data in these parameters.
+    const params = { send_to: GA4_MEASUREMENT_ID };
+    if (source) params.newsletter_source = source;
+    window.gtag('event', event, params);
+  } catch (_error) {}
 }
 
 export function initNewsletterSignup(panel) {

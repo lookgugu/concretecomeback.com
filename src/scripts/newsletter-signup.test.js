@@ -197,7 +197,8 @@ test('a signup through one CTA stands the other one down', async () => {
 
 // A fuller stub than fakePanel: initNewsletterSignup drives the popup's own
 // show/hide machinery, which is where the dismissal event is emitted.
-function fakePopup() {
+// `beforeInit` runs after fakePanel's fresh dataLayer, so a test can break it.
+function fakePopup(beforeInit = () => {}) {
   const { panel, form, status } = fakePanel({ email: 'skater@example.com' });
   const closeButton = { listeners: [], addEventListener: (_t, fn) => closeButton.listeners.push(fn) };
   panel.dataset = { visible: 'false' };
@@ -210,6 +211,7 @@ function fakePopup() {
   global.window.removeEventListener = () => {};
   global.requestAnimationFrame = (fn) => fn();
   global.sessionStorage = { getItem: () => '2', setItem: () => {} };
+  beforeInit();
   initNewsletterSignup(panel);
   return { panel, form, status, closeButton };
 }
@@ -491,4 +493,165 @@ test('without IntersectionObserver the form still submits and no impression is i
   assert.equal(calls.length, 1);
   assert.equal(inline.status.textContent, 'Check your inbox and confirm your subscription.');
   assert.equal(inlineImpressions().length, 0);
+});
+
+// Analytics is best-effort. A blocked, half-loaded or replaced Google tag is an
+// ordinary page condition, and it must never cost a visitor their signup: not
+// the request, not the pending state after a success, not the stand-down that
+// keeps a second live form off the page.
+const brokenSinks = {
+  'a throwing gtag': () => {
+    global.window.gtag = () => { throw new Error('gtag failed'); };
+  },
+  'a dataLayer whose push throws': () => {
+    global.window.dataLayer = { push() { throw new Error('dataLayer push failed'); } };
+  },
+  'a dataLayer that is not an array': () => {
+    global.window.dataLayer = {};
+  },
+};
+
+function restoreSinks() {
+  delete global.window.gtag;
+  global.window.dataLayer = [];
+}
+
+const okResponse = async () => ({ ok: true, json: async () => ({ ok: true }) });
+
+for (const [name, breakSink] of Object.entries(brokenSinks)) {
+  test(`${name} cannot stop a signup being sent, shown as pending or announced to the other CTA`, async () => {
+    const submitter = fakePanel({ email: 'skater@example.com' });
+    const other = fakePanel({ email: '' });
+    const requests = [];
+    global.fetch = async (url, init) => { requests.push({ url, init }); return okResponse(); };
+    const store = {};
+    const written = { setItem: (k, v) => { store[k] = v; }, getItem: (k) => store[k] ?? null };
+    let stoodDown = 0;
+    breakSink();
+    try {
+      bindNewsletterForm(other.panel, { storage: null, source: 'popup', onOtherSignup: () => { stoodDown++; } });
+      bindNewsletterForm(submitter.panel, { storage: written, source: 'in_post' });
+      await submitter.submitted();
+
+      assert.equal(requests.length, 1, 'the request is still sent');
+      assert.equal(requests[0].init.body.get('email'), 'skater@example.com');
+      // A failure in the pending event must not turn a sent email into an error.
+      assert.equal(submitter.form.hidden, true);
+      assert.equal(submitter.status.textContent, 'Check your inbox and confirm your subscription.');
+      assert.equal(submitter.button.disabled, true, 'a sent signup is not offered again');
+      assert.equal(store['cc-newsletter-status'], 'pending');
+      assert.equal(stoodDown, 1, 'the other CTA still stands down');
+    } finally {
+      restoreSinks();
+    }
+  });
+
+  test(`${name} still leaves a failed signup retryable with the server's message`, async () => {
+    const { panel, form, status, button, submitted } = fakePanel({ email: 'skater@example.com' });
+    let requests = 0;
+    global.fetch = async () => {
+      requests++;
+      return { ok: false, json: async () => ({ ok: false, error: 'Please enter a valid email address.' }) };
+    };
+    breakSink();
+    try {
+      bindNewsletterForm(panel, { storage: null, source: 'in_post' });
+      await submitted();
+
+      assert.equal(requests, 1);
+      assert.equal(form.hidden, false);
+      assert.equal(status.textContent, 'Please enter a valid email address.');
+      assert.equal(button.disabled, false);
+    } finally {
+      restoreSinks();
+    }
+  });
+
+  test(`${name} cannot keep the popup from showing or standing down`, () => {
+    try {
+      const popup = fakePopup(breakSink);
+      assert.equal(popup.panel.dataset.visible, 'true');
+
+      global.document.dispatchEvent({ type: 'cc:newsletter-pending', detail: { panel: {} } });
+      assert.equal(popup.panel.dataset.visible, 'false');
+      assert.equal(popup.panel.hidden, true, 'the retreat finishes rather than stalling mid-hide');
+    } finally {
+      restoreSinks();
+    }
+  });
+
+  test(`${name} cannot break the inline impression observer`, () => {
+    const inline = fakePanel({ email: '' });
+    global.window.localStorage = storage();
+    const io = fakeIntersectionObserver();
+    breakSink();
+    try {
+      initInlineNewsletterSignup(inline.panel);
+      io.deliver(1);
+      assert.equal(io.observers[0].disconnected, true);
+    } finally {
+      restoreSinks();
+      delete global.IntersectionObserver;
+    }
+  });
+}
+
+test('each sink gets every event exactly once, and one sink failing never silences the other', async () => {
+  const pushed = (event) => ({ event, newsletter_source: 'in_post' });
+  const sent = (event) => ['event', event, { newsletter_source: 'in_post', send_to: 'G-VYW5FDDX52' }];
+
+  // Both sinks healthy: success and error each send one copy to each.
+  for (const [response, outcome] of [[{ ok: true }, 'pending'], [{ ok: false }, 'error']]) {
+    const { panel, submitted } = fakePanel({ email: 'skater@example.com' });
+    const calls = [];
+    global.window.gtag = (...args) => calls.push(args);
+    global.fetch = async () => ({ ok: response.ok, json: async () => response });
+    try {
+      bindNewsletterForm(panel, { storage: null, source: 'in_post' });
+      await submitted();
+      const events = ['newsletter_signup_submitted', `newsletter_signup_${outcome}`];
+      assert.deepEqual(global.window.dataLayer, events.map(pushed));
+      assert.deepEqual(calls, events.map(sent));
+      assert.ok(!JSON.stringify([global.window.dataLayer, calls]).includes('skater@example.com'));
+    } finally {
+      restoreSinks();
+    }
+  }
+
+  // A broken dataLayer still lets gtag through, once per event.
+  {
+    const { panel, submitted } = fakePanel({ email: 'skater@example.com' });
+    const calls = [];
+    global.window.gtag = (...args) => calls.push(args);
+    global.window.dataLayer = { push() { throw new Error('dataLayer push failed'); } };
+    global.fetch = okResponse;
+    try {
+      bindNewsletterForm(panel, { storage: null, source: 'in_post' });
+      await submitted();
+      assert.deepEqual(calls, ['newsletter_signup_submitted', 'newsletter_signup_pending'].map(sent));
+      assert.ok(!JSON.stringify(calls).includes('skater@example.com'));
+    } finally {
+      restoreSinks();
+    }
+  }
+
+  // A throwing gtag still lets the dataLayer push through, once per event.
+  {
+    const { panel, submitted } = fakePanel({ email: 'skater@example.com' });
+    let gtagCalls = 0;
+    global.window.gtag = () => { gtagCalls++; throw new Error('gtag failed'); };
+    global.fetch = okResponse;
+    try {
+      bindNewsletterForm(panel, { storage: null, source: 'in_post' });
+      await submitted();
+      assert.equal(gtagCalls, 2, 'tried once per event, never retried');
+      assert.deepEqual(
+        global.window.dataLayer,
+        ['newsletter_signup_submitted', 'newsletter_signup_pending'].map(pushed),
+      );
+      assert.ok(!JSON.stringify(global.window.dataLayer).includes('skater@example.com'));
+    } finally {
+      restoreSinks();
+    }
+  }
 });
