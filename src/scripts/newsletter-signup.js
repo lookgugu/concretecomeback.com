@@ -280,7 +280,8 @@ export function initInlineNewsletterSignup(panel) {
   // A page can mount both CTAs, so the one that wasn't submitted has to be told:
   // neither reads storage again after init, and leaving a live form next to
   // "check your inbox" invites a duplicate submission.
-  const source = 'in_post';
+  // Set per placement by NewsletterInline's `source` prop (home, directory, …).
+  const source = (panel.dataset && panel.dataset.newsletterSource) || 'in_post';
   if (!bindNewsletterForm(panel, {
     storage,
     source,
