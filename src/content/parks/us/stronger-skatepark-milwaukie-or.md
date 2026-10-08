@@ -10,7 +10,7 @@ features: ["street", "mini-ramp", "transitions", "flatground"]
 difficulty: "beginner-friendly"
 adultFriendly: true
 isIndoor: true
-openingHours: "Mon 11am-7pm, Tue-Thu 11am-9pm, Fri-Sat 11am-10pm, Sun 12pm-9pm"
+openingHours: "Check website for live session schedule"
 website: "https://strongerskatepark.com"
 googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=6102+SE+King+Rd+Milwaukie+OR"
 featured: false

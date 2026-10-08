@@ -7,7 +7,7 @@ address: "835 E Hennepin Ave, Minneapolis, MN 55414"
 description: "A cornerstone of the Minneapolis skate scene for over 15 years, this core shop is known for its welcoming community and knowledgeable staff who can patiently talk older beginners through their first setup."
 website: "https://familiaskateshop.com"
 instagram: "familiask8shop"
-phone: "(612) 353-6930"
+phone: "(612) 379-3080"
 servicesOffered: ["decks", "completes", "trucks", "wheels", "bearings", "shoes", "apparel", "adult-advice", "board-building"]
 hasOnlineShop: true
 adultsWelcomeNote: "Welcoming community hub with patient staff ready to talk older beginners through selecting the right gear for their first setup."

@@ -3,11 +3,11 @@ name: "Premier Skateshop"
 country: "US"
 stateProvince: "Michigan"
 city: "Grand Rapids"
-address: "14 Weston St SE, Grand Rapids, MI 49503"
+address: "10 Weston St SE, Grand Rapids, MI 49503"
 description: "A highly reputable local core shop and streetwear boutique in downtown Grand Rapids. The knowledgeable staff is frequently praised for patiently guiding beginners through equipment options without any pressure."
 website: "https://thepremierstore.com"
 instagram: "premierskate"
-phone: "(877) 742-2660"
+phone: "(616) 742-2660"
 servicesOffered: ["decks", "completes", "trucks", "wheels", "bearings", "shoes", "apparel", "adult-advice", "board-building"]
 hasOnlineShop: true
 adultsWelcomeNote: "Knowledgeable, friendly staff praised for guiding returning skaters and beginners through their equipment options without pressure."
