@@ -239,6 +239,42 @@ test('signup events reach GA4 through gtag, not only the dataLayer', () => {
   delete global.window.gtag;
 });
 
+test('every gtag event is routed explicitly to the GA4 stream, once, with its source kept', async () => {
+  const calls = [];
+  const { panel, submitted } = fakePanel({ email: 'skater@example.com' });
+  global.window.gtag = (...args) => calls.push(args);
+  global.fetch = async () => ({ ok: true, json: async () => ({ ok: true }) });
+
+  try {
+    bindNewsletterForm(panel, { storage: null, source: 'in_post' });
+    await submitted();
+
+    // Reproduced on production: an event with no `send_to` creates no collect
+    // request, because the only Google tag on the page is GTM's GA4 tag and it
+    // never ran a page-level `gtag('config', …)` for events to default to.
+    assert.deepEqual(calls, [
+      ['event', 'newsletter_signup_submitted', { newsletter_source: 'in_post', send_to: 'G-VYW5FDDX52' }],
+      ['event', 'newsletter_signup_pending', { newsletter_source: 'in_post', send_to: 'G-VYW5FDDX52' }],
+    ]);
+    // The address is the visitor's, not an analytics parameter.
+    assert.ok(!JSON.stringify(calls).includes('skater@example.com'));
+  } finally {
+    delete global.window.gtag;
+  }
+});
+
+test('a sourceless popup event is still routed to the GA4 stream', () => {
+  const calls = [];
+  const popup = fakePopup();
+  global.window.gtag = (...args) => calls.push(args);
+  try {
+    popup.closeButton.listeners.forEach((fn) => fn());
+    assert.deepEqual(calls, [['event', 'newsletter_popup_dismissed', { send_to: 'G-VYW5FDDX52' }]]);
+  } finally {
+    delete global.window.gtag;
+  }
+});
+
 test('a page with no gtag gets the canonical wrapper, queued for the Google tag', () => {
   const popup = fakePopup();
   delete global.window.gtag;

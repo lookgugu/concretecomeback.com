@@ -54,11 +54,13 @@ export function shouldHideOnEscape(event, activeElement, panel) {
   return true;
 }
 
+// The GA4 stream that GTM's Google tag sends page views to (see CLAUDE.md).
+const GA4_MEASUREMENT_ID = 'G-VYW5FDDX52';
+
 // Two sinks on purpose. The dataLayer push is the GTM channel, but it only
 // reaches GA4 once someone adds a custom-event trigger per event name in the
 // GTM UI, and none exist — so every signup event has been invisible in GA4
-// since launch. `gtag` is defined by the container's own GA4 config tag, and
-// events sent through it land in GA4 with no trigger configuration at all.
+// since launch. The `gtag` command is the route that needs no GTM changes.
 function track(event, source) {
   window.dataLayer = window.dataLayer || [];
   window.dataLayer.push(source ? { event, newsletter_source: source } : { event });
@@ -70,7 +72,15 @@ function track(event, source) {
   if (typeof window.gtag !== 'function') {
     window.gtag = function gtag() { window.dataLayer.push(arguments); };
   }
-  window.gtag('event', event, source ? { newsletter_source: source } : {});
+  // `send_to` is not optional. With no page-level `gtag('config', …)` there is
+  // no default destination, and on production an event without it creates no
+  // collect request at all (page_view and scroll, sent by GTM's own tag, are
+  // unaffected). Naming the stream routes it without adding a second config —
+  // which would double-count page views. Never put the visitor's address or
+  // any other personal data in these parameters.
+  const params = { send_to: GA4_MEASUREMENT_ID };
+  if (source) params.newsletter_source = source;
+  window.gtag('event', event, params);
 }
 
 export function initNewsletterSignup(panel) {
