@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-08T06:34:01.384Z
+# Date: 2026-10-08T06:34:15.971Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -6786,12 +6786,12 @@ The facility features a variety of areas, from a classic bowl and mini-ramp to m
 
 
 ### 555 Monroe Skatepark
-A popular downtown community park that serves as a welcoming hub. It features smooth concrete slab flooring with low-impact ledges, and it remains open 24/7 for those who prefer to practice during quiet off-peak hours.
+A popular downtown community park that serves as a welcoming hub. It features smooth concrete slab flooring with low-impact ledges, ideal for those who prefer to practice during quiet off-peak hours.
 Location: Grand Rapids, Michigan, US
 
 The 555 Monroe Skatepark is a vital community space in downtown Grand Rapids, built as a "lighter, quicker, cheaper" activation that has become incredibly popular. The park offers a very approachable mix of smooth concrete flatground, low ledges, and small banked ramps that are ideal for shaking off the rust.
 
-Because the park is open 24 hours a day, it offers unparalleled flexibility for older skaters balancing work and family. Early morning or late-night sessions are perfectly viable here when you want to avoid the peak afternoon rush. Be sure to visit **Premier Skateshop** nearby for gear and advice.
+Because the park opens early at 8 AM, it offers great flexibility for older skaters balancing work and family. Early morning sessions are perfectly viable here when you want to avoid the peak afternoon rush. Be sure to visit **Premier Skateshop** nearby for gear and advice.
 
 
 ### Albert M. Gallego Skate Park (Santa Rita Park)
@@ -7539,23 +7539,23 @@ For older skaters, the highlight is the dedicated Adult Beginner Session held on
 
 
 ### Taku Lake Skatepark
-Custom 8,000 sq ft Grindline concrete park in Anchorage featuring a gentle whale-tail flow bowl, mellow street obstacles, and bright LED lighting extending sessions through long subarctic evenings.
+Custom 10,111 sq ft Grindline concrete park in Anchorage featuring a gentle whale-tail flow bowl, mellow street obstacles, and bright LED lighting extending sessions through long subarctic evenings.
 Location: Anchorage, Alaska, US
 Website: https://www.muni.org/Departments/parks/Pages/SkateParks.aspx
 
-Constructed by Grindline Skateparks in partnership with the local recreation department, Taku Lake Skatepark is an 8,000-square-foot cast-in-place concrete facility set alongside the Campbell Creek Trail in south Anchorage. For older skaters, the course provides a measured balance of low-impact flow and technical obstacles, headlined by a mellow, open-ended whale-tail transition bowl with wide rolled decks and gentle bank entries.
+Constructed by Grindline Skateparks in partnership with the local recreation department, Taku Lake Skatepark is a 10,111-square-foot cast-in-place concrete facility set alongside the Campbell Creek Trail in south Anchorage. For older skaters, the course provides a measured balance of low-impact flow and technical obstacles, headlined by a mellow, open-ended whale-tail transition bowl with wide rolled decks and gentle bank entries.
 
 The flatground corridor incorporates flat bars, low slappy curbs, and shallow manual pads that allow returning skaters to dial in stance and kickturns without contending with sudden drop-offs. Municipal LED lighting illuminates the park until 11:00 PM, making evening rides after work viable during shoulder seasons. Note that Alaskan freeze-thaw cycles can leave concrete damp or gritty early in the day; allow morning moisture to burn off before skating aggressive transition lines.
 
 
 ### Tupelo Skatepark
-Located within Ballard Park, this concrete park offers a bowl with varying depths to accommodate different skill levels. User-activated lights stay on until past midnight, ensuring plenty of time for quiet evening sessions.
+Located within Ballard Park, this concrete park offers a bowl with varying depths to accommodate different skill levels. User-activated lights stay on until 10 PM, ensuring plenty of time for quiet evening sessions.
 Location: Tupelo, Mississippi, US
 Website: https://www.tupeloparksandrec.org/
 
 The Tupelo Skatepark, situated in Ballard Park, is a versatile concrete facility with a layout that works well for progression. The main bowl features varying depths, allowing newer transition riders to start small before moving to the deeper ends, while the street section offers standard ledges and rails.
 
-What makes this park particularly friendly for older skaters is its lighting system. The lights are user-activated via a button near the restrooms and stay on until 12:30 am, providing a fantastic opportunity for late-night sessions when the park is completely empty.
+What makes this park particularly friendly for older skaters is its lighting system. The lights are user-activated via a button near the restrooms and stay on until 10 PM, providing a fantastic opportunity for evening sessions when the park is less crowded.
 
 
 ### Two Rivers Skatepark
