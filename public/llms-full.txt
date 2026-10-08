@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-08T06:34:15.971Z
+# Date: 2026-10-08T14:29:10.172Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -571,6 +571,38 @@ Compare yourself to yourself, six months ago. Most returning adult skaters impro
 Fear of looking bad in front of other skaters keeps more adults off boards than fear of injury does, and it's the less rational of the two.
 
 Skate culture broadly respects anyone who shows up and tries. An adult who's clearly working on something, wearing gear, and staying out of everyone's line will be left alone at worst and encouraged at best. The people most likely to give you a hard time about it aren't at the park.
+
+
+### Can an AI Coaching App Help You Progress as an Adult Skater?
+AI video-analysis apps promise faster progress for skaters who train alone. An honest look at what they can and can't do for adult returners.
+
+A patient asked me recently whether she should get a human coach or just use one of the AI apps she'd seen advertised — upload a clip, get feedback on what's wrong with your kickflip, done. It's a fair question for anyone training alone, which describes most adult returners: you don't have a crew watching you, you don't have a coach cueing you in real time, and a phone propped against a backpack is a lot more available than a scheduled lesson.
+
+I went and looked at what's actually out there before answering her, because "AI coaching" is one of those phrases that can mean something genuinely useful or very little at all, depending on the product.
+
+## What exists right now
+
+There's a real category of consumer apps aimed at this exact problem, though worth flagging upfront: all three below are iOS apps, and if you're on Android, SkateAI lists Android support as "coming soon" while SkateGPT and Fervid currently have no Android listing at all. **SkateAI** lets you upload a clip of a trick and get a frame-by-frame breakdown with notes on what happened; its paid tier adds ongoing coaching and progress tracking over time. **SkateGPT** works similarly — you record a trick, it analyzes the footage and flags what you did right and what to adjust. **Fervid** takes a different approach entirely: it's text-based, offering trick guidance through conversation rather than video review.
+
+These aren't vaporware. They're real, available apps with real users. What I couldn't find, and want to be upfront about, is independent testing of how accurately any of them actually detect a technique fault versus a human coach watching the same clip. Every claim about accuracy or "coaching science" I found came from the company's own app store listing. That doesn't make the claims false. It means they're unverified, and you should treat them the way you'd treat any supplement label: plausible, not proven.
+
+## What video analysis can plausibly do well
+
+A camera doesn't get tired, doesn't get self-conscious on your behalf, and doesn't mind watching the same failed attempt eleven times in a row. That's a genuine advantage over training alone with no feedback at all. Frame-by-frame breakdown is also something a phone does better than a memory does — you genuinely cannot tell, in the moment, whether your back foot was a half-second late on a kickflip, and a slowed-down clip can show you clearly.
+
+For an adult who trains alone, that's not nothing. Consistency problems — the kind where a trick works four tries out of ten and you can't tell what's different about the ones that land — are exactly the kind of pattern a frame-by-frame review surfaces that in-the-moment self-assessment misses.
+
+## What it almost certainly can't do
+
+No app, however good its video model gets, can catch you. It can't read a crowded bowl and tell you to bail two seconds before a collision. It can't feel that your front knee is tracking wrong in a way that's building toward an injury rather than just looking slightly off on camera — a physiotherapist or an experienced coach watching live picks up on compensations your uploaded ten-second clip won't show, because the clip only exists if you already decided the attempt was worth filming.
+
+That last point matters more for adult skaters specifically than it would for a sponsored teenager. A lot of what actually goes wrong for returning adults is cumulative load and poor movement patterns building toward something — not the kind of single visible error a trick-analysis app is built to flag. Software built to answer "why isn't my kickflip landing" isn't built to answer "is this knee angle going to be a problem in six weeks," and conflating the two is the actual risk of leaning on an app alone.
+
+## Where it fits for someone like you
+
+Use it as a logging and feedback layer on top of training you'd be doing anyway, not as a substitute for a human set of eyes on your safety and your joints. A reasonable split: let an app help you see what a trick attempt actually looked like and track whether you're trending in the right direction between sessions, and keep a periodic check-in with a coach or an experienced skating friend for technique questions and features that intimidate you. If you haven't found that person yet, [how to find a skateboard coach who gets adult beginners](/blog/finding-a-skateboard-coach-for-adults/) is the place to start. Pain, a new injury, or anything involving an existing injury history is a different category entirely — that belongs with a physiotherapist or doctor, not a coach, a friend, or an app, however good its video analysis gets.
+
+The honest answer I gave my patient: try one if the idea appeals to you, treat whatever it tells you as a second opinion rather than a verdict, and don't let a subscription replace the one thing no app does yet — someone physically present who can tell you to stop before you get hurt, not after.
 
 
 ### Carving First: The Skill Adult Returners Always Skip
@@ -2609,6 +2641,42 @@ You don't need a competitive longboard or a cone set to try the basic movement. 
 Oyama's story isn't inspiring because it's rare. It's useful because it's a real, ongoing data point: the ceiling on what an older body can do on a skateboard is much higher, and much later, than most of us assume before we see someone actually doing it.
 
 
+### What Kelly Slater's 2026 Comeback Teaches Adult Skaters
+Kelly Slater competed in Tahiti at 54 after hip surgery. What his comeback says about pacing, fear, and timelines for any adult returning to a board sport.
+
+In August, Kelly Slater — 54 years old, months out from a hip replacement, and surfing his first World Surf League Championship Tour heat in more than a year — took a wildcard spot at the Tahiti Pro and beat Eli Hanneman in his opening heat at Teahupo'o, one of the heaviest waves in competitive surfing. In the next round he beat Gabriel Medina, a three-time world champion in his prime, in what commentators called a genuine upset. He lost in the round after that to Jack Robinson, and said afterward, "I think I used all my magic up the last two heats."
+
+I don't surf, and this isn't a surfing site. But I read that result the same week I was putting off my own return to a half-pipe I'd been avoiding for a month, and it was useful in a way that had nothing to do with surfing technique. It was useful because Slater's comeback followed a shape that applies directly to anyone coming back to a board sport in their 40s, 50s, or later — including you, if you're reading a site called Concrete Comeback.
+
+## He didn't train like it was 1999
+
+Slater said in the lead-up to the event that he'd been "recovering from hip surgery late last year and recently got back to surfing daily." Notice what that sentence isn't: it isn't "I never stopped" and it isn't "I pushed through the surgery to get back fast." It's a description of a staged return — surgery, recovery, then a deliberate rebuild to daily surfing, then competition.
+
+That's periodization, whether or not anyone involved used the word. You don't go from "recovering" to "competing against the best in the world" in one jump, and you don't go from "haven't skated in twenty years" to "dropping into the deep end of the bowl" in one session either. The useful version of a comeback is staged: rebuild the base movement pattern, then volume, then intensity, then the specific skill you actually want back. Skipping stages is one of the most common ways adult returners of any sport get hurt or get discouraged enough to quit.
+
+## He said the quiet part about time away out loud
+
+Before his first heat, Slater acknowledged the layoff directly: "I also haven't competed in quite a long time, so it'll be fun to see how I go getting in the mix with everyone." That's a 54-year-old, eleven-time world champion, essentially telling the world he doesn't know what's going to happen.
+
+Most adults coming back to skating carry a version of this same uncertainty privately, as something close to shame — like not knowing whether you can still drop in is evidence you shouldn't be at the park at all. Slater's comeback is a useful data point that uncertainty and competence aren't opposites. You can genuinely not know how a session is going to go and still belong there. The not-knowing is the actual content of a comeback, not a disqualifying symptom of one.
+
+## The upset came after the heat went badly, not before
+
+The Medina result is the part worth sitting with longest, and the actual sequence matters more than the final score. Slater's heat started badly — an early wave scored next to nothing, and the one after it was bad enough to snap his board in two. He was down against a surfer more than two decades younger, mid-career, and the man who had beaten him in the 2014 final at this same break by three hundredths of a point. Then, on a backup board, he put together two standout rides — scores of 9.73 and 9.33 out of a possible 10 — to finish at 19.06 against Medina's 16.10.
+
+Nothing about that start guaranteed the finish. The useful lesson isn't that Slater out-thought a younger surfer instead of out-performing him — the scores say he did both, on rides that came after the kind of wipeout that would end most people's day. It's that a bad opening stretch of a session, even a genuinely bad one, isn't a verdict on how the rest of it goes. Write off a comeback session after five rough minutes and you'll never find out what the next twenty would have looked like.
+
+That's directly applicable on a skateboard. A 46-year-old isn't going to out-athlete the group of teenagers at the local park on pop or speed, and training to try is a losing game. What you actually have, if you build it back deliberately, is better judgment about which features to try, better spatial reading of a bowl or a line, and more patience about bailing out of something that isn't going well. Those are real advantages. They just aren't the ones a highlight reel is built to show.
+
+## Where his comeback stops being a template
+
+It's worth being honest about where the comparison breaks: Slater has a medical team, a training staff, and decades of elite movement patterns that a hip replacement and a layoff didn't erase at the neurological level. Most adult skaters are rebuilding those patterns from much further back, with none of that support. His comeback is a useful shape to borrow — stage it, say the uncertainty out loud, don't let a bad start write the ending — not a pace to match.
+
+If you want the staged version built specifically for a skateboarding comeback rather than a surfing one, the [8-week return plan for adult skaters](/blog/8-week-return-plan-adult-skaters/) is the practical companion to everything above: it's periodization already broken into weeks, so you don't have to improvise the stages yourself.
+
+Slater's run in Tahiti ended in a loss, same as most comebacks eventually hit a wall of some kind. He's already said he hopes for another wildcard at Pipeline in December. That's maybe the most transferable lesson of all: a comeback isn't one result. It's a position you keep choosing to stay in.
+
+
 ### Does Wearing a Knee Brace Mean You're Giving Up? An Honest Answer
 Sleeve, hinged, or unloader — a physio's guide to which knee brace actually fits your skating and what wearing one really means.
 
@@ -3891,6 +3959,42 @@ If there's a real dividing line at a park, it's not aesthetic knowledge or gear.
 ## The part that actually resolves it
 
 The discomfort of wearing the culture without currently matching it fades the same way every other version of new-park anxiety fades: through repetition, not through getting your knowledge or your outfit "right." Skate long enough, consistently enough, and the gap between the aesthetic and the reality closes itself, because you become the reality. Nobody's going to ask for your credentials at the gate. You just have to keep showing up until you stop asking yourself for them too.
+
+
+### From Sideline Dad to Skate Dad: Owning the Identity Shift
+Lots of dads skate next to their kids and still call it 'just hanging out.' Why claiming 'skate dad' as your own identity actually changes the experience.
+
+I watch it happen at our sessions a couple of times a month. A dad shows up with his kid, kid goes off to the bowl with friends, and the dad stands at the edge with a board under his arm — a board he clearly rides, because his shoes are worn through in the right spots and his pushing looks like muscle memory, not imitation. Ask him if he skates and he'll say something like "oh, not really, I just come out here with my son." Watch him for twenty more minutes and he'll push off, carve a lap, and look genuinely happy doing it.
+
+That gap — between what someone visibly does and what they'll admit to being — is the whole subject of this post.
+
+## "Skate dad" became a real category without most dads noticing
+
+Somewhere in the last few years, "skate dad" turned into an actual identity with its own visibility: gift guides built around it, social accounts built around it, a recognizable aesthetic. That's a real shift in how the culture sees this. And yet a lot of the dads the label is describing still talk about their own skating like a footnote to their kid's hobby, as if the board under their arm is a prop for supervision rather than something they ride because they want to.
+
+I don't think that's modesty, exactly. I think it's permission that hasn't caught up to the label yet.
+
+## Why the half-apology shows up
+
+Part of it is straightforwardly generational — a lot of these dads grew up with a version of skating that was coded as a teenager's thing, and claiming it as a 40-something feels like it needs a justification attached ("I'm just getting some exercise," "it's for bonding with my kid"). Part of it is that parenting itself comes with an unspoken rule that your own wants move down the list, and a hobby that's visibly just for you can feel like it's breaking that rule even when nobody's actually enforcing it.
+
+And part of it, if I'm honest, is that "I skate with my son" is a safer sentence than "I skate." The first one has a built-in excuse. The second one is just a fact about who you are, and facts about who you are can be judged in a way that excuses can't.
+
+## What changes when you drop the apology
+
+Nothing about your actual riding changes the day you start calling yourself a skater instead of a guy who tags along. But a few things around it do.
+
+**You stop waiting for permission to practice on your own.** If your skating only exists in the frame of "time with my kid," you don't have an obvious reason to go to the park without them, work on something on your own schedule, or take a session seriously enough to warm up properly first. Owning it as your own thing gives you a reason to show up solo sometimes, which is usually where real progress happens.
+
+**Your kid gets to see you as a learner, not just a supervisor.** There's something genuinely valuable for a kid in watching a parent fall, get frustrated, and keep trying at something that isn't already mastered — it's a different lesson than watching a parent calmly manage their homework or their bedtime. "Dad who skates" models persistence in a way "dad who watches me skate" doesn't.
+
+**You stop treating every session as a teaching opportunity.** This is the one I see trip people up most. Once you've decided your presence at the park is justified by your kid's development, it's hard to resist narrating, correcting, and coaching the whole time — which neither of you actually wants from every single session. [Skating with your kids without making it awkward](/blog/skating-with-your-kids/) covers that specific dynamic in more depth, but the short version connects directly here: owning your own skating gives you permission to just ride sometimes, instead of always supervising.
+
+## This isn't really about the label
+
+You don't need a hoodie that says "skate dad" or a TikTok account to make this real. The actual shift is small and happens in how you answer one question: when someone asks if you skate, do you say yes, or do you explain your kid first?
+
+Say yes. Not instead of being a dad who skates with his kid — in addition to it. If you're looking for the practical next step, whether that's finding other adults to skate with or actually putting a group together of your own, [how to start a skate moms or dads group in your city](/blog/how-to-start-a-skate-moms-or-dads-group/) is the logistics version of what this post is really about: you're allowed to want something at the skatepark that's just yours.
 
 
 ### The Skate Shoe Problem Nobody Warns You About After 40
