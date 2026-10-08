@@ -13,10 +13,15 @@ submissions — while the form itself was verified working end to end (submit �
 email → confirm → segment). So the failure is upstream of the email, and the
 open question is whether the CTA is *seen* at all.
 
-PR #80 (merged 2026-09-26) made the CTAs send their events to GA4 through
-`gtag`, because the GTM container has no triggers for the `newsletter_*` events
-and every one of them had been dropped since launch. `newsletter_popup_shown` is
-therefore the number that matters, not the subscriber count.
+PR #80 (merged 2026-09-26) made the CTAs send their events through `gtag`,
+because the GTM container has no triggers for the `newsletter_*` events. Those
+calls still produced no GA4 collect request: with no page-level `gtag` config
+they had no destination. Every event now names the stream with `send_to`
+(see "Signup analytics" in `CLAUDE.md`). **A zero or missing
+`newsletter_popup_shown` / `newsletter_inline_shown` from before that change
+deployed is a routing artefact, not evidence that nobody saw a CTA.** From the
+deploy onward, those two impression events are the numbers that matter, not
+the subscriber count.
 
 ## Check 1 — subscribers (Resend)
 
@@ -48,14 +53,21 @@ dropped deliberately — do not try to read GA4, and do not report a traffic or
 `newsletter_popup_shown` figure. Say the GA4 half is checked manually instead of
 implying the number is zero.
 
-`newsletter_popup_shown` is still the number that settles the diagnosis; it just
-has to be read by hand in the GA4 app (property `543447613`).
+`newsletter_popup_shown` (and, for the server-rendered form, `newsletter_inline_shown`,
+counted only once the form is actually on screen) is still what settles the
+diagnosis; it just has to be read by hand in the GA4 app (property `543447613`)
+by someone with access to it — no credential available to automation has any.
+Never estimate it.
+
+Analytics stops at `newsletter_signup_pending`. Views of `/newsletter/confirmed/`
+are not confirmations — the page is public and can be loaded or reloaded by
+anyone — so subscribers come from the Resend segment (Check 1) and nowhere else.
 
 ## How to read the result
 
 | Signal | Meaning | Next step |
 |---|---|---|
-| Submissions 0 for days, `popup_shown` ≈ 0 (read manually) | The CTA is rarely seen. It triggers at 45s on a first pageview, or 50% scroll — and traffic is almost entirely first-time, single-page visitors. | Loosen the triggers in `src/scripts/newsletter-signup.js` |
+| Submissions 0 for days, `popup_shown` ≈ 0 since the `send_to` deploy (read manually) | The CTA is rarely seen. It triggers at 45s on a first pageview, or 50% scroll — and traffic is almost entirely first-time, single-page visitors. | Loosen the triggers in `src/scripts/newsletter-signup.js` |
 | `popup_shown` healthy, submissions 0 | People see it and decline. | Offer and copy problem, not plumbing |
 | Submissions > 0, subscribers 0 | People submit but never confirm. | Investigate deliverability and the confirm step |
 
