@@ -43,6 +43,11 @@ jobs:
       - name: Build
         run: npm run build
 
+      # Which pages carry the server-rendered signup form, under which
+      # newsletter_source, with unique ids and a working no-JS POST. Reads dist/ only.
+      - name: Check newsletter placement
+        run: node scripts/check-newsletter-placement.mjs
+
       # Must crawl a real server, not the filesystem: pages are emitted as
       # directories (format: 'directory') and tag links carry query strings,
       # so /blog?tag=x only resolves over HTTP.
