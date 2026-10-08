@@ -26,15 +26,17 @@ Before his first heat, Slater acknowledged the layoff directly: "I also haven't 
 
 Most adults coming back to skating carry a version of this same uncertainty privately, as something close to shame — like not knowing whether you can still drop in is evidence you shouldn't be at the park at all. Slater's comeback is a useful data point that uncertainty and competence aren't opposites. You can genuinely not know how a session is going to go and still belong there. The not-knowing is the actual content of a comeback, not a disqualifying symptom of one.
 
-## The upset came from pacing, not from pretending the layoff didn't happen
+## The upset came after the heat went badly, not before
 
-The Medina result is the part worth sitting with longest. Slater didn't beat a surfer more than two decades younger and at his competitive peak by matching him move for move on raw physical output. He beat him by reading the heat and making better decisions inside a smaller number of opportunities — the kind of edge that experience gives you even when your body isn't the fastest one in the water anymore.
+The Medina result is the part worth sitting with longest, and the actual sequence matters more than the final score. Slater's heat started badly — an early wave scored next to nothing, and the one after it was bad enough to snap his board in two. He was down against a surfer more than two decades younger, mid-career, and leading their head-to-head history. Then, with a backup board, he landed two standout rides late in the heat — scores of 9.73 and 9.33 out of a possible 10 — to finish at 19.06 against Medina's 16.10.
+
+Nothing about that start guaranteed the finish. The useful lesson isn't that Slater out-thought a younger surfer instead of out-performing him — the scores say he did both, on rides that came after the kind of wipeout that would end most people's day. It's that a bad opening stretch of a session, even a genuinely bad one, isn't a verdict on how the rest of it goes. Write off a comeback session after five rough minutes and you'll never find out what the next twenty would have looked like.
 
 That's directly applicable on a skateboard. A 46-year-old isn't going to out-athlete the group of teenagers at the local park on pop or speed, and training to try is a losing game. What you actually have, if you build it back deliberately, is better judgment about which features to try, better spatial reading of a bowl or a line, and more patience about bailing out of something that isn't going well. Those are real advantages. They just aren't the ones a highlight reel is built to show.
 
 ## Where his comeback stops being a template
 
-It's worth being honest about where the comparison breaks: Slater has a medical team, a training staff, and decades of elite movement patterns that a hip surgery and a layoff didn't erase at the neurological level. Most adult skaters are rebuilding those patterns from much further back, with none of that support. His comeback is a useful shape to borrow — stage it, say the uncertainty out loud, trust judgment over raw output — not a pace to match.
+It's worth being honest about where the comparison breaks: Slater has a medical team, a training staff, and decades of elite movement patterns that a hip surgery and a layoff didn't erase at the neurological level. Most adult skaters are rebuilding those patterns from much further back, with none of that support. His comeback is a useful shape to borrow — stage it, say the uncertainty out loud, don't let a bad start write the ending — not a pace to match.
 
 If you want the staged version built specifically for a skateboarding comeback rather than a surfing one, the [8-week return plan for adult skaters](/blog/8-week-return-plan-adult-skaters/) is the practical companion to everything above: it's periodization already broken into weeks, so you don't have to improvise the stages yourself.
 
