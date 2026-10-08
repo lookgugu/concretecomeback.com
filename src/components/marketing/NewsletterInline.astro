@@ -7,10 +7,11 @@
 //
 // `source` is the placement's `newsletter_source` in analytics, and it keys the
 // element ids so no two CTAs on a page share one. `in_post` keeps the original
-// `newsletter-inline-*` ids. `scripts/check-newsletter-placement.mjs` enforces
+// `newsletter-inline-*` ids; `retry` is /newsletter/error/, where a failed or
+// expired signup is retried. `scripts/check-newsletter-placement.mjs` enforces
 // which pages carry which source after every build.
 interface Props {
-  source?: 'in_post' | 'home' | 'directory';
+  source?: 'in_post' | 'home' | 'directory' | 'retry';
   // Replaces the default end-of-article spacing and rule.
   class?: string;
 }

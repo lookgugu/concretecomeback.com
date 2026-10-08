@@ -6,9 +6,9 @@
 // whether two forms on one page ended up sharing element ids.
 //
 // The contract: exactly one inline CTA on the homepage (`home`), on every
-// park/shop/group detail page (`directory`), on every blog post and on the
-// no-JS retry page (`in_post`) — and none anywhere else, so a stray copy on a
-// list page or a repeated one per card fails here rather than in review.
+// park/shop/group detail page (`directory`), on every blog post (`in_post`) and
+// on the no-JS retry page (`retry`) — and none anywhere else, so a stray copy
+// on a list page or a repeated one per card fails here rather than in review.
 //
 // Reads files only; never submits anything.
 //
@@ -37,7 +37,7 @@ function expectedSource(route) {
   if (/^\/directory\/(parks|shops|groups)\/.+\/$/.test(route)) return 'directory';
   // /blog/2/ is pagination, not a post.
   if (/^\/blog\/(?!\d+\/$)[^/]+\/$/.test(route)) return 'in_post';
-  if (route === '/newsletter/error/') return 'in_post';
+  if (route === '/newsletter/error/') return 'retry';
   return null;
 }
 
@@ -59,6 +59,11 @@ function checkInline(html) {
   if (!/\btype="email"/.test(email) || !/\brequired\b/.test(email)) problems.push('email input missing or not required');
   const emailId = email.match(/\bid="([^"]*)"/)?.[1];
   if (!emailId || !html.includes(`for="${emailId}"`)) problems.push('email input has no label');
+  // Ids are keyed by the placement's source (see NewsletterInline.astro).
+  const prefix = source === 'in_post' ? 'newsletter-inline' : `newsletter-${source}`;
+  if (labelledBy !== `${prefix}-title` || emailId !== `${prefix}-email`) {
+    problems.push(`ids not keyed by source "${source}" (expected ${prefix}-*)`);
+  }
   if (!/<input\b[^>]*\bname="consent"[^>]*\bvalue="yes"/.test(html)) problems.push('consent field missing');
   if (!/<input\b[^>]*\bname="_gotcha"/.test(html)) problems.push('honeypot missing');
   if (!/<button\b[^>]*\btype="submit"/.test(html)) problems.push('submit button missing');

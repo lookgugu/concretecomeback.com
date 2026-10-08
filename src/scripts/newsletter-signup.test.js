@@ -510,6 +510,43 @@ test('each inline placement reports its own newsletter_source', async () => {
   }
 });
 
+test('a retry from the newsletter error page is reported as retry, success or failure', async () => {
+  const io = fakeIntersectionObserver();
+  global.window.localStorage = storage();
+  const calls = [];
+  global.window.gtag = (...args) => calls.push(args);
+  try {
+    const retry = fakePanel({ email: 'skater@example.com' });
+    retry.panel.dataset = { newsletterSource: 'retry' };
+    global.fetch = async () => ({ ok: false, json: async () => null });
+    initInlineNewsletterSignup(retry.panel);
+    io.deliver(1);
+    await retry.submitted();
+    assert.equal(retry.form.hidden, false, 'a failed retry can be retried again');
+    assert.equal(retry.button.disabled, false);
+
+    global.fetch = async () => ({ ok: true, json: async () => ({ ok: true }) });
+    await retry.submitted();
+    assert.equal(retry.form.hidden, true);
+
+    assert.deepEqual(
+      global.window.dataLayer.map((entry) => `${entry.event}:${entry.newsletter_source}`),
+      [
+        'newsletter_inline_shown:retry',
+        'newsletter_signup_submitted:retry',
+        'newsletter_signup_error:retry',
+        'newsletter_signup_submitted:retry',
+        'newsletter_signup_pending:retry',
+      ],
+    );
+    assert.equal(calls.length, 5);
+    assert.ok(calls.every(([, , params]) => params.newsletter_source === 'retry' && params.send_to === 'G-VYW5FDDX52'));
+  } finally {
+    delete global.window.gtag;
+    delete global.IntersectionObserver;
+  }
+});
+
 test('the popup and a directory inline form on one page stand each other down', async () => {
   global.window.localStorage = storage();
   global.fetch = async () => ({ ok: true, json: async () => ({ ok: true }) });
