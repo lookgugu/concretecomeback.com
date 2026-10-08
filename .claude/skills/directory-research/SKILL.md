@@ -170,3 +170,8 @@ Keep this current when a batch defers something, so the next pass starts here. T
 - **Seymour Smith Skate Park, Omaha NE** — 6802 Harrison St; 11,161 sq ft concrete. Held: no strong evidence of ability separation or adult programs.
 - **Laurel Skatepark, Glen Allen VA** — 10301 Hungary Spring Rd; concrete. Held: standard transition and street features with no documented ability separation or adult-friendly sessions.
 - **Renaissance Park Skatepark, Charlotte NC** — 1536 W Tyvola Rd; concrete. Held: has lights, but is a small 4,000 sq ft park noted to get crowded, with no documented beginner-friendly features or separation.
+- **Oso Skate Park, Charlotte NC** — 933 Louise Ave. Held: permanently closed.
+- **Osage Park, Bentonville AR** — 700 SW 16th St. Held: contains recreational amenities but no skatepark facility.
+- **Clemente DIY Skatepark, Grand Rapids MI** — 546 Rumsey St SW; DIY concrete. Held: uneven surfaces and no explicit beginner separation or features typical of DIYs.
+- **Skate Naked, Columbus OH** — 3790 E 5th Ave. Held: permanently closed.
+- **Skate Rock City, Las Vegas NV** — 4680 Boulder Hwy. Held: roller skating rink with maple wood floor, no skateboard ramps or skatepark amenities.
