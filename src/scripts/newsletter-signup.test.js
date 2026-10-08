@@ -31,10 +31,13 @@ function fakeDocument() {
   };
 }
 
-function fakePanel(fields) {
-  fakeDocument();
+// `sameDocument` mounts another CTA on the current page instead of a new one.
+function fakePanel(fields, { sameDocument = false } = {}) {
   global.window = global.window || {};
-  global.window.dataLayer = [];
+  if (!sameDocument) {
+    fakeDocument();
+    global.window.dataLayer = [];
+  }
   const button = { type: 'submit', disabled: false };
   const status = { textContent: '' };
   let handler;
@@ -198,8 +201,8 @@ test('a signup through one CTA stands the other one down', async () => {
 // A fuller stub than fakePanel: initNewsletterSignup drives the popup's own
 // show/hide machinery, which is where the dismissal event is emitted.
 // `beforeInit` runs after fakePanel's fresh dataLayer, so a test can break it.
-function fakePopup(beforeInit = () => {}) {
-  const { panel, form, status } = fakePanel({ email: 'skater@example.com' });
+function fakePopup({ sameDocument = false, beforeInit = () => {} } = {}) {
+  const { panel, form, status, submitted } = fakePanel({ email: 'skater@example.com' }, { sameDocument });
   const closeButton = { listeners: [], addEventListener: (_t, fn) => closeButton.listeners.push(fn) };
   panel.dataset = { visible: 'false' };
   panel.hidden = true;
@@ -213,7 +216,7 @@ function fakePopup(beforeInit = () => {}) {
   global.sessionStorage = { getItem: () => '2', setItem: () => {} };
   beforeInit();
   initNewsletterSignup(panel);
-  return { panel, form, status, closeButton };
+  return { panel, form, status, closeButton, submitted };
 }
 
 test('a popup that retreats after an inline signup is not counted as a dismissal', () => {
@@ -477,6 +480,100 @@ test('a hidden form never counts, even if the observer reports it intersecting',
   }
 });
 
+test('each inline placement reports its own newsletter_source', async () => {
+  const io = fakeIntersectionObserver();
+  global.window.localStorage = storage();
+  global.fetch = async () => ({ ok: true, json: async () => ({ ok: true }) });
+  const calls = [];
+  global.window.gtag = (...args) => calls.push(args);
+  try {
+    const home = fakePanel({ email: 'skater@example.com' });
+    home.panel.dataset = { newsletterSource: 'home' };
+    initInlineNewsletterSignup(home.panel);
+    io.deliver(1);
+    await home.submitted();
+
+    assert.deepEqual(
+      global.window.dataLayer.map((entry) => `${entry.event}:${entry.newsletter_source}`),
+      ['newsletter_inline_shown:home', 'newsletter_signup_submitted:home', 'newsletter_signup_pending:home'],
+    );
+    assert.ok(calls.every(([, , params]) => params.newsletter_source === 'home' && params.send_to === 'G-VYW5FDDX52'));
+
+    // Server-rendered blog markup that predates the attribute keeps reporting in_post.
+    const legacy = fakePanel({ email: '' });
+    initInlineNewsletterSignup(legacy.panel);
+    io.deliver(1);
+    assert.deepEqual(inlineImpressions(), [{ event: 'newsletter_inline_shown', newsletter_source: 'in_post' }]);
+  } finally {
+    delete global.window.gtag;
+    delete global.IntersectionObserver;
+  }
+});
+
+test('a retry from the newsletter error page is reported as retry, success or failure', async () => {
+  const io = fakeIntersectionObserver();
+  global.window.localStorage = storage();
+  const calls = [];
+  global.window.gtag = (...args) => calls.push(args);
+  try {
+    const retry = fakePanel({ email: 'skater@example.com' });
+    retry.panel.dataset = { newsletterSource: 'retry' };
+    global.fetch = async () => ({ ok: false, json: async () => null });
+    initInlineNewsletterSignup(retry.panel);
+    io.deliver(1);
+    await retry.submitted();
+    assert.equal(retry.form.hidden, false, 'a failed retry can be retried again');
+    assert.equal(retry.button.disabled, false);
+
+    global.fetch = async () => ({ ok: true, json: async () => ({ ok: true }) });
+    await retry.submitted();
+    assert.equal(retry.form.hidden, true);
+
+    assert.deepEqual(
+      global.window.dataLayer.map((entry) => `${entry.event}:${entry.newsletter_source}`),
+      [
+        'newsletter_inline_shown:retry',
+        'newsletter_signup_submitted:retry',
+        'newsletter_signup_error:retry',
+        'newsletter_signup_submitted:retry',
+        'newsletter_signup_pending:retry',
+      ],
+    );
+    assert.equal(calls.length, 5);
+    assert.ok(calls.every(([, , params]) => params.newsletter_source === 'retry' && params.send_to === 'G-VYW5FDDX52'));
+  } finally {
+    delete global.window.gtag;
+    delete global.IntersectionObserver;
+  }
+});
+
+test('the popup and a directory inline form on one page stand each other down', async () => {
+  global.window.localStorage = storage();
+  global.fetch = async () => ({ ok: true, json: async () => ({ ok: true }) });
+
+  // The popup takes the signup: the directory form shows the outcome instead.
+  const inline = fakePanel({ email: '' });
+  inline.panel.dataset = { newsletterSource: 'directory' };
+  initInlineNewsletterSignup(inline.panel);
+  const popup = fakePopup({ sameDocument: true });
+  await popup.submitted();
+  assert.equal(inline.form.hidden, true);
+  assert.equal(inline.status.textContent, 'Check your inbox and confirm your subscription.');
+
+  // The directory form takes the signup: the popup retreats, not dismissed.
+  const page = fakePopup();
+  const directory = fakePanel({ email: 'skater@example.com' }, { sameDocument: true });
+  directory.panel.dataset = { newsletterSource: 'directory' };
+  initInlineNewsletterSignup(directory.panel);
+  await directory.submitted();
+
+  assert.equal(page.panel.dataset.visible, 'false');
+  const events = global.window.dataLayer.map((e) => `${e.event}:${e.newsletter_source ?? ''}`);
+  assert.ok(events.includes('newsletter_signup_pending:directory'));
+  assert.ok(events.includes('newsletter_popup_stood_down:'));
+  assert.ok(!events.includes('newsletter_popup_dismissed:'));
+});
+
 test('without IntersectionObserver the form still submits and no impression is invented', async () => {
   const inline = fakePanel({ email: 'skater@example.com' });
   global.window.localStorage = storage();
@@ -569,7 +666,7 @@ for (const [name, breakSink] of Object.entries(brokenSinks)) {
 
   test(`${name} cannot keep the popup from showing or standing down`, () => {
     try {
-      const popup = fakePopup(breakSink);
+      const popup = fakePopup({ beforeInit: breakSink });
       assert.equal(popup.panel.dataset.visible, 'true');
 
       global.document.dispatchEvent({ type: 'cc:newsletter-pending', detail: { panel: {} } });

@@ -5,6 +5,7 @@ import Hero from '@components/home/Hero.astro';
 import SiteCounts from '@components/home/SiteCounts.astro';
 import DirectoryCallouts from '@components/home/DirectoryCallouts.astro';
 import FeaturedPosts from '@components/home/FeaturedPosts.astro';
+import NewsletterInline from '@components/marketing/NewsletterInline.astro';
 
 const allParks  = await getCollection('parks');
 const allShops  = await getCollection('shops');
@@ -69,6 +70,14 @@ const jsonLd = [
     shopCount={allShops.length}
     groupCount={allGroups.length}
   />
+
+  <!-- A standing offer below the directory tasks, never in front of them. -->
+  <section class="border-t border-concrete-200">
+    <div class="max-w-2xl mx-auto px-4 sm:px-6 py-12">
+      <NewsletterInline source="home" class="" />
+    </div>
+  </section>
+
   <FeaturedPosts posts={displayPosts} />
 
   <!-- CTA section -->

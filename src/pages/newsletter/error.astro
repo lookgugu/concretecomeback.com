@@ -14,8 +14,9 @@ import NewsletterInline from '@components/marketing/NewsletterInline.astro';
 
   <div class="max-w-2xl mx-auto px-4 sm:px-6 pb-16">
     <!-- Server-rendered, so it is a real retry path for a visitor who got here
-         from a failed signup with JavaScript off — the popup cannot be one. -->
-    <NewsletterInline />
+         from a failed signup with JavaScript off — the popup cannot be one.
+         Its events report `retry`, not the blog's `in_post`. -->
+    <NewsletterInline source="retry" />
     <p class="mt-8 text-center">
       <a href="/" class="text-sm text-concrete-500 hover:text-concrete-800">← Return home</a>
     </p>

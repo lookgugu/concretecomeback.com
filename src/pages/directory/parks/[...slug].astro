@@ -4,6 +4,7 @@ import BaseLayout from '@layouts/BaseLayout.astro';
 import Breadcrumb from '@components/ui/Breadcrumb.astro';
 import CountryBadge from '@components/directory/CountryBadge.astro';
 import FeatureBadge from '@components/directory/FeatureBadge.astro';
+import NewsletterInline from '@components/marketing/NewsletterInline.astro';
 
 export async function getStaticPaths() {
   const parks = await getCollection('parks');
@@ -136,5 +137,7 @@ const jsonLd = {
         ← All parks
       </a>
     </div>
+
+    <NewsletterInline source="directory" />
   </div>
 </BaseLayout>

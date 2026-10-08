@@ -149,7 +149,7 @@ export function initNewsletterSignup(panel) {
     if (shouldHideOnEscape(event, document.activeElement, panel)) hide(false);
   });
 
-  // If the visitor signs up through the in-post CTA, the popup retreats rather
+  // If the visitor signs up through an inline CTA, the popup retreats rather
   // than repeating the confirmation — and without recording a dismissal, which
   // is reserved for the visitor actually closing it.
   bindNewsletterForm(panel, {
@@ -223,7 +223,7 @@ export function bindNewsletterForm(panel, { storage = getStorage(), source, onOt
   return true;
 }
 
-// The in-post CTA is part of the page, not an interruption: it is always
+// The inline CTA is part of the page, not an interruption: it is always
 // visible, never records a dismissal, and has no timers or scroll triggers.
 // A visitor who has already signed up sees the outcome instead of the form.
 export function showCompletedState(panel, state) {
@@ -280,7 +280,8 @@ export function initInlineNewsletterSignup(panel) {
   // A page can mount both CTAs, so the one that wasn't submitted has to be told:
   // neither reads storage again after init, and leaving a live form next to
   // "check your inbox" invites a duplicate submission.
-  const source = 'in_post';
+  // Set per placement by NewsletterInline's `source` prop (home, directory, …).
+  const source = (panel.dataset && panel.dataset.newsletterSource) || 'in_post';
   if (!bindNewsletterForm(panel, {
     storage,
     source,

@@ -1,29 +1,45 @@
 ---
-// End-of-post call to action. Rendered by BlogLayout, so every blog post gets
-// one automatically — nothing has to be written into the Markdown. It shares the
-// submit path with the popup (NewsletterSignup.astro) but none of its triggers:
-// this one is always visible and is never dismissed.
+// The server-rendered newsletter CTA. BlogLayout renders it at the end of every
+// post, so nothing has to be written into the Markdown; the homepage and the
+// directory detail pages place it too. It shares the submit path with the popup
+// (NewsletterSignup.astro) but none of its triggers: this one is always
+// visible and is never dismissed.
+//
+// `source` is the placement's `newsletter_source` in analytics, and it keys the
+// element ids so no two CTAs on a page share one. `in_post` keeps the original
+// `newsletter-inline-*` ids; `retry` is /newsletter/error/, where a failed or
+// expired signup is retried. `scripts/check-newsletter-placement.mjs` enforces
+// which pages carry which source after every build.
+interface Props {
+  source?: 'in_post' | 'home' | 'directory' | 'retry';
+  // Replaces the default end-of-article spacing and rule.
+  class?: string;
+}
+
+const { source = 'in_post', class: className = 'mt-10 pt-8 border-t border-concrete-200' } = Astro.props;
+const prefix = source === 'in_post' ? 'newsletter-inline' : `newsletter-${source}`;
 ---
 
 <aside
-  class="newsletter-inline mt-10 pt-8 border-t border-concrete-200"
-  aria-labelledby="newsletter-inline-title"
+  class:list={['newsletter-inline', className]}
+  aria-labelledby={`${prefix}-title`}
+  data-newsletter-source={source}
 >
   <p class="text-xs font-bold uppercase tracking-widest text-skate-orange mb-2">Monthly roundup</p>
-  <h2 id="newsletter-inline-title" class="font-display text-2xl text-concrete-900 mb-2">Keep your comeback rolling</h2>
+  <h2 id={`${prefix}-title`} class="font-display text-2xl text-concrete-900 mb-2">Keep your comeback rolling</h2>
   <p class="text-sm text-concrete-600 mb-4">
     Get new skate spots and groups, one practical guide, and one community story each month.
   </p>
   <form action="/api/forms/newsletter" method="post" class="space-y-3">
     <div class="sr-only" aria-hidden="true">
-      <label for="newsletter-inline-company">Company</label>
-      <input id="newsletter-inline-company" name="_gotcha" type="text" tabindex="-1" autocomplete="off" />
+      <label for={`${prefix}-company`}>Company</label>
+      <input id={`${prefix}-company`} name="_gotcha" type="text" tabindex="-1" autocomplete="off" />
     </div>
     <input type="hidden" name="consent" value="yes" />
-    <label for="newsletter-inline-email" class="sr-only">Email address</label>
+    <label for={`${prefix}-email`} class="sr-only">Email address</label>
     <div class="flex flex-col sm:flex-row gap-2">
       <input
-        id="newsletter-inline-email"
+        id={`${prefix}-email`}
         name="email"
         type="email"
         required

@@ -54,7 +54,9 @@ dropped deliberately — do not try to read GA4, and do not report a traffic or
 implying the number is zero.
 
 `newsletter_popup_shown` (and, for the server-rendered form, `newsletter_inline_shown`,
-counted only once the form is actually on screen) is still what settles the
+counted only once the form is actually on screen and split by `newsletter_source`:
+`in_post`, `home`, `directory`, and `retry` for the form on `/newsletter/error/`)
+is still what settles the
 diagnosis; it just has to be read by hand in the GA4 app (property `543447613`)
 by someone with access to it — no credential available to automation has any.
 Never estimate it.
