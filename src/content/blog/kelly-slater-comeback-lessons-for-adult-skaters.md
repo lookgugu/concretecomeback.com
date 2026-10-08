@@ -10,7 +10,7 @@ featured: false
 draft: false
 ---
 
-In August, Kelly Slater — 54 years old, recovering from hip surgery the previous year, and competing on the World Surf League's top tour for the first time in a long stretch — took a wildcard spot at the Tahiti Pro and beat Eli Hanneman in his opening heat at Teahupo'o, one of the heaviest waves in competitive surfing. In the next round he beat Gabriel Medina, a two-time world champion in his prime, in what commentators called a genuine upset. He lost in the round after that to Jack Robinson, and said afterward, "I think I used all my magic up the last two heats."
+In August, Kelly Slater — 54 years old, recovering from hip surgery the previous year, and competing on the World Surf League's top tour for the first time in a long stretch — took a wildcard spot at the Tahiti Pro and beat Eli Hanneman in his opening heat at Teahupo'o, one of the heaviest waves in competitive surfing. In the next round he beat Gabriel Medina, a three-time world champion in his prime, in what commentators called a genuine upset. He lost in the round after that to Jack Robinson, and said afterward, "I think I used all my magic up the last two heats."
 
 I don't surf, and this isn't a surfing site. But I read that result the same week I was putting off my own return to a half-pipe I'd been avoiding for a month, and it was useful in a way that had nothing to do with surfing technique. It was useful because Slater's comeback followed a shape that applies directly to anyone coming back to a board sport in their 40s, 50s, or later — including you, if you're reading a site called Concrete Comeback.
 
@@ -28,7 +28,7 @@ Most adults coming back to skating carry a version of this same uncertainty priv
 
 ## The upset came from pacing, not from pretending the layoff didn't happen
 
-The Medina result is the part worth sitting with longest. Slater didn't beat a surfer eighteen years younger and at his competitive peak by matching him move for move on raw physical output. He beat him by reading the heat and making better decisions inside a smaller number of opportunities — the kind of edge that experience gives you even when your body isn't the fastest one in the water anymore.
+The Medina result is the part worth sitting with longest. Slater didn't beat a surfer more than two decades younger and at his competitive peak by matching him move for move on raw physical output. He beat him by reading the heat and making better decisions inside a smaller number of opportunities — the kind of edge that experience gives you even when your body isn't the fastest one in the water anymore.
 
 That's directly applicable on a skateboard. A 46-year-old isn't going to out-athlete the group of teenagers at the local park on pop or speed, and training to try is a losing game. What you actually have, if you build it back deliberately, is better judgment about which features to try, better spatial reading of a bowl or a line, and more patience about bailing out of something that isn't going well. Those are real advantages. They just aren't the ones a highlight reel is built to show.
 
