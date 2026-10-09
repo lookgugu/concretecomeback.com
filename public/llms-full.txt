@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-09T09:16:53.037Z
+# Date: 2026-10-09T15:02:25.500Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -358,9 +358,9 @@ If you've spent any time in adult-skater corners of the internet, you've probabl
 
 ## Who she actually is
 
-Oorbee Roy is a mother of two from Toronto who took her first skateboarding lesson at 43. She started posting about the experience online not long after, under the name Aunty Skates — a deliberate riff on the "aunty" figure from South Asian culture, the older woman who's supposed to have already settled into a fixed, sensible role by this point in life. Filming herself learning to skate, often in traditional Indian dress, was the joke and the point at the same time: here's an aunty doing the opposite of what an aunty is supposed to do.
+Oorbee Roy is a mother of two from Toronto who started taking skateboarding lessons at 43, after watching her family skate. She's said she was probably the oldest person in the class and that it took her about six months to feel comfortable on the board. In February 2021 she started posting the process on TikTok under the name Aunty Skates — a deliberate riff on the "aunty" figure from South Asian culture, the older woman who's supposed to have already settled into a fixed, sensible role by this point in life. Filming herself learning to skate, often in traditional Indian dress, was the joke and the point at the same time: here's an aunty doing the opposite of what an aunty is supposed to do.
 
-It worked. Her following has climbed steadily for years, and by the Globe and Mail's recent count she's well past 185,000 followers on TikTok — a number that's grown from the low six figures over the past couple of years as the account kept finding new audiences. Numbers aside, the actual substance of her content has stayed consistent the whole time: a grown woman, visibly still learning, having fun doing it in public.
+It worked. The clip that broke the account open was one her kids filmed at a Toronto park of her clearing a bowl in a purple sari; it went viral, and she passed 100,000 followers within four months of starting. The growth has been slower since but it hasn't stopped: by the time the Globe and Mail profiled her in April 2025, when she was 50, she was past 185,000 TikTok followers. Numbers aside, the actual substance of her content has stayed consistent the whole time: a grown woman, visibly still learning, having fun doing it in public.
 
 ## Why the sari matters as much as the skating
 
@@ -370,9 +370,9 @@ That's directly useful to anyone reading a site called Concrete Comeback. A lot 
 
 ## From videos to an actual community
 
-The TikTok following is the visible part, but it's not the whole story. Roy also started a Facebook group aimed at encouraging more adults to actually try skateboarding rather than just watch it, and she hosts skating events for adults in the Toronto area — the same basic move a lot of the local organisers covered on this site have made: turn an online following into people showing up at a real park together.
+The TikTok following is the visible part, but it's not the whole story. Roy has been explicit that the goal is to get more adults onto boards, not just watching them: she started a Facebook group for exactly that, and she teaches lessons for adults in Toronto — the same basic move a lot of the local organisers covered on this site have made: turn an online following into people showing up at a real park together.
 
-In 2023 she took that further and launched an annual skate retreat in Costa Rica, bringing adult skaters together for a trip built around the sport rather than around skating being a side activity on someone else's vacation. The exact format changes year to year, but the underlying idea is the same one behind every community effort worth copying: give people a specific date and place to show up, and a lot of them will.
+In 2023 she took that further and launched an annual skate retreat in Costa Rica, bringing adult skaters together for a trip built around the sport rather than around skating being a side activity on someone else's vacation. The 2026 edition was a week-long women's retreat with beginner lessons built into the schedule. The underlying idea is the same one behind every community effort worth copying: give people a specific date and place to show up, and a lot of them will.
 
 ## What her story actually proves
 
@@ -2754,29 +2754,33 @@ If your knee is telling you something specific, listen to what it's actually say
 
 
 ### LA 2028 Is Two Years Away. Here's What It Could Mean for You
-Skateboarding just became a permanent Olympic sport starting at LA 2028. What that shift, and Paris's own skatepark legacy, mean for adult skaters.
+Skateboarding is on LA 2028's core Olympic programme for the first time. What that shift, and Paris's own skatepark legacy, mean for adult skaters.
 
-The Los Angeles Olympics are scheduled for the summer of 2028, with skateboarding events set for July 18–27 of that year. Two years out feels early to care about an Olympics post, but it's actually the right time to pay attention — because what happens in the next two years, not the two weeks of the Games themselves, is what will actually affect your local park.
+The Los Angeles Olympics run July 14–30, 2028, with the four skateboarding events — men's and women's street and park — scheduled for July 18–27. Two years out feels early to care about an Olympics post, but it's actually the right time to pay attention — because what happens in the next two years, not the two weeks of the Games themselves, is what will actually affect your local park.
 
 I've [written before](/blog/how-the-olympics-changed-skatepark-culture/) about how skateboarding's Olympic debut in Tokyo changed the culture around parks — less gatekeeping, more acceptance of visible beginners. LA 2028 is a different kind of inflection point, and it's worth understanding what's actually confirmed versus what's still just hope.
 
-## Skateboarding just stopped being a guest sport
+## Skateboarding is no longer a guest sport
 
-Tokyo 2020 introduced skateboarding to the Olympics as a new addition. Paris 2024 kept it on the program, which still wasn't a sure thing at the time. What's changed since then is bigger than either of those individual Games: World Skate has confirmed that skateboarding is now part of the permanent Olympic event schedule starting with LA 2028, rather than something that gets re-voted onto the program cycle by cycle.
+Tokyo 2020 and Paris 2024 both had skateboarding because the host city asked for it: under the IOC's rules, each organising committee can propose a handful of extra sports for its own Games, and both cities picked skateboarding. LA 2028 is different. In February 2022 the IOC Session voted skateboarding, surfing and sport climbing onto LA28's core programme of 28 sports — the list the IOC itself sets, rather than the host's wish list. World Skate, the sport's governing body, called it skateboarding becoming "a fully-fledged permanent Olympic sport."
 
-That distinction matters more than it sounds. A sport that might get dropped after one more Games is a hard thing for a national federation, a city parks department, or a sponsor to build multi-year plans around. A sport that's locked in long-term is a much easier thing to invest in. Permanent status doesn't guarantee a single new park gets built, but it's the kind of structural change that tends to make longer-term investment conversations easier to have.
+One honest caveat on that word "permanent": the IOC said at the time that no sport is a permanent addition, and the programme is still approved Games by Games. Brisbane 2032's sport list hasn't been decided yet, and IOC president Kirsty Coventry has said it will be shorter than LA28's. So the accurate version is that skateboarding has moved from the host's optional pick to the IOC's own list, which is a real promotion even if it isn't a guarantee.
+
+That distinction matters more than it sounds. A sport that might get dropped after one more Games is a hard thing for a national federation, a city parks department, or a sponsor to build multi-year plans around. A sport on the core list is a much easier thing to invest in. Core status doesn't guarantee a single new park gets built, but it's the kind of structural change that tends to make longer-term investment conversations easier to have.
 
 ## What Paris actually left behind
 
-It's worth looking at what the last host city actually did, because "Olympic legacy" promises are easy to make and often modest in practice. For the Paris Games, a temporary skatepark called the Saint-Gobain Skate Game — about 400 square metres of 3D-printed concrete modules, built to resemble a giant pinball machine — went up on the Esplanade de La Défense for the duration of the competition.
+It's worth looking at what the last host city actually did, because "Olympic legacy" promises are easy to make and often modest in practice. For the Paris Games, a temporary skatepark called the Saint-Gobain Skate Game — about 400 square metres of 3D-printed concrete modules, laid out to resemble a giant pinball machine — went up on the Esplanade de La Défense from July 18 to August 11, 2024.
 
-As part of Paris 2024's official legacy program, the plan was to relocate that equipment after the Games to a park in Puteaux, roughly doubling the size of a park that was already there and making the new modules usable by skaters and scooter riders together. That's a real, concrete outcome of hosting the Games — and it's also a useful calibration for expectations. One city got one expanded park out of it, not a nationwide wave of new construction. "Legacy" projects tend to be real but limited in scale, and it's worth knowing that going in rather than expecting a skatepark boom to simply appear.
+As part of Paris 2024's official legacy programme, Saint-Gobain donated the modules to the neighbouring town of Puteaux, and after the Games they were moved to the Île de Puteaux to sit alongside the existing skatepark there — a roughly 500-square-metre extension the town said would about double the area, free to use and open to skaters, scooter riders and roller skaters alike. That's a real, concrete outcome of hosting the Games — and it's also a useful calibration for expectations. One town got one expanded park out of it, not a nationwide wave of new construction. "Legacy" projects tend to be real but limited in scale, and it's worth knowing that going in rather than expecting a skatepark boom to simply appear.
 
 ## What's actually committed in LA so far
 
-On the LA side, the clearest funding commitment isn't skatepark-specific. As part of its agreement with the city, the LA28 organizing committee pledged up to $160 million toward youth sports programming aimed at improving access to sport generally for the city's young people — not new skatepark construction specifically. LA28 itself has pointed to the existing Venice Beach Skatepark as an example of the kind of youth-access legacy it's aiming for, which tells you the model is "support what's already working" as much as "build something new."
+The competition venue is settled, and it's temporary. LA28's venue plan, approved by the IOC in April 2025, puts both skateboarding disciplines at the Sepulveda Basin Recreation Area in the San Fernando Valley, on a purpose-built open-air course shared with BMX. Like Paris's, it's not a park that will still be there for you in 2029 — so the venue itself isn't the legacy, and anything that is will have to come from somewhere else.
 
-As of now, there's no publicly confirmed, dedicated skateboarding competition venue location locked in for the Games. That piece is still being worked out. None of this is a reason for cynicism — it's a reason to treat the next two years as the actual window that matters, rather than waiting for the opening ceremony to see what shows up.
+The clearest funding commitment, meanwhile, isn't skatepark-specific. Under its agreement with the city, LA28 pledged up to $160 million toward youth sports programming — the money behind the city's PlayLA scheme, which runs low-cost seasons in Olympic and Paralympic sports, skateboarding and adaptive skateboarding included, for kids aged 3 to 17. The example LA28 keeps returning to in its own storytelling is the existing Venice Beach Skatepark: Sky Brown built her version of the LA28 emblem around her favourite spot there. That tells you the model is "support what's already working" as much as "build something new."
+
+None of this is a reason for cynicism — it's a reason to treat the next two years as the actual window that matters, rather than waiting for the opening ceremony to see what shows up.
 
 ## What this means for you, starting now
 
@@ -2786,7 +2790,7 @@ That's the actual opening for adult skaters, in LA or in any city hoping to ride
 
 ## The realistic takeaway
 
-LA 2028 is a genuine milestone for the sport — skateboarding's move to a permanent spot on the Olympic program is bigger than most of the headlines around it suggest. But an Olympics happening nearby is a spotlight, not a guarantee. Paris turned its spotlight into one meaningfully bigger park. What LA turns its spotlight into, and whether any of it reaches the kind of park that actually works for a returning 45-year-old, depends a lot on who shows up to ask for it over the next two years. That can be you.
+LA 2028 is a genuine milestone for the sport — skateboarding's move onto the IOC's own programme is bigger than most of the headlines around it suggest. But an Olympics happening nearby is a spotlight, not a guarantee. Paris turned its spotlight into one meaningfully bigger park. What LA turns its spotlight into, and whether any of it reaches the kind of park that actually works for a returning 45-year-old, depends a lot on who shows up to ask for it over the next two years. That can be you.
 
 
 ### What Surfing and Cycling Comebacks Teach Us About Returning to Skating

@@ -14,9 +14,9 @@ If you've spent any time in adult-skater corners of the internet, you've probabl
 
 ## Who she actually is
 
-Oorbee Roy is a mother of two from Toronto who took her first skateboarding lesson at 43. She started posting about the experience online not long after, under the name Aunty Skates — a deliberate riff on the "aunty" figure from South Asian culture, the older woman who's supposed to have already settled into a fixed, sensible role by this point in life. Filming herself learning to skate, often in traditional Indian dress, was the joke and the point at the same time: here's an aunty doing the opposite of what an aunty is supposed to do.
+Oorbee Roy is a mother of two from Toronto who started taking skateboarding lessons at 43, after watching her family skate. She's said she was probably the oldest person in the class and that it took her about six months to feel comfortable on the board. In February 2021 she started posting the process on TikTok under the name Aunty Skates — a deliberate riff on the "aunty" figure from South Asian culture, the older woman who's supposed to have already settled into a fixed, sensible role by this point in life. Filming herself learning to skate, often in traditional Indian dress, was the joke and the point at the same time: here's an aunty doing the opposite of what an aunty is supposed to do.
 
-It worked. Her following has climbed steadily for years, and by the Globe and Mail's recent count she's well past 185,000 followers on TikTok — a number that's grown from the low six figures over the past couple of years as the account kept finding new audiences. Numbers aside, the actual substance of her content has stayed consistent the whole time: a grown woman, visibly still learning, having fun doing it in public.
+It worked. The clip that broke the account open was one her kids filmed at a Toronto park of her clearing a bowl in a purple sari; it went viral, and she passed 100,000 followers within four months of starting. The growth has been slower since but it hasn't stopped: by the time the Globe and Mail profiled her in April 2025, when she was 50, she was past 185,000 TikTok followers. Numbers aside, the actual substance of her content has stayed consistent the whole time: a grown woman, visibly still learning, having fun doing it in public.
 
 ## Why the sari matters as much as the skating
 
@@ -26,9 +26,9 @@ That's directly useful to anyone reading a site called Concrete Comeback. A lot 
 
 ## From videos to an actual community
 
-The TikTok following is the visible part, but it's not the whole story. Roy also started a Facebook group aimed at encouraging more adults to actually try skateboarding rather than just watch it, and she hosts skating events for adults in the Toronto area — the same basic move a lot of the local organisers covered on this site have made: turn an online following into people showing up at a real park together.
+The TikTok following is the visible part, but it's not the whole story. Roy has been explicit that the goal is to get more adults onto boards, not just watching them: she started a Facebook group for exactly that, and she teaches lessons for adults in Toronto — the same basic move a lot of the local organisers covered on this site have made: turn an online following into people showing up at a real park together.
 
-In 2023 she took that further and launched an annual skate retreat in Costa Rica, bringing adult skaters together for a trip built around the sport rather than around skating being a side activity on someone else's vacation. The exact format changes year to year, but the underlying idea is the same one behind every community effort worth copying: give people a specific date and place to show up, and a lot of them will.
+In 2023 she took that further and launched an annual skate retreat in Costa Rica, bringing adult skaters together for a trip built around the sport rather than around skating being a side activity on someone else's vacation. The 2026 edition was a week-long women's retreat with beginner lessons built into the schedule. The underlying idea is the same one behind every community effort worth copying: give people a specific date and place to show up, and a lot of them will.
 
 ## What her story actually proves
 
