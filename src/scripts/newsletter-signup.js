@@ -54,23 +54,44 @@ export function shouldHideOnEscape(event, activeElement, panel) {
   return true;
 }
 
+// The GA4 stream that GTM's Google tag sends page views to (see CLAUDE.md).
+const GA4_MEASUREMENT_ID = 'G-VYW5FDDX52';
+
 // Two sinks on purpose. The dataLayer push is the GTM channel, but it only
 // reaches GA4 once someone adds a custom-event trigger per event name in the
 // GTM UI, and none exist — so every signup event has been invisible in GA4
-// since launch. `gtag` is defined by the container's own GA4 config tag, and
-// events sent through it land in GA4 with no trigger configuration at all.
+// since launch. The `gtag` command is the route that needs no GTM changes.
+// Do not also route these names through a GTM GA4 event tag while this direct
+// `gtag` call remains, or every signup event is counted twice.
+//
+// Analytics is best-effort, and each sink is guarded on its own: a broken
+// dataLayer or a throwing gtag (a blocked, half-loaded or replaced Google tag)
+// must neither cost the other sink its event nor reach the caller, where it
+// would stop a signup being sent or undo the pending state after one was.
 function track(event, source) {
-  window.dataLayer = window.dataLayer || [];
-  window.dataLayer.push(source ? { event, newsletter_source: source } : { event });
-  // GTM's own GA4 tag does not create a page-level `gtag`, so define the
-  // canonical wrapper rather than testing for one. It must push the raw
-  // `arguments` object: that is the shape gtag.js reads commands in, and an
-  // array is ignored. When the Google tag is live the command reaches GA4;
-  // when it is not, the push is inert.
-  if (typeof window.gtag !== 'function') {
-    window.gtag = function gtag() { window.dataLayer.push(arguments); };
-  }
-  window.gtag('event', event, source ? { newsletter_source: source } : {});
+  try {
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push(source ? { event, newsletter_source: source } : { event });
+  } catch (_error) {}
+  try {
+    // GTM's own GA4 tag does not create a page-level `gtag`, so define the
+    // canonical wrapper rather than testing for one. It must push the raw
+    // `arguments` object: that is the shape gtag.js reads commands in, and an
+    // array is ignored. When the Google tag is live the command reaches GA4;
+    // when it is not, the push is inert.
+    if (typeof window.gtag !== 'function') {
+      window.gtag = function gtag() { window.dataLayer.push(arguments); };
+    }
+    // `send_to` is not optional. With no page-level `gtag('config', …)` there is
+    // no default destination, and on production an event without it creates no
+    // collect request at all (page_view and scroll, sent by GTM's own tag, are
+    // unaffected). Naming the stream routes it without adding a second config —
+    // which would double-count page views. Never put the visitor's address or
+    // any other personal data in these parameters.
+    const params = { send_to: GA4_MEASUREMENT_ID };
+    if (source) params.newsletter_source = source;
+    window.gtag('event', event, params);
+  } catch (_error) {}
 }
 
 export function initNewsletterSignup(panel) {
@@ -216,6 +237,39 @@ export function showCompletedState(panel, state) {
   }
 }
 
+// The inline CTA's counterpart to `newsletter_popup_shown`. Being in the HTML
+// is not being seen — on a long post the form is far below the fold — so the
+// impression waits until at least half of the live form is on screen, counts
+// once, and lets the observer go. A form that has stood down (hidden) never
+// counts, and any signup on the page stops the observer before it can. Without
+// IntersectionObserver there is no honest signal, so nothing is counted; the
+// form itself works either way.
+const INLINE_VISIBLE_RATIO = 0.5;
+
+function trackInlineImpression(form, source) {
+  if (typeof IntersectionObserver !== 'function') return;
+  let done = false;
+  // The threshold only schedules callbacks: the browser also calls back once on
+  // observe(), and isIntersecting is true for a sliver or even an edge-adjacent
+  // form. Only the reported ratio says the form is half on screen.
+  const halfOnScreen = (entry) => entry.target === form
+    && entry.isIntersecting
+    && entry.intersectionRatio >= INLINE_VISIBLE_RATIO;
+  const observer = new IntersectionObserver((entries) => {
+    if (done || form.hidden || !entries.some(halfOnScreen)) return;
+    stop();
+    track('newsletter_inline_shown', source);
+  }, { threshold: INLINE_VISIBLE_RATIO });
+  const stop = () => {
+    done = true;
+    observer.disconnect();
+    document.removeEventListener(SIGNUP_EVENT, stop);
+  };
+  // Fired for this form's own signup as well as another CTA's.
+  document.addEventListener(SIGNUP_EVENT, stop);
+  observer.observe(form);
+}
+
 export function initInlineNewsletterSignup(panel) {
   const storage = getStorage();
   const state = signupCompletionState(storage);
@@ -226,9 +280,11 @@ export function initInlineNewsletterSignup(panel) {
   // A page can mount both CTAs, so the one that wasn't submitted has to be told:
   // neither reads storage again after init, and leaving a live form next to
   // "check your inbox" invites a duplicate submission.
-  bindNewsletterForm(panel, {
+  const source = 'in_post';
+  if (!bindNewsletterForm(panel, {
     storage,
-    source: 'in_post',
+    source,
     onOtherSignup: () => showCompletedState(panel, 'pending'),
-  });
+  })) return;
+  trackInlineImpression(panel.querySelector('form'), source);
 }
