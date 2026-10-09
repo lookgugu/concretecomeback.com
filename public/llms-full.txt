@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-08T14:29:10.172Z
+# Date: 2026-10-09T09:16:53.037Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -349,6 +349,46 @@ There's no fixed calendar date for "cleared to skate" — it's criteria-based, n
 Even once you meet those, ease back in on flat ground and easy pushing before you go near a transition or anything that demands a quick, unplanned direction change — that's exactly the movement a healing ankle is worst prepared for.
 
 Skating through a sprained ankle because it "feels mostly fine" is how a two-week injury becomes a recurring one. Respect the grade, do the proprioception work most people skip, and the ankle that rolled once doesn't have to be the ankle that keeps rolling.
+
+
+### Meet Aunty Skates: The TikToker Who Built a Global Adult Skate Scene
+Oorbee Roy learned to skateboard at 43 in a sari and built a six-figure TikTok following as Aunty Skates. Here's her story, and what it proves.
+
+If you've spent any time in adult-skater corners of the internet, you've probably already seen her: a woman in her 40s, skating in a sari, going by "Aunty Skates." If you haven't, it's worth an introduction, because her story is one of the clearest proof points I know of that this comeback thing you're doing isn't a niche curiosity. It's a real, growing, public movement — and she's one of the people who made it visible.
+
+## Who she actually is
+
+Oorbee Roy is a mother of two from Toronto who took her first skateboarding lesson at 43. She started posting about the experience online not long after, under the name Aunty Skates — a deliberate riff on the "aunty" figure from South Asian culture, the older woman who's supposed to have already settled into a fixed, sensible role by this point in life. Filming herself learning to skate, often in traditional Indian dress, was the joke and the point at the same time: here's an aunty doing the opposite of what an aunty is supposed to do.
+
+It worked. Her following has climbed steadily for years, and by the Globe and Mail's recent count she's well past 185,000 followers on TikTok — a number that's grown from the low six figures over the past couple of years as the account kept finding new audiences. Numbers aside, the actual substance of her content has stayed consistent the whole time: a grown woman, visibly still learning, having fun doing it in public.
+
+## Why the sari matters as much as the skating
+
+It would be easy to read this as a novelty act — skater in traditional dress, good for a scroll-stopping clip — but that undersells what's actually going on. The outfit is the whole argument compressed into one image: skateboarding and "aunty" are not supposed to belong in the same frame, and every video where they do chips away at that assumption a little more.
+
+That's directly useful to anyone reading a site called Concrete Comeback. A lot of the hesitation adults feel about starting or returning to skating isn't really about balance or fear of falling — it's about whether this activity is "for" someone like them. Roy's entire platform is built on answering that question in public, one clip at a time, for an audience that includes a lot of people who look like her and are exactly her age.
+
+## From videos to an actual community
+
+The TikTok following is the visible part, but it's not the whole story. Roy also started a Facebook group aimed at encouraging more adults to actually try skateboarding rather than just watch it, and she hosts skating events for adults in the Toronto area — the same basic move a lot of the local organisers covered on this site have made: turn an online following into people showing up at a real park together.
+
+In 2023 she took that further and launched an annual skate retreat in Costa Rica, bringing adult skaters together for a trip built around the sport rather than around skating being a side activity on someone else's vacation. The exact format changes year to year, but the underlying idea is the same one behind every community effort worth copying: give people a specific date and place to show up, and a lot of them will.
+
+## What her story actually proves
+
+None of this required Roy to be exceptional at skateboarding. Watch her content and you'll see someone who is visibly still a learner, still building basic tricks, still figuring things out — and that's exactly why it resonates with the audience it does. She didn't wait to get good before she started sharing the process. The sharing and the learning happened at the same time, in public, which is a much harder and much more honest thing to do than waiting until you've "arrived" to say anything about it.
+
+That's a useful model whether or not you have any interest in posting your own skating online. The lesson isn't "build a following." It's that visible, ongoing beginnerhood — the thing a lot of adults are most afraid of — is exactly what built an audience of hundreds of thousands of people who wanted to see themselves in it. Nobody was waiting for her to be impressive. They were waiting to see someone like them try.
+
+## Finding your own version of this
+
+You don't need 185,000 followers to get the benefit of what Roy built. You need a handful of accounts and groups that remind you people your age are actually doing this, and ideally a local version of the same thing — a session, a group chat, a standing Sunday meetup.
+
+If you haven't already, start by [finding other adult skaters](/blog/finding-other-adult-skaters/) near you, and look at what a community can grow into once it's organised, the way [Board Women](/blog/board-women-midlife-community/) did at scale in the UK. Following Aunty Skates and accounts like hers is a fine place to start feeling less alone in this. Showing up somewhere local, even just once, is what actually turns that feeling into a skating life.
+
+## The part worth remembering
+
+Oorbee Roy didn't get a following by hiding the beginner parts. She got one by showing them, consistently, at an age and in an outfit nobody expected to see on a skateboard. If you're sitting on the sidelines of your own comeback because you don't feel ready to be seen doing this yet, her whole platform is built on the opposite bet — and it paid off.
 
 
 ### Autumn Skating: The Hazards That Catch Adult Returners Off Guard
@@ -2711,6 +2751,42 @@ Whichever type you land on, a brace that slips down mid-session or bunches behin
 It means you've identified a specific issue and you're managing it deliberately, the same as choosing softer wheels for a bad back or a helmet with a better fit. It doesn't mean your comeback has an expiration date. Plenty of skaters in their 40s, 50s, and well beyond wear a brace every session and have no plans to stop skating because of it — the brace is what's letting them keep going, not a sign that they shouldn't be.
 
 If your knee is telling you something specific, listen to what it's actually saying before you reach for a product. A sleeve, a hinge, or an unloader each solve a different problem, and matching the tool to the actual issue is what makes any of them worth wearing.
+
+
+### LA 2028 Is Two Years Away. Here's What It Could Mean for You
+Skateboarding just became a permanent Olympic sport starting at LA 2028. What that shift, and Paris's own skatepark legacy, mean for adult skaters.
+
+The Los Angeles Olympics are scheduled for the summer of 2028, with skateboarding events set for July 18–27 of that year. Two years out feels early to care about an Olympics post, but it's actually the right time to pay attention — because what happens in the next two years, not the two weeks of the Games themselves, is what will actually affect your local park.
+
+I've [written before](/blog/how-the-olympics-changed-skatepark-culture/) about how skateboarding's Olympic debut in Tokyo changed the culture around parks — less gatekeeping, more acceptance of visible beginners. LA 2028 is a different kind of inflection point, and it's worth understanding what's actually confirmed versus what's still just hope.
+
+## Skateboarding just stopped being a guest sport
+
+Tokyo 2020 introduced skateboarding to the Olympics as a new addition. Paris 2024 kept it on the program, which still wasn't a sure thing at the time. What's changed since then is bigger than either of those individual Games: World Skate has confirmed that skateboarding is now part of the permanent Olympic event schedule starting with LA 2028, rather than something that gets re-voted onto the program cycle by cycle.
+
+That distinction matters more than it sounds. A sport that might get dropped after one more Games is a hard thing for a national federation, a city parks department, or a sponsor to build multi-year plans around. A sport that's locked in long-term is a much easier thing to invest in. Permanent status doesn't guarantee a single new park gets built, but it's the kind of structural change that tends to make longer-term investment conversations easier to have.
+
+## What Paris actually left behind
+
+It's worth looking at what the last host city actually did, because "Olympic legacy" promises are easy to make and often modest in practice. For the Paris Games, a temporary skatepark called the Saint-Gobain Skate Game — about 400 square metres of 3D-printed concrete modules, built to resemble a giant pinball machine — went up on the Esplanade de La Défense for the duration of the competition.
+
+As part of Paris 2024's official legacy program, the plan was to relocate that equipment after the Games to a park in Puteaux, roughly doubling the size of a park that was already there and making the new modules usable by skaters and scooter riders together. That's a real, concrete outcome of hosting the Games — and it's also a useful calibration for expectations. One city got one expanded park out of it, not a nationwide wave of new construction. "Legacy" projects tend to be real but limited in scale, and it's worth knowing that going in rather than expecting a skatepark boom to simply appear.
+
+## What's actually committed in LA so far
+
+On the LA side, the clearest funding commitment isn't skatepark-specific. As part of its agreement with the city, the LA28 organizing committee pledged up to $160 million toward youth sports programming aimed at improving access to sport generally for the city's young people — not new skatepark construction specifically. LA28 itself has pointed to the existing Venice Beach Skatepark as an example of the kind of youth-access legacy it's aiming for, which tells you the model is "support what's already working" as much as "build something new."
+
+As of now, there's no publicly confirmed, dedicated skateboarding competition venue location locked in for the Games. That piece is still being worked out. None of this is a reason for cynicism — it's a reason to treat the next two years as the actual window that matters, rather than waiting for the opening ceremony to see what shows up.
+
+## What this means for you, starting now
+
+Nothing about an Olympics happening in a city automatically improves the park down the street from you, in LA or anywhere else. What does tend to happen in the run-up to a host city's Games is a wave of public input processes around parks and recreation — meetings, surveys, advisory commissions — as cities look for projects to point to as part of their Games story.
+
+That's the actual opening for adult skaters, in LA or in any city hoping to ride the same wave of attention. If there's a parks and recreation commission or a skate advocacy group near you, this is a good two-year window to show up and ask for the specific things that make a park work for adults: [mellow entry slopes, beginner zones, good lighting, and smooth surfaces](/blog/inclusive-skateparks-all-ages/), not just headline features aimed at drawing elite competition. Advocacy lands much better before a design is finalized than after a ribbon-cutting.
+
+## The realistic takeaway
+
+LA 2028 is a genuine milestone for the sport — skateboarding's move to a permanent spot on the Olympic program is bigger than most of the headlines around it suggest. But an Olympics happening nearby is a spotlight, not a guarantee. Paris turned its spotlight into one meaningfully bigger park. What LA turns its spotlight into, and whether any of it reaches the kind of park that actually works for a returning 45-year-old, depends a lot on who shows up to ask for it over the next two years. That can be you.
 
 
 ### What Surfing and Cycling Comebacks Teach Us About Returning to Skating
