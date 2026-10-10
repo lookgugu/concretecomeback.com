@@ -259,6 +259,11 @@
     "lng": -94.2088,
     "source": "Bentonville, Benton County, Arkansas, United States"
   },
+  "US|california|berkeley": {
+    "lat": 37.8708,
+    "lng": -122.2729,
+    "source": "Berkeley, Alameda County, California, United States"
+  },
   "US|california|carlsbad": {
     "lat": 33.1581,
     "lng": -117.3506,
@@ -273,6 +278,11 @@
     "lat": 34.0537,
     "lng": -118.2428,
     "source": "Los Angeles, Los Angeles County, California, United States"
+  },
+  "US|california|sacramento": {
+    "lat": 38.5811,
+    "lng": -121.4939,
+    "source": "Sacramento, Sacramento County, California, United States"
   },
   "US|california|san diego": {
     "lat": 32.7157,
@@ -323,6 +333,11 @@
     "lat": 25.7742,
     "lng": -80.1936,
     "source": "Miami, Miami-Dade County, Florida, United States"
+  },
+  "US|florida|orlando": {
+    "lat": 28.5421,
+    "lng": -81.379,
+    "source": "Orlando, Orange County, Florida, United States"
   },
   "US|florida|tampa": {
     "lat": 27.945,
@@ -413,6 +428,11 @@
     "lat": 42.2814,
     "lng": -83.7485,
     "source": "Ann Arbor, Washtenaw County, Michigan, United States"
+  },
+  "US|michigan|detroit": {
+    "lat": 42.3316,
+    "lng": -83.0466,
+    "source": "Detroit, Wayne County, Michigan, United States"
   },
   "US|michigan|grand rapids": {
     "lat": 42.9632,
@@ -514,6 +534,11 @@
     "lng": -78.7812,
     "source": "Cary, Wake County, North Carolina, United States"
   },
+  "US|north carolina|raleigh": {
+    "lat": 35.7804,
+    "lng": -78.6391,
+    "source": "Raleigh, Wake County, North Carolina, United States"
+  },
   "US|north dakota|fargo": {
     "lat": 46.8772,
     "lng": -96.7898,
@@ -579,6 +604,16 @@
     "lng": -79.9399,
     "source": "Charleston, Charleston County, South Carolina, United States"
   },
+  "US|south dakota|sioux falls": {
+    "lat": 43.5476,
+    "lng": -96.7294,
+    "source": "Sioux Falls, Sioux Falls Township, Minnehaha County, South Dakota, United States"
+  },
+  "US|tennessee|memphis": {
+    "lat": 35.146,
+    "lng": -90.0518,
+    "source": "Memphis, Shelby County, West Tennessee, Tennessee, United States"
+  },
   "US|tennessee|nashville": {
     "lat": 36.1623,
     "lng": -86.7743,
@@ -598,6 +633,11 @@
     "lat": 33.0137,
     "lng": -96.6925,
     "source": "Plano, Collin County, Texas, United States"
+  },
+  "US|texas|san antonio": {
+    "lat": 29.4246,
+    "lng": -98.4951,
+    "source": "San Antonio, Bexar County, Texas, United States"
   },
   "US|texas|south houston": {
     "lat": 29.663,
@@ -624,10 +664,20 @@
     "lng": -122.3301,
     "source": "Seattle, King County, Washington, United States"
   },
+  "US|west virginia|wheeling": {
+    "lat": 40.064,
+    "lng": -80.7209,
+    "source": "Wheeling, Ohio County, West Virginia, 26003, United States"
+  },
   "US|wisconsin|madison": {
     "lat": 43.0747,
     "lng": -89.3842,
     "source": "Madison, Dane County, Wisconsin, United States"
+  },
+  "US|wyoming|jackson": {
+    "lat": 43.48,
+    "lng": -110.7618,
+    "source": "Jackson, Teton County, Wyoming, United States"
   },
   "AU": {
     "lat": -33.5878,
@@ -645,8 +695,8 @@
     "source": "derived: mean of 18 listed UK cities"
   },
   "US": {
-    "lat": 38.7039,
-    "lng": -93.3087,
-    "source": "derived: mean of 79 listed US cities"
+    "lat": 38.566,
+    "lng": -93.6514,
+    "source": "derived: mean of 89 listed US cities"
   }
 }
