@@ -12,7 +12,7 @@ draft: false
 
 Ask most adult skaters which joints worry them and you'll hear wrists, ankles, knees, maybe hips. Shoulders almost never come up — until a bad fall catches one wrong, and suddenly it's the joint that won't let you lift a coffee cup the next morning.
 
-That silence is the problem. Every other major joint skating stresses has its own guide on this site. The shoulder doesn't, despite being one of the joints most likely to take the full force of a fall you didn't manage to roll out of.
+That silence is the problem. Wrists, ankles, hips and knees each get their own attention on this site. The shoulder doesn't, despite being one of the joints most likely to take the full force of a fall you didn't manage to roll out of.
 
 ## Why the shoulder takes the hit
 
@@ -22,7 +22,7 @@ The shoulder is really a group of structures working together: the rotator cuff 
 
 ## Why this matters more at 40+ than it did at 20
 
-Rotator cuff tendons lose some of their elasticity and blood supply with age, the same way other connective tissue does. If you played overhead sports — swimming, tennis, throwing sports, even years of manual work — your shoulder may already be carrying wear you're not aware of until it's tested by an unplanned fall. None of that means your shoulder is fragile. It means it benefits from the same proactive attention you'd give an ankle with an old sprain in it.
+The blood supply to the rotator cuff tendons declines with age, and the tendons show more wear: ultrasound surveys of people with no shoulder symptoms at all find partial and full-thickness cuff tears becoming steadily more common from the fifties onward. If you played overhead sports — swimming, tennis, throwing sports, even years of manual work — your shoulder may already be carrying wear you're not aware of until it's tested by an unplanned fall. None of that means your shoulder is fragile. It means it benefits from the same proactive attention you'd give an ankle with an old sprain in it.
 
 ## Prehab, not rehab
 
@@ -30,7 +30,7 @@ The goal isn't to wait for an injury and then fix it — it's to build enough st
 
 **Band external rotations.** Anchor a light resistance band at elbow height, elbow bent 90 degrees and tucked at your side, and rotate your forearm outward against the band. Ten to fifteen slow reps, each side. This targets the rotator cuff muscles directly and is the single most useful exercise here.
 
-**Scaption raises.** Holding light weights or nothing at all, raise your arms at a 30-degree angle from your sides (between a front raise and a side raise) up to shoulder height and back down. This works the muscles that stabilize your shoulder blade, which most people never train directly.
+**Scaption raises.** Holding light weights or nothing at all, raise your arms to shoulder height and back down in the "scapular plane" — about 30 degrees forward of a straight side raise — with your thumbs pointing up. That plane is where the rotator cuff works under the least stress, and the thumbs-up position targets the supraspinatus, the cuff tendon most often torn, without the pinching that a thumbs-down "empty can" raise can cause.
 
 **Wall slides.** Stand with your back against a wall, arms bent in a goalpost shape, backs of your hands and elbows touching the wall. Slide your arms up overhead and back down while keeping contact with the wall. This builds overhead mobility without loading the joint.
 

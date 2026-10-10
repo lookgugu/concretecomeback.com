@@ -1,6 +1,6 @@
 ---
 title: "Stuck at the Same Trick for Months? How to Break the Adult Plateau"
-description: "The 6-to-18-month skill plateau is almost universal for adult returners. Here's what actually breaks it, not just patience."
+description: "The skill plateau a few months into a comeback is almost universal for adult returners. Here's what actually breaks it, not just patience."
 pubDate: 2026-10-10
 author: "Marcus Webb"
 authorAge: 47
@@ -16,9 +16,9 @@ If you've been stuck on the same trick for weeks — not failing it outright, ju
 
 ## Why the plateau happens to everyone
 
-Motor learning tends to move through three rough stages. Early on, every rep takes conscious thought — you're mentally narrating each part of the motion. In the middle stage, the movement starts linking together and needs less deliberate attention, but it's still inconsistent. In the final stage, the movement runs mostly on autopilot, which is what "muscle memory" actually is.
+Motor learning tends to move through three rough stages — cognitive, associative and autonomous, in the classic model Paul Fitts and Michael Posner described in the 1960s. Early on, every rep takes conscious thought — you're mentally narrating each part of the motion. In the middle stage, the movement starts linking together and needs less deliberate attention, but it's still inconsistent. In the final stage, the movement runs mostly on autopilot, which is what "muscle memory" actually is.
 
-The plateau sits squarely in that middle stage, and it's where adults get stuck longer than teenagers do, for two compounding reasons. First, adult nervous systems take more reps to automate a new movement pattern than a teenager's — the raw learning curve is simply longer. Second, adults overthink. Years of being rewarded for analyzing problems consciously work against you here, because the middle stage of motor learning is exactly when you need to stop narrating the movement and let repetition do the automating instead.
+The plateau sits squarely in that middle stage, and it's where adults get stuck longer than teenagers do, for two compounding reasons. First, older adults generally need more practice than younger ones to make a complex movement consistent. Claudia Voelcker-Rehage's 2008 review of the motor-learning research found that the capacity to learn survives ageing intact, but the age gap in learning rate shows up most clearly on complex tasks — which is exactly what a new trick is. Second, adults overthink. Years of being rewarded for analyzing problems consciously work against you here, because the middle stage of motor learning is exactly when you need to stop narrating the movement and let repetition do the automating instead.
 
 Your brain hasn't lost the capacity to do this — [it hasn't stopped being able to learn tricks at 45](/blog/your-brain-at-45-can-still-learn-tricks/). It just needs a different approach than "try it more and hope," which is what most people default to and the main reason plateaus feel permanent when they're not.
 
