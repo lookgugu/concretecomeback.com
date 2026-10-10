@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-10T09:13:13.476Z
+# Date: 2026-10-10T09:16:45.060Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -3995,7 +3995,7 @@ A few months of consistent 15-minute sessions adds up to more actual practice ti
 If you're on the fence about whether you have time to get back into skating, you probably do. You just need fifteen minutes and a stretch of smooth pavement, not a whole free day.
 
 
-### Shoulder Health for Skaters Over 40: The Joint Nobody Talks About
+### Shoulder Prehab for Skaters Over 40: Building Stability Before You Need It
 Wrists, knees, hips, and ankles get the attention. Here's why shoulders deserve their own prehab plan, and how to build one.
 
 Ask most adult skaters which joints worry them and you'll hear wrists, ankles, knees, maybe hips. Shoulders almost never come up — until a bad fall catches one wrong, and suddenly it's the joint that won't let you lift a coffee cup the next morning.

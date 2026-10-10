@@ -1,5 +1,5 @@
 ---
-title: "Shoulder Health for Skaters Over 40: The Joint Nobody Talks About"
+title: "Shoulder Prehab for Skaters Over 40: Building Stability Before You Need It"
 description: "Wrists, knees, hips, and ankles get the attention. Here's why shoulders deserve their own prehab plan, and how to build one."
 pubDate: 2026-10-10
 author: "Jo Fairweather"
