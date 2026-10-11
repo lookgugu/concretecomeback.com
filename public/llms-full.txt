@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-11T09:13:48.783Z
+# Date: 2026-10-11T14:57:22.389Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -584,7 +584,7 @@ What it doesn't give you is variety. A single quarter-pipe or a small mini ramp 
 
 **A single quarter-pipe.** The simplest build: one ramp, one transition, usually 3 to 4 feet tall. It teaches pumping, basic airs, and rock-to-fakie, and it's small enough to fit against a garage wall or fence line. This is the right starting point for almost anyone building for the first time.
 
-**A mini ramp.** Two quarter-pipes facing each other with a flat bottom between them, built as a single connected structure. It lets you pump back and forth and carry speed the way a real ramp session feels, but it needs real floor space — figure on at least 16 to 20 feet of length once you include the flat bottom — and meaningfully more material, time, and money than a single quarter-pipe. Most adults building their first ramp are better served starting with a quarter-pipe and deciding later whether they want to commit to a mini ramp.
+**A mini ramp.** Two quarter-pipes facing each other with a flat bottom between them, built as a single connected structure. It lets you pump back and forth and carry speed the way a real ramp session feels, but it needs real floor space — figure on 20 feet or more of length once you include two transitions, two decks and the flat bottom — and meaningfully more material, time, and money than a single quarter-pipe. Most adults building their first ramp are better served starting with a quarter-pipe and deciding later whether they want to commit to a mini ramp.
 
 ## What it actually takes to build one safely
 
@@ -598,7 +598,9 @@ This is where people underestimate the project. A skateable ramp is a structural
 
 ## Cost and time, realistically
 
-Costs vary a lot by region, lumber prices, and whether you're buying new or scavenging materials, so treat any number you see online as a rough starting point rather than a quote. A small single quarter-pipe built from a basic plan is generally the cheapest version of this project; a proper mini ramp with a quality riding surface costs meaningfully more, mostly in surface material and the extra lumber for a second transition and flat bottom. Expect a first-time build to take a full weekend at minimum, longer if you're learning the framing as you go.
+Costs vary a lot by region, lumber prices, and whether you're buying new or scavenging materials, so treat any number you see online as a rough starting point rather than a quote. With that caveat, the published plans for a small single quarter-pipe — three or four feet tall, eight feet wide, surfaced in plywood — generally land somewhere around a few hundred dollars in materials, which makes it the cheapest version of this project by a wide margin.
+
+A proper mini ramp is a different budget. Most of the jump is the surface: as of autumn 2026, US ramp suppliers list a single 4-by-8-foot sheet of Skatelite at roughly $200 to $235, and an eight-foot-wide mini ramp needs six to eight of them, so the riding surface alone is well over $1,000 before you've bought a single 2x4. Add the framing lumber for a second transition and a flat bottom, plus screws, coping and whatever your pressure-treated base costs locally, and a well-built outdoor mini ramp is a four-figure project. Plywood instead of Skatelite brings it down considerably, which is why the covered-or-indoor question matters so much to the price. Expect a first-time build to take a full weekend at minimum, longer if you're learning the framing as you go.
 
 Before you buy anything, check two things that have nothing to do with carpentry: your local permitting rules for permanent backyard structures above a certain height, and whether your homeowner's insurance has anything to say about a structure built specifically for falling off of. Neither takes long to check, and both can save you a genuinely bad surprise later.
 
@@ -1068,40 +1070,58 @@ Beyond the physical overlap, skating has some practical advantages that make it 
 Resist the urge to skip the fundamentals because you're already fit. Spend real time on pushing, stance, and basic turns before chasing anything that looks like a trick — your balance and cardio will make this phase feel easy, which is exactly what tempts people to rush past it. Get a certified skate helmet and wrist guards — non-negotiable from your very first session, whatever other sport made you fit for this one. Then drill falling on purpose before you're doing it for real — [our guide to falling safely after 40](/blog/how-to-fall-safely-after-40/) covers the technique — on grass or a real crash mat rather than pavement, starting from a crouch rather than full standing height, ideally with a coach or experienced skater walking you through it the first time. And treat your first few sessions as a different sport, not a variation on the one you already know. The overlap is real, but so is the learning curve, and respecting it is what turns a good crossover athlete into a good skater. If you've already done a midlife comeback in one of those other sports, [what surfing and cycling comebacks teach us about returning to skating](/blog/lessons-from-surfing-and-cycling-comebacks/) looks at what that experience does and doesn't prepare you for.
 
 
-### 50 Years In, Still an Amateur: What Darren Miles Gets Right
-Darren Miles took up skateboarding in 1977 and never went pro. At 60, he's representing Great Britain at the World Skate Games anyway.
+### 50 Years, Zero Sponsors: What Darren Miles Teaches Us
+Darren Miles, 60, is representing Great Britain at the World Skate Games. He's never been paid to skate. That's exactly what makes his story matter.
 
-Darren Miles, from Plymouth in the UK, first got on a skateboard in 1977, in Norfolk, as a kid. He's 60 now, has never been a professional skater, and this October he's representing Great Britain in slalom at the World Skate Games in Asunción, Paraguay — on a national team built from a mixture of professionals and amateurs, him included.
+Right now, in Asunción, Paraguay, a 60-year-old amateur from Plymouth is competing at the World Skate Games. His name is Darren Miles. He took up skateboarding around 1977. He has never been paid to skate, never had a sponsor, never had his name on a deck. He described his goals for this trip as: "to finish and not get disqualified."
 
-That last detail is the one worth sitting with. This site has covered plenty of remarkable skaters lately: [Andy Macdonald becoming the oldest Olympic skateboarder at 51](/blog/andy-macdonald-oldest-olympic-skateboarder/), [Judi Oyama still racing slalom at 66](/blog/judi-oyama-oldest-competitive-skateboarder/). Both are extraordinary athletes with decades of professional competition behind them. Miles isn't that, and his story is useful precisely because of it. He's an ordinary guy who kept skating, picked up a new discipline late, and ended up on a national team without ever having a sponsor, a pro career, or a plan to get there.
+He is representing Great Britain.
 
-## He didn't come back. He never fully left — and still had to relearn
+That combination — nearly 50 years on a board, no professional career to show for it, competing at the world level at 60 — is more useful to most people reading this site than any pro's story. Andy Macdonald trained in skateboarding from the age of 12, turned pro at 21, and won 23 X Games medals before showing up at an Olympic Games at 51. [Judi Oyama](/blog/judi-oyama-oldest-competitive-skateboarder/) has a Guinness record and has been competing professionally since 1976. Both are worth knowing about. Neither is a version of you.
 
-Miles isn't a returning-after-decades story in the usual sense: he'd kept some connection to skating since the 1970s. But by his own account, his fitness had slipped noticeably after COVID-19 lockdowns, and when he picked up slalom specifically — racing a cone course on a longboard, built around carving technique rather than vert or street tricks — it meant essentially relearning the sport from a standing start.
+Darren Miles might be.
 
-That's a more relatable starting point than it might sound. A lot of adults reading this site aren't true beginners either; they're carrying some old muscle memory and a body that doesn't match it anymore. Miles's version of dealing with that wasn't to wait until he felt ready. It was to pick a discipline suited to where his body actually was, and build from there.
+## The first fifty years
 
-## Why slalom, specifically
+Miles started in the late 1970s, the same golden-age moment that launched the careers of most of the icons in this sport — Alva, Adams, Caballero. Unlike those names, he didn't go pro. He kept skating through the lean years when skating wasn't cool, through whatever life put in the way, because skating is what he did. Sources place his origins at different spots in England — Essex, Norfolk — but the constant is the same: a kid who picked up a board and never fully put it down.
 
-Slalom rewards exactly the things an older body still has plenty of: balance, technique, reading a line, controlling speed through smooth weight transfer. It doesn't ask for the high-impact landings that vert and technical street skating do. [Judi Oyama's slalom career](/blog/judi-oyama-oldest-competitive-skateboarder/) makes the same point from the professional end of the sport — Miles is the amateur proof that the same logic works just as well for someone who picked it up as a hobby in their late fifties.
+That part isn't unusual. What's unusual is what he did when he noticed things changing.
 
-If your own comeback has you gravitating toward carving and flat-ground work rather than stairs and rails, Miles and Oyama are both evidence that this isn't a lesser version of skating. It's a legitimate discipline with its own ceiling, and that ceiling is a long way up.
+## The discipline pivot at 57
 
-## The point of competing without a sponsor
+Around 2020, Miles realised he was slowly losing his tricks. His body at 57 was no longer doing what his body at 37 had done. A lot of skaters reach this point and stop. Miles didn't stop — he changed disciplines.
 
-Most skating stories that make the news involve a record, a medal, or a career. Miles's story is simpler: he kept doing something he liked, improved enough at a new version of it to make a national team roster, and is going to a World Games as himself — not as a marketing story, not chasing a result that changes his life. He's going because he kept showing up.
+He moved to slalom skateboarding. Slalom is a timed racing event on a longboard, weaving a course of cones as tightly and quickly as possible. It's a discipline where technique, timing, and line-reading matter more than the specific athletic movements that decline fastest with age. The tricks aren't going anywhere. But the ability to read a course, carry speed efficiently, and shift your weight precisely from edge to edge — those compound with practice rather than erode with years.
 
-That's a genuinely different kind of motivation than the one usually on offer in sports media, and it's the one that actually applies to almost everyone reading this. You are extremely unlikely to ever need a sponsor, a pro model, or a Hall of Fame nomination to justify the hours you put into skating. Miles's trip to Paraguay is proof that the sport will still make room for you, and take you seriously, without any of that.
+It's the same insight that runs through [Judi Oyama's career](/blog/judi-oyama-oldest-competitive-skateboarder/) and through this site's own argument for why [bowls and transitions tend to suit adult returners better than stairs and rails](/blog/why-bowls-beat-street-for-adult-returners/). You don't have to stop skating when your body changes. You have to be willing to find the part of skating that your changing body can still do well — and then get good at that instead.
 
-## What actually transfers to your comeback
+Miles was 57 or 58 when he made that call. Within a few years he was competing at domestic slalom events, appearing in UK Slalom Skateboard Association results from 2022 and 2023. Then, this year, he qualified for Great Britain's squad for the World Skate Games.
 
-**You don't need to go pro for this to matter.** Miles has skated, on and off, for close to 50 years without once needing a professional career to justify it. The hours were worth it on their own terms the whole way through.
+## The WADA training, and what it represents
 
-**Picking the right discipline for your body is a skill, not a compromise.** Switching to slalom after lockdown wasn't Miles settling for something easier. It was matching the sport to what his body could actually do well, the same move this site has recommended again and again for adults weighing street skating against carving, cruising, or bowl riding.
+To finalise his qualification, Miles was required to complete comprehensive anti-doping awareness training mandated by the World Anti-Doping Agency. The same requirement that applies to every elite athlete on a national squad.
 
-**Representing something — even just "the amateur who kept at it" — doesn't require elite status.** You don't need a medal to have a story worth telling. You need to keep going long enough that the story accumulates on its own.
+This is worth pausing on. Miles is competing in a legitimate international competition, under the same regulatory framework as athletes who have built careers preparing for exactly this. He didn't slip through as a novelty entrant or a feel-good story. He met the requirements and qualified.
 
-If you're a few months into your own comeback and still measuring yourself against the pros this site writes about, Miles is the other half of the picture: the guy from Plymouth who never turned pro, kept skating anyway, and is representing his country at 60 because he never stopped showing up long enough for it to become possible.
+He described his targets simply: not being disqualified, finishing. He's competing in three disciplines across the event window. He's not going there to make a point about age. He's going there to skate, because that's what he does.
+
+## What he's not doing
+
+Miles isn't part of a recovery arc — he didn't battle back from injury or illness to get here. He didn't get a second wind after decades away. He just never stopped. The story is accumulation, not redemption.
+
+That makes it harder to package but more honest about what actually works. There's no transformation moment to point to, no watershed year where he decided to go for it. There's just five decades of showing up, and eventually "showing up" meant being on the start line at a world championship.
+
+## What transfers to your comeback
+
+You are almost certainly not going to the World Skate Games. That's not the point.
+
+**The pivot matters more than the discipline.** Miles didn't keep trying to land tricks his body had stopped cooperating with. He found something his body could learn and grow in instead. If you're 45 and noticing that your board feels different than it did at 25, that gap is a question, not a verdict: what kind of skating can you get better at right now? Carving, cruising, slalom, longboard dancing, pump tracks — the discipline is a starting point, not a permanent assignment. [Changing course isn't quitting](/blog/carving-first-skill-adult-returners-skip/); it's how people last.
+
+**The slow years count.** Miles' decades of casual skating, the years where nothing notable happened competitively, are the reason he was ready to compete internationally at 60. The sessions you do this autumn that feel like nothing, the Tuesday afternoon at the park where nothing clicked, the half-hour of carving before work — those are the slow years. They count. Consistency compounds further than most people believe when they're in the middle of it.
+
+**Not going pro isn't a failure mode.** Miles has skated for nearly 50 years and never earned a paycheque from it. The sport just kept being worth doing. If you're coming back at 45 or 55 with no expectation of sponsorship, no audience, no narrative reason beyond "I want to skate," you are in the same relationship with the sport that Miles was in for most of those fifty years. That's what turns out to produce a world games competitor at 60. It's also, more importantly, what produces someone who's still skating at 60.
+
+Miles' goal for Paraguay — "to finish and not get disqualified" — is the goal of someone who knows exactly what he's there for. He's there to skate. Everything else is detail.
 
 
 ### Dawn Patrol: Why 6am Is the Best Hour to Skate After 40
@@ -2950,15 +2970,17 @@ And resist the pressure — from yourself or anyone else — to frame this as ei
 ### He Started at 65. At 91, He's Still Teaching People to Skate.
 Lloyd Kahn picked up a skateboard for the first time at 65. At 91, he's still rolling, and his approach to starting late holds real lessons for you.
 
-Lloyd Kahn is 91 years old. He didn't touch a skateboard until he was 65. In between, he built an entire career around something else entirely — he founded Shelter Publications and edited the counterculture magazine Whole Earth Catalog — and then, in his mid-sixties, decided to try skating for the first time. This past August, footage of him showing a much younger fitness influencer around a longboard went viral well outside skateboarding circles, the kind of story that reaches people who've never set foot in a skatepark.
+Lloyd Kahn is 91 years old. He didn't touch a skateboard until he was 65. In between, he built an entire career around something else entirely — he was the shelter editor of the Whole Earth Catalog, then founded Shelter Publications and spent decades writing and publishing books about hand-built homes from Bolinas, California — and then, in his mid-sixties, decided to try skating for the first time. This past August, a clip of him teaching a fitness influencer decades younger than him how to skate was picked up well outside skateboarding circles, the kind of story that reaches people who've never set foot in a skatepark.
 
-If you've read [Juanjo Urbizu's story](/blog/juanjo-urbizu-88-year-old-skateboarder/) on this site — another skater who took it up for the first time in his seventies — Kahn's version adds something specific: a quarter-century head start on Urbizu's timeline, and a career spent as a publisher and editor rather than an athlete. If a sixty-something magazine editor with zero board sports background can still be doing this at 91, "too old to start" stops being a believable excuse.
+If you've read [Juanjo Urbizu's story](/blog/juanjo-urbizu-88-year-old-skateboarder/) on this site — another skater who took it up for the first time at 70 — Kahn's version adds something specific: he started five years younger, has now been at it for twenty-six years, and spent his working life as a publisher and editor rather than an athlete. He wasn't a stranger to boards, though. Kahn has surfed since 1954, and he has written about how much longboarding feels like surfing. What he had zero of at 65 was skateboarding experience. If a sixty-something book publisher who had never stood on a skateboard can still be doing this at 91, "too old to start" stops being a believable excuse.
 
 ## Starting at 65 isn't the same project as starting at 15
 
 The honest, useful part of Kahn's story isn't the viral clip. It's what starting a balance sport in your sixties actually requires that starting as a teenager doesn't.
 
-A 15-year-old has fast reflexes, a body that heals in days, and effectively no fear of falling because falling rarely hurts for long. None of that was available to Kahn at 65. What he had instead was patience, a willingness to go slowly, and — by his own long-standing habit — a body kept in reasonable working order by decades of an active, outdoor life before he ever stepped on a board.
+A 15-year-old has fast reflexes, a body that heals in days, and effectively no fear of falling because falling rarely hurts for long. None of that was available to Kahn at 65. What he had instead was patience, a willingness to go slowly, and — by his own long-standing habit — a body kept in reasonable working order by decades of surfing, running and building before he ever stepped on a board.
+
+His very first ride ended in a fall that hurt his wrist, and he drew the obvious conclusion: full pads, wrist guards and a helmet, every session, from then on. The gear didn't make him invincible. He has broken a wrist and, in his eighties, an arm badly enough that his doctor suggested it was time to stop. His answer was to add more protection and get back on the board once he'd healed. That is the late-starter's deal in one sentence: you can't skip the falls, so you plan for them, and you let the recovery take as long as it takes. [Our guide to falling safely after 40](/blog/how-to-fall-safely-after-40/) covers the technique side of that plan.
 
 That's the actual takeaway for anyone reading this who's 50 or 60 and wondering if they've missed the window: the window late starters use isn't the teenage one. It's a different one, built on managing risk deliberately instead of relying on a young body to absorb mistakes for free.
 
@@ -2966,15 +2988,15 @@ That's the actual takeaway for anyone reading this who's 50 or 60 and wondering 
 
 People who pick up skating for the first time well into adulthood tend to build different habits than people returning to something they already knew, and Kahn's approach reflects that:
 
-**He treats cruising and longboarding as the actual sport, not a lesser version of one.** Kahn skates for the motion, the balance, and being outside — not for tricks, not for a trick ladder to climb. If your own return to skating has you drawn toward [cruising and carving rather than stairs and rails](/blog/longboard-vs-cruiser-vs-popsicle-deck/), Kahn at 91 is a long-term example of exactly that version of the sport sustaining someone for decades.
+**He treats cruising and longboarding as the actual sport, not a lesser version of one.** Kahn, who lives in Bolinas on the Northern California coast, rides a longboard for the motion, the balance, and being outside — not for tricks, not for a trick ladder to climb. If your own return to skating has you drawn toward [cruising and carving rather than stairs and rails](/blog/longboard-vs-cruiser-vs-popsicle-deck/), Kahn at 91 is a long-term example of exactly that version of the sport sustaining someone for decades.
 
 **He kept at it specifically because it stayed fun, not because he was chasing a result.** There was no competitive ladder for him to climb starting at 65, no realistic path to any kind of ranking. What kept him on a board for more than twenty-five years was simpler than that: he liked it, and he kept doing things he liked.
 
-**He's willing to be a beginner in public, repeatedly.** Teaching a fitness influencer decades younger than him how to skate, on camera, at 91, is not something most people are comfortable doing even once. Kahn's comfort with it tracks back to the same thing that got him on a board in the first place — a willingness to try something new without needing to look expert at it immediately.
+**He's willing to be a beginner in public, repeatedly.** Teaching a fitness influencer decades younger than him how to skate, on camera, at 91, is not something most people are comfortable doing even once. Neither is going back to the board at 80-something after a doctor has told you to stop. Kahn's comfort with it tracks back to the same thing that got him on a board in the first place — a willingness to try something new without needing to look expert at it immediately.
 
 ## The part that's easy to miss
 
-The viral hook is his age. The actually useful part is that a person with no athletic background in this sport, starting from literally nothing at 65, built a relationship with skateboarding that's now outlasted most people's entire athletic careers. That's not luck, and it's not rare genetics. It's what happens when someone starts slowly, keeps their expectations realistic, and doesn't quit in the first hard year — the same formula this site has suggested for every adult starting or restarting on a board, just stretched out further than most examples manage to prove.
+The hook is his age. The actually useful part is that a person with no skateboarding background, starting from literally nothing at 65, built a relationship with the sport that's now outlasted most people's entire athletic careers. That's not luck, and it's not rare genetics. It's what happens when someone starts slowly, pads up, keeps their expectations realistic, and doesn't quit in the first hard year — the same formula this site has suggested for every adult starting or restarting on a board, just stretched out further than most examples manage to prove.
 
 You don't need Kahn's twenty-six years to get the point. You need the version of his first year: slow, patient, genuinely enjoying it rather than grading yourself against anyone else's timeline. Everything after that is just more of the same, for as long as you want it.
 

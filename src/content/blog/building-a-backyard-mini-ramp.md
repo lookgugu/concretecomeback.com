@@ -24,7 +24,7 @@ What it doesn't give you is variety. A single quarter-pipe or a small mini ramp 
 
 **A single quarter-pipe.** The simplest build: one ramp, one transition, usually 3 to 4 feet tall. It teaches pumping, basic airs, and rock-to-fakie, and it's small enough to fit against a garage wall or fence line. This is the right starting point for almost anyone building for the first time.
 
-**A mini ramp.** Two quarter-pipes facing each other with a flat bottom between them, built as a single connected structure. It lets you pump back and forth and carry speed the way a real ramp session feels, but it needs real floor space — figure on at least 16 to 20 feet of length once you include the flat bottom — and meaningfully more material, time, and money than a single quarter-pipe. Most adults building their first ramp are better served starting with a quarter-pipe and deciding later whether they want to commit to a mini ramp.
+**A mini ramp.** Two quarter-pipes facing each other with a flat bottom between them, built as a single connected structure. It lets you pump back and forth and carry speed the way a real ramp session feels, but it needs real floor space — figure on 20 feet or more of length once you include two transitions, two decks and the flat bottom — and meaningfully more material, time, and money than a single quarter-pipe. Most adults building their first ramp are better served starting with a quarter-pipe and deciding later whether they want to commit to a mini ramp.
 
 ## What it actually takes to build one safely
 
@@ -38,7 +38,9 @@ This is where people underestimate the project. A skateable ramp is a structural
 
 ## Cost and time, realistically
 
-Costs vary a lot by region, lumber prices, and whether you're buying new or scavenging materials, so treat any number you see online as a rough starting point rather than a quote. A small single quarter-pipe built from a basic plan is generally the cheapest version of this project; a proper mini ramp with a quality riding surface costs meaningfully more, mostly in surface material and the extra lumber for a second transition and flat bottom. Expect a first-time build to take a full weekend at minimum, longer if you're learning the framing as you go.
+Costs vary a lot by region, lumber prices, and whether you're buying new or scavenging materials, so treat any number you see online as a rough starting point rather than a quote. With that caveat, the published plans for a small single quarter-pipe — three or four feet tall, eight feet wide, surfaced in plywood — generally land somewhere around a few hundred dollars in materials, which makes it the cheapest version of this project by a wide margin.
+
+A proper mini ramp is a different budget. Most of the jump is the surface: as of autumn 2026, US ramp suppliers list a single 4-by-8-foot sheet of Skatelite at roughly $200 to $235, and an eight-foot-wide mini ramp needs six to eight of them, so the riding surface alone is well over $1,000 before you've bought a single 2x4. Add the framing lumber for a second transition and a flat bottom, plus screws, coping and whatever your pressure-treated base costs locally, and a well-built outdoor mini ramp is a four-figure project. Plywood instead of Skatelite brings it down considerably, which is why the covered-or-indoor question matters so much to the price. Expect a first-time build to take a full weekend at minimum, longer if you're learning the framing as you go.
 
 Before you buy anything, check two things that have nothing to do with carpentry: your local permitting rules for permanent backyard structures above a certain height, and whether your homeowner's insurance has anything to say about a structure built specifically for falling off of. Neither takes long to check, and both can save you a genuinely bad surprise later.
 
