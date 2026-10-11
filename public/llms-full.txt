@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-11T14:57:22.389Z
+# Date: 2026-10-11T15:04:19.409Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -582,7 +582,7 @@ What it doesn't give you is variety. A single quarter-pipe or a small mini ramp 
 
 ## The two realistic sizes
 
-**A single quarter-pipe.** The simplest build: one ramp, one transition, usually 3 to 4 feet tall. It teaches pumping, basic airs, and rock-to-fakie, and it's small enough to fit against a garage wall or fence line. This is the right starting point for almost anyone building for the first time.
+**A single quarter-pipe.** The simplest build: one ramp, one transition, usually 3 to 4 feet tall. It teaches pumping, basic airs, and rock-to-fakie, and the structure itself is small enough to sit against a garage wall or fence line. The footprint isn't, though: a standalone quarter-pipe needs a clear, flat approach and rollaway in front of it — municipal skatepark standards specify a safety area of at least 3 metres (about 10 feet) from the front edge — so measure the ramp plus that runout, not just the ramp, before deciding it fits. With that space accounted for, this is the right starting point for almost anyone building for the first time.
 
 **A mini ramp.** Two quarter-pipes facing each other with a flat bottom between them, built as a single connected structure. It lets you pump back and forth and carry speed the way a real ramp session feels, but it needs real floor space — figure on 20 feet or more of length once you include two transitions, two decks and the flat bottom — and meaningfully more material, time, and money than a single quarter-pipe. Most adults building their first ramp are better served starting with a quarter-pipe and deciding later whether they want to commit to a mini ramp.
 
