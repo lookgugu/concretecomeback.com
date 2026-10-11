@@ -34,6 +34,8 @@ This is where people underestimate the project. A skateable ramp is a structural
 
 **Materials that matter:** pressure-treated lumber for anything touching the ground or exposed to weather, proper structural screws rather than nails (nails work loose under the repeated flexing a ramp takes), and a riding surface. Every ramp gets a plywood substrate first — the standard plans call for two layers of 3/8-inch sheets bent over the transitions — and the real decision is what goes on top of it. Either way, the plywood gets a separate top skin; it isn't the riding surface itself. For an indoor or covered ramp that stays dry, the standard plans call for a layer of 1/4-inch Masonite hardboard, which is cheap and smooth. Outdoors, a skin of Skatelite or a similarly rated ramp surface holds up far better: hardboard and bare plywood get slick and delaminate under weather and wheels, and neither is the right call for something sitting outside through a winter.
 
+**The part people forget:** a guardrail on every raised deck that isn't backed by a wall. A 3- or 4-foot deck is an open edge to fall off backwards, which is why the standard plans include a dedicated rail step and the ASTM skatepark standard specifies deck guardrails. Budget the posts and rail with the rest of the lumber.
+
 **The part people skip:** transition curve templates. Freehand bending plywood into a transition without a proper radius template is how you get a ramp that rides wrong and stresses the wood unevenly. Printable ramp-building plans exist specifically to solve this — they're worth the money even if you're otherwise building from scratch, because the curve geometry is the one part that's genuinely hard to eyeball correctly.
 
 ## Cost and time, realistically

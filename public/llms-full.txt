@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-11T15:20:34.517Z
+# Date: 2026-10-11T15:25:40.243Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -593,6 +593,8 @@ This is where people underestimate the project. A skateable ramp is a structural
 **Skills you need, or need to hire out:** basic framing (measuring, cutting square, building a ladder-frame skeleton), comfort with a circular saw and drill, and enough carpentry sense to understand why bracing matters. If that's not you, this is a project to do with a friend who has it, or to hire a local handyman for the framing while you handle the finish work.
 
 **Materials that matter:** pressure-treated lumber for anything touching the ground or exposed to weather, proper structural screws rather than nails (nails work loose under the repeated flexing a ramp takes), and a riding surface. Every ramp gets a plywood substrate first — the standard plans call for two layers of 3/8-inch sheets bent over the transitions — and the real decision is what goes on top of it. Either way, the plywood gets a separate top skin; it isn't the riding surface itself. For an indoor or covered ramp that stays dry, the standard plans call for a layer of 1/4-inch Masonite hardboard, which is cheap and smooth. Outdoors, a skin of Skatelite or a similarly rated ramp surface holds up far better: hardboard and bare plywood get slick and delaminate under weather and wheels, and neither is the right call for something sitting outside through a winter.
+
+**The part people forget:** a guardrail on every raised deck that isn't backed by a wall. A 3- or 4-foot deck is an open edge to fall off backwards, which is why the standard plans include a dedicated rail step and the ASTM skatepark standard specifies deck guardrails. Budget the posts and rail with the rest of the lumber.
 
 **The part people skip:** transition curve templates. Freehand bending plywood into a transition without a proper radius template is how you get a ramp that rides wrong and stresses the wood unevenly. Printable ramp-building plans exist specifically to solve this — they're worth the money even if you're otherwise building from scratch, because the curve geometry is the one part that's genuinely hard to eyeball correctly.
 
@@ -2980,7 +2982,7 @@ The honest, useful part of Kahn's story isn't the viral clip. It's what starting
 
 A 15-year-old has fast reflexes, a body that heals in days, and effectively no fear of falling because falling rarely hurts for long. None of that was available to Kahn at 65. What he had instead was patience, a willingness to go slowly, and — by his own long-standing habit — a body kept in reasonable working order by decades of surfing, running and building before he ever stepped on a board.
 
-His very first ride ended in a fall that hurt his wrist, and he drew the obvious conclusion. By his own account he now rides in a helmet, wrist guards and elbow pads every time, with knee pads some of the time. The gear didn't make him invincible. In his eighties he broke his arm on the board — a compound fracture, and by his own account the first broken bone of his life — badly enough that his doctor suggested it was time to stop. By his own account, he did go back once he'd healed, but on different terms: tentatively, on gentle slopes, without pushing hard. That is the late-starter's deal in one sentence: you can't skip the falls, so you plan for them, you let the recovery take as long as it takes, and you come back to easier terrain than you left. [Our guide to falling safely after 40](/blog/how-to-fall-safely-after-40/) covers the technique side of that plan.
+His very first ride ended in a fall that hurt his wrist, and he drew the obvious conclusion. By his own account he now rides in a helmet, wrist guards and elbow pads every time, with knee pads some of the time. The gear didn't make him invincible. He broke his wrist on the board at 80, and a few years later broke his arm — a compound fracture — badly enough that his doctor suggested it was time to stop. By his own account, he did go back once he'd healed, but on different terms: tentatively, on gentle slopes, without pushing hard. That is the late-starter's deal in one sentence: you can't skip the falls, so you plan for them, you let the recovery take as long as it takes, and you come back to easier terrain than you left. [Our guide to falling safely after 40](/blog/how-to-fall-safely-after-40/) covers the technique side of that plan.
 
 That's the actual takeaway for anyone reading this who's 50 or 60 and wondering if they've missed the window: the window late starters use isn't the teenage one. It's a different one, built on managing risk deliberately instead of relying on a young body to absorb mistakes for free.
 
