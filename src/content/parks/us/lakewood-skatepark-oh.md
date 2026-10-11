@@ -18,10 +18,10 @@ website: "https://www.lakewoodoh.gov/parks-facilities/"
 googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=14532+Lake+Ave+Lakewood+OH+44107"
 featured: false
 addedDate: 2026-09-26
-lastVerified: 2026-09-26
+lastVerified: 2026-10-10
 tags: ["concrete", "free", "cleveland", "ohio", "mellow"]
 ---
 
 Nestled inside the scenic 31-acre Lakewood Park along Lake Erie, this 9,500-square-foot poured-concrete street plaza is the heart of Greater Cleveland's outdoor skate community. Designed with smooth, wide-open flatground corridors and gradual banked transitions, Lakewood provides an inviting setting for older skaters who prefer technical flatground and low ledges over deep transition drops.
 
-The Lakewood Recreation Department runs seasonal community clinics focusing on fundamentals like balance, carving, and controlled dismounts. Morning hours from 9am to 11am are particularly tranquil before family and youth traffic picks up. Restrooms, drinking water, and ample park parking are adjacent to the facility.
+The Lakewood Recreation Department runs seasonal community clinics focusing on fundamentals like balance, carving, and controlled dismounts. Morning hours from 9am to 11am are particularly tranquil before family and youth traffic picks up. Restrooms, drinking water, and ample park parking are adjacent to the facility. For hardware advice or board setup checks, local riders visit Westside Skates just 1.5 miles south on Madison Avenue.
