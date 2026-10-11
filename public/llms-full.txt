@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-10T14:10:46.501Z
+# Date: 2026-10-11T01:52:19.188Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -7370,7 +7370,7 @@ Website: https://www.lakewoodoh.gov/parks-facilities/
 
 Nestled inside the scenic 31-acre Lakewood Park along Lake Erie, this 9,500-square-foot poured-concrete street plaza is the heart of Greater Cleveland's outdoor skate community. Designed with smooth, wide-open flatground corridors and gradual banked transitions, Lakewood provides an inviting setting for older skaters who prefer technical flatground and low ledges over deep transition drops.
 
-The Lakewood Recreation Department runs seasonal community clinics focusing on fundamentals like balance, carving, and controlled dismounts. Morning hours from 9am to 11am are particularly tranquil before family and youth traffic picks up. Restrooms, drinking water, and ample park parking are adjacent to the facility.
+The Lakewood Recreation Department runs seasonal community clinics focusing on fundamentals like balance, carving, and controlled dismounts. Morning hours from 9am to 11am are particularly tranquil before family and youth traffic picks up. Restrooms, drinking water, and ample park parking are adjacent to the facility. For hardware advice or board setup checks, local riders visit Westside Skates just 1.5 miles south on Madison Avenue.
 
 
 ### Lauridsen Skatepark
@@ -8054,11 +8054,11 @@ The shop keeps a deep inventory of certified helmets, wrist guards, knee pads, a
 
 
 ### DLX Skate Shop
-The retail operation of Deluxe Distribution, one of the most respected names in skateboarding. DLX stocks boards, wheels, trucks, and accessories from quality brands, with knowledgeable staff who can help you build a setup appropriate for your skating style and goals. Not primarily aimed at returning adults but highly knowledgeable.
+The retail operation of Deluxe Distribution, one of the most respected names in skateboarding. DLX stocks boards, wheels, trucks, and accessories from quality brands, with knowledgeable staff who can help you build a setup appropriate for your skating style and goals. Not primarily aimed at older skaters but highly knowledgeable.
 Location: San Francisco, California, US
 Website: https://www.dlxsf.com
 
-DLX is more of an industry shop than an adult-specific shop, but the level of skateboarding knowledge among staff is exceptional. If you want expert help building a custom setup without being steered toward trendy products, this is the place. It sits less than a mile east of SoMa West Skatepark on Duboce Avenue, making it an easy stop for hardware or fresh wheels before an under-freeway session.
+DLX is more of an industry shop than an older-skater specific shop, but the level of skateboarding knowledge among staff is exceptional. If you want expert help building a custom setup without being steered toward trendy products, this is the place. It sits less than a mile east of SoMa West Skatepark on Duboce Avenue, making it an easy stop for hardware or fresh wheels before an under-freeway session. Returning riders and beginners also frequently connect with Skate Like a Girl SF Bay Area for structured workshops and gear support.
 
 
 ### Escapist Skateboarding
@@ -8096,7 +8096,7 @@ A skateboarder-owned and operated core shop on Canal Street in the Lower East Si
 Location: New York, New York, US
 Website: https://laborskateshop.com
 
-Labor opened in 2012 as a skateboarder-owned shop — owner James Rewolinski came up through a Milwaukee core shop before moving to New York — and it has stayed that kind of place: the counter is staffed by people who skate the city. Hours are 11am to 7pm Monday to Saturday and 11am to 6pm Sunday, and the online store offers free shipping over $120. Pier 62 on the Hudson, with its marked beginner zone, and Astoria Skatepark beside the RFK Bridge in Queens are ideal parks to pair it with; the Coleman/LES park round the corner is the local street spot.
+Labor opened in 2012 as a skateboarder-owned shop — owner James Rewolinski came up through a Milwaukee core shop before moving to New York — and it has stayed that kind of place: the counter is staffed by people who skate the city. Hours are 11am to 7pm Monday to Saturday and 11am to 6pm Sunday, and the online store offers free shipping over $120. Pier 62 on the Hudson, with its marked beginner zone, and Astoria Skatepark beside the RFK Bridge in Queens are ideal parks to pair it with. The shop also serves as a welcoming equipment hub for local collectives including SKATEYOGI and the Brooklyn Skate Moms.
 
 
 ### Minus Skate Shop
@@ -8280,6 +8280,15 @@ Located in Hove on the Sussex coast, The Skate Club operates a private indoor ti
 The facility features mellow micro-ramps, smooth timber banks, and forgiving flatground ideal for dialling in turns, kickturns, and balance recovery. When weather allows outdoor sessions, the group regularly visits The Level Skatepark in neighbouring Brighton.
 
 
+### Brooklyn Skate Moms
+A supportive community of older women, working mothers, and returning adult skaters organizing relaxed weekend park roll-outs, beginner clinics, and peer encouragement across Brooklyn and NYC skateparks.
+Location: New York, New York, US
+
+Featured across national media for reshaping the face of East Coast skateboarding, the Brooklyn Skate Moms began as an informal group of parents and working women who picked up skateboards alongside their children and found a lifelong passion. The group has grown into a vibrant collective organizing monthly park sessions and weekend roll-outs across New York City.
+
+The community places a heavy premium on safety, non-judgmental encouragement, and camaraderie: pads and helmets are celebrated, and sessions are paced around building balance, comfortable carving, and kickturns rather than high-stakes stunts. The group regularly skates municipal parks across Brooklyn and Queens, cross-pollinating with SKATEYOGI Adult Open Skate and heading to Labor Skateshop on Canal Street for hardware and wheel upgrades.
+
+
 ### Old Man Army Los Angeles
 A loose collective of adult skaters in the Los Angeles area who organize regular sessions, film videos, and support each other's skating. The group's name is self-aware and the vibe is positive — the focus is on enjoying skateboarding as an adult without taking it too seriously. Sessions happen at various LA parks; check Instagram for upcoming meet-ups.
 Location: Los Angeles, California, US
@@ -8313,6 +8322,16 @@ Website: https://www.skatelikeagirl.com
 Skate Like a Girl's Seattle chapter has cultivated one of the most inclusive skateboarding communities in the Pacific Northwest. Their dedicated evening sessions provide a welcoming environment specifically reserved for older skaters, beginners, and returning riders navigating their boards after years away.
 
 Free loaner boards, helmets, and protective pads are available at all community sessions. Sessions regularly rotate through local parks, including the separate street zone at Lower Woodland Skatepark. For setup tune-ups or gear recommendations, the crew pairs with 35th North on Capitol Hill.
+
+
+### Skate Like a Girl SF Bay Area
+Northern California chapter organizing dedicated monthly Saturday morning adult skate workshops, four-week progression clinics, and inclusive weekly sessions across Bay Area skateparks.
+Location: Berkeley, California, US
+Website: https://www.skatelikeagirl.com/sfbayarea.html
+
+Skate Like a Girl’s SF Bay Area chapter provides one of the most accessible community gateways for older skaters, beginners, and returning adults in Northern California. Hosted at venues including Berkeley Skatepark and regional East Bay and San Francisco parks, their monthly three-hour Adult Skate Workshops are explicitly structured around building balance, safe falling mechanics, and confidence without intimidation.
+
+Free loaner boards, helmets, and full protective pad sets are on hand for all participants, lowering the financial and gear barrier for those trying skating again after decades off the board. Sessions emphasize mutual support and patient progression on mellow ramps and flat ground. The collective frequently connects with DLX Skate Shop on Folsom Street in San Francisco for hardware advice and visits nearby parks like Potrero del Sol.
 
 
 ### SKATEYOGI Adult Open Skate

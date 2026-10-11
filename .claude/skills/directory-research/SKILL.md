@@ -175,3 +175,6 @@ Keep this current when a batch defers something, so the next pass starts here. T
 - **Clemente DIY Skatepark, Grand Rapids MI** — 546 Rumsey St SW; DIY concrete. Held: uneven surfaces and no explicit beginner separation or features typical of DIYs.
 - **Skate Naked, Columbus OH** — 3790 E 5th Ave. Held: permanently closed.
 - **Skate Rock City, Las Vegas NV** — 4680 Boulder Hwy. Held: roller skating rink with maple wood floor, no skateboard ramps or skatepark amenities.
+- **Curbside Skatepark, Denver CO** — 4000 S Lowell Blvd. Held: permanently closed.
+- **Marilla Park Skatepark (old), Morgantown WV** — Marilla Center. Held: demolished during pool reconstruction, new action sports complex in planning.
+- **Magdalena Ecke YMCA Skatepark (Adult Night), Encinitas CA** — 200 Saxony Rd. Held: historical adult-specific night discontinued; open skate only.
