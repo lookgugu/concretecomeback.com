@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-11T15:15:23.141Z
+# Date: 2026-10-11T15:20:34.517Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -598,7 +598,7 @@ This is where people underestimate the project. A skateable ramp is a structural
 
 ## Cost and time, realistically
 
-Costs vary a lot by region, lumber prices, and whether you're buying new or scavenging materials, so treat any number you see online as a rough starting point rather than a quote. With that caveat, the published plans for a small single quarter-pipe — three or four feet tall, eight feet wide, surfaced in plywood — generally land somewhere around a few hundred dollars in materials, which makes it the cheapest version of this project by a wide margin.
+Costs vary a lot by region, lumber prices, and whether you're buying new or scavenging materials, so treat any number you see online as a rough starting point rather than a quote. With that caveat, the published plans for a small single quarter-pipe — three or four feet tall, eight feet wide, surfaced in plywood — generally land somewhere around a few hundred dollars in materials, which makes it the cheapest version of this project by a wide margin. Treat that as a substrate-only figure, though: on top of it goes a sheet or two of hardboard for a covered ramp, which adds little, or a sheet or two of Skatelite for an outdoor one, which can add as much again.
 
 A proper mini ramp is a different budget. Most of the jump is the surface: as of autumn 2026, US ramp suppliers list a single 4-by-8-foot sheet of Skatelite at roughly $200 to $235, and an eight-foot-wide mini ramp needs six to eight of them on top of the plywood substrate — standard plans list a dozen or so base sheets under six top sheets — so the riding surface alone is well over $1,000 before you've bought a single 2x4. Add the framing lumber for a second transition and a flat bottom, plus screws, coping and whatever your pressure-treated base costs locally, and a well-built outdoor mini ramp is a four-figure project. A Masonite skin instead of Skatelite brings it down considerably, which is why the covered-or-indoor question matters so much to the price. Expect a first-time build to take a full weekend at minimum, longer if you're learning the framing as you go.
 
@@ -2980,7 +2980,7 @@ The honest, useful part of Kahn's story isn't the viral clip. It's what starting
 
 A 15-year-old has fast reflexes, a body that heals in days, and effectively no fear of falling because falling rarely hurts for long. None of that was available to Kahn at 65. What he had instead was patience, a willingness to go slowly, and — by his own long-standing habit — a body kept in reasonable working order by decades of surfing, running and building before he ever stepped on a board.
 
-His very first ride ended in a fall that hurt his wrist, and he drew the obvious conclusion. By his own account he now rides in a helmet, wrist guards and elbow pads every time, with knee pads some of the time. The gear didn't make him invincible. He has broken a wrist and, in his eighties, an arm badly enough that his doctor suggested it was time to stop. By his own account, he did go back once he'd healed, but on different terms: tentatively, on gentle slopes, without pushing hard. That is the late-starter's deal in one sentence: you can't skip the falls, so you plan for them, you let the recovery take as long as it takes, and you come back to easier terrain than you left. [Our guide to falling safely after 40](/blog/how-to-fall-safely-after-40/) covers the technique side of that plan.
+His very first ride ended in a fall that hurt his wrist, and he drew the obvious conclusion. By his own account he now rides in a helmet, wrist guards and elbow pads every time, with knee pads some of the time. The gear didn't make him invincible. In his eighties he broke his arm on the board — a compound fracture, and by his own account the first broken bone of his life — badly enough that his doctor suggested it was time to stop. By his own account, he did go back once he'd healed, but on different terms: tentatively, on gentle slopes, without pushing hard. That is the late-starter's deal in one sentence: you can't skip the falls, so you plan for them, you let the recovery take as long as it takes, and you come back to easier terrain than you left. [Our guide to falling safely after 40](/blog/how-to-fall-safely-after-40/) covers the technique side of that plan.
 
 That's the actual takeaway for anyone reading this who's 50 or 60 and wondering if they've missed the window: the window late starters use isn't the teenage one. It's a different one, built on managing risk deliberately instead of relying on a young body to absorb mistakes for free.
 
