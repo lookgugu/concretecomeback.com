@@ -304,6 +304,11 @@
     "lng": -118.4912,
     "source": "Santa Monica, Los Angeles County, California, United States"
   },
+  "US|colorado|arvada": {
+    "lat": 39.8006,
+    "lng": -105.0812,
+    "source": "Arvada, Jefferson County, Colorado, United States"
+  },
   "US|colorado|denver": {
     "lat": 39.7392,
     "lng": -104.9849,
@@ -434,6 +439,11 @@
     "lng": -83.0466,
     "source": "Detroit, Wayne County, Michigan, United States"
   },
+  "US|michigan|farmington hills": {
+    "lat": 42.4853,
+    "lng": -83.3772,
+    "source": "Farmington Hills, Oakland County, Michigan, United States"
+  },
   "US|michigan|grand rapids": {
     "lat": 42.9632,
     "lng": -85.6679,
@@ -484,6 +494,11 @@
     "lng": -115.1215,
     "source": "North Las Vegas, Clark County, Nevada, United States"
   },
+  "US|nevada|reno": {
+    "lat": 39.5262,
+    "lng": -119.8127,
+    "source": "Reno, Washoe County, Nevada, United States"
+  },
   "US|new hampshire|dover": {
     "lat": 43.1981,
     "lng": -70.874,
@@ -508,6 +523,11 @@
     "lat": 40.6526,
     "lng": -73.9497,
     "source": "Brooklyn, Kings County, New York, United States"
+  },
+  "US|new york|buffalo": {
+    "lat": 42.8864,
+    "lng": -78.8781,
+    "source": "Buffalo, Erie County, New York, 14202, United States"
   },
   "US|new york|new york": {
     "lat": 40.7127,
@@ -604,6 +624,11 @@
     "lng": -79.9399,
     "source": "Charleston, Charleston County, South Carolina, United States"
   },
+  "US|south carolina|columbia": {
+    "lat": 34.0008,
+    "lng": -81.0352,
+    "source": "Columbia, Richland County, South Carolina, United States"
+  },
   "US|south dakota|sioux falls": {
     "lat": 43.5476,
     "lng": -96.7294,
@@ -664,6 +689,11 @@
     "lng": -122.3301,
     "source": "Seattle, King County, Washington, United States"
   },
+  "US|washington|spokane": {
+    "lat": 47.6572,
+    "lng": -117.4235,
+    "source": "Spokane, Spokane County, Washington, United States"
+  },
   "US|west virginia|wheeling": {
     "lat": 40.064,
     "lng": -80.7209,
@@ -695,8 +725,8 @@
     "source": "derived: mean of 18 listed UK cities"
   },
   "US": {
-    "lat": 38.566,
-    "lng": -93.6514,
-    "source": "derived: mean of 89 listed US cities"
+    "lat": 38.7235,
+    "lng": -93.9009,
+    "source": "derived: mean of 95 listed US cities"
   }
 }
