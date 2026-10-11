@@ -178,3 +178,4 @@ Keep this current when a batch defers something, so the next pass starts here. T
 - **Curbside Skatepark, Denver CO** — 4000 S Lowell Blvd. Held: permanently closed.
 - **Marilla Park Skatepark (old), Morgantown WV** — Marilla Center. Held: demolished during pool reconstruction, new action sports complex in planning.
 - **Magdalena Ecke YMCA Skatepark (Adult Night), Encinitas CA** — 200 Saxony Rd. Held: historical adult-specific night discontinued; open skate only.
+- **Dodge Skatepark, Columbus OH** — 667 Sullivant Ave; concrete. Held: features significant advanced bowl and transition elements; known for lumpy/uneven concrete with no documented beginner ability separation or adult programs.
