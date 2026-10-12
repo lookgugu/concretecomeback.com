@@ -36,7 +36,9 @@ If school sports or PE left you with a genuine aversion to anything resembling o
 
 If you've never skated and never played much of anything, here's what actually matters in the first few weeks, in order:
 
-**Learn to stand and push before anything else.** Flat, smooth ground — an empty parking lot works fine — and nothing else on the agenda. This isn't a warm-up for the real skill. For a while, it is the skill.
+**Gear up before your first push, not after a close call.** Helmet and wrist guards, at minimum, before you stand on the board at all — not once you've decided you're doing something that warrants them. [Our safety gear guide](/blog/safety-gear-guide/) covers what actually matters versus what's optional.
+
+**Then learn to stand and push.** Flat, smooth ground — an empty parking lot works fine — and nothing else on the agenda. This isn't a warm-up for the real skill. For a while, it is the skill.
 
 **Go at quiet times.** Weekday mornings or early afternoons tend to be lighter and skew older, which matters a lot the first few sessions when you're hyper-aware of being watched.
 
