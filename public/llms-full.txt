@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-12T12:20:34.698Z
+# Date: 2026-10-12T12:32:28.442Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -7813,7 +7813,7 @@ A high-quality concrete park built by Grindline. Local shops explicitly run grou
 Location: Stamford, Connecticut, US
 Website: https://www.stamfordct.gov/government/parks-recreation/parks/scalzi-park
 
-Built by the renowned Grindline Skateparks, Scalzi Park's concrete facility is a staple of the Connecticut scene, offering smooth, flowing transitions and a balanced street course. It operates 24 hours a day, making it easy to schedule quiet early-morning sessions.
+Built by the renowned Grindline Skateparks, Scalzi Park's concrete facility is a staple of the Connecticut scene, offering smooth, flowing transitions and a balanced street course. Its layout makes it easy to schedule quiet early-morning sessions.
 
 While it is a public, unstructured park, it is highly supportive of adult beginners thanks to independent local programming. Nearby shops run structured group sessions and one-on-one private lessons on-site that are explicitly designed to get older skaters comfortable on their boards.
 

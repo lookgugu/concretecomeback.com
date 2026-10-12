@@ -10,7 +10,7 @@ features: ["street", "ramps", "stairs", "rails", "banks", "transitions"]
 difficulty: "mixed"
 adultFriendly: true
 isIndoor: false
-openingHours: "Dawn to dusk"
+openingHours: "April through November: 8:00 AM to dark (never later than 9:00 PM)"
 entryFee: "Free"
 website: "https://www.greenbaywi.gov/facilities/facility/details/Joannes-Skate-Park-179"
 googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=215+S.+Baird+St+Green+Bay+WI"
