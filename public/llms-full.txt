@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-12T14:26:05.044Z
+# Date: 2026-10-12T14:29:05.387Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -7245,6 +7245,16 @@ Positioned at the southern end of The Level park in central Brighton, this purpo
 The lower level includes gentle concrete mini-ramps facing each other, smooth flat banks, low ledges, and small stairs. Lighting across the surrounding public park provides visibility into the evening, and being open 24 hours means early morning sunrise sessions before the coastal crowds wake up are straightforward. Public toilets and park benches are right beside the course. For structured indoor coaching or wet-weather sessions, local older skaters also connect with The Skate Club in neighbouring Hove.
 
 
+### 3rd Lair SkatePark
+An iconic indoor facility known for its smooth wood ramps. It hosts designated 30+ nights and adult skateboard clinics, giving older skaters a comfortable environment to learn.
+Location: Golden Valley, Minnesota, US
+Website: https://3rdlair.com
+
+A staple of the Twin Cities scene, 3rd Lair features a massive indoor wooden skatepark tailored to riders of all abilities. The layout offers plenty of varied transitions, a bowl, and an approachable street section.
+
+For older skaters, the park stands out by offering structured adult skateboard clinics and designated 30+ nights with discounted admission. These dedicated times provide a supportive, low-pressure atmosphere to practice fundamentals away from the standard crowded sessions.
+
+
 ### 3rd Lair Skatepark
 A premier indoor and outdoor training facility serving the Twin Cities since 1997. It offers strong adult-focused programming, including a weekly Wednesday night session for skaters 30 and older, as well as dedicated adult clinics.
 Location: Golden Valley, Minnesota, US
@@ -7406,6 +7416,16 @@ Website: https://citywalkbham.com/skate-park/
 City Walk BHAM offers an impressive, world-class skating environment right in downtown Birmingham. For older skaters, the standout feature is the physical separation of ability levels: the facility includes specific beginner bowls and quarter-pipe zones so you can learn without navigating heavy advanced traffic. 
 
 Admission is completely free, though you will need to sign a waiver before your first session. With a pump track, diverse street course, and deep bowls, it’s a park that will grow with you as your confidence returns.
+
+
+### City Walk Skatepark
+A massive 58,000-square-foot concrete park completely covered by an interstate overpass. It features physically separated beginner bowls and pump tracks.
+Location: Birmingham, Alabama, US
+Website: https://citywalkbham.com
+
+Located beneath the I-59/I-20 overpass, City Walk Skatepark offers a massive 58,000 square feet of weather-protected concrete. The shade and cover make it an incredibly practical spot for older skaters who need reliable conditions.
+
+The sheer size of the facility naturally disperses crowds, and its layout caters perfectly to returning riders. It features designated beginner bowls and an approachable pump track that are physically separated from the chaotic competition bowls, allowing you to practice fundamentals at your own pace.
 
 
 ### Clippard Park Skatepark
@@ -7608,6 +7628,16 @@ Jefferson Park Skatepark is a highly regarded spot in Seattle that caters to a w
 The park's extended hours are a major selling point. Lights stay on until 11:30 PM, and it opens as early as 4:00 AM, guaranteeing that you can find a quiet window to practice outside of peak traffic times.
 
 
+### Joannes Skate Park
+The largest outdoor poured-concrete skatepark in Wisconsin. Its massive footprint allows for dedicated beginner, intermediate, and advanced sections, providing a safe layout for adult learners.
+Location: Green Bay, Wisconsin, US
+Website: https://www.greenbaywi.gov/facilities/facility/details/Joannes-Skate-Park-179
+
+As Wisconsin's largest outdoor poured-concrete facility, Joannes Skate Park offers an expansive layout that naturally diffuses heavy traffic. 
+
+For older skaters, the primary draw is its intentional physical separation of skill levels. The park features dedicated beginner areas far removed from the advanced transition sections, giving you a low-impact zone to build foundational board control without dodging high-speed riders.
+
+
 ### Kamiloʻiki Skate Park
 Poured concrete community facility in Hawaii Kai featuring mellow transition flow, separate flatground rails, night floodlighting, and early 6:00 AM calm windows.
 Location: Honolulu, Hawaii, US
@@ -7648,6 +7678,16 @@ Website: https://www.lakewoodoh.gov/parks-facilities/
 Nestled inside the scenic 31-acre Lakewood Park along Lake Erie, this 9,500-square-foot poured-concrete street plaza is the heart of Greater Cleveland's outdoor skate community. Designed with smooth, wide-open flatground corridors and gradual banked transitions, Lakewood provides an inviting setting for older skaters who prefer technical flatground and low ledges over deep transition drops.
 
 The Lakewood Recreation Department runs seasonal community clinics focusing on fundamentals like balance, carving, and controlled dismounts. Morning hours from 9am to 11am are particularly tranquil before family and youth traffic picks up. Restrooms, drinking water, and ample park parking are adjacent to the facility. For hardware advice or board setup checks, local riders visit Westside Skates just 1.5 miles south on Madison Avenue.
+
+
+### Launch Skate
+A 2,000-square-foot indoor community skatepark that offers structured progression classes and private beginner lessons, giving returning skaters a quiet, supportive space.
+Location: Fort Collins, Colorado, US
+Website: https://launchskate.org
+
+Operated by Launch Community Through Skateboarding, this indoor park provides a smooth, birch-surfaced environment safely tucked away from chaotic elements. It features mellow banks, quarter pipes, and an over-vert section suited for learning.
+
+Older skaters will appreciate the facility's strong emphasis on education. They offer private coaching and structured beginner lessons, ensuring adults have a dedicated, low-pressure avenue to build board control and confidence.
 
 
 ### Lauridsen Skatepark
@@ -8016,6 +8056,16 @@ Location: Sayreville, New Jersey, US
 Located within Sayreville Kennedy Park, this skatepark offers a thoughtful design with both bowl and street sections. The extensive hours (open until midnight) and comprehensive lighting make it a practical spot for older skaters to get a session in after work.
 
 
+### Scalzi Park Skatepark
+A high-quality concrete park built by Grindline. Local shops explicitly run group programs and private lessons here tailored to older skaters.
+Location: Stamford, Connecticut, US
+Website: https://www.stamfordct.gov/government/parks-recreation/parks/scalzi-park
+
+Built by the renowned Grindline Skateparks, Scalzi Park's concrete facility is a staple of the Connecticut scene, offering smooth, flowing transitions and a balanced street course. Its layout makes it easy to schedule quiet early-morning sessions.
+
+While it is a public, unstructured park, it is highly supportive of adult beginners thanks to independent local programming. Nearby shops run structured group sessions and one-on-one private lessons on-site that are explicitly designed to get older skaters comfortable on their boards.
+
+
 ### Shaw Skatepark
 A centrally located concrete park in D.C. featuring a diverse layout with a flow bowl and street elements, allowing new skaters to progress at their own pace during quieter hours.
 Location: Washington, District of Columbia, US
@@ -8044,6 +8094,16 @@ Website: https://www.ccprc.com/3141/SK8-Charleston
 SK8 Charleston is a massive, professionally built concrete facility that draws riders from all over the Southeast. While it is famous for its deep, challenging bowls, the park is actively welcoming to all skill levels. 
 
 For returning skaters, the standout feature is the park's instruction program. Individual lessons can be requested directly via the county parks site, where you can specify your skill level and focus areas, ensuring you get tailored guidance rather than a generic youth class. The on-site skate shop also provides helmet and board rentals. Helmets are strictly required for all riders, and pads are highly recommended. Note that Tuesdays are designated for BMX bikes only—skateboards are not permitted on that day to prevent collisions.
+
+
+### Skatepark of Baltimore
+An expansive outdoor concrete park in Roosevelt Park. Early mornings are popular with older skaters, and Discovery Skate hosts tailored adult beginner lessons here.
+Location: Baltimore, Maryland, US
+Website: https://skateparkofbaltimore.org
+
+Located in Hampden's Roosevelt Park, this volunteer-driven public facility features a world-class deep bowl and a sprawling street section with plenty of smooth concrete for carving and flatground practice.
+
+While peak afternoon hours can be hectic, older skaters frequently gather during quiet weekday or early weekend mornings. Additionally, local programs like Discovery Skate offer tailored lessons on-site, providing adult beginners with a structured path to get comfortable on their boards.
 
 
 ### Skatepark of Tampa (SPoT)
@@ -8136,6 +8196,16 @@ Website: https://www.muni.org/Departments/parks/Pages/SkateParks.aspx
 Constructed by Grindline Skateparks in partnership with the local recreation department, Taku Lake Skatepark is a 10,111-square-foot cast-in-place concrete facility set alongside the Campbell Creek Trail in south Anchorage. For older skaters, the course provides a measured balance of low-impact flow and technical obstacles, headlined by a mellow, open-ended whale-tail transition bowl with wide rolled decks and gentle bank entries.
 
 The flatground corridor incorporates flat bars, low slappy curbs, and shallow manual pads that allow returning skaters to dial in stance and kickturns without contending with sudden drop-offs. Municipal LED lighting illuminates the park until 11:00 PM, making evening rides after work viable during shoulder seasons. Note that Alaskan freeze-thaw cycles can leave concrete damp or gritty early in the day; allow morning moisture to burn off before skating aggressive transition lines.
+
+
+### Talent Skatepark
+A community-driven indoor skatepark with smooth wooden surfaces. It offers a low-pressure environment for older beginners with its structured clinics and dedicated 25+ nights.
+Location: South Burlington, Vermont, US
+Website: https://talentskatepark.org
+
+Serving the greater Burlington area, Talent Skatepark is an ~8,300 square foot climate-controlled indoor facility. It features a varied layout, including a plaza section, transition bowl, and micro mini-ramp, all surfaced with smooth wood.
+
+The park strongly caters to the adult and returning skater demographic. They run highly structured clinics with professional "SKoaches" and host dedicated sessions specifically for those aged 25 and older, ensuring that you can learn without dodging the typical high-speed crowds.
 
 
 ### Tanzanite Skatepark
