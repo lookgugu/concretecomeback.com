@@ -1,6 +1,6 @@
 ---
 title: "Why Skateboarding Became Midlife's Sport (It's Not Just the Olympics)"
-description: "The Olympics gets credit for adult skating's rise, but the real pull is nostalgia, identity, and a kind of community golf never offered."
+description: "The Olympics gets credit for adult skating's rise, but the real pull is nostalgia, identity, and a sport that never keeps score."
 pubDate: 2026-10-12
 author: "Marcus Webb"
 authorAge: 47
