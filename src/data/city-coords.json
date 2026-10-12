@@ -314,10 +314,20 @@
     "lng": -104.9849,
     "source": "Denver, Colorado, United States"
   },
+  "US|colorado|fort collins": {
+    "lat": 40.5872,
+    "lng": -105.077,
+    "source": "Fort Collins, Larimer County, Colorado, United States"
+  },
   "US|connecticut|hamden": {
     "lat": 41.3836,
     "lng": -72.902,
     "source": "Hamden, South Central Connecticut Planning Region, Connecticut, United States"
+  },
+  "US|connecticut|stamford": {
+    "lat": 41.0534,
+    "lng": -73.5387,
+    "source": "Stamford, Western Connecticut Planning Region, Connecticut, United States"
   },
   "US|delaware|newark": {
     "lat": 39.6828,
@@ -679,6 +689,11 @@
     "lng": -73.2129,
     "source": "Burlington, Chittenden County, Vermont, United States"
   },
+  "US|vermont|south burlington": {
+    "lat": 44.4643,
+    "lng": -73.1763,
+    "source": "South Burlington, Chittenden County, Vermont, United States"
+  },
   "US|virginia|arlington": {
     "lat": 38.8769,
     "lng": -77.0893,
@@ -698,6 +713,11 @@
     "lat": 40.064,
     "lng": -80.7209,
     "source": "Wheeling, Ohio County, West Virginia, 26003, United States"
+  },
+  "US|wisconsin|green bay": {
+    "lat": 44.5126,
+    "lng": -88.0126,
+    "source": "Green Bay, Brown County, Wisconsin, United States"
   },
   "US|wisconsin|madison": {
     "lat": 43.0747,
@@ -725,8 +745,8 @@
     "source": "derived: mean of 18 listed UK cities"
   },
   "US": {
-    "lat": 38.7235,
-    "lng": -93.9009,
-    "source": "derived: mean of 95 listed US cities"
+    "lat": 38.8823,
+    "lng": -93.5393,
+    "source": "derived: mean of 99 listed US cities"
   }
 }
