@@ -18,7 +18,7 @@ That's the piece that usually gets left out of the "getting older" conversation 
 
 Estrogen doesn't just affect reproductive tissue — it has receptors throughout the brain, including in regions involved in mood regulation, and it influences how serotonin and dopamine systems function. As estrogen fluctuates and then declines through perimenopause and into menopause, a lot of women notice mood changes that feel disproportionate to anything going on in their actual lives: more irritability, flatter affect, anxiety that arrives without an obvious trigger, motivation that's harder to access than it used to be.
 
-None of that is "just stress" or a character shift. It's a real physiological transition showing up in a part of the body that doesn't get talked about as openly as hot flashes or irregular cycles, partly because mood symptoms are easier to dismiss or misattribute — to a bad week, a difficult relationship, just "getting older." Naming it accurately is the first useful step, because it changes what you reach for in response.
+That doesn't mean every mood change in your 40s and 50s has one neat explanation — stress, sleep problems, depression, and conditions like thyroid disease can all look similar and deserve their own evaluation rather than being waved off as "just menopause." But for a lot of women, perimenopause is a real, physiological contributor that doesn't get talked about as openly as hot flashes or irregular cycles, partly because mood symptoms are easier to dismiss or misattribute — to a bad week, a difficult relationship, just "getting older." Naming hormonal change as one real factor, without assuming it's the only one, is the useful first step, because it changes what you reach for in response and what you ask a doctor to help rule out.
 
 ## Why skating specifically helps
 
@@ -42,7 +42,7 @@ A few things I tell patients navigating this, specifically around skating:
 
 **Treat bad sessions as information, not a verdict.** Mood instability during this transition can make a totally normal off day at the park feel like proof you're failing at this. It isn't. Some days the board just isn't cooperating and some days your nervous system is having a rough one independent of the board entirely — learning to tell those apart, and not quitting over the second kind, is its own skill.
 
-**Talk to your doctor if mood symptoms are severe.** Skating helps. It is not a substitute for medical care if what you're experiencing is significant depression or anxiety rather than the more ordinary mood turbulence of this transition. If it's affecting your ability to function, that's a conversation for a doctor, not just a reason to skate more.
+**Talk to your doctor about new or persistent mood symptoms, not just severe ones.** Skating helps, but it isn't a diagnosis or a substitute for medical care. A clinician can help sort out how much of what you're feeling is hormonal versus something else — depression, a thyroid issue, sleep deprivation — that has its own treatment. Don't wait until symptoms are severe or are affecting your ability to function to have that conversation; mild or moderate changes that are new or sticking around are worth asking about too.
 
 ## The part worth sitting with
 
