@@ -15,4 +15,4 @@ addedDate: 2026-09-05
 lastVerified: 2026-09-05
 ---
 
-Rip City is the shop returning skaters make a pilgrimage to: it opened in 1978 and has traded from the same building on Santa Monica Boulevard ever since, with a reputation for looking the part. Hours are 10:30am to 5pm Monday to Saturday and noon to 4pm Sunday, and web orders ship Monday to Friday if you would rather order ahead. Venice Beach Skatepark is a short roll down to the coast, and the whole Dogtown story happened within a couple of miles of the door.
+Rip City is the shop returning skaters make a pilgrimage to: it opened in 1978 and has traded from the same building on Santa Monica Boulevard ever since, with a reputation for looking the part. Hours are 10:30am to 5pm Monday to Saturday and noon to 4pm Sunday, and web orders ship Monday to Friday if you would rather order ahead. [The Cove Skatepark](/directory/parks/us/the-cove-skatepark-santa-monica-ca) at Memorial Park is only a few blocks south, [Venice Beach Skate Park](/directory/parks/us/venice-beach-los-angeles-ca) is a short roll down to the coast, and the whole Dogtown story happened within a couple of miles of the door.

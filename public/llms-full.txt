@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-12T14:29:05.387Z
+# Date: 2026-10-14T05:35:49.753Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -7379,6 +7379,26 @@ Built in Nelson Park through a collaborative effort between the City of Sioux Fa
 For older skaters, the standout architectural benefit is the spatial separation between zones: a dedicated linear street plaza lane featuring low curbs, gentle bank wedges, and broad flatground corridors is isolated from the multi-level transition flow bowl. With operating hours beginning at 5:00 AM, early risers can take advantage of hours of empty concrete before school groups or weekend crowds arrive. High-output LED floodlights extend riding to 10:00 PM, though open prairie winds can pick up across Nelson Park in early spring and late autumn.
 
 
+### Bath Skatepark (Midcoast Youth Center)
+Maine's largest indoor wood skatepark, offering over 6,000 square feet of timber ramps and street features with quiet weekday morning and early-afternoon sessions (10am–2pm) during school hours, board/helmet rentals, and private beginner lessons.
+Location: Bath, Maine, US
+Website: https://mycbathskatepark.com/
+
+Operated by the nonprofit Midcoast Youth Center at 4 Old Brunswick Road, Bath Skatepark is the largest indoor skatepark in Maine, housing more than 6,000 square feet of wooden ramps, quarter-pipes, ledges, flat bars, and boxes inside a climate-controlled warehouse. For older skaters in Midcoast and southern Maine, the timber surfaces offer lower-impact landings than cold outdoor concrete and keep sessions going through months of snow and rain.
+
+Because regular operating hours open at 10:00am Monday through Friday (until 6:00pm, and 10:00am–5:00pm on Saturdays), weekday mornings and early afternoons before school lets out at 2:00pm offer a calm, uncrowded window for returning riders. One-hour private skateboarding lessons ($25) can also be booked in advance for one-on-one confidence building, and helmet and skateboard rentals ($4–$5) are available at the front desk. Note that the park is closed on Sundays, Saturday mornings from 10:00am to 12:00pm are reserved for a "Half Pints" session limited to children ages 5–10, any special sessions held after 6:00pm require riders to be 16+ (or accompanied by a parent/guardian), and general sessions are shared with scooters, inline skates, and BMX bikes.
+
+
+### Terrence McCrary, Jr. Memorial Skate Park (Berkeley Skatepark)
+An 18,000-square-foot municipal concrete skatepark in Harrison Park with dedicated areas for beginners, evening floodlights until 9:30pm, and monthly Saturday morning workshops for older skaters hosted by Skate Like a Girl SF Bay Area.
+Location: Berkeley, California, US
+Website: https://berkeleyca.gov/community-recreation/parks-recreation/facilities/skate-park
+
+Set inside Harrison Park in West Berkeley, the Terrence McCrary, Jr. Memorial Skate Park—known locally as Berkeley Skatepark—spans 18,000 square feet of poured concrete designed by SITE Design Group. The layout separates terrain into three distinct tiers so older skaters returning to the board can avoid high-speed cross-traffic: the upper perimeter ("The Track") and entrance ("Tech section") hold a small mini-pipe, manual pads, funboxes, and low flat bars, while the lower level ("The Pit") contains quarter-pipes, bank hips, and a deep oval bowl.
+
+The park is a primary East Bay hub for [Skate Like a Girl SF Bay Area](/directory/groups/us/skate-like-a-girl-sf-bay-area-ca), which hosts monthly Saturday morning workshops here tailored to older skaters rebuilding balance and safe falling mechanics. Weekend mornings starting at 8:00am and lit weeknights until 9:30pm offer the calmest windows. Note that the City of Berkeley requires helmets at all times (with knee and elbow pads strongly recommended), prohibits bikes and scooters, and closes the gate during municipal camp programs, clinics, and wet weather.
+
+
 ### Burnside Skate Park
 One of skateboarding's most iconic DIY spots, built by skaters under the Burnside Bridge in 1990. The organic concrete terrain features banks, bowls, and transitions that reward smooth, flowing skating. The atmosphere is mellow during weekday mornings when regulars — many of them in their 30s, 40s, and 50s — have the park to themselves.
 Location: Portland, Oregon, US
@@ -7503,6 +7523,16 @@ Website: https://www.portland.gov/parks/ed-benedict-park
 Opened in 2009 as Portland's first designated skate plaza, Ed Benedict is an environmentally integrated 18,000-square-foot concrete facility built with rain gardens and biofiltration islands that divide the park into distinct, low-stress zones. Unlike the steep, fast coping lines of Burnside, Ed Benedict emphasizes technical flatground, gentle banks, and low ledges that allow older skaters to rebuild muscle memory with low consequence.
 
 Arrive during the early morning hours between 5am and 9am for quiet, uninterrupted runs across the wide concrete avenues. Before your session, visit Cal Skate Skateboards on NW 6th Avenue in downtown Portland for setup adjustments and softer wheels.
+
+
+### Fairmont Skatepark
+A 15,600-square-foot municipal concrete skatepark in Salt Lake City's Sugar House neighborhood featuring overhead lighting, early 5:00am openings, and a street and mini-ramp course separated from its two bowls.
+Location: Salt Lake City, Utah, US
+Website: https://www.slc.gov/parks/salt-lake-city-unveils-final-design-for-fairmont-park/
+
+Set inside 27-acre Fairmont Park in Salt Lake City's Sugar House neighborhood, Fairmont Skatepark is a 15,600-square-foot poured-concrete facility designed by SITE Design Group. Its layout divides two deeper bowls—including an 8-foot kidney bowl—from a broad street and beginner-to-intermediate progression zone equipped with a mini-ramp, manual pads, low ledges, flat rails, banks, and a euro-gap, giving older skaters forgiving terrain to warm up on before dropping into deeper transition.
+
+With park hours running from 5:00am to 11:00pm and overhead floodlighting extending sessions well past sunset, returning skaters have reliable early-morning and late-evening windows outside the after-school rush. Restrooms and free parking are available inside Fairmont Park. Note that afternoon and weekend peak hours draw heavy scooter, BMX, and street traffic, and Salt Lake City's Public Lands Department has an active multi-year Fairmont Park improvement plan underway, so check city notices for any phased construction impacts around Sugarmont Drive.
 
 
 ### Familia Headquarters
@@ -7646,6 +7676,16 @@ Website: https://www.honolulu.gov/dpr/park-closure-hours/
 Tucked inside Kamiloʻiki Community Park in East Honolulu’s Hawaii Kai neighbourhood, this smooth concrete facility provides a relaxed riding environment away from busier downtown Oahu spots. For older skaters, the course layout separates its gentle rounded transition bowl from the central street obstacles, preventing cross-traffic collisions and allowing returners to warm up at their own rhythm.
 
 The facility features wide banks, low perimeter ledges, and flat rails with ample approach space. With gates opening at 6:00 AM, the early morning hours provide a tranquil, wind-sheltered session before midday tropical heat and trade winds build up. In the evening, push-button floodlights keep the park rideable until 10:00 PM. Tropical rain squalls can quickly make the polished concrete slick, so allow brief showers to fully evaporate before taking fast lines.
+
+
+### Kennesaw Skatepark (Swift-Cantrell Park)
+A 40,000-square-foot all-concrete municipal skatepark in metro Atlanta divided into three distinct zones—street plaza, flow course, and bowl—with 6:00am openings, automated evening lights until 10:00pm, and a strict ban on bikes and scooters.
+Location: Kennesaw, Georgia, US
+Website: https://www.kennesaw-ga.gov/parks-and-recreation/swift-cantrell-park/kennesaw-skatepark/
+
+Set along the western edge of 40-acre Swift-Cantrell Park northwest of Atlanta, Kennesaw Skatepark offers 40,000 square feet of poured concrete divided into three clearly separated areas: a Street League Skateboarding Foundation Certified Skate Plaza, a central flow course, and a dedicated bowl. For older skaters easing back in, that massive footprint and three-zone layout make it easy to claim a quiet flatground lane or gentle bank in the plaza or flow section without crossing into deep-bowl lines.
+
+Two municipal rules make this park especially accommodating for returning skateboarders: gates open at 6:00am with automated timer lights keeping the concrete lit until 10:00pm, and bikes and scooters are strictly prohibited (only skateboards, inline skates, and wheelchairs are permitted), eliminating unpredictable scooter cross-traffic. Keep in mind that the city occasionally closes the skatepark for full-day clinics or competitions, and while main park parking is free, overflow parking at neighboring Kennesaw Elementary is restricted until after 5:30pm on weekdays.
 
 
 ### Kona Skatepark
@@ -7944,6 +7984,16 @@ Penn Valley Skatepark, also known as Kansas City Skate Plaza, is a 17,000-square
 Older skaters will appreciate the shallow end of the bowl, widely recommended as an ideal spot to safely learn to drop in and practice transition basics. For those balancing skating with work, the park opens at 5am and remains brightly lit until midnight. It pairs excellently with a visit to the local core shop, Escapist Skateboarding.
 
 
+### Perkins Road Community Park Skatepark
+A 30,000-square-foot California Skateparks concrete facility operated by BREC Extreme Sports with night lighting until 10:00pm (midnight on weekends), daily afternoon staff, and beginner Skateboarding Basics and Academy clinics.
+Location: Baton Rouge, Louisiana, US
+Website: https://www.brec.org/ExtremeSports
+
+Anchored inside BREC's Extreme Sports complex in Baton Rouge, the Perkins Road Community Park Skatepark spans 30,000 square feet of smooth concrete built by California Skateparks. For older skaters working around daytime jobs or Louisiana's midday heat, the park's floodlighting is a major asset: the concrete stays open and lit until 10:00pm Sunday through Thursday and until midnight on Friday and Saturday, with an on-site Extreme Sports office staffed daily from 3:00pm to 9:00pm.
+
+BREC also runs seasonal **Intro to Skateboarding (Skateboarding Basics)** drop-in clinics and **Skateboarding Academy** instruction explicitly open to beginners of any experience level. If you are warming up your legs, start on the wide street aprons and mellower quarter-pipes or warm up on the park's smooth outdoor walking and skating loop before dropping into the main bowls. Note that BMX bikes, inline skates, and roller skates share the skatepark with skateboarders, so early mornings after sunrise or late evening hours under the lights offer the most relaxed traffic; helmets and pads are strongly recommended.
+
+
 ### Peter Mathews Memorial Skate Garden
 A well-designed, versatile concrete skate garden in the Bevo Mill neighborhood. Fully lit and open until 10 PM, offering a welcoming environment for evening sessions.
 Location: St. Louis, Missouri, US
@@ -8216,6 +8266,26 @@ Website: https://www.cityofsacramento.org/
 Tanzanite Skatepark offers a balanced array of transition and street elements to accommodate the diverse Sacramento skate scene. It is highly practical for older skaters working typical daytime schedules, offering strong floodlighting and reliable operating hours until 9:00 PM. The park's diverse terrain separates technical ledges from the flow sections, providing space to reacquaint yourself with the board without pressure.
 
 
+### The Bay Skatepark
+A 12,000-square-foot indoor wood skatepark in Lincoln that hosts dedicated Sunday evening sessions exclusively for skaters aged 19 and over, alongside beginner lessons and workshops.
+Location: Lincoln, Nebraska, US
+Website: https://www.thebay.org/locations/bay-lnk/
+
+Housed inside a nonprofit community center at 2005 Y Street, The Bay Skatepark spans roughly 12,000 square feet of indoor wooden ramps, transitions, rails, and street obstacles, making it a year-round refuge from Nebraska's winter freezes and summer heat. While the broader center serves youth education during weekday school hours, the skatepark specifically supports older skaters with a dedicated weekly session every Sunday evening from 5:00pm to 10:00pm restricted to ages 19 and up.
+
+The timber surface is noticeably more forgiving on knees and hips than outdoor concrete, and new or returning riders can start on the smaller wooden banks, funboxes, and mellow transition pockets before working toward the larger quarter-pipes. Structured lessons and workshops are also offered through the facility. Note that the park is closed on Mondays and does not open for public drop-in until 3:00pm on weekdays while Bay High classes are in session; check the online program finder before travelling in case a live music or community event affects evening hours.
+
+
+### The Cove Skatepark
+A 20,000-square-foot supervised municipal concrete park at Memorial Park that reserves dedicated evening sessions exclusively for skaters aged 18 and over on Wednesdays and Sundays.
+Location: Santa Monica, California, US
+Website: https://www.santamonica.gov/places/city-facilities/the-cove-skatepark
+
+Located inside Santa Monica's Memorial Park, The Cove Skatepark offers 20,000 square feet of smooth concrete transition and street terrain in the heart of historic Dogtown territory. What makes The Cove especially practical for older skaters is its official municipal schedule: the city reserves Wednesday evenings (5:30pm–9:00pm) and Sunday evenings (6:00pm–9:00pm) exclusively for skaters aged 18 and over, clearing out younger after-school crowds under full floodlights.
+
+Start on the gentler banks, milder transition pockets, and street lanes before stepping up to the tile-coped pool or the deep over-vert bowl. Because the facility is staffed and fenced, all riders must complete a one-time registration at the Memorial Park office and wear full protective gear (helmet, knee pads, and elbow pads). Note that Thursday evenings from 5:30pm to 8:00pm are restricted to BMX bikes only, and the park occasionally closes to general drop-in during scheduled youth instructional blocks. For decks, softer transition wheels, or replacement pads beforehand, legendary [Rip City Skates](/directory/shops/us/rip-city-skates-santa-monica-ca) is just a few blocks north on Santa Monica Boulevard.
+
+
 ### Tupelo Skatepark
 Located within Ballard Park, this concrete park offers a bowl with varying depths to accommodate different skill levels. User-activated lights stay on until 10 PM, ensuring plenty of time for quiet evening sessions.
 Location: Tupelo, Mississippi, US
@@ -8256,6 +8326,16 @@ Website: https://www.wheelingwv.gov/directory/Parks-Recreation/skatepark
 Constructed by Grindline Skateparks at the foot of the hill leading to the I-470 athletic fields in Elm Grove, the Wheeling Skatepark is a 10,000-square-foot cast-in-place concrete public venue. For older skaters, the course offers a forgiving transition curve: its organically shaped main bowl slopes gradually from a manageable 4-foot shallow pocket up to a 10-foot deep end, allowing riders to rebuild carving confidence without commitment to high vertical drops.
 
 The facility is open 24 hours a day with full floodlighting, making early dawn sessions before local traffic picks up especially accessible. The City of Wheeling maintains an official public webcam feed on their municipal website, enabling skaters to check current crowd levels and surface conditions before making the drive. Note that bicycles are strictly prohibited by city ordinance to protect skaters from sudden blind-side collisions, and falling autumn leaves from the surrounding hillside can require a quick sweep before dropping in.
+
+
+### Williams Farm Skatepark
+A 25,000-square-foot municipal concrete skatepark in Virginia Beach featuring LED floodlighting for night sessions until 11:00pm and three distinct zones—an urban street plaza, a mid-park flow course, and a tiered bowl.
+Location: Virginia Beach, Virginia, US
+Website: https://parks.virginiabeach.gov/outdoors/skate-parks
+
+Located adjacent to the Williams Farm Recreation Center in Virginia Beach, Williams Farm Skatepark is a 25,000-square-foot poured-concrete facility that offers a much more approachable, well-lit alternative to the towering vert and deep bowl at nearby Mount Trashmore. The layout is organized into three distinct zones—an urban street plaza, a central flow park with smooth, roll-in transitions, and a tiered bowl—allowing older skaters to practice flatground turns and gentle bank-to-bank carving in the plaza or flow section without dropping into the deep end.
+
+Overhead LED floodlighting keeps the park open and rideable from sunrise until 11:00pm daily, while early mornings after sunrise provide the quietest sessions before faster intermediate street skaters, BMX riders, and kick-scooter traffic arrive in the afternoon. Note that the facility is unsupervised (helmets and full protective gear are strongly recommended by the City of Virginia Beach), electric or motorized devices are prohibited, and the city may temporarily close the park when rain, snow, or condensation makes the concrete slick.
 
 
 ### Woodward Park City
@@ -8546,7 +8626,7 @@ The same small building on Santa Monica Boulevard since 1978, and by its own acc
 Location: Santa Monica, California, US
 Website: https://ripcity-skates.com
 
-Rip City is the shop returning skaters make a pilgrimage to: it opened in 1978 and has traded from the same building on Santa Monica Boulevard ever since, with a reputation for looking the part. Hours are 10:30am to 5pm Monday to Saturday and noon to 4pm Sunday, and web orders ship Monday to Friday if you would rather order ahead. Venice Beach Skatepark is a short roll down to the coast, and the whole Dogtown story happened within a couple of miles of the door.
+Rip City is the shop returning skaters make a pilgrimage to: it opened in 1978 and has traded from the same building on Santa Monica Boulevard ever since, with a reputation for looking the part. Hours are 10:30am to 5pm Monday to Saturday and noon to 4pm Sunday, and web orders ship Monday to Friday if you would rather order ahead. [The Cove Skatepark](/directory/parks/us/the-cove-skatepark-santa-monica-ca) at Memorial Park is only a few blocks south, [Venice Beach Skate Park](/directory/parks/us/venice-beach-los-angeles-ca) is a short roll down to the coast, and the whole Dogtown story happened within a couple of miles of the door.
 
 
 ### Skate City Supply
@@ -8705,7 +8785,7 @@ Northern California chapter organizing dedicated monthly Saturday morning adult 
 Location: Berkeley, California, US
 Website: https://www.skatelikeagirl.com/sfbayarea.html
 
-Skate Like a Girl’s SF Bay Area chapter provides one of the most accessible community gateways for older skaters, beginners, and returning adults in Northern California. Hosted at venues including Berkeley Skatepark and regional East Bay and San Francisco parks, their monthly three-hour Adult Skate Workshops are explicitly structured around building balance, safe falling mechanics, and confidence without intimidation.
+Skate Like a Girl’s SF Bay Area chapter provides one of the most accessible community gateways for older skaters, beginners, and returning riders in Northern California. Hosted at venues including [Berkeley Skatepark](/directory/parks/us/berkeley-skatepark-ca) and regional East Bay and San Francisco parks, their monthly three-hour Saturday morning workshops are explicitly structured around building balance, safe falling mechanics, and confidence without intimidation.
 
 Free loaner boards, helmets, and full protective pad sets are on hand for all participants, lowering the financial and gear barrier for those trying skating again after decades off the board. Sessions emphasize mutual support and patient progression on mellow ramps and flat ground. The collective frequently connects with DLX Skate Shop on Folsom Street in San Francisco for hardware advice and visits nearby parks like Potrero del Sol.
 

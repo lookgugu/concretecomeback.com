@@ -16,6 +16,6 @@ addedDate: 2026-10-10
 active: true
 ---
 
-Skate Like a Girl’s SF Bay Area chapter provides one of the most accessible community gateways for older skaters, beginners, and returning adults in Northern California. Hosted at venues including Berkeley Skatepark and regional East Bay and San Francisco parks, their monthly three-hour Adult Skate Workshops are explicitly structured around building balance, safe falling mechanics, and confidence without intimidation.
+Skate Like a Girl’s SF Bay Area chapter provides one of the most accessible community gateways for older skaters, beginners, and returning riders in Northern California. Hosted at venues including [Berkeley Skatepark](/directory/parks/us/berkeley-skatepark-ca) and regional East Bay and San Francisco parks, their monthly three-hour Saturday morning workshops are explicitly structured around building balance, safe falling mechanics, and confidence without intimidation.
 
 Free loaner boards, helmets, and full protective pad sets are on hand for all participants, lowering the financial and gear barrier for those trying skating again after decades off the board. Sessions emphasize mutual support and patient progression on mellow ramps and flat ground. The collective frequently connects with DLX Skate Shop on Folsom Street in San Francisco for hardware advice and visits nearby parks like Potrero del Sol.
