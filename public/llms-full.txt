@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-14T05:27:11.430Z
+# Date: 2026-10-14T05:34:24.705Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -7266,13 +7266,13 @@ For older skaters, the standout architectural benefit is the spatial separation 
 
 
 ### Bath Skatepark (Midcoast Youth Center)
-Maine's largest indoor wood skatepark, offering over 6,000 square feet of timber ramps and street features with evening sessions after 6:00pm restricted to ages 16+ (or accompanied by a parent) and private beginner lessons.
+Maine's largest indoor wood skatepark, offering over 6,000 square feet of timber ramps and street features with quiet weekday morning and early-afternoon sessions (10am–2pm) during school hours, board/helmet rentals, and private beginner lessons.
 Location: Bath, Maine, US
-Website: https://www.midcoastyouth.org/bath-skatepark/
+Website: https://mycbathskatepark.com/
 
 Operated by the nonprofit Midcoast Youth Center at 4 Old Brunswick Road, Bath Skatepark is the largest indoor skatepark in Maine, housing more than 6,000 square feet of wooden ramps, quarter-pipes, ledges, flat bars, and boxes inside a climate-controlled warehouse. For older skaters in Midcoast and southern Maine, the timber surfaces offer lower-impact landings than cold outdoor concrete and keep sessions going through months of snow and rain.
 
-Two policies make the facility particularly welcoming for returning riders: after 6:00pm on open evenings, floor access is restricted to skaters aged 16 and up (unless accompanied by a parent or guardian), calming the floor on Friday and Saturday nights, and one-hour private skateboarding lessons ($25) can be booked in advance for one-on-one confidence building. Helmet and skateboard rentals ($4–$5) are also available at the desk. Note that Saturday mornings from 10:00am to 12:00pm are reserved for a "Half Pints" session limited to children ages 6–10, and general sessions are shared with scooters, inline skates, and BMX bikes.
+Because regular operating hours open at 10:00am Monday through Friday (until 6:00pm, and 10:00am–5:00pm on Saturdays), weekday mornings and early afternoons before school lets out at 2:00pm offer a calm, uncrowded window for returning riders. One-hour private skateboarding lessons ($25) can also be booked in advance for one-on-one confidence building, and helmet and skateboard rentals ($4–$5) are available at the front desk. Note that the park is closed on Sundays, Saturday mornings from 10:00am to 12:00pm are reserved for a "Half Pints" session limited to children ages 5–10, any special sessions held after 6:00pm require riders to be 16+ (or accompanied by a parent/guardian), and general sessions are shared with scooters, inline skates, and BMX bikes.
 
 
 ### Terrence McCrary, Jr. Memorial Skate Park (Berkeley Skatepark)
@@ -8215,13 +8215,13 @@ The facility is open 24 hours a day with full floodlighting, making early dawn s
 
 
 ### Williams Farm Skatepark
-A 25,000-square-foot municipal concrete skatepark in Virginia Beach featuring LED floodlighting for night sessions and three distinct zones—an urban street plaza, a mid-park flow course, and a tiered bowl.
+A 25,000-square-foot municipal concrete skatepark in Virginia Beach featuring LED floodlighting for night sessions until 11:00pm and three distinct zones—an urban street plaza, a mid-park flow course, and a tiered bowl.
 Location: Virginia Beach, Virginia, US
-Website: https://parks.virginiabeach.gov/outdoors/city-parks/williams-farm-park
+Website: https://parks.virginiabeach.gov/outdoors/skate-parks
 
 Located adjacent to the Williams Farm Recreation Center in Virginia Beach, Williams Farm Skatepark is a 25,000-square-foot poured-concrete facility that offers a much more approachable, well-lit alternative to the towering vert and deep bowl at nearby Mount Trashmore. The layout is organized into three distinct zones—an urban street plaza, a central flow park with smooth, roll-in transitions, and a tiered bowl—allowing older skaters to practice flatground turns and gentle bank-to-bank carving in the plaza or flow section without dropping into the deep end.
 
-Overhead LED floodlighting keeps the park rideable into the evening after work hours, while early mornings after sunrise provide the quietest sessions before faster intermediate street skaters, BMX riders, and scooter traffic arrive in the afternoon. Before your first session, note two strict City of Virginia Beach requirements: all participants must register for a free municipal skate park pass, and an industry-standard helmet is mandatory at all times (with knee and elbow pads strongly recommended).
+Overhead LED floodlighting keeps the park open and rideable from sunrise until 11:00pm daily, while early mornings after sunrise provide the quietest sessions before faster intermediate street skaters, BMX riders, and kick-scooter traffic arrive in the afternoon. Note that the facility is unsupervised (helmets and full protective gear are strongly recommended by the City of Virginia Beach), electric or motorized devices are prohibited, and the city may temporarily close the park when rain, snow, or condensation makes the concrete slick.
 
 
 ### Woodward Park City
