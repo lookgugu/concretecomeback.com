@@ -1,5 +1,5 @@
 ---
-title: "Skateboarding Through Menopause: The Mental Health Piece Nobody Talks About"
+title: "What Menopause Does to Your Mood, and Why Skating Fits It So Well"
 description: "Perimenopause and menopause reshape mood and motivation, not just joints — why skating's challenge-and-reward loop fits that shift unusually well."
 pubDate: 2026-10-14
 author: "Jo Fairweather"
