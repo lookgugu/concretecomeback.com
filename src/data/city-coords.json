@@ -364,6 +364,11 @@
     "lng": -84.3898,
     "source": "Atlanta, Fulton County, Georgia, United States"
   },
+  "US|georgia|kennesaw": {
+    "lat": 34.0234,
+    "lng": -84.6155,
+    "source": "Kennesaw, Cobb County, Georgia, United States"
+  },
   "US|hawaii|honolulu": {
     "lat": 21.3045,
     "lng": -157.8557,
@@ -414,10 +419,20 @@
     "lng": -85.7594,
     "source": "Louisville, Jefferson County, Kentucky, United States"
   },
+  "US|louisiana|baton rouge": {
+    "lat": 30.4494,
+    "lng": -91.187,
+    "source": "Baton Rouge, East Baton Rouge Parish, Louisiana, United States"
+  },
   "US|louisiana|new orleans": {
     "lat": 29.9561,
     "lng": -90.0734,
     "source": "New Orleans, Orleans Parish, Louisiana, United States"
+  },
+  "US|maine|bath": {
+    "lat": 43.9134,
+    "lng": -69.814,
+    "source": "Bath, Sagadahoc County, Maine, 04530, United States"
   },
   "US|maine|south portland": {
     "lat": 43.6382,
@@ -493,6 +508,11 @@
     "lat": 46.8701,
     "lng": -113.9953,
     "source": "Missoula, Missoula County, Montana, United States"
+  },
+  "US|nebraska|lincoln": {
+    "lat": 40.8089,
+    "lng": -96.7078,
+    "source": "Lincoln, Lancaster County, Nebraska, United States"
   },
   "US|nebraska|norfolk": {
     "lat": 42.0283,
@@ -684,6 +704,11 @@
     "lng": -111.498,
     "source": "Park City, Summit County, Utah, United States"
   },
+  "US|utah|salt lake city": {
+    "lat": 40.7596,
+    "lng": -111.8868,
+    "source": "Salt Lake City, Salt Lake County, Utah, United States"
+  },
   "US|vermont|burlington": {
     "lat": 44.4762,
     "lng": -73.2129,
@@ -698,6 +723,11 @@
     "lat": 38.8769,
     "lng": -77.0893,
     "source": "Arlington County, Virginia, United States"
+  },
+  "US|virginia|virginia beach": {
+    "lat": 36.8497,
+    "lng": -75.9761,
+    "source": "Virginia Beach, Virginia, United States"
   },
   "US|washington|seattle": {
     "lat": 47.6038,
@@ -745,8 +775,8 @@
     "source": "derived: mean of 18 listed UK cities"
   },
   "US": {
-    "lat": 38.8823,
-    "lng": -93.5393,
-    "source": "derived: mean of 99 listed US cities"
+    "lat": 38.8205,
+    "lng": -93.2436,
+    "source": "derived: mean of 105 listed US cities"
   }
 }

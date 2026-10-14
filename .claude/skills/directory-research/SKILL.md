@@ -179,3 +179,6 @@ Keep this current when a batch defers something, so the next pass starts here. T
 - **Marilla Park Skatepark (old), Morgantown WV** — Marilla Center. Held: demolished during pool reconstruction, new action sports complex in planning.
 - **Magdalena Ecke YMCA Skatepark (Adult Night), Encinitas CA** — 200 Saxony Rd. Held: historical adult-specific night discontinued; open skate only.
 - **Dodge Skatepark, Columbus OH** — 667 Sullivant Ave; concrete. Held: features significant advanced bowl and transition elements; known for lumpy/uneven concrete with no documented beginner ability separation or adult programs.
+- **Iowa City Skatepark (Terrell Mill Park), Iowa City IA** — 1209 N Dubuque St; concrete. Held: open dawn to dusk with no dedicated night lighting, and undergoing active 2026 expansion and pump-track construction.
+- **The Railyard Bike Park, Rogers AR** — 299 E Cherry St. Held: dedicated bike skill park with dirt/composite jump lines and rollers rather than a skateboard park.
+- **Mount Trashmore Skatepark, Virginia Beach VA** — 310 Edwin Dr; SkateLite composite over wood framing. Held: closes at sunset with no night floodlighting, and its large elements (7-foot bowl and 13.5-foot vert ramp) cater primarily to advanced transition and vert riders; Virginia Beach coverage satisfied by lit concrete Williams Farm Skatepark.
