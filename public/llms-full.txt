@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-14T09:09:37.764Z
+# Date: 2026-10-14T09:14:19.888Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -722,13 +722,13 @@ The useful response to "cartilage wear is common after 40" isn't a scan. It's a 
 
 **Pay attention to how a knee feels the next day, not just during the session.** Cartilage irritation often shows up as next-day stiffness or mild swelling rather than sharp pain in the moment. If a knee feels notably different the day after a session compared to how it felt during it, that's worth noting and adjusting for, not ignoring because "it didn't hurt at the time."
 
-**Don't let the statistic become a reason not to start.** This is the part I actually want to land: the research shows cartilage changes are common in people who have no idea they have them and experience no limitation from them. That's an argument for sensible loading, not for sitting out. Skateboarding, done with the kind of gradual build this site recommends, is weight-bearing and joint-friendly in ways that compare reasonably well to higher-impact sports — avoiding it out of fear of a defect you probably don't even know you have is very likely a worse trade than skating it sensibly.
+**Don't let the statistic become a reason not to start.** This is the part I actually want to land: the research shows cartilage changes are common in people who have no idea they have them and experience no limitation from them. The MRI studies behind that finding only looked at who has these changes, not at whether skating — or exercise generally — makes them better or worse; the honest answer is that the evidence on how physical activity affects existing cartilage wear is still unsettled. What that uncertainty argues for is sensible, gradual loading rather than either extreme: not skating through pain or ignoring how a knee responds, but also not sitting out a sport you want to do because of a defect you probably don't even know you have and that current research simply hasn't shown skating would worsen.
 
 **If you're already managing a diagnosed cartilage issue, this is different advice.** Everything above is about asymptomatic, undiagnosed wear in the general population. If you have an actual diagnosis — a known tear, documented osteoarthritis, a joint your doctor has already flagged — that's a conversation to have directly with your physiotherapist or orthopedist about what load your specific knee can handle, not something to extrapolate from a population statistic.
 
 ## The honest takeaway
 
-Most adults past 40 are carrying some cartilage wear they don't know about, and most of them are fine. That's not a reason for alarm, and it's not a reason to skip medical attention if something actually feels wrong. It's a reason to build your comeback the way this site already recommends — gradually, paying attention to how your joints respond, and without assuming pain-free means damage-free, or that damage-you-don't-feel means damage you need to fix before you start.
+A large share of adults past 40 — roughly four in ten knees, by the best pooled estimate — are carrying some cartilage wear they don't know about, and most of those people are fine. That's not a reason for alarm, and it's not a reason to skip medical attention if something actually feels wrong. It's a reason to build your comeback the way this site already recommends — gradually, paying attention to how your joints respond, and without assuming pain-free means damage-free, or that damage-you-don't-feel means damage you need to fix before you start.
 
 
 ### Carving First: The Skill Adult Returners Always Skip
