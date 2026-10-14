@@ -1,5 +1,5 @@
 ---
-title: "Nearly Half of Adults Over 40 Have Cartilage Damage and Don't Know It"
+title: "Cartilage Damage Shows Up in Nearly Half of Knees Past 40, Research Finds"
 description: "Research shows cartilage defects are common in pain-free knees past 40. What that means before you get back on a skateboard, and whether to get scanned."
 pubDate: 2026-10-14
 author: "Jo Fairweather"
@@ -18,7 +18,7 @@ Here's what the evidence actually shows, and what it should change about how you
 
 A 2019 systematic review and meta-analysis published in the *British Journal of Sports Medicine* pooled data from dozens of studies — more than five thousand knees across several thousand adults — looking at cartilage defects visible on MRI in people with no knee pain and no history of injury. In adults under 40, cartilage defects showed up in roughly one in ten knees. In adults 40 and older, that number jumped to somewhere around four in ten.
 
-Read that again: a large share of pain-free, uninjured adults past 40 are walking around with visible cartilage damage they have no symptoms of and no reason to suspect. Individual studies vary quite a bit around that figure — some report lower rates, a few report considerably higher ones, largely depending on scan strength and how strictly "damage" gets defined — but the direction is consistent across the research: cartilage wear is common, it accumulates with age, and pain is a poor indicator of whether it's present.
+Read that again: in roughly four out of every ten knees examined in pain-free, uninjured adults past 40, there's visible cartilage damage nobody had symptoms of or reason to suspect. Individual studies vary quite a bit around that figure — some report lower rates, a few report considerably higher ones, largely depending on scan strength and how strictly "damage" gets defined — but the direction is consistent across the research: cartilage wear is common, it accumulates with age, and pain is a poor indicator of whether it's present.
 
 ## Why this doesn't mean what it sounds like it means
 
