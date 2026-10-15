@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-14T05:35:49.753Z
+# Date: 2026-10-15T09:21:13.385Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -824,6 +824,50 @@ Collagen doesn't reverse existing tendon damage overnight, and it isn't a substi
 Hydrolyzed collagen is generally well tolerated, but check the source if you have food allergies or dietary restrictions — most commercial collagen is derived from bovine or marine (fish) sources, and occasionally porcine. Vitamin C at the doses used here is low risk for most adults, though very high doses from supplements generally (well beyond what's in this protocol) can cause digestive upset in some people. As with any new supplement, if you're managing a chronic condition or taking regular medication, it's worth a quick check with your doctor or pharmacist before starting — not because collagen has significant known interactions, but because that's a five-minute conversation worth having before you start rather than after.
 
 Give it the full twelve weeks, pair it with actual loading exercise, and treat it as what it is: a reasonably well-supported, low-risk addition to a recovery plan — not a replacement for one.
+
+
+### Collarbone Fractures: The Adult Skater's Injury Guide
+Why clavicle fractures hit adult skaters so often, what the sling period actually involves, and a realistic timeline back to the board.
+
+Wrists get the warnings. Ankles get their own guide. The collarbone quietly ends up on crutches of its own kind, and almost nobody saw it coming until the fall that did it.
+
+It's a predictable injury once you understand the mechanics, and a frustrating one to go through unprepared. Here's what you need to know before it happens, and what to actually expect if it already has.
+
+## Why this bone, and why adults especially
+
+A collarbone fracture usually happens one of two ways: landing directly on the point of the shoulder, or an outstretched arm transmitting the force of a fall up through the arm and into the clavicle itself. Both are common in skating falls — a backward spill where you reach out to catch yourself, or a shoulder-first landing when you don't get your hands under you in time.
+
+Adult skaters are more exposed to this mechanism than younger ones for a simple reason: reaction time slows with age, and the instinct to brace with an outstretched arm often fires a beat too late or too early relative to how the fall is actually unfolding. Bone density also declines gradually from the 40s onward, so the same impact that would bend a 20-year-old's clavicle can crack a 45-year-old's. Neither of these is a reason to stop skating. It's a reason to take falling technique seriously rather than treating it as something you'll just figure out instinctively.
+
+## What it feels like, and how to tell it's this and not a shoulder injury
+
+A clavicle fracture usually announces itself clearly: sharp, localized pain right along the collarbone, often with visible swelling or a bump at the fracture site, and a strong reluctance to lift the arm away from the body at all. Many people instinctively cradle the injured arm against their chest with the other hand — that posture alone is a useful clue.
+
+It's easy to confuse with a shoulder dislocation or an AC joint sprain, both of which also follow shoulder-first falls. The distinguishing feature is usually location: a clavicle fracture hurts along the collarbone itself, often with a palpable step or deformity you can see or feel through the skin, while a shoulder or AC joint injury concentrates pain at the joint. Either way, this isn't something to self-diagnose with confidence. Get it imaged.
+
+## The first steps
+
+Any suspected clavicle fracture needs an X-ray before anything else gets decided. Until you've had one, immobilize the arm against your body — a sling, or even a jacket wrapped to hold the arm still, works for the trip to urgent care or the ER. Don't try to test the range of motion or "walk it off." Ice helps with pain and swelling in the meantime, applied with a barrier between ice and skin.
+
+Most clavicle fractures in adults are managed without surgery: a sling for several weeks, pain management, and a gradual return to motion as the bone heals. Fractures that are significantly displaced, shortened, or that involve the skin breaking sometimes need surgical fixation with a plate and screws — that decision belongs to an orthopedist reading your actual imaging, not a general rule of thumb.
+
+## What the sling period actually involves
+
+This is the part that surprises people: a non-displaced clavicle fracture typically stays in a sling for somewhere in the range of four to six weeks, with some adults needing longer, especially if the fracture is more complex or healing is slower than average. During that window your job isn't to rest the whole arm into stiffness — it's to follow whatever graded mobility your provider clears you for. That usually means keeping the elbow, wrist, and hand moving with their own simple range-of-motion exercises, since those joints aren't injured and stiffening up helps nobody, while the shoulder itself is only moved the way your clinician's protocol specifies — often starting with gentle, passive pendulum exercises rather than any active lifting, and only once they judge the fracture stable enough for it.
+
+Full healing, meaning bone strength adequate for the kind of unpredictable loading skating demands, generally takes longer than the sling period itself — often two to three months before a provider is comfortable clearing contact-level activity, and sometimes more. That gap between "out of the sling" and "actually ready to skate again" is where a lot of adult skaters get into trouble, because the shoulder can look and feel mobile well before the bone has the structural integrity to handle a hard fall onto it.
+
+## Rebuilding before you go back
+
+Once you're cleared for strengthening, the shoulder and the muscles around the collarbone — the trapezius, deltoid, and the smaller stabilizers of the shoulder blade — need deliberate rebuilding. Weeks in a sling cost you strength and range of motion that doesn't come back just by waiting. A physiotherapist can guide progressive loading; if you don't have access to one, start with gentle range-of-motion work and very light resistance band exercises well before you consider anything that involves falling again.
+
+Before you actually push off, you want full pain-free range of motion in the shoulder, strength that feels close to symmetrical with your uninjured side, and confidence that you could brace a fall without immediately protecting the area out of fear. That last one matters more than it sounds — a shoulder that's structurally healed but that you're still flinching to protect isn't really ready, because hesitation changes how you fall.
+
+## Reducing the odds of a repeat
+
+You can't eliminate this risk, but you can shift it. Falling technique — tucking in, rolling rather than reaching straight out, keeping elbows bent instead of locked — redirects force away from a straight shot into the collarbone. Padded shirts and some impact-rated gear built for shoulder and upper-body protection exist and are worth considering if you've already broken a collarbone once; a second fracture in the same bone, or a break in the other collarbone from compensating awkwardly, is a real pattern among skaters who come back without changing anything about how they fall.
+
+A broken collarbone isn't a reason to give up your comeback. It is a reason to respect the actual timeline rather than the one you'd prefer, and to use the recovery to fix the habits that led to the fall in the first place.
 
 
 ### How to Actually Commit to the Drop-In at Any Age
@@ -4084,6 +4128,48 @@ If you've been circling the idea of getting back on a board, early autumn — Se
 Go find your board. If you're in the temperate Northern Hemisphere, the window is open right now. If you're in the temperate south, put your own post-summer window in the diary today. If you're in the tropics, either side of the equator, your window is the cooler, drier season — diary that instead. Whenever it arrives, treat it exactly the way this post treats September.
 
 
+### Shin Bang: The One Injury Nobody Warned You About
+Why the board catching your shin hurts so much worse as an adult, how to tell a bruise from something serious, and the gear that actually helps.
+
+Every skate safety guide covers wrists. Most cover ankles, knees, hips, even collarbones. Almost none of them mention the injury that will probably happen to you first, and happen often: the board flipping up and catching you square in the shin.
+
+Skaters call it shin bang, and if you've been back on a board for more than a few weeks, you already know the feeling without needing it described. Here's why it happens, why it's worse for adults, and what actually helps.
+
+## What's actually happening
+
+Shin bang happens when the tail or edge of the board strikes the front of your shin, usually during a bail, a missed trick, or an awkward dismount where the board doesn't go where your feet expect. The front of the shin — the tibia — sits right under the skin with almost no muscle padding to absorb an impact, which is exactly why it hurts disproportionately to the size of the hit. A board edge catching you there delivers concentrated force directly onto bone and the thin layer of tissue over it.
+
+The result is usually a combination of a sharp, immediate pain response, followed by swelling, and often a deep, spreading bruise that can look far more dramatic a day or two later than it did in the moment. Repeated minor hits in the same spot, which is extremely common for anyone learning flip tricks or still inconsistent with their landings, can turn one sore spot into a chronically tender area that takes weeks to fully settle.
+
+## Why adults feel it more
+
+Younger skaters get shin bang too, but a few things make it a bigger deal for adult returners specifically. Skin and subcutaneous tissue thin out somewhat with age, leaving even less natural cushioning over the shin bone than a teenager has. Healing from soft-tissue bruising also slows down, so a hit that a 16-year-old shrugs off in three days can leave an adult sore and tender for one to two weeks. And because adults are more likely to be relearning tricks they haven't attempted in years — or attempting new ones that were never natural to them — the repetitive miss-and-recatch pattern that causes shin bang in the first place happens more, not less, during a comeback.
+
+## When it's just a bruise, and when it's something more
+
+The overwhelming majority of shin bang is a straightforward, if painful, soft-tissue bruise: swelling, tenderness, and a bruise that changes color over the following week or two, with no sharp point of bone tenderness and no change in sensation below the injury.
+
+Pay attention, though, if any of the following shows up: pain that keeps getting worse rather than settling over the first 24 to 48 hours, a lower leg that feels unusually tight, swollen, or hard compared to the other side, numbness or tingling in the foot, or pain that feels dramatically out of proportion to the hit itself, especially with increasing tightness. Those are the warning signs of compartment syndrome — a rare but serious buildup of pressure in the muscle compartments of the lower leg that needs emergency evaluation, not home management. It's uncommon, but it's the reason "it's probably just a bruise" isn't a safe default if the leg is behaving in any of those ways. Sharp, localized pain directly over the bone itself, rather than spread across the soft tissue, is also worth getting checked — a hard enough hit can occasionally cause a stress reaction or, rarely, a fracture, and that's a different recovery timeline entirely.
+
+## Treating ordinary shin bang
+
+For the standard bruise-and-swelling version, the same POLICE framework used for sprains applies here in a lighter form: protect the area from more direct hits while it's tender, keep moving within what's comfortable rather than going fully sedentary, ice for short periods in the first day or two, and elevate when you can. Compression sleeves can help with the swelling and also add a small layer of protection against re-hitting the same spot before it's healed.
+
+Most shin bang resolves on its own timeline — several days for a mild hit, one to two weeks for a harder one — without needing more than basic care. What it does need is patience: hitting the same half-healed spot again resets the clock and tends to make each subsequent hit feel worse than the last.
+
+## The gear that actually helps
+
+Dedicated skate shin guards exist and have genuinely improved in recent years — slimmer, less bulky designs that sit under pants without looking like hockey gear, built specifically for the kind of glancing board-edge impact skating produces rather than the blunt, high-force hits shin guards for other sports are designed around. If you're in the early, trick-learning phase where shin bang happens most, or if you've already got a sore spot you're trying to protect while it heals, they're worth the investment.
+
+Short of dedicated guards, thicker socks pulled up over the shin and slightly looser-fitting pants that don't bind against a tender spot both help in the meantime. What doesn't help much is toughing it out on the theory that your shins will "adapt" — they don't develop meaningful extra padding no matter how many times you hit them. They just accumulate soreness.
+
+## The part that actually fixes it
+
+Gear reduces the damage, but the real fix is technique: bailing cleanly by stepping or jumping off the board deliberately, rather than letting it flip up underneath you as you fall. That's a skill in itself, one most returning adults never practiced because it wasn't something anyone taught explicitly. Spend a few sessions on flat ground deliberately practicing controlled bail-outs — stepping away from the board rather than trying to ride out every wobble — and the frequency of shin bang drops noticeably, long before any piece of gear does the same job.
+
+It's not a dramatic injury, and it won't end your comeback. But it's the one nobody warns you about, and it's worth knowing what's normal, what's not, and how to make it happen less.
+
+
 ### The 15-Minute Skate Session: Why Short Beats Long for Adults
 Adult skaters often wait for a free weekend to practice. Short, frequent sessions build skill faster and fit real life better. Here's how.
 
@@ -5232,6 +5318,48 @@ Say the actual thing, early and plainly: "I've started skating again. It's doing
 The couples who work through this well aren't the ones where the non-skating partner suddenly develops enthusiasm for bowls and transitions. They're the ones who treat it as a normal negotiation about time, money, and attention — the same negotiation any serious hobby requires — rather than a referendum on whether the relationship is fine. If you [find it hard to carve out the time in the first place](/blog/finding-skate-time-with-a-family-at-home/), that scheduling conversation and this one are really the same conversation, just with slightly different stakes attached.
 
 Your partner doesn't need to love skateboarding. They need to understand why it matters to you and to trust that you're not disappearing from the relationship to go do it. Get those two things right, and the skateboard stops being the problem.
+
+
+### How to Keep Skating When You're Travelling for Work or Holiday
+A practical guide to finding skateparks in unfamiliar cities, packing a travel-friendly setup, and keeping your routine alive on the road.
+
+October means two things for a lot of working adults: a run of business trips before the year closes out, and half-term holidays with the family. Both are exactly the kind of stretch where a skating habit you've worked hard to build quietly falls apart — not because you don't want to skate, but because you didn't plan for it.
+
+It doesn't have to be that way. Here's how to keep a session alive when you're away from your usual park.
+
+## Decide what you're actually optimizing for
+
+Before you pack anything, be honest about the trip. A two-day work trip with back-to-back meetings is a different problem than a week-long family holiday with some free afternoons. For the former, you're mostly trying to protect the habit — even one short session keeps the routine from resetting to zero. For the latter, you have real time, and it's worth treating the trip as a chance to skate somewhere completely new.
+
+Trying to force a full training session into a trip that was never going to have room for one is how people end up skating nothing at all and feeling bad about it. Scale the ambition to the actual trip.
+
+## Finding a park before you land
+
+Don't wait until you arrive to figure out where you'll skate. A quick search before you leave — Google Maps actually indexes a surprising number of skateparks if you search "skatepark" in the area you're headed, and dedicated spot-finder apps and sites built by skaters tend to have more detail on surface quality, crowd levels, and whether a park skews younger or welcomes a mixed-age crowd.
+
+Local skate shops are a second, often better source. A quick email or a comment on a shop's social media asking "visiting next week, any mellow parks or quiet times you'd recommend for an adult skater getting back into it" tends to get a genuinely useful answer, and sometimes an invite to a local session you wouldn't have found otherwise.
+
+If you can, check that a park's surface and feature mix match what you actually skate. Showing up to a vert-heavy bowl park when what you ride is mellow transition and flat ground wastes the limited time you have.
+
+## Packing without overthinking it
+
+You don't need your full home setup for a short trip. A board you don't mind checking as luggage or squeezing into an oversized bag is the main decision. Airlines generally treat a skateboard as ordinary sporting equipment — most will let it go as a checked bag or, trucks and all, in a padded travel bag, though policies and size limits vary enough between carriers that it's worth a quick check with your specific airline before you fly rather than assuming.
+
+If you're flying and want to travel lighter, some skaters pack just a deck and wheels and source trucks, bearings, and grip locally or borrow a setup — more hassle than it's usually worth for a short trip, but worth knowing if luggage space is genuinely tight. For a road trip, none of this matters; just throw the board in the car the way you would at home.
+
+Pads are the thing people leave behind to save space, and it's the wrong place to cut. A compact set of wrist guards packs small and takes up little room, and a short session in an unfamiliar park — where you don't know the surface, the crowd, or the quirks of the layout — is exactly when you want that protection most, not least.
+
+## Keeping the session realistic
+
+An unfamiliar park on a short trip is not the time to push your limits. You don't know the surface quality, you don't know how busy it gets at what hour, and you don't have the layout memorized the way you do at home. Treat the first ten minutes of any new park the way you'd treat week one of a comeback: push around, get a feel for the surface and the crowd, and let your sense of what's safe here build before you commit to anything.
+
+This is also where skating with family works differently than skating alone. If you're travelling with kids who skate too, a new park is often more fun explored together at an easy pace than treated as your own training session — you'll probably enjoy it more that way anyway.
+
+## Protecting the habit on trips where you can't skate at all
+
+Some trips genuinely won't have room for a session — a packed conference schedule, a holiday with no park within reach. That's fine. The goal on those trips isn't to skate; it's to not let a week or two away become the reason you don't go back when you're home. A few minutes of balance work, ankle mobility, or just mentally planning your next session keeps the thread connected without needing a board at all.
+
+The adults who keep a skating habit alive for years aren't the ones who never missed a trip. They're the ones who treated a missed week as a gap to close, not a reason to start over. Pack light, do a little research before you go, and let a trip be one more place you skate rather than one more reason you didn't.
 
 
 ### Skating With Arthritis or Chronic Joint Pain: A Session-by-Session Framework
