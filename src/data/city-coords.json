@@ -414,6 +414,11 @@
     "lng": -94.7846,
     "source": "Lenexa, Johnson County, Kansas, United States"
   },
+  "US|kentucky|florence": {
+    "lat": 38.9989,
+    "lng": -84.6266,
+    "source": "Florence, Boone County, Kentucky, 41402, United States"
+  },
   "US|kentucky|louisville": {
     "lat": 38.2542,
     "lng": -85.7594,
@@ -584,6 +589,11 @@
     "lng": -78.7812,
     "source": "Cary, Wake County, North Carolina, United States"
   },
+  "US|north carolina|mooresville": {
+    "lat": 35.5849,
+    "lng": -80.8101,
+    "source": "Mooresville, Iredell County, North Carolina, United States"
+  },
   "US|north carolina|raleigh": {
     "lat": 35.7804,
     "lng": -78.6391,
@@ -604,6 +614,11 @@
     "lng": -84.6329,
     "source": "Colerain Township, Hamilton County, Ohio, United States"
   },
+  "US|ohio|dublin": {
+    "lat": 40.0996,
+    "lng": -83.1136,
+    "source": "Dublin, Washington Township, Franklin County, Ohio, 43016, United States"
+  },
   "US|ohio|lakewood": {
     "lat": 41.482,
     "lng": -81.7982,
@@ -618,6 +633,11 @@
     "lat": 36.1563,
     "lng": -95.9928,
     "source": "Tulsa, Oklahoma, United States"
+  },
+  "US|oregon|eugene": {
+    "lat": 44.0505,
+    "lng": -123.0951,
+    "source": "Eugene, Lane County, Oregon, United States"
   },
   "US|oregon|milwaukie": {
     "lat": 45.444,
@@ -679,6 +699,11 @@
     "lng": -97.7437,
     "source": "Austin, Travis County, Texas, United States"
   },
+  "US|texas|grand prairie": {
+    "lat": 32.746,
+    "lng": -96.9978,
+    "source": "Grand Prairie, Dallas County, Texas, United States"
+  },
   "US|texas|houston": {
     "lat": 29.7589,
     "lng": -95.3677,
@@ -719,6 +744,11 @@
     "lng": -73.1763,
     "source": "South Burlington, Chittenden County, Vermont, United States"
   },
+  "US|virginia|annandale": {
+    "lat": 38.8387,
+    "lng": -77.1952,
+    "source": "Annandale, Fairfax County, Virginia, United States"
+  },
   "US|virginia|arlington": {
     "lat": 38.8769,
     "lng": -77.0893,
@@ -738,6 +768,11 @@
     "lat": 47.6572,
     "lng": -117.4235,
     "source": "Spokane, Spokane County, Washington, United States"
+  },
+  "US|washington|tacoma": {
+    "lat": 47.2455,
+    "lng": -122.4383,
+    "source": "Tacoma, Pierce County, Washington, United States"
   },
   "US|west virginia|wheeling": {
     "lat": 40.064,
@@ -775,8 +810,8 @@
     "source": "derived: mean of 18 listed UK cities"
   },
   "US": {
-    "lat": 38.8205,
-    "lng": -93.2436,
-    "source": "derived: mean of 105 listed US cities"
+    "lat": 38.8725,
+    "lng": -93.3826,
+    "source": "derived: mean of 112 listed US cities"
   }
 }
