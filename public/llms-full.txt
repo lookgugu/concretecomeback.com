@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-15T09:17:29.529Z
+# Date: 2026-10-15T09:21:13.385Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -853,7 +853,7 @@ Most clavicle fractures in adults are managed without surgery: a sling for sever
 
 ## What the sling period actually involves
 
-This is the part that surprises people: a non-displaced clavicle fracture typically stays in a sling for somewhere in the range of four to six weeks, with some adults needing longer, especially if the fracture is more complex or healing is slower than average. During that window your job isn't to rest the whole arm into stiffness — it's to follow whatever graded mobility your provider clears you for, usually starting with gentle pendulum exercises for the elbow and hand while the shoulder itself stays protected.
+This is the part that surprises people: a non-displaced clavicle fracture typically stays in a sling for somewhere in the range of four to six weeks, with some adults needing longer, especially if the fracture is more complex or healing is slower than average. During that window your job isn't to rest the whole arm into stiffness — it's to follow whatever graded mobility your provider clears you for. That usually means keeping the elbow, wrist, and hand moving with their own simple range-of-motion exercises, since those joints aren't injured and stiffening up helps nobody, while the shoulder itself is only moved the way your clinician's protocol specifies — often starting with gentle, passive pendulum exercises rather than any active lifting, and only once they judge the fracture stable enough for it.
 
 Full healing, meaning bone strength adequate for the kind of unpredictable loading skating demands, generally takes longer than the sling period itself — often two to three months before a provider is comfortable clearing contact-level activity, and sometimes more. That gap between "out of the sling" and "actually ready to skate again" is where a lot of adult skaters get into trouble, because the shoulder can look and feel mobile well before the bone has the structural integrity to handle a hard fall onto it.
 
