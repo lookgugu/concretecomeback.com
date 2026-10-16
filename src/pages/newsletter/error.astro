@@ -23,13 +23,11 @@ import NewsletterInline from '@components/marketing/NewsletterInline.astro';
   <script is:inline>
     // The prompt suppresses itself after a signup or a dismissal, which would make
     // the instruction above impossible to follow. Clear that state — but keep a
-    // confirmed subscriber's status — and count this as a page view so the prompt
-    // returns promptly instead of after its first-visit delay (see newsletter-signup.js).
+    // confirmed subscriber's status (see newsletter-signup.js).
     try {
       if (localStorage.getItem('cc-newsletter-status') === 'pending') localStorage.removeItem('cc-newsletter-status');
       localStorage.removeItem('cc-newsletter-pending-at');
       localStorage.removeItem('cc-newsletter-dismissed-at');
-      sessionStorage.setItem('cc-page-views', '1');
     } catch (error) {}
   </script>
 </BaseLayout>

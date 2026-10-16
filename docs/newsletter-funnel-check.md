@@ -15,8 +15,12 @@ open question is whether the CTA is *seen* at all.
 
 PR #80 (merged 2026-09-26) made the CTAs send their events to GA4 through
 `gtag`, because the GTM container has no triggers for the `newsletter_*` events
-and every one of them had been dropped since launch. `newsletter_popup_shown` is
-therefore the number that matters, not the subscriber count.
+and every one of them had been dropped since launch. Those `gtag` events still
+never left the browser until they named `send_to: 'G-VYW5FDDX52'` (see
+`docs/newsletter-exposure-review.md`). Since then `newsletter_impression`, split
+by `newsletter_source` (`popup`, `home_inline`, `parks_inline`, `in_post`), is
+the number that matters, not the subscriber count: it fires once per placement
+per page, only when the form is actually on screen in a visible tab.
 
 ## Check 1 — subscribers (Resend)
 
@@ -45,18 +49,18 @@ the subscriber count.
 
 There is no automated route to GA4. Windsor.ai was the only one and has been
 dropped deliberately — do not try to read GA4, and do not report a traffic or
-`newsletter_popup_shown` figure. Say the GA4 half is checked manually instead of
+`newsletter_impression` figure. Say the GA4 half is checked manually instead of
 implying the number is zero.
 
-`newsletter_popup_shown` is still the number that settles the diagnosis; it just
+`newsletter_impression` is still the number that settles the diagnosis; it just
 has to be read by hand in the GA4 app (property `543447613`).
 
 ## How to read the result
 
 | Signal | Meaning | Next step |
 |---|---|---|
-| Submissions 0 for days, `popup_shown` ≈ 0 (read manually) | The CTA is rarely seen. It triggers at 45s on a first pageview, or 50% scroll — and traffic is almost entirely first-time, single-page visitors. | Loosen the triggers in `src/scripts/newsletter-signup.js` |
-| `popup_shown` healthy, submissions 0 | People see it and decline. | Offer and copy problem, not plumbing |
+| Submissions 0 for days, `newsletter_impression` ≈ 0 (read manually) | The CTAs are rarely seen. The homepage and park directory carry an inline form near the top; the popup waits five seconds and for no inline form to be on screen. | Check traffic quality before changing placement |
+| `newsletter_impression` healthy, submissions 0 | People see it and decline. | Offer and copy problem, not plumbing |
 | Submissions > 0, subscribers 0 | People submit but never confirm. | Investigate deliverability and the confirm step |
 
 ## Reporting
@@ -70,7 +74,7 @@ subject `CC newsletter check`. Under 150 words:
 
 **Whenever submissions in the last 24h are zero**, they do not settle it: "the
 CTA was never seen" and "it was seen and declined" produce identical numbers and
-are told apart only by `popup_shown`, which this routine cannot read. Say the
+are told apart only by `newsletter_impression`, which this routine cannot read. Say the
 diagnosis is pending the manual GA4 check. Do not pick one.
 
 This keys on submissions alone, never on the subscriber total — subscribers is a

@@ -5,6 +5,7 @@ import Hero from '@components/home/Hero.astro';
 import SiteCounts from '@components/home/SiteCounts.astro';
 import DirectoryCallouts from '@components/home/DirectoryCallouts.astro';
 import FeaturedPosts from '@components/home/FeaturedPosts.astro';
+import NewsletterInline from '@components/marketing/NewsletterInline.astro';
 
 const allParks  = await getCollection('parks');
 const allShops  = await getCollection('shops');
@@ -59,6 +60,9 @@ const jsonLd = [
   structuredData={jsonLd}
 >
   <Hero />
+  <div class="max-w-3xl mx-auto px-4 sm:px-6 py-6">
+    <NewsletterInline source="home_inline" compact />
+  </div>
   <SiteCounts
     parkCount={allParks.length}
     shopCount={allShops.length}
