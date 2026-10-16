@@ -12,7 +12,9 @@ draft: false
 
 Most comeback stories in sports get framed around a wound. An athlete gets hurt, or gets written off, or hits a low point, and the comeback is the redemption arc that follows. [Kelly Slater's return at 54](/blog/kelly-slater-comeback-lessons-for-adult-skaters/), which this site covered a few weeks ago, fits that shape — hip surgery, recovery, a wildcard, a statement result. Stephanie Gilmore's comeback doesn't fit it at all, and that's exactly why it's worth a second post.
 
-Gilmore, an eight-time world surfing champion, stepped away from full-time competition and has now accepted a wildcard back onto the World Surf League's Championship Tour for 2026, at 38. There's no injury in that story. There's no score to settle. By her own account, she's returning because she wants to test herself against the tour's younger talent again and chase a ninth world title — in other words, because she missed doing the thing, not because something forced her hand.
+Gilmore, an eight-time world surfing champion, stepped away from full-time competition for two years and came back on a wildcard for the World Surf League's Championship Tour this year, at 38. There's no injury in that story. There's no score to settle. By her own account going into the season, she wanted to test herself against the tour's younger talent again and chase a ninth world title — in other words, she came back because she missed doing the thing, not because something forced her hand.
+
+It hasn't been a storybook season, and that's what makes it worth following rather than just citing. She went out early in the first two events back, the kind of result that would be easy to read as proof a two-year layoff had cost her too much. Then, at her home break at the Gold Coast, she won the whole event — her 34th Championship Tour win and seventh Gold Coast Pro title, nine years after her last one there. A tough early-round loss at Lower Trestles followed, and as of this writing she's fighting to stay inside the top 14 through the tour's final stops so she can keep her ninth-title chase alive into the December finale at Pipe.
 
 For adult skaters coming back to a board after years away, that distinction matters more than it might seem.
 
@@ -26,15 +28,15 @@ If your own return to skating doesn't have a dramatic backstory — you're not r
 
 ## Competing against people half your age isn't the obstacle it looks like
 
-Part of what makes Gilmore's return notable is that she's not just rejoining a tour — she's rejoining one stacked with surfers a decade or two younger, chasing a title against competitors who grew up idolizing her. She's framed that directly as something she's looking forward to, not something she's bracing for.
+Part of what makes Gilmore's return notable is that she didn't just rejoin a tour — she rejoined one stacked with surfers a decade or two younger, chasing a title against competitors who grew up idolizing her. Going in, she framed that directly as something she was looking forward to, not something she was bracing for.
 
 That's a useful model for any adult walking back into a skatepark that's mostly teenagers. The instinct is to treat the age gap as a liability — something to apologize for or avoid by skating at off-hours forever. Gilmore's approach suggests a different frame: the age gap is just a fact about who else is there, not a verdict on whether you belong. You're not required to be as good as the sixteen-year-old in the bowl to have a legitimate reason to be in it. You're there because you want to be, the same reason she gave for walking back onto tour.
 
 ## What "testing yourself" can mean without a title on the line
 
-Nobody reading this is chasing a world championship, and that's fine — the useful part of Gilmore's story isn't the stakes, it's the posture. She's not pretending she's the surfer she was fifteen years ago, and she's not pretending the comeback is risk-free against surfers in their physical prime. She's choosing to find out what she's still capable of anyway, with real curiosity rather than dread, about how it goes.
+Nobody reading this is chasing a world championship, and that's fine — the useful part of Gilmore's story isn't the stakes, it's the posture through a genuinely uneven season. She didn't pretend she was the surfer she was fifteen years ago, and the early exits didn't send her looking for an exit from the comeback itself. She kept showing up, and a home-break win arrived in the middle of a season that had already handed her two bad results. Neither the bad results nor the win changed why she was out there in the first place.
 
-That's exactly the question most adult returners are quietly asking themselves at the top of a mini-ramp or the edge of a bowl: not "can I still be as good as I was," but "what am I actually still capable of, right now, at this age, with this body." You don't need a world tour to ask that question honestly. You need a session where you're willing to find out, the same way she apparently is.
+That's exactly the question most adult returners are quietly asking themselves at the top of a mini-ramp or the edge of a bowl: not "can I still be as good as I was," but "what am I actually still capable of, right now, at this age, with this body." You don't need a world tour to ask that question honestly, and you don't need every session to go well to keep asking it. You need to be willing to find out, bad days included, the same way she was.
 
 ## The permission in not needing a reason
 

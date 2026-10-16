@@ -16,7 +16,7 @@ I see a version of that sentence constantly in clinic, minus the world titles. A
 
 ## "Back" doesn't mean where you left off
 
-The quiet trap in any comeback is measuring yourself against the version of you that stopped, rather than the version of you that's starting again. Moore didn't return to the tour expecting to ski straight back into her pre-pregnancy form. Pregnancy and birth change a body's core strength, joint laxity, cardiovascular baseline, and recovery capacity in ways that don't just reverse themselves the moment you decide you're ready to compete again — rebuilding that is a real physical process, not a formality.
+The quiet trap in any comeback is measuring yourself against the version of you that stopped, rather than the version of you that's starting again. Moore didn't return to the tour expecting to surf straight back into her pre-pregnancy form. Pregnancy and birth change a body's core strength, joint laxity, cardiovascular baseline, and recovery capacity in ways that don't just reverse themselves the moment you decide you're ready to compete again — rebuilding that is a real physical process, not a formality.
 
 The same is true, in a smaller way, for almost anyone coming back to skating after a real break. Months or years away don't just cost you sharpness; they change the baseline you're rebuilding from, especially if the time away involved its own physical event — a surgery, a pregnancy, a long illness, a period of real inactivity. Treating your first sessions back as a continuation of where you left off, rather than the start of a new build, is one of the more reliable ways to get hurt or get discouraged fast.
 
