@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-15T16:31:26.363Z
+# Date: 2026-10-16T09:18:06.906Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -685,6 +685,42 @@ That last point matters more for adult skaters specifically than it would for a 
 Use it as a logging and feedback layer on top of training you'd be doing anyway, not as a substitute for a human set of eyes on your safety and your joints. A reasonable split: let an app help you see what a trick attempt actually looked like and track whether you're trending in the right direction between sessions, and keep a periodic check-in with a coach or an experienced skating friend for technique questions and features that intimidate you. If you haven't found that person yet, [how to find a skateboard coach who gets adult beginners](/blog/finding-a-skateboard-coach-for-adults/) is the place to start. Pain, a new injury, or anything involving an existing injury history is a different category entirely — that belongs with a physiotherapist or doctor, not a coach, a friend, or an app, however good its video analysis gets.
 
 The honest answer I gave my patient: try one if the idea appeals to you, treat whatever it tells you as a second opinion rather than a verdict, and don't let a subscription replace the one thing no app does yet — someone physically present who can tell you to stop before you get hurt, not after.
+
+
+### Carissa Moore Came Back After a Baby. What 'Back' Actually Means
+Carissa Moore returned to pro surfing after having a baby. Her approach to pacing and expectations applies directly to any adult skating comeback.
+
+Carissa Moore, a five-time world surfing champion, stepped away from competition after the 2024 Olympics to become a mother. In late 2025 the World Surf League announced she'd received a wildcard back onto the Championship Tour for 2026, and she opened her season at Bells Beach this year — her first tour event in two years. By most accounts she showed little sign of rust, winning her opening heat. By her own account, simply putting the competition jersey back on after having a baby already felt like a win, before a single wave was scored.
+
+I see a version of that sentence constantly in clinic, minus the world titles. An adult comes back to skating after time away — a pregnancy, a surgery, a long illness, just life — and the question underneath everything they ask me isn't really about technique. It's "what does 'back' even mean now." Moore's return is a useful, very public answer to that question, and it applies well beyond surfing.
+
+## "Back" doesn't mean where you left off
+
+The quiet trap in any comeback is measuring yourself against the version of you that stopped, rather than the version of you that's starting again. Moore didn't return to the tour expecting to ski straight back into her pre-pregnancy form. Pregnancy and birth change a body's core strength, joint laxity, cardiovascular baseline, and recovery capacity in ways that don't just reverse themselves the moment you decide you're ready to compete again — rebuilding that is a real physical process, not a formality.
+
+The same is true, in a smaller way, for almost anyone coming back to skating after a real break. Months or years away don't just cost you sharpness; they change the baseline you're rebuilding from, especially if the time away involved its own physical event — a surgery, a pregnancy, a long illness, a period of real inactivity. Treating your first sessions back as a continuation of where you left off, rather than the start of a new build, is one of the more reliable ways to get hurt or get discouraged fast.
+
+## Redefining the win changes what you're allowed to feel good about
+
+What stands out in how Moore has talked about this return is that the win she named first wasn't a result. It was showing up at all — pulling the jersey back on. That's not a throwaway line; it's a genuinely useful way to structure a comeback.
+
+If the only thing that counts as success is matching your old performance, early sessions back are set up to feel like failures by definition, because they almost always fall short of where you left off. If the win is redefined as smaller, real things — showing up, completing the session, trying the thing you were nervous about — you get to feel actual progress much sooner, and that feeling is what keeps most people coming back for session two and three. [Building confidence at 40](/blog/building-confidence-at-40/) covers this same mechanism from a different angle: confidence tends to follow small completed wins, not the other way around.
+
+## Pacing a comeback after a major physical event
+
+A pregnancy and a long health-related break from skating aren't the same thing medically, but the practical pacing lessons overlap more than you'd expect.
+
+**Get real clearance before you load anything hard.** Moore's return followed medical guidance specific to postpartum recovery, not a personal sense that enough time had passed. If your own break involved a surgery, a significant injury, or a pregnancy, the same rule applies: get an actual green light from whoever treated you before you put weight through a board again, not just a feeling that you're probably fine.
+
+**Rebuild the boring stuff before the fun stuff.** Core stability, balance, and basic cardiovascular capacity are unglamorous, and they're also exactly what carries you through a season of skating without a flare-up or a fall you weren't braced for. Give yourself real weeks of that groundwork rather than skipping straight to the park because the boring part feels like it's not "actually" skating yet.
+
+**Expect a nonlinear return, not a steady line up.** A good session followed by a rough one isn't a sign something's wrong — it's the normal shape of rebuilding a physical skill after a real gap, especially when your body is also managing new demands, whether that's sleep deprivation from a newborn or simply deconditioning from time away. Track trend over weeks, not how any single session felt.
+
+**Let your support system know what you're doing, and why.** Moore's return happened with her family present and part of the story, not hidden from them as something separate from her new role. Whatever your version of a support system looks like — a partner, a friend, a session buddy — naming the comeback out loud to them tends to make the logistics and the motivation both easier to sustain.
+
+## The actual lesson isn't about surfing
+
+Nobody needs to be a five-time world champion for this to apply. The lesson is in the sequencing: real medical readiness first, unglamorous groundwork second, redefined wins all the way through, and a support system that knows what you're rebuilding and why. Measured that way, "back" stops being a single finish line you either hit or miss, and starts being something closer to what it actually is — a direction you're moving in, one real session at a time.
 
 
 ### Carving First: The Skill Adult Returners Always Skip
@@ -2851,6 +2887,44 @@ It's worth being honest about where the comparison breaks: Slater has a medical 
 If you want the staged version built specifically for a skateboarding comeback rather than a surfing one, the [8-week return plan for adult skaters](/blog/8-week-return-plan-adult-skaters/) is the practical companion to everything above: it's periodization already broken into weeks, so you don't have to improvise the stages yourself.
 
 Slater's run in Tahiti ended in a loss, same as most comebacks eventually hit a wall of some kind. He's already said he hopes for another wildcard at Pipeline in December. That's maybe the most transferable lesson of all: a comeback isn't one result. It's a position you keep choosing to stay in.
+
+
+### Why Watching Your Kid's Skate Lesson Is How So Many Adults Start
+The most common path into adult skateboarding isn't a midlife crisis. It's standing at the fence watching your kid's lesson and wanting a turn.
+
+Almost every week at our sessions, someone tells me a version of the same story. They brought their kid to lessons. They stood at the fence with a coffee, watching. Three, four, six weeks in, they caught themselves wanting to be the one rolling across the flat ground, not just the one supervising from the bench.
+
+That's not a coincidence, and it's not just our park. It's become one of the most common on-ramps into adult skating, and it deserves to be named as its own thing — not a subset of "skating with your kids" and not a footnote to parenting. If this is where you are right now, here's what that specific path looks like and how to actually walk it.
+
+## The fence is doing more than you think
+
+There's a reason this happens at the fence and not, say, while watching a kid's lesson from the car. Standing close enough to see the coaching cues — "bend your knees," "look where you're going, not at your feet," "small pushes, not one big one" — does something that watching from a distance doesn't. You're absorbing the same instruction your kid is, except you're not the one being asked to perform it in front of other eight-year-olds. By the time you've watched four or five sessions, you've unconsciously picked up more usable technique than you'd get from most "how to start skateboarding" articles, including the ones on this site.
+
+The other thing happening at the fence is permission. A lot of adults who end up back on a board didn't grow up thinking of themselves as skaters, or did once and filed it away as a teenage thing. Watching your own kid be bad at something, get frustrated, and improve anyway — in a space that's explicitly built for beginners — quietly dismantles the idea that skating only belongs to people who are already good at it. If an eight-year-old gets to fall down in public and try again, so do you.
+
+## What's actually different about this entry point
+
+This site has covered [skating alongside your kids once you're both already doing it](/blog/skating-with-your-kids/) and the [identity shift of calling yourself a skate dad](/blog/skate-dad-identity-shift/) instead of just a bystander. This is the step before either of those: you're not skating yet. You're deciding whether to.
+
+The honest answer is that this entry point has real advantages over showing up cold. You already know the park's layout, because you've been there every week for lessons. You already know the vibe of the place and whether it's welcoming or cliquish. In a lot of cases, you already know the coach's name, and "could I grab fifteen minutes sometime, just the basics" is a much smaller ask than cold-calling a stranger for lessons. Use that. The relationship is already half-built.
+
+## How to actually make the jump
+
+**Ask for five minutes, not a lesson.** You don't need to book a session to find out if this is for you. At the end of your kid's lesson, ask the coach if you can borrow a board and try pushing and turning for five minutes while they pack up. Low stakes, no audience beyond the people already there, and it'll tell you more than a week of thinking about it will.
+
+**Buy nothing until you've done that.** It's tempting to show your commitment by buying a full setup before you've rolled an inch. Resist it. Borrow your kid's spare board, a friend's, or the park's loaner gear if it has any, for at least your first couple of tries. [What board size to actually buy](/blog/what-board-size-for-adults/) matters a lot once you know you're staying, and almost nothing before that.
+
+**Separate your sessions from theirs, at least at first.** It's appealing to think you'll learn together, but a wide skill gap between a coached eight-year-old and a true beginner adult makes shared sessions frustrating for both of you early on. Go back on your own, or find [a short lunch-break or early-morning window](/blog/dawn-patrol-morning-skating-after-40/), and build your own basic push, turn, and stop before you try to share the park with your kid as a peer rather than a chaperone.
+
+**Expect to feel self-conscious, and keep going anyway.** Standing on a board in a park full of kids half your age, after weeks of watching from the sideline, is genuinely awkward for most adults the first few times. That feeling fades faster than people expect — usually within two or three sessions — once you realize nobody there is actually paying attention to you the way you're paying attention to yourself.
+
+**Tell your kid what's happening.** Kids notice when a parent starts showing up with a board, and the dynamic works better when it's named rather than discovered. "I've been watching you do this for weeks and I want to try it too" is a fine, simple thing to say, and it usually gets met with more enthusiasm than you'd expect.
+
+## It doesn't have to become a whole thing
+
+Not every parent who tries this sticks with it, and that's fine. Some people take their five minutes, confirm skating isn't for them, and go back to being a very good spectator. Others get hooked in a way that surprises them. Either outcome is a reasonable answer to a question you can really only answer by standing on the board yourself.
+
+What's worth noticing, if you're currently the person at the fence with the coffee, is that the want is already information. Plenty of adults talk themselves out of trying by deciding it's silly to start something their kid is already better at. It isn't. Your kid being ahead of you on a skateboard is not a reason to stay on the bench — it's the reason you ended up standing at that fence in the first place.
 
 
 ### Does Wearing a Knee Brace Mean You're Giving Up? An Honest Answer
@@ -5464,6 +5538,42 @@ That's different from genuinely impaired. If you're noticeably drowsy, catching 
 ## The simple version
 
 None of this requires a sleep tracker or a sleep hygiene overhaul. It requires treating sleep as part of your training plan rather than something that happens off to the side of it: a consistent bedtime and wake time, caffeine and alcohol handled with the same care you'd give your warm-up, and enough attention to notice if a real sleep problem is developing rather than just aging around it. Get that right and the same number of sessions per week will leave you less sore, progressing faster, and safer on the days that actually matter.
+
+
+### Stephanie Gilmore's Comeback: Not to Prove Anything, Just Missing It
+Stephanie Gilmore returned to pro surfing at 38 for one reason: she missed it. What that motivation looks like for adults who feel past their best.
+
+Most comeback stories in sports get framed around a wound. An athlete gets hurt, or gets written off, or hits a low point, and the comeback is the redemption arc that follows. [Kelly Slater's return at 54](/blog/kelly-slater-comeback-lessons-for-adult-skaters/), which this site covered a few weeks ago, fits that shape — hip surgery, recovery, a wildcard, a statement result. Stephanie Gilmore's comeback doesn't fit it at all, and that's exactly why it's worth a second post.
+
+Gilmore, an eight-time world surfing champion, stepped away from full-time competition and has now accepted a wildcard back onto the World Surf League's Championship Tour for 2026, at 38. There's no injury in that story. There's no score to settle. By her own account, she's returning because she wants to test herself against the tour's younger talent again and chase a ninth world title — in other words, because she missed doing the thing, not because something forced her hand.
+
+For adult skaters coming back to a board after years away, that distinction matters more than it might seem.
+
+## The gap between "I have to" and "I want to"
+
+A lot of comeback narratives, including plenty of the ones on this site, start from necessity: a health scare that demands more movement, a divorce that opens up a Tuesday night, a layoff that leaves a strange empty afternoon. Those are legitimate and common starting points, and [this site has made the case for using them](/blog/life-disruptions-best-time-to-return-to-skating/). But they can also quietly imply that wanting to skate again isn't, on its own, a good enough reason — that you need a crisis or a deficit to justify it.
+
+Gilmore's framing pushes back on that directly. She's not coming back because her career needs rescuing or her body needs rehabilitating. She's coming back because, after stepping away, she found she still wanted it. That's a motivation with nothing to prove to anyone, and it's just as legitimate a reason to get back on a board as any harder-edged one.
+
+If your own return to skating doesn't have a dramatic backstory — you're not recovering from anything, nobody pushed you into it, you just miss how it felt — that's not a less valid comeback. It might be the simplest and most durable one, because it isn't tied to proving a point you could eventually feel you've already made.
+
+## Competing against people half your age isn't the obstacle it looks like
+
+Part of what makes Gilmore's return notable is that she's not just rejoining a tour — she's rejoining one stacked with surfers a decade or two younger, chasing a title against competitors who grew up idolizing her. She's framed that directly as something she's looking forward to, not something she's bracing for.
+
+That's a useful model for any adult walking back into a skatepark that's mostly teenagers. The instinct is to treat the age gap as a liability — something to apologize for or avoid by skating at off-hours forever. Gilmore's approach suggests a different frame: the age gap is just a fact about who else is there, not a verdict on whether you belong. You're not required to be as good as the sixteen-year-old in the bowl to have a legitimate reason to be in it. You're there because you want to be, the same reason she gave for walking back onto tour.
+
+## What "testing yourself" can mean without a title on the line
+
+Nobody reading this is chasing a world championship, and that's fine — the useful part of Gilmore's story isn't the stakes, it's the posture. She's not pretending she's the surfer she was fifteen years ago, and she's not pretending the comeback is risk-free against surfers in their physical prime. She's choosing to find out what she's still capable of anyway, with real curiosity rather than dread, about how it goes.
+
+That's exactly the question most adult returners are quietly asking themselves at the top of a mini-ramp or the edge of a bowl: not "can I still be as good as I was," but "what am I actually still capable of, right now, at this age, with this body." You don't need a world tour to ask that question honestly. You need a session where you're willing to find out, the same way she apparently is.
+
+## The permission in not needing a reason
+
+If you've been putting off a return to skating because you can't point to a clean justification — no injury to recover from, no life event that forced it, just a persistent, low-grade missing of something you used to do — Gilmore's comeback is a useful data point. Elite athletes with nothing left to prove still choose to come back purely because they miss it. That motivation doesn't need to be bigger or more dramatic to count.
+
+You don't need a comeback story with stakes. You need one push off the ground and the honest answer to whether it still feels like something you want.
 
 
 ### The Strength Gap: 4 Muscles Every Adult Skater Neglects
