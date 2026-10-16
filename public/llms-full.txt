@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-15T16:31:26.363Z
+# Date: 2026-10-16T21:40:56.676Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -7448,6 +7448,16 @@ Location: Chicago, Illinois, US
 Grant Park Skate Park is one of the best options for adult beginners in the Chicago area. The layout avoids steep drops and deep bowls, focusing on flowing, navigable terrain that builds confidence without demanding high-level skills.
 
 
+### The Chris Rice Skateboard Park
+A free Pillar Design Studios concrete skatepark in Portsmouth lit until 10pm from March through December, featuring progressive safety light dimming, a scooter-free riding surface, and an adjacent volunteer-built pump track.
+Location: Portsmouth, New Hampshire, US
+Website: https://www.portsmouthnh.gov/recreation/skate-park
+
+Located off Greenland Road (Route 33) at the trailhead for the New Hampshire Seacoast Greenway, The Chris Rice Skateboard Park is a modern municipal concrete facility designed by Pillar Design Studios and named in memory of local skate advocate Chris Rice. From March through December, overhead floodlights keep the park open until 10:00pm with a thoughtful safety feature built for evening riders: the lights automatically dim to roughly 75% brightness at 9:30pm and 50% brightness at 9:45pm so no one is ever caught in the dark mid-run when the power cuts at closing time.
+
+For older skaters getting their legs back, the park offers smooth concrete banks, mellow transitions, ledges, and bowl lines, plus an adjacent volunteer-built pump track at the neighboring Portsmouth Bike Park. Even better for predictable traffic flow, City of Portsmouth rules strictly prohibit scooters, e-bikes, one-wheels, and motorized vehicles on the skating surface. Keep in mind that floodlights do not run in January and February (when hours revert to dawn until dusk), on-site restrooms are year-round portable toilets, and the drinking fountain operates seasonally. You can easily pair a Seacoast trip here with a session at [Dover Skatepark](/directory/parks/us/dover-skatepark-nh) just 15 minutes north.
+
+
 ### City Walk BHAM Skatepark
 A massive 58,000-square-foot facility with dedicated beginner bowls and quarter-pipe areas physically separated from the advanced sections, making it ideal for older skaters getting back on a board.
 Location: Birmingham, Alabama, US
@@ -7475,6 +7485,16 @@ Location: Colerain Township, Ohio, US
 Clippard Park Skatepark is a solid concrete facility in the greater Cincinnati area that caters well to older skaters returning to the sport. The layout offers clear ability separation between its transition features.
 
 The highlight for those regaining their confidence is a mellow 4-foot bowl with a ledge, which is kept physically distinct from the daunting 10-foot advanced bowl with pool coping. The street section includes a staircase, ramp, and railings, providing a balanced mix for all riding styles.
+
+
+### Coeur d'Alene Skatepark
+A 14,000-square-foot Evergreen Skateparks concrete facility in Coeur d'Alene's Four Corners park precinct, pairing a 10,000-square-foot street plaza with a 4,000-square-foot rolling 'moonscape' flow zone.
+Location: Coeur d'Alene, Idaho, US
+Website: https://www.cdaid.org/government/departments/parks-and-recreation/park-facility-list/skatepark-bmx-free-style-park/
+
+Set next to the historic Memorial Field grandstand along Northwest Boulevard and Mullan Avenue, Coeur d'Alene Skatepark is a 14,000-square-foot poured-concrete facility designed and built by Evergreen Skateparks as part of the city's Four Corners park renewal. Equipped with overhead lighting for evening sessions, the park replaces the city's original 1995 setup with glass-smooth concrete engineered for continuous, low-impact flow.
+
+What makes the layout especially welcoming for older skaters is Evergreen's two-part design: 10,000 square feet of open street "skate plaza" (banks, ledges, manual pads, flat bars, and stairs) paired with 4,000 square feet of sculpted "moonscape"—a lunar-inspired zone of mellow, rolling bumps, curves, and pocket transitions where you can pump and carve endless laps without committing to vertical coping. Because the park is shared with BMX riders and scooters and serves as a major regional stop along the I-90 corridor, summer afternoons get lively; aim for morning or lit evening sessions for the most room, and note that the adjacent Memorial Park lot enforces seasonal paid parking rates from May through September. You can easily pair an Inland Northwest trip here with [Hillyard Skatepark](/directory/parks/us/hillyard-skatepark-spokane-wa) just across the Washington border in Spokane.
 
 
 ### Commonwealth Skateboarding
@@ -7533,6 +7553,16 @@ Opened in 2023, this 10,700-square-foot concrete park features a variety of stre
 Location: Dover, New Hampshire, US
 
 A modern concrete facility that has quickly become a community hub. The park's welcoming atmosphere and top-tier amenities, notably its full lighting system, make it especially practical for older skaters who need evening access to practice their skills.
+
+
+### Downtown Billings Skate Park
+A 14,000-square-foot municipal concrete skatepark in downtown Billings featuring Musco floodlights, bowls and street ramps, and city-run all-ages beginner skateboarding clinics with loaner boards and helmets.
+Location: Billings, Montana, US
+Website: https://www.billingsparks.org/location/downtown-skate-park/
+
+Anchored at the corner of South 27th Street and 1st Avenue South by the life-sized "Head Over Heels" handplant sculpture, Downtown Billings Skate Park offers 14,000 square feet of free municipal concrete bowls, quarter-pipes, banks, ledges, and rails. In collaboration with the Billings Skatepark Committee, Billings Parks and Recreation hosts summer "Skateboarding for Beginners" clinics open to everyone with little to no prior experience—covering stance, balance, pushing, rolling, and board setup, with loaner skateboards and helmets provided on-site. Following a community fundraising campaign and grants from Musco Lighting and the National Recreation and Park Association, the city also installed commercial floodlights across the slab to support evening sessions and improve visibility.
+
+Older skaters easing back into the groove can start along the outer street banks and flat aprons before dropping into the deeper transition and bowl sections, and City Ordinance strictly prohibits bicycles on the concrete (skateboards, inline skates, and scooters only). Protective gear—including helmets, knee pads, elbow pads, and wrist guards—is strongly recommended. Because the park sits at the edge of a busy downtown and Southside corridor that has historically experienced transient foot traffic, weekday mornings and attended clinic windows offer the most relaxed environment. If you are traveling across Montana on I-90, pair your visit with [MOBASH Skatepark](/directory/parks/us/mobash-skatepark-missoula-mt) in Missoula.
 
 
 ### Dublin Skate Park
@@ -7623,6 +7653,26 @@ Website: https://www.gatheringplace.org/attractions/attractions/skate-park
 The Gathering Place Skate Park features smooth concrete and an inclusive layout divided into three distinct skill zones, allowing newer or returning skaters to practice without weaving through advanced traffic. A pump track and mellow street elements make it highly approachable. 
 
 The park is well-lit for evening use, which is ideal for older skaters fitting a session in after work. It opens early at 7am, offering a quieter window before the afternoon crowds arrive.
+
+
+### Genoveva Chavez Skatepark
+A 9,000-square-foot Spohn Ranch concrete skatepark at the Genoveva Chavez Community Center in Santa Fe, equipped with night lighting, a street course with an extra-long manual pad, and a three-lobed bowl starting at 4 feet deep.
+Location: Santa Fe, New Mexico, US
+Website: https://santafenm.gov/community-services/recreation/genoveva-chavez-community-center-gccc
+
+Set just north of the Genoveva Chavez Community Center on Santa Fe's south side, Genoveva Chavez Skatepark is a 9,000-square-foot poured-concrete and shotcrete facility designed and built by Spohn Ranch Skateparks. Developed through community design workshops with local riders and equipped with overhead lighting for evening sessions, the park blends Southwest-tinted concrete with a layout explicitly shaped for beginner through advanced progression.
+
+Older skaters warming up have two approachable starting points: the perimeter street course—which pairs an extra-long manual pad combo, bump-to-ledge, and flat rail with a long quarter-pipe and a central Pueblo-style bank—and the 4-foot shallow lobe of the three-pocket bowl. Once your legs feel steady, the bowl steps down across a double waterfall into 5-foot and 7-foot pockets and a middle section featuring an 8-foot slightly over-vert cradle. Keep in mind that Santa Fe sits at 7,000 feet of elevation, where thin air and high-desert sun can tire returning riders quickly; pack plenty of water and aim for morning or lit evening sessions. If you are heading south down I-25 toward Albuquerque, pair your trip with [Los Altos Skatepark](/directory/parks/us/los-altos-skatepark-albuquerque-nm) and stop by [Skate City Supply](/directory/shops/us/skate-city-supply-albuquerque-nm) for hardware or repairs.
+
+
+### Get-A-Way Skatepark
+A massive 52,000-square-foot Team Pain concrete complex in Huntsville's John Hunt Park, open until 9pm daily and divided into six riding zones including a mellow-entry 300-foot snake run, street plaza, ditch C-run, and bowls.
+Location: Huntsville, Alabama, US
+Website: https://www.huntsvilleal.gov/environment/parks-recreation/recreation/sports-complexes/get-a-way-skatepark/
+
+Paying tribute to Huntsville's pioneering 1978 skatepark of the same name created by pro skater Bill Underwood, the modern Get-A-Way Skatepark at John Hunt Park is a 52,000-square-foot poured-concrete complex designed and built by Team Pain Skate Parks. Open until 9:00pm seven days a week—with an early 8:00am opening on Saturdays and Sundays—the facility gives older skaters plenty of room to spread out during quiet weekend mornings or lit evening sessions after work.
+
+Team Pain organized the vast footprint into six distinct riding areas so beginners and returning skaters never have to share tight quarters with high-speed bowl traffic. You can warm up on the wide street plaza (manual pads, benches, flat bars, ledges, and a China bank), roll into the ditch-style entrance of the "C-Run," or cruise the top of the 300-foot snake run, which starts out mellow before dropping into 6-foot and 8-foot deep sections. When you are ready for heavier transition, the park also houses an intermediate clover bowl, a large competition pool/bowl with tile and pool coping, and a rare three-quarter pipe. Note that City of Huntsville rules strictly require helmets, closed-toe shoes, and shirts for all riders; the facility closes whenever the concrete is wet; and the park is shared with bikes, inline/quad skates, and non-foldable scooters (no motorized vehicles or portable obstacles allowed). For another major Alabama concrete session down I-65, check out [City Walk Skatepark](/directory/parks/us/city-walk-skatepark-birmingham-al) in Birmingham.
 
 
 ### Glasgow Skate Park
@@ -7988,6 +8038,16 @@ Owens Field Skatepark is a custom-designed, 15,000 square-foot concrete facility
 The inclusion of a pump track and expansive flat ground makes it easy for returning beginners to carve without needing to drop in. While the park is busy on weekends and after school, early mornings offer a documented quiet window to practice freely. Please note that pads are required by the facility.
 
 
+### Oxford Skate Park
+A 10,694-square-foot Grindline concrete skatepark operated by the Oxford Park Commission, open daily until 11pm and separating a 6,000-square-foot street course from a 4,000-square-foot bowl.
+Location: Oxford, Mississippi, US
+Website: https://visitoxfordms.com/directory/oxford-skate-park/
+
+Located on Bramlett Boulevard directly across from the Oxford-Lafayette Public Library, Oxford Skate Park is a 10,694-square-foot poured-concrete facility built by Grindline Skateparks and maintained by the Oxford Park Commission. Open daily from dawn until 11:00pm with free on-site parking and a covered spectator pavilion for shade breaks, it serves as the anchor public skatepark for north-central Mississippi.
+
+The footprint is cleanly divided into two zones: an approximately 6,000-square-foot street course and an approximately 4,000-square-foot bowl. Older skaters rebuilding their confidence can stay on the street apron—working across the banks, low ledges, flat bar, quarter-pipe, kicker, and central volcano—without crossing into the fast lines of the 7-to-9-foot deep bowl. Keep in mind that this is an unsupervised multi-wheel park shared with scooters and BMX bikes, and the bowl transitions are steep enough that full pads and a helmet are wise before dropping in. If you are exploring northern Mississippi, pair your visit with [Tupelo Skatepark](/directory/parks/us/tupelo-skatepark-ms) an hour east on Highway 278.
+
+
 ### Paine's Park
 Philadelphia's landmark public skate plaza on the Schuylkill River Banks behind the Art Museum, opened in 2013 after a decade of work by the skater-led Franklin's Paine Skatepark Fund. Its south section — low ollie boxes, benches and a lot of flatground — was described by two returning skaters in Philadelphia magazine as a de facto old-folks zone, and that is exactly what it is good for.
 Location: Philadelphia, Pennsylvania, US
@@ -7995,7 +8055,7 @@ Website: https://www.visitphilly.com/things-to-do/attractions/paines-park/
 
 Paine's is a plaza, not a bowl park: quarterpipes, banks, ledges, curbs, manual pads, flat and handrails, a stair set and a wallride, spread across a riverfront site that doubles as a public park and connects straight onto the Schuylkill River Trail. Head for the south end first. When Philadelphia magazine sent two "oldheads" to dust off their boards here, they settled in that section — "low ollie boxes and benches and a lot of flat ground for cruising" — and called it a de facto old-folks zone that suited them fine. FDR, the city's famous DIY park, is a very different proposition.
 
-It was conceived in 2002 by Franklin's Paine Skatepark Fund, the skater-run non-profit that later helped win a skate plaza at the Municipal Services Building, and it opened in 2013. Limited parking at the Waterworks Drive lot off Kelly Drive and paid parking at the Art Museum garage; SEPTA buses 43 and 38 stop nearby. Need a board before heading down? Stop by Nocturnal Skateshop on 5th St.
+It was conceived in 2002 by Franklin's Paine Skatepark Fund, the skater-run non-profit that later helped win a skate plaza at the Municipal Services Building, and it opened in 2013. Limited parking at the Waterworks Drive lot off Kelly Drive and paid parking at the Art Museum garage; SEPTA buses 43 and 38 stop nearby. Need a board before heading down? Stop by [Nocturnal Skateshop](/directory/shops/us/nocturnal-skateshop-philadelphia-pa) on 5th St.
 
 
 ### Parisite DIY Skatepark
@@ -8110,6 +8170,16 @@ Website: https://www.fhgov.com/facilities/riley-skate-park/
 Riley Skate Park is one of Southeast Michigan's premier skating hotspots, located within Founders Sports Park. Designed by Site Design Group and Grindline, this massive 29,000-square-foot all-concrete park features smooth, flowing terrain with a diverse mix of street and transition obstacles.
 
 What makes it great for older skaters is its vast, spaced-out layout that physically separates different riding zones. This means you can comfortably stick to the mellower areas while advanced traffic flows elsewhere. The park is equipped with lights for evening sessions, making it practical for those skating after work. Proper safety gear, including a helmet and pads, is highly recommended.
+
+
+### Riverside Skatepark
+A 21,000-square-foot Spohn Ranch concrete skatepark in Cedar Rapids' Riverside Park, lit until 10pm and built with a dedicated flatground zone and beginner-friendly obstacles alongside street and transition lines.
+Location: Cedar Rapids, Iowa, US
+Website: https://www.cedar-rapids.org/residents/parks_and_recreation/riverside_skate_park.php
+
+Set on the west bank of the Cedar River inside historic Riverside Park, the rebuilt Riverside Skatepark spans 21,000 square feet of poured concrete designed and constructed by Spohn Ranch Skateparks. Replacing the city's original 1999 steel-ramp course, the modern facility opens at 6:00am daily and features overhead floodlighting until 10:00pm across spring, summer, and fall, giving older skaters reliable early-morning and after-work windows.
+
+During the city's design workshops, local riders specifically asked Spohn Ranch to prioritize an open flatground area with beginner-friendly obstacles and generous spectator seating. Returning skaters easing back onto a board can start on the slappy curb, cantilevered manual pad, gentle radius wedge, low grind ledges, and mini half-pipe/quarter-pipe transitions before stepping up to the raked grind rails, euro gap, and stair set. Because the rebuild was funded as a flood-control relocation, the footprint focuses on street and transition obstacles rather than deep bowls or a pump track—if you want deep pool transition in Iowa, pair a weekend drive with [Lauridsen Skatepark](/directory/parks/us/lauridsen-skatepark-des-moines-ia) in Des Moines. Restrooms, a drinking fountain, and a reconstructed accessible parking lot sit right beside the slab.
 
 
 ### Riverside Skatepark
@@ -8398,6 +8468,16 @@ Constructed by Grindline Skateparks at the foot of the hill leading to the I-470
 The facility is open 24 hours a day with full floodlighting, making early dawn sessions before local traffic picks up especially accessible. The City of Wheeling maintains an official public webcam feed on their municipal website, enabling skaters to check current crowd levels and surface conditions before making the drive. Note that bicycles are strictly prohibited by city ordinance to protect skaters from sudden blind-side collisions, and falling autumn leaves from the surrounding hillside can require a quick sweep before dropping in.
 
 
+### Wichita Skatepark
+A 12,045-square-foot California Skateparks concrete facility sheltered beneath the Kellogg highway overpass in downtown Wichita, dividing its footprint into a street plaza and a three-bowl shotcrete complex.
+Location: Wichita, Kansas, US
+Website: https://www.wichita.gov/facilities/facility/details/Wichita-Skatepark-273
+
+Tucked directly beneath the US-54/400 (Kellogg Avenue) highway overpass just south of downtown Wichita's Commerce Street Arts District, Wichita Skatepark offers 12,045 square feet of all-concrete terrain designed by Wally Hollyday and built by California Skateparks. Because the overhead freeway deck shields the slab from direct Kansas sun and light rain—and overhead lighting keeps the underpass open daily from 6:00am until midnight—it is a practical, weather-resilient spot for older skaters fitting sessions before work or late in the evening.
+
+The quarter-acre footprint is split into two distinct zones so street and bowl traffic stay out of each other's way. Returning skaters can warm up across the "Urban Landscape" plaza—which spreads out four street funboxes, four concrete ramps, low ledges, manual pads, stairs, and handrails—or work on carving inside the 5.5-foot shallow bowl before approaching the much steeper 8.5-foot and 9.5-foot shotcrete bowls. Note that this is an unsupervised municipal park where Emporia Street runs one-way northbound and St. Francis Street runs one-way southbound; use the dedicated skatepark lot off Emporia Street. If you are skating through eastern Kansas as well, check out [Rolling Magic Skate Park](/directory/parks/us/rolling-magic-skate-park-lenexa-ks) in Lenexa.
+
+
 ### Williams Farm Skatepark
 A 25,000-square-foot municipal concrete skatepark in Virginia Beach featuring LED floodlighting for night sessions until 11:00pm and three distinct zones—an urban street plaza, a mid-park flow course, and a tiered bowl.
 Location: Virginia Beach, Virginia, US
@@ -8660,7 +8740,7 @@ Website: https://nocturnalphilly.com
 
 Founded in 2000 by pro skater Kerry Getz, Nocturnal is a cornerstone of the Philadelphia skate scene. While its core pedigree can feel intimidating from the outside, reviewers consistently note that the staff are patient, welcoming, and excellent at talking older returning skaters through their gear choices. 
 
-They carry a deep selection of core brands and offer full assembly and repair services. A perfect stop before heading to Paine's Park.
+They carry a deep selection of core brands and offer full assembly and repair services. A perfect stop before heading to [Paine's Park](/directory/parks/us/paines-park-philadelphia-pa).
 
 
 ### Orchard Skateshop
@@ -8716,7 +8796,7 @@ Website: https://skatecitysupply.com
 
 Skate City Supply is one of the most established and trusted local core shops in Albuquerque. They carry a comprehensive range of skateboards, longboards, and protective gear, ensuring older skaters have access to high-quality equipment. 
 
-The shop is especially notable for its professional repair and maintenance services, making it a reliable stop to get a neglected setup rolling smoothly again. The staff are deeply rooted in the local community and can point you in the right direction if you're looking for lessons or group skates. Pair your visit with a session at [Los Altos Skatepark](/directory/parks/us/los-altos-skatepark-albuquerque-nm).
+The shop is especially notable for its professional repair and maintenance services, making it a reliable stop to get a neglected setup rolling smoothly again. The staff are deeply rooted in the local community and can point you in the right direction if you're looking for lessons or group skates. Pair your visit with a session at [Los Altos Skatepark](/directory/parks/us/los-altos-skatepark-albuquerque-nm) nearby or head north up I-25 to [Genoveva Chavez Skatepark](/directory/parks/us/genoveva-chavez-skatepark-santa-fe-nm) in Santa Fe.
 
 
 ### Society Memphis Shop
