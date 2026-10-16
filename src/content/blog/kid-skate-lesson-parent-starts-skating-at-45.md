@@ -28,7 +28,7 @@ The honest answer is that this entry point has real advantages over showing up c
 
 ## How to actually make the jump
 
-**Ask for five minutes, not a lesson.** You don't need to book a session to find out if this is for you. At the end of your kid's lesson, ask the coach if you can borrow a board and try pushing and turning for five minutes while they pack up. Low stakes, no audience beyond the people already there, and it'll tell you more than a week of thinking about it will.
+**Ask for five minutes, not a lesson — helmet and wrist guards on, coach still watching.** You don't need to book a session to find out if this is for you. At the end of your kid's lesson, ask the coach if you can borrow a board, a helmet, and wrist guards, and try pushing and turning for five minutes while they're still there to keep an eye on you. "Low stakes" means a small, supervised test, not skipping the gear a first-timer needs — see [the safety gear guide](/blog/safety-gear-guide/) if you're not sure what fits. Five protected, supervised minutes will still tell you more than a week of thinking about it would.
 
 **Buy nothing until you've done that.** It's tempting to show your commitment by buying a full setup before you've rolled an inch. Resist it. Borrow your kid's spare board, a friend's, or the park's loaner gear if it has any, for at least your first couple of tries. [What board size to actually buy](/blog/what-board-size-for-adults/) matters a lot once you know you're staying, and almost nothing before that.
 
