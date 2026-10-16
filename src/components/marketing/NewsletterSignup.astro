@@ -47,9 +47,8 @@
 </aside>
 
 <script>
-  import { initNewsletterSignup } from '../../scripts/newsletter-signup.js';
-  const blockedPaths = ['/submit', '/newsletter', '/privacy'];
-  if (!blockedPaths.some((path) => window.location.pathname.startsWith(path))) {
+  import { initNewsletterSignup, isPopupExcludedPath } from '../../scripts/newsletter-signup.js';
+  if (!isPopupExcludedPath(window.location.pathname)) {
     document.querySelectorAll<HTMLElement>('#newsletter-signup').forEach(initNewsletterSignup);
   }
 </script>
