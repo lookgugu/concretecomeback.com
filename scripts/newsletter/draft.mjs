@@ -1,6 +1,6 @@
 // Builds one weekly newsletter draft: markdown, an HTML preview and a JSON
 // issue manifest. It reads the repo, GETs the public blog pages it is about to
-// feature, and writes three files to an output directory. It never sends,
+// feature, and writes four files to an output directory. It never sends,
 // never calls Resend, never touches contacts and never writes to the sent
 // ledger — a draft is not a send, so it cannot be what marks anything as sent.
 //
@@ -9,6 +9,7 @@
 // data fails closed without fetching anything, and draft/future/old/already-
 // sent posts are filtered out before any URL is built for the live check.
 
+import { renderLocalPreview } from './preview.mjs';
 import { selectPhotos, PHOTO_ROOT } from './photos.mjs';
 import { mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { join, relative, resolve, isAbsolute } from 'node:path';
@@ -162,8 +163,10 @@ export async function generateDraft({ blogDir, ledgerDir, outDir, sendRequiremen
     preferenceCenterUrl: requirements.preferenceCenterUrl,
   };
 
+  const preview = renderLocalPreview(issue, { root: photoRoot, now });
   const manifest = {
     ...base,
+    localPreview: { file: 'preview-local.html', purpose: 'Local review only; not an email payload', images: preview.diagnostics },
     status: 'draft',
     photography: { schemaVersion: 1, diagnostics: photography.diagnostics, items: [...photography.selected].map(([slug, photo]) => ({ slug, ...photo })) },
     items: chosen.map((c, i) => ({
@@ -199,6 +202,7 @@ export async function generateDraft({ blogDir, ledgerDir, outDir, sendRequiremen
     'manifest.json': `${JSON.stringify(manifest, null, 2)}\n`,
     'draft.md': renderMarkdown(issue),
     'draft.html': renderHtml(issue),
+    'preview-local.html': preview.html,
   });
   return { status: manifest.status, manifest };
 }

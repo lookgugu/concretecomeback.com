@@ -17,7 +17,7 @@ action, and recording that a send happened is a separate, manual commit.
   `content.mjs` (strict post reader, newness window, candidate filter),
   `ledger.mjs` (sent history), `live.mjs` (public GET verification),
   `select.mjs` (scoring, excerpts, weekend quote), `render.mjs` (Markdown/HTML),
-  `draft.mjs` (orchestration), CLIs `generate-draft.mjs`, `schedule-guard.mjs`,
+  `preview.mjs` (standalone local JPEG preview), `draft.mjs` (orchestration), CLIs `generate-draft.mjs`, `schedule-guard.mjs`,
   `record-sent.mjs`. Tests are `*.test.mjs` beside them and run in `npm test`.
 - `newsletter/issues/` — the committed **sent** ledger (`<issueId>.json`).
 - `newsletter/send-requirements.json` — compliance inputs (postal address,
@@ -105,8 +105,9 @@ must pass a bounded GET at the fixed production image path, with no redirects,
 and match the local hash. Missing evidence, malformed records, unavailable hosted
 assets, or any failed verification omit photos with `manifest.photography`
 diagnostics; valid text drafts still render. Credits and source/license links
-appear in both formats. Photos add no health claims. Local preview verification
+appear in both formats. Photos add no health claims. The library-only hosted-check bypass
 is explicitly marked test-only and is unavailable through the production CLI.
+The standalone local preview is generated automatically after normal verification.
 All send blockers and the Wednesday draft-only schedule remain in force.
 
 There is no LLM, API key or secret involved.
@@ -114,7 +115,8 @@ There is no LLM, API key or secret involved.
 ## Artifacts
 
 The workflow uploads `weekly-newsletter-draft-<run id>` (30 days): `draft.md`,
-`draft.html` (preview with a DRAFT banner and the blockers), and
+`draft.html` (hosted-image source with a DRAFT banner and blockers),
+`preview-local.html` (standalone local browser preview with embedded JPEGs), and
 `manifest.json` (`status: "draft"`, `sendable: false`, items with sha256 of
 each source file, scores, live-check evidence, exclusions, blockers, source
 commit and blog tree hash). Artifacts are review material, **not** history:
@@ -148,7 +150,9 @@ no-eligible-posts manifests. Generation never verifies contacts or clears it.
 1. Take the artifact from a run on `main`. Check `manifest.status` is
    `draft`, `source.commit` is the current `main`, and `issueId` is this
    Thursday.
-2. Read `draft.html` end to end. Open every link. Read `reviewNotes` and
+2. Read `preview-local.html` end to end in a browser for standalone local review,
+   then review `draft.html` as the hosted-image email source. Never send the local
+   preview: its embedded images and CSP are for browser review only. Open every link. Read `reviewNotes` and
    `excluded`.
 3. Resolve every blocker except `operator-approval`. If you changed
    `send-requirements.json`, merge that and regenerate the draft (manual
@@ -218,3 +222,29 @@ would silently drop real posts from the next issue.
 Malformed ledger files (bad JSON, wrong status, off-site URL, future
 `sentAt`, unknown keys, a URL in two issues, stray files) fail every draft
 run closed until fixed.
+
+
+## Local preview artifacts
+
+Each recurring or manual draft run writes `draft.md`, `draft.html`,
+`preview-local.html` and `manifest.json`; the existing directory artifact upload
+includes all four. No-issue runs still write only reports and the manifest.
+The preview uses already selected, verified local JPEGs, rechecks evidence,
+paths, size, dimensions and hashes, and embeds their bytes without any fetch.
+Invalid preview images fall back to text with `localPreview.images` diagnostics.
+All approval, audience and compliance blockers remain in both HTML files.
+Hosted-image verification and the production HTTPS URL strategy are unchanged.
+Full photo provenance and modifications are in `photography.items`; reader CC0
+captions contain a short contextual phrase and compact credit/source/license links.
+
+For an offline browser regression (Playwright must already be installed):
+
+```bash
+node scripts/newsletter/check-preview-offline.mjs /path/to/original/draft.html /path/to/preview-local.html
+```
+
+The check blocks HTTP(S) and requires three failed hosted images and three
+successfully decoded embedded JPEGs, at desktop and mobile widths. The original
+2026-10-17 delivered draft's three hosted assets were reported verified by fresh
+GETs (200, JPEG, no redirects, matching hashes). This does not establish why the
+delivered view failed or prove a Telegram-specific cause.

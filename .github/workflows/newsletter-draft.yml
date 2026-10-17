@@ -1,7 +1,7 @@
 name: Weekly newsletter draft
 
 # Builds the weekly roundup DRAFT on Wednesday morning, New York time, and
-# uploads it as an artifact for review: draft.md, draft.html and manifest.json
+# uploads it as an artifact for review: draft.md, draft.html, preview-local.html and manifest.json
 # (or report.md/report.html when there is nothing new). It never sends email,
 # needs no secrets, and cannot commit — the token is read-only. Sending is a
 # separate, manual, approval-gated step (Thursday 10:00 New York) described in

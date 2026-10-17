@@ -58,3 +58,9 @@ test('the workflow drafts only from main and installs no npm dependencies', () =
   assert.doesNotMatch(code, /record-sent/);
   assert.doesNotMatch(code, /resend|RESEND_/i);
 });
+
+test('artifact upload includes the whole output directory, including the local preview', () => {
+  assert.match(wf, /--out "\$RUNNER_TEMP\/weekly-newsletter"/);
+  assert.match(wf, /path: \$\{\{ runner.temp \}\}\/weekly-newsletter\//);
+  assert.match(wf, /preview-local\.html/);
+});

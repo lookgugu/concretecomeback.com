@@ -49,11 +49,27 @@ with a timeout, bounded streaming body, no redirects, expected MIME and exact
 hash/byte matching. A 404 or other failure skips the photo, never the text draft.
 One lead displays at up to 600px, at most two supporting photos at up to 280px;
 all scale down on mobile, with natural aspect ratio. Duplicate originals,
-derivatives and IDs cannot produce repeated photos. Credits, source/license
-links and modifications appear in HTML and Markdown. Captions/alt must remain
+derivatives and IDs cannot produce repeated photos. CC0 captions show one useful phrase, photographer, Commons/source and CC0 links;
+full attribution, modifications and provenance remain in the issue manifest.
+CC BY photos retain full attribution and modification text in HTML and Markdown. Captions/alt must remain
 literal descriptions: no new health claims, implied outcomes or endorsements.
 
 `generateDraft({ photoRoot, testOnlyLocalImageVerification: true })` is an explicit
 library-only preview/test injection: it still validates all local evidence and
 files, marks verification `test-only-local`, and never bypasses send blockers.
 The production CLI offers no local verification switch or origin override.
+
+
+Every draft also includes `preview-local.html`, a standalone **LOCAL PREVIEW**
+for browser review, not an email payload. `preview.mjs` revalidates selected
+photos and embeds bounded, hash-matched local JPEG derivatives as data URLs.
+It never fetches URLs; paths with traversal or symlinks are refused. Unsupported
+formats (including PNG), changed files or invalid evidence omit the preview
+image with a diagnostic in `manifest.localPreview.images`; text and send blockers
+remain. A restrictive preview-only CSP blocks network resources. The production
+`draft.html` and Markdown retain verified hosted HTTPS image URLs.
+
+To check delivery-independent rendering, open the original hosted draft and
+`preview-local.html` in a browser with all network requests blocked. Hosted images
+should fail; all three curated embedded JPEGs should have nonzero natural widths.
+This demonstrates an offline preview, not the cause of any delivery failure.

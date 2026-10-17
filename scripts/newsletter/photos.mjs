@@ -129,3 +129,15 @@ export async function selectPhotos(chosen, { root = PHOTO_ROOT, now = new Date()
   }
   return { selected, diagnostics };
 }
+
+// Local preview only: repeat all evidence checks and read bounded, hashed bytes.
+// Never accept a URL as a file path or fetch anything here.
+export function previewJpeg(photo, { root = PHOTO_ROOT, now = new Date() } = {}) {
+  const { url, type, displayWidth, verification, ...record } = photo;
+  const checked = validate(root, record, now);
+  requireThat(url === checked.url && type === checked.type, 'preview photo mismatch');
+  requireThat(checked.type === 'image/jpeg', 'preview requires JPEG');
+  const bytes = checkedFile(root, checked.derivative, 'public/images/newsletter/', MAX_BYTES);
+  requireThat(bytes.at(-2) === 255 && bytes.at(-1) === 217, 'incomplete JPEG');
+  return bytes;
+}
