@@ -9,6 +9,7 @@
 // data fails closed without fetching anything, and draft/future/old/already-
 // sent posts are filtered out before any URL is built for the live check.
 
+import { selectPhotos, PHOTO_ROOT } from './photos.mjs';
 import { mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { join, relative, resolve, isAbsolute } from 'node:path';
 import { loadPosts, newnessWindow, selectCandidates, SITE_ORIGIN } from './content.mjs';
@@ -74,7 +75,7 @@ function writeAll(outDir, files) {
   for (const [name, body] of Object.entries(files)) writeFileSync(join(outDir, name), body);
 }
 
-export async function generateDraft({ blogDir, ledgerDir, outDir, sendRequirementsPath, now = new Date(), fetchImpl = globalThis.fetch, sourceCommit = null, blogTree = null }) {
+export async function generateDraft({ blogDir, ledgerDir, outDir, sendRequirementsPath, now = new Date(), fetchImpl = globalThis.fetch, sourceCommit = null, blogTree = null, photoRoot = PHOTO_ROOT, testOnlyLocalImageVerification = false }) {
   if (!outDir) throw new Error('An output directory is required');
   assertOutsideLedger(outDir, ledgerDir);
 
@@ -109,7 +110,8 @@ export async function generateDraft({ blogDir, ledgerDir, outDir, sendRequiremen
     const reason = window.empty
       ? `The last sent issue (${history.lastSent.issueId}) already covers posts through ${window.end}.`
       : `No published, non-draft, non-future post dated ${window.start} → ${window.end} (America/New_York) that has not already been sent.`;
-    const manifest = { ...base, status: 'no-eligible-posts', reason, items: [], weekend: null, liveChecks: [], sendBlockers: [AUDIENCE_VERIFICATION] };
+    const photoCheck = await selectPhotos([], { root: photoRoot, now });
+    const manifest = { ...base, photography: { schemaVersion: 1, items: [], diagnostics: photoCheck.diagnostics }, status: 'no-eligible-posts', reason, items: [], weekend: null, liveChecks: [], sendBlockers: [AUDIENCE_VERIFICATION] };
     const report = { runDate, window, reason, excluded: base.excluded, staleSkipped: window.staleSkipped };
     writeAll(outDir, {
       'manifest.json': `${JSON.stringify(manifest, null, 2)}\n`,
@@ -137,11 +139,14 @@ export async function generateDraft({ blogDir, ledgerDir, outDir, sendRequiremen
   if (!weekend) reviewNotes.push('No new non-health post has a practical section, so the weekend section is omitted rather than written.');
   if (picked.reads.length < 2) reviewNotes.push(`Only ${picked.reads.length} additional read(s) qualified this week; nothing older was added to fill space.`);
 
+  const photography = await selectPhotos(chosen, { root: photoRoot, now, fetchImpl, testOnlyLocalImageVerification });
+
   const issue = {
     issueId,
     plannedSendUtc,
     window,
     lead: {
+      photo: photography.selected.get(picked.lead.post.slug),
       title: picked.lead.post.data.title,
       url: picked.lead.post.canonicalUrl,
       description: picked.lead.post.data.description,
@@ -149,7 +154,7 @@ export async function generateDraft({ blogDir, ledgerDir, outDir, sendRequiremen
       pubDate: picked.lead.post.data.pubDate,
       excerpt: leadExcerpt(picked.lead.post),
     },
-    reads: picked.reads.map((r) => ({ title: r.post.data.title, url: r.post.canonicalUrl, description: r.post.data.description })),
+    reads: picked.reads.map((r) => ({ photo: photography.selected.get(r.post.slug), title: r.post.data.title, url: r.post.canonicalUrl, description: r.post.data.description })),
     weekend,
     transitionNotice: !weeklySent,
     blockers,
@@ -160,6 +165,7 @@ export async function generateDraft({ blogDir, ledgerDir, outDir, sendRequiremen
   const manifest = {
     ...base,
     status: 'draft',
+    photography: { schemaVersion: 1, diagnostics: photography.diagnostics, items: [...photography.selected].map(([slug, photo]) => ({ slug, ...photo })) },
     items: chosen.map((c, i) => ({
       role: i === 0 ? 'lead' : 'read',
       slug: c.post.slug,

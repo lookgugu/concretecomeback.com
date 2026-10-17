@@ -95,6 +95,20 @@ the cautions around it. When no post qualifies the section is omitted. Links
 inside quotes are kept as citations if they are `http(s)` or site-relative;
 anything else is reduced to text. All output is HTML/Markdown escaped.
 
+**Optional photography.** Exact slug mappings in `newsletter/photos/manifest.json`
+may add one lead photo (up to 600px) and two supporting photos (up to 280px).
+The [photo schema and evidence requirements](../newsletter/photos/README.md)
+require local originals, SHA256 hashes, attribution, commercial licensing
+(CC0-1.0 or CC-BY-4.0 only), and reviewed identity/context. No article hero
+metadata or arbitrary remote image discovery is used. Every selected derivative
+must pass a bounded GET at the fixed production image path, with no redirects,
+and match the local hash. Missing evidence, malformed records, unavailable hosted
+assets, or any failed verification omit photos with `manifest.photography`
+diagnostics; valid text drafts still render. Credits and source/license links
+appear in both formats. Photos add no health claims. Local preview verification
+is explicitly marked test-only and is unavailable through the production CLI.
+All send blockers and the Wednesday draft-only schedule remain in force.
+
 There is no LLM, API key or secret involved.
 
 ## Artifacts
