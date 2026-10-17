@@ -10,7 +10,7 @@ featured: false
 draft: false
 ---
 
-Carissa Moore, a five-time world surfing champion, announced in early 2024 that she was stepping back from full-time competition, in part because she and her husband hoped to start a family. Her daughter was born in February 2025. In late 2025, the World Surf League confirmed Moore had accepted a full-season wildcard for the 2026 Championship Tour, starting at the Rip Curl Pro at Bells Beach in April. In the meantime, she hadn't vanished entirely — she stayed loosely connected to competition, including a win at Pipeline in December.
+Carissa Moore, a five-time world surfing champion, announced in early 2024 that she was stepping back from full-time competition, in part because she and her husband hoped to start a family. Her daughter was born in February 2025. Moore didn't wait for a full return to get back in the water competitively — she won an individual event at Pipeline that December, less than a year after giving birth. Then, in late 2025, the World Surf League confirmed she'd accepted a full-season wildcard for the 2026 Championship Tour, with her full tour return starting at the Rip Curl Pro at Bells Beach in April 2026.
 
 I don't surf and this isn't a surfing site, but I read her comeback timeline the same week I was talking with someone in our local group about coming back to skating after a years-long gap tangled up with a new baby of her own. The shape of Moore's return — the staged re-entry, the refusal to treat "away" as "gone," the way she's talked about just getting the jersey back on as a win in itself — maps onto adult comebacks far outside surfing, including ones that have nothing to do with becoming a parent.
 
@@ -28,7 +28,7 @@ Adult returners do the opposite math constantly — counting the years away as a
 
 ## Readiness isn't a fixed point you return to
 
-Moore is coming back to a body that carried and delivered a child less than a year before her first event back — not the exact body she had before, and not one she's trying to force back into an old shape on an old schedule. Reporting on her return has framed simply putting the jersey back on as a genuine win, independent of how she actually places once the heats start.
+Moore's full tour return comes a little over a year after she carried and delivered a child — not the exact body she had before, and not one she's trying to force back into an old shape on an old schedule. Reporting on her return has framed simply putting the jersey back on as a genuine win, independent of how she actually places once the heats start.
 
 That's a useful recalibration for anyone measuring a comeback against a specific, remembered version of themselves — the person who could drop into anything, skate for three hours straight, or land a trick they haven't attempted in a decade. [Building confidence at 40](/blog/building-confidence-at-40/) only works if the target is the body and the life you actually have right now, not the one you're nostalgic for. Getting back to the park at all, after whatever kept you away, is the actual win — the same way it apparently is for a five-time world champion.
 
@@ -42,4 +42,4 @@ You don't need a sponsor, a tour schedule, or a newborn to take something useful
 
 **Count showing up as the result, at least at first.** Whatever "back" looks like for you — a full session, a single push down the driveway, watching from the fence before you're ready to join in — it's worth treating as real progress rather than a placeholder for the comeback that hasn't started yet.
 
-Moore's first heat back will get plenty of attention regardless of how it goes, same as every comeback eventually gets measured by *something*. But the part of her story worth keeping, whether or not you ever watch a second of it, is the part that happened before the first heat: the decision that a gap for a genuinely good reason doesn't disqualify you from going back to the thing you loved, on whatever timeline actually fits your life.
+Moore's first heat of the 2026 tour will get plenty of attention regardless of how it goes, same as every comeback eventually gets measured by *something*. But the part of her story worth keeping, whether or not you ever watch a second of it, is the part that happened before that heat: the decision that a gap for a genuinely good reason doesn't disqualify you from going back to the thing you loved, on whatever timeline actually fits your life.
