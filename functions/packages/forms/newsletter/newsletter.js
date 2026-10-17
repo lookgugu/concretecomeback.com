@@ -162,8 +162,8 @@ async function startSignup(args) {
     from: 'Concrete Comeback <hello@concretecomeback.com>',
     to: [email],
     subject: 'Confirm your Concrete Comeback roundup',
-    text: `Confirm your subscription to the monthly Concrete Comeback roundup:\n\n${confirmUrl}\n\nIf you did not request this, you can ignore this email.`,
-    html: `<p>Confirm your subscription to the monthly Concrete Comeback roundup.</p><p><a href="${confirmUrl}">Confirm my subscription</a></p><p>If you did not request this, you can ignore this email.</p>`,
+    text: `Confirm your subscription to the weekly Concrete Comeback roundup:\n\n${confirmUrl}\n\nIf you did not request this, you can ignore this email.`,
+    html: `<p>Confirm your subscription to the weekly Concrete Comeback roundup.</p><p><a href="${confirmUrl}">Confirm my subscription</a></p><p>If you did not request this, you can ignore this email.</p>`,
   };
 
   try {
@@ -281,3 +281,4 @@ exports.readToken = readToken;
 exports.idempotencyKey = idempotencyKey;
 exports.timeoutBudget = timeoutBudget;
 exports.TOKEN_TTL_MS = TOKEN_TTL_MS;
+exports.DEFAULT_SEGMENT_ID = DEFAULT_SEGMENT_ID;

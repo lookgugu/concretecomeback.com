@@ -1,0 +1,6 @@
+{
+  "$comment": "Compliance inputs the weekly draft checks before it will drop a send blocker. Leave a value null until it is real — the draft reports null as a BLOCKER instead of inventing one. See docs/weekly-newsletter.md.",
+  "schemaVersion": 1,
+  "physicalPostalAddress": null,
+  "preferenceCenterUrl": null
+}
