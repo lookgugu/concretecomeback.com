@@ -3,6 +3,7 @@ import assert from 'node:assert/strict';
 import { createHash } from 'node:crypto';
 import { existsSync, readFileSync, readdirSync, writeFileSync, mkdirSync } from 'node:fs';
 import { join } from 'node:path';
+import { fileURLToPath } from 'node:url';
 import { generateDraft } from './draft.mjs';
 import { fakeResponse, livePage, postSource, sentRecord, tempDir, writeBlog, writeLedger } from './test-helpers.mjs';
 
@@ -184,6 +185,37 @@ test('configured address and preference centre clear their blockers but never ap
   assert.ok(codes.includes('operator-approval'));
   assert.ok(codes.includes('unsubscribe-verification'));
   assert.equal(manifest.sendable, false);
+});
+
+test('committed compliance config renders the exact address in every format and clears only its blocker', async () => {
+  const f = fixture({ posts: POSTS });
+  const baseline = await generateDraft({ ...f, now: NOW, fetchImpl: liveFetch(TITLES) });
+  const sendRequirementsPath = fileURLToPath(new URL('../../newsletter/send-requirements.json', import.meta.url));
+  const outDir = join(f.root, 'configured');
+  const { manifest } = await generateDraft({ ...f, outDir, sendRequirementsPath, now: NOW, fetchImpl: liveFetch(TITLES) });
+  const codes = manifest.sendBlockers.map((b) => b.code);
+  assert.deepEqual(codes, [
+    'audience-verification', 'operator-approval', 'unsubscribe-verification',
+    'preference-center', 'subscriber-transition',
+  ]);
+  assert.deepEqual(manifest.sendBlockers, baseline.manifest.sendBlockers.filter((b) => b.code !== 'physical-address'));
+  assert.equal(manifest.sendable, false);
+  assert.deepEqual(manifest.audience, baseline.manifest.audience);
+  assert.deepEqual(manifest.items, baseline.manifest.items);
+  for (const name of ['draft.md', 'draft.html', 'preview-local.html']) {
+    const rendered = readFileSync(join(outDir, name), 'utf8');
+    const address = '326 Gault St., Santa Cruz, CA 95062';
+    if (name.endsWith('.md')) assert.ok(rendered.includes(`\n${address}\n`), name);
+    else assert.ok(rendered.includes(`>${address}</p>`), name);
+    assert.doesNotMatch(rendered, /physical-address|Vault|Manage preferences/);
+    for (const code of codes) assert.ok(rendered.includes(code), `${name}: ${code}`);
+    assert.ok(rendered.includes(name.endsWith('.md')
+      ? '[Unsubscribe]({{{RESEND_UNSUBSCRIBE_URL}}})'
+      : 'href="{{{RESEND_UNSUBSCRIBE_URL}}}">Unsubscribe</a>'), name);
+    assert.match(rendered, /provider merge tag — verify it in a test send/);
+    assert.match(rendered, /DRAFT PREVIEW — not approved for sending/);
+    assert.match(rendered, /used to arrive monthly/);
+  }
 });
 
 test('a weekend section from a new post outside the lead and reads is recorded as a weekend item', async () => {
