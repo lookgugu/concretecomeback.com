@@ -57,7 +57,7 @@ test('a bootstrap run produces markdown, HTML and a draft manifest from live new
   const fetchImpl = liveFetch(TITLES);
   const result = await generateDraft({ ...f, now: NOW, fetchImpl, sourceCommit: 'abc123' });
   assert.equal(result.status, 'draft');
-  assert.deepEqual(readdirSync(f.outDir).sort(), ['draft.html', 'draft.md', 'manifest.json']);
+  assert.deepEqual(readdirSync(f.outDir).sort(), ['draft.html', 'draft.md', 'manifest.json', 'preview-local.html']);
   const manifest = JSON.parse(readFileSync(join(f.outDir, 'manifest.json'), 'utf8'));
   assert.equal(manifest.status, 'draft');
   assert.equal(manifest.sendable, false);

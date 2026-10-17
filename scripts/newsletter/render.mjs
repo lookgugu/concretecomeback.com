@@ -35,14 +35,17 @@ const htmlTokens = (tokens) => tokens.map((t) => (t.type === 'link' && safeHref(
   ? `<a href="${escapeHtml(href(t.href))}">${escapeHtml(t.text)}</a>`
   : escapeHtml(t.text))).join('');
 
+const sourceLabel = p => new URL(href(p.sourcePageUrl)).hostname === 'commons.wikimedia.org' ? 'Commons' : 'Source';
+const licenseLabel = p => p.license === 'CC0-1.0' ? 'CC0' : p.license;
+
 function photoMarkdown(p) {
   if (!p) return '';
-  return `![${escapeMarkdown(p.alt)}](${markdownHref(p.url)})\n\n${escapeMarkdown(p.caption)} — ${escapeMarkdown(p.attribution)} · by ${escapeMarkdown(p.author)} · [Source](${markdownHref(p.sourcePageUrl)}) · [${escapeMarkdown(p.license)}](${markdownHref(p.licenseUrl)}) · ${escapeMarkdown(p.modifications)}\n`;
+  return `![${escapeMarkdown(p.alt)}](${markdownHref(p.url)})\n\n${escapeMarkdown(p.caption)} — ${p.license === 'CC0-1.0' ? escapeMarkdown(p.author) : `${escapeMarkdown(p.attribution)} · by ${escapeMarkdown(p.author)}`} · [${sourceLabel(p)}](${markdownHref(p.sourcePageUrl)}) · [${escapeMarkdown(licenseLabel(p))}](${markdownHref(p.licenseUrl)})${p.license === 'CC0-1.0' ? '' : ` · ${escapeMarkdown(p.modifications)}`}\n`;
 }
 function photoHtml(p) {
   if (!p) return '';
   const width = Math.min(p.displayWidth, 600);
-  return `<div style="margin:12px 0;"><img src="${escapeHtml(href(p.url))}" alt="${escapeHtml(p.alt)}" width="${width}" style="display:block;width:100%;max-width:${width}px;height:auto;border:0;"><p style="font-family:Arial,sans-serif;font-size:12px;line-height:1.5;">${escapeHtml(p.caption)} — ${escapeHtml(p.attribution)} · by ${escapeHtml(p.author)} · <a href="${escapeHtml(href(p.sourcePageUrl))}">Source</a> · <a href="${escapeHtml(href(p.licenseUrl))}">${escapeHtml(p.license)}</a> · ${escapeHtml(p.modifications)}</p></div>`;
+  return `<div style="margin:12px 0;"><img src="${escapeHtml(href(p.url))}" alt="${escapeHtml(p.alt)}" width="${width}" style="display:block;width:100%;max-width:${width}px;height:auto;border:0;"><p style="font-family:Arial,sans-serif;font-size:12px;line-height:1.5;">${escapeHtml(p.caption)} — ${p.license === 'CC0-1.0' ? escapeHtml(p.author) : `${escapeHtml(p.attribution)} · by ${escapeHtml(p.author)}`} · <a href="${escapeHtml(href(p.sourcePageUrl))}">${sourceLabel(p)}</a> · <a href="${escapeHtml(href(p.licenseUrl))}">${escapeHtml(licenseLabel(p))}</a>${p.license === 'CC0-1.0' ? '' : ` · ${escapeHtml(p.modifications)}`}</p></div>`;
 }
 
 const TRANSITION = {

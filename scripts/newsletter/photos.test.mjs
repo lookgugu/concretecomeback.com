@@ -66,6 +66,9 @@ test('draft integrates escaped images, credits and text fallback without alterin
  assert.match(html,/<img src="https:\/\/concretecomeback.com\/images\/newsletter\/scene.png"/);assert.match(html,/&lt;img onerror=&quot;oops&quot;&gt;/);assert.doesNotMatch(html,/object-fit|<script>/);
  for(const output of [html,md]) {assert.match(output,/creativecommons.org\/licenses\/by\/4.0/);assert.match(output,/Resized; no crop/);assert.doesNotMatch(output,/cures|prevents injury|boosts recovery/i);}
  assert.equal(result.manifest.sendable,false);assert.equal(result.manifest.sendBlockers.length,6);
+ const preview=readFileSync(join(outDir,'preview-local.html'),'utf8');
+ assert.match(preview,/LOCAL PREVIEW/);assert.match(preview,/audience-verification/);assert.doesNotMatch(preview,/<img /);
+ assert.equal(result.manifest.localPreview.images[0].reason,'preview requires JPEG');
  const fallback=await generateDraft({...options,outDir:join(root,'fallback')});assert.equal(fallback.manifest.status,'draft');assert.equal(fallback.manifest.photography.items.length,0);assert.ok(fallback.manifest.photography.diagnostics.length);assert.doesNotMatch(readFileSync(join(root,'fallback/draft.html'),'utf8'),/<img /);
 });
 for (const [name, sourcePageUrl, reason] of [
