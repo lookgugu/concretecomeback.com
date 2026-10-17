@@ -206,7 +206,7 @@ export function initNewsletterSignup(panel) {
       panel.dataset.visible = 'true';
       // The panel never takes focus — it is an unsolicited promo, not a dialog —
       // so the one way assistive tech learns it exists is a polite live region.
-      if (announcer) announcer.textContent = 'Newsletter signup available: get the monthly Concrete Comeback roundup.';
+      if (announcer) announcer.textContent = 'Newsletter signup available: get the weekly Concrete Comeback roundup.';
       track('newsletter_popup_shown', POPUP_SOURCE);
       // Painted only to a visible tab and fixed to the viewport, so this is an
       // impression in the same sense as an inline form half on screen.
@@ -375,7 +375,7 @@ export function showCompletedState(panel, state) {
   if (form) form.hidden = true;
   if (status) {
     status.textContent = state === 'subscribed'
-      ? "You're subscribed to the monthly roundup."
+      ? "You're subscribed to the weekly roundup."
       : 'Check your inbox and confirm your subscription.';
   }
 }

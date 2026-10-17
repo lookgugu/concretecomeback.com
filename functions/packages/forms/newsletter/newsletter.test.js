@@ -41,6 +41,11 @@ test('signup sends a confirmation email without creating a contact', async () =>
     const payload = JSON.parse(requests[0].options.body);
     assert.deepEqual(payload.to, ['skater@example.com']);
     assert.match(payload.text, /api\/forms\/newsletter\?token=/);
+    // The list moved from a monthly to a weekly cadence; the consent the
+    // address is confirming must name the cadence it will actually receive.
+    for (const body of [payload.subject, payload.text, payload.html]) assert.doesNotMatch(body, /monthly/i);
+    assert.match(payload.text, /weekly Concrete Comeback roundup/);
+    assert.match(payload.html, /weekly Concrete Comeback roundup/);
     assert.match(requests[0].options.headers['Idempotency-Key'], /^newsletter-confirmation\/[A-Za-z0-9_-]+$/);
   });
 });

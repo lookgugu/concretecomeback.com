@@ -8,13 +8,14 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 npm run dev        # local dev server
 npm run build      # generate-llms → astro build (outputs to dist/)
 npm run preview    # serve dist/ locally
-npm test           # node --test over the submit-function and form unit tests
+npm test           # node --test over the submit-function, form and newsletter unit tests
 npx astro check    # TypeScript/Astro diagnostics
+npm run newsletter:draft -- --out <dir>   # weekly newsletter draft (live GETs; never sends)
 ```
 
 `astro check` and `npm test` are deliberately not part of `npm run build` — CI runs them as separate steps. To run a single test file: `node --test src/scripts/submit-form.test.js`. There is no linter.
 
-**CI** (`.github/workflows/`) gates every PR: `ci.yml` runs the duplicate-post check, `astro check`, `npm test`, a production build, a link check against the preview server, and Lighthouse budgets; `content-safety-gate.yml` requires a safety review before health content merges; `deploy-check.yml` runs the post-deploy smoke test.
+**CI** (`.github/workflows/`) gates every PR: `ci.yml` runs the duplicate-post check, `astro check`, `npm test`, a production build, a link check against the preview server, and Lighthouse budgets; `content-safety-gate.yml` requires a safety review before health content merges; `deploy-check.yml` runs the post-deploy smoke test; `newsletter-draft.yml` builds the weekly newsletter draft artifact (read-only token, no secrets, never sends).
 
 ## Architecture
 
@@ -121,3 +122,13 @@ curl "https://concretecomeback.com/api/forms/newsletter?health=1"
 ```
 
 **Any browser `fetch` to `/api/forms/*` must send `application/x-www-form-urlencoded`** — never a raw `FormData` object. DO Functions parses only JSON and form-urlencoded bodies into a web action's `args`; a multipart body arrives base64-encoded in `__ow_body` with a boundary the `URLSearchParams` fallback in each function cannot decode, so every field reads as undefined and the request fails validation. Use `body: new URLSearchParams(new FormData(form))` and let the browser set the content type. Unit tests that call `main()` with pre-parsed args cannot catch this; cover the encoded-body path instead.
+
+## The weekly newsletter
+
+The roundup is **weekly** (it was monthly); every signup surface, the confirmation email and `/privacy` say so, and `src/scripts/newsletter-cadence-copy.test.js` keeps it that way. Full operator detail is in `docs/weekly-newsletter.md`.
+
+**The repo drafts; it never sends.** `scripts/newsletter/generate-draft.mjs` (run Wednesday 09:00 New York by `newsletter-draft.yml`, or by hand) writes `draft.md`, `draft.html` and `manifest.json`. Thursday 10:00 New York is a send *policy* for an operator following the approval checklist — don't add a sender, a scheduled send, a Resend call or a contacts write to this pipeline. The draft workflow keeps `contents: read`, SHA-pinned actions, `persist-credentials: false`, no secrets, no npm install and no `${{ }}` inside `run:`; `scripts/newsletter/workflow.test.mjs` enforces all of that.
+
+**Sent history is the committed ledger `newsletter/issues/<issueId>.json`**, written only by `scripts/newsletter/record-sent.mjs` after a send is confirmed in Resend. It sets the next newness window and blocks repeats by canonical URL. Never hand-write a record, never record a draft, and never move history into workflow artifacts (they expire). Generating a draft cannot write there — it refuses an output directory inside the ledger.
+
+**Everything fails closed**: one malformed post frontmatter (the reader is stricter than YAML — one-line `key: value` only), one bad ledger file, an invalid `send-requirements.json`, or one new post not confirmed live by a public GET stops the run with no draft. The live check only ever requests `https://concretecomeback.com/blog/<slug>/` for new, non-draft, non-future posts and validates every redirect before following it; keep the origin a constant, not a flag or env var. The weekend section quotes a practical section verbatim and never from a health-tagged post — don't make it generate text.
