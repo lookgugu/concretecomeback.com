@@ -35,6 +35,16 @@ const htmlTokens = (tokens) => tokens.map((t) => (t.type === 'link' && safeHref(
   ? `<a href="${escapeHtml(href(t.href))}">${escapeHtml(t.text)}</a>`
   : escapeHtml(t.text))).join('');
 
+function photoMarkdown(p) {
+  if (!p) return '';
+  return `![${escapeMarkdown(p.alt)}](${markdownHref(p.url)})\n\n${escapeMarkdown(p.caption)} — ${escapeMarkdown(p.attribution)} · by ${escapeMarkdown(p.author)} · [Source](${markdownHref(p.sourcePageUrl)}) · [${escapeMarkdown(p.license)}](${markdownHref(p.licenseUrl)}) · ${escapeMarkdown(p.modifications)}\n`;
+}
+function photoHtml(p) {
+  if (!p) return '';
+  const width = Math.min(p.displayWidth, 600);
+  return `<div style="margin:12px 0;"><img src="${escapeHtml(href(p.url))}" alt="${escapeHtml(p.alt)}" width="${width}" style="display:block;width:100%;max-width:${width}px;height:auto;border:0;"><p style="font-family:Arial,sans-serif;font-size:12px;line-height:1.5;">${escapeHtml(p.caption)} — ${escapeHtml(p.attribution)} · by ${escapeHtml(p.author)} · <a href="${escapeHtml(href(p.sourcePageUrl))}">Source</a> · <a href="${escapeHtml(href(p.licenseUrl))}">${escapeHtml(p.license)}</a> · ${escapeHtml(p.modifications)}</p></div>`;
+}
+
 const TRANSITION = {
   text: 'You signed up for the Concrete Comeback roundup when it used to arrive monthly. It now comes weekly, with only that week\'s new posts. If weekly is more than you want, the unsubscribe link at the bottom takes you off the list in one click.',
 };
@@ -57,13 +67,17 @@ export function renderMarkdown(issue) {
   const { lead } = issue;
   out.push('## This week\'s lead', '');
   out.push(`### [${escapeMarkdown(lead.title)}](${href(lead.url)})`, '');
+  if (lead.photo) out.push(photoMarkdown(lead.photo), '');
   out.push(`${escapeMarkdown(lead.description)}`, '');
   if (lead.excerpt?.length) out.push(`> ${mdTokens(lead.excerpt)}`, '');
   out.push(`[Read the full post](${href(lead.url)}) · by ${escapeMarkdown(lead.author)}`, '');
 
   if (issue.reads.length) {
     out.push('## Also worth your time', '');
-    for (const r of issue.reads) out.push(`- **[${escapeMarkdown(r.title)}](${href(r.url)})** — ${escapeMarkdown(r.description)}`);
+    for (const r of issue.reads) {
+      out.push(`- **[${escapeMarkdown(r.title)}](${href(r.url)})** — ${escapeMarkdown(r.description)}`);
+      if (r.photo) out.push('', photoMarkdown(r.photo));
+    }
     out.push('');
   }
 
@@ -115,13 +129,14 @@ export function renderHtml(issue) {
   if (issue.transitionNotice) parts.push(`<p><em>${escapeHtml(TRANSITION.text)}</em></p>`);
   parts.push(`<h2 style="${STYLE.h2}">This week's lead</h2>`);
   parts.push(`<h3 style="${STYLE.h3}"><a style="${STYLE.a}" href="${escapeHtml(href(lead.url))}">${escapeHtml(lead.title)}</a></h3>`);
+  parts.push(photoHtml(lead.photo));
   parts.push(`<p>${escapeHtml(lead.description)}</p>`);
   if (lead.excerpt?.length) parts.push(`<blockquote style="${STYLE.quote}">${htmlTokens(lead.excerpt)}</blockquote>`);
   parts.push(`<p><a style="${STYLE.a}" href="${escapeHtml(href(lead.url))}">Read the full post</a> · by ${escapeHtml(lead.author)}</p>`);
   if (issue.reads.length) {
     parts.push(`<h2 style="${STYLE.h2}">Also worth your time</h2>`, '<ul>');
     for (const r of issue.reads) {
-      parts.push(`<li style="margin-bottom:10px;"><a style="${STYLE.a}" href="${escapeHtml(href(r.url))}"><strong>${escapeHtml(r.title)}</strong></a> — ${escapeHtml(r.description)}</li>`);
+      parts.push(`<li style="margin-bottom:10px;"><a style="${STYLE.a}" href="${escapeHtml(href(r.url))}"><strong>${escapeHtml(r.title)}</strong></a> — ${escapeHtml(r.description)}${photoHtml(r.photo)}</li>`);
     }
     parts.push('</ul>');
   }

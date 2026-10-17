@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "photos": [
+    {
+      "id": "crabtree",
+      "slugs": [
+        "viral-older-skaters-permission-structure"
+      ],
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Skatepark,_Crabtree_Park,_Camberley,_Surrey.jpg",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Mertbiol",
+      "attribution": "Skatepark, Crabtree Park, Camberley, Surrey — Mertbiol",
+      "original": {
+        "file": "newsletter/photos/originals/crabtree.jpg",
+        "sha256": "7dde05808cf0f7e1fcf8bcb20b9871a6ca027dfd253d5eb608b6e467fad75b86"
+      },
+      "derivative": {
+        "file": "public/images/newsletter/crabtree.jpg",
+        "sha256": "d7d0f1d3002ca3eb7e142fe8e1cbcee930d9632714877e284698efb25c86526f",
+        "width": 1200,
+        "height": 900,
+        "bytes": 249854
+      },
+      "alt": "Empty skatepark ramps with trees beneath a cloudy sky.",
+      "caption": "Illustrative photo: Crabtree Park skatepark in Camberley, Surrey; not Grandma Liu or the location in her story.",
+      "modifications": "Resized to 1200 × 900 pixels, JPEG quality 80; metadata removed; no crop.",
+      "checkedAt": "2026-10-17T05:44:02.924Z",
+      "visualInspection": {
+        "verified": true,
+        "reviewer": "Hermes vision_analyze visual review",
+        "notes": "Original and compressed derivative inspected with vision tool on 2026-10-17. Empty skatepark ramps with trees beneath a cloudy sky. No people visible; no facial identity inference. Natural aspect ratio retained. Incidental graffiti remains in the environment; not reproduced as isolated artwork. Caption explicitly illustrative; no endorsement or health claims."
+      },
+      "identity": {
+        "verified": true,
+        "subject": "Empty skatepark; no people visible",
+        "context": "Source identifies Crabtree Park, Camberley, Surrey. General skateboarding setting only; no claim of connection to Grandma Liu."
+      },
+      "evidence": {
+        "file": "newsletter/photos/evidence/crabtree.json",
+        "sha256": "d73a3396715a65230a2120e4783390f105de15e1689550fbbb371beea67baee6"
+      }
+    },
+    {
+      "id": "miniramp",
+      "slugs": [
+        "building-a-backyard-mini-ramp"
+      ],
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Skateboard_Miniramp_(Deggendorf).jpg",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "APneunzehn74",
+      "attribution": "Skateboard Miniramp (Deggendorf) — APneunzehn74",
+      "original": {
+        "file": "newsletter/photos/originals/miniramp.jpg",
+        "sha256": "eda91fb6e685e3f4337926d0ece4041198a864b616cb8ed153b85bf14ba45c3b"
+      },
+      "derivative": {
+        "file": "public/images/newsletter/miniramp.jpg",
+        "sha256": "5029899a9f1c2cf89076f833917637511dc842c4b792def3861e45823c219465",
+        "width": 560,
+        "height": 419,
+        "bytes": 68578
+      },
+      "alt": "Outdoor mini ramp with wooden supports and trees behind it.",
+      "caption": "Illustrative mini ramp in Deggendorf, Germany; not a build from the article.",
+      "modifications": "Resized to 560 × 419 pixels, JPEG quality 80; metadata removed; no crop.",
+      "checkedAt": "2026-10-17T05:44:02.924Z",
+      "visualInspection": {
+        "verified": true,
+        "reviewer": "Hermes vision_analyze visual review",
+        "notes": "Original and compressed derivative inspected with vision tool on 2026-10-17. Outdoor mini ramp with wooden supports and trees behind it. No people visible; no facial identity inference. Natural aspect ratio retained. Incidental graffiti remains in the environment; not reproduced as isolated artwork. Caption explicitly illustrative; no endorsement or health claims."
+      },
+      "identity": {
+        "verified": true,
+        "subject": "Outdoor mini ramp; no people visible",
+        "context": "Source identifies Kulturlichtung in Deggendorf. Illustrates a ramp, not the article author's backyard, construction plans or safety certification."
+      },
+      "evidence": {
+        "file": "newsletter/photos/evidence/miniramp.json",
+        "sha256": "9440abb052242a939bec32e0f1afc73750a0c14517e886b76aab73c0444741c9"
+      }
+    },
+    {
+      "id": "griptape",
+      "slugs": [
+        "skateboarding-for-people-who-were-never-the-athletic-one"
+      ],
+      "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Skateboard_upside.jpg",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Cynroya",
+      "attribution": "Skateboard upside — Cynroya",
+      "original": {
+        "file": "newsletter/photos/originals/griptape.jpg",
+        "sha256": "60cd94cbab8c9f7e34b0d29e85ba6bf5708c52228c46adbeaa5aa5cc92a90ea4"
+      },
+      "derivative": {
+        "file": "public/images/newsletter/griptape.jpg",
+        "sha256": "4bdba0fbb74351d502bf427a699dcfdad4b381adac5c98f7d7094726ea9e646f",
+        "width": 560,
+        "height": 315,
+        "bytes": 21979
+      },
+      "alt": "Black grip-tape skateboard with yellow wheels on paving.",
+      "caption": "Illustrative photo: a skateboard, grip-tape side visible.",
+      "modifications": "Resized to 560 × 315 pixels, JPEG quality 80; metadata removed; no crop.",
+      "checkedAt": "2026-10-17T05:44:02.924Z",
+      "visualInspection": {
+        "verified": true,
+        "reviewer": "Hermes vision_analyze visual review",
+        "notes": "Original and compressed derivative inspected with vision tool on 2026-10-17. Black grip-tape skateboard with yellow wheels on paving. No people visible; no facial identity inference. Natural aspect ratio retained. Caption explicitly illustrative; no endorsement or health claims."
+      },
+      "identity": {
+        "verified": true,
+        "subject": "Skateboard on paving; no people visible",
+        "context": "Source documents the grip-tape side of a skateboard. Generic equipment illustration; no claims about a person, brand, athletic ability or health."
+      },
+      "evidence": {
+        "file": "newsletter/photos/evidence/griptape.json",
+        "sha256": "81d127531d187dfdc18080eb3e108bc5b1f36e505e7e547d0e7f8bc718daa68c"
+      }
+    }
+  ]
+}
