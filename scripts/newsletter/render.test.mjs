@@ -89,3 +89,18 @@ test('the no-issue report is honest about why', () => {
   assert.match(md, /x.*draft/);
   assert.match(renderNoIssueHtml(report), /No new &lt;posts&gt;/);
 });
+
+test('preference footer safely escapes URL syntax in Markdown and HTML', () => {
+  const preferenceCenterUrl = `https://concretecomeback.com/preferences/)?x=<&y="quote"&z='single'`;
+  const md = renderMarkdown(issue({ preferenceCenterUrl })).split('---').at(-1);
+  assert.ok(md.includes('[Manage preferences](https://concretecomeback.com/preferences/%29?x=%3C&y=%22quote%22&z=%27single%27)'));
+  const html = renderHtml(issue({ preferenceCenterUrl })).split('You are receiving this')[1];
+  assert.ok(html.includes('href="https://concretecomeback.com/preferences/)?x=%3C&amp;y=%22quote%22&amp;z=%27single%27"'));
+  assert.doesNotMatch(html, /<script|onclick=/);
+});
+
+test('preference footers reject unsafe protocols', () => {
+  for (const render of [renderMarkdown, renderHtml]) {
+    assert.throws(() => render(issue({ preferenceCenterUrl: 'javascript:alert(1)' })), /unsafe URL/);
+  }
+});

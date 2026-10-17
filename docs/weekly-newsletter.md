@@ -21,7 +21,9 @@ action, and recording that a send happened is a separate, manual commit.
   `record-sent.mjs`. Tests are `*.test.mjs` beside them and run in `npm test`.
 - `newsletter/issues/` — the committed **sent** ledger (`<issueId>.json`).
 - `newsletter/send-requirements.json` — compliance inputs (postal address,
-  preference page). `null` means "not done" and keeps a send blocker up.
+  preference page). A configured `preferenceCenterUrl` is rendered as a safely
+  escaped “Manage preferences” link in both Markdown and HTML footers. `null`
+  omits that link and keeps the `preference-center` send blocker up.
 
 ## Schedule (DST-aware)
 
@@ -106,16 +108,26 @@ nothing is recorded as sent by generating, downloading or approving a draft.
 
 ## Send blockers
 
-Every draft lists `sendBlockers`. The first two are permanent per-send checks;
+Every draft lists `sendBlockers`. The first three are permanent per-send checks;
 the rest clear only when the underlying requirement is really met.
 
 | Code | Clears when |
 | --- | --- |
+| `audience-verification` | Never automatically — operator verifies the deployed signup effective segment and its currently subscribed, double-opt-in membership before every send |
 | `operator-approval` | Never automatically — see checklist |
 | `unsubscribe-verification` | Never automatically — verified per send in a provider test send |
 | `physical-address` | `physicalPostalAddress` is set in `newsletter/send-requirements.json` (CAN-SPAM requires a valid postal address in commercial email) |
 | `preference-center` | `preferenceCenterUrl` is set, or the owner records a decision to ship unsubscribe-only |
 | `subscriber-transition` | The first weekly issue is recorded as sent |
+
+`manifest.audience` is explicitly `status: "unverified"` with `segmentId: null`.
+Secret-free draft CI cannot know deployed signup configuration or membership.
+The signup function supports a deployed `NEWSLETTER_SEGMENT_ID` override;
+its source `DEFAULT_SEGMENT_ID` is only a non-authoritative fallback reference,
+not an approved audience. Local environment values do not establish deployed
+configuration. The `audience-verification` blocker is always retained, including
+after a prior weekly send, when compliance inputs are configured, and in
+no-eligible-posts manifests. Generation never verifies contacts or clears it.
 
 ## Operator approval checklist (before any send)
 
@@ -127,11 +139,16 @@ the rest clear only when the underlying requirement is really met.
 3. Resolve every blocker except `operator-approval`. If you changed
    `send-requirements.json`, merge that and regenerate the draft (manual
    dispatch) so the manifest you approve is the one you send.
-4. Build the Resend broadcast from `draft.html` **to the "Concrete Comeback"
-   segment only** (`35b5b4f0-ac74-4ffa-b7d3-620e4f0014ed`, `manifest.audience`)
+4. Verify the **deployed signup effective segment**, including any deployed
+   `NEWSLETTER_SEGMENT_ID` override, and verify that recipients are its
+   **currently subscribed, double-opt-in members**. Record the verified segment
+   and membership evidence with the approval; do not infer them from local env,
+   the source fallback, a segment name, or the unverified `manifest.audience`.
+   Build the Resend broadcast from `draft.html` to that verified segment only
    — never account-wide contacts, which include other sites' lists. Remove the
-   DRAFT banner and blocker list; keep the footer with `{{{RESEND_UNSUBSCRIBE_URL}}}`
-   and the postal address.
+   DRAFT banner and blocker list; keep the footer with `{{{RESEND_UNSUBSCRIBE_URL}}}`,
+   the postal address, and the configured preference link. Verify the preference
+   link opens the intended page.
 5. Send a test to yourself. Confirm the unsubscribe link works in one click
    and the List-Unsubscribe header is present.
 6. Record approval where it can be referenced later (e.g. a GitHub issue

@@ -3,12 +3,9 @@ import assert from 'node:assert/strict';
 import { createHash } from 'node:crypto';
 import { existsSync, readFileSync, readdirSync, writeFileSync, mkdirSync } from 'node:fs';
 import { join } from 'node:path';
-import { createRequire } from 'node:module';
 import { generateDraft } from './draft.mjs';
 import { fakeResponse, livePage, postSource, sentRecord, tempDir, writeBlog, writeLedger } from './test-helpers.mjs';
 
-const require = createRequire(import.meta.url);
-const { DEFAULT_SEGMENT_ID } = require('../../functions/packages/forms/newsletter/newsletter.js');
 const NOW = new Date('2026-10-21T13:05:00Z'); // Wednesday 09:05 New York (EDT)
 
 function requirements(root, overrides = {}) {
@@ -68,8 +65,8 @@ test('a bootstrap run produces markdown, HTML and a draft manifest from live new
   assert.deepEqual(manifest.window, { start: '2026-10-15', end: '2026-10-21', timeZone: 'America/New_York', policy: 'bootstrap-rolling-7-days', staleSkipped: null });
   assert.equal(manifest.plannedSend.utc, '2026-10-22T14:00:00.000Z');
   assert.match(manifest.plannedSend.policy, /approval/i);
-  assert.equal(manifest.audience.segmentId, DEFAULT_SEGMENT_ID);
-  assert.equal(manifest.audience.doubleOptIn, true);
+  assert.equal(manifest.audience.segmentId, null);
+  assert.equal(manifest.audience.status, 'unverified');
   assert.equal(manifest.items[0].role, 'lead');
   assert.equal(manifest.items[0].slug, 'plateau-breaker');
   assert.equal(manifest.items.filter((i) => i.role === 'read').length, 3);
@@ -218,3 +215,53 @@ test('the draft run is deterministic for the same inputs apart from timestamps',
   await generateDraft({ ...f, outDir: join(f.root, 'out2'), now: NOW, fetchImpl: liveFetch(TITLES) });
   assert.equal(readFileSync(join(f.root, 'out2', 'draft.md'), 'utf8'), first);
 });
+
+for (const preferenceCenterUrl of [null, 'https://concretecomeback.com/newsletter/preferences/?cadence=weekly&source=footer']) {
+  test(`preference configuration reaches both footers: ${preferenceCenterUrl}`, async () => {
+    const f = fixture({ posts: POSTS });
+    requirements(f.root, { preferenceCenterUrl });
+    const { manifest } = await generateDraft({ ...f, now: NOW, fetchImpl: liveFetch(TITLES) });
+    assert.equal(manifest.sendBlockers.some((b) => b.code === 'preference-center'), preferenceCenterUrl === null);
+    const md = readFileSync(join(f.outDir, 'draft.md'), 'utf8').split('---').at(-1);
+    const html = readFileSync(join(f.outDir, 'draft.html'), 'utf8').split('You are receiving this')[1];
+    if (preferenceCenterUrl) {
+      assert.ok(md.includes(`[Manage preferences](${preferenceCenterUrl})`));
+      assert.ok(html.includes(`href="${preferenceCenterUrl.replaceAll('&', '&amp;')}"`));
+      assert.match(html, />Manage preferences<\/a>/);
+    } else {
+      assert.doesNotMatch(md + html, /Manage preferences|preferences\//);
+    }
+  });
+}
+
+for (const override of [undefined, 'local-override-is-not-deployed-config']) {
+  for (const state of ['bootstrap', 'previously-sent', 'no-eligible-posts']) {
+    test(`audience stays unverified with override=${override}, state=${state}`, async (t) => {
+      const previous = process.env.NEWSLETTER_SEGMENT_ID;
+      t.after(() => {
+        if (previous === undefined) delete process.env.NEWSLETTER_SEGMENT_ID;
+        else process.env.NEWSLETTER_SEGMENT_ID = previous;
+      });
+      if (override === undefined) delete process.env.NEWSLETTER_SEGMENT_ID;
+      else process.env.NEWSLETTER_SEGMENT_ID = override;
+      const f = fixture({
+        posts: state === 'no-eligible-posts' ? {} : POSTS,
+        ledger: state === 'previously-sent' ? { '2026-10-15.json': sentRecord() } : {},
+      });
+      requirements(f.root, { physicalPostalAddress: '1 Example St, Portland, OR 97201', preferenceCenterUrl: 'https://concretecomeback.com/preferences/' });
+      const { manifest } = await generateDraft({ ...f, now: NOW, fetchImpl: liveFetch(TITLES) });
+      assert.equal(manifest.audience.segmentId, null);
+      assert.equal(manifest.audience.status, 'unverified');
+      assert.notEqual(manifest.audience.doubleOptIn, true);
+      const blocker = manifest.sendBlockers.find((b) => b.code === 'audience-verification');
+      assert.ok(blocker, 'audience verification is always required');
+      assert.match(blocker.message, /operator/i);
+      assert.match(blocker.message, /deployed signup.*effective segment/i);
+      assert.match(blocker.message, /currently subscribed.*double.opt.in/i);
+      assert.equal(manifest.sendable, false);
+      if (state !== 'no-eligible-posts') {
+        for (const name of ['draft.md', 'draft.html']) assert.match(readFileSync(join(f.outDir, name), 'utf8'), /audience-verification/);
+      }
+    });
+  }
+}

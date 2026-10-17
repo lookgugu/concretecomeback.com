@@ -9,7 +9,6 @@
 // data fails closed without fetching anything, and draft/future/old/already-
 // sent posts are filtered out before any URL is built for the live check.
 
-import { createRequire } from 'node:module';
 import { mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { join, relative, resolve, isAbsolute } from 'node:path';
 import { loadPosts, newnessWindow, selectCandidates, SITE_ORIGIN } from './content.mjs';
@@ -19,8 +18,10 @@ import { findWeekendExcerpt, leadExcerpt, pickIssue } from './select.mjs';
 import { renderHtml, renderMarkdown, renderNoIssueHtml, renderNoIssueMarkdown } from './render.mjs';
 import { nextIssueDate, nyDate, nyWallClockToUtc, SEND_HOUR, TIME_ZONE } from './schedule.mjs';
 
-const require = createRequire(import.meta.url);
-const { DEFAULT_SEGMENT_ID } = require('../../functions/packages/forms/newsletter/newsletter.js');
+const AUDIENCE_VERIFICATION = {
+  code: 'audience-verification',
+  message: 'An operator must verify the deployed signup effective segment (including any deployed NEWSLETTER_SEGMENT_ID override) and its currently subscribed, double-opt-in membership before every send. Secret-free draft CI and local environment values cannot verify deployed configuration. Never use account-wide contacts or re-add unsubscribed contacts.',
+};
 
 export const SEND_POLICY = 'Thursday 10:00 America/New_York, approval-gated. No automated sender exists; an operator sends manually after the approval checklist in docs/weekly-newsletter.md.';
 
@@ -52,6 +53,7 @@ function assertOutsideLedger(outDir, ledgerDir) {
 
 function sendBlockers({ requirements, weeklySent }) {
   const b = [
+    AUDIENCE_VERIFICATION,
     { code: 'operator-approval', message: 'No send without an operator approving this exact manifest (issueId, source commit, item list) per docs/weekly-newsletter.md.' },
     { code: 'unsubscribe-verification', message: 'Confirm in a provider test send of this issue that the unsubscribe merge tag renders a working one-click unsubscribe (and List-Unsubscribe header).' },
   ];
@@ -62,7 +64,7 @@ function sendBlockers({ requirements, weeklySent }) {
     b.push({ code: 'preference-center', message: 'No preference page exists, so a subscriber who wanted the old monthly cadence has no option except unsubscribing. Build one or record the decision to ship unsubscribe-only.' });
   }
   if (!weeklySent) {
-    b.push({ code: 'subscriber-transition', message: 'First weekly issue: send only to currently subscribed contacts in the "Concrete Comeback" segment, keep the monthly→weekly notice, and never re-add or reactivate anyone who unsubscribed.' });
+    b.push({ code: 'subscriber-transition', message: 'First weekly issue: send only to currently subscribed contacts in the operator-verified deployed signup segment, keep the monthly→weekly notice, and never re-add or reactivate anyone who unsubscribed.' });
   }
   return b;
 }
@@ -97,7 +99,7 @@ export async function generateDraft({ blogDir, ledgerDir, outDir, sendRequiremen
     runDate,
     plannedSend: { localDate: issueId, localTime: `${String(SEND_HOUR).padStart(2, '0')}:00`, timeZone: TIME_ZONE, utc: plannedSendUtc, policy: SEND_POLICY },
     window: { start: window.start, end: window.end, timeZone: TIME_ZONE, policy: window.policy, staleSkipped: window.staleSkipped },
-    audience: { segmentName: 'Concrete Comeback', segmentId: DEFAULT_SEGMENT_ID, doubleOptIn: true, note: 'Confirmed (double opt-in) contacts in this segment who are currently subscribed. Never the account-wide contact list.' },
+    audience: { status: 'unverified', segmentId: null, note: 'The deployed signup effective segment and currently subscribed, double-opt-in membership require operator verification. Neither the source fallback nor local NEWSLETTER_SEGMENT_ID is authoritative for deployment. Never use the account-wide contact list.' },
     source: { commit: sourceCommit, blogTree, origin: SITE_ORIGIN, sentIssuesInLedger: history.issues.length, lastSentIssue: history.lastSent?.issueId ?? null },
     sendable: false,
     excluded: excluded.filter((e) => e.reason !== 'outside-window' || e.pubDate >= window.start),
@@ -107,7 +109,7 @@ export async function generateDraft({ blogDir, ledgerDir, outDir, sendRequiremen
     const reason = window.empty
       ? `The last sent issue (${history.lastSent.issueId}) already covers posts through ${window.end}.`
       : `No published, non-draft, non-future post dated ${window.start} → ${window.end} (America/New_York) that has not already been sent.`;
-    const manifest = { ...base, status: 'no-eligible-posts', reason, items: [], weekend: null, liveChecks: [], sendBlockers: [] };
+    const manifest = { ...base, status: 'no-eligible-posts', reason, items: [], weekend: null, liveChecks: [], sendBlockers: [AUDIENCE_VERIFICATION] };
     const report = { runDate, window, reason, excluded: base.excluded, staleSkipped: window.staleSkipped };
     writeAll(outDir, {
       'manifest.json': `${JSON.stringify(manifest, null, 2)}\n`,
@@ -152,6 +154,7 @@ export async function generateDraft({ blogDir, ledgerDir, outDir, sendRequiremen
     transitionNotice: !weeklySent,
     blockers,
     physicalAddress: requirements.physicalPostalAddress,
+    preferenceCenterUrl: requirements.preferenceCenterUrl,
   };
 
   const manifest = {

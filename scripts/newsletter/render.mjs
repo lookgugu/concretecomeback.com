@@ -24,6 +24,9 @@ function href(url) {
   return safe;
 }
 
+// Encode delimiters that URL serialization leaves intact but Markdown parses.
+const markdownHref = (url) => href(url).replace(/[()']/g, (c) => `%${c.charCodeAt(0).toString(16).toUpperCase()}`);
+
 const mdTokens = (tokens) => tokens.map((t) => (t.type === 'link' && safeHref(t.href)
   ? `[${escapeMarkdown(t.text)}](${href(t.href)})`
   : escapeMarkdown(t.text))).join('');
@@ -76,6 +79,7 @@ export function renderMarkdown(issue) {
   out.push('---', '');
   out.push('You are receiving this because you confirmed a subscription at concretecomeback.com.', '');
   out.push(`Unsubscribe: ${UNSUBSCRIBE_MERGE_TAG} (provider merge tag — verify it in a test send)`, '');
+  if (issue.preferenceCenterUrl) out.push(`[Manage preferences](${markdownHref(issue.preferenceCenterUrl)})`, '');
   out.push(issue.physicalAddress
     ? escapeMarkdown(issue.physicalAddress)
     : '**BLOCKER: physical postal address required before sending (CAN-SPAM).**');
@@ -134,6 +138,7 @@ export function renderHtml(issue) {
   parts.push('</div>');
   parts.push(`<div style="${STYLE.foot}"><p>You are receiving this because you confirmed a subscription at concretecomeback.com.</p>`);
   parts.push(`<p>Unsubscribe: <code>${escapeHtml(UNSUBSCRIBE_MERGE_TAG)}</code> (provider merge tag — verify it in a test send)</p>`);
+  if (issue.preferenceCenterUrl) parts.push(`<p><a style="${STYLE.a}" href="${escapeHtml(href(issue.preferenceCenterUrl))}">Manage preferences</a></p>`);
   parts.push(issue.physicalAddress
     ? `<p>${escapeHtml(issue.physicalAddress)}</p>`
     : '<p><strong>BLOCKER: physical postal address required before sending (CAN-SPAM).</strong></p>');
