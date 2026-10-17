@@ -39,10 +39,11 @@ test('schedule guard: unknown events or crons fail closed', () => {
   assert.notEqual(guard({ EVENT_NAME: 'schedule', EVENT_SCHEDULE: '0 13 * * 3\nrun=true' }).status, 0);
 });
 
-test('the committed send requirements are valid and do not invent an address', () => {
+test('the committed send requirements use the exact owner-authorized business address', () => {
   const cfg = JSON.parse(readFileSync(REPO_REQUIREMENTS, 'utf8'));
   assert.equal(cfg.schemaVersion, 1);
-  assert.equal(cfg.physicalPostalAddress, null);
+  assert.equal(cfg.physicalPostalAddress, '326 Gault St., Santa Cruz, CA 95062');
+  assert.equal(cfg.preferenceCenterUrl, null);
 });
 
 function fixtureArgs(posts) {

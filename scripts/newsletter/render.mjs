@@ -95,7 +95,7 @@ export function renderMarkdown(issue) {
 
   out.push('---', '');
   out.push('You are receiving this because you confirmed a subscription at concretecomeback.com.', '');
-  out.push(`Unsubscribe: ${UNSUBSCRIBE_MERGE_TAG} (provider merge tag — verify it in a test send)`, '');
+  out.push(`[Unsubscribe](${UNSUBSCRIBE_MERGE_TAG}) (provider merge tag — verify it in a test send)`, '');
   if (issue.preferenceCenterUrl) out.push(`[Manage preferences](${markdownHref(issue.preferenceCenterUrl)})`, '');
   out.push(issue.physicalAddress
     ? escapeMarkdown(issue.physicalAddress)
@@ -155,7 +155,7 @@ export function renderHtml(issue) {
   }
   parts.push('</div>');
   parts.push(`<div style="${STYLE.foot}"><p>You are receiving this because you confirmed a subscription at concretecomeback.com.</p>`);
-  parts.push(`<p>Unsubscribe: <code>${escapeHtml(UNSUBSCRIBE_MERGE_TAG)}</code> (provider merge tag — verify it in a test send)</p>`);
+  parts.push(`<p><a style="${STYLE.a}" href="${UNSUBSCRIBE_MERGE_TAG}">Unsubscribe</a> (provider merge tag — verify it in a test send)</p>`);
   if (issue.preferenceCenterUrl) parts.push(`<p><a style="${STYLE.a}" href="${escapeHtml(href(issue.preferenceCenterUrl))}">Manage preferences</a></p>`);
   parts.push(issue.physicalAddress
     ? `<p>${escapeHtml(issue.physicalAddress)}</p>`

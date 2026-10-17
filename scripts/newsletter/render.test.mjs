@@ -52,9 +52,12 @@ test('the markdown draft escapes titles and keeps citations as links', () => {
   assert.match(md, /\[Read &lt;one&gt;\]\(https:\/\/concretecomeback\.com\/blog\/read-one\/\)/);
 });
 
-test('every link in the HTML preview is https and on an allowed form', () => {
+test('HTML links use https except the exact native unsubscribe merge tag', () => {
   const html = renderHtml(issue());
-  for (const [, href] of html.matchAll(/href="([^"]*)"/g)) assert.match(href, /^https:\/\//, href);
+  for (const [, href] of html.matchAll(/href="([^"]*)"/g)) {
+    if (href === '{{{RESEND_UNSUBSCRIBE_URL}}}') continue;
+    assert.match(href, /^https:\/\//, href);
+  }
 });
 
 test('the first weekly issue explains the cadence change and offers the way out', () => {
@@ -73,7 +76,14 @@ test('a missing physical address renders as a visible blocker, never a made-up a
 
 test('the unsubscribe link is the provider merge tag, flagged for verification', () => {
   const md = renderMarkdown(issue());
-  assert.match(md, /\{\{\{RESEND_UNSUBSCRIBE_URL\}\}\}/);
+  const html = renderHtml(issue());
+  assert.ok(md.includes('[Unsubscribe]({{{RESEND_UNSUBSCRIBE_URL}}})'));
+  assert.ok(html.includes('href="{{{RESEND_UNSUBSCRIBE_URL}}}">Unsubscribe</a>'));
+  assert.doesNotMatch(html, /<code>\{\{\{RESEND_UNSUBSCRIBE_URL/);
+  for (const rendered of [md, html]) {
+    assert.match(rendered, /provider merge tag — verify it in a test send/);
+    assert.match(rendered, /DRAFT PREVIEW — not approved for sending/);
+  }
 });
 
 test('no lead/reads and no weekend section render without empty headings', () => {

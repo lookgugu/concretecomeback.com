@@ -133,8 +133,32 @@ the rest clear only when the underlying requirement is really met.
 | `operator-approval` | Never automatically — see checklist |
 | `unsubscribe-verification` | Never automatically — verified per send in a provider test send |
 | `physical-address` | `physicalPostalAddress` is set in `newsletter/send-requirements.json` (CAN-SPAM requires a valid postal address in commercial email) |
-| `preference-center` | `preferenceCenterUrl` is set, or the owner records a decision to ship unsubscribe-only |
+| `preference-center` | `preferenceCenterUrl` is set; the current config has no supported unsubscribe-only policy field |
 | `subscriber-transition` | The first weekly issue is recorded as sent |
+
+The owner-authorized business footer is exactly **326 Gault St., Santa Cruz, CA
+95062**, without an apartment. It is configured as `physicalPostalAddress` and
+clears only the `physical-address` blocker.
+
+For the initial approved issue, the owner has authorized a simple unsubscribe-only
+policy, recorded through external operator provenance referencing that
+authorization. No new user decision is required for this initial-issue policy.
+Inspection found
+that schema version 1 accepts only `physicalPostalAddress`, `preferenceCenterUrl`,
+`schemaVersion` and `$comment`; unknown policy keys fail validation. A comment
+does not affect gate evaluation. Therefore `preferenceCenterUrl` remains `null`
+and `preference-center` remains blocked. The blocker message's suggestion to
+record an unsubscribe-only decision is not implemented as a config option;
+the external authorization does not automatically clear that generator gate or
+authorize a broader policy change. The operator must reference the existing
+authorization when reconciling this policy blocker for the initial issue.
+
+The footer uses the native `[Unsubscribe]({{{RESEND_UNSUBSCRIBE_URL}}})`
+Markdown link and an HTML anchor with `href="{{{RESEND_UNSUBSCRIBE_URL}}}"` and
+reader label “Unsubscribe”. The preview retains the test-send verification notice;
+the tag is not a fabricated recipient URL or evidence of a working unsubscribe.
+As of this bounded correction (2026-10-17), provider access is login-blocked,
+unsubscribe verification remains outstanding, and no email will be sent.
 
 `manifest.audience` is explicitly `status: "unverified"` with `segmentId: null`.
 Secret-free draft CI cannot know deployed signup configuration or membership.
@@ -149,14 +173,17 @@ no-eligible-posts manifests. Generation never verifies contacts or clears it.
 
 1. Take the artifact from a run on `main`. Check `manifest.status` is
    `draft`, `source.commit` is the current `main`, and `issueId` is this
-   Thursday.
+   Thursday. For an already-approved immutable artifact, the bounded
+   compliance-only derivation below may instead preserve its original source
+   provenance and issue identity; record that exception with the approval.
 2. Read `preview-local.html` end to end in a browser for standalone local review,
    then review `draft.html` as the hosted-image email source. Never send the local
    preview: its embedded images and CSP are for browser review only. Open every link. Read `reviewNotes` and
    `excluded`.
 3. Resolve every blocker except `operator-approval`. If you changed
    `send-requirements.json`, merge that and regenerate the draft (manual
-   dispatch) so the manifest you approve is the one you send.
+   dispatch) so the manifest you approve is the one you send, or use the
+   compliance-only derivation below for an already-approved immutable artifact.
 4. Verify the **deployed signup effective segment**, including any deployed
    `NEWSLETTER_SEGMENT_ID` override, and verify that recipients are its
    **currently subscribed, double-opt-in members**. Record the verified segment
@@ -173,6 +200,38 @@ no-eligible-posts manifests. Generation never verifies contacts or clears it.
    comment naming `issueId` and `source.commit`); that link is the
    `--approval-reference`.
 7. Send (scheduled for Thursday 10:00 New York) only after steps 1–6.
+
+### Compliance-only derivation of an approved immutable artifact
+
+An already-approved immutable artifact may receive a compliance-only derivative
+in a **new directory** to incorporate an authorized footer correction without
+selecting new articles. Keep every original artifact byte unchanged. This is an
+operator procedure, not a new generator mode or permission to send.
+
+Record a provenance sidecar with the original artifact/run identity, original
+approval reference, issue ID, source commit and blog tree, SHA256 hashes of every
+original file, the exact authorized compliance change and config hash, and
+SHA256 hashes of every derived file. Preserve article identities, order, URLs,
+source hashes, titles, descriptions, excerpts, weekend quotes, images and their
+provenance. Compare the original and derived content and record evidence that
+only the authorized footer and corresponding compliance-blocker metadata changed.
+Do not rerun article selection or relabel the original source as current `main`.
+
+Review the derived Markdown, hosted HTML, local preview and manifest together;
+reference their hashes and provenance in a fresh operator reconciliation of the
+exact derivative. That reconciliation can reference the existing authorized
+content approval, footer authorization, and initial-issue unsubscribe-only
+decision; it does not require a new user approval of unchanged content or the
+authorized footer. Retain `sendable: false` and every unresolved gate, including
+the generator's `preference-center` blocker under the current configuration;
+record its initial-issue policy resolution in external operator provenance.
+Audience verification,
+operator approval, per-send unsubscribe verification (working one-click link and
+List-Unsubscribe header), and the subscriber-transition checks and notice all
+remain required. Existing content approval and a footer correction do not satisfy
+delivery checks. Complete the same delivery checklist before any send; never
+send the local preview. Derivation alone makes no provider calls, changes no
+subscribers or schedules, and creates no sent-ledger record.
 
 ## Existing monthly subscribers
 
