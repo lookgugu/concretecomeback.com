@@ -11,6 +11,7 @@ const ACTIVE_COPY = [
   '../components/marketing/NewsletterInline.astro',
   './newsletter-signup.js',
   '../pages/privacy.astro',
+  '../pages/newsletter/confirmed.astro',
 ];
 
 for (const path of ACTIVE_COPY) {
@@ -28,9 +29,19 @@ test('both signup forms carry the same weekly eyebrow and consent line', async (
     assert.match(source, /you agree to receive the weekly Concrete Comeback email\. Unsubscribe anytime\./);
     // The weekly issue is built from new blog posts only (scripts/newsletter/),
     // so the promise must not still offer the monthly issue's spots and groups.
-    assert.match(source, /The week's best new reads and one practical idea for your weekend session\./);
+    assert.match(source, /The week's best new reads and, when available, one practical idea for your weekend session\./);
   }
 });
+
+// Health-only issues and issues without practical headings omit the weekend
+// section. Every surface describing that section must qualify its availability.
+for (const path of [...ACTIVE_COPY.slice(0, 2), '../pages/newsletter/confirmed.astro']) {
+  test(`${path} promises a practical idea only when available`, async () => {
+    const source = await readFile(new URL(path, import.meta.url), 'utf8');
+    assert.match(source, /when available, one practical idea for your weekend session/);
+    assert.doesNotMatch(source, /new skate spots|and one practical idea|practical advice/i);
+  });
+}
 
 test('the signup script announces and confirms the weekly roundup', async () => {
   const source = await readFile(new URL('./newsletter-signup.js', import.meta.url), 'utf8');
