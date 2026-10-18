@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-18T09:34:29.302Z
+# Date: 2026-10-18T09:38:02.934Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -708,7 +708,7 @@ The mistake a lot of skate parents make is waiting for a feeling of readiness th
 
 ## The schedule change is permanent, and that's fine
 
-Here's where the comparison has to be honest: Moore has a nanny, a team, and a sponsor-funded life built around getting her to the right beach on the right day. Most skate parents are negotiating nap schedules and one shared car. The gap between her logistics and yours is real, and no amount of inspirational framing closes it.
+Here's where the comparison has to be honest: Moore has described leaning on her husband, her father, and what she's called a support team that's there for me all the time — on top of a sponsor-funded life built around getting her to the right beach on the right day. Most skate parents are negotiating nap schedules and one shared car. The gap between her logistics and yours is real, and no amount of inspirational framing closes it.
 
 What transfers isn't the resources. It's the posture toward the problem. Moore's old schedule — the one where she could surf whenever a swell showed up — is gone permanently, not temporarily. She didn't get that version of her life back; she built a new one that fits around her daughter. [Finding skate time with a family at home](/blog/finding-skate-time-with-a-family-at-home/) is this site's version of that same negotiation: identifying the thirty-minute windows that actually exist in your week instead of mourning the open afternoons you used to have.
 
