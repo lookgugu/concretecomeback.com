@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-18T09:22:34.012Z
+# Date: 2026-10-18T09:26:21.403Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -724,7 +724,7 @@ You're not rebuilding toward a World Surf League event. You're rebuilding toward
 
 **Stop comparing your return to your pre-kid baseline.** Compare this month to last month instead, the same way [building confidence after 40](/blog/building-confidence-at-40/) argues for comparing yourself to yourself rather than to who you used to be.
 
-Moore's first event back is a season opener on the other side of the world from most of us, at a beach break most of us will never surf. None of that is the point. The point is that a five-time world champion, with every resource a comeback could ask for, still built her return the slow way — weeks of rest, then a couple of sessions a week, then more, then competition — a staged rebuild before a real test. If that's the approach for someone with a team behind her, it's more than good enough for someone building a comeback around a crib and a car seat.
+By the time you're reading this, the comeback isn't hypothetical anymore. Moore opened her wildcard season at Bells Beach in April, then went on to win back-to-back Championship Tour events in New Zealand and El Salvador — her first tour victories since becoming a mother. None of that happened because she skipped the slow part. It happened because six weeks of rest and a couple of sessions a week came first, at beach breaks most of us will never surf, built up in stages before she ever competed again. If that staged rebuild is what got a five-time world champion back to winning, it's more than good enough for someone building a comeback around a crib and a car seat.
 
 
 ### Carving First: The Skill Adult Returners Always Skip
