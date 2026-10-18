@@ -249,6 +249,11 @@
     "lng": -149.8949,
     "source": "Anchorage, Alaska, United States"
   },
+  "US|arizona|peoria": {
+    "lat": 33.5806,
+    "lng": -112.2373,
+    "source": "Peoria, Maricopa County, Arizona, United States"
+  },
   "US|arizona|phoenix": {
     "lat": 33.4484,
     "lng": -112.0741,
@@ -389,6 +394,11 @@
     "lng": -116.7812,
     "source": "Coeur d'Alene, Kootenai County, Idaho, 83815, United States"
   },
+  "US|idaho|meridian": {
+    "lat": 43.6086,
+    "lng": -116.3923,
+    "source": "Meridian, Ada County, Idaho, 83646, United States"
+  },
   "US|illinois|chicago": {
     "lat": 41.8756,
     "lng": -87.6244,
@@ -469,6 +479,11 @@
     "lng": -76.6108,
     "source": "Baltimore, Maryland, United States"
   },
+  "US|maryland|ocean city": {
+    "lat": 38.3315,
+    "lng": -75.0874,
+    "source": "Ocean City, Worcester County, Maryland, United States"
+  },
   "US|massachusetts|boston": {
     "lat": 42.3588,
     "lng": -71.0578,
@@ -528,6 +543,11 @@
     "lat": 39.1001,
     "lng": -94.5781,
     "source": "Kansas City, Jackson County, Missouri, United States"
+  },
+  "US|missouri|springfield": {
+    "lat": 37.2082,
+    "lng": -93.2923,
+    "source": "Springfield, Greene County, Missouri, United States"
   },
   "US|missouri|st. louis": {
     "lat": 38.6254,
@@ -679,6 +699,11 @@
     "lng": -123.0951,
     "source": "Eugene, Lane County, Oregon, United States"
   },
+  "US|oregon|lincoln city": {
+    "lat": 44.9618,
+    "lng": -124.016,
+    "source": "Lincoln City, Lincoln County, Oregon, United States"
+  },
   "US|oregon|milwaukie": {
     "lat": 45.444,
     "lng": -122.6413,
@@ -723,6 +748,11 @@
     "lat": 43.5476,
     "lng": -96.7294,
     "source": "Sioux Falls, Sioux Falls Township, Minnehaha County, South Dakota, United States"
+  },
+  "US|tennessee|knoxville": {
+    "lat": 35.9604,
+    "lng": -83.921,
+    "source": "Knoxville, Knox County, East Tennessee, Tennessee, United States"
   },
   "US|tennessee|memphis": {
     "lat": 35.146,
@@ -850,8 +880,8 @@
     "source": "derived: mean of 18 listed UK cities"
   },
   "US": {
-    "lat": 38.9559,
-    "lng": -93.5495,
-    "source": "derived: mean of 120 listed US cities"
+    "lat": 38.9552,
+    "lng": -93.8959,
+    "source": "derived: mean of 126 listed US cities"
   }
 }

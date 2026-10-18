@@ -11,8 +11,8 @@ hasOnlineShop: true
 adultsWelcomeNote: "The shop has deep local roots and staff provide friendly advice to beginners on gear, helmets, and park etiquette."
 featured: false
 addedDate: 2026-09-27
-lastVerified: 2026-09-27
+lastVerified: 2026-10-18
 ---
 Prestige Skateshop is an established, highly regarded core shop in the downtown Boise area. They carry a full range of high-quality hardware, including pre-built completes that offer an easy entry point for returning skaters.
 
-The shop is deeply rooted in the local scene, and the staff are known to be welcoming to beginners. If you're picking up your first board, they can properly size your safety gear—helmets and pads are in stock—and point you toward the most forgiving spots at local parks like [Rhodes Skatepark](/directory/parks/us/rhodes-skatepark-boise-id).
+The shop is deeply rooted in the local scene, and the staff are known to be welcoming to beginners. If you're picking up your first board, they can properly size your safety gear—helmets and pads are in stock—and point you toward the most forgiving spots at local parks like [Rhodes Skatepark](/directory/parks/us/rhodes-skatepark-boise-id) in downtown Boise or the flowing [Tully Park Skatepark](/directory/parks/us/tully-park-skatepark-meridian-id) in nearby Meridian.

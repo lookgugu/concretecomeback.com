@@ -12,7 +12,7 @@ servicesOffered: ["decks", "completes", "trucks", "wheels", "bearings", "shoes",
 hasOnlineShop: true
 featured: false
 addedDate: 2026-09-05
-lastVerified: 2026-09-05
+lastVerified: 2026-10-18
 ---
 
-Uprise has been part of Chicago skateboarding for over a quarter of a century, long enough that the closing of its upstairs "Uprise Loft" was marked as the end of an era. The shop on Milwaukee Avenue is open noon to 7pm Monday through Saturday, with curbside pickup available, and the online store offers free domestic shipping on orders over $75. Pair it with a session at Grant Park or make the trip to Asylum Skatepark for indoor sessions.
+Uprise has been part of Chicago skateboarding for over a quarter of a century, long enough that the closing of its upstairs "Uprise Loft" was marked as the end of an era. The shop on Milwaukee Avenue is open noon to 7pm Monday through Saturday, with curbside pickup available, and the online store offers free domestic shipping on orders over $75. Pair it with a session at [Grant Park Skate Park](/directory/parks/us/chicago-grant-park-il) downtown, [Wilson Skate Park](/directory/parks/us/wilson-skate-park-chicago-il) on the North Side lakefront, or make the trip to [Asylum Skatepark](/directory/parks/us/asylum-skatepark-round-lake-il) for indoor sessions.
