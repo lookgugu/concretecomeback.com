@@ -1,6 +1,6 @@
 ---
-title: "The Connective Tissue Gap: Why Week 3 Is When Adults Get Hurt"
-description: "Your cardio comes back in two weeks. Your tendons and ligaments take months. That mismatch is where most adult skating comeback injuries happen."
+title: "The Connective Tissue Gap: Why Your Comeback Feels Ready Too Soon"
+description: "Your cardio comes back in weeks. Your tendons and ligaments take months — and that mismatch is worth pacing a skating comeback around."
 pubDate: 2026-10-18
 author: "Jo Fairweather"
 authorAge: 52
@@ -22,11 +22,11 @@ When you come back to skating after months or years off, two separate adaptation
 
 That gap — weeks for your lungs, months for your Achilles, your patellar tendon, your wrist ligaments — is the connective tissue gap. It's not a flaw in your training. It's just how the tissue works, and it's the same for every returning adult, not a sign you're doing something wrong.
 
-## Why week 3 specifically
+## Why week three tends to be where it turns
 
 Week one and two, most returning skaters are appropriately cautious. The soreness from skating again is fresh, the awkwardness is obvious, and nobody pushes hard because everything still feels new.
 
-Week three is where it turns. Your cardio has caught up enough that sessions feel easy. Your balance and basic movement patterns have started coming back. You feel, correctly, more capable than you did in week one. What you don't feel — because there's no sensation that reliably signals it — is that your Achilles tendon, your ACL, your wrist ligaments are maybe 20% of the way through a remodeling process that takes two to three months. The feeling of readiness and the actual state of your connective tissue are telling you two different things, and the feeling is louder.
+Week three is where it turns. Your cardio has caught up enough that sessions feel easy. Your balance and basic movement patterns have started coming back. You feel, correctly, more capable than you did in week one. What you don't feel — because there's no sensation that reliably signals it — is that your Achilles tendon, your ACL, your wrist ligaments are still early in a remodeling process that takes two to three months regardless of how ready you feel. Nobody has run the kind of prospective injury study on adult comebacks that would pin an exact riskiest week, so take this as a plausible explanation drawn from how the two tissues adapt, not a proven injury statistic — but the mismatch itself, cardio fast and tendon slow, is well established, and it points toward caution in roughly this window rather than at the very start.
 
 That's the week people add the bigger drop-in, the longer session, the trick they used to do without thinking about it. The cardiovascular system says yes. The tendon doesn't have a vote in that decision, because it doesn't communicate through effort or breathlessness. It communicates through pain, and by the time it does that, something is usually already strained.
 
@@ -40,7 +40,7 @@ None of this is an argument against pushing your training. It's an argument for 
 
 **Warm up the specific tissue, not just your heart rate.** A general warm-up raises your heart rate and loosens your major muscles. It does less for the tendons and ligaments taking the specific, repetitive loads of pushing, popping, and landing. A few minutes of ankle circles, calf raises, and light loading of your wrists and knees before a session gives those slower-adapting tissues a head start the cardio warm-up doesn't.
 
-**Treat week three to six as the highest-risk window, not week one.** If you're going to be conservative anywhere in a comeback, this is the stretch to do it in — not because you're weak at that point, but because it's exactly when the gap between how you feel and what your tissue can handle is widest. [The 8-week return plan for adult skaters](/blog/8-week-return-plan-adult-skaters/) builds its progression around exactly this mismatch, which is part of why it's structured in weekly stages rather than left open-ended.
+**Be more conservative in weeks three through six than week one, not less.** There's no injury-surveillance data that pins this down to an exact week, but the underlying adaptation timelines point the same direction: this is a reasonable stretch to stay cautious in, not because you're weak at that point, but because it's where the gap between how you feel and what your tissue can likely handle is probably widest. [The 8-week return plan for adult skaters](/blog/8-week-return-plan-adult-skaters/) builds its progression around this same mismatch, which is part of why it's structured in weekly stages rather than left open-ended.
 
 **Don't mistake a plateau in soreness for a green light.** If your legs stop being sore between sessions, that's your muscles adapting, not your tendons finishing their much longer remodel. Use time elapsed and gradual progression as your guide for adding intensity, not how sore you do or don't feel the next day.
 
