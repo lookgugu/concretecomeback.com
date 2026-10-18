@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-18T09:17:03.266Z
+# Date: 2026-10-18T09:22:34.012Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -702,9 +702,9 @@ Most skate parents don't get an institution to do that for them. But you can do 
 
 ## She didn't wait for "ready"
 
-Moore's path back wasn't a single leap from new mother to tour competitor. Reporting around her return described her easing back into daily surfing before entering smaller qualifying events in Hawaii ahead of the CT season — building the base pattern back before adding competition on top of it. That's the same staged shape this site has pointed to before in [the 8-week return plan for adult skaters](/blog/8-week-return-plan-adult-skaters/): rebuild the movement, then the volume, then the specific skill, then whatever "competing" means for you, whether that's a contest or just keeping up with the group session you used to skate with.
+Moore's path back wasn't a single leap from new mother to tour competitor, and it wasn't fast. By her own account, she gave herself about six weeks of recovery before getting back in the water at all, then started with just a couple of sessions a week — not daily, not training-volume surfing, just getting wet — before gradually building up to entering smaller qualifying events in Hawaii ahead of the CT season. That's the same staged shape this site has pointed to before in [the 8-week return plan for adult skaters](/blog/8-week-return-plan-adult-skaters/): rebuild the movement, then the volume, then the specific skill, then whatever "competing" means for you, whether that's a contest or just keeping up with the group session you used to skate with.
 
-The mistake a lot of skate parents make is waiting for a feeling of readiness that a new schedule simply doesn't produce. There is no morning where the kid is suddenly old enough and the laundry is suddenly done and you suddenly have the hip mobility you had in your twenties. Moore didn't wait for that morning either. She started with daily surfing — not competing, just moving — and let the rest build on top of it.
+The mistake a lot of skate parents make is waiting for a feeling of readiness that a new schedule simply doesn't produce. There is no morning where the kid is suddenly old enough and the laundry is suddenly done and you suddenly have the hip mobility you had in your twenties. Moore didn't wait for that morning either. She started at a couple of sessions a week — not competing, barely even training, just moving — and let the frequency build from there.
 
 ## The schedule change is permanent, and that's fine
 
@@ -718,13 +718,13 @@ You're not rebuilding toward a World Surf League event. You're rebuilding toward
 
 **Pick a floor, not a ceiling.** "I will push around the block twice a week" is a floor you can actually hit most weeks. "I will get back to where I was" is a ceiling that keeps moving and rarely gets touched.
 
-**Let the first sessions be boring.** Moore's early sessions back were daily surfing, not contest heats. Your early sessions back should be flat-ground pushing and easy carves, not the line you were working on before the gap.
+**Let the first sessions be boring, and let there be few of them at first.** Moore's early sessions back were a couple of low-key paddles a week, not contest heats. Your early sessions back should be flat-ground pushing and easy carves, at a frequency you can actually sustain around your schedule — not the line you were working on before the gap.
 
 **Treat the new schedule as the real one.** The nap window, the daycare pickup time, the one evening your partner has coverage — that's not a temporary obstacle between you and your old skating life. It's the shape your skating life has now, and planning around it instead of against it is what actually gets you back on a board more than once a month.
 
 **Stop comparing your return to your pre-kid baseline.** Compare this month to last month instead, the same way [building confidence after 40](/blog/building-confidence-at-40/) argues for comparing yourself to yourself rather than to who you used to be.
 
-Moore's first event back is a season opener on the other side of the world from most of us, at a beach break most of us will never surf. None of that is the point. The point is that a five-time world champion, with every resource a comeback could ask for, still built her return the slow way — daily practice before competition, a staged rebuild before a real test. If that's the approach for someone with a team behind her, it's more than good enough for someone building a comeback around a crib and a car seat.
+Moore's first event back is a season opener on the other side of the world from most of us, at a beach break most of us will never surf. None of that is the point. The point is that a five-time world champion, with every resource a comeback could ask for, still built her return the slow way — weeks of rest, then a couple of sessions a week, then more, then competition — a staged rebuild before a real test. If that's the approach for someone with a team behind her, it's more than good enough for someone building a comeback around a crib and a car seat.
 
 
 ### Carving First: The Skill Adult Returners Always Skip
@@ -1001,7 +1001,7 @@ A concussion isn't the injury to shrug off because the swelling looks manageable
 
 
 ### The Connective Tissue Gap: Why Your Comeback Feels Ready Too Soon
-Your cardio comes back in weeks. Your tendons and ligaments take months — and that mismatch is worth pacing a skating comeback around.
+Your cardio catches up in a couple of weeks. Your tendons take longer — and that mismatch is worth pacing a skating comeback around.
 
 A pattern I see constantly in clinic, and constantly at the park, is the adult comeback that goes well for two weeks and then falls apart in the third. Not from a bad fall or an obvious mistake — from an ache that was ignorable on day twelve and became an actual injury by day twenty. The skater usually describes it as coming out of nowhere. It didn't. It came from a predictable, well-understood mismatch between two systems in your body that recover from a layoff at completely different speeds.
 
@@ -1011,17 +1011,17 @@ When you come back to skating after months or years off, two separate adaptation
 
 **Your cardiovascular system comes back fast.** Heart and lung efficiency respond to training quickly — meaningful improvements in a few weeks of consistent aerobic activity, with some of the earliest changes showing up within the first couple of weeks. This is why a lot of returning adults feel like they're "getting their fitness back" almost immediately. Pushing down a straightaway stops leaving you winded. You can skate for forty-five minutes instead of fifteen. That feeling is real, and it's also the trap.
 
-**Your tendons and ligaments come back slowly.** Tendon is a different kind of tissue entirely — dense connective tissue with a much lower blood supply than muscle, which means it remodels on the order of months, not weeks, even under ideal, progressive loading. The research on tendon adaptation consistently puts meaningful stiffness changes at somewhere around two to three months of regular, graded loading, roughly ten times longer than your cardio needs to feel normal again.
+**Your tendons come back more slowly.** Tendon is a different kind of tissue entirely — dense connective tissue with a much lower blood supply than muscle. Research on tendon adaptation is mixed on exactly how long measurable stiffness changes take — some studies find changes within four to eight weeks of consistent, graded loading, others find it takes longer — but even the faster end of that range is still weeks behind the one-to-two-week timeline for cardiovascular fitness. Good evidence specifically on ligaments is thinner, but there's no reason to think they're quicker than tendon to adapt, so it's reasonable to extend the same caution to them.
 
-That gap — weeks for your lungs, months for your Achilles, your patellar tendon, your wrist ligaments — is the connective tissue gap. It's not a flaw in your training. It's just how the tissue works, and it's the same for every returning adult, not a sign you're doing something wrong.
+That gap — a couple of weeks for your lungs, several more weeks on top of that for your Achilles, your patellar tendon, probably your wrist ligaments too — is the connective tissue gap. It's not a flaw in your training. It's just how the tissue works, and it's the same for every returning adult, not a sign you're doing something wrong.
 
 ## Why week three tends to be where it turns
 
 Week one and two, most returning skaters are appropriately cautious. The soreness from skating again is fresh, the awkwardness is obvious, and nobody pushes hard because everything still feels new.
 
-Week three is where it turns. Your cardio has caught up enough that sessions feel easy. Your balance and basic movement patterns have started coming back. You feel, correctly, more capable than you did in week one. What you don't feel — because there's no sensation that reliably signals it — is that your Achilles tendon, your ACL, your wrist ligaments are still early in a remodeling process that takes two to three months regardless of how ready you feel. Nobody has run the kind of prospective injury study on adult comebacks that would pin an exact riskiest week, so take this as a plausible explanation drawn from how the two tissues adapt, not a proven injury statistic — but the mismatch itself, cardio fast and tendon slow, is well established, and it points toward caution in roughly this window rather than at the very start.
+Week three is where it turns for a lot of returning skaters. Your cardio has caught up enough that sessions feel easy. Your balance and basic movement patterns have started coming back. You feel, correctly, more capable than you did in week one. What you don't feel — because there's no sensation that reliably signals it — is exactly how far along your Achilles tendon, your ACL, your wrist ligaments actually are in adapting to the new load. Nobody has run the kind of prospective injury study on adult comebacks that would pin an exact riskiest week, so take this as a plausible explanation drawn from how the two systems adapt at different rates, not a proven injury statistic — but the mismatch itself, cardio fast and tendon slower, is well established, and it points toward caution in the early-to-mid stretch of a comeback rather than easing off once the first couple of weeks feel fine.
 
-That's the week people add the bigger drop-in, the longer session, the trick they used to do without thinking about it. The cardiovascular system says yes. The tendon doesn't have a vote in that decision, because it doesn't communicate through effort or breathlessness. It communicates through pain, and by the time it does that, something is usually already strained.
+That's the week people add the bigger drop-in, the longer session, the trick they used to do without thinking about it. The cardiovascular system says yes. The tendon doesn't have a vote in that decision, because it doesn't communicate through effort or breathlessness. It communicates through pain — and pain there is a signal to back off load and get it assessed if it persists, not proof that something has already torn. Waiting for pain before you adjust anything, though, means you've already let the gap between how you feel and what your tissue can handle run as wide as it's going to get.
 
 ## What this actually means for pacing
 
@@ -1033,13 +1033,13 @@ None of this is an argument against pushing your training. It's an argument for 
 
 **Warm up the specific tissue, not just your heart rate.** A general warm-up raises your heart rate and loosens your major muscles. It does less for the tendons and ligaments taking the specific, repetitive loads of pushing, popping, and landing. A few minutes of ankle circles, calf raises, and light loading of your wrists and knees before a session gives those slower-adapting tissues a head start the cardio warm-up doesn't.
 
-**Be more conservative in weeks three through six than week one, not less.** There's no injury-surveillance data that pins this down to an exact week, but the underlying adaptation timelines point the same direction: this is a reasonable stretch to stay cautious in, not because you're weak at that point, but because it's where the gap between how you feel and what your tissue can likely handle is probably widest. [The 8-week return plan for adult skaters](/blog/8-week-return-plan-adult-skaters/) builds its progression around this same mismatch, which is part of why it's structured in weekly stages rather than left open-ended.
+**Stay as conservative in weeks three through six as you were in week one, not less.** There's no injury-surveillance data that pins the riskiest point down to an exact week, but the underlying adaptation timelines point the same direction: don't let your guard down just because the first couple of weeks went fine. [The 8-week return plan for adult skaters](/blog/8-week-return-plan-adult-skaters/) builds its progression around this same mismatch, which is part of why it's structured in weekly stages rather than left open-ended.
 
 **Don't mistake a plateau in soreness for a green light.** If your legs stop being sore between sessions, that's your muscles adapting, not your tendons finishing their much longer remodel. Use time elapsed and gradual progression as your guide for adding intensity, not how sore you do or don't feel the next day.
 
 ## The reassurance in this
 
-The connective tissue gap isn't a reason to distrust your body during a comeback. It's a reason to trust a calendar over a feeling for a specific stretch of weeks. Your cardio genuinely is back faster than your tendons — that's not your imagination, and it's not you being unfit. It just means the thing to pace against for the first couple of months isn't how capable you feel on a given day. It's how long your tissue has actually had to adapt, which is a slower and far less exciting number than your improving stamina, but it's the one that actually determines whether week three ends in progress or in a setback.
+The connective tissue gap isn't a reason to distrust your body during a comeback. It's a reason to trust a calendar over a feeling for a specific stretch of weeks. Your cardio genuinely is back faster than your tendons — that's not your imagination, and it's not you being unfit. It just means the thing to pace against for the first several weeks isn't how capable you feel on a given day. It's how long your tissue has actually had to adapt, which is a slower and far less exciting number than your improving stamina, but it's the one that actually determines whether week three ends in progress or in a setback.
 
 
 ### Creatine for Adult Skaters: What the Research Actually Supports
