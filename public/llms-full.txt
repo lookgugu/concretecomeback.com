@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-18T05:36:49.199Z
+# Date: 2026-10-18T09:10:09.695Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -687,6 +687,46 @@ Use it as a logging and feedback layer on top of training you'd be doing anyway,
 The honest answer I gave my patient: try one if the idea appeals to you, treat whatever it tells you as a second opinion rather than a verdict, and don't let a subscription replace the one thing no app does yet — someone physically present who can tell you to stop before you get hurt, not after.
 
 
+### What Carissa Moore's Postpartum Comeback Means for Skate Parents
+Carissa Moore returned to the WSL Tour months after giving birth. What her comeback timeline teaches skate parents about rebalancing their own practice.
+
+Carissa Moore stepped away from competitive surfing after the Paris 2024 Olympics, where she reached the quarterfinals two months pregnant. Her daughter, Olena Lililehua Untermann, was born in February 2025. In November 2025, the World Surf League announced she'd be returning in 2026 on a full-season wildcard — guaranteed entry into every Championship Tour event, starting at Bells Beach in April and running through the Pipe Masters in December. A five-time world champion doesn't need qualifying points to prove she still belongs on tour. She needed something else: a way back onto the clock after motherhood reset it.
+
+I don't surf and this isn't a surfing site, but I run a group where "I used to skate every weekend, then I had a kid, and now I don't know how to fit it back in" is close to the single most common sentence I hear. Moore's comeback is a useful shape to study, not because her resources match yours, but because the specific problem she solved — rebuilding a physical practice around a new, permanent demand on her time and body — is exactly your problem too.
+
+## The wildcard is the part worth noticing
+
+A full-season wildcard means Moore didn't have to re-earn her spot through the normal qualifying grind while also sorting out childcare, recovery, and a body that had just done something entirely different for nine months. The WSL effectively said: come back on a realistic timeline, and we'll hold the door open.
+
+Most skate parents don't get an institution to do that for them. But you can do it for yourself. The instinct after a long gap — whether it's three months with a newborn or three years of a toddler eating every spare hour — is to treat the return as a test you either pass or fail immediately. Moore's tour didn't ask her to win her first heat back. It asked her to show up. That's a lower, more honest bar, and it's the one you should set for your own first few sessions back.
+
+## She didn't wait for "ready"
+
+Moore's path back wasn't a single leap from new mother to tour competitor. Reporting around her return described her easing back into daily surfing before entering smaller qualifying events in Hawaii ahead of the CT season — building the base pattern back before adding competition on top of it. That's the same staged shape this site has pointed to before in [the 8-week return plan for adult skaters](/blog/8-week-return-plan-adult-skaters/): rebuild the movement, then the volume, then the specific skill, then whatever "competing" means for you, whether that's a contest or just keeping up with the group session you used to skate with.
+
+The mistake a lot of skate parents make is waiting for a feeling of readiness that a new schedule simply doesn't produce. There is no morning where the kid is suddenly old enough and the laundry is suddenly done and you suddenly have the hip mobility you had in your twenties. Moore didn't wait for that morning either. She started with daily surfing — not competing, just moving — and let the rest build on top of it.
+
+## The schedule change is permanent, and that's fine
+
+Here's where the comparison has to be honest: Moore has a nanny, a team, and a sponsor-funded life built around getting her to the right beach on the right day. Most skate parents are negotiating nap schedules and one shared car. The gap between her logistics and yours is real, and no amount of inspirational framing closes it.
+
+What transfers isn't the resources. It's the posture toward the problem. Moore's old schedule — the one where she could surf whenever a swell showed up — is gone permanently, not temporarily. She didn't get that version of her life back; she built a new one that fits around her daughter. [Finding skate time with a family at home](/blog/finding-skate-time-with-a-family-at-home/) is this site's version of that same negotiation: identifying the thirty-minute windows that actually exist in your week instead of mourning the open afternoons you used to have.
+
+## What this looks like at your park
+
+You're not rebuilding toward a World Surf League event. You're rebuilding toward whatever "back" means for you — a Saturday session, a group you used to show up for, a trick you could do before the gap. The practical version of Moore's comeback for a skate parent looks like this:
+
+**Pick a floor, not a ceiling.** "I will push around the block twice a week" is a floor you can actually hit most weeks. "I will get back to where I was" is a ceiling that keeps moving and rarely gets touched.
+
+**Let the first sessions be boring.** Moore's early sessions back were daily surfing, not contest heats. Your early sessions back should be flat-ground pushing and easy carves, not the line you were working on before the gap.
+
+**Treat the new schedule as the real one.** The nap window, the daycare pickup time, the one evening your partner has coverage — that's not a temporary obstacle between you and your old skating life. It's the shape your skating life has now, and planning around it instead of against it is what actually gets you back on a board more than once a month.
+
+**Stop comparing your return to your pre-kid baseline.** Compare this month to last month instead, the same way [building confidence after 40](/blog/building-confidence-at-40/) argues for comparing yourself to yourself rather than to who you used to be.
+
+Moore's first event back is a season opener on the other side of the world from most of us, at a beach break most of us will never surf. None of that is the point. The point is that a five-time world champion, with every resource a comeback could ask for, still built her return the slow way — daily practice before competition, a staged rebuild before a real test. If that's the approach for someone with a team behind her, it's more than good enough for someone building a comeback around a crib and a car seat.
+
+
 ### Carving First: The Skill Adult Returners Always Skip
 Adult returners rush toward tricks and skip carving, the foundational skill behind board control, bowl skating, and injury prevention.
 
@@ -958,6 +998,48 @@ A helmet doesn't prevent concussions outright — no helmet does, since they're 
 ## The actual takeaway
 
 A concussion isn't the injury to shrug off because the swelling looks manageable or the headache fades after a day. Give it the structured, staged return the way you would any serious injury, get immediate emergency care for the red-flag signs, get an actual clinical clearance before you return to anything with fall risk, and treat "when in doubt, sit it out" as the rule rather than the exception. Your wrist will heal roughly on schedule either way. The research on whether your brain's schedule is genuinely different after 40 is thin and mixed, not settled — and that uncertainty, not a proven slower timeline, is the honest reason not to assume the "back in a week or two" rule from youth sports applies to you.
+
+
+### The Connective Tissue Gap: Why Week 3 Is When Adults Get Hurt
+Your cardio comes back in two weeks. Your tendons and ligaments take months. That mismatch is where most adult skating comeback injuries happen.
+
+A pattern I see constantly in clinic, and constantly at the park, is the adult comeback that goes well for two weeks and then falls apart in the third. Not from a bad fall or an obvious mistake — from an ache that was ignorable on day twelve and became an actual injury by day twenty. The skater usually describes it as coming out of nowhere. It didn't. It came from a predictable, well-understood mismatch between two systems in your body that recover from a layoff at completely different speeds.
+
+## Two clocks, running at different rates
+
+When you come back to skating after months or years off, two separate adaptations have to happen, and they don't happen on the same timeline.
+
+**Your cardiovascular system comes back fast.** Heart and lung efficiency respond to training quickly — meaningful improvements in a few weeks of consistent aerobic activity, with some of the earliest changes showing up within the first couple of weeks. This is why a lot of returning adults feel like they're "getting their fitness back" almost immediately. Pushing down a straightaway stops leaving you winded. You can skate for forty-five minutes instead of fifteen. That feeling is real, and it's also the trap.
+
+**Your tendons and ligaments come back slowly.** Tendon is a different kind of tissue entirely — dense connective tissue with a much lower blood supply than muscle, which means it remodels on the order of months, not weeks, even under ideal, progressive loading. The research on tendon adaptation consistently puts meaningful stiffness changes at somewhere around two to three months of regular, graded loading, roughly ten times longer than your cardio needs to feel normal again.
+
+That gap — weeks for your lungs, months for your Achilles, your patellar tendon, your wrist ligaments — is the connective tissue gap. It's not a flaw in your training. It's just how the tissue works, and it's the same for every returning adult, not a sign you're doing something wrong.
+
+## Why week 3 specifically
+
+Week one and two, most returning skaters are appropriately cautious. The soreness from skating again is fresh, the awkwardness is obvious, and nobody pushes hard because everything still feels new.
+
+Week three is where it turns. Your cardio has caught up enough that sessions feel easy. Your balance and basic movement patterns have started coming back. You feel, correctly, more capable than you did in week one. What you don't feel — because there's no sensation that reliably signals it — is that your Achilles tendon, your ACL, your wrist ligaments are maybe 20% of the way through a remodeling process that takes two to three months. The feeling of readiness and the actual state of your connective tissue are telling you two different things, and the feeling is louder.
+
+That's the week people add the bigger drop-in, the longer session, the trick they used to do without thinking about it. The cardiovascular system says yes. The tendon doesn't have a vote in that decision, because it doesn't communicate through effort or breathlessness. It communicates through pain, and by the time it does that, something is usually already strained.
+
+## What this actually means for pacing
+
+None of this is an argument against pushing your training. It's an argument for pushing the right variable at the right time.
+
+**Increase duration and frequency before you increase intensity.** Skating longer, or skating more days a week, loads your cardiovascular system and your general movement patterns without necessarily demanding the sudden, forceful loading — a hard pop, a big drop, an aggressive carve — that puts the most strain on tendons and ligaments. Save the intensity increases for later in your return than feels strictly necessary.
+
+**Expect the "I feel ready" feeling to arrive before your tissue actually is.** This is the single most useful thing to know going into a comeback. The feeling isn't wrong about your fitness. It's just not measuring the thing that actually determines your injury risk at week three.
+
+**Warm up the specific tissue, not just your heart rate.** A general warm-up raises your heart rate and loosens your major muscles. It does less for the tendons and ligaments taking the specific, repetitive loads of pushing, popping, and landing. A few minutes of ankle circles, calf raises, and light loading of your wrists and knees before a session gives those slower-adapting tissues a head start the cardio warm-up doesn't.
+
+**Treat week three to six as the highest-risk window, not week one.** If you're going to be conservative anywhere in a comeback, this is the stretch to do it in — not because you're weak at that point, but because it's exactly when the gap between how you feel and what your tissue can handle is widest. [The 8-week return plan for adult skaters](/blog/8-week-return-plan-adult-skaters/) builds its progression around exactly this mismatch, which is part of why it's structured in weekly stages rather than left open-ended.
+
+**Don't mistake a plateau in soreness for a green light.** If your legs stop being sore between sessions, that's your muscles adapting, not your tendons finishing their much longer remodel. Use time elapsed and gradual progression as your guide for adding intensity, not how sore you do or don't feel the next day.
+
+## The reassurance in this
+
+The connective tissue gap isn't a reason to distrust your body during a comeback. It's a reason to trust a calendar over a feeling for a specific stretch of weeks. Your cardio genuinely is back faster than your tendons — that's not your imagination, and it's not you being unfit. It just means the thing to pace against for the first couple of months isn't how capable you feel on a given day. It's how long your tissue has actually had to adapt, which is a slower and far less exciting number than your improving stamina, but it's the one that actually determines whether week three ends in progress or in a setback.
 
 
 ### Creatine for Adult Skaters: What the Research Actually Supports
