@@ -34,7 +34,7 @@ That's the week people add the bigger drop-in, the longer session, the trick the
 
 None of this is an argument against pushing your training. It's an argument for pushing the right variable at the right time.
 
-**Increase duration and frequency before you increase intensity.** Skating longer, or skating more days a week, loads your cardiovascular system and your general movement patterns without necessarily demanding the sudden, forceful loading — a hard pop, a big drop, an aggressive carve — that puts the most strain on tendons and ligaments. Save the intensity increases for later in your return than feels strictly necessary.
+**If you're going to add load, add intensity last — but duration and frequency are still load.** A longer session or an extra day a week doesn't demand the sudden, forceful loading — a hard pop, a big drop, an aggressive carve — that puts the most strain on tendons and ligaments, which is why intensity is the variable to hold back longest. That doesn't make duration and frequency free to increase however you like, though: both still need to go up gradually, with real recovery between sessions, or you can overuse your way into the same problem from a different direction.
 
 **Expect the "I feel ready" feeling to arrive before your tissue actually is.** This is the single most useful thing to know going into a comeback. The feeling isn't wrong about your fitness. It's just not measuring the thing that actually determines your injury risk at week three.
 

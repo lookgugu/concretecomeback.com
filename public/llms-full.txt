@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-18T09:26:21.403Z
+# Date: 2026-10-18T09:29:51.947Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -724,7 +724,9 @@ You're not rebuilding toward a World Surf League event. You're rebuilding toward
 
 **Stop comparing your return to your pre-kid baseline.** Compare this month to last month instead, the same way [building confidence after 40](/blog/building-confidence-at-40/) argues for comparing yourself to yourself rather than to who you used to be.
 
-By the time you're reading this, the comeback isn't hypothetical anymore. Moore opened her wildcard season at Bells Beach in April, then went on to win back-to-back Championship Tour events in New Zealand and El Salvador — her first tour victories since becoming a mother. None of that happened because she skipped the slow part. It happened because six weeks of rest and a couple of sessions a week came first, at beach breaks most of us will never surf, built up in stages before she ever competed again. If that staged rebuild is what got a five-time world champion back to winning, it's more than good enough for someone building a comeback around a crib and a car seat.
+By the time you're reading this, the comeback isn't hypothetical anymore. Moore opened her wildcard season at Bells Beach in April, then went on to win back-to-back Championship Tour events in New Zealand and El Salvador — her first tour victories since becoming a mother. None of that happened because she skipped the slow part. It happened because rest and a couple of low-key sessions a week came first, at beach breaks most of us will never surf, built up in stages before she ever competed again.
+
+Her exact timeline is her own — it reflects her delivery, her medical team's clearance, and her body, not a schedule to copy regardless of yours. What transfers isn't the six weeks specifically; it's getting your own return cleared and paced by your own circumstances, and skating's fall risk makes that check worth taking seriously rather than skipping. Within whatever timeline is actually yours, though, the shape she used — rest first, low frequency before volume, volume before anything that looks like competing again — is more than good enough for someone building a comeback around a crib and a car seat.
 
 
 ### Carving First: The Skill Adult Returners Always Skip
@@ -1027,7 +1029,7 @@ That's the week people add the bigger drop-in, the longer session, the trick the
 
 None of this is an argument against pushing your training. It's an argument for pushing the right variable at the right time.
 
-**Increase duration and frequency before you increase intensity.** Skating longer, or skating more days a week, loads your cardiovascular system and your general movement patterns without necessarily demanding the sudden, forceful loading — a hard pop, a big drop, an aggressive carve — that puts the most strain on tendons and ligaments. Save the intensity increases for later in your return than feels strictly necessary.
+**If you're going to add load, add intensity last — but duration and frequency are still load.** A longer session or an extra day a week doesn't demand the sudden, forceful loading — a hard pop, a big drop, an aggressive carve — that puts the most strain on tendons and ligaments, which is why intensity is the variable to hold back longest. That doesn't make duration and frequency free to increase however you like, though: both still need to go up gradually, with real recovery between sessions, or you can overuse your way into the same problem from a different direction.
 
 **Expect the "I feel ready" feeling to arrive before your tissue actually is.** This is the single most useful thing to know going into a comeback. The feeling isn't wrong about your fitness. It's just not measuring the thing that actually determines your injury risk at week three.
 
