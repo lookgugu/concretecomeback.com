@@ -11,8 +11,8 @@ hasOnlineShop: true
 adultsWelcomeNote: "The shop offers professional repair services and is a long-standing fixture in the local scene."
 featured: false
 addedDate: 2026-09-27
-lastVerified: 2026-10-16
+lastVerified: 2026-10-19
 ---
 Skate City Supply is one of the most established and trusted local core shops in Albuquerque. They carry a comprehensive range of skateboards, longboards, and protective gear, ensuring older skaters have access to high-quality equipment. 
 
-The shop is especially notable for its professional repair and maintenance services, making it a reliable stop to get a neglected setup rolling smoothly again. The staff are deeply rooted in the local community and can point you in the right direction if you're looking for lessons or group skates. Pair your visit with a session at [Los Altos Skatepark](/directory/parks/us/los-altos-skatepark-albuquerque-nm) nearby or head north up I-25 to [Genoveva Chavez Skatepark](/directory/parks/us/genoveva-chavez-skatepark-santa-fe-nm) in Santa Fe.
+The shop is especially notable for its professional repair and maintenance services, making it a reliable stop to get a neglected setup rolling smoothly again. The staff are deeply rooted in the local community and can point you in the right direction if you're looking for lessons or group skates. Pair your visit with a session at [Los Altos Skatepark](/directory/parks/us/los-altos-skatepark-albuquerque-nm) nearby, roll up to the Northeast Heights for evening lights at [North Domingo Baca Skate Park](/directory/parks/us/north-domingo-baca-skate-park-albuquerque-nm), or head north up I-25 to [Genoveva Chavez Skatepark](/directory/parks/us/genoveva-chavez-skatepark-santa-fe-nm) in Santa Fe.

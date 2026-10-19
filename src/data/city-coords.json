@@ -384,6 +384,11 @@
     "lng": -157.8557,
     "source": "Honolulu, Honolulu County, Hawaii, United States"
   },
+  "US|hawaii|kihei": {
+    "lat": 20.7634,
+    "lng": -156.4464,
+    "source": "Kihei, Maui County, Hawaii, United States"
+  },
   "US|idaho|boise": {
     "lat": 43.6166,
     "lng": -116.2009,
@@ -443,6 +448,11 @@
     "lat": 37.6922,
     "lng": -97.3375,
     "source": "Wichita, Sedgwick County, Kansas, United States"
+  },
+  "US|kentucky|bowling green": {
+    "lat": 36.9929,
+    "lng": -86.4429,
+    "source": "Bowling Green, Warren County, Kentucky, 42101, United States"
   },
   "US|kentucky|florence": {
     "lat": 38.9989,
@@ -564,6 +574,11 @@
     "lng": -113.9953,
     "source": "Missoula, Missoula County, Montana, United States"
   },
+  "US|montana|whitefish": {
+    "lat": 48.4108,
+    "lng": -114.3346,
+    "source": "Whitefish, Flathead County, Montana, 59937, United States"
+  },
   "US|nebraska|lincoln": {
     "lat": 40.8089,
     "lng": -96.7078,
@@ -573,6 +588,11 @@
     "lat": 42.0283,
     "lng": -97.417,
     "source": "Norfolk, Madison County, Nebraska, United States"
+  },
+  "US|nevada|las vegas": {
+    "lat": 36.1674,
+    "lng": -115.1484,
+    "source": "Las Vegas, Clark County, Nevada, United States"
   },
   "US|nevada|north las vegas": {
     "lat": 36.2005,
@@ -734,6 +754,11 @@
     "lng": -71.4128,
     "source": "Providence, Providence County, Rhode Island, United States"
   },
+  "US|rhode island|wakefield": {
+    "lat": 41.4373,
+    "lng": -71.5014,
+    "source": "Wakefield, South Kingstown, South County, Rhode Island, 02879, United States"
+  },
   "US|south carolina|charleston": {
     "lat": 32.7884,
     "lng": -79.9399,
@@ -829,6 +854,11 @@
     "lng": -75.9761,
     "source": "Virginia Beach, Virginia, United States"
   },
+  "US|washington|bellevue": {
+    "lat": 47.6144,
+    "lng": -122.1923,
+    "source": "Bellevue, King County, Washington, United States"
+  },
   "US|washington|seattle": {
     "lat": 47.6038,
     "lng": -122.3301,
@@ -880,8 +910,8 @@
     "source": "derived: mean of 18 listed UK cities"
   },
   "US": {
-    "lat": 38.9552,
-    "lng": -93.8959,
-    "source": "derived: mean of 126 listed US cities"
+    "lat": 38.9374,
+    "lng": -94.6739,
+    "source": "derived: mean of 132 listed US cities"
   }
 }

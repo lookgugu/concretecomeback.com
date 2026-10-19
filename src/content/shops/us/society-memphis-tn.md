@@ -13,7 +13,7 @@ hasOnlineShop: true
 adultsWelcomeNote: "Hosts dedicated 'learn to skate' lessons and offers a welcoming environment inside their climate-controlled skatepark."
 featured: false
 addedDate: 2026-10-09
-lastVerified: 2026-10-09
+lastVerified: 2026-10-19
 ---
 
-Located conveniently within the [Society Memphis](/directory/parks/us/society-memphis-tn) indoor skatepark, this shop is perfectly positioned to get you rolling. They provide excellent advice for those returning to the board and foster a highly supportive local community.
+Located conveniently within the [Society Memphis](/directory/parks/us/society-memphis-tn) indoor skatepark, this shop is perfectly positioned to get you rolling. They provide excellent advice for those returning to the board and foster a highly supportive local community. If you want to take a new setup out onto lit public concrete after an indoor session, head north up Austin Peay Highway to [Raleigh Springs Civic Center Skate Park](/directory/parks/us/raleigh-springs-skate-park-memphis-tn).
