@@ -3,7 +3,7 @@ name: "Kalama Skate Park"
 country: "US"
 stateProvince: "Hawaii"
 city: "Kihei"
-address: "1900 S Kihei Rd, Kihei, HI 96753"
+address: "1910 S Kihei Rd, Kihei, HI 96753"
 description: "A 20,000-square-foot oceanfront County of Maui skatepark in central Kihei's Kalama Park, featuring a transition-focused concrete street course, a backyard-style pool bowl, a 24-foot-wide mini-ramp connected to a 9-foot vert ramp, and calm morning sessions before trade winds build."
 surface: ["concrete"]
 features: ["bowl", "pool", "street", "ramps", "banks", "transitions", "mini-ramp", "vert"]
@@ -15,7 +15,7 @@ isIndoor: false
 openingHours: "Kalama Park open daily 7am–10pm; check entry signage or County of Maui site for skatepark hours"
 entryFee: "Free"
 website: "https://www.mauicounty.gov/Facilities/Facility/Details/320"
-googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=Kalama+Skate+Park+1900+S+Kihei+Rd+Kihei+HI+96753"
+googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=Kalama+Skate+Park+1910+S+Kihei+Rd+Kihei+HI+96753"
 featured: false
 addedDate: 2026-10-19
 lastVerified: 2026-10-19

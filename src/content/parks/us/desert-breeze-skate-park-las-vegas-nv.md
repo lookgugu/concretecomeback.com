@@ -3,7 +3,7 @@ name: "Desert Breeze Skate Park"
 country: "US"
 stateProvince: "Nevada"
 city: "Las Vegas"
-address: "8275 Spring Mountain Rd, Las Vegas, NV 89147"
+address: "8275 Spring Mountain Rd, Las Vegas, NV 89117"
 description: "A 20,000-square-foot Clark County poured-concrete skatepark in Las Vegas's Spring Valley open daily from 6am to 11pm with timer-controlled night lighting, shade structures, benches, drinking fountains, and both street and bowl terrain."
 surface: ["concrete"]
 features: ["bowl", "street", "ramps", "rails", "banks", "transitions"]
@@ -15,7 +15,7 @@ isIndoor: false
 openingHours: "Daily 6am–11pm"
 entryFee: "Free"
 website: "https://www.clarkcountynv.gov/government/departments/parks___recreation/desert-breeze-park-information"
-googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=Desert+Breeze+Park+8275+Spring+Mountain+Rd+Las+Vegas+NV+89147"
+googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=Desert+Breeze+Park+8275+Spring+Mountain+Rd+Las+Vegas+NV+89117"
 featured: false
 addedDate: 2026-10-19
 lastVerified: 2026-10-19

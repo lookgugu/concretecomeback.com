@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-19T18:37:38.120Z
+# Date: 2026-10-19T18:46:06.653Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -7430,13 +7430,13 @@ The park is a primary East Bay hub for [Skate Like a Girl SF Bay Area](/director
 
 
 ### Bowling Green Skate Park (Roland Bland Park)
-A downtown municipal concrete skatepark designed by Wally Hollyday and built by California Skateparks at Bowling Green's Roland Bland Park, open and lit daily from 7am to 11pm with a shade shelter, bleachers, restrooms, and three progressive bowls.
+A downtown municipal concrete skatepark designed by Wally Hollyday and built by California Skateparks at Bowling Green's Roland Bland Park, open and lit daily from 7am to 11pm with a shade shelter, bleachers, restrooms, and three concrete bowls.
 Location: Bowling Green, Kentucky, US
 Website: https://www.bgky.org/bgpr/parks/8
 
 Occupying a prime downtown corner inside 6.25-acre Roland Bland Park across from the Historic RailPark and Train Museum, Bowling Green Skate Park is a poured-concrete municipal facility designed by Wally Hollyday and constructed by California Skateparks and local builder Scott Murphy. Operated by Bowling Green Parks and Recreation, the park is open and floodlit daily from 7:00am to 11:00pm, giving older skaters in south-central Kentucky dependable early-morning and late-evening windows backed by a non-reservable shade shelter, spectator bleachers, public restrooms, free municipal Wi-Fi, and dedicated off-street parking.
 
-The park pairs a multi-level street course with three distinct concrete bowls so returning riders can scale up gradually. Start on the street section's progressive 2-stair, 4-stair, and 6-stair sets with ledges, rails, and banks, or carve the 6-foot shallow bowl before stepping up to the 5-foot speed section, 8-foot quarter-pipe, and the deeper 14-foot and 20-foot bowl pockets. Note two operational caveats: Bowling Green Parks and Recreation welcomes skateboards, inline skates, and BMX bikes alike on the slab, and the transition connecting the 5-foot speed section into the street and bowl lines can bottleneck during busy afternoon sessions—making weekday mornings after 7:00am or lit evening sessions the smoothest times to ride.
+The park pairs a multi-level street course with three distinct concrete bowls so returning riders can scale up gradually. Start on the street section's progressive 2-stair, 4-stair, and 6-stair sets with ledges, rails, and banks, or carve the 6-foot shallow bowl before stepping up to the 5-foot speed section, 8-foot quarter-pipe, and the deeper intermediate and advanced bowls reaching roughly 11 feet in depth. Note two operational caveats: Bowling Green Parks and Recreation welcomes skateboards, inline skates, and BMX bikes alike on the slab, and the transition connecting the 5-foot speed section into the street and bowl lines can bottleneck during busy afternoon sessions—making weekday mornings after 7:00am or lit evening sessions the smoothest times to ride.
 
 
 ### Burnside Skate Park
