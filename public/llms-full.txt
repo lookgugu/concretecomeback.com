@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-18T05:36:49.199Z
+# Date: 2026-10-19T18:46:06.653Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -7409,6 +7409,16 @@ Operated by the nonprofit Midcoast Youth Center at 4 Old Brunswick Road, Bath Sk
 Because regular operating hours open at 10:00am Monday through Friday (until 6:00pm, and 10:00am–5:00pm on Saturdays), weekday mornings and early afternoons before school lets out at 2:00pm offer a calm, uncrowded window for returning riders. One-hour private skateboarding lessons ($25) can also be booked in advance for one-on-one confidence building, and helmet and skateboard rentals ($4–$5) are available at the front desk. Note that the park is closed on Sundays, Saturday mornings from 10:00am to 12:00pm are reserved for a "Half Pints" session limited to children ages 5–10, any special sessions held after 6:00pm require riders to be 16+ (or accompanied by a parent/guardian), and general sessions are shared with scooters, inline skates, and BMX bikes.
 
 
+### Bellevue Indoor Skate Park & Highland Skate Plaza
+A City of Bellevue skate campus at Highland Community Center pairing a supervised indoor wood ramp park with a Monday evening clinic for older skaters, free gear rentals, and an adjacent 13,000-square-foot floodlit concrete street plaza.
+Location: Bellevue, Washington, US
+Website: https://bellevuewa.gov/city-government/departments/parks/sports-and-athletics/skate-parks/bellevue-indoor-skate-park
+
+Operated by Bellevue Parks & Community Services on the Highland Community Center campus, this dual-facility hub pairs one of the country's longest-running municipal indoor skateparks (established in 1994 and renovated on a two-year cycle) with the adjacent 13,000-square-foot Highland Outdoor Skate Plaza. For older skaters returning to a board across the Eastside and Greater Seattle, the indoor facility runs a dedicated Monday evening clinic (5:00pm–6:00pm) alongside a Monday night quad-skate session (6:15pm–8:00pm), provides free loaner skateboards, helmets, and pads at the front counter, and enforces a strict ban on BMX bikes and scooters inside both the indoor warehouse and the outdoor plaza.
+
+You can match the terrain to the Pacific Northwest forecast: step inside the climate-protected wood park to work on smooth banks, quarter-pipes, and ramps under staff supervision, or roll out to the free, floodlit concrete street plaza (open daily from dawn to 11:00pm) to practice on its refinished slab, 40-foot slappy curb, 24-foot flat bar, across-and-down rail, ledges, stairs, and hubbas. Keep several municipal rules in mind: a signed waiver and strapped helmet are mandatory at all times inside the indoor park, private facility rentals are not offered, and skating on the outdoor plaza is prohibited whenever the concrete is wet or under maintenance. If you need a new deck, softer wheels, or fresh hardware on your way across Lake Washington, stop by [35th North](/directory/shops/us/35th-north-seattle-wa) on Seattle's Capitol Hill, or cross the bridge for a rainy-day session at [All Together Skatepark](/directory/parks/us/all-together-skatepark-seattle-wa).
+
+
 ### Terrence McCrary, Jr. Memorial Skate Park (Berkeley Skatepark)
 An 18,000-square-foot municipal concrete skatepark in Harrison Park with dedicated areas for beginners, evening floodlights until 9:30pm, and monthly Saturday morning workshops for older skaters hosted by Skate Like a Girl SF Bay Area.
 Location: Berkeley, California, US
@@ -7417,6 +7427,16 @@ Website: https://berkeleyca.gov/community-recreation/parks-recreation/facilities
 Set inside Harrison Park in West Berkeley, the Terrence McCrary, Jr. Memorial Skate Park—known locally as Berkeley Skatepark—spans 18,000 square feet of poured concrete designed by SITE Design Group. The layout separates terrain into three distinct tiers so older skaters returning to the board can avoid high-speed cross-traffic: the upper perimeter ("The Track") and entrance ("Tech section") hold a small mini-pipe, manual pads, funboxes, and low flat bars, while the lower level ("The Pit") contains quarter-pipes, bank hips, and a deep oval bowl.
 
 The park is a primary East Bay hub for [Skate Like a Girl SF Bay Area](/directory/groups/us/skate-like-a-girl-sf-bay-area-ca), which hosts monthly Saturday morning workshops here tailored to older skaters rebuilding balance and safe falling mechanics. Weekend mornings starting at 8:00am and lit weeknights until 9:30pm offer the calmest windows. Note that the City of Berkeley requires helmets at all times (with knee and elbow pads strongly recommended), prohibits bikes and scooters, and closes the gate during municipal camp programs, clinics, and wet weather.
+
+
+### Bowling Green Skate Park (Roland Bland Park)
+A downtown municipal concrete skatepark designed by Wally Hollyday and built by California Skateparks at Bowling Green's Roland Bland Park, open and lit daily from 7am to 11pm with a shade shelter, bleachers, restrooms, and three concrete bowls.
+Location: Bowling Green, Kentucky, US
+Website: https://www.bgky.org/bgpr/parks/8
+
+Occupying a prime downtown corner inside 6.25-acre Roland Bland Park across from the Historic RailPark and Train Museum, Bowling Green Skate Park is a poured-concrete municipal facility designed by Wally Hollyday and constructed by California Skateparks and local builder Scott Murphy. Operated by Bowling Green Parks and Recreation, the park is open and floodlit daily from 7:00am to 11:00pm, giving older skaters in south-central Kentucky dependable early-morning and late-evening windows backed by a non-reservable shade shelter, spectator bleachers, public restrooms, free municipal Wi-Fi, and dedicated off-street parking.
+
+The park pairs a multi-level street course with three distinct concrete bowls so returning riders can scale up gradually. Start on the street section's progressive 2-stair, 4-stair, and 6-stair sets with ledges, rails, and banks, or carve the 6-foot shallow bowl before stepping up to the 5-foot speed section, 8-foot quarter-pipe, and the deeper intermediate and advanced bowls reaching roughly 11 feet in depth. Note two operational caveats: Bowling Green Parks and Recreation welcomes skateboards, inline skates, and BMX bikes alike on the slab, and the transition connecting the 5-foot speed section into the street and bowl lines can bottleneck during busy afternoon sessions—making weekday mornings after 7:00am or lit evening sessions the smoothest times to ride.
 
 
 ### Burnside Skate Park
@@ -7517,6 +7537,16 @@ Craig Ranch Skatepark is an expansive, 65,000-square-foot concrete facility buil
 For older skaters, the biggest draw is the schedule and the climate control strategy. The park opens at 7:00 AM daily, making the early morning the perfect window for a quiet, mellow session before the crowds arrive and the desert sun heats up the concrete. Alternatively, the park is fully equipped with lights for evening sessions.
 
 
+### Dave Olseth Memorial Skatepark
+A 22,000-square-foot Dreamland Skateparks concrete facility in Whitefish's Armory Park, expanded in 2023 with a dedicated 6,900-square-foot beginner area and street course featuring wide-open sightlines separated from its deep bowls and spine.
+Location: Whitefish, Montana, US
+Website: https://www.skatewhitefish.org/
+
+Set inside Armory Park on the east side of Whitefish with adjacent restrooms, a water fountain, and open athletic fields, Dave Olseth Memorial Skatepark (often called Whitefish Skatepark) was originally built by Dreamland Skateparks in 2005 and expanded by Dreamland and the nonprofit Whitefish Skatepark Association in September 2023 to roughly 22,000 to 23,000 square feet of poured concrete. That Phase 2 expansion was specifically designed to add 6,900 square feet of beginner terrain and street features with wide-open spacing and clear sightlines, allowing older skaters returning to a board to spread out and warm up away from the high-speed lines of the original bowls.
+
+Start in the expanded street and beginner wing—working across the open flatground, curbs, manual pad, low ledges, flat rail, banks, and mini-ramp—before testing the London gap, stairs, handrail, wallride, or the original Dreamland transition end with its open bowls and transfer spine. Keep several local caveats in mind: the park is an unlit daylight-only facility, the expanded layout permits scooters and bikes alongside skateboards and inline skates, and the City of Whitefish runs its annual month-long Sk8fish youth skate camp here during the summer—making early weekday mornings outside camp hours or early-autumn afternoons the calmest windows in the Flathead Valley.
+
+
 ### David Armstrong Extreme Park
 A 40,000-square-foot municipal concrete facility downtown near Waterfront Park, featuring a 24-foot full-pipe, multiple transition bowls, a wooden vert ramp, and wide street courses lit until 11:00 PM daily.
 Location: Louisville, Kentucky, US
@@ -7537,6 +7567,16 @@ Website: https://denvergov.org/Government/Agencies-Departments-Offices/Agencies-
 The sheer size works in a returning skater's favour — there is almost always an underused corner to practise in. Weekday mornings are quietest. The street section's smaller ledges and flat banks are the friendliest starting point; the deeper bowls are best left until your transition confidence is back.
 
 303 Boards — a Denver brick-and-mortar since 1997, with stores on South Broadway and East Colfax — is the shop paired with this park.
+
+
+### Desert Breeze Skate Park
+A 20,000-square-foot Clark County poured-concrete skatepark in Las Vegas's Spring Valley open daily from 6am to 11pm with timer-controlled night lighting, shade structures, benches, drinking fountains, and both street and bowl terrain.
+Location: Las Vegas, Nevada, US
+Website: https://www.clarkcountynv.gov/government/departments/parks___recreation/desert-breeze-park-information
+
+Set inside the 119-acre Desert Breeze Park complex at Spring Mountain Road and Durango Drive in Spring Valley, Desert Breeze Skate Park spans 20,000 square feet of poured concrete operated by Clark County Parks & Recreation. For older skaters in the Las Vegas Valley, the park's 6:00am opening, timer-controlled overhead night lighting until 11:00pm, shade structures, benches, and on-site drinking fountains make it practical to schedule sessions at dawn or after dark to beat Mojave Desert heat, with two regulation roller hockey rinks situated immediately west of the skatepark.
+
+While Clark County describes the overall layout as geared toward intermediate-to-advanced riders with beginner-accessible sections, the 20,000-square-foot footprint gives returning skaters room to warm up on the outer banks, low street ledges, flat rails, and milder transitions before dropping into the deeper concrete bowls and larger street obstacles. Keep county caveats in mind: the park is an unsupervised facility shared by skateboards, inline skates, and BMX bikes (helmets and full pads are strongly recommended), there are no public telephones at the skatepark, glass containers and amplified music are prohibited, and Clark County code requires all visitors to clear the park grounds no later than 11:00pm. For an even larger 65,000-square-foot plaza and bowl complex across the valley, pair your trip with [Craig Ranch Skatepark](/directory/parks/us/craig-ranch-skatepark-north-las-vegas-nv) in North Las Vegas.
 
 
 ### Dike West Skatepark
@@ -7756,6 +7796,16 @@ Website: https://www.greenbaywi.gov/facilities/facility/details/Joannes-Skate-Pa
 As Wisconsin's largest outdoor poured-concrete facility, Joannes Skate Park offers an expansive layout that naturally diffuses heavy traffic. 
 
 For older skaters, the primary draw is its intentional physical separation of skill levels. The park features dedicated beginner areas far removed from the advanced transition sections, giving you a low-impact zone to build foundational board control without dodging high-speed riders.
+
+
+### Kalama Skate Park
+A 20,000-square-foot oceanfront County of Maui skatepark in central Kihei's Kalama Park, featuring a transition-focused concrete street course, a backyard-style pool bowl, a 24-foot-wide mini-ramp connected to a 9-foot vert ramp, and calm morning sessions before trade winds build.
+Location: Kihei, Hawaii, US
+Website: https://www.mauicounty.gov/Facilities/Facility/Details/320
+
+Set steps from the Pacific shoreline inside 36-acre Kalama Park in central Kihei, Kalama Skate Park is South Maui's primary public skatepark, spanning 20,000 square feet of oceanfront terrain maintained by the County of Maui Department of Parks and Recreation. For older skaters visiting or living on Maui, the park is backed by exceptional regional-park infrastructure—including 282 free parking spaces across four lots, five public restroom buildings, two outdoor rinse showers, picnic pavilions, and an adjacent 170-by-80-foot inline skating rink—and offers a reliable early-morning quiet window when coastal temperatures are cooler and trade winds have not yet picked up.
+
+The layout accommodates multiple styles and progression levels across distinct zones. Returning riders can start on the transition-oriented street course—using its mellow banks, roll-ins, spines, and quarter-pipes to get their feet underneath them—or work across the 24-foot-wide mini-ramp before eyeing the connected 9-foot vert ramp or the compact concrete bowl modeled on a backyard swimming pool. Keep several local rules and conditions in mind: the facility is unsupervised (wear a helmet, knee pads, elbow pads, and wrist guards), scooters and motorized devices are prohibited, and skating is not permitted when surfaces are wet. Plan sessions for the morning before midday sun and afternoon coastal winds build, and note that weekend mornings draw heavy Little League parking traffic around the main ballfield lots.
 
 
 ### Kamiloʻiki Skate Park
@@ -8030,6 +8080,16 @@ Located in Veterans Memorial Park, the Norfolk Skatepark is a smooth 14,500-squa
 For older skaters, the standout features are the mellow 4-to-6-foot bean-shaped bowl and the dedicated mini-ramp section, both of which provide lower-impact transition practice. The inclusion of park lighting ensures you can comfortably skate after dusk until the park closes for the night.
 
 
+### North Domingo Baca Skate Park
+A floodlit City of Albuquerque hybrid concrete and modular skatepark in the Northeast Heights open until 11pm in summer and 10pm in winter, featuring covered picnic seating, restrooms, mellow 2-to-4-foot banks, and a 5-foot half-pipe.
+Location: Albuquerque, New Mexico, US
+Website: https://www.cabq.gov/parksandrecreation/recreation/skate-parks/north-domingo-baca-skate-park
+
+Set inside North Domingo Baca Park in Albuquerque's Northeast Heights, this City of Albuquerque Parks & Recreation facility combines poured-concrete terrain with fixed modular structures under full overhead night lighting. For older skaters navigating high-desert heat and work schedules, the park's 7:00am summer opening and late evening lights—running until 11:00pm from May through August and 10:00pm from September through April—provide reliable dawn and post-sunset windows, supported by on-site restrooms, benches, and covered picnic tables next to the community center and dog park.
+
+The layout offers clear, approachable warmup lines before stepping up to larger street obstacles. Returning riders can start on the 2-foot to 4-foot banks, flat bars, ledges, 3-foot to 5-foot streetpipe, and 5-foot metal half-pipe before testing the euro gap or the 8-stair handrail and hubba. Note that the park is an unsupervised, skate-at-your-own-risk facility designed for shared use by skateboards, inline skates, and BMX bikes; city rules require helmets for riders under 18, strongly recommend full pads for everyone, and prohibit skating whenever surfaces are wet. Before heading up Wyoming Boulevard, stop by [Skate City Supply](/directory/shops/us/skate-city-supply-albuquerque-nm) on Eubank Boulevard for fresh bushings, bearings, or a setup tune-up, or pair your session with [Los Altos Skatepark](/directory/parks/us/los-altos-skatepark-albuquerque-nm).
+
+
 ### North Houston Skatepark
 At over 77,000 square feet, this massive concrete park provides dedicated beginner flow bowls and enough sheer space to find a quiet corner away from the crowds.
 Location: Houston, Texas, US
@@ -8048,6 +8108,16 @@ Website: https://oceancitymd.gov/oc/departments/recreation-parks/skate-park/
 Opened in June 1976 and operated by the Town of Ocean City Recreation and Parks Department, Ocean Bowl Skate Park is the oldest continuously operating municipal skatepark on the East Coast. Rebuilt into a modern 17,000-square-foot concrete complex at 3rd Street and St. Louis Avenue, the staffed park is particularly welcoming for older skaters returning to a board: you can book one-on-one private lessons for any age ($20 for residents, $25 for non-residents per 30-minute session with 1–2 days' notice, including free safety gear), join small-group beginner and intermediate classes in spring and fall, or take advantage of the discounted $8 morning session window from 9:00am to noon.
 
 The layout explicitly separates ability levels so you never have to warm up in advanced traffic. Start in the dedicated beginner area—built with a flat entrance, mellow banks, and small transitions—or work across the mini-ramp and the 11,000-square-foot open concrete street course of ledges, boxes, rails, and smooth connecting transitions before eyeing the large vert ramp or the tile-coped pool bowl with its shallow and deep ends. All riders must complete a municipal waiver and wear required safety gear, with helmets ($2), individual pads ($2), and full elbow/knee/wrist pad sets ($5) available to rent at the gate. Because the park closes at dark with no night sessions and restricts morning public entry until 12:30pm during select summer skate camp weeks, check the town schedule or call ahead before driving out.
+
+
+### Old Mountain Field Skate Park
+A floodlit municipal skatepark in South Kingstown's Old Mountain Field open until 10pm from May through October, pairing a repurposed former inline rink full of slappy curbs and flatground with a 4-foot concrete halfpipe and a 6-foot kidney bowl.
+Location: Wakefield, Rhode Island, US
+Website: https://www.southkingstownri.gov/facilities/facility/details/Old-Mountain-Field-6
+
+Set inside 60-acre Old Mountain Field in Wakefield—South Kingstown's oldest town park, complete with restrooms, parking off Old Mountain Road, and wooded reservoir walking trails—Old Mountain Field Skate Park ("OMF") is a multi-phase collaboration between South Kingstown Parks and Recreation, the town Skate Park Committee, and Rhode Island builder Jus Martel of Pivotal Concrete. For older skaters in southern Rhode Island, the park offers two major practical advantages: overhead floodlighting that stays on until 10:00pm from May through October (and until 8:00pm from November through April), and a multi-tier footprint that physically separates low-impact flatground from deeper transition terrain.
+
+Returning riders can warm up on the lower slab—a repurposed former inline skating rink famous locally as a slappy-curb haven, stocked with progressive angled and rounded slappy curbs, a low manual pad, flat bars, rainbow rails, a granite ledge, and low boxes—before rolling up the connecting exterior transition ramp to skate the 4-foot-high, 20-foot-wide Trevor Stoutenburgh memorial concrete halfpipe or the 6-foot-deep, 32-by-24-foot kidney-shaped concrete bowl. Because several flat bars and wooden kickers on the lower rink are movable, check obstacle placement before committing to a line, and note that the park is closed during rain or snow and shares its main parking lot with busy spring and summer baseball games. For a larger 10,000-square-foot Spohn Ranch plaza farther north, pair a South County session with [Neutaconkanut Skatepark](/directory/parks/us/neutaconkanut-skatepark-providence-ri) in Providence.
 
 
 ### Orlando Skate Park
@@ -8180,6 +8250,16 @@ Website: https://www.qskatepark.com/
 Located in the Stout Field industrial district about seven minutes southwest of downtown Indianapolis, Q Skatepark houses 20,000 square feet of indoor wooden terrain split across distinct street and transition rooms. That physical room separation makes it a forgiving year-round option for older skaters, who can warm up on the dedicated mini-ramp and smaller wooden banks without dodging full-speed street lines. The park also runs weekly one-hour Beginner and Intermediate group lessons for all ages every Wednesday at 6:00pm (as well as weekend mornings at 10:00am and 11:00am and $40 private lessons by appointment), and every lesson includes a full week of free open-skate admission afterward. Its community events even include a dedicated 35-and-over division during Game of S.K.A.T.E. tournaments.
 
 Note that the floor is closed to general open skate during Saturday and Sunday morning group lessons from 10:00am to 12:00pm, and you must RSVP the day before to join a group clinic. Every rider must complete an athletic waiver before stepping onto the course; helmets are mandatory for ages 17 and under and strongly recommended for everyone else ($2 helmet rentals and $3 board rentals are available at the counter, alongside free storage lockers). The park is open to skateboards, inline skates, quad skates, and scooters. If you want a full board evaluation or custom setup on the north side of the metro, stop by [Minus Skate Shop](/directory/shops/us/minus-skateshop-carmel-in) in Carmel, or pair your trip with an outdoor session at [Major Taylor Skatepark](/directory/parks/us/major-taylor-skatepark-indianapolis-in).
+
+
+### Raleigh Springs Civic Center Skate Park
+An 18,000-square-foot poured-concrete municipal skatepark at the 65-acre Raleigh Springs Civic Center in North Memphis, offering 6am daily openings, overhead evening lighting, and a broad street section separated from its deep bowl.
+Location: Memphis, Tennessee, US
+Website: https://memphisparks.com/park/raleigh-springs-civic-center/
+
+Anchoring the 65-acre Raleigh Springs Civic Center on the former Raleigh Springs Mall site—alongside a scenic walking-trail pond, a public library branch, and a municipal police precinct—this roughly 18,000-square-foot poured-concrete facility is Memphis's premier lit outdoor public skatepark. Unlike unlit daytime-only spots across the metro, Raleigh Springs provides overhead lighting for evening sessions as well as a 6:00am daily opening that gives older skaters a calm, cool morning window before Mid-South humidity peaks.
+
+The layout separates its street and transition zones so returning riders can progress at their own pace without crossing high-speed bowl lines. Start on the open flatground, low manual pads, flat bars, mellow banks, and street ledges before working toward the stair sets, handrails, and the deep concrete bowl and transition pocket. Because the park is a free, unsupervised municipal facility, keep Memphis Parks rules in mind: full protective gear (helmet, knee pads, and elbow pads) is recommended for older skaters and strictly mandatory for children under 12—who must also be accompanied by a supervising guardian—meaning after-school and weekend family traffic can build quickly. For climate-controlled indoor wood ramps, structured lessons, or fresh hardgoods and protective gear, pair a North Memphis concrete session with [Society Memphis](/directory/parks/us/society-memphis-tn) and its on-site [Society Memphis Shop](/directory/shops/us/society-memphis-tn) on Scott Street.
 
 
 ### Rhodes Skatepark
@@ -8721,7 +8801,7 @@ A cornerstone of Seattle skateboarding since 2001, now on Capitol Hill after sta
 Location: Seattle, Washington, US
 Website: https://35thnorth.com
 
-Owner Tony Croghan opened 35th North in 2001, and the shop has grown from a tiny University District room into one of the city's best-known skate stores. It is open 11am to 8pm Monday through Saturday and 11am to 5pm on Sunday, with discounted shipping for Washington residents and free shipping over $100 if you order online. Lower Woodland is the obvious park to pair it with, or hit up All Together Skatepark for indoor sessions.
+Owner Tony Croghan opened 35th North in 2001, and the shop has grown from a tiny University District room into one of the city's best-known skate stores. It is open 11am to 8pm Monday through Saturday and 11am to 5pm on Sunday, with discounted shipping for Washington residents and free shipping over $100 if you order online. [Lower Woodland Skatepark](/directory/parks/us/lower-woodland-seattle-wa) is the obvious outdoor Seattle park to pair it with, hit up [All Together Skatepark](/directory/parks/us/all-together-skatepark-seattle-wa) in Fremont for indoor sessions, or cross Lake Washington to [Bellevue Indoor Skate Park & Highland Skate Plaza](/directory/parks/us/bellevue-indoor-skate-park-wa) for Eastside wood ramps and lit concrete street lines.
 
 
 ### Cal Skate
@@ -8876,7 +8956,7 @@ Website: https://skatecitysupply.com
 
 Skate City Supply is one of the most established and trusted local core shops in Albuquerque. They carry a comprehensive range of skateboards, longboards, and protective gear, ensuring older skaters have access to high-quality equipment. 
 
-The shop is especially notable for its professional repair and maintenance services, making it a reliable stop to get a neglected setup rolling smoothly again. The staff are deeply rooted in the local community and can point you in the right direction if you're looking for lessons or group skates. Pair your visit with a session at [Los Altos Skatepark](/directory/parks/us/los-altos-skatepark-albuquerque-nm) nearby or head north up I-25 to [Genoveva Chavez Skatepark](/directory/parks/us/genoveva-chavez-skatepark-santa-fe-nm) in Santa Fe.
+The shop is especially notable for its professional repair and maintenance services, making it a reliable stop to get a neglected setup rolling smoothly again. The staff are deeply rooted in the local community and can point you in the right direction if you're looking for lessons or group skates. Pair your visit with a session at [Los Altos Skatepark](/directory/parks/us/los-altos-skatepark-albuquerque-nm) nearby, roll up to the Northeast Heights for evening lights at [North Domingo Baca Skate Park](/directory/parks/us/north-domingo-baca-skate-park-albuquerque-nm), or head north up I-25 to [Genoveva Chavez Skatepark](/directory/parks/us/genoveva-chavez-skatepark-santa-fe-nm) in Santa Fe.
 
 
 ### Society Memphis Shop
@@ -8884,7 +8964,7 @@ A core skate shop located directly inside the Society Memphis indoor skatepark, 
 Location: Memphis, Tennessee, US
 Website: https://www.societymemphis.com/
 
-Located conveniently within the [Society Memphis](/directory/parks/us/society-memphis-tn) indoor skatepark, this shop is perfectly positioned to get you rolling. They provide excellent advice for those returning to the board and foster a highly supportive local community.
+Located conveniently within the [Society Memphis](/directory/parks/us/society-memphis-tn) indoor skatepark, this shop is perfectly positioned to get you rolling. They provide excellent advice for those returning to the board and foster a highly supportive local community. If you want to take a new setup out onto lit public concrete after an indoor session, head north up Austin Peay Highway to [Raleigh Springs Civic Center Skate Park](/directory/parks/us/raleigh-springs-skate-park-memphis-tn).
 
 
 ### Southside Skateshop
