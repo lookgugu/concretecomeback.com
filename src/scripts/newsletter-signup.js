@@ -12,7 +12,7 @@ export const POPUP_DELAY_MS = 5000;
 export const GA4_MEASUREMENT_ID = 'G-VYW5FDDX52';
 // `newsletter_source` values for the server-rendered CTAs. Anything else falls
 // back to in_post, so a typo in markup can never put free text into analytics.
-export const INLINE_SOURCES = ['in_post', 'home_inline', 'parks_inline'];
+export const INLINE_SOURCES = ['in_post', 'home_inline', 'parks_inline', 'newsletter_landing'];
 const POPUP_SOURCE = 'popup';
 // Routes where the popup never initialises: the listing form, the signup result
 // pages, and the privacy policy the consent line links to.
@@ -318,8 +318,11 @@ export function bindNewsletterForm(panel, {
     if (onBusyChange) onBusyChange(value);
   };
 
+  let submitting = false;
   form.addEventListener('submit', async (event) => {
     event.preventDefault();
+    if (submitting || form.hidden) return;
+    submitting = true;
     const submitButton = form.querySelector('button[type="submit"]');
     if (submitButton) submitButton.disabled = true;
     status.textContent = 'Sending your confirmation email…';
@@ -356,6 +359,7 @@ export function bindNewsletterForm(panel, {
         document.dispatchEvent(new CustomEvent(SIGNUP_EVENT, { detail: { panel } }));
       } catch (_error) {}
     } catch (error) {
+      submitting = false;
       status.textContent = error instanceof Error ? error.message : GENERIC_ERROR;
       if (submitButton) submitButton.disabled = false;
       track('newsletter_signup_error', source);
@@ -375,7 +379,7 @@ export function showCompletedState(panel, state) {
   if (form) form.hidden = true;
   if (status) {
     status.textContent = state === 'subscribed'
-      ? "You're subscribed to the weekly roundup."
+      ? (panel.dataset?.newsletterSubscribedMessage || "You're subscribed to the weekly roundup.")
       : 'Check your inbox and confirm your subscription.';
   }
 }
