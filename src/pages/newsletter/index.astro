@@ -1,0 +1,46 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+import NewsletterInline from '@components/marketing/NewsletterInline.astro';
+---
+<BaseLayout
+  title="Newsletter for returning adult skaters"
+  description="Practical places, people and reads for your skateboarding comeback. Explore an illustrative sample and sign up to hear when the Concrete Comeback newsletter launches."
+>
+  <div class="max-w-3xl mx-auto px-4 sm:px-6 pt-8 sm:pt-12">
+    <header class="mb-6">
+      <p class="text-xs font-bold uppercase tracking-widest text-skate-orange mb-3">The Concrete Comeback newsletter</p>
+      <h1 class="font-display text-3xl sm:text-5xl text-concrete-900 leading-tight mb-4">Practical places, people and reads for your comeback.</h1>
+      <p class="text-base sm:text-lg text-concrete-600">Getting back on a skateboard after 40? Start here. Returning adults of every age are welcome.</p>
+    </header>
+    <NewsletterInline
+      source="newsletter_landing"
+      compact
+      eyebrow="In preparation"
+      heading="Hear when we launch"
+      description="We're preparing a weekly roundup of the week's best new reads and, when available, one practical idea for your weekend session. Delivery hasn't started; no first-send date is set."
+      buttonLabel="Keep me posted"
+      subscribedMessage="You’re signed up. We’ll let you know when the newsletter launches."
+      consentCopy="By signing up, you agree to receive a launch update and the planned weekly Concrete Comeback email. Confirm your email to opt in. Unsubscribe anytime."
+    />
+    <section class="mt-10 sm:mt-14" aria-labelledby="sample-title">
+      <p class="text-xs font-bold uppercase tracking-widest text-skate-orange mb-2">A taste of the planned roundup</p>
+      <h2 id="sample-title" class="font-display text-2xl text-concrete-900 mb-3">Before your next trip to the park</h2>
+      <p class="text-sm text-concrete-600 mb-6">Illustrative sample — never sent as an issue. These published reads show the kind of practical material we're planning to include.</p>
+      <div class="space-y-6">
+        <article class="border-t border-concrete-200 pt-5">
+          <h3 class="font-display text-xl mb-2"><a href="/blog/how-to-scout-a-skatepark-before-you-go/">Places: scout a park before you go</a></h3>
+          <p class="text-concrete-600">Get a feel for the terrain and check the practical details, from parking to shade, before making the trip.</p>
+        </article>
+        <article class="border-t border-concrete-200 pt-5">
+          <h3 class="font-display text-xl mb-2"><a href="/blog/finding-other-adult-skaters/">People: find other adult skaters</a></h3>
+          <p class="text-concrete-600">Local skate shops and community groups can be starting points for finding people to skate with.</p>
+        </article>
+        <aside class="rounded-xl bg-concrete-100 p-5" aria-labelledby="weekend-title">
+          <h3 id="weekend-title" class="font-display text-lg mb-2">One idea for the weekend</h3>
+          <p class="text-concrete-700">Pick one nearby park and check its parking and facilities before you head out. <a href="/blog/how-to-scout-a-skatepark-before-you-go/" class="underline">Read the scouting guide</a> for a short checklist.</p>
+        </aside>
+      </div>
+    </section>
+    <p class="mt-8 text-sm text-concrete-600">Prefer to explore now? <a href="/blog/" class="underline">Browse the latest reads</a> or <a href="/directory/parks/" class="underline">find a skatepark</a>.</p>
+  </div>
+</BaseLayout>

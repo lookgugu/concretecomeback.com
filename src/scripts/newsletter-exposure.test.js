@@ -708,3 +708,28 @@ test('submitted, pending and error are separate events from the impression, tagg
     ],
   );
 });
+
+test('newsletter landing is an explicit allowed placement and excluded from popups', () => {
+  assert.ok(INLINE_SOURCES.includes('newsletter_landing'));
+  assert.equal(isPopupExcludedPath('/newsletter/'), true);
+});
+
+for (const state of ['focused', 'edited', 'submitting']) {
+  test(`newsletter landing ${state} form suppresses popup even off screen`, async () => {
+    const p = page();
+    const popup = mountPopup(p);
+    const inline = mountInline(p, 'newsletter_landing');
+    p.intersect(inline.form, 0);
+    let pending;
+    let respond;
+    if (state === 'focused') p.focus(inline.email);
+    if (state === 'edited') { inline.email.value = 'skater'; p.fire('input'); }
+    if (state === 'submitting') {
+      global.fetch = () => new Promise(resolve => { respond = resolve; });
+      pending = inline.form.submit();
+    }
+    p.advance(60_000);
+    assert.equal(isOpen(popup), false);
+    if (respond) { respond({ ok: true, json: async () => ({ ok: true }) }); await pending; }
+  });
+}
