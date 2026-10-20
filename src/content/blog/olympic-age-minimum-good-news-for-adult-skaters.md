@@ -34,4 +34,4 @@ Your own skating doesn't need to be measured against a televised final, an age-g
 
 ## The bottom line
 
-An age floor on elite competition isn't a headline that should change anything about your Tuesday-evening session. But it's a useful, official confirmation of something worth internalizing anyway: skateboarding now runs on two genuinely separate tracks, one built for developing teenage athletes toward a competitive peak, and one that's simply yours for as long as you want it. The first one got a rulebook this year. The second one never needed one.
+An age floor on elite competition isn't a headline that should change anything about your Tuesday-evening session. But it's a useful, official confirmation of something worth internalizing anyway: skateboarding now runs on two genuinely separate tracks, one built for developing teenage athletes toward a competitive peak, and one that's simply yours for as long as you want it. The first one just got a rulebook. The second one never needed one.
