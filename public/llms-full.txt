@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-20T09:10:00.612Z
+# Date: 2026-10-20T09:16:07.997Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -3463,7 +3463,7 @@ If you've been putting off going back to the park because you weren't sure where
 ### The New Olympic Age Minimum Is Good News for Adult Skaters
 World Skate is raising the minimum competition age toward 14 by 2028. Here's what that split between elite youth skating and your own skating really means.
 
-Skateboarding's spot on the LA28 Olympic program has been carrying a quiet second storyline this year: World Skate, the sport's international governing body, has started phasing in a minimum age for its sanctioned competitions. The floor started at 11 in 2025 and rises by a year at a time, reaching 14 by 2028 — the same year the Games land in Los Angeles. It's a response to a real problem: elite skateboarding had started pulling in competitors young enough that governing bodies, athletes, and parents were raising welfare concerns about pushing developing bodies through high-level training and competition that early.
+Skateboarding's spot on the LA28 Olympic program has been carrying a quiet second storyline this year: World Skate, the sport's international governing body, has started phasing in a minimum age for the World Skateboarding Tour — the competition pathway that feeds Olympic qualification. The floor started at 11 in 2025 and rises by a year at a time, reaching 14 by 2028 — the same year the Games land in Los Angeles. (World Skate's Junior and Youth events run on their own, separate age floor, set at 12 from 2026 — this piece is about the Olympic-track rule, not every sanctioned age-group event.) It's a response to a real problem: elite skateboarding had started pulling in competitors young enough that governing bodies, athletes, and parents were raising welfare concerns about pushing developing bodies through high-level training and competition that early.
 
 If you're 45 and three months back into skating after a long break, none of that sounds like it should matter to you. I think it matters more than it looks like at first glance — not because you're affected by the rule, but because of what the rule says about where you actually stand.
 
@@ -4579,6 +4579,8 @@ The other half of the honesty is risk. Walking and swimming don't carry meaningf
 ## Getting the benefit without overpaying for it
 
 You don't need vert ramps or hard tricks to get most of this. Consistency on mellow terrain, done two or three times a week, delivers the bone loading, the balance training, and a meaningful chunk of the cardio benefit — especially if you build in stretches of continuous pumping rather than standing around between short attempts. Pair it with dedicated strength training on off days, since skating alone won't build the raw strength that protects your joints during the sport itself, and treat your gear and warm-up as part of the longevity investment, not an optional extra.
+
+That regimen assumes an ordinary fracture risk. If you have diagnosed osteoporosis or osteopenia, a prior fragility fracture, or another condition that raises your fall or fracture risk, talk to your doctor before adopting it — the bone-density benefit above is an extrapolation from general weight-bearing exercise research, not a proven skating-specific result, and for that group the fall risk deserves more weight than an unproven benefit. [The osteoporosis piece](/blog/osteoporosis-bone-density-skateboarding/) goes into where that caution actually belongs.
 
 ## The honest bottom line
 
