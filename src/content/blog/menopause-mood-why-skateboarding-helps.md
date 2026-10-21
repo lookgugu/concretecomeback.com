@@ -1,6 +1,6 @@
 ---
-title: "What Menopause Does to Your Mood, and Why Skating Fits It So Well"
-description: "Perimenopause and menopause reshape mood and motivation, not just joints — why skating's challenge-and-reward loop fits that shift unusually well."
+title: "Perimenopause, Mood Shifts, and Where Skateboarding Fits"
+description: "How perimenopause affects mood and sleep, what clinical guidelines recommend for treatment, and what recreational skateboarding can and cannot do."
 pubDate: 2026-10-14
 author: "Jo Fairweather"
 authorAge: 52
@@ -10,40 +10,18 @@ featured: false
 draft: false
 ---
 
-I've written before on this site about what perimenopause does to bone density, ligaments, and sleep. What I haven't written about is the part patients actually bring up first in clinic, almost every time: not their joints, but their mood. The flatness. The irritability that shows up for no clear reason. The sense of not quite recognizing their own emotional weather anymore.
+Our earlier guide to [perimenopause and your skating comeback](/blog/perimenopause-joints-and-skateboarding/) looked at how fluctuating estrogen affects bone density, tendons, and physical recovery. Many women in their forties and fifties also deal with broken sleep, irritability, and weeks where motivation drops — changes that affect a skate session before you ever step on a board. Putting skateboarding in the right place during this transition means separating clinical mood care from what a recreational habit can offer.
 
-That's the piece that usually gets left out of the "getting older" conversation entirely, and it's also the piece skating turns out to be unusually well suited to.
+## What clinical guidelines say about perimenopausal mood and exercise
 
-## What's actually shifting
+In 2018, an expert panel from The North American Menopause Society (now The Menopause Society) and the National Network of Depression Centers, led by Pauline Maki and Susan Kornstein, published [clinical guidelines on evaluating and treating perimenopausal depression in *Menopause*](https://pubmed.ncbi.nlm.nih.gov/30179986/). Their review confirmed that the menopausal transition carries an increased risk both for milder mood shifts and for new-onset or recurrent depressive episodes, often overlapping with night sweats and sleep disruption.
 
-Estrogen doesn't just affect reproductive tissue — it has receptors throughout the brain, including in regions involved in mood regulation, and it influences how serotonin and dopamine systems function. As estrogen fluctuates and then declines through perimenopause and into menopause, a lot of women notice mood changes that feel disproportionate to anything going on in their actual lives: more irritability, flatter affect, anxiety that arrives without an obvious trigger, motivation that's harder to access than it used to be.
+Those guidelines — along with the UK's [NICE menopause guidance (NG23)](https://www.nice.org.uk/guidance/ng23/chapter/Recommendations) — separate distinct clinical problems and their treatments. For diagnosed depression in perimenopause, proven front-line treatments in the 2018 guidelines are psychotherapy such as cognitive behavioral therapy (CBT) and antidepressant medication. For depressive symptoms that do not meet criteria for a diagnosis of depression, NICE advises considering hormone replacement therapy when those symptoms start around the same time as other menopausal symptoms, and considering menopause-specific CBT as an option when they occur alongside vasomotor symptoms like hot flashes and night sweats. Persistent low mood, anxiety, or fatigue can also stem from thyroid disease, iron deficiency, or primary sleep disorders, which require a doctor's evaluation rather than an exercise plan.
 
-That doesn't mean every mood change in your 40s and 50s has one neat explanation — stress, sleep problems, depression, and conditions like thyroid disease can all look similar and deserve their own evaluation rather than being waved off as "just menopause." But for a lot of women, perimenopause is a real, physiological contributor that doesn't get talked about as openly as hot flashes or irregular cycles, partly because mood symptoms are easier to dismiss or misattribute — to a bad week, a difficult relationship, just "getting older." Naming hormonal change as one real factor, without assuming it's the only one, is the useful first step, because it changes what you reach for in response and what you ask a doctor to help rule out.
+While general exercise is widely encouraged for overall midlife health, skateboarding may simply offer enjoyable movement and social time outdoors; clinical sources do not establish a skateboarding-specific treatment effect on menopausal mood symptoms or depressive disorders.
 
-## Why skating specifically helps
+## Pacing sessions when energy and sleep vary
 
-Exercise in general supports mood during this transition — that part isn't controversial, and most of the usual advice (get moving, build strength, protect your sleep) still applies. What's worth saying is why skateboarding, specifically, tends to land differently than a treadmill session or a yoga class for a lot of the women I see.
+Once persistent symptoms have been discussed with a clinician, the day-to-day question for a skater in perimenopause is how to adjust sessions when sleep and energy fluctuate from week to week. Skateboarding demands quick footwork and attention to the surface in front of you, and poor sleep or low energy can make any session harder to coordinate.
 
-**It demands your full attention.** You cannot ruminate while you're dropping into a bank or working on a carve. The sport requires enough real-time focus — where your weight is, what the board is doing, what's around you — that it crowds out the looping, anxious thought patterns that tend to dominate during a rough mood day. That's not a minor side effect. A reliable way to interrupt a spiral is worth more than most people give it credit for.
-
-**It's a genuine challenge-and-reward loop.** Skating gives you small, honest feedback constantly — you either rolled away from that or you didn't, your carve was smoother or it wasn't. That tight loop between effort and visible result is motivating in a way that's hard to manufacture artificially, and it matters more during a period when motivation itself is one of the things declining.
-
-**It rebuilds a sense of competence on your own terms.** A lot of the mood disruption in this transition comes bundled with an identity disruption — the sense that your body is becoming less predictable, less yours. Skating is one of the more direct ways to counter that: you're actively building a new skill, on a timeline you control, in a body that is visibly getting more capable at something. That's a different experience than simply "staying active."
-
-**It comes with people.** Isolation makes mood symptoms worse, consistently. A regular session with other skaters — even just showing up at the same quiet-hour slot each week — gives you built-in social contact that doesn't require the effort of arranging a dedicated social event. For a lot of women, especially those also managing the identity disruption of this life stage, that incidental community is doing real work.
-
-## What to actually do with this
-
-A few things I tell patients navigating this, specifically around skating:
-
-**Don't wait for motivation to show up before you go.** Perimenopausal motivation dips are real and physiological, not a sign you've stopped wanting this. Build the session into your calendar the way you'd build in a doctor's appointment — something you do regardless of how you feel walking out the door — and let the mood lift happen as a result of showing up, not as a precondition for it.
-
-**Track how you feel after, not just what you landed.** If you're only measuring progress by tricks learned, you'll miss the part that matters most right now. Notice whether you're sleeping better on skate days, whether your head feels clearer that evening, whether irritability softens. That data is just as real as a trick list, and for this particular season of life, it may be the more important one.
-
-**Treat bad sessions as information, not a verdict.** Mood instability during this transition can make a totally normal off day at the park feel like proof you're failing at this. It isn't. Some days the board just isn't cooperating and some days your nervous system is having a rough one independent of the board entirely — learning to tell those apart, and not quitting over the second kind, is its own skill.
-
-**Talk to your doctor about new or persistent mood symptoms, not just severe ones.** Skating helps, but it isn't a diagnosis or a substitute for medical care. A clinician can help sort out how much of what you're feeling is hormonal versus something else — depression, a thyroid issue, sleep deprivation — that has its own treatment. Don't wait until symptoms are severe or are affecting your ability to function to have that conversation; mild or moderate changes that are new or sticking around are worth asking about too.
-
-## The part worth sitting with
-
-Most of what gets written about menopause and exercise treats movement as damage control — something to hold off decline. The mental health piece is more interesting than that, because it's not really about prevention. It's about the fact that a sport built around focus, feedback, incremental competence, and community happens to counter almost exactly the symptoms this transition brings with it. That's not a coincidence worth skating through quietly. It's worth saying out loud, to anyone standing at the edge of this transition wondering if a skateboard has anything to offer them beyond bone density. It does.
+Scaling the plan to match the day works better than forcing high-commitment tricks or quitting altogether. If sleep debt or fatigue is impairing your focus and reaction time, skipping the skate session in favor of a walk or a full rest day is a legitimate call, applying the same flexible pacing covered in our [recovery days guide](/blog/recovery-days-for-adult-skaters/). On weeks when you feel rested enough to roll safely but motivation is flat, putting a brief session on the calendar — such as meeting another older skater during a quiet morning hour with no trick goals attached — keeps the habit going without asking a skateboard to do the job of medical care.
