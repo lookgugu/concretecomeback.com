@@ -1,6 +1,6 @@
 ---
 title: "How to Start a Skate Moms Crew in Your City"
-description: "A step-by-step playbook for starting your own adult skate crew — picking a park, setting a schedule, and getting past the awkward first session."
+description: "A practical guide to starting an older women's or skate moms meetup—picking a repeatable time, setting gear expectations, and pacing mixed skill levels."
 pubDate: 2026-08-24
 author: "Jo Fairweather"
 authorAge: 52
@@ -10,58 +10,34 @@ featured: false
 draft: false
 ---
 
-The [Brooklyn Skate Moms](https://www.instagram.com/brooklynskatemoms/) started as a few mothers skating together between school drop-off and work. In 2024 they were profiled by [CBS New York](https://www.cbsnews.com/newyork/news/brooklyn-moms-skateboarding/), Fox 5 and The New York Times, and other women in other cities started asking how to do the same thing where they live. What they built isn't complicated. It's a handful of women who show up to the same park at the same time most weeks, run a monthly event, and made it easy for other women to find them.
+The [Brooklyn Skate Moms](https://www.instagram.com/brooklynskatemoms/) started as a few mothers skating together between school drop-off and work. In 2024 they were profiled by [CBS New York](https://www.cbsnews.com/newyork/news/brooklyn-moms-skateboarding/), Fox 5, and The New York Times, and women in other cities began asking how to build something similar where they live. What they put together isn't complicated: a small group showing up at the same park at the same time most weeks, running a monthly meetup, and making it easy for newcomers to find them.
 
-You don't need a following to start one. You need a park, a time, and one other person willing to show up twice.
+Looking at a group like that as both a physiotherapist and a late returner, two things matter more than social media reach. First, the schedule and terrain have to fit people who are nervous or out of practice. Second, the group needs clear habits around protective gear and pacing before the first beginner ever steps onto concrete.
 
-## Why start your own instead of waiting to find one
+## Pick one park and a repeatable hour
 
-If there's already an adult skate crew or women's session near you, join it — that's the easier path. But a lot of towns and even a lot of cities don't have one yet, or have one that meets at a time that doesn't work for you. Waiting for the right group to appear is how a lot of people stay on the sidelines for years.
+If an older skaters' meetup or women's session already exists near you, check [our groups directory](/directory/groups/) and join that first. When nothing local fits your week, starting your own only takes picking one park, choosing a fixed time—say, Tuesdays at 9:00 a.m. after drop-off—and showing up for a month whether one person joins you or three do. A predictable slot saves everyone from the weekly group-chat negotiation that kills off most casual meetups.
 
-Starting your own doesn't require confidence you don't have yet. It requires picking a time and telling a few people about it. The confidence tends to arrive after a few sessions, not before.
+Choose a park with an open flatground area and gentle banks, even if bowls or steeper ramps sit nearby. A new group almost always mixes people who skated years ago with people standing on a board for the first time. Beginners need room to practice stepping on and off, balancing on the front foot while pushing, and braking with the back foot before they go anywhere near a slope. Keep daylight and dry ground in mind too, especially in autumn and winter; wet concrete and poor light make slips much harder to avoid.
 
-## Pick a park, then pick a boring, repeatable time
+## Set gear expectations before the first invite
 
-The park matters less than you'd think. What matters is that it's the same park every time, so people can build it into their week without checking a group chat first.
+The first sessions usually come from texting two or three women you already know from the school run, a neighbourhood group, or a fitness class. That initial message is the time to be direct about protective gear. Never invite someone who hasn't skated before to "just hop on a board for five minutes" in a car park without protection.
 
-Look for:
+An instincts-first fall onto an outstretched hand is one of the easiest ways for a beginner to break a wrist. In a widely cited [1996 *New England Journal of Medicine* case-control study of in-line skaters](https://pubmed.ncbi.nlm.nih.gov/8929359/), riders who did not wear wrist guards had substantially higher odds of wrist injury than those who did. That study looked at in-line skaters rather than skateboarders, so it does not prove exact injury rates on a skateboard, but the fall mechanism—putting a hand down hard against pavement—is the same reason rigid-splint wrist guards matter on a board.
 
-- **A flat or mellow section**, even if the park has bowls or vert terrain elsewhere. New and returning skaters need somewhere to warm up that isn't intimidating, and a crew with mixed skill levels needs common ground.
-- **A time that's genuinely repeatable for you** — a weekday morning after school drop-off, a Saturday before the park gets crowded. Boring and consistent beats exciting and occasional. A crew that meets "sometime on the weekend, we'll see" dissolves within a month.
-- **Enough daylight or lighting**, especially if you're starting in fall or winter. A session that gets rained out or dark on people twice in a row loses momentum fast.
+When you invite someone new, ask them to bring, borrow, or rent from a local skate shop:
 
-Pick one recurring slot — say, Tuesdays at 9am — and commit to showing up whether or not anyone else does, for at least the first month. You are the schedule until the schedule exists on its own.
+- **A certified skateboard helmet** (look for ASTM F1492 certification, which covers the back of the head and is designed for skateboarding impacts, unlike a standard road bike helmet).
+- **Wrist guards with rigid splints**, rather than soft padded gloves, as covered in our [safety gear guide](/blog/safety-gear-guide/).
+- **Knee and elbow pads** if anyone plans to try banks, mini-ramps, or transitions.
 
-## Start small, and start with people you already half-know
+Pads and helmets reduce the force of common falls, though they cannot prevent every injury. Practicing how to step off the board early—as soon as a roll feels unsteady—is just as important as what you wear.
 
-The first version of your crew doesn't need to be public. Text two or three women you already know a little — from the school run, from a fitness class, from a neighborhood group — and ask if they want to try skating together once. Low pressure, no commitment beyond one session. If anyone's never skated before, say so up front: a helmet is non-negotiable and wrist guards are worth having too, so let them know to bring or borrow both, or point them to a shop that rents gear, before they show up expecting to just hop on a board.
+## Pace the hour around the newest skater
 
-This first small group does two things: it makes the first real session less awkward, because you're not standing at a park alone waiting to see who shows up, and it gives you a couple of built-in regulars before you try to grow further.
+Once you have a few regulars, a simple Instagram page listing your city, park, day, and time is enough to help other women find you. Keep the focus on the session itself rather than turning the account into a second job.
 
-## Growing it without turning it into a project
+Group energy is helpful for confidence, but it can also nudge people into skipping their preparation or copying a trick they aren't ready for. Start every meetup with ten minutes off the board doing an easy [warm-up](/blog/warm-up-routine-for-adult-skaters/)—ankle circles and rocks, slow bodyweight squats, hip swings, and wrist circles—while everyone catches up. Make it explicit that the middle of the hour is self-paced: practising steady pushes on flat concrete is just as valid a session as carving a bowl corner.
 
-Once you have a small, steady group, an Instagram account is the easiest way to let other people find you. It doesn't need to be polished. A few photos or short clips from your regular session, a caption with the park name and the day and time, and a bio that says who this is for — "beginner-friendly, all ages, moms welcome, we meet Tuesdays" — does most of the work.
-
-Post after sessions, not instead of them. The account should document something that's already happening, not become a second job on top of it. Crews that grow well tend to treat social media as a side effect of showing up consistently, not the main strategy.
-
-## Handling "we're not pros"
-
-This comes up in almost every new crew, usually from someone who's worried about looking foolish in front of the others. The honest answer: nobody is there to watch anyone's tricks. A crew built around adults returning to skating is built around showing up, not performing.
-
-Say this explicitly, early and often, especially to new people. "We're all at different levels, nobody's watching your form" does more to keep a beginner coming back than any amount of encouragement about how fun it'll be once they're better.
-
-## Structure that keeps people coming back
-
-You don't need a curriculum. A loose shape works better than a rigid one:
-
-1. **First 10–15 minutes**: warm up, roll around, catch up. This is as much a social start as a physical one.
-2. **Middle stretch**: everyone works on whatever they're working on — pushing, carving, a specific trick, just getting comfortable on the board. People naturally end up helping each other without it being assigned.
-3. **Last few minutes**: wind down, talk about next time, make sure anyone new has a way to stay in the loop.
-
-Keep sessions to 60–90 minutes. Longer sessions ask a lot of people juggling drop-offs, work, and everything else in a week, and a crew that asks too much of people's time is a crew that thins out.
-
-## What actually keeps a crew alive
-
-Not enthusiasm — consistency. The crews that last are the ones where the founder keeps showing up on the boring weeks, not just the exciting ones with new people and good weather. If it's just you and one other person some Tuesdays, that's still the crew. Keep going.
-
-Eventually, you stop being the reason it exists. That's the sign it worked.
+Keep the whole meetup to about 60 to 75 minutes, and wind down while people's legs still feel steady rather than pushing until everyone is tired and rushing to leave. If you or someone joining the group has osteoporosis or osteopenia, a recent surgery, pelvic-floor concerns, or ongoing joint pain, check in with a doctor or physiotherapist before starting so your skating plan matches your own health history.
