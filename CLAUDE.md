@@ -123,6 +123,10 @@ curl "https://concretecomeback.com/api/forms/newsletter?health=1"
 
 **Any browser `fetch` to `/api/forms/*` must send `application/x-www-form-urlencoded`** — never a raw `FormData` object. DO Functions parses only JSON and form-urlencoded bodies into a web action's `args`; a multipart body arrives base64-encoded in `__ow_body` with a boundary the `URLSearchParams` fallback in each function cannot decode, so every field reads as undefined and the request fails validation. Use `body: new URLSearchParams(new FormData(form))` and let the browser set the content type. Unit tests that call `main()` with pre-parsed args cannot catch this; cover the encoded-body path instead.
 
+## Article engagement tracking and scorecard
+
+`src/scripts/analytics-transport.js` is the single GA4 route (`send_to`, dataLayer push, no `config`) for both `newsletter_*` and `article_*` events, and owns the QA suppression flag (`localStorage['cc-analytics-suppress'] = '1'`; GTM's own page_view is not suppressed). `BlogLayout.astro` marks the prose div `data-article-body` with slug/author/topic/word-count metadata and embeds the published-slug allowlist `#cc-article-allowlist`; `src/scripts/article-engagement.js` reads both — keep the newsletter CTA outside that div. The read-only GA4 report is `scripts/analytics/article_scorecard.py` (Python tests: `python3 -m unittest discover -s scripts/analytics -p 'test_*.py'`); article and newsletter event metrics stay UNKNOWN until `scripts/analytics/instrumentation-rollout.json` records a verified, complete rollout (validated; bump `TRACKER_VERSION` and that file together when the tracker's events change). Full detail in `docs/article-scorecard.md`.
+
 ## The weekly newsletter
 
 The roundup is **weekly** (it was monthly); every signup surface, the confirmation email and `/privacy` say so, and `src/scripts/newsletter-cadence-copy.test.js` keeps it that way. Full operator detail is in `docs/weekly-newsletter.md`.
