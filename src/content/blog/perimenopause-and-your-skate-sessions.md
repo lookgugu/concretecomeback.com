@@ -1,6 +1,6 @@
 ---
-title: "Skateboarding Through Perimenopause: What Changes and How to Adapt"
-description: "How perimenopause and menopause affect joints, bone density, and recovery — and how to adjust your skate sessions instead of quitting."
+title: "Perimenopause and Skate Sessions: Joint, Bone, and Recovery Adjustments"
+description: "A physiotherapist explains how perimenopause relates to joint pain, bone density, and sleep—and how to adjust skate sessions and know when to seek assessment."
 pubDate: 2026-09-18
 author: "Jo Fairweather"
 authorAge: 52
@@ -10,44 +10,29 @@ featured: false
 draft: false
 ---
 
-A patient told me last year that she'd started skating again at 47, felt great for three months, and then everything seemed to fall apart at once — her wrists ached differently, she was more sore than the session justified, and she couldn't tell if it was the skating or something else. It was both. She was also deep into perimenopause, and nobody had told her the two would interact.
+Most advice for skaters in their forties and fifties treats midlife aging as a uniform curve. For women skating through perimenopause and menopause, physiology rarely shifts at a single steady rate. Fluctuating and declining estrogen interacts with joint comfort, bone turnover, muscle mass, and sleep quality at the same time. Understanding what research actually measures—and where clinical evaluation matters more than self-management—helps you adjust your skate sessions safely.
 
-This is a gap in most comeback advice. Articles about returning to skating in your 40s and 50s are usually written as if every body is going through the same aging process at the same rate. For women in perimenopause and menopause, that's not true — hormonal changes affect the exact systems skating leans on, and knowing what's happening makes it much easier to adjust rather than assume something's wrong with you.
+## What changes in joints, muscle, and bone
 
-## What's Actually Changing
+In a [2024 review in *Climacteric*, Vonda Wright and colleagues](https://pubmed.ncbi.nlm.nih.gov/39077777/) introduced the term "musculoskeletal syndrome of menopause" to describe the collective musculoskeletal signs and symptoms associated with declining estrogen across perimenopause and postmenopause—including arthralgia (joint pain), loss of muscle mass, loss of bone density, and progression of osteoarthritis—noting that more than 70% of women experience musculoskeletal symptoms during the transition.
 
-Estrogen does more than regulate cycles. It plays a role in collagen production, bone remodeling, and how your body manages inflammation and temperature. As estrogen declines through perimenopause and into menopause, several things shift at once: connective tissue (tendons, ligaments) tends to become less resilient, bone density loss accelerates, sleep gets more fragmented for a lot of women, and joint aches that weren't there before start showing up. None of this is exotic — it's the same hormonal shift every skater's mother or older sister has gone through — but it's rarely connected to what happens on a board.
+Bone mineral density (BMD) trajectories across this window have been mapped in longitudinal analyses from the Study of Women's Health Across the Nation (SWAN). In a [2012 *Journal of Bone and Mineral Research* cohort study, Gail Greendale and colleagues](https://pubmed.ncbi.nlm.nih.gov/21976317/) found that lumbar spine and femoral neck BMD loss began one year before the final menstrual period (FMP), was greatest from one year before through two years after the FMP (termed the transmenopause), and decelerated—without ceasing—between two and five years after the FMP. A subsequent [2023 observational SWAN analysis by Greendale and colleagues in *The Lancet Regional Health – Americas*](https://pubmed.ncbi.nlm.nih.gov/37008197/) (where walking was the most common activity) found that greater increases in leisure-time physical activity from pre-/early perimenopause to late perimenopause/postmenopause were statistically significantly associated with a slower rate of femoral neck BMD decline, while larger study-wide average activity levels were associated with higher final femoral neck and lumbar spine BMD levels.
 
-## When a Knee or Wrist Feels Less Stable
+Those observational SWAN findings show associations with general leisure activity rather than causal proof, and they did not test skateboarding. While skateboarding is a weight-bearing activity ([discussed with its caveats in our bone-density guide](/blog/osteoporosis-bone-density-skateboarding/)), whether skateboarding itself slows bone loss or improves BMD in midlife women is untested and unproven. For someone with osteopenia or osteoporosis—which typically causes no symptoms prior to a fracture—falling on concrete carries a concrete fracture risk that an unproven skeletal benefit does not offset. Women who are postmenopausal or have risk factors for low bone density should discuss bone-density screening and activity choices with a physician rather than treating skateboarding as a bone-health intervention.
 
-Some returning skaters in perimenopause and menopause notice a knee or wrist that feels less stable than it used to — a wrist that tweaks more easily under a catch, a knee that feels less "held together" through a deep carve. It's tempting to chalk this up to the connective-tissue changes that come with this transition, but instability isn't something to self-diagnose. It can also be an orthopedic issue, a strength deficit, or something unrelated to hormones entirely, and only an actual assessment can tell you which. That's especially true for a joint that suddenly gives way or a new pain that wasn't there last month — a joint that feels like it might give way can mean an acute ligament, meniscal, or other injury, and skating on it is also a fall risk in the moment. Stop the session and get it looked at before you decide how to manage it going forward.
+## Separating transition symptoms from joint injury
 
-Even instability that's familiar and slow-building is worth getting checked once rather than managed on assumption. If a knee or wrist has been quietly less stable for a while and you haven't had it looked at, get it assessed before you settle into a routine of managing it yourself — a physio or doctor can confirm what's actually going on and rule out anything that needs more than warm-up and strength work. Once you've been assessed and there's nothing else going on, the practical response is to give the joint more support than you needed before, not to fear it: a longer, more thorough warm-up matters more now, not less; strength work around the joints you rely on most — wrists, ankles, knees, hips — helps the joint handle load better regardless of what's behind the change; and wrist guards stop being optional gear you might skip on a mellow day.
+Diffuse joint aching or stiffness can accompany the menopausal transition, but new pain, swelling, locking, or instability on a skateboard should never be attributed to hormones by assumption. If a wrist hurts sharply under load, or a knee feels unstable or gives way during a carve, stop the session and seek medical or physiotherapy evaluation. A joint that gives way can reflect an acute ligament, meniscal, or tendon injury and poses an immediate fall hazard if you keep riding.
 
-## Bone Density: A Real Category, Not a Proven Result
+Slower-building joint pain or recurring soreness also warrants a proper clinical workup rather than self-diagnosis. Because a physical exam alone cannot always distinguish hormone-related arthralgia from tendinopathy, cartilage pathology, or inflammatory joint disease, a physician or physiotherapist may combine a clinical history and movement examination with imaging, laboratory testing, or a monitored rehabilitation trial before clearing you to load the joint at the park.
 
-The menopause transition raises the risk of bone density loss, which is exactly the kind of thing that makes people nervous about a fall-prone sport. General bone-health research points to weight-bearing, impact exercise as the category most supportive of bone density, and skateboarding's pushing, landing, and impact loading belongs in that category. But that's a statement about the general category, not a proven result specific to skateboarding — nobody has studied whether a skating-specific bone benefit outweighs its fall risk for someone whose bone density is already low. Because bone loss during and after menopause is frequently silent, you could be in that higher-risk group without knowing it. That's not a reason to assume skating is off the table — it's a reason to treat "is this a good idea for my bones specifically" as a question for your doctor rather than something a blog post can answer for you, especially if you're already postmenopausal or have a personal or family history of osteoporosis.
+## Practical session and recovery adjustments
 
-## Sleep, Recovery, and Why Yesterday's Session Hits Harder
+When a clinician has ruled out acute or structural problems that require rest or medical care, modest adjustments help match your skating to day-to-day recovery:
 
-Disrupted sleep — from night sweats, from a mind that won't switch off, from any of the other things that show up in this transition — has a direct effect on how you recover from physical activity. Soreness lingers longer, focus is harder to find on the board, and a session that would have felt routine two years ago can leave you wrecked for two days. If you're finding recovery unpredictable in a way that doesn't match the effort you put in, sleep disruption is a more likely explanation than declining fitness.
+- **Warm up gradually off the board.** Give stiff ankles, knees, hips, and wrists time to move through comfortable, unweighted ranges—such as ankle mobility, body-weight squats, and hip hinges—before stepping onto concrete.
+- **Support joints with off-board resistance training.** Skateboarding loads the body asymmetrically and does not replace structured strength work. Progressive resistance training on non-skating days helps support muscle mass and strength around the hips, thighs, calves, and forearms, adapting at an individual pace rather than on a fixed calendar.
+- **Scale session demands after disrupted sleep.** Night sweats and fragmented sleep during perimenopause can increase fatigue, heighten pain sensitivity, and slow reaction time. After poor sleep, scale back to low-consequence flatground rolling or skip high-commitment obstacles rather than pushing through exhaustion.
+- **Wear protective gear without over-relying on it.** Using [a helmet, wrist guards, and knee pads](/blog/safety-gear-guide/) on every session is a sensible precaution, while recognising that protective gear has limits, cannot prevent falls or every injury mechanism, and does not substitute for choosing terrain within your current control.
 
-Mood swings are part of the same picture, and they cut both ways. Some days skating is the best regulator you have — physical, outdoors, absorbing enough to quiet everything else. Other days you won't feel like it, and that's not a discipline failure, it's a hormonal one.
-
-## Adjusting Your Sessions, Not Quitting Them
-
-A few practical shifts help more than any single supplement or gadget:
-
-**Warm up longer than you think you need to.** Ten minutes of dynamic movement before you push off is a better investment now than it was at 30.
-
-**Build in strength work between sessions.** Twice a week is enough to notice a difference in how joints feel under load within a month or two.
-
-**Track your own pattern instead of comparing to last year.** Recovery is less predictable during this transition, so a session log that notes sleep, soreness, and mood alongside what you actually did on the board tells you more than memory will.
-
-**Don't skip the gear you used to consider optional.** Wrist guards and, on rough days, knee pads aren't overcaution — they're matched to where your joints actually are right now.
-
-## When to Get It Checked
-
-New pain or new instability of any kind belongs in front of a physio or doctor, not triaged by how it behaves — a problem that eases temporarily as a joint warms up isn't automatically the harmless kind, and it can still be a tendon, cartilage, or inflammatory issue rather than an ordinary ache. A pain you already know, that's been assessed before and behaves the same way every time, is a different matter and the kind ordinary warm-up and rest can reasonably manage. And if bone density is a specific concern for you, that's a conversation for your doctor, not something to self-manage based on a blog post — skating can be part of a bone-healthy routine, but it isn't a replacement for whatever screening or treatment your own history calls for.
-
-None of this is a reason to stop. It's a reason to skate the way your body actually is right now instead of the way you remember it being. That's true at every age, but this particular transition changes enough at once that it deserves to be named instead of quietly worked around.
+If you experience new or worsening joint symptoms, have questions about bone density, or want guidance on managing perimenopausal symptoms alongside exercise, consult a physician or qualified healthcare professional for individualised advice.
