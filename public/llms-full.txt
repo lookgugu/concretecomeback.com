@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-16T09:30:07.692Z
+# Date: 2026-10-21T18:49:02.877Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -687,40 +687,32 @@ Use it as a logging and feedback layer on top of training you'd be doing anyway,
 The honest answer I gave my patient: try one if the idea appeals to you, treat whatever it tells you as a second opinion rather than a verdict, and don't let a subscription replace the one thing no app does yet — someone physically present who can tell you to stop before you get hurt, not after.
 
 
-### Carissa Moore Came Back After a Baby. What 'Back' Actually Means
-Carissa Moore returned to pro surfing after having a baby. Her approach to pacing and expectations applies directly to any adult skating comeback.
+### Carissa Moore's 2026 Return and What 'Back' Actually Measures
+Carissa Moore returned at Bells Beach in 2026. A physiotherapist looks at how sports medicine separates participation, sport, and performance.
 
-Carissa Moore, a five-time world surfing champion, stepped away from competition after the 2024 Olympics to become a mother. In late 2025 the World Surf League announced she'd received a wildcard back onto the Championship Tour for 2026, and she opened her season at Bells Beach this year — her first tour event in two years. By most accounts she showed little sign of rust, winning her opening heat. By her own account, simply putting the competition jersey back on after having a baby already felt like a win, before a single wave was scored.
+When five-time world surfing champion Carissa Moore paddled out for her opening Round 1 heat at the Rip Curl Pro Bells Beach on April 4, 2026, two different definitions of "back" appeared in the same outing. Moore had last competed at a major event at Teahupo'o in the 2024 Paris Olympics, gave birth to her daughter 'Olena in February 2025, and [accepted a World Surf League season wildcard](https://www.olympics.com/en/news/surfing-olympic-champion-usa-carissa-moore-competition-comeback-after-giving-birth-la28) in November 2025. In Round 1 Heat 6 at Bells, she posted a 7.50 single-wave score to defeat Sawyer Lindblad 11.50 to 8.00 and [advance in her return to tour](https://www.theguardian.com/sport/2026/apr/08/world-surf-league-family-friendly-parents-tour); speaking afterward, she recalled not being able to walk to the mailbox a year earlier after giving birth and said that [simply putting the jersey on and walking down the stairs at Bells already felt like a win](https://www.surfnewsnetwork.com/50th-year-of-world-tour-set-to-kick-off-at-rip-curl-pro-bells-beach-presented-by-bonsoy-april-1-11/).
 
-I see a version of that sentence constantly in clinic, minus the world titles. An adult comes back to skating after time away — a pregnancy, a surgery, a long illness, just life — and the question underneath everything they ask me isn't really about technique. It's "what does 'back' even mean now." Moore's return is a useful, very public answer to that question, and it applies well beyond surfing.
+Sports coverage often folds those two milestones—winning the heat and pulling the jersey back on—into a single headline that an athlete is "all the way back." In physiotherapy and sports medicine, they describe different points on a return scale. For an older skater returning after surgery, pregnancy, injury, or years off the board, separating what each milestone actually measures helps avoid treating day one at the park as an all-or-nothing test.
 
-## "Back" doesn't mean where you left off
+## How return-to-sport consensus defines "back"—and its limits
 
-The quiet trap in any comeback is measuring yourself against the version of you that stopped, rather than the version of you that's starting again. Moore didn't return to the tour expecting to surf straight back into her pre-pregnancy form. Pregnancy and birth change a body's core strength, joint laxity, cardiovascular baseline, and recovery capacity in ways that don't just reverse themselves the moment you decide you're ready to compete again — rebuilding that is a real physical process, not a formality.
+The [2016 Bern consensus statement on return to sport](https://pubmed.ncbi.nlm.nih.gov/27226389/), led by Clare Ardern and published in the *British Journal of Sports Medicine*, moved clinical practice away from treating "return to sport" as a single yes-or-no clearance date. Instead, the authors described a three-part continuum alongside a risk-assessment framework (the Strategic Assessment of Risk and Risk Tolerance, or StARRT):
 
-The same is true, in a smaller way, for almost anyone coming back to skating after a real break. Months or years away don't just cost you sharpness; they change the baseline you're rebuilding from, especially if the time away involved its own physical event — a surgery, a pregnancy, a long illness, a period of real inactivity. Treating your first sessions back as a continuation of where you left off, rather than the start of a new build, is one of the more reliable ways to get hurt or get discouraged fast.
+1. **Return to participation:** the person is physically active again—taking part in rehabilitation, modified training, or lower-demand activity—at a level below their full sport demands.
+2. **Return to sport:** the person has returned to their defined sport and environment, but is not necessarily performing at their previous level.
+3. **Return to performance:** the person has returned to their sport and is performing at or above their pre-break level.
 
-## Redefining the win changes what you're allowed to feel good about
+The Bern consensus was written for clinicians managing athletes after musculoskeletal injury, and its limits for an older recreational skateboarder are important to state plainly. Clinic strength or hop tests do not replicate a skateboard wheel catching a pebble on concrete, and a consensus continuum cannot predict whether a wrist, shoulder, or hip will tolerate an awkward fall.
 
-What stands out in how Moore has talked about this return is that the win she named first wasn't a result. It was showing up at all — pulling the jersey back on. That's not a throwaway line; it's a genuinely useful way to structure a comeback.
+What the framework does offer is clarity about what a single outing measures. At Bells Beach, pulling on the jersey and walking down the stairs marked Moore's return to competitive participation and environment; the Round 1 win recorded how judges scored two waves in a single opening heat. Neither moment, on its own, measured how her body would hold up across an entire tour season.
 
-If the only thing that counts as success is matching your old performance, early sessions back are set up to feel like failures by definition, because they almost always fall short of where you left off. If the win is redefined as smaller, real things — showing up, completing the session, trying the thing you were nervous about — you get to feel actual progress much sooner, and that feeling is what keeps most people coming back for session two and three. [Building confidence at 40](/blog/building-confidence-at-40/) covers this same mechanism from a different angle: confidence tends to follow small completed wins, not the other way around.
+## Applying the three stages to a skateboarding return
 
-## Pacing a comeback after a major physical event
+When an older skater steps onto a board after a long gap, lands an old flatground trick in the first ten minutes, and concludes they are "back," they are treating one successful execution as a measure of overall readiness. Landing a movement once shows only that you executed it once; it does not tell you how many repetitions your joints will tolerate in a full session or how reliably you can step off when tired.
 
-A pregnancy and a long health-related break from skating aren't the same thing medically, but the practical pacing lessons overlap more than you'd expect.
+If your break involved pregnancy, surgery, or a significant injury, start with medical clearance from the clinician who treated you before stepping back on a board. Once cleared, the Bern continuum translates into three separate skateboarding benchmarks: **return to participation** is controlled flatground rolling—pushing, carving gentle arcs, foot-braking smoothly, and stepping off at a moderate speed in a properly fitted helmet and wrist guards. **Return to sport** means re-entering your usual park environment and building session time while logging flatground rolling separately from higher-impact attempts such as ollies, curb drops, or steeper transitions. **Return to performance**—testing old tricks or pre-break lines—belongs after routine sessions feel controlled, a progression that matches how [building confidence at 40](/blog/building-confidence-at-40/) approaches the mental side.
 
-**Get real clearance before you load anything hard.** Moore's return followed medical guidance specific to postpartum recovery, not a personal sense that enough time had passed. If your own break involved a surgery, a significant injury, or a pregnancy, the same rule applies: get an actual green light from whoever treated you before you put weight through a board again, not just a feeling that you're probably fine.
-
-**Rebuild the boring stuff before the fun stuff.** Core stability, balance, and basic cardiovascular capacity are unglamorous, and they're also exactly what carries you through a season of skating without a flare-up or a fall you weren't braced for. Give yourself real weeks of that groundwork rather than skipping straight to the park because the boring part feels like it's not "actually" skating yet.
-
-**Expect a nonlinear return, not a steady line up.** A good session followed by a rough one isn't a sign something's wrong — it's the normal shape of rebuilding a physical skill after a real gap, especially when your body is also managing new demands, whether that's sleep deprivation from a newborn or simply deconditioning from time away. Track trend over weeks, not how any single session felt.
-
-**Let your support system know what you're doing, and why.** Moore's return happened with her family present and part of the story, not hidden from them as something separate from her new role. Whatever your version of a support system looks like — a partner, a friend, a session buddy — naming the comeback out loud to them tends to make the logistics and the motivation both easier to sustain.
-
-## The actual lesson isn't about surfing
-
-Nobody needs to be a five-time world champion for this to apply. The lesson is in the sequencing: real medical readiness first, unglamorous groundwork second, redefined wins all the way through, and a support system that knows what you're rebuilding and why. Measured that way, "back" stops being a single finish line you either hit or miss, and starts being something closer to what it actually is — a direction you're moving in, one real session at a time.
+Even then, feeling fine during a session or the next morning is not a medical clearance to jump straight to harder terrain. Mild next-day muscle soreness can follow any unfamiliar activity, while tracking how your ankles, knees, hips, and back feel over the following forty-eight hours helps you decide whether to hold session volume steady or dial it back. Sharp pain, joint swelling, locking, or a sense of giving way is a reason to stop and have a physiotherapist or doctor assess the joint before you skate again.
 
 
 ### Carving First: The Skill Adult Returners Always Skip
@@ -2889,42 +2881,26 @@ If you want the staged version built specifically for a skateboarding comeback r
 Slater's run in Tahiti ended in a loss, same as most comebacks eventually hit a wall of some kind. He's already said he hopes for another wildcard at Pipeline in December. That's maybe the most transferable lesson of all: a comeback isn't one result. It's a position you keep choosing to stay in.
 
 
-### Why Watching Your Kid's Skate Lesson Is How So Many Adults Start
-The most common path into adult skateboarding isn't a midlife crisis. It's standing at the fence watching your kid's lesson and wanting a turn.
+### Starting to Skate at 45 When Your Kid Takes Lessons: Separating the Hours
+When a parent starts skateboarding while their child is in lessons, mixing supervision with beginner practice can short-change both. How to plan the hours.
 
-Almost every week at our sessions, someone tells me a version of the same story. They brought their kid to lessons. They stood at the fence with a coffee, watching. Three, four, six weeks in, they caught themselves wanting to be the one rolling across the flat ground, not just the one supervising from the bench.
+Stepping onto a skateboard as a beginner at 45 asks for steady attention: where your weight sits over the front truck, how your back foot meets the ground when you brake, and who is crossing the concrete ahead of you. Being the responsible parent on site during a child's group skate lesson asks for a different kind of attention. When a parent tries to squeeze their own first beginner practice into the margins of a child's forty-five-minute lesson slot, both roles get harder to do well.
 
-That's not a coincidence, and it's not just our park. It's become one of the most common on-ramps into adult skating, and it deserves to be named as its own thing — not a subset of "skating with your kids" and not a footnote to parenting. If this is where you are right now, here's what that specific path looks like and how to actually walk it.
+Combining them looks convenient on a family calendar. You are already driving to the skatepark or indoor facility, signing the check-in sheet, and standing near the floor while an instructor works with the group. Bringing a board of your own—or borrowing a shop loaner to roll around the perimeter while class runs—can look like the simplest way to try skating without adding another trip to the week.
 
-## The fence is doing more than you think
+How well that works in practice depends heavily on the facility's rules and layout. Many indoor parks, municipal recreation programmes, and private coaching clinics require a parent or guardian to stay on-site and reachable for younger children—ready to step in for a bathroom break, a loose helmet strap, a forgotten water bottle, or a fall that needs a parent's comfort while the coach stays with the rest of the group. If you are across the park in [a helmet and wrist guards](/blog/safety-gear-guide/) concentrating on your own first pushes, you are slower to respond when your child needs a parent on the bench, and you are practising with half your attention on the class.
 
-There's a reason this happens at the fence and not, say, while watching a kid's lesson from the car. Standing close enough to see the coaching cues — "bend your knees," "look where you're going, not at your feet," "small pushes, not one big one" — does something that watching from a distance doesn't. You're absorbing the same instruction your kid is, except you're not the one being asked to perform it in front of other eight-year-olds. By the time you've watched four or five sessions, you've unconsciously picked up more usable technique than you'd get from most "how to start skateboarding" articles, including the ones on this site.
+Space can be just as tight as attention. Depending on the size of the park, a youth group lesson often reserves the smoothest flatground or the mellowest banks so students have a predictable zone to drill in. In smaller facilities, an adult beginner who tries to skate during the youth class hour may find the easiest terrain spoken for, leaving only steeper transitions, faster traffic lines, or rough car-park asphalt outside the gate.
 
-The other thing happening at the fence is permission. A lot of adults who end up back on a board didn't grow up thinking of themselves as skaters, or did once and filed it away as a teenage thing. Watching your own kid be bad at something, get frustrated, and improve anyway — in a space that's explicitly built for beginners — quietly dismantles the idea that skating only belongs to people who are already good at it. If an eight-year-old gets to fall down in public and try again, so do you.
+## Practical ways to separate supervision from your own practice
 
-## What's actually different about this entry point
+As someone who came back to skating at 40 and helps organise adult sessions, I think a beginner session is much more welcoming when no one on the floor has to split their focus between learning to stand on a board and supervising a child. That practical separation comes before [skating alongside your kids in a shared family session](/blog/skating-with-your-kids/) and before [owning the identity shift of being a skating parent](/blog/skate-dad-identity-shift/). Shared family sessions work best once both of you can push, turn, and stop comfortably; while you are still learning those basics, separate windows make life easier for everyone.
 
-This site has covered [skating alongside your kids once you're both already doing it](/blog/skating-with-your-kids/) and the [identity shift of calling yourself a skate dad](/blog/skate-dad-identity-shift/) instead of just a bystander. This is the step before either of those: you're not skating yet. You're deciding whether to.
+Check the lesson programme's supervision policy before you bring your own gear. If the park requires a parent on standby for your child's age group—or if your child likes having you watching from the viewing area during class—treat that lesson hour strictly as parenting time and leave your board in the car. You can still use a few minutes before check-in or after the coach dismisses the group to ask staff about your own options: which weekday hours have the lightest traffic, whether the facility hosts an older-beginner clinic, or whether you can rent a complete to test [what deck width and wheel softness suit you](/blog/what-board-size-for-adults/) before buying. If you want a short private lesson with the same instructor, booking it in a separate slot lets the coach focus on your stance without a child waiting on the bench.
 
-The honest answer is that this entry point has real advantages over showing up cold. You already know the park's layout, because you've been there every week for lessons. You already know the vibe of the place and whether it's welcoming or cliquish. In a lot of cases, you already know the coach's name, and "could I grab fifteen minutes sometime, just the basics" is a much smaller ask than cold-calling a stranger for lessons. Use that. The relationship is already half-built.
+Finding your own practice window doesn't have to mean doubling your family's trips to the park every week. When two families have kids in the same Saturday class and the programme allows a designated guardian to cover both children, parents can trade supervision every other week—one stays by the lesson area while the other skates a quiet corner of the park or takes an adult lesson, then swaps the next Saturday. Where that arrangement doesn't fit, a single [early-morning weekday session](/blog/dawn-patrol-morning-skating-after-40/) or a local adult skate night gives you open flatground without anyone needing you to manage their water bottle.
 
-## How to actually make the jump
-
-**Ask for five minutes, not a lesson — helmet and wrist guards on, coach still watching.** You don't need to book a session to find out if this is for you. At the end of your kid's lesson, ask the coach if you can borrow a board, a helmet, and wrist guards, and try pushing and turning for five minutes while they're still there to keep an eye on you. "Low stakes" means a small, supervised test, not skipping the gear a first-timer needs — see [the safety gear guide](/blog/safety-gear-guide/) if you're not sure what fits. Five protected, supervised minutes will still tell you more than a week of thinking about it would.
-
-**Buy nothing until you've done that.** It's tempting to show your commitment by buying a full setup before you've rolled an inch. Resist it. Borrow your kid's spare board, a friend's, or the park's loaner gear if it has any, for at least your first couple of tries. [What board size to actually buy](/blog/what-board-size-for-adults/) matters a lot once you know you're staying, and almost nothing before that.
-
-**Separate your sessions from theirs, at least at first.** It's appealing to think you'll learn together, but a wide skill gap between a coached eight-year-old and a true beginner adult makes shared sessions frustrating for both of you early on. Go back on your own, or find [a short lunch-break or early-morning window](/blog/dawn-patrol-morning-skating-after-40/), and build your own basic push, turn, and stop before you try to share the park with your kid as a peer rather than a chaperone.
-
-**Expect to feel self-conscious, and keep going anyway.** Standing on a board in a park full of kids half your age, after weeks of watching from the sideline, is genuinely awkward for most adults the first few times. That feeling fades faster than people expect — usually within two or three sessions — once you realize nobody there is actually paying attention to you the way you're paying attention to yourself.
-
-**Tell your kid what's happening.** Kids notice when a parent starts showing up with a board, and the dynamic works better when it's named rather than discovered. "I've been watching you do this for weeks and I want to try it too" is a fine, simple thing to say, and it usually gets met with more enthusiasm than you'd expect.
-
-## It doesn't have to become a whole thing
-
-Not every parent who tries this sticks with it, and that's fine. Some people take their five minutes, confirm skating isn't for them, and go back to being a very good spectator. Others get hooked in a way that surprises them. Either outcome is a reasonable answer to a question you can really only answer by standing on the board yourself.
-
-What's worth noticing, if you're currently the person at the fence with the coffee, is that the want is already information. Plenty of adults talk themselves out of trying by deciding it's silly to start something their kid is already better at. It isn't. Your kid being ahead of you on a skateboard is not a reason to stay on the bench — it's the reason you ended up standing at that fence in the first place.
+Separating those hours changes how people share the park when you are there. On lesson days, the coach has a clear floor and your kid has an attentive parent on the sideline. And when you show up for your own session, the other older skaters on the flatground can trade a nod, give you room to practise a foot-brake, and skate alongside you as another beginner—not a parent on the clock.
 
 
 ### Does Wearing a Knee Brace Mean You're Giving Up? An Honest Answer
@@ -5540,42 +5516,16 @@ That's different from genuinely impaired. If you're noticeably drowsy, catching 
 None of this requires a sleep tracker or a sleep hygiene overhaul. It requires treating sleep as part of your training plan rather than something that happens off to the side of it: a consistent bedtime and wake time, caffeine and alcohol handled with the same care you'd give your warm-up, and enough attention to notice if a real sleep problem is developing rather than just aging around it. Get that right and the same number of sessions per week will leave you less sore, progressing faster, and safer on the days that actually matter.
 
 
-### Stephanie Gilmore's Comeback: Not to Prove Anything, Just Missing It
-Stephanie Gilmore returned to pro surfing at 38 for one reason: she missed it. What that motivation looks like for adults who feel past their best.
+### Stephanie Gilmore at 38: Coming Back Just Because She Missed It
+Stephanie Gilmore returned to the WSL tour in 2026 after two years away—not from surgery, just missing it. A short note on uneven returns.
 
-Most comeback stories in sports get framed around a wound. An athlete gets hurt, or gets written off, or hits a low point, and the comeback is the redemption arc that follows. [Kelly Slater's return at 54](/blog/kelly-slater-comeback-lessons-for-adult-skaters/), which this site covered a few weeks ago, fits that shape — hip surgery, recovery, a wildcard, a statement result. Stephanie Gilmore's comeback doesn't fit it at all, and that's exactly why it's worth a second post.
+Wanting to roll again rarely sounds like a serious enough reason to pull a skateboard out of storage. Adults often feel a return needs a weightier excuse—a health warning, a [disruption in a weekly routine](/blog/life-disruptions-best-time-to-return-to-skating/), or a structured fitness goal—rather than simply missing the feel of a board underfoot. Right behind that hesitation sits a second judgement a returning skater is often tempted to make: treating a clumsy first session or two as proof that the break was too long.
 
-Gilmore, an eight-time world surfing champion, stepped away from full-time competition for two years and came back on a wildcard for the World Surf League's Championship Tour this year, at 38. There's no injury in that story. There's no score to settle. By her own account going into the season, she wanted to test herself against the tour's younger talent again and chase a ninth world title — in other words, she came back because she missed doing the thing, not because something forced her hand.
+Eight-time world surfing champion Stephanie Gilmore's 2026 return to the World Surf League Championship Tour tests both assumptions against an actual season record. Unlike [Kelly Slater's return at 54 following hip surgery](/blog/kelly-slater-comeback-lessons-for-adult-skaters/), Gilmore was not marking the end of a surgical rehabilitation when she accepted a 2026 season wildcard at 38 after sitting out the 2024 and 2025 tours. Going into the year, she said she had missed competing and wanted to test herself against the tour's younger field again.
 
-It hasn't been a storybook season, and that's what makes it worth following rather than just citing. She went out early in the first two events back, the kind of result that would be easy to read as proof a two-year layoff had cost her too much. Then, at her home break at the Gold Coast, she won the whole event — her 34th Championship Tour win and seventh Gold Coast Pro title, nine years after her last one there. A first-round loss at Lower Trestles in September kept her outside the top 14 cut, which ended her run at a ninth world title for this season; the remaining stops and the December finale at Pipe will decide the championship without her.
+Her results across 2026 did not follow a tidy arc. She lost in the opening rounds at the first two Australian stops in April—to Luana Silva at Bells Beach and to Erin Brooks at Margaret River—before [beating Silva in the final of the Bonsoy Gold Coast Pro at Snapper Rocks in May](https://www.theguardian.com/sport/blog/2026/may/04/steph-gilmore-wins-world-surf-league-gold-coast-surfing-championship) for her seventh Gold Coast title and [34th career Championship Tour victory](https://www.foxsports.com.au/surfing/surfing-2026-incredible-scenes-as-steph-gilmore-wins-gold-coast-pro-for-seventh-time-on-wsl-tour-video-latest-news/news-story/23b598a6a1e3fa0c51b3bca63094929f), nine years after her previous win there. Four months later, on September 11 at the [Lexus Trestles Pro at Lower Trestles](https://www.surfnewsnetwork.com/lexus-trestles-pro-brings-world-title-race-back-to-southern-californias-high-performance-playground/), a [10.90 to 10.10 Round 1 loss to Brisa Hennessy](https://www.swellnet.com/news/form-guide/2026/09/13/2026-trestles-pro-day-1) left Gilmore outside the top-14 cut and ended her mathematical shot at a ninth world title.
 
-For adult skaters coming back to a board after years away, that distinction matters more than it might seem.
-
-## The gap between "I have to" and "I want to"
-
-A lot of comeback narratives, including plenty of the ones on this site, start from necessity: a health scare that demands more movement, a divorce that opens up a Tuesday night, a layoff that leaves a strange empty afternoon. Those are legitimate and common starting points, and [this site has made the case for using them](/blog/life-disruptions-best-time-to-return-to-skating/). But they can also quietly imply that wanting to skate again isn't, on its own, a good enough reason — that you need a crisis or a deficit to justify it.
-
-Gilmore's framing pushes back on that directly. She's not coming back because her career needs rescuing or her body needs rehabilitating. She's coming back because, after stepping away, she found she still wanted it. That's a motivation with nothing to prove to anyone, and it's just as legitimate a reason to get back on a board as any harder-edged one.
-
-If your own return to skating doesn't have a dramatic backstory — you're not recovering from anything, nobody pushed you into it, you just miss how it felt — that's not a less valid comeback. It might be the simplest and most durable one, because it isn't tied to proving a point you could eventually feel you've already made.
-
-## Competing against people half your age isn't the obstacle it looks like
-
-Part of what makes Gilmore's return notable is that she didn't just rejoin a tour — she rejoined one stacked with surfers a decade or two younger, chasing a title against competitors who grew up idolizing her. Going in, she framed that directly as something she was looking forward to, not something she was bracing for.
-
-That's a useful model for any adult walking back into a skatepark that's mostly teenagers. The instinct is to treat the age gap as a liability — something to apologize for or avoid by skating at off-hours forever. Gilmore's approach suggests a different frame: the age gap is just a fact about who else is there, not a verdict on whether you belong. You're not required to be as good as the sixteen-year-old in the bowl to have a legitimate reason to be in it. You're there because you want to be, the same reason she gave for walking back onto tour.
-
-## What "testing yourself" can mean without a title on the line
-
-Nobody reading this is chasing a world championship, and that's fine — the useful part of Gilmore's story isn't the stakes, it's that the season's actual ending doesn't retroactively make the comeback a failure. The ninth title didn't happen this year. Neither did the two early exits erase the home-break win in between, and neither the win nor the elimination changes why she came back in the first place. If the whole comeback had been about the trophy, missing the cut at Trestles would be the story. It isn't, because the trophy was never actually the point.
-
-That's exactly the question most adult returners are quietly asking themselves at the top of a mini-ramp or the edge of a bowl: not "can I still be as good as I was," but "what am I actually still capable of, right now, at this age, with this body." You don't need a world tour to ask that question honestly, and you don't need the season to end in a title for the asking to have been worth it. You need to be willing to find out, uneven results included, the same way she was.
-
-## The permission in not needing a reason
-
-If you've been putting off a return to skating because you can't point to a clean justification — no injury to recover from, no life event that forced it, just a persistent, low-grade missing of something you used to do — Gilmore's comeback is a useful data point. Elite athletes with nothing left to prove still choose to come back purely because they miss it. That motivation doesn't need to be bigger or more dramatic to count.
-
-You don't need a comeback story with stakes. You need one push off the ground and the honest answer to whether it still feels like something you want.
+Contest scores from the outside do not tell us why Snapper Rocks came together in May after two early losses in April, or how much the two-year hiatus mattered in a close heat in September. Winning on the Gold Coast did not prove that missing a sport erases time away, and falling short of the cut at Trestles did not make the April losses the whole truth of her return. Without a rescue narrative or a trophy condition attached, the practical choice for an older skater is small: put the board and pads in the car, roll around an empty patch of flat concrete for half an hour after work, and decide from there whether you want to go out again on the weekend.
 
 
 ### The Strength Gap: 4 Muscles Every Adult Skater Neglects

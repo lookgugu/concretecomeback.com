@@ -1,6 +1,6 @@
 ---
-title: "Carissa Moore Came Back After a Baby. What 'Back' Actually Means"
-description: "Carissa Moore returned to pro surfing after having a baby. Her approach to pacing and expectations applies directly to any adult skating comeback."
+title: "Carissa Moore's 2026 Return and What 'Back' Actually Measures"
+description: "Carissa Moore returned at Bells Beach in 2026. A physiotherapist looks at how sports medicine separates participation, sport, and performance."
 pubDate: 2026-10-16
 author: "Jo Fairweather"
 authorAge: 52
@@ -10,34 +10,26 @@ featured: false
 draft: false
 ---
 
-Carissa Moore, a five-time world surfing champion, stepped away from competition after the 2024 Olympics to become a mother. In late 2025 the World Surf League announced she'd received a wildcard back onto the Championship Tour for 2026, and she opened her season at Bells Beach this year — her first tour event in two years. By most accounts she showed little sign of rust, winning her opening heat. By her own account, simply putting the competition jersey back on after having a baby already felt like a win, before a single wave was scored.
+When five-time world surfing champion Carissa Moore paddled out for her opening Round 1 heat at the Rip Curl Pro Bells Beach on April 4, 2026, two different definitions of "back" appeared in the same outing. Moore had last competed at a major event at Teahupo'o in the 2024 Paris Olympics, gave birth to her daughter 'Olena in February 2025, and [accepted a World Surf League season wildcard](https://www.olympics.com/en/news/surfing-olympic-champion-usa-carissa-moore-competition-comeback-after-giving-birth-la28) in November 2025. In Round 1 Heat 6 at Bells, she posted a 7.50 single-wave score to defeat Sawyer Lindblad 11.50 to 8.00 and [advance in her return to tour](https://www.theguardian.com/sport/2026/apr/08/world-surf-league-family-friendly-parents-tour); speaking afterward, she recalled not being able to walk to the mailbox a year earlier after giving birth and said that [simply putting the jersey on and walking down the stairs at Bells already felt like a win](https://www.surfnewsnetwork.com/50th-year-of-world-tour-set-to-kick-off-at-rip-curl-pro-bells-beach-presented-by-bonsoy-april-1-11/).
 
-I see a version of that sentence constantly in clinic, minus the world titles. An adult comes back to skating after time away — a pregnancy, a surgery, a long illness, just life — and the question underneath everything they ask me isn't really about technique. It's "what does 'back' even mean now." Moore's return is a useful, very public answer to that question, and it applies well beyond surfing.
+Sports coverage often folds those two milestones—winning the heat and pulling the jersey back on—into a single headline that an athlete is "all the way back." In physiotherapy and sports medicine, they describe different points on a return scale. For an older skater returning after surgery, pregnancy, injury, or years off the board, separating what each milestone actually measures helps avoid treating day one at the park as an all-or-nothing test.
 
-## "Back" doesn't mean where you left off
+## How return-to-sport consensus defines "back"—and its limits
 
-The quiet trap in any comeback is measuring yourself against the version of you that stopped, rather than the version of you that's starting again. Moore didn't return to the tour expecting to surf straight back into her pre-pregnancy form. Pregnancy and birth change a body's core strength, joint laxity, cardiovascular baseline, and recovery capacity in ways that don't just reverse themselves the moment you decide you're ready to compete again — rebuilding that is a real physical process, not a formality.
+The [2016 Bern consensus statement on return to sport](https://pubmed.ncbi.nlm.nih.gov/27226389/), led by Clare Ardern and published in the *British Journal of Sports Medicine*, moved clinical practice away from treating "return to sport" as a single yes-or-no clearance date. Instead, the authors described a three-part continuum alongside a risk-assessment framework (the Strategic Assessment of Risk and Risk Tolerance, or StARRT):
 
-The same is true, in a smaller way, for almost anyone coming back to skating after a real break. Months or years away don't just cost you sharpness; they change the baseline you're rebuilding from, especially if the time away involved its own physical event — a surgery, a pregnancy, a long illness, a period of real inactivity. Treating your first sessions back as a continuation of where you left off, rather than the start of a new build, is one of the more reliable ways to get hurt or get discouraged fast.
+1. **Return to participation:** the person is physically active again—taking part in rehabilitation, modified training, or lower-demand activity—at a level below their full sport demands.
+2. **Return to sport:** the person has returned to their defined sport and environment, but is not necessarily performing at their previous level.
+3. **Return to performance:** the person has returned to their sport and is performing at or above their pre-break level.
 
-## Redefining the win changes what you're allowed to feel good about
+The Bern consensus was written for clinicians managing athletes after musculoskeletal injury, and its limits for an older recreational skateboarder are important to state plainly. Clinic strength or hop tests do not replicate a skateboard wheel catching a pebble on concrete, and a consensus continuum cannot predict whether a wrist, shoulder, or hip will tolerate an awkward fall.
 
-What stands out in how Moore has talked about this return is that the win she named first wasn't a result. It was showing up at all — pulling the jersey back on. That's not a throwaway line; it's a genuinely useful way to structure a comeback.
+What the framework does offer is clarity about what a single outing measures. At Bells Beach, pulling on the jersey and walking down the stairs marked Moore's return to competitive participation and environment; the Round 1 win recorded how judges scored two waves in a single opening heat. Neither moment, on its own, measured how her body would hold up across an entire tour season.
 
-If the only thing that counts as success is matching your old performance, early sessions back are set up to feel like failures by definition, because they almost always fall short of where you left off. If the win is redefined as smaller, real things — showing up, completing the session, trying the thing you were nervous about — you get to feel actual progress much sooner, and that feeling is what keeps most people coming back for session two and three. [Building confidence at 40](/blog/building-confidence-at-40/) covers this same mechanism from a different angle: confidence tends to follow small completed wins, not the other way around.
+## Applying the three stages to a skateboarding return
 
-## Pacing a comeback after a major physical event
+When an older skater steps onto a board after a long gap, lands an old flatground trick in the first ten minutes, and concludes they are "back," they are treating one successful execution as a measure of overall readiness. Landing a movement once shows only that you executed it once; it does not tell you how many repetitions your joints will tolerate in a full session or how reliably you can step off when tired.
 
-A pregnancy and a long health-related break from skating aren't the same thing medically, but the practical pacing lessons overlap more than you'd expect.
+If your break involved pregnancy, surgery, or a significant injury, start with medical clearance from the clinician who treated you before stepping back on a board. Once cleared, the Bern continuum translates into three separate skateboarding benchmarks: **return to participation** is controlled flatground rolling—pushing, carving gentle arcs, foot-braking smoothly, and stepping off at a moderate speed in a properly fitted helmet and wrist guards. **Return to sport** means re-entering your usual park environment and building session time while logging flatground rolling separately from higher-impact attempts such as ollies, curb drops, or steeper transitions. **Return to performance**—testing old tricks or pre-break lines—belongs after routine sessions feel controlled, a progression that matches how [building confidence at 40](/blog/building-confidence-at-40/) approaches the mental side.
 
-**Get real clearance before you load anything hard.** Moore's return followed medical guidance specific to postpartum recovery, not a personal sense that enough time had passed. If your own break involved a surgery, a significant injury, or a pregnancy, the same rule applies: get an actual green light from whoever treated you before you put weight through a board again, not just a feeling that you're probably fine.
-
-**Rebuild the boring stuff before the fun stuff.** Core stability, balance, and basic cardiovascular capacity are unglamorous, and they're also exactly what carries you through a season of skating without a flare-up or a fall you weren't braced for. Give yourself real weeks of that groundwork rather than skipping straight to the park because the boring part feels like it's not "actually" skating yet.
-
-**Expect a nonlinear return, not a steady line up.** A good session followed by a rough one isn't a sign something's wrong — it's the normal shape of rebuilding a physical skill after a real gap, especially when your body is also managing new demands, whether that's sleep deprivation from a newborn or simply deconditioning from time away. Track trend over weeks, not how any single session felt.
-
-**Let your support system know what you're doing, and why.** Moore's return happened with her family present and part of the story, not hidden from them as something separate from her new role. Whatever your version of a support system looks like — a partner, a friend, a session buddy — naming the comeback out loud to them tends to make the logistics and the motivation both easier to sustain.
-
-## The actual lesson isn't about surfing
-
-Nobody needs to be a five-time world champion for this to apply. The lesson is in the sequencing: real medical readiness first, unglamorous groundwork second, redefined wins all the way through, and a support system that knows what you're rebuilding and why. Measured that way, "back" stops being a single finish line you either hit or miss, and starts being something closer to what it actually is — a direction you're moving in, one real session at a time.
+Even then, feeling fine during a session or the next morning is not a medical clearance to jump straight to harder terrain. Mild next-day muscle soreness can follow any unfamiliar activity, while tracking how your ankles, knees, hips, and back feel over the following forty-eight hours helps you decide whether to hold session volume steady or dial it back. Sharp pain, joint swelling, locking, or a sense of giving way is a reason to stop and have a physiotherapist or doctor assess the joint before you skate again.
