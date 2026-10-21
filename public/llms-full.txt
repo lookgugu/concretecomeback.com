@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-19T18:46:06.653Z
+# Date: 2026-10-21T03:30:31.056Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -7439,6 +7439,16 @@ Occupying a prime downtown corner inside 6.25-acre Roland Bland Park across from
 The park pairs a multi-level street course with three distinct concrete bowls so returning riders can scale up gradually. Start on the street section's progressive 2-stair, 4-stair, and 6-stair sets with ledges, rails, and banks, or carve the 6-foot shallow bowl before stepping up to the 5-foot speed section, 8-foot quarter-pipe, and the deeper intermediate and advanced bowls reaching roughly 11 feet in depth. Note two operational caveats: Bowling Green Parks and Recreation welcomes skateboards, inline skates, and BMX bikes alike on the slab, and the transition connecting the 5-foot speed section into the street and bowl lines can bottleneck during busy afternoon sessions—making weekday mornings after 7:00am or lit evening sessions the smoothest times to ride.
 
 
+### Brook Run Skate Park
+Metro Atlanta's largest public concrete skatepark, spanning 27,000 floodlit square feet inside Dunwoody's Brook Run Park with daily 7am openings, a wide-open flow course, progressive street obstacles, and a separate pool-coping peanut bowl.
+Location: Dunwoody, Georgia, US
+Website: https://www.dunwoodyga.gov/Home/Components/FacilityDirectory/FacilityDirectory/2/261
+
+Set inside 110-acre Brook Run Park in northern DeKalb County, Brook Run Skate Park is a 27,000-square-foot poured-concrete facility operated by the City of Dunwoody Parks and Recreation Department. As the largest public concrete skatepark in Metro Atlanta, its broad footprint, high-pole night lighting, and 7:00am daily opening (running until 9:00pm Sunday through Thursday and 10:00pm on Friday and Saturday) give older skaters plenty of room to spread out during quiet early-morning and after-work windows, supported by shaded spectator areas, nearby park restrooms, and ample parking.
+
+Designed by Site Design Group around a continuous flow concept, the park lets returning riders start on wide, mellow banks, curved ledges, low flat rails, and a pumping flow bowl with rollovers before working toward the larger double-set stairs, down rails, and a dedicated peanut bowl finished with traditional pool coping. Note that City of Dunwoody rules strictly require helmets for all skaters inside the fence, and weekend afternoons draw heavy family and scooter traffic across the wider park campus—making weekday mornings after 7:00am or lit evening sessions the best times to visit. You can also pair a north-metro session here with [Historic Fourth Ward Skatepark](/directory/parks/us/historic-fourth-ward-skatepark-atlanta-ga) along the BeltLine or [Kennesaw Skatepark](/directory/parks/us/kennesaw-skatepark-ga) in Cobb County.
+
+
 ### Burnside Skate Park
 One of skateboarding's most iconic DIY spots, built by skaters under the Burnside Bridge in 1990. The organic concrete terrain features banks, bowls, and transitions that reward smooth, flowing skating. The atmosphere is mellow during weekday mornings when regulars — many of them in their 30s, 40s, and 50s — have the park to themselves.
 Location: Portland, Oregon, US
@@ -7459,6 +7469,16 @@ Located on Coit Road in Plano, Carpenter Park Skate Park is one of the largest a
 For older skaters, two design policies make Carpenter Park an exceptional comeback spot. First, municipal regulations strictly prohibit bicycles, removing the erratic speeds and blind-corner hazards that often make mixed-use parks stressful for skaters rebuilding their footing. Second, the spacious plaza terrain is physically segregated from the deep bowl sections, offering wide lanes of smooth flatground, mellow bank ramps, and low manual pads where you can dial in fundamentals without being caught in transition drop-in paths.
 
 The Texas sun can be intense during midday hours, so plan sessions for the quiet early morning window between 5:00 AM and 8:30 AM, or take advantage of the floodlights that stay on until 11:00 PM. Restrooms, shaded viewing shelters, and dedicated parking are located directly adjacent to the course.
+
+
+### Centennial Skate Park
+A floodlit 12,306-square-foot City of Lawrence concrete street and flow skatepark in Centennial Park open daily from 6am to 11:30pm (with lights until 10:45pm), paired with the standalone Corey Lawrence Memorial Vert Ramp.
+Location: Lawrence, Kansas, US
+Website: https://www.lawrenceks.gov/City/PRC/Parks-Outdoors/Skateparks
+
+Tucked into the rolling hills of Centennial Park between 6th and 9th Streets in central Lawrence, Centennial Skate Park is a 12,306-square-foot municipal facility operated by Lawrence Parks, Recreation and Culture. Originally opened in 1998 and expanded through concrete renovations in 2012 and 2021, the park is open daily from 6:00am to 11:30pm with overhead night lighting running until 10:45pm—giving older skaters along the I-70 corridor dependable dawn and late-evening windows outside university and after-school rush hours.
+
+The course separates its main poured-concrete street and flow footprint from the adjacent Corey Lawrence Memorial Vert Ramp (a dedicated steel-framed vertical half-pipe surfaced with Gator Skins). Returning riders can warm up across the concrete plaza's mellow banks, quarter-pipes, pyramids, funboxes, ledges, euro gap, and flow bowl without crossing paths with vertical ramp traffic. Note that the facility is unsupervised and shared with BMX riders and inline skaters, and the memorial vert ramp demands full protective pads and established transition skills. If you need fresh hardware, softer wheels, or a custom setup along the Kansas River corridor, pair your session with a trip east to [Escapist Skateboarding](/directory/shops/us/escapist-skateboarding-kansas-city-mo) in Kansas City or roll through [Rolling Magic Skate Park](/directory/parks/us/rolling-magic-skate-park-lenexa-ks) in Lenexa.
 
 
 ### Grant Park Skate Park
@@ -7683,6 +7703,16 @@ Website: https://www.foodcourtskatepark.com
 Food Court Skatepark is a unique 15,000 square foot indoor facility located inside the McKinley Mall in Buffalo. The park features a wood surface covered with Traxion material, guaranteeing a smooth and grippy ride that won't weather over time.
 
 Its controlled indoor setting and spacious flat ground make it a highly approachable space for older skaters rebuilding their confidence away from the outdoor elements. The park heavily encourages progression by offering scheduled lessons by appointment. Note that the facility closes for an hour daily between 4:00 PM and 5:00 PM for cleaning and maintenance.
+
+
+### Fort Neal Skate Park
+A 10,000-square-foot Grindline poured-concrete municipal skatepark in Parkersburg open and lit daily from 7am to 11pm, combining approachable curbs, mounds, and concrete whip-de-do rollers with an advanced 6-to-10-foot cloverleaf bowl.
+Location: Parkersburg, West Virginia, US
+Website: https://parkersburgwv.gov/departments/parks___recreation/area_parks/fort_neal_skate_park.php
+
+Maintained by the City of Parkersburg Parks and Recreation Department inside Fort Neal Park, Fort Neal Skate Park is a 10,000-square-foot cast-in-place concrete facility designed and built by Grindline Skateparks. Open and floodlit daily from 7:00am to 11:00pm alongside a park shelter, pond, and walking paths, the venue gives older skaters in the Mid-Ohio Valley reliable morning and evening sessions outside standard work hours.
+
+The park is laid out with distinct terrain zones that separate low-impact street and flow warmup lines from serious transition. Returning skaters can dial in their balance along the outer perimeter's low curbs, mellow concrete mounds, flat rails, and rolling "whip-de-dos" before stepping up to the centerpiece cloverleaf bowl, which drops from a 6-foot pocket through an 8-foot middle section to a 10-foot deep end tailored for experienced bowl riders. Keep two operational caveats in mind: the park is an unsupervised facility shared with BMX bikes and scooters, and the cloverleaf bowl's 6-foot minimum depth demands solid transition control and protective gear before dropping in.
 
 
 ### Gathering Place Skate Park
@@ -8194,6 +8224,16 @@ Penn Valley Skatepark, also known as Kansas City Skate Plaza, is a 17,000-square
 Older skaters will appreciate the shallow end of the bowl, widely recommended as an ideal spot to safely learn to drop in and practice transition basics. For those balancing skating with work, the park opens at 5am and remains brightly lit until midnight. It pairs excellently with a visit to the local core shop, Escapist Skateboarding.
 
 
+### Pennsauken Skatepark
+A floodlit poured-concrete municipal skatepark at the Pennsauken Township Community Recreation Complex combining a concrete mini-ramp, approachable street plaza ledges and rails, a flow section, and a separate transition bowl.
+Location: Pennsauken, New Jersey, US
+Website: https://www.pennsauken.gov/Facilities/Facility/Details/Community-Recreation-Complex-38
+
+Located at the corner of Bethel and Westfield Avenues inside the Pennsauken Township Community Recreation Complex—just minutes across the Delaware River from Philadelphia—Pennsauken Skatepark is a poured-concrete municipal facility built by American Ramp Company and maintained by Pennsauken Township Parks & Recreation. Equipped with overhead night lighting for evening sessions and surrounded by complex parking and walking paths, the park offers older skaters in South Jersey and Greater Philadelphia a dependable morning and after-work concrete option.
+
+The layout divides naturally into distinct zones so returning riders can progress at their own pace: a dedicated concrete mini-ramp/half-pipe provides a predictable transition warmup, the street plaza lines up low manual pads, flat rails, ledges, and mellow banks, and a central flow section connects into a deeper concrete bowl with hips and quarter-pipes. Keep township regulations in mind: the park is an unsupervised facility where helmets, knee pads, elbow pads, and wrist guards are strongly advised, and township ordinances strictly prohibit motorized vehicles, alcohol, smoking, and vaping inside the recreation complex. Before crossing the Ben Franklin or Betsy Ross Bridge for a session, stop by [Nocturnal Skateshop](/directory/shops/us/nocturnal-skateshop-philadelphia-pa) in Philadelphia for fresh bushings, decks, or hardware, or pair your ride with [Paine's Park](/directory/parks/us/paines-park-philadelphia-pa) on the Schuylkill River.
+
+
 ### Perkins Road Community Park Skatepark
 A 30,000-square-foot California Skateparks concrete facility operated by BREC Extreme Sports with night lighting until 10:00pm (midnight on weekends), daily afternoon staff, and beginner Skateboarding Basics and Academy clinics.
 Location: Baton Rouge, Louisiana, US
@@ -8290,6 +8330,16 @@ Website: https://www.peoriaaz.gov/government/departments/parks-recreation-and-co
 Set inside Rio Vista Community Park just west of Loop 101 in the Phoenix metro's West Valley, Rio Vista Skatepark spans 32,000 square feet of poured concrete designed by SITE Design Group. For older skaters navigating desert heat, the park's 6:00am opening and full overhead night lighting until 10:30pm provide essential dawn and post-sunset sessions, backed by shaded spectator bleachers, nearby restrooms, and water fountains. City park rules also prohibit bicycles and scooters on the concrete—limiting the surface to skateboards (up to 34 inches in length) and inline skates—which keeps lines predictable.
 
 The expansive footprint separates its deep vertical terrain from more forgiving warmup zones. Returning riders can start on the flatland areas, manual pads, varied-height grind ledges, banked euro gap, and the broad transition flow section before testing the two ten-stair sets or dropping into the two dedicated bowls, including an amoeba-style pool bowl finished with swimming-pool coping and entry steps. Note that the park is unsupervised and city rules prohibit skating on surrounding park curbs, driveways, or parking lots. If you need softer wheels, riser pads, or protective gear before a West Valley roll, stop by [Cowtown Skateboards](/directory/shops/us/cowtown-skateboards-phoenix-az) in central Phoenix, or pair an East Valley morning with [Pecos Skatepark](/directory/parks/us/pecos-skatepark-phoenix-az).
+
+
+### Riverfront Skate and Bike Park
+A floodlit 12,000-square-foot City of Fort Smith action sports park on the Arkansas River open daily from 6am to 11pm, pairing a custom poured-concrete flow and street skatepark with an adjacent Velosolutions asphalt pump track and progressive skill lines.
+Location: Fort Smith, Arkansas, US
+Website: https://www.fortsmithar.gov/Home/Components/FacilityDirectory/FacilityDirectory/50/93
+
+Overlooking the Arkansas River just north of the Fort Smith National Historic Site along the multi-use Greg Smith River Trail, the Riverfront Skate and Bike Park is a 12,000-plus-square-foot municipal facility operated by the City of Fort Smith. Built through a collaboration between Pivot Custom, American Ramp Company, and Velosolutions USA, the park is open and floodlit daily from 6:00am to 11:00pm, giving older skaters in the River Valley dependable dawn and after-work windows with dedicated off-street parking and boardwalk viewing areas.
+
+The multi-zone layout makes it easy to rebuild leg strength and board feel before tackling steeper transitions. Returning riders can start on the rhythmic rollers and banked berms of the Velosolutions asphalt pump track—which builds pumping speed without requiring a single ollie—or work through the concrete plaza's mellow banks, ledges, rails, and custom skateable Arkansas-outline obstacle before testing the deeper flow sections, Plexiglas wall, and 12-foot vertical wall. Note that this is an unsupervised, all-wheel facility shared with BMX and mountain bikes as well as scooters; helmets and pads are strongly advised, and early mornings after 6:00am or late evening sessions under the lights avoid peak afternoon bike traffic.
 
 
 ### Riverside Skatepark
@@ -8498,6 +8548,16 @@ Located just outside Portland in Milwaukie, Stronger Skatepark is purpose-built 
 It is a standout facility for older skaters returning to the sport. They offer an adult skateboarding class every Monday night, as well as specific 30+ sessions bookable on their calendar. Weekday afternoons before 5 PM are generally quieter if you want to work on basics. Check out nearby Cal Skate Skateboards when you're in the Portland area.
 
 
+### Sunset Skatepark
+Indiana's largest concrete skatepark, a floodlit 27,000-square-foot Hunger Skateparks facility on the Evansville riverfront open daily from 7am to 11pm with a hybrid flatground roller zone, adaptive street ledges, a flow bowl, and a separated BMX jump line.
+Location: Evansville, Indiana, US
+Website: https://hungerskateparks.com/portfolio/sunset-skatepark-evansville-in/
+
+Stretching across 27,000 square feet of poured concrete at Sunset Park West along the Ohio Riverfront Greenway between Mickey's Kingdom Playground and the Sunrise Pump Station, Sunset Skatepark is Indiana's largest public concrete skatepark. Designed and built by Hunger Skateparks, the facility is open and floodlit daily from 7:00am to 11:00pm, offering older skaters in southwestern Indiana and the Tri-State area expansive morning and night windows with riverfront breezes and adjacent greenway parking.
+
+The layout was purposefully engineered as a zoned all-wheels park so beginners and returning skaters are not forced into high-speed cross-traffic: a dedicated multi-jump line pulls BMX riders onto their own separate run, while a hybrid flatground roller-rink and beginner zone gives older skaters space to practice pushing, kickturns, and low manual pads. From there, you can progress onto long adaptive street ledges, flat bars, mellow banks, and a carving flow bowl before testing the deep pool bowl. Keep in mind that the park welcomes skateboards, quad and inline skates, and BMX bikes alike (electric vehicles are prohibited), and the open riverfront slab has limited midday shade during summer heat, making 7:00am dawn patrols or lit evening sessions under the lights the most comfortable times to ride.
+
+
 ### Switch and Signal Skatepark
 A 12,000-square-foot indoor wooden skatepark featuring a dedicated Adult Beginner Session on the first Monday of each month, offering a slower-paced, supportive environment.
 Location: Swissvale, Pennsylvania, US
@@ -8534,6 +8594,16 @@ Location: Sacramento, California, US
 Website: https://www.cityofsacramento.org/
 
 Tanzanite Skatepark offers a balanced array of transition and street elements to accommodate the diverse Sacramento skate scene. It is highly practical for older skaters working typical daytime schedules, offering strong floodlighting and reliable operating hours until 9:00 PM. The park's diverse terrain separates technical ledges from the flow sections, providing space to reacquaint yourself with the board without pressure.
+
+
+### Taylorsville Skatepark
+An 8,500-square-foot Spohn Ranch poured-concrete municipal skatepark in Taylorsville Park open and floodlit daily from 6am to 11pm, featuring custom slappy curbs, a mini-ramp section, street ledges, and a 4-to-6-foot integrated bowl.
+Location: Taylorsville, Utah, US
+Website: https://www.taylorsvilleut.gov/our-city/news-media-info/taylorsville-news/taylorsville-park
+
+Anchoring the south end of newly revitalized Taylorsville Park in the central Salt Lake Valley (with southern parking access at 4743 S. Plymouth View Drive and northern park access at 4721 S. Redwood Road), Taylorsville Skatepark is an 8,500-plus-square-foot poured-concrete facility designed and built by Spohn Ranch Skateparks. Operated by Taylorsville City Parks and Recreation, the park is open daily from 6:00am to 11:00pm under overhead sports lighting, giving older skaters across the Wasatch Front early-morning calm and lit evening sessions after work.
+
+Spohn Ranch designed the footprint as a multi-room concrete plaza that separates low-impact warmup obstacles from deeper transition. Returning skaters can start on the custom slappy curbs, mini-ramp section, quarter-pipe hips, down ledges, flat-to-down rails, and A-frame euro gap before dropping into the integrated concrete bowl, which steps from an approachable 4-foot shallow end to a 6-foot deep end with a 1-foot extension pocket. Note several municipal rules posted on site: the unsupervised park is open to skateboards (34-inch maximum length), inline skates, scooters, and BMX freestyle bikes, full protective gear is recommended, riding is prohibited whenever the concrete is wet, raining, or snowing, and city trespassing ordinances are enforced after 11:00pm. You can easily pair a Salt Lake Valley session here with [Fairmont Skatepark](/directory/parks/us/fairmont-skatepark-salt-lake-city-ut) in Sugar House or head up Parleys Canyon to [Woodward Park City](/directory/parks/us/woodward-park-city-ut).
 
 
 ### The Bay Skatepark
@@ -8574,6 +8644,16 @@ Website: https://www.tupeloparksandrec.org/
 The Tupelo Skatepark, situated in Ballard Park, is a versatile concrete facility with a layout that works well for progression. The main bowl features varying depths, allowing newer transition riders to start small before moving to the deeper ends, while the street section offers standard ledges and rails.
 
 What makes this park particularly friendly for older skaters is its lighting system. The lights are user-activated via a button near the restrooms and stay on until 10 PM, providing a fantastic opportunity for evening sessions when the park is less crowded.
+
+
+### Turnaround Skate Park (Sitka Skate Park)
+A 6,000-square-foot Grindline poured-concrete municipal skatepark on Sitka's waterfront protected by a permanent open-sided roof cover and overhead LED lighting, keeping its bowl and street course rideable through Southeast Alaska rain and dark winter evenings.
+Location: Sitka, Alaska, US
+Website: https://www.cityofsitka.com/Government/City-Departments/Parks-Recreation
+
+Set along the historic PBY seaplane turnaround loop near the corner of Halibut Point Road and Katlian Street, Turnaround Skate Park (widely known locally as Sitka Skate Park) is a roughly 6,000-square-foot poured-concrete facility designed by Grindline Skateparks and managed by City and Borough of Sitka Parks and Recreation. For older skaters navigating Baranof Island's maritime rainforest climate and short winter daylight, the park's two biggest assets are overhead: a permanent open-sided roof structure added over the slab in 2011 to block heavy coastal precipitation, and municipal overhead LED floodlighting installed to extend usable sessions into dark afternoons and evenings.
+
+The layout separates its transition bowl from a perimeter street section so returning riders can warm up on flatground, bank ramps, low flat and out ledges, a euro gap, and flat rails before dropping into the faster bowl corners. Keep a few local caveats in mind: while the roof keeps rain off the primary riding surface, windblown coastal mist and cold-weather condensation can still leave the outer edges damp and slick, and the compact covered footprint is shared on a first-come, first-served basis with local youth and scooter riders—making weekday mornings and lit evening windows the calmest times to roll.
 
 
 ### Two Rivers Skatepark
@@ -8844,7 +8924,7 @@ Website: https://escapistskateboarding.com
 
 Escapist Skateboarding is widely regarded as the cornerstone of the Kansas City skate scene. Rather than pushing intimidating core vibes, the skater-owned shop focuses heavily on community and support for all skill levels. 
 
-Customers rave about the staff's willingness to patiently explain equipment differences to beginners and older skaters getting back on a board. If you're heading to the nearby Penn Valley Skatepark, stopping here first for a custom build or fresh gear is highly recommended.
+Customers rave about the staff's willingness to patiently explain equipment differences to beginners and older skaters getting back on a board. If you're heading to the nearby [Penn Valley Skatepark](/directory/parks/us/penn-valley-skatepark-kansas-city-mo), crossing into Johnson County for [Rolling Magic Skate Park](/directory/parks/us/rolling-magic-skate-park-lenexa-ks) in Lenexa, or driving west on I-70 for lit evening sessions at [Centennial Skate Park](/directory/parks/us/centennial-skate-park-lawrence-ks) in Lawrence, stopping here first for a custom build or fresh gear is highly recommended.
 
 
 ### Familia Skateshop
@@ -8900,7 +8980,7 @@ Website: https://nocturnalphilly.com
 
 Founded in 2000 by pro skater Kerry Getz, Nocturnal is a cornerstone of the Philadelphia skate scene. While its core pedigree can feel intimidating from the outside, reviewers consistently note that the staff are patient, welcoming, and excellent at talking older returning skaters through their gear choices. 
 
-They carry a deep selection of core brands and offer full assembly and repair services. A perfect stop before heading to [Paine's Park](/directory/parks/us/paines-park-philadelphia-pa).
+They carry a deep selection of core brands and offer full assembly and repair services. A perfect stop before heading to [Paine's Park](/directory/parks/us/paines-park-philadelphia-pa) along the Schuylkill River or crossing the Delaware River into South Jersey for a lit session at [Pennsauken Skatepark](/directory/parks/us/pennsauken-skatepark-nj).
 
 
 ### Orchard Skateshop

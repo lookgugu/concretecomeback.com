@@ -249,6 +249,11 @@
     "lng": -149.8949,
     "source": "Anchorage, Alaska, United States"
   },
+  "US|alaska|sitka": {
+    "lat": 57.4086,
+    "lng": -135.4596,
+    "source": "Sitka, Alaska, 99835, United States"
+  },
   "US|arizona|peoria": {
     "lat": 33.5806,
     "lng": -112.2373,
@@ -268,6 +273,11 @@
     "lat": 36.3729,
     "lng": -94.2088,
     "source": "Bentonville, Benton County, Arkansas, United States"
+  },
+  "US|arkansas|fort smith": {
+    "lat": 35.388,
+    "lng": -94.4265,
+    "source": "Fort Smith, Sebastian County, Arkansas, United States"
   },
   "US|california|berkeley": {
     "lat": 37.8708,
@@ -374,6 +384,11 @@
     "lng": -84.3898,
     "source": "Atlanta, Fulton County, Georgia, United States"
   },
+  "US|georgia|dunwoody": {
+    "lat": 33.9464,
+    "lng": -84.3343,
+    "source": "Dunwoody, DeKalb County, Georgia, United States"
+  },
   "US|georgia|kennesaw": {
     "lat": 34.0234,
     "lng": -84.6155,
@@ -424,6 +439,11 @@
     "lng": -86.1284,
     "source": "Carmel, Hamilton County, Indiana, United States"
   },
+  "US|indiana|evansville": {
+    "lat": 37.9705,
+    "lng": -87.5716,
+    "source": "Evansville, Vanderburgh County, Indiana, United States"
+  },
   "US|indiana|indianapolis": {
     "lat": 39.7683,
     "lng": -86.1584,
@@ -438,6 +458,11 @@
     "lat": 41.5869,
     "lng": -93.6249,
     "source": "Des Moines, Polk County, Iowa, United States"
+  },
+  "US|kansas|lawrence": {
+    "lat": 38.9719,
+    "lng": -95.2359,
+    "source": "Lawrence, Douglas County, Kansas, United States"
   },
   "US|kansas|lenexa": {
     "lat": 38.9697,
@@ -618,6 +643,11 @@
     "lat": 40.5052,
     "lng": -74.6733,
     "source": "Hillsborough Township, Somerset County, New Jersey, United States"
+  },
+  "US|new jersey|pennsauken": {
+    "lat": 39.9562,
+    "lng": -75.058,
+    "source": "Pennsauken Township, Camden County, New Jersey, 08110, United States"
   },
   "US|new jersey|sayreville": {
     "lat": 40.4635,
@@ -829,6 +859,11 @@
     "lng": -111.8868,
     "source": "Salt Lake City, Salt Lake County, Utah, United States"
   },
+  "US|utah|taylorsville": {
+    "lat": 40.6676,
+    "lng": -111.9388,
+    "source": "Taylorsville, Salt Lake County, Utah, 84129, United States"
+  },
   "US|vermont|burlington": {
     "lat": 44.4762,
     "lng": -73.2129,
@@ -874,6 +909,11 @@
     "lng": -122.4383,
     "source": "Tacoma, Pierce County, Washington, United States"
   },
+  "US|west virginia|parkersburg": {
+    "lat": 39.2667,
+    "lng": -81.5621,
+    "source": "Parkersburg, Wood County, West Virginia, United States"
+  },
   "US|west virginia|wheeling": {
     "lat": 40.064,
     "lng": -80.7209,
@@ -910,8 +950,8 @@
     "source": "derived: mean of 18 listed UK cities"
   },
   "US": {
-    "lat": 38.9374,
-    "lng": -94.6739,
-    "source": "derived: mean of 132 listed US cities"
+    "lat": 39.0237,
+    "lng": -94.7324,
+    "source": "derived: mean of 140 listed US cities"
   }
 }
