@@ -3,7 +3,7 @@ name: "Riverfront Skate and Bike Park"
 country: "US"
 stateProvince: "Arkansas"
 city: "Fort Smith"
-address: "121 Riverfront Dr, Fort Smith, AR 72901"
+address: "201 Riverfront Dr, Fort Smith, AR 72901"
 description: "A floodlit 12,000-square-foot City of Fort Smith action sports park on the Arkansas River open daily from 6am to 11pm, pairing a custom poured-concrete flow and street skatepark with an adjacent Velosolutions asphalt pump track and progressive skill lines."
 surface: ["concrete", "asphalt"]
 features: ["bowl", "street", "pump-track", "ramps", "rails", "banks", "transitions", "vert"]
@@ -14,8 +14,8 @@ hasParking: true
 isIndoor: false
 openingHours: "Daily 6am–11pm"
 entryFee: "Free"
-website: "https://www.fortsmithar.gov/Home/Components/FacilityDirectory/FacilityDirectory/49/93"
-googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=Riverfront+Skate+and+Bike+Park+121+Riverfront+Dr+Fort+Smith+AR+72901"
+website: "https://www.fortsmithar.gov/Home/Components/FacilityDirectory/FacilityDirectory/50/93"
+googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=Riverfront+Skate+and+Bike+Park+201+Riverfront+Dr+Fort+Smith+AR+72901"
 featured: false
 addedDate: 2026-10-21
 lastVerified: 2026-10-21

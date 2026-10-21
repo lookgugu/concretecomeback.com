@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-21T03:24:51.494Z
+# Date: 2026-10-21T03:30:31.056Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -8335,7 +8335,7 @@ The expansive footprint separates its deep vertical terrain from more forgiving 
 ### Riverfront Skate and Bike Park
 A floodlit 12,000-square-foot City of Fort Smith action sports park on the Arkansas River open daily from 6am to 11pm, pairing a custom poured-concrete flow and street skatepark with an adjacent Velosolutions asphalt pump track and progressive skill lines.
 Location: Fort Smith, Arkansas, US
-Website: https://www.fortsmithar.gov/Home/Components/FacilityDirectory/FacilityDirectory/49/93
+Website: https://www.fortsmithar.gov/Home/Components/FacilityDirectory/FacilityDirectory/50/93
 
 Overlooking the Arkansas River just north of the Fort Smith National Historic Site along the multi-use Greg Smith River Trail, the Riverfront Skate and Bike Park is a 12,000-plus-square-foot municipal facility operated by the City of Fort Smith. Built through a collaboration between Pivot Custom, American Ramp Company, and Velosolutions USA, the park is open and floodlit daily from 6:00am to 11:00pm, giving older skaters in the River Valley dependable dawn and after-work windows with dedicated off-street parking and boardwalk viewing areas.
 
