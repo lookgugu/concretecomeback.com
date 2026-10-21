@@ -1,6 +1,6 @@
 ---
-title: "What Carissa Moore's Postpartum Comeback Means for Skate Parents"
-description: "Carissa Moore returned to the WSL Tour months after giving birth. What her comeback timeline teaches skate parents about rebalancing their own practice."
+title: "What Carissa Moore's Postpartum Return Shows About Skate-Parent Schedules"
+description: "Carissa Moore returned to the WSL Tour in 2026 after having her first child. For skate parents, the real lesson is how scheduling and shared support work."
 pubDate: 2026-10-18
 author: "Sam Torres"
 authorAge: 44
@@ -10,40 +10,16 @@ featured: false
 draft: false
 ---
 
-Carissa Moore stepped away from competitive surfing after the Paris 2024 Olympics, where she reached the quarterfinals two months pregnant. Her daughter, Olena Lililehua Untermann, was born in February 2025. In November 2025, the World Surf League announced she'd be returning in 2026 on a full-season wildcard — guaranteed entry into every Championship Tour event, starting at Bells Beach in April and running through the Pipe Masters in December. A five-time world champion doesn't need qualifying points to prove she still belongs on tour. She needed something else: a way back onto the clock after motherhood reset it.
+As someone who helps organise adult skate sessions, I think the biggest hurdle for parents who want to keep skating is rarely motivation — it is the disappearance of unscheduled time. If a parent has young kids at home, a two-hour afternoon hang at the skatepark is seldom realistic. What usually makes a session possible is a planned forty-minute window early in the morning while a partner or relative has childcare covered at home.
 
-I don't surf and this isn't a surfing site, but I run a group where "I used to skate every weekend, then I had a kid, and now I don't know how to fit it back in" is close to the single most common sentence I hear. Moore's comeback is a useful shape to study, not because her resources match yours, but because the specific problem she solved — rebuilding a physical practice around a new, permanent demand on her time and body — is exactly your problem too.
+That scheduling reality is the most grounded way to look at five-time World Surf League champion and Olympic gold medalist Carissa Moore's [2026 return to competition](https://spectrumlocalnews.com/hi/hawaii/sports/2026/06/15/hawaii-wsl-surfing-carissa-moore-el-salvador-pro-win-2026). After taking close to two years away from the tour to have her first child, Moore returned for the 2026 season accompanied at events by her daughter and her husband, Luke Untermann, who also stepped in to coach her at several stops while she notched back-to-back Championship Tour victories in New Zealand in May and [El Salvador in June](https://www.surfnewsnetwork.com/world-title-race-ready-to-heat-up-at-surf-city-el-salvador-pro-presented-by-corona-cero/).
 
-## The wildcard is the part worth noticing
+Nothing about a professional surfer's travel or tour resources matches the budget of an ordinary household. What does connect to everyday skate parents is the practical setup underneath her calendar: even at the top of a sport, returning with a young child meant trading solo, open-ended sessions for shared family coverage and hands-on partner support so she could take her turn in the water.
 
-A full-season wildcard means Moore didn't have to re-earn her spot through the normal qualifying grind while also sorting out childcare, recovery, and a body that had just done something entirely different for nine months. The WSL effectively said: come back on a realistic timeline, and we'll hold the door open.
+## Making a parent schedule hold up at the local park
 
-Most skate parents don't get an institution to do that for them. But you can do it for yourself. The instinct after a long gap — whether it's three months with a newborn or three years of a toddler eating every spare hour — is to treat the return as a test you either pass or fail immediately. Moore's tour didn't ask her to win her first heat back. It asked her to show up. That's a lower, more honest bar, and it's the one you should set for your own first few sessions back.
+For anyone returning after pregnancy and childbirth, medical clearance comes before the calendar. Skateboarding carries real fall and impact risk, so getting cleared by a physician or pelvic-floor physical therapist before stepping back onto a deck matters far more than matching any athlete's timeline. Once you are cleared to roll, [the 8-week return plan for adult skaters](/blog/8-week-return-plan-adult-skaters/) lays out a gradual progression starting with flatground pushing and basic balance before adding transition or longer sessions.
 
-## She didn't wait for "ready"
+From there, keeping a skate habit going with kids at home comes down to shared scheduling rather than willpower. [Finding skate time with a family at home](/blog/finding-skate-time-with-a-family-at-home/) breaks down how to trade fixed thirty-to-forty-five-minute blocks with a partner so both adults get predictable time off duty. When you trade for a forty-minute window on a Saturday morning, put it on the shared calendar as a real appointment, keep your board, helmet, and wrist guards packed together by the door, and let twenty-five minutes of unhurried flatground carving count as a full session. Moving at your own pace during those short blocks — rather than rushing to make up for weeks away — is also how [rebuilding confidence after 40](/blog/building-confidence-at-40/) actually holds up over months.
 
-Moore's path back wasn't a single leap from new mother to tour competitor, and it wasn't fast. By her own account, she gave herself about six weeks of recovery before getting back in the water at all, then started with just a couple of sessions a week — not daily, not training-volume surfing, just getting wet — before gradually building up to entering smaller qualifying events in Hawaii ahead of the CT season. That's the same staged shape this site has pointed to before in [the 8-week return plan for adult skaters](/blog/8-week-return-plan-adult-skaters/): rebuild the movement, then the volume, then the specific skill, then whatever "competing" means for you, whether that's a contest or just keeping up with the group session you used to skate with.
-
-The mistake a lot of skate parents make is waiting for a feeling of readiness that a new schedule simply doesn't produce. There is no morning where the kid is suddenly old enough and the laundry is suddenly done and you suddenly have the hip mobility you had in your twenties. Moore didn't wait for that morning either. She started at a couple of sessions a week — not competing, barely even training, just moving — and let the frequency build from there.
-
-## The schedule change is permanent, and that's fine
-
-Here's where the comparison has to be honest: Moore has described leaning on her husband, her father, and what she's called a support team that's there for me all the time — on top of a sponsor-funded life built around getting her to the right beach on the right day. Most skate parents are negotiating nap schedules and one shared car. The gap between her logistics and yours is real, and no amount of inspirational framing closes it.
-
-What transfers isn't the resources. It's the posture toward the problem. Moore's old schedule — the one where she could surf whenever a swell showed up — is gone permanently, not temporarily. She didn't get that version of her life back; she built a new one that fits around her daughter. [Finding skate time with a family at home](/blog/finding-skate-time-with-a-family-at-home/) is this site's version of that same negotiation: identifying the thirty-minute windows that actually exist in your week instead of mourning the open afternoons you used to have.
-
-## What this looks like at your park
-
-You're not rebuilding toward a World Surf League event. You're rebuilding toward whatever "back" means for you — a Saturday session, a group you used to show up for, a trick you could do before the gap. The practical version of Moore's comeback for a skate parent looks like this:
-
-**Pick a floor, not a ceiling.** "I will push around the block twice a week" is a floor you can actually hit most weeks. "I will get back to where I was" is a ceiling that keeps moving and rarely gets touched.
-
-**Let the first sessions be boring, and let there be few of them at first.** Moore's early sessions back were a couple of low-key paddles a week, not contest heats. Your early sessions back should be flat-ground pushing and easy carves, at a frequency you can actually sustain around your schedule — not the line you were working on before the gap.
-
-**Treat the new schedule as the real one.** The nap window, the daycare pickup time, the one evening your partner has coverage — that's not a temporary obstacle between you and your old skating life. It's the shape your skating life has now, and planning around it instead of against it is what actually gets you back on a board more than once a month.
-
-**Stop comparing your return to your pre-kid baseline.** Compare this month to last month instead, the same way [building confidence after 40](/blog/building-confidence-at-40/) argues for comparing yourself to yourself rather than to who you used to be.
-
-By the time you're reading this, the comeback isn't hypothetical anymore. Moore opened her wildcard season at Bells Beach in April, then went on to win back-to-back Championship Tour events in New Zealand and El Salvador — her first tour victories since becoming a mother. None of that happened because she skipped the slow part. It happened because rest and a couple of low-key sessions a week came first, at beach breaks most of us will never surf, built up in stages before she ever competed again.
-
-Her exact timeline is her own — it reflects her delivery, her medical team's clearance, and her body, not a schedule to copy regardless of yours. What transfers isn't the six weeks specifically; it's getting your own return cleared and paced by your own circumstances, and skating's fall risk makes that check worth taking seriously rather than skipping. Within whatever timeline is actually yours, though, the shape she used — rest first, low frequency before volume, volume before anything that looks like competing again — is more than good enough for someone building a comeback around a crib and a car seat.
+Local skate groups can make those family logistics easier too. If a parent brings a child to a meetup, another responsible adult needs to supervise the child off the skating surface while everyone respects posted park rules, because you cannot safely watch a young kid and skate a bowl at the same time. And when a parent rolls in alone for a quick thirty-minute window between family shifts, the best thing the rest of the crew can do is wave them into the rotation right away, trade a few runs together without making a big deal of when they have to leave, and save them a spot on the coping next week.
