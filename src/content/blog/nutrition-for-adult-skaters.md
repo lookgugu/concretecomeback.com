@@ -1,6 +1,6 @@
 ---
-title: "What to Eat Before and After Skating When You're Over 40"
-description: "Practical, no-hype nutrition guidance for older skaters — what to eat before a session, what helps recovery after, and what actually matters."
+title: "Fueling and Hydration for Older Skaters: What the Evidence Supports"
+description: "A physiotherapist separates competitive sports-nutrition rules from what recreational skaters over 40 actually need for meals, hydration, and protein."
 pubDate: 2026-08-23
 author: "Jo Fairweather"
 authorAge: 52
@@ -10,36 +10,36 @@ featured: false
 draft: false
 ---
 
-Most of what gets written about sports nutrition is aimed at people training for competition, and it shows: precise ratios, supplement stacks, timing windows measured in minutes. If you're skating two or three times a week for fitness and fun, almost none of that is necessary. But a handful of basics genuinely do make a difference in how you feel during a session and how you recover from it — and they're simpler than the industry makes them sound.
+Most sports nutrition advice is written around competitive training or continuous endurance events: detailed fueling schedules, strict timing windows, and supplement routines. Recreational skateboarding looks different. A typical park or flatground session is intermittent—short bursts of pushing, crouching, and absorbing landings broken up by minutes of standing on the deck or waiting for a clear run.
 
-## Before a session: enough fuel, not a ritual
+For skaters in their 40s and 50s riding a few times a week, competitive protocols are unnecessary. What helps is matching everyday food and fluid intake to the actual scenario: eating a normal meal or snack before you skate so you aren't lightheaded, bringing water for the weather, and getting adequate protein across ordinary meals.
 
-**Don't skate on empty if you can help it.** Low blood sugar mid-session shows up as shakiness, poor concentration, and a sudden drop in coordination — exactly the state you don't want when you're balancing on a moving board. For most people, a light meal or snack with some carbohydrate and a bit of protein an hour or two before skating is usually enough to prevent this. If you manage diabetes with insulin or another glucose-lowering medication, this general advice isn't a substitute for your own monitoring and treatment plan — follow that plan, carry fast-acting carbohydrate, and talk to your care team about how exercise affects your dosing rather than relying on a pre-session snack alone.
+## Pre-session eating and concentration
 
-**Keep it simple and familiar.** This isn't the time to try a new pre-workout food or supplement. Oatmeal, a banana with peanut butter, toast with eggs — whatever you already know sits well with you. Your digestion gets less forgiving of surprises as you get older, and nausea mid-session is worse than mild hunger.
+Skateboarding relies on brief, repeated bouts of effort alongside continuous postural adjustments. The practical reason not to skate after a long fast is concentration and steadiness: showing up hungry after skipping meals can leave you feeling distracted or shaky when you are judging speed and foot placement.
 
-**Hydrate before you're thirsty.** By the time you feel thirsty, you're already somewhat behind. A glass or two of water in the hour before you head out, especially if it's warm, puts you in a better starting position than trying to catch up once you're sweating.
+As the [2016 joint position statement from the Academy of Nutrition and Dietetics, Dietitians of Canada, and the American College of Sports Medicine in *Medicine & Science in Sports & Exercise*](https://pubmed.ncbi.nlm.nih.gov/26891166/) outlines, the type, amount, and timing of food and fluid intake should be matched across different scenarios of training and sport rather than treated as one uniform formula, with individualized plans best handled by a registered dietitian or nutritionist. For an intermittent recreational session of an hour or ninety minutes, a regular meal eaten a few hours beforehand—or a familiar snack with carbohydrate and protein an hour or two before rolling—is enough for most people. Plain toast with eggs, oatmeal, or fruit and yogurt all do the job without specialized sports products.
 
-## During a session: mostly about water
+If you manage diabetes with insulin or other glucose-lowering medications, general meal-timing advice does not replace your clinical treatment plan. Follow your care team's monitoring guidelines and carry fast-acting carbohydrate as advised.
 
-For sessions under about 90 minutes, water is enough for most older skaters — you don't need a sports drink or electrolyte mix unless you're sweating heavily in hot weather or skating for a long stretch. If you are out for longer, or it's genuinely hot, an electrolyte drink helps replace what you're losing through sweat and can stave off the fatigue and cramping that dehydration brings on.
+## Hydration and heat at the park
 
-Bring water with you rather than assuming you'll get to a fountain. Skateparks are notorious for being either sunnier or emptier of amenities than you'd expect.
+Fluid needs during a session depend on how long you skate, how hot or humid it is, and how much you sweat under helmets and pads. For a moderate session of an hour or so in mild weather, drinking plain water during breaks alongside normal fluids at meals is typically sufficient for most healthy adults.
 
-## After a session: this is where it actually matters
+Skateparks, however, are often unshaded concrete spaces that radiate heat and lack working drinking fountains. Bringing a full bottle of water and taking regular sips between runs is a straightforward precaution, and after heavy sweating in warm weather, eating a normal meal with water replaces both fluid and dietary sodium without requiring commercial electrolyte powders.
 
-The window after exercise — roughly the couple of hours following a session — is when your body is primed to use nutrients for repair. You don't need to sprint to a protein shake the second you take your pads off, but eating a real meal within a couple of hours does more for recovery than waiting until you're starving six hours later.
+If you take diuretics or blood-pressure medications, or have a heart or kidney condition that requires fluid or sodium limits, follow your physician's specific instructions rather than general exercise hydration advice.
 
-**Protein matters more as you age.** Muscle repair and maintenance both depend on adequate protein, and the ability to build and preserve muscle from a given amount of protein declines somewhat with age — a phenomenon researchers call anabolic resistance. The practical takeaway isn't complicated: older skaters who are staying active should generally aim for more protein per meal than they might have needed in their twenties, spread across the day rather than loaded into one meal. Eggs, dairy, poultry, fish, legumes, and tofu are all solid, ordinary sources — you don't need a powder to get there, though a shake is a convenient option if a real meal isn't practical right after a session.
+## Protein needs, age boundaries, and timing
 
-**Anti-inflammatory foods help with the aftermath.** Skating causes normal, expected inflammation as muscles repair — that's part of how they get stronger. Foods rich in omega-3s (fatty fish, walnuts, flaxseed), and a diet generally heavy in vegetables and fruit, support that repair process without over-suppressing it. This isn't about eliminating inflammation; a little of it is doing useful work. It's about giving your body good raw material to work with.
+Much of the nutrition marketing aimed at active adults points to age-related changes in how the body processes dietary protein: older bodies may use protein from a meal less efficiently for maintaining and rebuilding muscle than younger bodies do. In the [2013 PROT-AGE Study Group position paper by Jürgen Bauer and colleagues in the *Journal of the American Medical Directors Association*](https://pubmed.ncbi.nlm.nih.gov/23867520/), an international review group concluded that older adults generally need more daily protein than younger adults to maintain lean muscle and physical function, with higher daily needs for those who exercise regularly.
 
-**Rehydrate properly.** Water is usually enough after a moderate session. If you skated hard, sweated a lot, or skated in heat, replacing electrolytes — through food or a drink — helps more than water alone, since sweat carries out sodium and other minerals along with fluid.
+Two limits in that consensus paper matter directly for recreational skaters over 40. First, the PROT-AGE recommendations were written specifically for adults over 65, who face a higher risk of losing muscle mass and everyday physical function; skaters in their 40s and 50s are younger than that group, so treating geriatric guidelines as a sudden rule at age 40 overstates the change. Second, the PROT-AGE authors noted that while protein quality, meal timing, and nutritional supplements may be relevant, the evidence was not sufficient to back specific rules on timing or supplementation. Getting adequate protein from ordinary foods—eggs, dairy, fish, poultry, beans, lentils, or tofu—across regular daily meals, including a normal meal within a couple of hours after skating, covers everyday recovery without protein powders or post-session shake rituals.
 
-## What you can mostly ignore
+The PROT-AGE paper also notes an important medical exception: people with kidney disease may need to limit rather than increase protein intake. Anyone with kidney disease or another condition affecting how the body handles protein should consult their physician or a registered dietitian before eating more protein.
 
-There's a large market of supplements aimed specifically at "masters athletes" — collagen powders, joint-specific blends, recovery-branded everything. Some of these have reasonable evidence behind individual ingredients; plenty are marketing dressed as science ([our joint supplements post](/blog/joint-supplements-for-adult-skaters/) goes through the evidence one ingredient at a time). If you're already eating a reasonably varied diet with adequate protein, most recreational older skaters don't need to build a supplement routine to skate well and recover reasonably. If joint discomfort is a specific, ongoing issue for you, that's a conversation for a doctor or physiotherapist who can look at your actual situation — not a shelf of powders.
+## What everyday nutrition cannot do for joints
 
-## The realistic version of this advice
+Post-session soreness is common when returning to skating, and wellness articles often imply that "anti-inflammatory" foods or joint blends will speed recovery or protect cartilage. While an overall varied diet supports general health, individual foods and supplements are not a targeted treatment for an aching knee or ankle after a session.
 
-You don't need a meal plan to skate well in your 40s or 50s. You need to not skate on an empty stomach, drink water before you're desperate for it, eat a real meal with decent protein within a couple of hours of finishing, and pay attention to how your own body responds. Adjust from there. The goal isn't optimization — it's making sure nutrition is one less thing working against you when you're out there trying to have a good session.
+No meal plan substitutes for load management. If skating consistently leaves a joint swollen or painful, the variables to examine first are session length, surface roughness, [wheel softness and footwear](/blog/gear-for-aging-joints/), and how gradually you build volume—or, when joint symptoms persist, an assessment with a physician or physiotherapist.
