@@ -1,6 +1,6 @@
 ---
-title: "Skateboarding vs. Yoga: Which Builds Balance After 50?"
-description: "Yoga dominates midlife wellness advice, but it trains a different kind of balance than skateboarding does. Here's an honest comparison of what each one builds."
+title: "Skateboarding vs. Yoga After 50: Which Balance Each One Builds"
+description: "A physiotherapist compares static and dynamic balance in yoga and skateboarding after 50—what trials measure, what's inferred, and where risks differ."
 pubDate: 2026-10-21
 author: "Jo Fairweather"
 authorAge: 52
@@ -10,44 +10,30 @@ featured: false
 draft: false
 ---
 
-If you've mentioned to anyone that balance is on your mind as you get older, someone has recommended yoga. It's the default answer, repeated so often it barely gets questioned, and it's not wrong — yoga is a genuinely good practice for a lot of what people worry about in midlife. But "good for balance" is doing a lot of work in that sentence, and it's worth asking what kind of balance, exactly, because skateboarding trains a meaningfully different version of it.
+Mention that you are thinking about balance in your 50s and someone will usually suggest yoga. It is a sensible default, backed by clinical research in older populations and accessible to people who want a low-impact practice. For older skaters—or people wondering how time on a board compares with time on a mat—the useful answer isn't that one replaces the other. They challenge balance in different ways, sit on different levels of clinical evidence, and carry distinct injury trade-offs.
 
-As a physiotherapist who also skates, I get asked some version of this comparison often enough that it's worth writing down properly, instead of giving the short answer and moving on.
+## How the balance demands differ
 
-## Two different kinds of balance
+Clinicians generally divide balance control into three tasks: holding steady over a fixed base of support (static balance), shifting weight intentionally during a planned movement (voluntary dynamic balance), and recovering stability after an unexpected external perturbation such as a slip, trip, or sudden surface shift (reactive balance).
 
-Balance isn't one skill. Broadly, it splits into static balance — holding a position steady, like standing on one leg — and dynamic or reactive balance — recovering control when something unexpected shifts your center of gravity, like stepping on an uneven curb or catching a stumble on stairs.
+Yoga trains both static and voluntary dynamic balance. Holding tree pose (*Vrksasana*) challenges single-leg static control around the ankle and hip, while moving deliberately through a standing flow or lunge sequence requires controlled, self-paced weight transfers. Because you set the pace on a stationary mat, almost all of the balance work in yoga is planned rather than reactive.
 
-Yoga is excellent at the first kind. A tree pose, a standing balance sequence, a slow transition between postures — these ask your body to find a stable position and hold it, refining your awareness of where your weight is and how small adjustments keep you upright. That's real, useful training, and it transfers to plenty of everyday situations where staying steady matters more than reacting fast.
+Skateboarding involves almost no static holding. Most of a normal session relies on anticipatory, dynamic balance: crouching before a transition, shifting weight over the front foot to push, and leaning into a planned carve. Layered on top of that planned movement is a reactive demand whenever the surface or board behaves unpredictably—a wheel catching a pebble, a truck hitting a rough seam, or speed changing faster than expected. Your ankles, knees, and hips have to adjust before you can consciously plan the correction.
 
-Skateboarding barely touches static balance at all. You're almost never holding still. What it trains instead is the second kind — your ankles, knees, and core making constant, unplanned micro-corrections to a rolling, slightly unpredictable surface, dozens of times a minute, without you consciously deciding to make any of them. That's reactive balance, and it's a different nervous-system skill than holding a pose.
+## What clinical studies measure—and what is inferred
 
-## Why the reactive kind matters more as you get older
+The research behind these two activities is uneven, and most controlled trials involve adults aged 60 and older rather than people in their 50s.
 
-Falls, and the loss of independence that can follow a bad one, are consistently identified as a major concern for older adults — and what actually causes most falls isn't a failure to hold still. It's a failure to react fast enough when something unexpected happens: a trip, a slip, an unstable surface that shifts under your foot before you can plan for it. That's the reactive system, not the static one.
+For yoga, a [2016 systematic review and meta-analysis by Sabrina Youkhana, Catherine Sherrington, and colleagues in *Age and Ageing*](https://pubmed.ncbi.nlm.nih.gov/26707903/) pooled six randomized controlled trials in adults aged 60 and over. It found small improvements on clinical balance tests (Hedges' *g* = 0.40) and medium improvements in mobility, though the trials measured test performance rather than fall rates directly. Broader evidence—including [Sherrington and colleagues' 2019 Cochrane review of community-dwelling adults aged 60+](https://pubmed.ncbi.nlm.nih.gov/30703272/)—shows that exercise programs challenging standing balance reduce fall rates in older populations. Applying those findings to healthier adults in their 50s is a reasonable extrapolation from older cohorts rather than direct trial proof.
 
-This is the strongest case for skateboarding as a specific complement to, rather than a replacement for, yoga's static balance work. A rolling board under your feet is a continuous, low-stakes rehearsal of exactly the kind of sudden instability that trips people up in daily life — except you're doing it in a controlled setting, at a speed and surface you choose, instead of discovering the skill gap for the first time on a wet sidewalk.
+On the reactive side, researchers have tested perturbation-based balance training. A [2015 systematic review and meta-analysis by Avril Mansfield and colleagues in *Physical Therapy*](https://pubmed.ncbi.nlm.nih.gov/25524873/) pooled preliminary randomized trials in older adults and people with neurological conditions, finding that repeated exposure to controlled slips, trips, or platform shifts reduced the proportion of participants who fell (risk ratio 0.71). Those trials, however, delivered perturbations in supervised clinical or laboratory settings—such as moving platforms, treadmills, or therapist-applied pushes protected by an overhead harness or spotter—not on a skateboard over concrete.
 
-## What yoga does that skateboarding doesn't
+These reviews do not establish that skateboarding prevents falls in adults over 50. Riding a board clearly exercises [proprioception](/blog/proprioception-training-for-adult-skaters/) and fast postural adjustments, but claiming that skateboarding prevents everyday falls goes beyond the evidence.
 
-This isn't a case for dropping yoga. It does real things skateboarding doesn't touch.
+## Where the risk profiles differ
 
-**Flexibility and range of motion.** Consistent yoga practice measurably improves hip, hamstring, and shoulder mobility — all of which tend to tighten with age and with sedentary work, and all of which make skating itself safer and more comfortable when you have them.
+Because a skateboard rolls over concrete, it is not a fall-prevention tool. An unrecovered wobble on a board can mean an acute impact to the wrist, elbow, hip, or head. Skaters over 50 who ride because they enjoy the movement rely on [protective gear](/blog/safety-gear-guide/) and smooth surfaces to manage that exposure, whereas someone looking strictly for lower-risk balance training is better served by mat work, tai chi, or [supported off-board balance drills](/blog/proprioception-training-for-adult-skaters/).
 
-**Stress and nervous system regulation.** The slow-breathing, parasympathetic side of yoga practice is well-documented for lowering stress responses in a way that an adrenaline-adjacent activity like skating generally isn't trying to do, and isn't well suited to doing.
+Yoga avoids concrete impacts, though it has its own physical cautions. Deep end-range postures, loaded wrist positions in weight-bearing poses, or forceful spinal flexion and twisting can irritate sensitive joints, and instructors typically modify forward folds and extreme twists for participants with disc issues or low bone density.
 
-**Low-impact, joint-friendly movement on recovery days.** If you're sore from skating, or managing a joint issue that makes impact activity risky some days, yoga gives you a way to stay moving without loading the same structures skating does.
-
-## What skateboarding does that yoga doesn't
-
-**Reactive balance under genuine, unplanned instability.** No static pose, however demanding, replicates a surface actually moving under you in a direction you didn't choose.
-
-**Load-bearing impact in a controlled dose.** Pushing, absorbing small bumps, and landing — even gently — puts load through bone and connective tissue in a way static postures don't, which matters for anyone also thinking about bone density as they age.
-
-**A reason to keep showing up that isn't purely a health intervention.** Plenty of adults stick with yoga because it works. Plenty of others quietly let a "should do this for my health" practice lapse within a year. Skating has play and a sense of progress built into it in a way that gives some people — not everyone, but some — a stickier reason to keep coming back.
-
-## The honest answer
-
-If you had to pick exactly one and never do the other, yoga is the safer, gentler, more universally recommended choice, and no physiotherapist is going to tell you it's a bad idea.
-
-But the comparison that actually matters for balance specifically isn't "which one wins." It's that they train two different systems, and the one most midlife wellness advice skips — fast, reactive, unplanned-instability balance — is arguably the one with the most direct line to preventing a bad fall later. If you already do yoga, adding skateboarding isn't redundant. It's covering a gap your current practice was never designed to close. And if skating's been the thing you've been curious about while everyone around you keeps recommending yoga instead, that curiosity is pointing at something real.
+If you have existing joint conditions, osteopenia or osteoporosis, or a history of falls, talk with a physician or physiotherapist before treating either activity as a balance plan. A clinician can help you match the type of balance challenge—and any movement modifications or protective precautions—to your actual health history.
