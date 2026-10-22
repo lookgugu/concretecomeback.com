@@ -10,7 +10,7 @@ interface Props {
 }
 
 const { entry } = Astro.props;
-const { title, description, pubDate, updatedDate, author, authorAge, tags, heroImage, heroImageAlt, featured } = entry.data;
+const { title, description, pubDate, updatedDate, author, authorType = 'Person', authorAge, tags, heroImage, heroImageAlt, featured } = entry.data;
 
 const jsonLd = {
   '@context': 'https://schema.org',
@@ -20,9 +20,9 @@ const jsonLd = {
   datePublished: pubDate.toISOString(),
   ...(updatedDate && { dateModified: updatedDate.toISOString() }),
   author: {
-    '@type': 'Person',
+    '@type': authorType,
     name: author,
-    ...(authorAge && { age: authorAge }),
+    ...(authorType === 'Person' && authorAge && { age: authorAge }),
   },
   publisher: {
     '@type': 'Organization',
