@@ -494,6 +494,11 @@
     "lng": -91.187,
     "source": "Baton Rouge, East Baton Rouge Parish, Louisiana, United States"
   },
+  "US|louisiana|mandeville": {
+    "lat": 30.3582,
+    "lng": -90.0657,
+    "source": "Mandeville, Saint Tammany Parish, Louisiana, United States"
+  },
   "US|louisiana|new orleans": {
     "lat": 29.9561,
     "lng": -90.0734,
@@ -603,6 +608,11 @@
     "lat": 48.4108,
     "lng": -114.3346,
     "source": "Whitefish, Flathead County, Montana, 59937, United States"
+  },
+  "US|nebraska|grand island": {
+    "lat": 40.9243,
+    "lng": -98.3387,
+    "source": "Grand Island, Hall County, Nebraska, United States"
   },
   "US|nebraska|lincoln": {
     "lat": 40.8089,
@@ -734,6 +744,11 @@
     "lng": -81.7982,
     "source": "Lakewood, Cuyahoga County, Ohio, 44107, United States"
   },
+  "US|oklahoma|broken arrow": {
+    "lat": 36.0526,
+    "lng": -95.7908,
+    "source": "Broken Arrow, Tulsa, Oklahoma, United States"
+  },
   "US|oklahoma|oklahoma city": {
     "lat": 35.473,
     "lng": -97.5171,
@@ -798,6 +813,16 @@
     "lat": 34.0008,
     "lng": -81.0352,
     "source": "Columbia, Richland County, South Carolina, United States"
+  },
+  "US|south carolina|spartanburg": {
+    "lat": 34.9498,
+    "lng": -81.932,
+    "source": "Spartanburg, Spartanburg County, South Carolina, United States"
+  },
+  "US|south dakota|brookings": {
+    "lat": 44.3115,
+    "lng": -96.7984,
+    "source": "Brookings, Brookings Township, Brookings County, South Dakota, United States"
   },
   "US|south dakota|sioux falls": {
     "lat": 43.5476,
@@ -929,10 +954,20 @@
     "lng": -89.3842,
     "source": "Madison, Dane County, Wisconsin, United States"
   },
+  "US|wisconsin|sun prairie": {
+    "lat": 43.1833,
+    "lng": -89.2128,
+    "source": "Sun Prairie, Dane County, Wisconsin, United States"
+  },
   "US|wyoming|jackson": {
     "lat": 43.48,
     "lng": -110.7618,
     "source": "Jackson, Teton County, Wyoming, United States"
+  },
+  "US|wyoming|laramie": {
+    "lat": 41.3116,
+    "lng": -105.5918,
+    "source": "Laramie, Albany County, Wyoming, United States"
   },
   "AU": {
     "lat": -33.5878,
@@ -950,8 +985,8 @@
     "source": "derived: mean of 18 listed UK cities"
   },
   "US": {
-    "lat": 39.0237,
-    "lng": -94.7324,
-    "source": "derived: mean of 140 listed US cities"
+    "lat": 39.0096,
+    "lng": -94.6957,
+    "source": "derived: mean of 147 listed US cities"
   }
 }

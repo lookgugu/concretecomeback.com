@@ -24,4 +24,4 @@ tags: ["concrete", "free", "lit"]
 
 The Gathering Place Skate Park features smooth concrete and an inclusive layout divided into three distinct skill zones, allowing newer or returning skaters to practice without weaving through advanced traffic. A pump track and mellow street elements make it highly approachable. 
 
-The park is well-lit for evening use, which is ideal for older skaters fitting a session in after work. It opens early at 7am, offering a quieter window before the afternoon crowds arrive.
+The park is well-lit for evening use, which is ideal for older skaters fitting a session in after work. It opens early at 7am, offering a quieter window before the afternoon crowds arrive. You can also pair a session here with the 30,000-square-foot [Nienhuis Skate Park](/directory/parks/us/nienhuis-skate-park-broken-arrow-ok) in nearby Broken Arrow.
