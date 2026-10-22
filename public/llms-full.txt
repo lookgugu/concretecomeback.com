@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-21T17:42:36.592Z
+# Date: 2026-10-22T07:34:40.123Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -7699,6 +7699,16 @@ Situated inside Coffman Park near the Dublin Justice Center on the northwest sid
 Older skaters easing back into transition or flatground fundamentals can start on the mellow mini-ramp, low banks, and smaller street ledges before dropping into the deeper bowl pockets or stepping up to the stair and rail features. Because this is a free, unsupervised municipal park open to both skateboards and inline skates, after-school hours on fair-weather afternoons can get busy; early mornings after dawn and late evening sessions under the lights offer the calmest windows to work on lines at your own pace.
 
 
+### Dwiggins-Medary Skatepark
+A modernized City of Brookings concrete skatepark inside Dwiggins-Medary Park rebuilt by American Ramp Company with upgraded evening lighting, a refreshed mini-ramp, and low-impact street ledges and banks.
+Location: Brookings, South Dakota, US
+Website: https://www.cityofbrookings-sd.gov/facilities/facility/details/DwigginsMedary-Park-35
+
+Located between Medary and Elm avenues just south of Brookings High School inside the city's joint-use athletic complex, Dwiggins-Medary Skatepark underwent a comprehensive $315,000 municipal overhaul by American Ramp Company that replaced its aging metal ramps with smooth poured concrete. For older skaters in eastern South Dakota, the modernization added upgraded overhead lighting and security cameras to support after-work evening sessions, alongside a newly resurfaced mini-ramp and approachable street terrain backed by off-street paved parking, a park shelter, and seasonal complex restrooms.
+
+Returning riders can ease in on the flatground corridors, low grind ledges, flat rails, and mellow bank ramps or work on transition pumping in the standalone mini-ramp without dropping into deep vertical bowls. Note that because the skatepark sits directly adjacent to Brookings High School and six youth ball diamonds, weekday afternoons around school dismissal and summer tournament evenings can draw heavy youth and scooter traffic—making weekday mornings and later lit evening windows the calmest times to skate. Skaters travelling down the I-29 corridor can also pair a session here with [Barb Iverson Skate Plaza](/directory/parks/us/barb-iverson-skate-plaza-sioux-falls-sd) in Sioux Falls.
+
+
 ### Ed Benedict Skatepark
 Portland's premier 18,000 sq ft concrete street plaza featuring wide flatground lanes, mellow low-rise ledges, and landscaped biofiltration buffers, offering a low-impact alternative to tight transition parks.
 Location: Portland, Oregon, US
@@ -7786,7 +7796,7 @@ Website: https://www.gatheringplace.org/attractions/attractions/skate-park
 
 The Gathering Place Skate Park features smooth concrete and an inclusive layout divided into three distinct skill zones, allowing newer or returning skaters to practice without weaving through advanced traffic. A pump track and mellow street elements make it highly approachable. 
 
-The park is well-lit for evening use, which is ideal for older skaters fitting a session in after work. It opens early at 7am, offering a quieter window before the afternoon crowds arrive.
+The park is well-lit for evening use, which is ideal for older skaters fitting a session in after work. It opens early at 7am, offering a quieter window before the afternoon crowds arrive. You can also pair a session here with the 30,000-square-foot [Nienhuis Skate Park](/directory/parks/us/nienhuis-skate-park-broken-arrow-ok) in nearby Broken Arrow.
 
 
 ### Genoveva Chavez Skatepark
@@ -7824,7 +7834,7 @@ Location: Madison, Wisconsin, US
 
 Goodman Skatepark is the premier spot in Madison, located within McPike Park. The 20,000-square-foot facility is well-regarded by older skaters for its generous lighting hours (open until 10pm from mid-April to October) and early 4am opening, making it highly practical for those fitting a session around work.
 
-The layout physically separates the street section (which makes up about 70% of the park) from the transition area. The transition section itself offers two distinct bowls: a mellow 4–7 foot flow bowl that is ideal for warming up or regaining confidence, and a more advanced 9-foot eggplant bowl for experienced riders.
+The layout physically separates the street section (which makes up about 70% of the park) from the transition area. The transition section itself offers two distinct bowls: a mellow 4–7 foot flow bowl that is ideal for warming up or regaining confidence, and a more advanced 9-foot eggplant bowl for experienced riders. For a skateboard-only session just northeast of the city, you can also check out [Sun Prairie Skateboard Park](/directory/parks/us/sun-prairie-skateboard-park-wi) in Sheehan Park.
 
 
 ### Hazelwood Skatepark
@@ -7861,6 +7871,16 @@ Website: https://h4wpc.org
 Opened along the Eastside Trail of the Atlanta BeltLine, Historic Fourth Ward Skatepark is the centerpiece of Atlanta's concrete skate scene. What makes it approachable for older skaters returning after years away is the deliberate zoning of its 28,000 square feet: beginner, intermediate, and advanced sections are visually and physically distinct, so novice or rusty lines do not collide with high-speed bowl carvers.
 
 The layout includes a series of three linked bowls ranging from a shallow, forgiving transition bowl up to a deep vert pocket, alongside a street snake run and open plaza with manageable banks, ledges, and low rails. Timer-controlled LED lighting keeps the park illuminated until 11pm. Parking is strictly on surrounding streets (such as Willoughby Way and North Angier Avenue), and arriving during early morning hours guarantees the most open concrete.
+
+
+### Hot Spot Skate Park
+South Carolina's first public concrete skatepark, operated by the City of Spartanburg with daily 9am–9pm lit hours, a bike-free policy, and separate street, flow-course, and mellow bowl zones alongside an 8-foot vert ramp.
+Location: Spartanburg, South Carolina, US
+Website: https://www.cityofspartanburg.org/Facilities/Facility/Details/Hot-Spot-Skate-Park-16
+
+Opened in 2009 through a partnership between the City of Spartanburg, R.L. Jordan Oil Co., and the Partnership for Active Youth, Hot Spot Skate Park at 339 Union Street was South Carolina's first public concrete skatepark and remains the flagship municipal facility in the Upstate region. Operated daily from 9:00am to 9:00pm with overhead lighting for evening sessions, the park is also distinctly calmer to navigate than many multi-use municipal parks because City of Spartanburg rules strictly prohibit bicycles inside the fence, limiting traffic to skateboards, inline skates, and scooters.
+
+Designed by Spohn Ranch, the concrete layout separates a street course of steps, low ledges, manual pads, and flat rails from a central flow course—featuring a pyramid, concrete boxes, a camel hump, a spine, and a euro gap—plus a dedicated concrete bowl with forgiving coping and an 8-foot vertical half-pipe with escalators. Older skaters warming up their legs can start on the outer flatground and low street boxes or carve the shallower bowl walls during quiet weekday mornings right after 9:00am before after-school crowds arrive. Note that helmets are required by park rules and the facility closes during wet weather or municipal holidays.
 
 
 ### Jackson Hole Skatepark
@@ -7940,6 +7960,16 @@ Website: https://www.konaskatepark.com/
 If you skated in the late seventies or eighties, Kona is a pilgrimage: the concrete hills and the snake run are the same shapes that skaters crossed the country for in 1977, and the Ramos family have kept the place open since pulling it out of bankruptcy in 1979. It is a paid, staffed park, which for a lot of returning adults is exactly the point — sessions are timed, the place is looked after, and you are not the only grown-up there.
 
 Lessons run at beginner, intermediate and advanced levels and are open to adults, not just kids. One rule to know before you arrive: helmets are mandatory for everyone under 18 and for any beginner or intermediate skater regardless of age, in every area of the park. For advanced adults they are strongly recommended rather than required.
+
+
+### LaBonte Skate Park
+A Dreamland Skateparks poured-concrete facility inside Laramie's 33-acre LaBonte Park that separates a perimeter street plaza and mellow transition bumps from its deep flow bowl and concrete full-pipe, backed by live municipal webcams and seasonal beginner clinics.
+Location: Laramie, Wyoming, US
+Website: https://www.cityoflaramie.org/1094/Skate-Park-Web-Cam
+
+Set inside 33-acre LaBonte Park near the intersection of North 5th Street and East Canby Street, LaBonte Skate Park is a custom poured-concrete facility built by Dreamland Skateparks and operated by the City of Laramie Parks and Recreation Department. While the park is famous across the Mountain West for its mural-painted concrete full-pipe capsule and deep flow bowl, its layout is deliberately zoned so older skaters can warm up around the outer street plaza—equipped with mellow banks, low manual boxes, flat rails, rolling pump bumps, and smaller quarter-pipe transitions—without crossing into high-speed bowl lines. The city also maintains two live public webcams overlooking the slab so you can check crowd levels and surface dryness before leaving home, and partners with Skate Laramie to host seasonal drop-in progression sessions and beginner clinics.
+
+If you are returning to transition, start on the outer banked hips and shallow roll-in pockets during quiet morning windows before University of Wyoming and local youth crowds arrive in the afternoon. Keep in mind that LaBonte Skate Park has no dedicated night floodlighting (limiting sessions to daylight hours), sits at roughly 7,165 feet elevation where dry mountain air and high-plains winds demand extra hydration and pacing, and shares the surrounding park campus with walking paths, picnic shelters, and seasonal restrooms.
 
 
 ### Lake Cunningham Action Sports Park
@@ -8164,6 +8194,16 @@ Set within the expansive Neutaconkanut Park and Hill recreation area, this concr
 Older skaters will appreciate the approachable small bowl and pump track, which offer excellent, low-risk spaces for dialing in your balance and rhythm. The park operates from sunrise to sunset and is surrounded by extensive walking trails and green spaces. Morning visits are recommended to enjoy the park at its quietest.
 
 
+### Nienhuis Skate Park
+A floodlit 30,000-square-foot municipal concrete skatepark in Broken Arrow open daily from 7am to 11pm, combining a Hunger Skateparks concrete pump track and spacious street plaza with a separate 6-foot bowl.
+Location: Broken Arrow, Oklahoma, US
+Website: https://www.brokenarrowok.gov/government/parks/skate-park
+
+Set directly behind the Nienhuis Park Community Center and Aquatic Facility in Broken Arrow, Nienhuis Skate Park spans roughly 30,000 square feet of free municipal concrete after a major 2021 expansion that more than doubled its original 2007 footprint. Operated by the City of Broken Arrow Parks and Recreation Department and floodlit daily from 7:00am to 11:00pm year-round, the facility gives older skaters in the eastern Tulsa metro reliable early-morning and late-evening windows supported by adjacent parking, picnic pavilions, and park restrooms.
+
+The multi-phase layout naturally separates ability levels and riding styles: a dedicated concrete pump track extension designed by Hunger Skateparks sits at one end for low-impact pumping and carving, a sprawling street plaza offers wide flatground lanes, wedge banks, manual pads, and progressive grind ledges in the middle, and the original 6-foot-deep concrete bowl and quarter-pipe section anchors the opposite side. Because the park welcomes BMX bikes, scooters, and inline skates alongside skateboards and is unsupervised, weekday mornings right after 7:00am or later evening hours under the lights offer the most relaxed sessions. You can easily pair a suburb session here with [Gathering Place Skate Park](/directory/parks/us/gathering-place-skate-park-tulsa-ok) along the Arkansas River in Tulsa.
+
+
 ### Norfolk Skatepark
 A well-rounded concrete park featuring a forgiving 4-6 foot bean-shaped bowl and mini-ramp section. Equipped with lights for evening skating, making it practical for older skaters with daytime commitments.
 Location: Norfolk, Nebraska, US
@@ -8257,7 +8297,7 @@ A skater-built, 6,000-square-foot concrete park under the I-610 overpass. The co
 Location: New Orleans, Louisiana, US
 Website: https://www.instagram.com/parisite_diy/
 
-New Orleans' first official public skatepark started as a DIY project and is now a celebrated community space. Nestled beneath the bustling Interstate 610 overpass, it provides essential cover from the sun and rain, which is a major advantage for older skaters needing a reliable venue. It caters to all skill levels with varied cast-in-place concrete features.
+New Orleans' first official public skatepark started as a DIY project and is now a celebrated community space. Nestled beneath the bustling Interstate 610 overpass, it provides essential cover from the sun and rain, which is a major advantage for older skaters needing a reliable venue. It caters to all skill levels with varied cast-in-place concrete features. Across Lake Pontchartrain on the Northshore, you can also ride the 30,000-square-foot [Pelican Park Skate Park](/directory/parks/us/pelican-park-skate-park-mandeville-la) and its concrete pump track in Mandeville.
 
 
 ### Pearsall Park Skatepark
@@ -8276,6 +8316,16 @@ Website: https://www.phoenix.gov/parks/parks/skate-parks
 Situated in the Ahwatukee Foothills within Pecos Park, this 29,500-square-foot concrete facility is one of the premier municipal skateparks in Arizona. A crucial advantage for older skaters is the park's strict skateboard-and-inline rule that prohibits bicycles and motorized scooters, dramatically reducing unpredictable crossing traffic and high-speed collision hazards.
 
 The layout features an expansive, open-concept street plaza loaded with gentle rolling pump bumps, flat ground banks, and wide curb-height ledges alongside a 7-foot transition bowl. Morning sessions between 7am and 9am are the best window for returning skaters, avoiding both peak desert temperatures and crowded afternoon gatherings. Before heading out, stop by Cowtown Skateboards on North Central Avenue for fresh soft wheels, riser pads, or protective gear.
+
+
+### Pelican Park Skate Park (Pelican's Nest)
+A 30,000-square-foot all-concrete facility in Mandeville's Pelican Park expanded by New Line and Grindline Skateparks with night lighting until 9pm, a street plaza, an elbow bowl, and Louisiana's first concrete pump track.
+Location: Mandeville, Louisiana, US
+Website: https://pelicanpark.com/skatepark/
+
+Located at the north end of the Pelican Park athletic complex across from the Bark Park dog park in St. Tammany Parish, Pelican Park Skate Park (also known locally as Pelican's Nest) tripled in size to 30,000 square feet of poured concrete designed and built with New Line Skateparks and Grindline Skateparks. Operated by Recreation District #1 with daily 7:00am to 9:00pm hours, upgraded overhead night lighting, shade structures, spectator seating, and water bottle refill stations, the park gives older skaters on Lake Pontchartrain's Northshore a practical way to beat Gulf Coast heat and workday schedules.
+
+The expanded footprint is built around three distinct zones: Louisiana's first all-concrete pump track, a broad street plaza with low ledges, flat bars, manual pads, and banks, and a deeper elbow-shaped transition bowl. Returning skaters can rebuild leg strength and carving rhythm on the continuous, no-push concrete pump track rollers or outer plaza ledges without dropping into deep transition. Keep in mind that the park is unsupervised ("skate at your own risk"), and Recreation District #1 designates specific bike sessions (such as Tuesday and Thursday evenings from 7:00pm to 9:00pm and Saturday mornings from 7:00am to 9:00am)—check posted complex rules and aim for early weekday mornings for the calmest skateboard-only flow. You can also pair a Northshore session here with [Parisite Skatepark](/directory/parks/us/parisite-skatepark-new-orleans-la) across the Causeway in New Orleans or [Perkins Road Community Park Skatepark](/directory/parks/us/perkins-road-skatepark-baton-rouge-la) in Baton Rouge.
 
 
 ### Penn Valley Skatepark
@@ -8325,6 +8375,16 @@ The park sits on a pile-supported pier over the Hudson, on the spot where Chelse
 What makes it a good comeback park is that the levels are named on the map. Start in the Beginner Ollie Zone (4-foot quarter, 2-foot wedge, 3-foot start box), move to the Intermediate Fun Box (24-foot ledge, kinked flat rail, 18-foot ollie ledge), and leave the 5-foot spine and the deep end of the bowl for later. Hudson River Park also runs a street-style park at Pier 25 in Tribeca if flat ledges suit you better than transition.
 
 For a setup before you go, Labor Skateshop on Canal Street — skateboarder-owned since 2012 — is the Lower East Side shop paired with this park.
+
+
+### Pier Park Skatepark
+A zoned all-concrete municipal skatepark in Grand Island's Pier Park rebuilt by Artisan Skateparks with evening lighting, separating approachable street ledges, banks, and mini-ramp transitions from larger flow features.
+Location: Grand Island, Nebraska, US
+Website: https://www.giparks.com/page/pier-park-skatepark/
+
+Situated inside Pier Park just south of downtown Grand Island, Pier Park Skatepark underwent a nearly $900,000 complete reconstruction by Artisan Concrete Services (Artisan Skateparks) that replaced its original 2001 steel-and-wood ramps with a modern, low-maintenance poured-concrete facility. Operated by Grand Island Parks and Recreation with daily park access from 5:30am to 11:00pm and overhead night lighting, the park gives older skaters in central Nebraska both quiet sunrise windows and illuminated evening sessions after work.
+
+Artisan's design divides the slab into distinct riding zones so returning skaters can warm up on smooth flatground, mellow banks, low manual pads, flat rails, and smaller mini-ramp transitions without getting tangled in faster cross-park lines over the spine and central funboxes. Note that the unsupervised municipal park welcomes BMX bikes, scooters, and inline skates alongside skateboards, and summer afternoons near the adjacent Pier Park lake and recreation amenities draw heavy youth traffic—making early mornings or lit weeknight sessions the best times to roll. Skaters travelling across Nebraska along I-80 can also pair an outdoor session here with the 19+ Sunday evening sessions at [The Bay Skatepark](/directory/parks/us/the-bay-skatepark-lincoln-ne) in Lincoln.
 
 
 ### Pitcher Park Memorial Skatepark
@@ -8487,7 +8547,7 @@ Website: https://dpr.dc.gov/
 
 Shaw Skatepark is a popular, concrete community park situated in the heart of Washington, D.C. Renovated with a smooth surface and later enhanced with a flow bowl, the facility offers a diverse mix of transition and street elements.
 
-The park's varied layout allows returning skaters to find a comfortable zone and progress at their own pace. Because of its central location, it can draw a crowd; beginners are encouraged to observe the flow of the park and visit during quieter, off-peak periods to build confidence. Be aware that while official hours are dawn to dusk, the gates are occasionally reported locked in the early evening.
+The park's varied layout allows returning skaters to find a comfortable zone and progress at their own pace. Because of its central location, it can draw a crowd; beginners are encouraged to observe the flow of the park and visit during quieter, off-peak periods to build confidence. Be aware that while official hours are dawn to dusk, the gates are occasionally reported locked in the early evening. For a bike- and scooter-free street plaza session on the east side of the District, you can also visit the [Skate Park at RFK Campus](/directory/parks/us/skate-park-at-rfk-campus-washington-dc).
 
 
 ### Sk8-Cary Action Sports
@@ -8508,6 +8568,16 @@ Website: https://www.ccprc.com/3141/SK8-Charleston
 SK8 Charleston is a massive, professionally built concrete facility that draws riders from all over the Southeast. While it is famous for its deep, challenging bowls, the park is actively welcoming to all skill levels. 
 
 For returning skaters, the standout feature is the park's instruction program. Individual lessons can be requested directly via the county parks site, where you can specify your skill level and focus areas, ensuring you get tailored guidance rather than a generic youth class. The on-site skate shop also provides helmet and board rentals. Helmets are strictly required for all riders, and pads are highly recommended. Note that Tuesdays are designated for BMX bikes only—skateboards are not permitted on that day to prevent collisions.
+
+
+### Skate Park at RFK Campus (Maloof Skate Park)
+A 15,000-square-foot California Skateparks concrete street plaza on the RFK Campus modeled after Freedom Plaza and Pennsylvania Avenue, prohibiting bikes and scooters so older skaters can practice flatground, manual pads, and ledges without cross-traffic.
+Location: Washington, District of Columbia, US
+Website: https://eventsdc.com/venue/skate-park-rfk-campus
+
+Set near Parking Lot 3 and the Stadium-Armory Metrorail station along the Anacostia River, the Skate Park at RFK Campus (originally built for the 2011 Maloof Money Cup) spans 15,000 square feet of smooth poured concrete managed by Events DC. Designed by pro skater Geoff Rowley and California Skateparks as a tribute to classic District street spots—including replicas of the Freedom Plaza ledges, Pennsylvania Avenue granite steps, and the Golden Rail—the plaza is particularly welcoming for older skaters rebuilding street fundamentals because Events DC rules strictly prohibit bicycles, scooters, and motorized devices, restricting the slab to skateboards, inline skates, and roller skates.
+
+Returning riders can warm up on the wide, open flatground approaches, low manual pads, and mellow bank ramps around the outer plaza before testing the multi-stair hubbas, rails, or the perimeter quarter-pipe and vert wall. Keep a few strict Events DC rules in mind before visiting: commercially manufactured helmets, elbow pads, and kneepads are required at all times, skating alone is prohibited (at least two people must be present), and the unlit facility operates strictly from dawn to dusk and closes during wet, snowy, or icy conditions. You can also pair an east-side plaza session here with [Shaw Skatepark](/directory/parks/us/shaw-skatepark-washington-dc) in Northwest D.C.
 
 
 ### Skatepark of Baltimore
@@ -8610,6 +8680,16 @@ Website: https://strongerskatepark.com
 Located just outside Portland in Milwaukie, Stronger Skatepark is purpose-built to be an inclusive, low-intimidation space for all ages. The park features a Baltic birch top layer over its wood ramps and focuses heavily on flatground, mellow street obstacles, and transition learning areas.
 
 It is a standout facility for older skaters returning to the sport. They offer an adult skateboarding class every Monday night, as well as specific 30+ sessions bookable on their calendar. Weekday afternoons before 5 PM are generally quieter if you want to work on basics. Check out nearby Cal Skate Skateboards when you're in the Portland area.
+
+
+### Sun Prairie Skateboard Park (Sheehan Park)
+A multi-phase municipal concrete skatepark in Sun Prairie's Sheehan Park open daily from 6am to 10pm with evening lighting and a strict skateboard-only policy that prohibits both bikes and scooters.
+Location: Sun Prairie, Wisconsin, US
+Website: https://cityofsunprairie.com/1902/Skateboard-Park
+
+Set on the east side of Sheehan Park along South Bird Street just northeast of Madison, the Sun Prairie Skateboard Park is a phased poured-concrete municipal facility originally constructed in 2016 and expanded with Grindline Skateparks in 2021. For older skaters in Dane County, its biggest draw is a rare municipal rule: City of Sun Prairie regulations explicitly prohibit both bicycles and scooters on the slab, reserving the park strictly for skateboards and eliminating the unpredictable cross-traffic common at busy suburban parks.
+
+Open daily from 6:00am to 10:00pm with adjacent parking and seasonal Sheehan Park restrooms, the multi-phase layout lets returning riders warm up on open flatground, low ledges, flat bars, and mellow banks before stepping up to the mini-ramp and bowl transitions. Keep a practical local caveat in mind: while the park has site lighting for evening use until 10:00pm, local skaters note the fixtures are somewhat dim after full dark, making early mornings after 6:00am or golden-hour dusk sessions the clearest times to ride. You can easily pair a session here with [Irwin A. and Robert D. Goodman Skatepark](/directory/parks/us/goodman-skatepark-madison-wi) in nearby Madison.
 
 
 ### Sunset Skatepark
