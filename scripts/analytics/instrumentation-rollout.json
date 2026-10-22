@@ -1,0 +1,16 @@
+{
+  "_comment": "Read by scripts/analytics/article_scorecard.py. Change only in a reviewed PR after verifying the instrumentation live. completeness: unknown | partial | complete. 'complete' requires version, deployment_date (first full America/New_York day live) and evidence. article_tracker.version must equal TRACKER_VERSION in src/scripts/article-engagement.js. See docs/article-scorecard.md#rollout-controls.",
+  "schema_version": 1,
+  "article_tracker": {
+    "version": null,
+    "deployment_date": null,
+    "completeness": "unknown",
+    "evidence": null
+  },
+  "newsletter_events": {
+    "version": null,
+    "deployment_date": null,
+    "completeness": "unknown",
+    "evidence": null
+  }
+}

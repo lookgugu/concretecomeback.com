@@ -1,3 +1,5 @@
+import { GA4_MEASUREMENT_ID, sendEvent } from './analytics-transport.js';
+
 export const DISMISSAL_MS = 30 * 24 * 60 * 60 * 1000;
 // Mirrors TOKEN_TTL_MS in functions/packages/forms/newsletter/newsletter.js.
 // Once the link in the confirmation email has expired, the prompt may return so
@@ -8,8 +10,9 @@ export const PENDING_MS = 2 * 60 * 60 * 1000;
 export const POPUP_DELAY_MS = 5000;
 // The GA4 property behind GTM-N65JD942. Newsletter events must name it: on this
 // site a destination-less gtag event is queued but never sent (verified in the
-// October 8 audit by intercepting collection requests).
-export const GA4_MEASUREMENT_ID = 'G-VYW5FDDX52';
+// October 8 audit by intercepting collection requests). Defined, with the
+// routing itself, in analytics-transport.js.
+export { GA4_MEASUREMENT_ID };
 // `newsletter_source` values for the server-rendered CTAs. Anything else falls
 // back to in_post, so a typo in markup can never put free text into analytics.
 export const INLINE_SOURCES = ['in_post', 'home_inline', 'parks_inline'];
@@ -114,34 +117,15 @@ export function shouldHideOnEscape(event, activeElement, panel) {
   return true;
 }
 
-// Two sinks on purpose. The dataLayer push is the GTM channel, but it only
-// reaches GA4 once someone adds a custom-event trigger per event name in the
-// GTM UI, and none exist. The gtag command is what actually reaches GA4 — but
-// only because it names `send_to`: the container's Google tag sends an event
-// without a destination nowhere. Do not add a `config` call here (it would
-// send a second page_view), and do not add GTM tags for these event names
-// while this call exists (every event would be counted twice).
+// Routing (dataLayer + gtag with `send_to`, no `config`, QA suppression) lives
+// in analytics-transport.js, shared with the article tracker.
 //
 // Params are a fixed placement source plus, for a stand-down, a fixed reason.
 // Never pass anything the visitor typed or anything from a confirmation link.
 // Analytics is best-effort: a sink that throws (an extension, a stub) must not
 // block the signup request or the CTA coordination around it.
 function track(event, source, extra = {}) {
-  const params = { newsletter_source: source, ...extra };
-  try {
-    window.dataLayer = window.dataLayer || [];
-    window.dataLayer.push({ event, ...params });
-  } catch (_error) {}
-  try {
-    // GTM's own GA4 tag does not create a page-level `gtag`, so define the
-    // canonical wrapper rather than testing for one. It must push the raw
-    // `arguments` object: that is the shape gtag.js reads commands in, and an
-    // array is ignored.
-    if (typeof window.gtag !== 'function') {
-      window.gtag = function gtag() { window.dataLayer.push(arguments); };
-    }
-    window.gtag('event', event, { send_to: GA4_MEASUREMENT_ID, ...params });
-  } catch (_error) {}
+  sendEvent(event, { newsletter_source: source, ...extra });
 }
 
 function inlineSource(panel) {
