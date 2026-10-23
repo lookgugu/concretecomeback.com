@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-22T18:22:29.608Z
+# Date: 2026-10-23T09:16:10.989Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -3788,6 +3788,58 @@ None of the above is a reason to stop or scale back dramatically. It's a reason 
 None of this means your body is working against you. It means your body is going through a well-understood transition that happens to overlap with the exact years a lot of women are returning to skating, and it deserves specific attention rather than being lumped in with generic aging advice aimed at everyone. Adjust your strength work, your warm-up, and your recovery expectations to match what's actually happening hormonally, and there's no physiological reason perimenopause should be the thing that ends your comeback rather than a chapter you skated straight through.
 
 
+### How to Plan a Trip Around a Skatepark
+A practical guide to skate tourism — what makes a park worth the detour, how to vet one before you travel, and where to actually start looking.
+
+A few years back I built a long weekend in Portland almost entirely around two skateparks I'd seen clips of online. The trip also happened to involve good food and a visit to an old friend, but if I'm honest with myself, the parks came first and everything else got arranged around them. I didn't tell anyone that's how the itinerary actually got built. I'm telling you now, because it worked, and I think more adult skaters would enjoy their travel more if they let a park be the anchor instead of an afterthought.
+
+This isn't the same as [a structured skate camp or retreat](/blog/adult-skate-camps-retreats/), which is a multi-day coached program you book into. This is simpler and more flexible: picking a destination, or shaping a trip you're already taking, around a park that's genuinely worth the detour.
+
+## What actually makes a park worth traveling for
+
+Not every park deserves a special trip, and knowing the difference saves you from a disappointing afternoon in an unfamiliar city.
+
+**Terrain variety.** A park with one kind of feature — all street, all bowl, all flow — is fine locally but rarely worth a trip. The parks worth traveling for usually mix transitions, a bowl or two, and something mellow enough for a warm-up, so there's a real reason to spend hours there rather than thirty minutes.
+
+**Surface quality.** This matters more than almost anything else and is the hardest thing to judge from photos. A beautifully designed park with a rough, patchy surface is miserable to actually skate. Recent builds from specialist skatepark design-and-build firms tend to be the safer bet, since smooth concrete is now a basic expectation of the craft rather than a luxury.
+
+**Mixed-age, mixed-skill vibe.** A park that's visibly dominated by one group — all teenagers doing street tricks, say — can feel unwelcoming to a 45-year-old cruiser, whatever the terrain looks like. Parks built with wider wheel use and varied skill levels in mind tend to read differently in photos and video: more cruising, more variety, less of a single dominant crowd.
+
+**Covered or well-lit, if you can get it.** Not essential, but a covered section extends a trip's usefulness past a rained-out afternoon, and decent lighting matters if you're traveling somewhere with short winter daylight.
+
+## Do the research before you book anything
+
+Don't rely on a single Instagram clip to justify a flight or a long drive. A few sources worth cross-checking:
+
+**This site's own directory.** The [parks directory](/directory/parks) is built specifically around the question you're asking — adult-friendly terrain, difficulty level, and city — across the US, UK, Canada, and Australia. It's a faster starting point than a general search if you're choosing between a few possible destinations.
+
+**Recent reviews, not just the park's own marketing.** Google Maps reviews from the last year or two will tell you about current surface condition, how crowded it gets and when, and whether a renovation closed part of the park — all things that change after a park's initial opening coverage.
+
+**Local skate shop staff.** A quick call or message to a nearby shop is one of the most reliable ways to get an honest, current read on a park — they know which sessions are quiet, which features have gone rough, and whether the vibe actually matches what you saw online.
+
+**Status can change fast, so check right before you go.** Parks close for resurfacing, renovations get delayed, and a few genuinely historic parks have had real setbacks — England's Rom Skatepark in Hornchurch, a Grade II listed park from the late 1970s and one of the oldest surviving skateparks in the world, lost its indoor facilities to a fire in 2018 and later had its hours and operations disrupted by rising costs. A park's legendary reputation doesn't guarantee it's fully open the week you land. A quick check a day or two before you travel is worth the five minutes it takes.
+
+## A few worth knowing about
+
+These are well-established enough to be a reasonable starting point for your own research, not a guarantee of what you'll find on arrival — check current status before you build a trip around any of them.
+
+**Vans Off The Wall Skatepark, Huntington Beach, California.** Opened as a free, publicly accessible park funded by Vans, with a large mixed-terrain layout including bowls, stair sets, and plenty of flat space to warm up on. Worth confirming current hours and access before you go, since specifics can shift over a decade.
+
+**Malmö, Sweden.** Less a single park than a whole city worth visiting — Malmö has built a genuine reputation as one of the most skate-friendly municipalities in the world, with a long-running partnership between the city and the non-profit Bryggeriet that's shaped public skate spaces across town. If you're planning a European trip anyway, it's worth routing through.
+
+**Your own country's directory first.** Rather than chasing an overseas destination park on your first attempt at this, it's worth testing the idea close to home — pick a park two or three hours away that you've never visited, and see how a deliberately planned day at an unfamiliar park feels before you build a whole trip abroad around the idea.
+
+## Make it a real trip, not just a day
+
+The parks that are worth traveling for are usually worth building a proper day or two around, not squeezing into a rushed afternoon between other plans.
+
+Time your session for a weekday morning or early afternoon if your schedule allows it — unfamiliar parks are much easier to read when they're not crowded, and you'll get a far better sense of the terrain without dodging a packed session. Book accommodation within easy reach of the park rather than optimizing purely for city-center convenience; a short walk or drive back to rest between sessions matters more on a dedicated skate trip than it does on an ordinary vacation. And build in something non-skating nearby — food, a hike, a museum — so the day doesn't collapse entirely if the park turns out rougher than you hoped.
+
+## Start smaller than the dream trip
+
+You don't need to fly somewhere to try this out. Pick a park within a few hours' drive that you've genuinely never visited, plan the trip the way you would a bigger one — research, timing, a non-skating backup plan — and see how it feels to travel, even locally, with a skatepark as the actual point of the day. If it clicks, the bigger trip is just the same idea with a longer flight attached.
+
+
 ### Prehab: Protect Your Skating Joints Before They Break Down
 Prehab for adult skaters: proactive ankle, knee and hip work that reduces injury risk instead of waiting to rehab one after it happens.
 
@@ -4192,6 +4244,56 @@ If you recognize yourself in that pattern, the useful move isn't to argue yourse
 Give it a few sessions before you trust that. The nervous system that learned "sport means being watched and judged" in sixth grade doesn't update instantly just because the facts changed. But it does update, especially somewhere built from the start to not work the way PE did.
 
 You're not behind. You were never actually being timed.
+
+
+### Getting Back on the Board After Your Comeback Already Got Hurt
+The specific discouragement of getting hurt mid-comeback, and how to find the will to start the return process over again.
+
+There's a particular kind of quiet that shows up in our group chat after someone's second setback. Not the first one — people rally hard around a first injury, because a first injury still fits the story everyone already believes: you're 46, you got back on a board, of course something was going to give. The second one is different. Someone comes back from six weeks off, eases in carefully, does everything right, and still ends up hurt again — a different joint, a dumb slip, nothing dramatic — and this time the messages are shorter. Less "get well soon," more silence, because nobody quite knows what to say to someone who's wondering out loud whether this is even worth it anymore.
+
+If you're in that spot right now, the thing worth hearing first is: the exhaustion you're feeling isn't about your ankle, or your shoulder, or whatever joint just let you down twice. It's about momentum, and momentum is a different thing to rebuild than cartilage.
+
+## Why the second comeback feels heavier than the first
+
+The first time you came back to skating, you were proving something to yourself — that you still could, that the old version of you wasn't entirely gone. That's a hopeful kind of effort. It feels like discovery.
+
+The second comeback starts from a different place. You already know you can do it, because you did. What you don't know anymore is whether doing it again just sets you up for a third time. The identity stakes have gone up, not down — you're no longer "someone trying to get back into skating," you're "someone who tried, got hurt, tried again, and got hurt again," and that's a much harder story to want to keep telling yourself.
+
+This isn't the same thing as the fear that follows [a single bad fall](/blog/fear-after-a-bad-fall/), which is usually pinned to one specific movement — a drop-in, a particular transition. What you're carrying after a second injury is broader and vaguer: a loss of trust in the whole project, not just one feature at the park.
+
+## Separate the two questions you're actually asking
+
+Buried inside "should I even bother" are two completely different questions, and most people try to answer both at once, which is why it feels so heavy.
+
+**Is my body actually ready?** This is a physical, answerable question. It has nothing to do with motivation and everything to do with range of motion, strength symmetry, and whether you flinch imagining the movement that hurt you. The [return-to-play criteria](/blog/return-to-play-decision-adult-skaters/) on this site walk through exactly how to check this honestly instead of guessing.
+
+**Do I want to do this again?** This is not a physical question at all, and no joint test can answer it. It's allowed to take longer to answer than your body does to heal. Don't let the physical clearance pressure you into pretending you've already answered the second question too.
+
+Keeping these separate matters because conflating them is what makes people quit entirely, or push back in before they're ready. "My ankle's fine, so I guess I'm fine" skips straight past a question that deserved its own honest answer.
+
+## The body remembers what the mind would rather forget
+
+There's a real, well-documented phenomenon in sports medicine called kinesiophobia — a fear of movement, specifically, rather than a fear of the activity in general. After a second injury, it's common to notice your body flinching at movements that have nothing to do with where you got hurt. That's not weakness and it's not in your head in the dismissive sense people mean that phrase. It's your nervous system doing exactly what it's supposed to do after two data points instead of one: generalising the warning wider than the original injury, just in case.
+
+Knowing the name for it helps, oddly. It turns "something's wrong with my nerve" into "this is a known, temporary overcorrection," which is a much easier thing to work patiently through than a vague sense that you've lost your edge for good.
+
+## Start smaller than you think you need to
+
+The instinct after a second injury is to either quit outright or come back exactly as hard as before, like proving a point. Both skip the actual fix, which is starting noticeably smaller than your first comeback did — not because your body demands it, necessarily, but because your confidence does.
+
+Give yourself a version of returning that has almost no way to go wrong: flat ground, low-stakes terrain, sessions short enough that you're done before fatigue starts making decisions for you. The goal in these first weeks isn't progress. It's collecting evidence, one uneventful session at a time, that showing up doesn't automatically end badly. That evidence is what actually rebuilds the trust a second injury took from you — not willpower, not a pep talk, just a string of boring, fine sessions stacking up.
+
+## Rebuild the reason, not just the body
+
+Here's the part that's easy to skip: figure out, honestly, what you actually want out of this before you ramp back up. Maybe it's the exact thing you wanted the first time. Maybe a second injury has quietly changed what you're chasing — you might want a mellower version of skating now, less terrain, more cruising, a different relationship with risk entirely. That's not giving up. The [case for skating smaller](/blog/why-skating-smaller-is-the-advanced-move/) is its own legitimate path, not a consolation prize.
+
+What matters is that the reason you're coming back is one you actually believe right now, today, not the leftover reason from before anything went wrong. A rebuilt "why" carries you through the inevitable rough session far better than a borrowed one does.
+
+## Lean on the people who've done this twice
+
+If your group has anyone who's been through a second comeback — and in most adult skate communities, someone has — talk to them specifically, not just the group in general. People who've only had one smooth return, however well-meaning, tend to offer advice built for a different problem. Someone who's actually stood where you're standing will tell you what actually worked, and just as usefully, will quietly make it normal that you're even having these doubts at all.
+
+The second comeback doesn't have to be as hard as it feels right now. It's just a different project than the first one was, and it deserves its own plan instead of a repeat of the old one.
 
 
 ### September Is the Best Month to Get Back on a Skateboard
@@ -5650,6 +5752,50 @@ That's different from genuinely impaired. If you're noticeably drowsy, catching 
 ## The simple version
 
 None of this requires a sleep tracker or a sleep hygiene overhaul. It requires treating sleep as part of your training plan rather than something that happens off to the side of it: a consistent bedtime and wake time, caffeine and alcohol handled with the same care you'd give your warm-up, and enough attention to notice if a real sleep problem is developing rather than just aging around it. Get that right and the same number of sessions per week will leave you less sore, progressing faster, and safer on the days that actually matter.
+
+
+### Why Sober-Curious Adults Are Finding Community at the Skatepark
+Skateparks are becoming a real social option for sober and sober-curious adults — no bar, no pressure, just a shared language of falls and progress.
+
+A few people in our Tuesday sessions have told me some version of the same thing: skating is the first social thing they've done in years that didn't quietly assume they'd be drinking. Not an AA meeting, not a dry bar night that's really just a bar with worse options — a park, where showing up sober isn't a topic, because the activity itself doesn't revolve around alcohol the way so much adult socializing does. Nobody can promise every stranger at a public park is sober, but nobody's handing you a drink either, and that's most of the pressure gone already.
+
+That's worth sitting with for a second, because it's rarer than it should be. Think through the standard adult social menu: dinner out, a work happy hour, a friend's birthday, most date nights. Nearly all of it is built around alcohol as the backdrop, even when nobody says so out loud. If you're sober, sober-curious, or just trying to cut back, you end up doing a quiet calculation before almost every invite. Skateparks are one of the few places you don't have to.
+
+## The sober-curious shift is bigger than "Dry January"
+
+"Sober curious" is the name writer Ruby Warrington gave to a specific stance: not necessarily quitting drinking forever, not identifying as someone in recovery, just genuinely questioning whether alcohol belongs in a given moment, and feeling free to say no without a big explanation. It's become a real, lasting cultural current, not a one-month January fad — more adults in their 40s and 50s are simply drinking less than they used to, for reasons ranging from health to sleep to just noticing they feel better without it.
+
+What that shift exposes is how few adult social spaces were ever built for anything else. Most "going out" options assume a drink in your hand is part of the evening. A skatepark doesn't just tolerate sobriety — it structurally requires it. You cannot safely skate drunk, and everyone there knows it, so nobody's offering you a drink in the first place.
+
+## Why the skatepark specifically works
+
+It isn't only that alcohol is absent. A few other things about the space itself make it a genuinely good fit for people looking for connection without the usual social machinery.
+
+**Most public parks need no reservation.** At a typical outdoor municipal park, you don't need to be invited, book a table, or coordinate a group text — you show up, and you're in. That zero-entry structure removes most of the social friction that normally makes meeting people exhausting. Some indoor or privately run parks are the exception and do require booking ahead, so it's worth checking a specific venue — [this site's directory](/directory/parks) notes it where that applies — before you treat "just show up" as a universal rule.
+
+**It's skill-focused, not performance-focused.** Nobody's there to be looked at the way a bar or a party can feel. The shared activity is the thing everyone's actually paying attention to, which takes an enormous amount of pressure off simply existing in the space.
+
+**Falling is the universal icebreaker.** Everyone at a skatepark has fallen, recently, in front of other people. That shared, slightly undignified experience flattens a lot of the usual social hierarchy. It's much easier to strike up a conversation with someone who just ate it on the same ledge you did an hour ago than to start one across a crowded room.
+
+**Progress gives you something to talk about besides small talk.** "How long have you been skating" and "what are you working on" are real, low-stakes conversation starters that don't require performing interestingness. That's a genuinely different kind of social labor than most adult venues ask of you.
+
+## Building the community part, deliberately
+
+Showing up once won't automatically produce friendships — that part still takes effort, same as anywhere. A few things that actually move it along:
+
+**Pick a regular time and keep showing up at it.** Familiarity does most of the work that small talk can't. The people who recognize your face after the fourth or fifth visit are the ones who eventually ask your name.
+
+**Learn names before you need favors.** It sounds obvious, but most adults skip this step at parks specifically, treating it as a solo activity by default. Asking someone's name after a good session is a small, normal thing that most people are glad to be asked.
+
+**Look for the groups that already exist.** Many cities have informal adult skate meetups, Facebook groups, or Discords — [this site's guide to finding other adult skaters](/blog/finding-other-adult-skaters/) is a reasonable starting point if you're not sure where to look locally.
+
+**Say the quiet part out loud if it's relevant.** You don't owe anyone an explanation for not drinking, but if it comes up naturally — someone invites you for a post-session beer — a simple "I don't drink, but I'm in for food" tends to land better than dodging it, and it often turns out other people at the session feel the same way and just hadn't said so yet.
+
+## What this isn't
+
+Worth being clear about one thing: a skatepark is not a substitute for recovery support if you need it, and nothing here is a claim that skating treats addiction. What it genuinely offers is something narrower and still valuable — a real social space that doesn't run on alcohol, at a point in cultural history when most adult social spaces still do. For a lot of sober-curious adults, that gap is exactly the thing they've been missing, and it turns out a slab of concrete with some transitions on it fills it better than most of the alternatives on offer.
+
+If the idea of a sober social life has felt thin lately, the park might be a better answer than it sounds like on paper. Show up, learn a name, fall down in front of someone, and see what happens from there.
 
 
 ### Steph Gilmore at 38: Two Early Losses, Then a Win
