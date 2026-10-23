@@ -10,7 +10,7 @@ featured: false
 draft: false
 ---
 
-A few people in our Tuesday sessions have told me some version of the same thing: skating is the first social thing they've done in years that didn't quietly assume they'd be drinking. Not an AA meeting, not a dry bar night that's really just a bar with worse options — a park, where showing up sober isn't a topic, because being sober is the default state of literally everyone there.
+A few people in our Tuesday sessions have told me some version of the same thing: skating is the first social thing they've done in years that didn't quietly assume they'd be drinking. Not an AA meeting, not a dry bar night that's really just a bar with worse options — a park, where showing up sober isn't a topic, because the activity itself doesn't revolve around alcohol the way so much adult socializing does. Nobody can promise every stranger at a public park is sober, but nobody's handing you a drink either, and that's most of the pressure gone already.
 
 That's worth sitting with for a second, because it's rarer than it should be. Think through the standard adult social menu: dinner out, a work happy hour, a friend's birthday, most date nights. Nearly all of it is built around alcohol as the backdrop, even when nobody says so out loud. If you're sober, sober-curious, or just trying to cut back, you end up doing a quiet calculation before almost every invite. Skateparks are one of the few places you don't have to.
 
@@ -24,7 +24,7 @@ What that shift exposes is how few adult social spaces were ever built for anyth
 
 It isn't only that alcohol is absent. A few other things about the space itself make it a genuinely good fit for people looking for connection without the usual social machinery.
 
-**It's outdoor, public, and free of a reservation.** You don't need to be invited, book a table, or coordinate a group text. You show up, and you're in. That zero-entry structure removes most of the social friction that normally makes meeting people exhausting.
+**Most public parks need no reservation.** At a typical outdoor municipal park, you don't need to be invited, book a table, or coordinate a group text — you show up, and you're in. That zero-entry structure removes most of the social friction that normally makes meeting people exhausting. Some indoor or privately run parks are the exception and do require booking ahead, so it's worth checking a specific venue — [this site's directory](/directory/parks) notes it where that applies — before you treat "just show up" as a universal rule.
 
 **It's skill-focused, not performance-focused.** Nobody's there to be looked at the way a bar or a party can feel. The shared activity is the thing everyone's actually paying attention to, which takes an enormous amount of pressure off simply existing in the space.
 
