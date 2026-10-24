@@ -16,10 +16,10 @@ website: "https://southportland.gov/435/Parks-Recreation-Waterfront"
 googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=21+Nelson+Rd+South+Portland+ME+04106"
 featured: false
 addedDate: 2026-10-02
-lastVerified: 2026-10-02
+lastVerified: 2026-10-24
 tags: ["concrete", "free", "outdoor", "lessons"]
 ---
 
 Located adjacent to the South Portland Community Center, this 10,000-square-foot concrete park was designed with an emphasis on flow and accessibility. Its mix of street elements, quarter pipes, and a flow bowl make it an excellent training ground for rebuilding confidence on a board.
 
-The park is widely cited as having a welcoming environment for adults and beginners alike, reinforced by the organized skateboarding lessons offered by the local Parks & Recreation department. Note that there are no lights, so sessions are strictly limited to daylight hours. Helmets and pads are highly recommended by the city.
+The park is widely cited as having a welcoming environment for older skaters and beginners alike, reinforced by the organized skateboarding lessons offered by the local Parks & Recreation department. Note that there are no lights, so sessions are strictly limited to daylight hours. Helmets and pads are highly recommended by the city. If you are travelling north up I-95 or US-1, you can also pair a session here with [Kennedy Park Skatepark](/directory/parks/us/kennedy-park-skatepark-lewiston-me) in Lewiston or [Bath Skatepark](/directory/parks/us/bath-skatepark-me) in Bath.

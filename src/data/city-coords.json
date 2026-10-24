@@ -249,6 +249,11 @@
     "lng": -149.8949,
     "source": "Anchorage, Alaska, United States"
   },
+  "US|alaska|juneau": {
+    "lat": 58.302,
+    "lng": -134.4197,
+    "source": "Juneau, Alaska, United States"
+  },
   "US|alaska|sitka": {
     "lat": 57.4086,
     "lng": -135.4596,
@@ -339,6 +344,11 @@
     "lng": -105.077,
     "source": "Fort Collins, Larimer County, Colorado, United States"
   },
+  "US|connecticut|bristol": {
+    "lat": 41.6712,
+    "lng": -72.943,
+    "source": "Bristol, Naugatuck Valley Planning Region, Connecticut, United States"
+  },
   "US|connecticut|hamden": {
     "lat": 41.3836,
     "lng": -72.902,
@@ -353,6 +363,11 @@
     "lat": 39.6828,
     "lng": -75.7516,
     "source": "Newark, New Castle County, Delaware, United States"
+  },
+  "US|delaware|rehoboth beach": {
+    "lat": 38.7165,
+    "lng": -75.0835,
+    "source": "Rehoboth Beach, Sussex County, Delaware, 19771, United States"
   },
   "US|district of columbia|washington": {
     "lat": 38.8951,
@@ -403,6 +418,11 @@
     "lat": 20.7634,
     "lng": -156.4464,
     "source": "Kihei, Maui County, Hawaii, United States"
+  },
+  "US|hawaii|pearl city": {
+    "lat": 21.4001,
+    "lng": -157.9694,
+    "source": "Pearl City, Honolulu County, Hawaii, 96782, United States"
   },
   "US|idaho|boise": {
     "lat": 43.6166,
@@ -459,6 +479,11 @@
     "lng": -93.6249,
     "source": "Des Moines, Polk County, Iowa, United States"
   },
+  "US|iowa|dubuque": {
+    "lat": 42.5006,
+    "lng": -90.6648,
+    "source": "Dubuque, Dubuque Township, Dubuque County, Iowa, United States"
+  },
   "US|kansas|lawrence": {
     "lat": 38.9719,
     "lng": -95.2359,
@@ -508,6 +533,11 @@
     "lat": 43.9134,
     "lng": -69.814,
     "source": "Bath, Sagadahoc County, Maine, 04530, United States"
+  },
+  "US|maine|lewiston": {
+    "lat": 44.0991,
+    "lng": -70.2177,
+    "source": "Lewiston, Androscoggin County, Maine, 04240, United States"
   },
   "US|maine|south portland": {
     "lat": 43.6382,
@@ -643,6 +673,11 @@
     "lat": 43.1981,
     "lng": -70.874,
     "source": "Dover, Strafford County, New Hampshire, 03820, United States"
+  },
+  "US|new hampshire|nashua": {
+    "lat": 42.7656,
+    "lng": -71.4677,
+    "source": "Nashua, Hillsborough County, New Hampshire, United States"
   },
   "US|new hampshire|portsmouth": {
     "lat": 43.0751,
@@ -793,6 +828,11 @@
     "lat": 40.4237,
     "lng": -79.8828,
     "source": "Swissvale, Allegheny County, Pennsylvania, 15218, United States"
+  },
+  "US|rhode island|newport": {
+    "lat": 41.49,
+    "lng": -71.3138,
+    "source": "Newport, Newport County, Rhode Island, 02840, United States"
   },
   "US|rhode island|providence": {
     "lat": 41.824,
@@ -985,8 +1025,8 @@
     "source": "derived: mean of 18 listed UK cities"
   },
   "US": {
-    "lat": 39.0096,
-    "lng": -94.6957,
-    "source": "derived: mean of 147 listed US cities"
+    "lat": 39.1313,
+    "lng": -94.6087,
+    "source": "derived: mean of 155 listed US cities"
   }
 }
