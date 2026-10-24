@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-24T09:13:36.369Z
+# Date: 2026-10-24T09:16:32.287Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -5703,7 +5703,7 @@ This is the part that should make slalom appealing to anyone hesitant about cost
 
 **Cones, and not many of them.** Ten cones is enough to get a genuine feel for a slalom line. A common beginner layout is a straight run of cones spaced about two meters apart on smooth, flat ground — a cul-de-sac, an empty parking lot, or a quiet stretch of path all work. You don't need an official course to get the benefit; you need repeatable spacing and a surface without cracks or camber to worry about.
 
-That's the full list. No pads are strictly required, though wrist guards are still a reasonable idea any time you're building speed and confidence on a board — see [the falling and gear guides](/blog/wrist-guards-for-adult-skaters/) elsewhere on this site if you want the fuller case for them.
+That's the full equipment list, but it's not the full safety list. A helmet belongs on every session regardless of discipline — this site's [gear guide](/blog/safety-gear-guide/) recommends one even for simple pushing around, and slalom still means real speed and a hard, flat surface under you. Pads are a smaller question: knee and elbow pads aren't strictly necessary for slow, controlled cone work, but wrist guards are still a reasonable idea any time you're building speed and confidence on a board — see [the wrist guard research](/blog/wrist-guards-for-adult-skaters/) elsewhere on this site if you want the fuller case for them.
 
 ## Why the risk profile is different
 
