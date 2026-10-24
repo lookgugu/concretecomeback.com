@@ -34,7 +34,7 @@ What the research supports is a general mechanism — cartilage compresses under
 
 **Session length itself isn't the main variable this research speaks to.** It's tempting to read a cartilage study and conclude shorter sessions are automatically better for your knees. That's not really what this shows — the comparison here is about what happens between loading, not about how much loading is too much. [The warm-up and recovery guides](/blog/recovery-days-for-adult-skaters/) elsewhere on this site cover session frequency and load management in more depth; this research is a reason to think about what you do between sessions, not a reason to change how long any single session runs.
 
-**Ordinary soreness and a joint problem are still different things.** None of this changes the baseline advice: cartilage recovering from normal use feels like manageable stiffness that eases with gentle movement. Sharp, localized pain, swelling, or a knee that catches or gives way is a different category and worth getting assessed rather than walked off.
+**Ordinary soreness and a joint problem are still different things.** One thing this research doesn't change: you can't actually feel your cartilage itself recovering. Cartilage has no nerve supply, so whatever soreness or stiffness you notice after a session is coming from the muscles, tendons, and joint capsule around it, not from the cartilage directly. Generalized stiffness that improves over a day or two with gentle movement is the ordinary pattern for all of that surrounding tissue. Sharp, localized pain, swelling, or a knee that catches or gives way is a different category and worth getting assessed rather than walked off.
 
 ## The honest takeaway
 
