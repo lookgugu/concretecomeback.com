@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-24T00:36:02.962Z
+# Date: 2026-10-24T09:21:59.458Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -685,6 +685,40 @@ That last point matters more for adult skaters specifically than it would for a 
 Use it as a logging and feedback layer on top of training you'd be doing anyway, not as a substitute for a human set of eyes on your safety and your joints. A reasonable split: let an app help you see what a trick attempt actually looked like and track whether you're trending in the right direction between sessions, and keep a periodic check-in with a coach or an experienced skating friend for technique questions and features that intimidate you. If you haven't found that person yet, [how to find a skateboard coach who gets adult beginners](/blog/finding-a-skateboard-coach-for-adults/) is the place to start. Pain, a new injury, or anything involving an existing injury history is a different category entirely — that belongs with a physiotherapist or doctor, not a coach, a friend, or an app, however good its video analysis gets.
 
 The honest answer I gave my patient: try one if the idea appeals to you, treat whatever it tells you as a second opinion rather than a verdict, and don't let a subscription replace the one thing no app does yet — someone physically present who can tell you to stop before you get hurt, not after.
+
+
+### What Knee Cartilage Research Says About Standing, Walking, and Rest
+New research on how knee cartilage recovers between standing, walking, and lying down has real implications for how adult skaters structure rest.
+
+"Rest day" usually means one thing in most adults' heads: lie down, stay off your feet, let the joint recover. A small but genuinely interesting 2024 imaging study complicates that picture in a useful way, and it's worth understanding if your knees are doing a lot of the work absorbing your sessions.
+
+## What the study actually looked at
+
+Researchers used MRI to track compressive strain in the knee cartilage of eight healthy young adults as they moved through a fixed sequence: standing for 30 minutes, walking for 10 minutes, standing again for 30 minutes, then lying down for 50 minutes. Cartilage is living tissue that compresses under sustained load and slowly rebounds once that load is removed — think of it less like bone and more like a sponge that needs time and the right conditions to spring back.
+
+Standing alone compressed the cartilage measurably — roughly 5% strain built up over that first half hour. The genuinely interesting part is what happened next: walking recovered that compression noticeably faster than lying down did. In the study's numbers, cartilage strain eased at roughly three times the rate during walking compared with lying flat afterward.
+
+That's a real finding worth sitting with, because it cuts against the instinct that "resting" means "stopping all movement." A separate 2023 systematic review adds a different, narrower piece of reassurance: it found that cartilage strain from ordinary loading — walking, repeated knee bends — is transient, typically easing within roughly 30 minutes once a walk stops and around 90 minutes once a set of knee bends stops, though the review's authors rate that evidence as low certainty and based on small studies. That review measured recovery after the loading activity ended, not during continued lighter movement, so it doesn't by itself confirm that moving around recovers cartilage faster than lying still — the evidence for that specific comparison comes only from the eight-person MRI study above. What it does support, on its own limited terms, is that cartilage strain from this kind of everyday loading isn't a lasting change; it's built to settle back down given time.
+
+## The caveats worth being honest about
+
+This is not settled, high-confidence science, and it's worth saying plainly where the limits are. The core study had eight participants, all young and healthy — nobody with knee osteoarthritis, an old meniscus injury, or the kind of joint wear a lot of returning skaters in their 40s and 50s are actually managing. Nobody has run the equivalent comparison specifically on skaters, or specifically on older adults, or specifically after the kind of repeated impact loading a skate session produces rather than ordinary standing and walking. Separate research on adults who already have or are at risk of osteoarthritis has found standing and walking can affect their cartilage differently than it does in healthy joints, so this isn't something to assume transfers directly to an arthritic knee.
+
+What the research supports is a general mechanism — cartilage compresses under sustained static load and needs unloading time to recover, and gentle movement appears to speed that recovery more than staying still does. It doesn't support a specific prescription like "walk for exactly ten minutes after every session," and nothing here should replace a physical therapist's guidance if you're managing a diagnosed knee issue.
+
+## What this plausibly means for how you structure rest
+
+**A rest day doesn't have to mean a sedentary day.** If your instinct after a hard session is to spend the next day on the couch, this research suggests that's not obviously the fastest way to let your knee cartilage recover — a walk the next morning may do more for that specific tissue than sitting still does, even though it feels like the opposite of rest.
+
+**Long static standing may be harder on your knees than a session itself.** If your job has you standing in one place for long stretches — behind a counter, at a workbench — that's loading your cartilage in a way that's closer to the "30 minutes standing" arm of the study than to walking or skating is. Breaking up long standing periods with short walks, even a couple of minutes every half hour, fits the general direction of this research better than staying planted.
+
+**Session length itself isn't the main variable this research speaks to.** It's tempting to read a cartilage study and conclude shorter sessions are automatically better for your knees. That's not really what this shows — the comparison here is about what happens between loading, not about how much loading is too much. [The warm-up and recovery guides](/blog/recovery-days-for-adult-skaters/) elsewhere on this site cover session frequency and load management in more depth; this research is a reason to think about what you do between sessions, not a reason to change how long any single session runs.
+
+**Ordinary soreness and a joint problem are still different things.** One thing this research doesn't change: you can't actually feel your cartilage itself recovering. Cartilage has no nerve supply, so whatever soreness or stiffness you notice after a session is coming from the muscles, tendons, and joint capsule around it, not from the cartilage directly. Generalized stiffness that improves over a day or two with gentle movement is the ordinary pattern for all of that surrounding tissue. Sharp, localized pain, swelling, or a knee that catches or gives way is a different category and worth getting assessed rather than walked off.
+
+## The honest takeaway
+
+This is one small study plus a low-certainty review, not a rewrite of how adult skaters should manage their knees. But the general direction — that gentle movement seems to help loaded cartilage recover faster than passive rest does — is consistent enough across what evidence exists that it's a reasonable adjustment to make. If your rest days currently mean total stillness, swapping some of that stillness for an easy walk is a small, low-risk change that the research so far points toward being the better choice, not the worse one.
 
 
 ### Carving First: The Skill Adult Returners Always Skip
@@ -3876,6 +3910,44 @@ The single-leg reach is the one that follows the foundation's own progression: s
 This isn't a substitute for strength training or your pre-session warm-up, and it isn't something that pays off after one session. It's cumulative, low-effort work that compounds over weeks — three sessions a week is enough to notice a real difference over four to six weeks. Do it consistently and the payoff shows up exactly where you want it: catching the wobble instead of riding it out to a fall, and rolling far fewer ankles along the way.
 
 
+### Protective Gear That Actually Fits: A Women's Guide to Pads and Guards
+Most wrist guards and knee pads are sized for men's bodies. Here's how to find protective gear that actually fits and works for women skaters.
+
+A patient of mine, 46 and three months into her comeback, told me she'd stopped wearing her wrist guards because they kept slipping sideways on impact instead of staying put. That's not a tolerance problem or a willpower problem. It's a fit problem, and it's more common than it should be, because most protective gear on the market was designed, sized, and tested around men's hand, wrist, and knee proportions.
+
+This matters more than it sounds like it should. The protective benefit of a wrist guard or knee pad comes from a rigid or semi-rigid shell staying in the exact position it was designed to protect. A guard that shifts, gaps, or pinches doesn't just feel uncomfortable — it stops doing its job at the moment you actually need it.
+
+## Why fit, not just size, is the real issue
+
+Scaling a men's design down to a smaller size doesn't solve the underlying problem. Women's hands and wrists are, on average, proportioned differently relative to overall size — generally narrower across the palm relative to length, with a different wrist circumference-to-palm ratio. A wrist guard sized purely off overall hand length can still seat wrong across the palm, letting the splint rotate out of position on impact instead of spreading the load the way it's meant to.
+
+The same logic applies lower down. Knee pads and impact shorts are built around hip-to-knee proportions and thigh circumference, both of which differ on average between men's and women's bodies. A knee pad that's the right length can still be the wrong shape, leaving a gap at the side of the knee or bunching uncomfortably behind it — exactly where you don't want slack or pressure during a fall.
+
+None of this means standard "unisex" gear never fits a woman well. Bodies vary enormously within any group, and plenty of women find a standard men's or unisex guard that fits them fine. It means fit needs to be checked directly against your own measurements rather than assumed from a general size chart.
+
+## What's actually changed
+
+The growth of women's skate communities in the last few years — groups like London Skate Mums and the Skate Mamas of SCV, among others — has created enough collective demand that more brands now offer women's-specific cuts rather than treating "women's" as a repainted men's model in a smaller size. Powerslide, for example, sells a women's wrist guard line with a differently shaped shell and lining, separate from its standard unisex range. That's a genuine, relatively recent shift, not something that was widely available a decade ago.
+
+It's worth being precise about what this does and doesn't mean. The core safety standard most wrist, knee, and elbow guards are certified against — EN 14120 in Europe, with comparable standards elsewhere — grades impact performance by body weight and by activity level (a lower "Level 1" tier for ordinary recreational use, a higher "Level 2" tier for more acrobatic use), not by sex. There's no separate "women's" safety threshold in the standard itself. What varies between a women's-labeled model and a standard one is typically the shell shape, sizing curve, and lining — the fit, not the certification it's tested to. Two guards at the same certification level and weight range, one women's-cut and one unisex, protect you equally once each actually fits; the point of checking fit is making sure you're getting the protection either one is supposed to provide, not assuming a women's label changes what level of protection you need.
+
+## How to check fit before you buy
+
+**Measure, don't guess.** Wrap a soft tape measure around your wrist just below the knuckle of your thumb, and separately around the widest part of your palm (excluding the thumb) with your hand flat. Different brands size off different measurements — some by wrist circumference, some by palm or hand circumference — so check which one a specific model's chart actually uses before ordering.
+
+**Try the motion, not just the static fit.** A guard that feels fine sitting still can still ride up or rotate once your wrist bends and your hand grips a bar or pushes off the ground. If you're buying in person, mimic a falling motion — hand flat, wrist bent back — and see whether the splint stays put or shifts.
+
+**Check where a knee pad actually sits during a crouch.** Stand in a skating stance and bend your knees the way you would absorbing a landing. The pad should stay centered over the kneecap through that motion, not slide down your shin or ride up your thigh.
+
+**Buy from a retailer with a real return policy on gear.** Protective equipment is one category worth trying before you commit, especially the first time you're buying a brand or line you haven't worn before. A guard you can return if the fit is wrong is worth more than a marginally cheaper one you're stuck with.
+
+**Don't assume "women's" automatically means "right for you."** Treat a women's-labeled model the same way you'd treat any other: check the actual size chart and the fit, not just the label. The goal is gear that stays exactly where it's supposed to be during a fall — whichever line gets you there.
+
+## The part that actually matters
+
+A wrist guard or knee pad that doesn't fit isn't a lesser version of protection — functionally, it's closer to no protection at all, because the mechanism that's supposed to spread load away from the joint only works if it stays in place. If gear has ever felt like it was working against you rather than for you, that's worth troubleshooting as a fit problem before you give up on wearing it. [This site's broader gear guide](/blog/safety-gear-guide/) covers specific models and price ranges; the fit check above is what makes any of those choices actually pay off on the ground.
+
+
 ### Pump Tracks: The Low-Impact Secret for Adult Skaters
 No stairs, no big drops, much less pounding on your joints — just flow. Here's why pump tracks suit returning adult skaters and how to actually ride one.
 
@@ -5604,6 +5676,50 @@ You're not going to skate 1,200 miles, and you shouldn't try to. What's worth ta
 If skating is part of how you're processing something — stress, loss, the general weight of being 45 and trying to feel like yourself again — that's not a lesser reason to be at the park than training for a competition. It might be the better one. It's also, per King's own story and the growing body of coverage connecting skateboarding to [mental health support work](/blog/brain-chemistry-behind-why-skateboarding-helps/), exactly the kind of reason that tends to keep people coming back.
 
 Skyler King's trip raised money, raised awareness, and by most accounts put him in touch with more strangers-turned-supporters than he expected when he pushed off from Oxford. None of that happened because the mileage was impressive. It happened because the reason underneath it was real, and he let people see it.
+
+
+### Slalom Skateboarding: The Low-Consequence Discipline Adult Returners Skip
+Slalom skateboarding offers balance, speed, and real progression with almost none of the fall risk of street or park skating. Here's how to start.
+
+Most adult returners land on one of two defaults: street skating, which means stairs, rails, and ledges, or park skating, which means bowls, ramps, and transitions. Both are great disciplines. Both also carry real fall consequences that a 45-year-old body weighs differently than a 15-year-old one does.
+
+There's a third option that barely gets mentioned in adult-comeback content, and it deserves more attention than it gets: slalom. It's a full discipline with its own competitions, its own gear, and genuine room to improve for years — and almost all of its risk lives in your legs and lungs rather than in the ground coming up to meet you.
+
+## What slalom actually is
+
+Slalom skateboarding is racing (or just practicing) through a line of cones set on a flat or gently sloping stretch of pavement, carving tight, rhythmic turns around each one without knocking it over. That's the whole concept. There's no ramp to drop into, no rail to commit to, no moment where you're airborne and the ground is the only thing waiting for you.
+
+What slalom demands instead is precise balance, rhythmic weight transfer from edge to edge, and leg endurance — the same qualities that make carving and pumping feel good on any board, pushed into a format with an actual skill ladder and a way to measure progress. You can watch your cone spacing tighten, your run times drop, and your turns get cleaner over months, the same way a runner watches a mile time improve.
+
+It's also not a niche invented for this post. Slalom has real competitive history and a visible older-athlete presence right now: Darren Miles, competing at 60, and Judi Oyama, competing at 66, are both slalom skaters active on the World Skate Games stage this month. Neither is a curiosity act. Slalom is a discipline where decades of mileage and refined technique matter more than raw athleticism, which is exactly why it rewards an adult returner's patience rather than punishing their age.
+
+## The gear is almost nothing
+
+This is the part that should make slalom appealing to anyone hesitant about cost or commitment: you can try it with gear you may already own.
+
+**A board you can turn tightly.** A standard skateboard works to start. Dedicated slalom decks tend to be shorter and stiffer for quick edge-to-edge response, but that's an upgrade to make later, not a requirement to begin.
+
+**Softer, rounder wheels.** Slalom wheels run softer and larger than typical street wheels — generally in the 76A–90A durometer range and 66–75mm in diameter — because grip through a tight carve matters more than slide control. If you're already running soft wheels for cruising or park riding, you're close enough to start.
+
+**Cones, and not many of them.** Ten cones is enough to get a genuine feel for a slalom line. A common beginner layout is a straight run of cones spaced about two meters apart on smooth, flat ground — a cul-de-sac, an empty parking lot, or a quiet stretch of path all work. You don't need an official course to get the benefit; you need repeatable spacing and a surface without cracks or camber to worry about.
+
+That's the full equipment list, but it's not the full safety list. A helmet belongs on every session regardless of discipline — this site's [gear guide](/blog/safety-gear-guide/) recommends one even for simple pushing around, and slalom still means real speed and a hard, flat surface under you. Pads are a smaller question: knee and elbow pads aren't strictly necessary for slow, controlled cone work, but wrist guards are still a reasonable idea any time you're building speed and confidence on a board — see [the wrist guard research](/blog/wrist-guards-for-adult-skaters/) elsewhere on this site if you want the fuller case for them.
+
+## Why the risk profile is different
+
+The injury pattern in slalom is closer to a running or cycling injury than a skate injury: overuse in the hips and knees from repeated carving, or a low-speed tumble if you catch an edge. What it doesn't typically produce is the high-consequence fall — the missed drop-in, the slipped-out grind, the failed stair set — that defines most of the serious injuries this site covers elsewhere.
+
+That matters specifically for an adult body. You're not avoiding fall risk by being timid; you're choosing a discipline where the physical demand is real but the downside of a bad rep is small. A blown turn in a slalom run usually means stepping off or a soft tumble onto flat ground, not a slam from height onto transition.
+
+## How to actually start
+
+Set up a short, straight line of cones two meters apart on the smoothest flat ground you can find — a quiet parking lot works as well as anything purpose-built. Push through it slowly the first few times, focusing on a consistent, rhythmic carve rather than speed. Widen or narrow the spacing once the rhythm feels automatic; tighter spacing rewards quick, controlled turns, while wider spacing lets you build speed and flow.
+
+From there, progress is mostly a matter of repetition and small adjustments: standing taller or lower through the turn, shifting how far forward your weight sits, trying a stiffer or softer wheel. If you want more structure, search for "slalom skateboarding" plus your city or region — there are longstanding regional associations in parts of the US, and national skateboarding federations in the UK, Canada, and Australia increasingly track slalom as a competitive category. Even without a local club, a cone line and an empty stretch of pavement is a complete session.
+
+## Who this is actually for
+
+Slalom suits the returning adult who wants a real discipline to improve at — not just a way to pass time on a board — but who isn't interested in rebuilding the fall tolerance tricks and transition skating demand. If that's you, you don't need to wait for permission or a club nearby. Ten cones and a flat stretch of pavement is the entire barrier to entry, and it's lower than almost anything else this site recommends.
 
 
 ### Why Sleep Is Your Most Underrated Skate Recovery Tool
