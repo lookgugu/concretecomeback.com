@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-24T09:16:32.287Z
+# Date: 2026-10-24T09:19:18.195Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -3929,7 +3929,7 @@ None of this means standard "unisex" gear never fits a woman well. Bodies vary e
 
 The growth of women's skate communities in the last few years — groups like London Skate Mums and the Skate Mamas of SCV, among others — has created enough collective demand that more brands now offer women's-specific cuts rather than treating "women's" as a repainted men's model in a smaller size. Powerslide, for example, sells a women's wrist guard line with a differently shaped shell and lining, separate from its standard unisex range. That's a genuine, relatively recent shift, not something that was widely available a decade ago.
 
-It's worth being precise about what this does and doesn't mean. The core safety standard most wrist, knee, and elbow guards are certified against — EN 14120 in Europe, with comparable standards elsewhere — covers impact performance and is typically graded by body weight rather than by sex. There's no separate "women's" safety threshold in the standard itself. What varies between a women's-labeled model and a standard one is the shell shape, sizing curve, and lining — the fit, not the underlying protection requirement. A women's cut that fits you well and a unisex guard that fits you well protect you equally; the point is finding whichever one actually does.
+It's worth being precise about what this does and doesn't mean. The core safety standard most wrist, knee, and elbow guards are certified against — EN 14120 in Europe, with comparable standards elsewhere — grades impact performance by body weight and by activity level (a lower "Level 1" tier for ordinary recreational use, a higher "Level 2" tier for more acrobatic use), not by sex. There's no separate "women's" safety threshold in the standard itself. What varies between a women's-labeled model and a standard one is typically the shell shape, sizing curve, and lining — the fit, not the certification it's tested to. Two guards at the same certification level and weight range, one women's-cut and one unisex, protect you equally once each actually fits; the point of checking fit is making sure you're getting the protection either one is supposed to provide, not assuming a women's label changes what level of protection you need.
 
 ## How to check fit before you buy
 
