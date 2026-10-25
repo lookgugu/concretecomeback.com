@@ -284,6 +284,11 @@
     "lng": -94.4265,
     "source": "Fort Smith, Sebastian County, Arkansas, United States"
   },
+  "US|arkansas|north little rock": {
+    "lat": 34.7695,
+    "lng": -92.2671,
+    "source": "North Little Rock, Hill Township, Pulaski County, Arkansas, United States"
+  },
   "US|california|berkeley": {
     "lat": 37.8708,
     "lng": -122.2729,
@@ -564,6 +569,11 @@
     "lng": -71.104,
     "source": "Cambridge, Middlesex County, Massachusetts, United States"
   },
+  "US|massachusetts|weymouth": {
+    "lat": 42.2212,
+    "lng": -70.9392,
+    "source": "Weymouth, Norfolk County, Massachusetts, United States"
+  },
   "US|michigan|ann arbor": {
     "lat": 42.2814,
     "lng": -83.7485,
@@ -603,6 +613,11 @@
     "lat": 34.3664,
     "lng": -89.5188,
     "source": "Oxford, Lafayette County, Mississippi, United States"
+  },
+  "US|mississippi|petal": {
+    "lat": 31.3466,
+    "lng": -89.2601,
+    "source": "Petal, Forrest County, Mississippi, 39465, United States"
   },
   "US|mississippi|tupelo": {
     "lat": 34.2576,
@@ -754,6 +769,11 @@
     "lng": -78.6391,
     "source": "Raleigh, Wake County, North Carolina, United States"
   },
+  "US|north dakota|bismarck": {
+    "lat": 46.8083,
+    "lng": -100.7837,
+    "source": "Bismarck, Burleigh County, North Dakota, United States"
+  },
   "US|north dakota|fargo": {
     "lat": 46.8772,
     "lng": -96.7898,
@@ -869,6 +889,11 @@
     "lng": -96.7294,
     "source": "Sioux Falls, Sioux Falls Township, Minnehaha County, South Dakota, United States"
   },
+  "US|south dakota|yankton": {
+    "lat": 42.8713,
+    "lng": -97.3967,
+    "source": "Yankton, Mission Hill South Township, Yankton County, South Dakota, 57078, United States"
+  },
   "US|tennessee|knoxville": {
     "lat": 35.9604,
     "lng": -83.921,
@@ -929,6 +954,11 @@
     "lng": -111.9388,
     "source": "Taylorsville, Salt Lake County, Utah, 84129, United States"
   },
+  "US|vermont|bennington": {
+    "lat": 42.8789,
+    "lng": -73.1968,
+    "source": "Bennington, Bennington County, Vermont, United States"
+  },
   "US|vermont|burlington": {
     "lat": 44.4762,
     "lng": -73.2129,
@@ -974,6 +1004,11 @@
     "lng": -122.4383,
     "source": "Tacoma, Pierce County, Washington, United States"
   },
+  "US|west virginia|fayetteville": {
+    "lat": 38.0531,
+    "lng": -81.104,
+    "source": "Fayetteville, Fayette County, West Virginia, 25840, United States"
+  },
   "US|west virginia|parkersburg": {
     "lat": 39.2667,
     "lng": -81.5621,
@@ -1009,6 +1044,11 @@
     "lng": -105.5918,
     "source": "Laramie, Albany County, Wyoming, United States"
   },
+  "US|wyoming|sheridan": {
+    "lat": 44.7948,
+    "lng": -106.8223,
+    "source": "Sheridan County, Wyoming, United States"
+  },
   "AU": {
     "lat": -33.5878,
     "lng": 144.2172,
@@ -1025,8 +1065,8 @@
     "source": "derived: mean of 18 listed UK cities"
   },
   "US": {
-    "lat": 39.1313,
-    "lng": -94.6087,
-    "source": "derived: mean of 155 listed US cities"
+    "lat": 39.1969,
+    "lng": -94.332,
+    "source": "derived: mean of 163 listed US cities"
   }
 }

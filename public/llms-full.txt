@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-24T00:36:02.962Z
+# Date: 2026-10-25T18:25:54.953Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -7529,7 +7529,7 @@ Website: https://parksfoundationburlington.org/a-dog-skatepark/
 
 Set right on the Burlington waterfront with views of Lake Champlain, the Andy A-Dog Williams Skatepark is a beautifully designed 22,000-square-foot concrete facility. The smooth flatground and smaller transition areas offer a forgiving environment for those looking to regain their balance. 
 
-For older skaters looking to avoid the high-energy afternoon traffic, the park's early 7:00 AM opening time provides a perfect quiet window for a relaxed morning session. It lacks lighting, so be sure to plan your visits during daylight hours before the park closes at 8:00 PM.
+For older skaters looking to avoid the high-energy afternoon traffic, the park's early 7:00 AM opening time provides a perfect quiet window for a relaxed morning session. It lacks lighting, so be sure to plan your visits during daylight hours before the park closes at 8:00 PM. You can also pair a Burlington session with the indoor wood ramps at [Talent Skatepark](/directory/parks/us/talent-skatepark-south-burlington-vt) in South Burlington or head south down Route 7 to the Grindline concrete at [Bennington Skatepark](/directory/parks/us/bennington-skatepark-vt).
 
 
 ### Ann Arbor Skatepark
@@ -7609,6 +7609,16 @@ Operated by the nonprofit Midcoast Youth Center at 4 Old Brunswick Road, Bath Sk
 Because regular operating hours open at 10:00am Monday through Friday (until 6:00pm, and 10:00am–5:00pm on Saturdays), weekday mornings and early afternoons before school lets out at 2:00pm offer a calm, uncrowded window for returning riders. One-hour private skateboarding lessons ($25) can also be booked in advance for one-on-one confidence building, and helmet and skateboard rentals ($4–$5) are available at the front desk. Note that the park is closed on Sundays, Saturday mornings from 10:00am to 12:00pm are reserved for a "Half Pints" session limited to children ages 5–10, any special sessions held after 6:00pm require riders to be 16+ (or accompanied by a parent/guardian), and general sessions are shared with scooters, inline skates, and BMX bikes.
 
 
+### Beals Park Skatepark
+An 18,000-square-foot New Line poured-concrete skatepark in North Weymouth's revitalized Beals Park featuring dedicated beginner, intermediate, and expert bowl zones so older skaters can progress outside advanced traffic.
+Location: Weymouth, Massachusetts, US
+Website: https://www.weymouth.ma.us
+
+Set between Athens Street, Sea Street, and Bridge Street (Route 3A) in North Weymouth, Beals Park Skatepark is an 18,000-square-foot custom poured-concrete facility designed by New Line Skateparks as part of the Town of Weymouth's multi-million-dollar revitalization of its oldest public park, planned with Activitas. Served by two organized off-street parking lots on Athens Street and Sea Street, a shade pavilion, benches, and paved walking trails, it anchors public concrete skating on the South Shore just south of Boston.
+
+What makes Beals Park particularly welcoming for older skaters returning after time away is its deliberate three-tier ability zoning: New Line divided the 18,000-square-foot slab into distinct beginner, intermediate, and expert areas, allowing riders to practice flatground pushes, gentle banks, low manual pads, and mellow street ledges in the beginner and intermediate sections without crossing into the enclosed expert transition bowl or larger stair and handrail lines. Keep several practical caveats in mind: while the surrounding walking paths have pedestrian lighting open until 11:00pm, the skatepark itself operates on a dawn-to-dusk daylight schedule without dedicated stadium floodlights, dogs and pets are strictly prohibited inside the skatepark enclosure, and warm weekend afternoons draw heavy local scooter and youth traffic—making weekday mornings the calmest window. You can pair a South Shore session here with [Smith Playground Skatepark & Pump Track](/directory/parks/us/smith-playground-skatepark-boston-ma) and [Orchard Skateshop](/directory/shops/us/orchard-skateshop-boston-ma) in Allston, or head under the Zakim Bridge to the covered, floodlit [Lynch Family Skatepark](/directory/parks/us/lynch-family-skatepark-cambridge-ma) in Cambridge.
+
+
 ### Bellevue Indoor Skate Park & Highland Skate Plaza
 A City of Bellevue skate campus at Highland Community Center pairing a supervised indoor wood ramp park with a Monday evening clinic for older skaters, free gear rentals, and an adjacent 13,000-square-foot floodlit concrete street plaza.
 Location: Bellevue, Washington, US
@@ -7617,6 +7627,16 @@ Website: https://bellevuewa.gov/city-government/departments/parks/sports-and-ath
 Operated by Bellevue Parks & Community Services on the Highland Community Center campus, this dual-facility hub pairs one of the country's longest-running municipal indoor skateparks (established in 1994 and renovated on a two-year cycle) with the adjacent 13,000-square-foot Highland Outdoor Skate Plaza. For older skaters returning to a board across the Eastside and Greater Seattle, the indoor facility runs a dedicated Monday evening clinic (5:00pm–6:00pm) alongside a Monday night quad-skate session (6:15pm–8:00pm), provides free loaner skateboards, helmets, and pads at the front counter, and enforces a strict ban on BMX bikes and scooters inside both the indoor warehouse and the outdoor plaza.
 
 You can match the terrain to the Pacific Northwest forecast: step inside the climate-protected wood park to work on smooth banks, quarter-pipes, and ramps under staff supervision, or roll out to the free, floodlit concrete street plaza (open daily from dawn to 11:00pm) to practice on its refinished slab, 40-foot slappy curb, 24-foot flat bar, across-and-down rail, ledges, stairs, and hubbas. Keep several municipal rules in mind: a signed waiver and strapped helmet are mandatory at all times inside the indoor park, private facility rentals are not offered, and skating on the outdoor plaza is prohibited whenever the concrete is wet or under maintenance. If you need a new deck, softer wheels, or fresh hardware on your way across Lake Washington, stop by [35th North](/directory/shops/us/35th-north-seattle-wa) on Seattle's Capitol Hill, or cross the bridge for a rainy-day session at [All Together Skatepark](/directory/parks/us/all-together-skatepark-seattle-wa).
+
+
+### Bennington Skatepark
+A 16,000-square-foot Grindline poured-concrete skatepark in downtown Bennington open and lit daily from 7am to 9pm, pairing a beginner-friendly street plaza and mini-ramp transition zone with a classic snake run and tribute square bowl.
+Location: Bennington, Vermont, US
+Website: https://www.benningtonskatepark.com
+
+Located at 133 River Street beside the historic downtown railroad station and the Walloomsac Riverwalk in Rotary Park, Bennington Skatepark is a 16,000-square-foot cast-in-place concrete facility designed and built by Grindline Skateparks in partnership with the Town of Bennington and local community advocates. Open daily from 7:00am to 9:00pm with overhead evening lighting, park benches, picnic tables, and adjacent municipal parking, it gives older skaters in southern Vermont dependable early-morning and after-work windows without driving north to Chittenden County.
+
+The layout uses Grindline's signature organic flow to separate approachable progression terrain from advanced transition: returning riders can warm up along the outer street plaza's mellow banks, low ledges, flat rails, and a mini-ramp spine section, or carve the classic concrete snake run before testing the deeper square bowl built as a tribute to Bennington's 1990s Cutting Edge skatepark and Dogtown's Dog Bowl. Keep a few operational caveats in mind: the facility is unsupervised ("skate at your own risk") and shared with scooters, inline skates, and small bicycles, protective helmets and pads are strongly recommended, and sessions pause during winter snow or wet weather until the concrete dries. Skaters travelling up Route 7 toward Lake Champlain can pair a southern Vermont session here with the waterfront concrete at [Andy A-Dog Williams Skatepark](/directory/parks/us/andy-a-dog-williams-burlington-vt) in Burlington or the indoor wooden ramps at [Talent Skatepark](/directory/parks/us/talent-skatepark-south-burlington-vt) in South Burlington.
 
 
 ### Terrence McCrary, Jr. Memorial Skate Park (Berkeley Skatepark)
@@ -7815,7 +7835,7 @@ Location: Fargo, North Dakota, US
 
 Dike West is a massive 23,000-square-foot formed concrete facility and the most popular skate park in Fargo. Its sprawling footprint provides a layout that accommodates and separates challenges for beginner, intermediate, and advanced skaters, making it an excellent space for older skaters easing back onto a board.
 
-The park features a smooth riding surface packed with transition elements like a mini ramp with a spine, alongside a 6-to-10-foot bowl. The street section includes an array of banks, ledges, and rails. The concrete can become extremely slippery when wet, so avoid the park during or immediately after rain.
+The park features a smooth riding surface packed with transition elements like a mini ramp with a spine, alongside a 6-to-10-foot bowl. The street section includes an array of banks, ledges, and rails. The concrete can become extremely slippery when wet, so avoid the park during or immediately after rain. If you are travelling across North Dakota, you can pair a Fargo session with [Rydell Skatepark](/directory/parks/us/rydell-skatepark-grand-forks-nd) in Grand Forks or head west along I-94 to [Lions Park Skate Park](/directory/parks/us/lions-park-skate-park-bismarck-nd) in Bismarck.
 
 
 ### Dover Skatepark
@@ -7852,7 +7872,7 @@ Website: https://www.cityofbrookings-sd.gov/facilities/facility/details/Dwiggins
 
 Located between Medary and Elm avenues just south of Brookings High School inside the city's joint-use athletic complex, Dwiggins-Medary Skatepark underwent a comprehensive $315,000 municipal overhaul by American Ramp Company that replaced its aging metal ramps with smooth poured concrete. For older skaters in eastern South Dakota, the modernization added upgraded overhead lighting and security cameras to support after-work evening sessions, alongside a newly resurfaced mini-ramp and approachable street terrain backed by off-street paved parking, a park shelter, and seasonal complex restrooms.
 
-Returning riders can ease in on the flatground corridors, low grind ledges, flat rails, and mellow bank ramps or work on transition pumping in the standalone mini-ramp without dropping into deep vertical bowls. Note that because the skatepark sits directly adjacent to Brookings High School and six youth ball diamonds, weekday afternoons around school dismissal and summer tournament evenings can draw heavy youth and scooter traffic—making weekday mornings and later lit evening windows the calmest times to skate. Skaters travelling down the I-29 corridor can also pair a session here with [Barb Iverson Skate Plaza](/directory/parks/us/barb-iverson-skate-plaza-sioux-falls-sd) in Sioux Falls.
+Returning riders can ease in on the flatground corridors, low grind ledges, flat rails, and mellow bank ramps or work on transition pumping in the standalone mini-ramp without dropping into deep vertical bowls. Note that because the skatepark sits directly adjacent to Brookings High School and six youth ball diamonds, weekday afternoons around school dismissal and summer tournament evenings can draw heavy youth and scooter traffic—making weekday mornings and later lit evening windows the calmest times to skate. Skaters travelling down the I-29 corridor can also pair a session here with [Barb Iverson Skate Plaza](/directory/parks/us/barb-iverson-skate-plaza-sioux-falls-sd) in Sioux Falls or continue south to the lighted concrete at [Westside Park Skatepark](/directory/parks/us/westside-park-skatepark-yankton-sd) in Yankton.
 
 
 ### Ed Benedict Skatepark
@@ -7905,6 +7925,16 @@ Fargo Skateboarding is a nearly 10,000-square-foot heated indoor facility in DeK
 Older skaters are exceptionally well-supported here. The facility hosts specific beginner sessions (typically on Saturdays) that provide a low-stress environment supervised by coaches. Beyond the beginner blocks, they offer private group classes structured specifically for adults. The building also houses an [on-site skate shop](/directory/shops/us/fargo-skateboarding-shop-dekalb-il) that can provide all the necessary protective gear and completes to get you started safely. Call ahead to confirm the schedule for the next adult-specific session.
 
 
+### Fayetteville Skatepark & Paved Pump Track
+A free Town of Fayetteville recreational complex in the New River Gorge pairing a Grindline poured-concrete three-bowl and street skatepark with an adjacent 10,000-square-foot asphalt pump track for low-impact carving.
+Location: Fayetteville, West Virginia, US
+Website: https://fayettevillewv.gov/town-park/
+
+Located inside Charlie McCoy Town Park at 330 Park Drive on the rim of the New River Gorge National Park and Preserve, the Fayetteville Skatepark & Paved Pump Track gives southern West Virginia riders two distinct wheel-sports venues side by side: a custom cast-in-place concrete skatepark built by Grindline Skateparks and an adjacent 10,000-square-foot paved asphalt pump track with a wallride berm extension. For older skaters rebuilding leg stamina and carving rhythm, the separated 10,000-square-foot pump track offers a continuous, low-impact circuit of rollers and banked berms where you can build speed without taking flatground impact, while the concrete skatepark's outer street section provides mellow banks, ledges, flat rails, and a Jersey barrier away from the deep transition pockets.
+
+Once warmed up, transition riders can step into Grindline's three-bowl complex, which progresses from a flow bowl with a volcano and window to an egg bowl finished with tile and brick coping and a steeper kidney bowl with pool coping. Keep Town of Fayetteville park rules and caveats in mind: the complex is an unlit, self-policing facility open dawn to dusk only ("skate at your own risk"), helmets, knee and elbow pads, and wrist guards are highly recommended, waxing the concrete is prohibited, spectators and pets must remain outside the active concrete skating area, and motorized vehicles and glass containers are barred. Skaters exploring West Virginia can also pair a New River Gorge trip with the lit Grindline concrete at [Fort Neal Skate Park](/directory/parks/us/fort-neal-skate-park-parkersburg-wv) in Parkersburg or [Wheeling Skatepark](/directory/parks/us/wheeling-skatepark-wv) in Elm Grove.
+
+
 ### Flora Park Skatepark
 A 16,000-square-foot poured-concrete municipal skatepark in Dubuque's Flora Park designed with Pillar Design Studios and Origin Design, open daily from 7am to 10pm with site lighting and separate street plaza and transition bowl zones.
 Location: Dubuque, Iowa, US
@@ -7952,7 +7982,7 @@ Website: https://parkersburgwv.gov/departments/parks___recreation/area_parks/for
 
 Maintained by the City of Parkersburg Parks and Recreation Department inside Fort Neal Park, Fort Neal Skate Park is a 10,000-square-foot cast-in-place concrete facility designed and built by Grindline Skateparks. Open and floodlit daily from 7:00am to 11:00pm alongside a park shelter, pond, and walking paths, the venue gives older skaters in the Mid-Ohio Valley reliable morning and evening sessions outside standard work hours.
 
-The park is laid out with distinct terrain zones that separate low-impact street and flow warmup lines from serious transition. Returning skaters can dial in their balance along the outer perimeter's low curbs, mellow concrete mounds, flat rails, and rolling "whip-de-dos" before stepping up to the centerpiece cloverleaf bowl, which drops from a 6-foot pocket through an 8-foot middle section to a 10-foot deep end tailored for experienced bowl riders. Keep two operational caveats in mind: the park is an unsupervised facility shared with BMX bikes and scooters, and the cloverleaf bowl's 6-foot minimum depth demands solid transition control and protective gear before dropping in.
+The park is laid out with distinct terrain zones that separate low-impact street and flow warmup lines from serious transition. Returning skaters can dial in their balance along the outer perimeter's low curbs, mellow concrete mounds, flat rails, and rolling "whip-de-dos" before stepping up to the centerpiece cloverleaf bowl, which drops from a 6-foot pocket through an 8-foot middle section to a 10-foot deep end tailored for experienced bowl riders. Keep two operational caveats in mind: the park is an unsupervised facility shared with BMX bikes and scooters, and the cloverleaf bowl's 6-foot minimum depth demands solid transition control and protective gear before dropping in. Skaters exploring West Virginia can also pair a session here with the 24-hour Grindline concrete at [Wheeling Skatepark](/directory/parks/us/wheeling-skatepark-wv) in Wheeling or head south to [Fayetteville Skatepark & Paved Pump Track](/directory/parks/us/fayetteville-skatepark-wv) in the New River Gorge.
 
 
 ### Gathering Place Skate Park
@@ -8145,7 +8175,7 @@ Website: https://www.cityoflaramie.org/1094/Skate-Park-Web-Cam
 
 Set inside 33-acre LaBonte Park near the intersection of North 5th Street and East Canby Street, LaBonte Skate Park is a custom poured-concrete facility built by Dreamland Skateparks and operated by the City of Laramie Parks and Recreation Department. While the park is famous across the Mountain West for its mural-painted concrete full-pipe capsule and deep flow bowl, its layout is deliberately zoned so older skaters can warm up around the outer street plaza—equipped with mellow banks, low manual boxes, flat rails, rolling pump bumps, and smaller quarter-pipe transitions—without crossing into high-speed bowl lines. The city also maintains two live public webcams overlooking the slab so you can check crowd levels and surface dryness before leaving home, and partners with Skate Laramie to host seasonal drop-in progression sessions and beginner clinics.
 
-If you are returning to transition, start on the outer banked hips and shallow roll-in pockets during quiet morning windows before University of Wyoming and local youth crowds arrive in the afternoon. Keep in mind that LaBonte Skate Park has no dedicated night floodlighting (limiting sessions to daylight hours), sits at roughly 7,165 feet elevation where dry mountain air and high-plains winds demand extra hydration and pacing, and shares the surrounding park campus with walking paths, picnic shelters, and seasonal restrooms.
+If you are returning to transition, start on the outer banked hips and shallow roll-in pockets during quiet morning windows before University of Wyoming and local youth crowds arrive in the afternoon. Keep in mind that LaBonte Skate Park has no dedicated night floodlighting (limiting sessions to daylight hours), sits at roughly 7,165 feet elevation where dry mountain air and high-plains winds demand extra hydration and pacing, and shares the surrounding park campus with walking paths, picnic shelters, and seasonal restrooms. Skaters touring Wyoming can also pair a session here with [Sheridan Community Skate Park](/directory/parks/us/sheridan-community-skate-park-wy) in Sheridan or [Jackson Hole Skatepark](/directory/parks/us/jackson-hole-skatepark-jackson-wy) in Jackson.
 
 
 ### Lake Cunningham Action Sports Park
@@ -8234,6 +8264,16 @@ Built on the corner of Marks and Emerson Avenues in northwest Fresno, Lion's Den
 The 30,000-square-foot footprint by Site Design Group offers plenty of forgiving space to warm up. Low-impact perimeter flat banks, manual pads, and manageable flatbars let you get your feet back under you before approaching the transition areas, which include medium-depth flow sections and a classic cloverleaf bowl. Floodlights keep the park skateable until 10pm, while early weekday mornings offer an open, uncrowded session.
 
 For fresh urethane, replacement bearings, or setup adjustments, Cal Skate on North Blackstone Avenue is roughly three miles east and has been serving Fresno skaters since the 1970s.
+
+
+### Lions Park Skate Park
+A free municipal poured-concrete skatepark in Bismarck's Lions Park operated by the Bismarck Parks and Recreation District from 6am to 11pm daily, combining multi-level street transitions, hubba ledges, and grind boxes with a concrete half-bowl and half-pipe.
+Location: Bismarck, North Dakota, US
+Website: https://www.bisparks.org/parks-trails/park-system/lions-park/
+
+Situated inside Hillside Lions Park along East Boulevard Avenue and North 17th Street, Lions Park Skate Park is Bismarck's central municipal concrete skate facility, maintained by the Bismarck Parks and Recreation District (BPRD). Open daily from 6:00am to 11:00pm with adjacent off-street parking, picnic shelters, walking trails, and seasonal park restrooms, the venue gives older skaters in North Dakota's capital city reliable early-morning quiet windows before afternoon school crowds arrive.
+
+The multi-level poured-concrete course separates open street and transition warmup zones from its deeper features: returning riders can start on the flatground approaches, multiple grind boxes with coping rails, two stair sets, two hubba walls, and gentle level-to-level bank transitions before dropping into the concrete half-bowl and half-pipe section. Keep BPRD operational rules and caveats in mind: the park is an unsupervised multi-wheel facility shared by skateboards, inline skates, and bicycles, helmets and pads are strongly recommended, glass beverage containers and motorized vehicles are prohibited, and smoking is barred within 20 feet of park structures. Skaters crossing North Dakota along I-94 can pair a capital-city session here with [Dike West Skatepark](/directory/parks/us/dike-west-skatepark-fargo-nd) in Fargo or head north on I-29 to [Rydell Skatepark](/directory/parks/us/rydell-skatepark-grand-forks-nd) in Grand Forks.
 
 
 ### Los Altos Skatepark
@@ -8475,7 +8515,7 @@ Website: https://visitoxfordms.com/directory/oxford-skate-park/
 
 Located on Bramlett Boulevard directly across from the Oxford-Lafayette Public Library, Oxford Skate Park is a 10,694-square-foot poured-concrete facility built by Grindline Skateparks and maintained by the Oxford Park Commission. Open daily from dawn until 11:00pm with free on-site parking and a covered spectator pavilion for shade breaks, it serves as the anchor public skatepark for north-central Mississippi.
 
-The footprint is cleanly divided into two zones: an approximately 6,000-square-foot street course and an approximately 4,000-square-foot bowl. Older skaters rebuilding their confidence can stay on the street apron—working across the banks, low ledges, flat bar, quarter-pipe, kicker, and central volcano—without crossing into the fast lines of the 7-to-9-foot deep bowl. Keep in mind that this is an unsupervised multi-wheel park shared with scooters and BMX bikes, and the bowl transitions are steep enough that full pads and a helmet are wise before dropping in. If you are exploring northern Mississippi, pair your visit with [Tupelo Skatepark](/directory/parks/us/tupelo-skatepark-ms) an hour east on Highway 278.
+The footprint is cleanly divided into two zones: an approximately 6,000-square-foot street course and an approximately 4,000-square-foot bowl. Older skaters rebuilding their confidence can stay on the street apron—working across the banks, low ledges, flat bar, quarter-pipe, kicker, and central volcano—without crossing into the fast lines of the 7-to-9-foot deep bowl. Keep in mind that this is an unsupervised multi-wheel park shared with scooters and BMX bikes, and the bowl transitions are steep enough that full pads and a helmet are wise before dropping in. If you are exploring Mississippi, pair your visit with [Tupelo Skatepark](/directory/parks/us/tupelo-skatepark-ms) an hour east on Highway 278 or head south to the floodlit California Skateparks concrete at [Petal Skateboard Park](/directory/parks/us/petal-skateboard-park-ms) near Hattiesburg.
 
 
 ### Paine's Park
@@ -8552,6 +8592,16 @@ Website: https://www.brec.org/ExtremeSports
 Anchored inside BREC's Extreme Sports complex in Baton Rouge, the Perkins Road Community Park Skatepark spans 30,000 square feet of smooth concrete built by California Skateparks. For older skaters working around daytime jobs or Louisiana's midday heat, the park's floodlighting is a major asset: the concrete stays open and lit until 10:00pm Sunday through Thursday and until midnight on Friday and Saturday, with an on-site Extreme Sports office staffed daily from 3:00pm to 9:00pm.
 
 BREC also runs seasonal **Intro to Skateboarding (Skateboarding Basics)** drop-in clinics and **Skateboarding Academy** instruction explicitly open to beginners of any experience level. If you are warming up your legs, start on the wide street aprons and mellower quarter-pipes or warm up on the park's smooth outdoor walking and skating loop before dropping into the main bowls. Note that BMX bikes, inline skates, and roller skates share the skatepark with skateboarders, so early mornings after sunrise or late evening hours under the lights offer the most relaxed traffic; helmets and pads are strongly recommended.
+
+
+### Petal Skateboard Park
+A floodlit 14,000-square-foot California Skateparks poured-concrete municipal facility in Petal open daily from 7am to 10pm, separating a wide street plaza from a mellow spine bowl and a deeper pool-style bowl.
+Location: Petal, Mississippi, US
+Website: https://www.cityofpetal.com
+
+Located at 605 Hillcrest Loop beside the Robert E. Russell Sports Complex just east of Hattiesburg, Petal Skateboard Park (also known as Petal Skatepark) is a 14,000-square-foot poured-concrete municipal facility designed and built by California Skateparks. Open and floodlit daily from 7:00am to 10:00pm with free on-site complex parking, it gives older skaters in South Mississippi and the Pine Belt a reliable venue for early-morning warmup sessions and cooler evening skates after work.
+
+California Skateparks laid out the 14,000-square-foot slab to separate street and beginner transition from deeper vertical terrain: returning riders can start on the wide flatground approaches, mellow bank ramps, low grind ledges, manual pads, Euro gap, hubba ledges, and handrail in the street section, then step into the smaller fun bowl with a transfer spine before attempting the deeper pool-style bowl. Keep a few operational caveats in mind: the facility is unsupervised ("skate at your own risk") and shared with BMX riders and scooters, helmets and pads are strongly recommended, and summer afternoon heat in southern Mississippi makes the 7:00am opening window or lit evening hours up to 10:00pm the most comfortable times to ride. Skaters travelling north through Mississippi can pair a Pine Belt session here with [Oxford Skate Park](/directory/parks/us/oxford-skate-park-ms) in Oxford or the user-activated evening lights at [Tupelo Skatepark](/directory/parks/us/tupelo-skatepark-ms) in Tupelo.
 
 
 ### Peter Mathews Memorial Skate Garden
@@ -8669,7 +8719,7 @@ Website: https://www.fortsmithar.gov/Home/Components/FacilityDirectory/FacilityD
 
 Overlooking the Arkansas River just north of the Fort Smith National Historic Site along the multi-use Greg Smith River Trail, the Riverfront Skate and Bike Park is a 12,000-plus-square-foot municipal facility operated by the City of Fort Smith. Built through a collaboration between Pivot Custom, American Ramp Company, and Velosolutions USA, the park is open and floodlit daily from 6:00am to 11:00pm, giving older skaters in the River Valley dependable dawn and after-work windows with dedicated off-street parking and boardwalk viewing areas.
 
-The multi-zone layout makes it easy to rebuild leg strength and board feel before tackling steeper transitions. Returning riders can start on the rhythmic rollers and banked berms of the Velosolutions asphalt pump track—which builds pumping speed without requiring a single ollie—or work through the concrete plaza's mellow banks, ledges, rails, and custom skateable Arkansas-outline obstacle before testing the deeper flow sections, Plexiglas wall, and 12-foot vertical wall. Note that this is an unsupervised, all-wheel facility shared with BMX and mountain bikes as well as scooters; helmets and pads are strongly advised, and early mornings after 6:00am or late evening sessions under the lights avoid peak afternoon bike traffic.
+The multi-zone layout makes it easy to rebuild leg strength and board feel before tackling steeper transitions. Returning riders can start on the rhythmic rollers and banked berms of the Velosolutions asphalt pump track—which builds pumping speed without requiring a single ollie—or work through the concrete plaza's mellow banks, ledges, rails, and custom skateable Arkansas-outline obstacle before testing the deeper flow sections, Plexiglas wall, and 12-foot vertical wall. Note that this is an unsupervised, all-wheel facility shared with BMX and mountain bikes as well as scooters; helmets and pads are strongly advised, and early mornings after 6:00am or late evening sessions under the lights avoid peak afternoon bike traffic. Skaters travelling across Arkansas can also pair a session here with the bike-free Dreamland concrete at [Riverview Skateboard Park](/directory/parks/us/riverview-skateboard-park-north-little-rock-ar) in North Little Rock or [Memorial Park Skatepark](/directory/parks/us/memorial-park-skatepark-bentonville-ar) in Bentonville.
 
 
 ### Riverside Skatepark
@@ -8688,6 +8738,16 @@ Location: Detroit, Michigan, US
 Website: https://detroitmi.gov/
 
 Built with support from the Tony Hawk Foundation, Riverside Skatepark offers high-quality concrete and sweeping views of the Ambassador Bridge. The sheer size of the 30,000 square foot layout means that beginners can find quiet spots to practice flatground tricks without crossing paths with the fast-paced clover bowl traffic. Its long operating hours and reliable lighting make it incredibly accessible for those who need to skate around a 9-to-5 schedule.
+
+
+### Riverview Skateboard Park
+A 16,000-square-foot Dreamland poured-concrete municipal skatepark on the Arkansas River Trail in North Little Rock that strictly prohibits bicycles and separates a broad street plaza from a U-shaped bowl with a 3-foot shallow end.
+Location: North Little Rock, Arkansas, US
+Website: https://nlrpr.org
+
+Overlooking the Arkansas River at 2801 River Road beside the Arkansas River Trail inside Riverview Park, Riverview Skateboard Park is a 16,000-square-foot custom poured-concrete facility designed and built by Dreamland Skateparks for North Little Rock Parks and Recreation. Open daily from 6:00am until 30 minutes after sunset with adjacent riverfront parking, the park is the premier public concrete alternative in the Little Rock metro for older skaters—especially because municipal rules strictly prohibit bicycles on the slab to prevent metal pegs from chipping the coping and eliminate high-speed bike collisions.
+
+Dreamland's layout separates an expansive street course—featuring three gentle roll-ins, bank ramps, pyramids, funboxes, low grind ledges, and flat rails—from its centerpiece U-shaped concrete bowl and spine, which begins at a forgiving 3-foot shallow end before dropping to a 10-to-12-foot vertical deep pocket. That progressive 3-foot entry makes it much more approachable for returning transition skaters than Little Rock's advanced-only Kanis Bowl across the river. Keep a few operational caveats in mind: while protective pads are not mandated by city rule, helmets and knee pads are strongly recommended for the deep end, river humidity and morning dew can leave the smooth concrete slick right after dawn, and general park gates close 30 minutes after sunset so sessions should be planned for daylight hours. Skaters travelling up the I-40 and I-49 corridor can pair a central Arkansas session here with [Riverfront Skate and Bike Park](/directory/parks/us/riverfront-skate-and-bike-park-fort-smith-ar) in Fort Smith or [Memorial Park Skatepark](/directory/parks/us/memorial-park-skatepark-bentonville-ar) in Bentonville.
 
 
 ### Robb Field Skatepark
@@ -8766,6 +8826,16 @@ Shaw Skatepark is a popular, concrete community park situated in the heart of Wa
 The park's varied layout allows returning skaters to find a comfortable zone and progress at their own pace. Because of its central location, it can draw a crowd; beginners are encouraged to observe the flow of the park and visit during quieter, off-peak periods to build confidence. Be aware that while official hours are dawn to dusk, the gates are occasionally reported locked in the early evening. For a bike- and scooter-free street plaza session on the east side of the District, you can also visit the [Skate Park at RFK Campus](/directory/parks/us/skate-park-at-rfk-campus-washington-dc).
 
 
+### Sheridan Community Skate Park (Thorne-Rider Park)
+A lighted poured-concrete municipal skatepark in Sheridan's West Thorne-Rider Park operated by the Sheridan Recreation District and City of Sheridan, combining an open street and mini-ramp spine section with a concrete transition bowl.
+Location: Sheridan, Wyoming, US
+Website: https://sheridanrecreation.com/facilities/
+
+Set in West Thorne-Rider Park along the east side of Dana Avenue near West 12th Street beneath the Bighorn Mountains, the Sheridan Community Skate Park is a free public poured-concrete facility maintained jointly by the Sheridan Recreation District and the City of Sheridan. Unlike Wyoming's unlit high-country parks, Thorne-Rider is equipped with overhead lighting for evening sessions alongside off-street parking, picnic shelters, athletic fields, and seasonal park restrooms, giving older skaters in northern Wyoming practical after-work windows in addition to quiet morning roll-ins.
+
+The concrete course separates its open street and flow area—stocked with flatground approaches, bank ramps, grind blocks, flat rails, and a mini-ramp transition zone with a spine and small platform—from a deeper concrete bowl, allowing returning riders to regain board control on low-impact obstacles before dropping into steeper transition. Keep Sheridan Recreation District rules and caveats in mind: helmets and safety pads are required at all times, the park is unsupervised and shared across wheeled disciplines, and evening skaters must respect local municipal noise laws and park curfews. Skaters touring Wyoming can pair a northern Bighorn session here with [Jackson Hole Skatepark](/directory/parks/us/jackson-hole-skatepark-jackson-wy) in Jackson or [LaBonte Skate Park](/directory/parks/us/labonte-skate-park-laramie-wy) in Laramie.
+
+
 ### Sk8-Cary Action Sports
 An inclusive, supervised wood park that actively supports older skaters with scheduled 18+ adult sessions and structured beginner programs.
 Location: Cary, North Carolina, US
@@ -8833,7 +8903,7 @@ Website: https://www.boston.gov/departments/parks-and-recreation
 
 Located at 235 Western Avenue in Allston, the renovated 15-acre Smith Playground gives Boston riders two side-by-side training grounds in one municipal park: the city's first Velosolutions asphalt pump track and an adjacent poured-concrete street skatepark. For older skaters rebuilding balance and leg stamina after time off, the sculpted asphalt pump track provides a continuous, low-impact circuit of smooth rollers and banked berms where you can generate speed and practice carving without taking flatground impact or dropping into steep transition.
 
-Right beside the pump track, the concrete skate plaza offers an approachable progression layout of mellow banks, quarter-pipes, manual pads, low grind ledges, and a flat rail with open flatground to warm up on. Keep two practical caveats in mind: as Boston's only public pump track, the asphalt circuit draws heavy afternoon traffic from neighborhood kids on scooters and bikes on warm weekends—early weekday mornings are by far the calmest window—and while the park's basketball courts have athletic lighting, the skate corridor and pump track are unlit and limited to dawn-to-dusk daylight hours. The park sits less than a mile down Western Avenue from [Orchard Skateshop](/directory/shops/us/orchard-skateshop-boston-ma) in Allston, and you can pair an evening or rainy-day session with the covered, floodlit [Lynch Family Skatepark](/directory/parks/us/lynch-family-skatepark-cambridge-ma) across the Charles River in Cambridge.
+Right beside the pump track, the concrete skate plaza offers an approachable progression layout of mellow banks, quarter-pipes, manual pads, low grind ledges, and a flat rail with open flatground to warm up on. Keep two practical caveats in mind: as Boston's only public pump track, the asphalt circuit draws heavy afternoon traffic from neighborhood kids on scooters and bikes on warm weekends—early weekday mornings are by far the calmest window—and while the park's basketball courts have athletic lighting, the skate corridor and pump track are unlit and limited to dawn-to-dusk daylight hours. The park sits less than a mile down Western Avenue from [Orchard Skateshop](/directory/shops/us/orchard-skateshop-boston-ma) in Allston, and you can pair a session here with the covered, floodlit [Lynch Family Skatepark](/directory/parks/us/lynch-family-skatepark-cambridge-ma) across the Charles River in Cambridge or the three-tier ability zones at [Beals Park Skatepark](/directory/parks/us/beals-park-skatepark-weymouth-ma) on the South Shore in Weymouth.
 
 
 ### Society Memphis
@@ -9046,6 +9116,16 @@ Website: https://www.fairfaxcounty.gov/parks/wakefield-skate-park
 Set next to the Audrey Moore Rec Center inside Wakefield Park, Wakefield Skate Park is a longtime Northern Virginia staple operated by the Fairfax County Park Authority. The complex pairs a smooth Spohn Ranch concrete street plaza with distinct beginner/intermediate and competition ramp courses, and overhead sports floodlights keep the entire facility open daily from dawn until 11:00pm for after-work sessions.
 
 Older skaters getting their legs back can start in the gentler progression area and 4-foot mini-ramp/bowl or work along the low banks, manual pads, and ledges of the concrete plaza without crossing into the larger competition transitions. Through the adjacent Audrey Moore Rec Center, the Park Authority also schedules beginner skateboarding classes, clinics, and private lessons. Note that this is a free drop-in facility shared with BMX riders and inline skaters; check with the Rec Center office before visiting during school breaks when youth camps may occupy portions of the course.
+
+
+### Westside Park Skatepark (Yankton Skatepark)
+A lighted City of Yankton poured-concrete municipal skatepark inside 10.5-acre Westside Park featuring a concrete bowl, modified mini-ramp, pyramid, and approachable street banks and rails.
+Location: Yankton, South Dakota, US
+Website: https://www.cityofyankton.org/departments-services/parks-recreation/city-parks
+
+Set inside 10.5-acre Westside Park at the intersection of West 5th Street and Summit Street, Westside Park Skatepark (known locally as the Yankton Skatepark) is a free poured-concrete municipal facility maintained by the City of Yankton Department of Parks and Recreation. Outfitted with tall overhead LED light poles for evening visibility alongside an open-air rest shelter, paved parking, walking paths, and seasonal park restrooms (open May 1 through October 15), it serves as the anchor public skatepark for southeastern South Dakota along the Missouri River.
+
+The layout pairs a concrete bowl and a modified half-pipe/mini-ramp—updated in consultation with local skaters to keep transition heights manageable—with an open street course of quarter-pipes, bank ramps, a central pyramid, low grind ledges, and flat rails, giving older skaters plenty of room to warm up on flatground and low-impact street lines outside the bowl. Keep a few local caveats in mind: the park is an unsupervised facility shared with inline skaters and BMX riders, protective helmets and pads are strongly recommended, and any dogs brought into Westside Park must remain leashed outside the skating surface. If you are travelling north toward the I-29 corridor, you can pair a Missouri River session here with [Barb Iverson Skate Plaza](/directory/parks/us/barb-iverson-skate-plaza-sioux-falls-sd) in Sioux Falls or [Dwiggins-Medary Skatepark](/directory/parks/us/dwiggins-medary-skatepark-brookings-sd) in Brookings.
 
 
 ### Wheeling Skatepark
@@ -9350,7 +9430,7 @@ Website: https://orchardshop.com/
 
 Orchard has anchored the Boston skate scene since 2006. In 2025, the shop moved into a massive new flagship space in Allston, continuing their legacy of community building.
 
-Far from the gatekeeping sometimes found in core shops, Orchard's ownership has a documented history of making sure their spaces—including their famous indoor mini-ramps—are comfortable for older, returning skaters to learn on. It's an essential stop if you need gear before rolling down the street to [Smith Playground Skatepark & Pump Track](/directory/parks/us/smith-playground-skatepark-boston-ma) in Allston or heading to the [Lynch Family Skatepark](/directory/parks/us/lynch-family-skatepark-cambridge-ma) across the river.
+Far from the gatekeeping sometimes found in core shops, Orchard's ownership has a documented history of making sure their spaces—including their famous indoor mini-ramps—are comfortable for older, returning skaters to learn on. It's an essential stop if you need gear before rolling down the street to [Smith Playground Skatepark & Pump Track](/directory/parks/us/smith-playground-skatepark-boston-ma) in Allston, heading across the river to [Lynch Family Skatepark](/directory/parks/us/lynch-family-skatepark-cambridge-ma) in Cambridge, or driving down to [Beals Park Skatepark](/directory/parks/us/beals-park-skatepark-weymouth-ma) on the South Shore in Weymouth.
 
 
 ### Pacific Drive Skateboard Shop
