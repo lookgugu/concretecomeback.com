@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-24T00:36:02.962Z
+# Date: 2026-10-25T09:09:12.682Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -685,6 +685,46 @@ That last point matters more for adult skaters specifically than it would for a 
 Use it as a logging and feedback layer on top of training you'd be doing anyway, not as a substitute for a human set of eyes on your safety and your joints. A reasonable split: let an app help you see what a trick attempt actually looked like and track whether you're trending in the right direction between sessions, and keep a periodic check-in with a coach or an experienced skating friend for technique questions and features that intimidate you. If you haven't found that person yet, [how to find a skateboard coach who gets adult beginners](/blog/finding-a-skateboard-coach-for-adults/) is the place to start. Pain, a new injury, or anything involving an existing injury history is a different category entirely — that belongs with a physiotherapist or doctor, not a coach, a friend, or an app, however good its video analysis gets.
 
 The honest answer I gave my patient: try one if the idea appeals to you, treat whatever it tells you as a second opinion rather than a verdict, and don't let a subscription replace the one thing no app does yet — someone physically present who can tell you to stop before you get hurt, not after.
+
+
+### Your Cartilage's Recovery Window: What New Research Means for Rest Days
+New cartilage research reframes what a rest day should look like for adult skaters, and why lying down isn't just laziness.
+
+A small study published in *Osteoarthritis and Cartilage Open* at the end of 2024 did something nobody had managed before: it watched knee cartilage compress and recover in real time, in living people, using MRI. The sample was tiny — eight healthy young adults — so treat what follows as an early, interesting signal rather than settled science. But the mechanism it describes is worth understanding if you're an adult skater trying to figure out what a "rest day" is actually supposed to do for your joints.
+
+## What the study actually found
+
+The researchers put each person through a fixed sequence: stand for 30 minutes, walk for 10, stand for another 30, then lie down for 50. They measured cartilage thickness in the knee after each stage.
+
+Standing compressed the cartilage by a little over 5%. That's not injury — cartilage is built to compress under load, the same way a sponge does, and it's part of how it absorbs force. What mattered was what happened next. Lying down let the cartilage rehydrate and spring back, but slowly. Walking brought it back almost three times faster than lying still did.
+
+In other words: cartilage doesn't recover because you stop moving. It recovers because you stop *loading it in one fixed way*. A change in position and some gentle motion did more for it than passive stillness.
+
+## Why this matters for a skater's week
+
+Most adult skaters I treat think about rest days in one of two ways: total stillness ("I did nothing, my knee should be fine") or total avoidance of anything knee-related at all. This study suggests both framings miss the actual mechanism.
+
+If your job has you standing for long stretches — retail, nursing, teaching, a trade — your knee cartilage may already be sitting in a compressed state by the time you get to the skatepark after work. Skating on top of that isn't dangerous, but it explains why some sessions feel stiffer or less responsive through the knees than others, even when nothing is actually wrong. The joint hasn't had its rehydration window yet.
+
+On the flip side, a rest day spent entirely seated or lying on the sofa isn't the fastest way to reset either, according to this same mechanism. A short walk — the dog, the school run, a lap of the block — appears to do more for cartilage recovery than the same amount of time spent motionless, because movement cycles fluid through the joint rather than just removing load from it.
+
+## What this changes in practice
+
+**Don't treat "rest" and "stillness" as synonyms.** A rest day from skating can still include walking, light cycling, or swimming. These load the knee differently than skating does, and on this mechanism, that variety is doing useful work rather than undoing recovery.
+
+**If you stand all day at work, build in a genuine horizontal break before you skate.** Even 15–20 minutes lying down with your legs up before an evening session gives your cartilage a head start on the rehydration this study describes, instead of asking it to absorb skating's impact straight off an 8-hour compressed state.
+
+**After a session, alternate between lying down and a short walk rather than just collapsing on the couch for the rest of the night.** The faster recovery rate from walking in this study suggests that a gentle 10-minute stroll an hour or two after skating may do more for your knees than staying still for the same stretch.
+
+**None of this is a reason to skate through actual knee pain.** This research is about ordinary compressive strain in healthy joints under normal daily loads — not about symptoms, swelling, or an existing injury. If a knee hurts during or after skating in a way that doesn't settle with normal rest, that's a conversation with a physiotherapist or doctor, not a scheduling fix.
+
+## The bigger picture
+
+What makes this study interesting isn't that it tells adult skaters to do anything radically different. It's that it gives a physiological reason for something a lot of returning skaters already do instinctively — go for a walk the day after a big session, or get up and move around rather than sitting rigid after a long day on your feet. The instinct was right. The mechanism just hadn't been shown directly in a living knee before.
+
+Cartilage doesn't have its own blood supply, which is part of why it's historically been hard to study and slow to heal when it's actually damaged. That makes findings like this — showing it responds to ordinary daily movement in measurable, relatively fast ways — genuinely useful, even from a sample of eight. It's one more argument for treating a rest day as a day of *different* movement rather than a day of none, and for not feeling guilty about lying down with your legs up before you skate if your job has had you on your feet all day.
+
+Take the specific numbers as illustrative rather than gospel — this is one small study, and larger studies may well refine or complicate the picture. But the core idea is sound and consistent with how cartilage is understood to work more broadly: it needs cycles of load and unload to stay healthy, not just load, and not just rest.
 
 
 ### Carving First: The Skill Adult Returners Always Skip
@@ -5606,6 +5646,51 @@ If skating is part of how you're processing something — stress, loss, the gene
 Skyler King's trip raised money, raised awareness, and by most accounts put him in touch with more strangers-turned-supporters than he expected when he pushed off from Oxford. None of that happened because the mileage was impressive. It happened because the reason underneath it was real, and he let people see it.
 
 
+### Slalom Skateboarding: The Discipline Adult Returners Keep Overlooking
+Slalom skateboarding builds balance and leg strength with low fall risk, a practical guide to gates, gear, and clubs for adult returners.
+
+When people picture competitive skateboarding, they picture a bowl, a street course, or a vert ramp — places where a bad slam is part of the deal. Slalom skateboarding is the discipline most adult returners have never even considered, and it's worth a second look, because it offers almost everything returning skaters say they want: measurable progress, real technical challenge, and a genuinely low ceiling on how hard you can fall.
+
+This month's World Skate Games in Asunción, Paraguay (October 2–18) is serving as the official 2026 Slalom Skateboarding World Championships, with competitors from dozens of countries. It's a useful reminder that slalom isn't a novelty event — it's an established, internationally organized discipline with its own world rankings, and one of the few corners of competitive skateboarding where athletes keep competing well into their 60s. Judi Oyama, recognized by Guinness World Records as the oldest competitive skateboarder, has kept racing slalom into her late 60s. [Darren Miles's comeback story](/blog/darren-miles-world-skate-games-60/), covered elsewhere on this site, is cut from the same cloth.
+
+## What slalom actually is
+
+Strip away the competition format and slalom is simple: you ride down a straight line — a gentle hill or, for the flatground version, a flat stretch with a push between gates — weaving through a course of cones set at regular intervals. You're not jumping, grinding, or dropping into anything. You're carving, tight and rhythmic, from one side of the course to the other, as fast and cleanly as you can.
+
+There are a few sub-disciplines (tight slalom, hybrid, giant slalom, banked slalom), but the common thread across all of them is the same: sustained, controlled weight shifts at speed, with your feet staying planted on the board the entire time. That single feature is what makes slalom so different from park or street skating — the primary failure mode isn't a slam, it's clipping a cone or losing your line, not a fall off the board entirely.
+
+## Why it suits a returning adult body
+
+**The fall profile is genuinely different.** Most slalom falls happen at a controlled pace, from a standing height, on a predictable surface — closer to stumbling than to the kind of airborne slam a missed trick in a bowl produces. That matters if you're the kind of returner who wants to push your limits without betting your recovery timeline on it.
+
+**It rewards exactly the things that come back fastest after 40.** Carving, weight transfer, and reading a line ahead of you are skills built on balance and body awareness — the parts of skating that return quickest for most adults, faster than raw power or reaction speed. Slalom asks for more of precisely what you already have.
+
+**Progress is visible and countable.** A stopwatch and a cone course give you a number every single run. For adults used to tracking progress in other parts of life — a pace, a weight, a rep count — that kind of direct feedback can be more motivating than the more abstract "did that trick feel better today" of street or park skating.
+
+**It's genuinely low-impact on your joints.** There's no repeated landing force to absorb. The strain is rotational and muscular — through your hips, quads, and core as you carve — rather than the compressive, high-force loading of ollies, drops, or grinds.
+
+## What you actually need to try it
+
+You don't need a dedicated slalom board to start. Any skateboard with reasonably responsive trucks will let you get a feel for it. What you do need:
+
+- **A set of cones or markers.** Six to ten is plenty to start. Soft, low-profile cones (the kind used for parking-lot driving courses) are safer to clip than anything rigid.
+- **A flat, smooth stretch of pavement for your first sessions.** An empty car park, a quiet basketball court, or a long driveway all work. Save hills for later, once your line and your turning rhythm feel genuinely consistent.
+- **Soft wheels in the 78a–90a range.** Grip through the turn matters more here than it does for most street skating, and softer wheels hold a line more predictably on rough pavement.
+- **A helmet and wrist guards, same as always.** Slalom falls are lower-consequence, not consequence-free — a stumble at speed can still put a wrist down hard.
+
+## How to actually practice it
+
+Start with a wide, even spacing between cones — a full body length apart or more — and simply push through the course slowly, focusing on a smooth, continuous carve rather than speed. Once that feels natural, tighten the spacing gradually. The goal in early sessions isn't pace; it's an unbroken rhythm, where your weight shift from edge to edge happens on a predictable beat rather than in a scramble to correct after each cone.
+
+A stopwatch is optional but genuinely motivating once you've got a clean run or two down — time yourself through the same course and you'll have the kind of session-to-session feedback loop that's harder to get from most other skating disciplines.
+
+## Finding other slalom skaters
+
+Slalom has a small but real and welcoming community, much of it organized through national federations like USA Slalom Skateboarding, which fields teams for events including the World Skate Games. A search for "slalom skateboarding club" plus your country, or a look at your national skateboarding federation's site, is the most reliable way to find organized sessions or races near you — slalom meetups tend to be smaller and less visible on social media than park or street scenes, but they exist in most countries with an established skate culture.
+
+If you've been looking for a discipline that lets you compete, chase a number, and leave the bowl's slam risk to someone else, a flat car park and a bag of cones is a cheaper and gentler way to find out than you'd expect.
+
+
 ### Why Sleep Is Your Most Underrated Skate Recovery Tool
 How declining sleep quality after 40 extends recovery time and raises re-injury risk for adult skaters — and the habits that actually fix it.
 
@@ -6102,6 +6187,54 @@ You don't need a wearable or an app for any of this, though plenty of older skat
 ## Give it a real trial before judging it
 
 A single week of logging won't show you much — the patterns that matter, both the progress and the early warning signs, only become visible across three or four weeks of consistent entries. Pair it with [a structured plan like our 8-week return program](/blog/8-week-return-plan-adult-skaters/) if you want a shape to measure against, or just start logging whatever you're already doing. Either way, thirty seconds after each session is a small enough cost that there's no real reason not to find out what your actual pattern looks like, instead of guessing at it from memory.
+
+
+### Filming Yourself to Learn Faster: A Guide to Video Self-Coaching
+How adult skaters can use phone video to spot posture, balance, and commitment problems no amount of self-awareness catches in real time.
+
+At our sessions, I can usually tell within thirty seconds of watching someone's phone footage back what's actually going wrong with a trick they've been stuck on for weeks. Not because I have some special eye for it — because video shows you things you cannot feel while you're doing them. Half the adults who come to our sessions have never watched themselves skate on camera at all, and it's one of the simplest, cheapest changes available to anyone training without a regular coach.
+
+You don't need anything fancy. A phone propped against a bag, a water bottle, or a curb does the job. Here's how to actually use it well, rather than just collecting clips of yourself falling.
+
+## Why your own sense of what happened is unreliable
+
+When you're learning a trick, you're processing far too much in real time to accurately judge your own form. Where your weight was, which foot moved first, whether your shoulders turned before your hips — your brain is busy enough just executing the attempt that it doesn't have spare capacity to audit it accurately afterward. Most people's internal account of "what I just did" is a rough guess dressed up as a memory.
+
+This is why the same correction can get said to you ten times and not land, and then click the moment you see it on video. It's not that you weren't listening. It's that "your back foot is late" doesn't mean much until you watch your own back foot actually being late, on your own feet, in your own footage.
+
+## What to film
+
+You don't need to film every attempt. Film in short, focused bursts:
+
+**A trick you're stuck on, after you've already warmed it up.** Filming your very first cold attempt of the day tells you less than filming your fifth or sixth, once your body has settled into its actual pattern for that trick rather than its "I just walked up to this" pattern.
+
+**Three to five consecutive attempts, not just one.** A single clip might just be an off rep. A short run of attempts shows you what's consistent across tries — which is almost always the real issue — versus what was a one-off.
+
+**From the side, at roughly waist height, far enough back to see your whole body and the board.** A straight side-on angle is the single most useful view for almost everything adult skaters are working on: weight distribution, pop timing, shoulder and hip rotation. A front or back angle is worth adding later for specific things like foot placement on flip tricks, but side-on is where to start.
+
+## What to actually look for
+
+Watching your own footage without a plan just turns into wincing at yourself falling. Go in with specific questions:
+
+**Where is your weight relative to your feet right before the critical moment?** For most tricks that aren't landing, the honest answer on camera is "further back than I thought." Weight that's hanging behind your base is one of the most common, most fixable things video reveals that feel invisible in the moment.
+
+**Did your head and shoulders commit to the trick, or did they hang back while your feet tried to do the work?** Your body tends to follow wherever your head and eyes go. A classic tell on video is someone's feet attempting the full trick while their upper body is still bailing toward the ground — a mismatch you genuinely cannot feel happening to you in real time.
+
+**Is the failure the same each time, or different?** If three attempts fail in three different ways, you're probably dealing with an inconsistency problem — board setup, stance, or just not having enough reps yet — rather than one specific technical fix. If the same thing goes wrong every single time, you've found your actual correction.
+
+**Compare this week's footage to last month's, not just attempt to attempt.** The real value of keeping old clips isn't judging any single session. It's being able to put two clips side by side a month apart and see a change in your weight placement or commitment that's invisible day to day but obvious across a longer stretch.
+
+## Watching yourself fall without it wrecking your motivation
+
+This is the part people underestimate. Watching ten clips of yourself not landing something is genuinely demoralizing if you go into it looking for proof you're bad at this. Two things help.
+
+**Watch with a specific question, not a general judgment.** "Was my weight forward or back" is a question you can answer and move on from. "Am I any good at this" is a question video was never going to answer, and chasing it is where the discouragement comes from.
+
+**Delete the footage once you've learned what you needed from it.** You don't need an archive of every failed attempt. Keep the clips that show a genuine before-and-after, and let the rest go. A phone full of your own worst moments, kept indefinitely, serves nobody.
+
+## Where this fits alongside other coaching
+
+Filming yourself is a logging and feedback tool, not a substitute for in-person eyes on your safety. It also isn't the same thing as the [AI video-analysis apps](/blog/can-ai-coaching-apps-help-adult-skaters/) covered elsewhere on this site — those use a model to flag what it thinks is wrong; this is just you, watching yourself honestly, which costs nothing and works for literally any trick at any level. If you're working with a coach or an experienced friend, sending them a short clip ahead of a session often gets you a more specific, useful conversation than describing the problem in words ever will. If you're training entirely alone, this is the closest thing to a second set of eyes you've got, and it's sitting in your pocket already.
 
 
 ### What a 68-Year-Old Skater Going Viral in China Tells Us
