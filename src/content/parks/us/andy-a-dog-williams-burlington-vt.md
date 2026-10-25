@@ -16,10 +16,10 @@ website: "https://parksfoundationburlington.org/a-dog-skatepark/"
 googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=1+Lake+St+Burlington+VT+05401"
 featured: false
 addedDate: 2026-10-02
-lastVerified: 2026-10-02
+lastVerified: 2026-10-25
 tags: ["concrete", "waterfront", "free", "outdoor"]
 ---
 
 Set right on the Burlington waterfront with views of Lake Champlain, the Andy A-Dog Williams Skatepark is a beautifully designed 22,000-square-foot concrete facility. The smooth flatground and smaller transition areas offer a forgiving environment for those looking to regain their balance. 
 
-For older skaters looking to avoid the high-energy afternoon traffic, the park's early 7:00 AM opening time provides a perfect quiet window for a relaxed morning session. It lacks lighting, so be sure to plan your visits during daylight hours before the park closes at 8:00 PM.
+For older skaters looking to avoid the high-energy afternoon traffic, the park's early 7:00 AM opening time provides a perfect quiet window for a relaxed morning session. It lacks lighting, so be sure to plan your visits during daylight hours before the park closes at 8:00 PM. You can also pair a Burlington session with the indoor wood ramps at [Talent Skatepark](/directory/parks/us/talent-skatepark-south-burlington-vt) in South Burlington or head south down Route 7 to the Grindline concrete at [Bennington Skatepark](/directory/parks/us/bennington-skatepark-vt).
