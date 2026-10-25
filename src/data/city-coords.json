@@ -1045,9 +1045,9 @@
     "source": "Laramie, Albany County, Wyoming, United States"
   },
   "US|wyoming|sheridan": {
-    "lat": 44.7948,
-    "lng": -106.8223,
-    "source": "Sheridan County, Wyoming, United States"
+    "lat": 44.7972,
+    "lng": -106.9562,
+    "source": "Sheridan, Sheridan County, Wyoming, 82801, United States"
   },
   "AU": {
     "lat": -33.5878,
@@ -1066,7 +1066,7 @@
   },
   "US": {
     "lat": 39.1969,
-    "lng": -94.332,
+    "lng": -94.3328,
     "source": "derived: mean of 163 listed US cities"
   }
 }
