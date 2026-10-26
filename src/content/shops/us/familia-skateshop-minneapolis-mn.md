@@ -13,9 +13,9 @@ hasOnlineShop: true
 adultsWelcomeNote: "Welcoming community hub with patient staff ready to talk older beginners through selecting the right gear for their first setup."
 featured: false
 addedDate: 2026-10-06
-lastVerified: 2026-10-06
+lastVerified: 2026-10-26
 ---
 
 Familia Skateshop has been serving the Twin Cities area for over a decade and a half and is widely recognized as a central hub for the local scene. The shop is deeply community-driven and maintains a welcoming atmosphere for skaters of all ages and abilities. 
 
-The staff are highly knowledgeable and will gladly walk returning or beginner skaters through building a custom setup without any elitism. They also operate the **Familia Headquarters** indoor skatepark. For dedicated adult-specific instruction and sessions, it's also worth visiting **3rd Lair Skatepark** in nearby Golden Valley.
+The staff are highly knowledgeable and will gladly walk returning or beginner skaters through building a custom setup without any elitism. They also operate the [Familia Headquarters](/directory/parks/us/familia-headquarters-minneapolis-mn) indoor skatepark. For dedicated older-skater instruction and sessions, it's also worth visiting [3rd Lair Skatepark](/directory/parks/us/3rd-lair-skatepark-golden-valley-mn) in nearby Golden Valley, or heading to the south metro for an outdoor concrete session at [Burnsville Lions Skate Park](/directory/parks/us/burnsville-lions-skate-park-mn).

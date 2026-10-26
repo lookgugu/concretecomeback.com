@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-25T18:25:54.953Z
+# Date: 2026-10-26T21:27:02.705Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -7666,7 +7666,7 @@ Website: https://www.dunwoodyga.gov/Home/Components/FacilityDirectory/FacilityDi
 
 Set inside 110-acre Brook Run Park in northern DeKalb County, Brook Run Skate Park is a 27,000-square-foot poured-concrete facility operated by the City of Dunwoody Parks and Recreation Department. As the largest public concrete skatepark in Metro Atlanta, its broad footprint, high-pole night lighting, and 7:00am daily opening (running until 9:00pm Sunday through Thursday and 10:00pm on Friday and Saturday) give older skaters plenty of room to spread out during quiet early-morning and after-work windows, supported by shaded spectator areas, nearby park restrooms, and ample parking.
 
-Designed by Site Design Group around a continuous flow concept, the park lets returning riders start on wide, mellow banks, curved ledges, low flat rails, and a pumping flow bowl with rollovers before working toward the larger double-set stairs, down rails, and a dedicated peanut bowl finished with traditional pool coping. Note that City of Dunwoody rules strictly require helmets for all skaters inside the fence, and weekend afternoons draw heavy family and scooter traffic across the wider park campus—making weekday mornings after 7:00am or lit evening sessions the best times to visit. You can also pair a north-metro session here with [Historic Fourth Ward Skatepark](/directory/parks/us/historic-fourth-ward-skatepark-atlanta-ga) along the BeltLine or [Kennesaw Skatepark](/directory/parks/us/kennesaw-skatepark-ga) in Cobb County.
+Designed by Site Design Group around a continuous flow concept, the park lets returning riders start on wide, mellow banks, curved ledges, low flat rails, and a pumping flow bowl with rollovers before working toward the larger double-set stairs, down rails, and a dedicated peanut bowl finished with traditional pool coping. Note that City of Dunwoody rules strictly require helmets for all skaters inside the fence, and weekend afternoons draw heavy family and scooter traffic across the wider park campus—making weekday mornings after 7:00am or lit evening sessions the best times to visit. You can also pair a north-metro session here with [Historic Fourth Ward Skatepark](/directory/parks/us/historic-fourth-ward-skatepark-atlanta-ga) along the BeltLine, [Kennesaw Skatepark](/directory/parks/us/kennesaw-skatepark-ga) in Cobb County, or head down I-185 to the 32,000-square-foot [Jonathan Hatcher Skateboard Park](/directory/parks/us/jonathan-hatcher-skateboard-park-columbus-ga) in Columbus.
 
 
 ### Burnside Skate Park
@@ -7677,6 +7677,16 @@ Website: https://www.portlandoregon.gov/parks/finder/index.cfm?action=ViewPark&P
 Burnside is intermediate-level — the terrain requires some experience, particularly the steeper bowl sections. However, the banking areas and flatground around the perimeter are accessible to confident beginners. Go on a weekday morning for the best adult-skater atmosphere.
 
 Cal Skate on NW 6th Avenue downtown — one of the oldest skate shops in the world — is the shop paired with this park.
+
+
+### Burnsville Lions Skate Park
+An 11,500-square-foot poured-concrete municipal skatepark in Burnsville's Civic Center Park open daily from 5am to 10pm with an on-site skateboard fixing station, picnic shelter, adjacent inline rink, and separate street and amoeba-bowl zones.
+Location: Burnsville, Minnesota, US
+Website: https://www.burnsvillemn.gov/Facilities/Facility/Details/Burnsville-Lions-Skate-Park-59
+
+Located inside Civic Center Park adjacent to Burnsville City Hall between 130th and 134th Streets, the Burnsville Lions Skate Park is an 11,500-square-foot outdoor poured-concrete facility operated by the City of Burnsville in the south Twin Cities metro. Open daily from 5:00am to 10:00pm, the park gives older skaters quiet early-morning windows before suburban traffic builds, along with practical on-site amenities including a dedicated skateboard fixing station for hardware tune-ups, an adjacent flat inline skating rink for warmups, a covered picnic shelter, a drinking fountain, and portable restrooms.
+
+The concrete footprint separates its street and bank course—featuring quarter-pipes, transition hips, a China bank, grind ledges and boxes, a spine ramp, and a 6-stair set with a handrail and step-up—from an amoeba-shaped concrete bowl with an extension, letting returning riders work on flatground and low ledges away from bowl lines. Keep several City of Burnsville caveats in mind: the park is an unsupervised "skate at your own risk" facility shared with inline skates, scooters, and bikes; it has no dedicated stadium floodlighting (relying on surrounding Civic Center Park lighting after dusk); it is unmaintained during Minnesota's winter snow season; and Burnsville parks enforce a "Bring It In, Take It Out" trash policy alongside strict bans on glass containers and alcohol. When winter weather hits the south metro, you can head indoors to [3rd Lair Skatepark](/directory/parks/us/3rd-lair-skatepark-golden-valley-mn) in Golden Valley or [Familia Headquarters](/directory/parks/us/familia-headquarters-minneapolis-mn) and [Familia Skateshop](/directory/shops/us/familia-skateshop-minneapolis-mn) in Minneapolis.
 
 
 ### Carpenter Park Skate Park
@@ -7735,7 +7745,7 @@ Website: https://citywalkbham.com
 
 Located beneath the I-59/I-20 overpass, City Walk Skatepark offers a massive 58,000 square feet of weather-protected concrete. The shade and cover make it an incredibly practical spot for older skaters who need reliable conditions.
 
-The sheer size of the facility naturally disperses crowds, and its layout caters perfectly to returning riders. It features designated beginner bowls and an approachable pump track that are physically separated from the chaotic competition bowls, allowing you to practice fundamentals at your own pace.
+The sheer size of the facility naturally disperses crowds, and its layout caters perfectly to returning riders. It features designated beginner bowls and an approachable pump track that are physically separated from the chaotic competition bowls, allowing you to practice fundamentals at your own pace. For a bike- and scooter-free outdoor concrete session just south of the city, you can also visit [Veterans Skate Park](/directory/parks/us/veterans-skate-park-alabaster-al) in Alabaster, or head north up I-65 to [Get-A-Way Skatepark](/directory/parks/us/get-a-way-skatepark-huntsville-al) in Huntsville.
 
 
 ### Clippard Park Skatepark
@@ -7862,7 +7872,7 @@ Website: https://www.visitdublinohio.com/listing/dublin-skate-park/480/
 
 Situated inside Coffman Park near the Dublin Justice Center on the northwest side of the Columbus metro, Dublin Skate Park is a smooth, poured-concrete municipal facility designed and built by Spohn Ranch. The City of Dublin commissioned the layout specifically to accommodate all ages, styles, and experience levels, and equipped the park with overhead floodlighting that keeps the concrete rideable every evening until 11:00pm.
 
-Older skaters easing back into transition or flatground fundamentals can start on the mellow mini-ramp, low banks, and smaller street ledges before dropping into the deeper bowl pockets or stepping up to the stair and rail features. Because this is a free, unsupervised municipal park open to both skateboards and inline skates, after-school hours on fair-weather afternoons can get busy; early mornings after dawn and late evening sessions under the lights offer the calmest windows to work on lines at your own pace.
+Older skaters easing back into transition or flatground fundamentals can start on the mellow mini-ramp, low banks, and smaller street ledges before dropping into the deeper bowl pockets or stepping up to the stair and rail features. Because this is a free, unsupervised municipal park open to both skateboards and inline skates, after-school hours on fair-weather afternoons can get busy; early mornings after dawn and late evening sessions under the lights offer the calmest windows to work on lines at your own pace. For another lit Spohn Ranch concrete facility on the east side of the Columbus region—complete with a concrete pump track and tiered bowls—pair a session here with [Everett Park Skatepark](/directory/parks/us/everett-park-skatepark-newark-oh) in Newark.
 
 
 ### Dwiggins-Medary Skatepark
@@ -7893,6 +7903,16 @@ Website: https://www.epworth.faith
 Built through a grassroots community fundraising effort on the grounds of Epworth United Methodist Church just off Coastal Highway, Epworth Skatepark (created by the Epworth Skate Project, designed by Fifth Pocket Design, and poured by Evergreen Skateparks) is Southern Delaware's premier public concrete skate facility. Open 24 hours a day and free to the public with adjacent church-lot parking, the park is particularly welcoming for older skaters in Sussex County thanks to its open, uncrowded morning windows and recurring morning beginner lessons (such as 8:30am–10:00am private coaching sessions hosted by local instructors).
 
 The layout separates a spacious outer street and flow section—stocked with wide flatground approaches, mellow banks, China banks, low ledges, flat rails, and quarter-pipes—from a deeper transition bowl finished with pool coping, allowing returning riders to rebuild balance and carving rhythm without crossing into fast bowl lines. Keep a few practical caveats in mind: the park is unsupervised ("skate at your own risk"), has no dedicated stadium floodlighting (so sessions after dusk rely only on ambient parking-lot light), and sits on active church property where visitors must pack out trash and respect quiet hours and community events. If you are travelling upstate toward Wilmington and the I-95 corridor, you can pair a coastal session here with [Glasgow Skate Park](/directory/parks/us/glasgow-skate-park-newark-de) in Newark.
+
+
+### Everett Park Skatepark
+A 16,000-square-foot Spohn Ranch poured-concrete municipal skatepark in Newark's Everett Park lit nightly until 10pm, featuring a concrete pump track, street plaza, and three tiered bowls spanning beginner spine transitions to an advanced full-pipe.
+Location: Newark, Ohio, US
+Website: https://www.newarkohio.gov/departments/parks-cemetery/
+
+Developed through a partnership between the City of Newark, the Thomas J. Evans Foundation, and local action-sports advocates about 35 miles east of Columbus, Everett Park Skatepark is a roughly 16,000-square-foot custom poured-concrete facility designed and built by Spohn Ranch Skateparks. Equipped with overhead sports lighting that stays on until 10:00pm EST alongside shaded spectator seating and off-street park parking, the park gives older skaters in Licking County and east-central Ohio both calm dawn sessions and reliable evening windows after work.
+
+Spohn Ranch engineered the layout around clear, progressive ability separation across multiple zones: returning riders can build leg stamina without ollies on the integrated concrete pump track, practice flatground, low manual pads, ledges, and flat rails in the street section, or drop into the beginner bowl with a mellow transfer spine before progressing to the intermediate bowl or the advanced pool-coped bowl and full-pipe. Keep a few operational caveats in mind: Everett Park is an unsupervised all-wheels facility open to skateboards, BMX bikes, scooters, inline and quad skates, and wheelchairs, so fair-weather afternoons after school dismissal can bring busy multi-wheel traffic, and the automated sports lights shut off promptly at 10:00pm EST. Skaters in the wider Columbus and central Ohio region can pair a session here with Spohn Ranch's lit [Dublin Skate Park](/directory/parks/us/dublin-skate-park-oh) on the northwest side of Columbus.
 
 
 ### Fairmont Skatepark
@@ -8021,7 +8041,7 @@ Location: Newark, Delaware, US
 
 Glasgow Skate Park is a substantial 24,000-square-foot public concrete facility set within Glasgow Regional Park. It features a varied street section with hubba ledges and banked wall rides, alongside two different styles of bowls. 
 
-The park is praised for its smooth, well-maintained surface, making it an excellent spot for learning and progression. While it can get busy on weekends, older skaters consistently recommend weekday morning and early afternoon hours for a quiet, low-pressure session. The varied features allow skaters to pick obstacles perfectly matched to their current comfort level. If you head downstate to the Delaware beaches, you can also check out [Epworth Skatepark](/directory/parks/us/epworth-skatepark-rehoboth-beach-de) in Rehoboth Beach.
+The park is praised for its smooth, well-maintained surface, making it an excellent spot for learning and progression. While it can get busy on weekends, older skaters consistently recommend weekday morning and early afternoon hours for a quiet, low-pressure session. The varied features allow skaters to pick obstacles perfectly matched to their current comfort level. For a smaller, low-consequence warmup spot right in Newark, you can start at the [Norma B. Handloff Park Skate Spot](/directory/parks/us/handloff-park-skate-spot-newark-de) on Barksdale Road, or head downstate to the Delaware beaches to ride [Epworth Skatepark](/directory/parks/us/epworth-skatepark-rehoboth-beach-de) in Rehoboth Beach.
 
 
 ### Irwin A. and Robert D. Goodman Skatepark (McPike Park)
@@ -8030,7 +8050,27 @@ Location: Madison, Wisconsin, US
 
 Goodman Skatepark is the premier spot in Madison, located within McPike Park. The 20,000-square-foot facility is well-regarded by older skaters for its generous lighting hours (open until 10pm from mid-April to October) and early 4am opening, making it highly practical for those fitting a session around work.
 
-The layout physically separates the street section (which makes up about 70% of the park) from the transition area. The transition section itself offers two distinct bowls: a mellow 4–7 foot flow bowl that is ideal for warming up or regaining confidence, and a more advanced 9-foot eggplant bowl for experienced riders. For a skateboard-only session just northeast of the city, you can also check out [Sun Prairie Skateboard Park](/directory/parks/us/sun-prairie-skateboard-park-wi) in Sheehan Park.
+The layout physically separates the street section (which makes up about 70% of the park) from the transition area. The transition section itself offers two distinct bowls: a mellow 4–7 foot flow bowl that is ideal for warming up or regaining confidence, and a more advanced 9-foot eggplant bowl for experienced riders. For a skateboard-only session just northeast of the city, you can also check out [Sun Prairie Skateboard Park](/directory/parks/us/sun-prairie-skateboard-park-wi) in Sheehan Park, or head west to the Driftless Region to ride the lit concrete and asphalt pump track at [Lueth Park Skate Park & Pump Track](/directory/parks/us/lueth-park-skate-park-la-crosse-wi) in La Crosse.
+
+
+### Green Skate Lab (Langdon Park Skatepark)
+An eco-conscious, above-ground poured-concrete transition bowl in Northeast D.C.'s Langdon Park managed by DC DPR, pairing a forgiving 3-to-4-foot shallow end and 3.5-foot center spine/roller with a 9-foot pool-coped deep pocket.
+Location: Washington, District of Columbia, US
+Website: https://dpr.dc.gov/page/langdon-park-community-center
+
+Tucked into the wooded park grounds behind the Langdon Park Community Center and Chuck Brown Memorial in Northeast Washington's Ward 5 (reachable from the Rhode Island Ave–Brentwood Red Line Metro station), the Green Skate Lab—also known locally as the Green Bowl or Langdon Park Skatepark—is an above-ground poured-concrete skate bowl operating under the DC Department of Parks and Recreation (DPR). Originally launched as America's first "green" community-built skatepark project using reclaimed materials and rammed-earth/recycled-tire foundations, the standalone transition bowl gives older skaters in the District a quieter, tree-shaded carving refuge away from the heavier downtown street-plaza crowds.
+
+The multi-level concrete bowl is naturally zoned for progressive transition riding: returning skaters can start at the forgiving 3-to-4-foot shallow end with accessible roll-in spots and pump over the 3.5-foot center spine and roller before testing the 9-foot deep end finished with real pool coping. Keep several practical caveats in mind before visiting: the bowl is entirely transition-focused with no flatground street plaza, it has no dedicated night floodlighting so sessions are limited to dawn-to-dusk daylight hours, fallen leaves and tree debris after rainstorms sometimes require a quick broom sweep, and entering the adjacent Langdon Park Community Center for indoor restrooms requires a valid government-issued photo ID during open center hours. For flatground and street-plaza lines in the District, pair a bowl session here with [Shaw Skatepark](/directory/parks/us/shaw-skatepark-washington-dc) in Northwest D.C. or the bike- and scooter-free [Skate Park at RFK Campus](/directory/parks/us/skate-park-at-rfk-campus-washington-dc) on East Capitol Street.
+
+
+### Norma B. Handloff Park Skate Spot
+A compact 2,800-square-foot Grindline poured-concrete neighborhood skate spot in Newark's Norma B. Handloff Park featuring mellow quarter-pipes, banks, a China bank, and a hubba ledge for low-consequence street and transition warmups.
+Location: Newark, Delaware, US
+Website: https://newarkde.gov/460/Norma-B-Handloff-Park
+
+Set inside 23.8-acre Norma B. Handloff Park along Barksdale Road on the west side of Newark, the Norma B. Handloff Park Skate Spot (often called the Barksdale Skate Spot) is a 2,800-square-foot poured-in-place concrete facility designed and built by Grindline Skateparks for the City of Newark Parks and Recreation Department. For older skaters in northern Delaware who want to rebuild board feel without stepping immediately into a massive regional bowl complex, its compact neighborhood scale and low-profile obstacles offer a calm, approachable alternative with on-site parking, a drinking fountain, and seasonal park restrooms.
+
+Grindline shaped the slab around smooth flatground approaches bookended by two mellow quarter-pipes, bank ramps, a hip, a China bank, and a low hubba ledge—ideal for practicing kickturns, slappies, basic ledge grinds, and pumping speed at a manageable pace. Keep a few City of Newark operational caveats in mind: the skate spot is unlit and open strictly from dawn to dusk daily, bringing or constructing portable ramps or standalone rails is prohibited by city code, and afternoon school dismissal near adjacent Barksdale Park fields can crowd the compact footprint—making weekday mornings the best time for a quiet solo session. When you are ready for deeper bowls and a larger street plaza in the same area, pair a warmup here with nearby 24,000-square-foot [Glasgow Skate Park](/directory/parks/us/glasgow-skate-park-newark-de) on Pulaski Highway, or head downstate to [Epworth Skatepark](/directory/parks/us/epworth-skatepark-rehoboth-beach-de) in Rehoboth Beach.
 
 
 ### Hazelwood Skatepark
@@ -8106,6 +8146,16 @@ Website: https://www.greenbaywi.gov/facilities/facility/details/Joannes-Skate-Pa
 As Wisconsin's largest outdoor poured-concrete facility, Joannes Skate Park offers an expansive layout that naturally diffuses heavy traffic. 
 
 For older skaters, the primary draw is its intentional physical separation of skill levels. The park features dedicated beginner areas far removed from the advanced transition sections, giving you a low-impact zone to build foundational board control without dodging high-speed riders.
+
+
+### Jonathan Hatcher Skateboard Park
+A floodlit 32,000-square-foot California Skateparks poured-concrete municipal complex in Columbus open daily from 5am to 11pm, separating a street plaza and two multi-pocket flow bowls from a pool-tiled backyard peanut bowl.
+Location: Columbus, Georgia, US
+Website: https://parks.columbusga.gov/Facilities/Facility/Details/Jonathan-Hatcher-Skateboard-Park-71
+
+Set near the Chattahoochee Riverfront at 200 4th Street and Victory Drive, the Jonathan Hatcher Skateboard Park is a 32,000-square-foot poured-concrete facility built by California Skateparks and operated by Columbus Parks and Recreation (Columbus Consolidated Government). Open daily from 5:00am to 11:00pm with overhead night lighting and free on-site parking, the massive complex gives older skaters in West Georgia and the Chattahoochee Valley expansive dawn quiet windows, shaded river breezes, and long evening sessions after work—supported by a municipal rule requiring parent or guardian supervision for all users under age 12.
+
+California Skateparks divided the 32,000-square-foot footprint into distinct street, flow, and pool zones so returning riders can progress without crossing into heavy vertical lines: you can start in the street plaza (seven ledges, two angled rails, banks, a pyramid, a small 4-stair, a larger 6-stair, and a two-step pocket "love seat"), then carve through two connected flow bowls featuring speed humps, bank walls, two smaller spine-linked bowls, and a racetrack-style flow section (6 to 9 feet) before eyeing the advanced Peanut Bowl finished with real pool tile, concrete coping, and dead boxes. Keep strict Columbus Consolidated Government rules in mind before visiting: securely strapped helmets, knee pads, elbow pads, and wrist guards are mandatory for all riders; metal bike pegs and waxing rails are prohibited; and the 11:00pm closing curfew is strictly enforced under criminal trespassing and equipment-seizure ordinances. Skaters heading north up I-185 toward Metro Atlanta can pair a session here with [Historic Fourth Ward Skatepark](/directory/parks/us/historic-fourth-ward-skatepark-atlanta-ga) in Atlanta, [Brook Run Skate Park](/directory/parks/us/brook-run-skate-park-dunwoody-ga) in Dunwoody, or [Kennesaw Skatepark](/directory/parks/us/kennesaw-skatepark-ga) in Kennesaw.
 
 
 ### Kalama Skate Park
@@ -8222,6 +8272,16 @@ The best place to start is the Skate Promenade — a nearly quarter-mile long, 3
 Early weekday mornings between 6:00 AM and 9:00 AM offer peaceful sessions with cool river breezes and empty concrete. The park is free, fully lit until 10:30pm every evening, and provides dedicated parking off Illinois Street with modern restroom facilities on site. BMX riders are permitted only with plastic pegs to preserve the smooth concrete surface.
 
 
+### Lawton Skatepark
+A 20,000-square-foot fenced concrete municipal skatepark in downtown Fort Wayne's Lawton Park open daily from 6am to 11pm with push-button evening lights, designated beginner, intermediate, and advanced zones, and a strict ban on bikes and scooters.
+Location: Fort Wayne, Indiana, US
+Website: https://www.fortwayneparks.org/facilities/19-parks/58-lawton-skatepark.html
+
+Located near the corner of North Clinton Street and 4th Street inside historic Lawton Park just north of downtown Fort Wayne, Lawton Skatepark is a 20,000-square-foot poured-concrete facility (built with 500 cubic yards of concrete and 9 tons of reinforcing steel) managed by the Fort Wayne Parks and Recreation Department. For older skaters in northeastern Indiana, Lawton combines three standout features: a strict municipal rule restricting the fenced enclosure to skateboards and inline skates only (prohibiting bicycles and scooters), designated beginner, intermediate, and advanced riding areas, and user-activated push-button floodlights that extend sessions past sunset.
+
+Entering through the single turnstile on the east side of the 8-foot perimeter fence, returning skaters can warm up on the beginner and intermediate street cityscape—stocked with wide flatground approaches, mellow banks, low ledges, manual pads, flat bars, and funboxes—before eyeing the advanced bowl and its steep 9-foot drop-off. Keep a few Fort Wayne Parks operational caveats in mind: after dark you must press the on-site activation button to turn on the pole lights, which automatically shut off at 10:45pm as a 15-minute warning before the 11:00pm park closure, and the park closes seasonally during winter snow and ice. If you are travelling down I-69 toward central Indiana, you can get a full board evaluation at [Minus Skate Shop](/directory/shops/us/minus-skateshop-carmel-in) in Carmel before skating [Major Taylor Skatepark](/directory/parks/us/major-taylor-skatepark-indianapolis-in) or indoor [Q Skatepark](/directory/parks/us/q-skatepark-indianapolis-in) in Indianapolis.
+
+
 ### Lee and Joe Jamail Skatepark
 Houston's flagship public park, opened in 2008 beside the Sabine Street Bridge: 30,000 square feet of in-ground concrete with a street course, a kidney pool, a big bowl and two cradles, one of them thought to be the largest in the country. Areas are laid out by ability, and the morning hours are noticeably quieter.
 Location: Houston, Texas, US
@@ -8301,6 +8361,16 @@ Location: Seattle, Washington, US
 Website: https://www.seattle.gov/parks/parks/woodland-park
 
 The separate street area is what makes this one work for adults easing back in — you can spend an hour on flatground and small ledges well away from the bowl traffic. Plenty of parking, and the Green Lake path right there if you are bringing family who would rather walk than skate.
+
+
+### Lueth Park Skate Park & Pump Track
+A lighted City of La Crosse neighborhood facility open daily from 6am to 10:30pm that pairs an outdoor poured-concrete bowl, half-pipe, and street course with an adjacent butterfly-shaped asphalt pump track.
+Location: La Crosse, Wisconsin, US
+Website: https://www.cityoflacrosse.org/your-government/departments/parks-recreation-forestry/parks-facilities/lueth-park
+
+Set at 1200 La Crosse Street beside the University of Wisconsin–La Crosse campus, Lueth Park (also known as the Lueth Bicycle and Skate Park) is maintained by the City of La Crosse Parks, Recreation & Forestry Department in partnership with the Outdoor Recreation Alliance (ORA Trails) and the Goosetown Neighborhood Association. Open daily from 6:00am to 10:30pm with evening lighting, shelter space, drinking fountains, and restrooms, the park gives older skaters in western Wisconsin's Driftless Region both quiet early-morning windows and lit evening sessions after work.
+
+What makes Lueth Park especially versatile for returning skaters is its dual-surface layout: alongside the poured-concrete skatepark—which houses a concrete bowl, quarter-pipes, a pyramid, a tabletop, and an 8-foot half-pipe with a roll-in—an underused ballfield was converted in 2018 into a hard-surface, butterfly-shaped asphalt pump track where riders can rebuild carving rhythm and leg stamina without impact or ollies. Keep City of La Crosse operational caveats in mind: the facility is unsupervised, safety gear is mandatory while riding the half-pipe, and the city explicitly notes that the main concrete skatepark transitions are not intended as a nursery for absolute first-time novices—so beginners should warm up on the adjacent asphalt pump track and flat outer approaches during quiet morning hours before dropping into the concrete bowl or half-pipe. Elsewhere in Wisconsin, you can pair a trip across I-90/I-94 with [Irwin A. and Robert D. Goodman Skatepark](/directory/parks/us/goodman-skatepark-madison-wi) in Madison or [Sun Prairie Skateboard Park](/directory/parks/us/sun-prairie-skateboard-park-wi) in Sun Prairie.
 
 
 ### Lynch Family Skatepark
@@ -8823,7 +8893,7 @@ Website: https://dpr.dc.gov/
 
 Shaw Skatepark is a popular, concrete community park situated in the heart of Washington, D.C. Renovated with a smooth surface and later enhanced with a flow bowl, the facility offers a diverse mix of transition and street elements.
 
-The park's varied layout allows returning skaters to find a comfortable zone and progress at their own pace. Because of its central location, it can draw a crowd; beginners are encouraged to observe the flow of the park and visit during quieter, off-peak periods to build confidence. Be aware that while official hours are dawn to dusk, the gates are occasionally reported locked in the early evening. For a bike- and scooter-free street plaza session on the east side of the District, you can also visit the [Skate Park at RFK Campus](/directory/parks/us/skate-park-at-rfk-campus-washington-dc).
+The park's varied layout allows returning skaters to find a comfortable zone and progress at their own pace. Because of its central location, it can draw a crowd; beginners are encouraged to observe the flow of the park and visit during quieter, off-peak periods to build confidence. Be aware that while official hours are dawn to dusk, the gates are occasionally reported locked in the early evening. Across the District, you can also visit the bike- and scooter-free street plaza at the [Skate Park at RFK Campus](/directory/parks/us/skate-park-at-rfk-campus-washington-dc) or carve the standalone pool-coped bowl at the [Green Skate Lab](/directory/parks/us/green-skate-lab-langdon-park-washington-dc) in Langdon Park.
 
 
 ### Sheridan Community Skate Park (Thorne-Rider Park)
@@ -8863,7 +8933,7 @@ Website: https://eventsdc.com/venue/skate-park-rfk-campus
 
 Set near Parking Lot 3 and the Stadium-Armory Metrorail station along the Anacostia River, the Skate Park at RFK Campus (originally built for the 2011 Maloof Money Cup) spans 15,000 square feet of smooth poured concrete managed by Events DC. Designed by pro skater Geoff Rowley and California Skateparks as a tribute to classic District street spots—including replicas of the Freedom Plaza ledges, Pennsylvania Avenue granite steps, and the Golden Rail—the plaza is particularly welcoming for older skaters rebuilding street fundamentals because Events DC rules strictly prohibit bicycles, scooters, and motorized devices, restricting the slab to skateboards, inline skates, and roller skates.
 
-Returning riders can warm up on the wide, open flatground approaches, low manual pads, and mellow bank ramps around the outer plaza before testing the multi-stair hubbas, rails, or the perimeter quarter-pipe and vert wall. Keep a few strict Events DC rules in mind before visiting: commercially manufactured helmets, elbow pads, and kneepads are required at all times, skating alone is prohibited (at least two people must be present), and the unlit facility operates strictly from dawn to dusk and closes during wet, snowy, or icy conditions. You can also pair an east-side plaza session here with [Shaw Skatepark](/directory/parks/us/shaw-skatepark-washington-dc) in Northwest D.C.
+Returning riders can warm up on the wide, open flatground approaches, low manual pads, and mellow bank ramps around the outer plaza before testing the multi-stair hubbas, rails, or the perimeter quarter-pipe and vert wall. Keep a few strict Events DC rules in mind before visiting: commercially manufactured helmets, elbow pads, and kneepads are required at all times, skating alone is prohibited (at least two people must be present), and the unlit facility operates strictly from dawn to dusk and closes during wet, snowy, or icy conditions. You can also pair an east-side plaza session here with [Shaw Skatepark](/directory/parks/us/shaw-skatepark-washington-dc) in Northwest D.C. or the standalone concrete transition bowl at the [Green Skate Lab](/directory/parks/us/green-skate-lab-langdon-park-washington-dc) in Northeast D.C.
 
 
 ### Skatepark of Baltimore
@@ -9106,6 +9176,16 @@ Website: https://www.laparks.org/venice-beach-skate-park
 Venice Beach Skate Park has something for everyone — a dedicated beginner section with smaller banks and mellow transitions alongside technical pool terrain. The morning hours are populated by a solid contingent of adult skaters, many of them regulars who've been skating there for decades.
 
 Rip City Skates, in the same building on Santa Monica Boulevard since 1978, is the shop paired with this park — ten minutes away and older than most of the people skating here.
+
+
+### Veterans Skate Park
+A 7,500-square-foot SITE Design Group and California Skateparks poured-concrete municipal facility in Alabaster's Veterans Park that strictly prohibits bicycles and scooters and separates a street plaza from a pool-tiled skull bowl.
+Location: Alabaster, Alabama, US
+Website: https://www.cityofalabaster.com/227/Parks-Information
+
+Set inside 90-acre Veterans Park along Highway 119 in Shelby County just south of Birmingham, Veterans Skate Park is a 7,500-square-foot poured-concrete facility designed by SITE Design Group and built by California Skateparks for the City of Alabaster. For older skaters in the southern Birmingham metro, its standout draw is a strict municipal rule: bicycles and scooters are explicitly prohibited on the skatepark slab, reserving the concrete for skateboards and inline skates and eliminating unpredictable scooter cross-traffic.
+
+The layout separates a street-style plaza—equipped with open flatground approaches, manual pads, low ledges, a 3-stair with a hubba ledge, and 5-stair and 8-stair handrails—from its signature rounded "skull bowl," which ranges from 6 to 10 feet deep with real pool tile and pool coping. Keep City of Alabaster rules and site caveats in mind before heading out: management strictly requires a helmet with a fastened chin strap at all times (with knee pads, elbow pads, and wrist guards strongly recommended), and while the surrounding park's walking trails are lit until 11:00pm, the skatepark itself has no dedicated overhead sports floodlighting and is best skated during daylight hours. If you want a covered, floodlit session in downtown Birmingham, pair a south-metro ride here with [City Walk Skatepark](/directory/parks/us/city-walk-skatepark-birmingham-al) or head north up I-65 to [Get-A-Way Skatepark](/directory/parks/us/get-a-way-skatepark-huntsville-al) in Huntsville.
 
 
 ### Wakefield Skate Park
@@ -9374,7 +9454,7 @@ Website: https://familiaskateshop.com
 
 Familia Skateshop has been serving the Twin Cities area for over a decade and a half and is widely recognized as a central hub for the local scene. The shop is deeply community-driven and maintains a welcoming atmosphere for skaters of all ages and abilities. 
 
-The staff are highly knowledgeable and will gladly walk returning or beginner skaters through building a custom setup without any elitism. They also operate the **Familia Headquarters** indoor skatepark. For dedicated adult-specific instruction and sessions, it's also worth visiting **3rd Lair Skatepark** in nearby Golden Valley.
+The staff are highly knowledgeable and will gladly walk returning or beginner skaters through building a custom setup without any elitism. They also operate the [Familia Headquarters](/directory/parks/us/familia-headquarters-minneapolis-mn) indoor skatepark. For dedicated older-skater instruction and sessions, it's also worth visiting [3rd Lair Skatepark](/directory/parks/us/3rd-lair-skatepark-golden-valley-mn) in nearby Golden Valley, or heading to the south metro for an outdoor concrete session at [Burnsville Lions Skate Park](/directory/parks/us/burnsville-lions-skate-park-mn).
 
 
 ### Fargo Skateboarding Shop
@@ -9402,7 +9482,7 @@ Website: https://minusskateshop.com
 
 Located in Carmel, just north of Indianapolis, Minus Skate Shop is renowned for its strong community focus and hands-on service. They stock complete kits, build-your-own decks, and longboards, ensuring they can equip everyone from first-timers to life-long skaters.
 
-The shop is particularly valuable for returning skaters due to its comprehensive repair and maintenance services. The staff routinely perform full board evaluations—checking bearings, wheels, and deck condition—and are happy to assist with custom board builds. It's a great spot to get your setup dialed in before hitting [Major Taylor Skatepark](/directory/parks/us/major-taylor-skatepark-indianapolis-in) or the indoor wooden ramps at [Q Skatepark](/directory/parks/us/q-skatepark-indianapolis-in) in Indianapolis.
+The shop is particularly valuable for returning skaters due to its comprehensive repair and maintenance services. The staff routinely perform full board evaluations—checking bearings, wheels, and deck condition—and are happy to assist with custom board builds. It's a great spot to get your setup dialed in before hitting [Major Taylor Skatepark](/directory/parks/us/major-taylor-skatepark-indianapolis-in) or the indoor wooden ramps at [Q Skatepark](/directory/parks/us/q-skatepark-indianapolis-in) in Indianapolis, or making the trip up I-69 to skate the lit, bike-free concrete at [Lawton Skatepark](/directory/parks/us/lawton-skatepark-fort-wayne-in) in Fort Wayne.
 
 
 ### No-Comply Skateshop

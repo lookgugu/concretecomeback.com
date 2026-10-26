@@ -17,10 +17,10 @@ entryFee: "Free"
 googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=202+S+Ingersoll+St+Madison+WI"
 featured: false
 addedDate: 2026-10-04
-lastVerified: 2026-10-04
+lastVerified: 2026-10-26
 tags: ["concrete", "free", "lit", "madison"]
 ---
 
 Goodman Skatepark is the premier spot in Madison, located within McPike Park. The 20,000-square-foot facility is well-regarded by older skaters for its generous lighting hours (open until 10pm from mid-April to October) and early 4am opening, making it highly practical for those fitting a session around work.
 
-The layout physically separates the street section (which makes up about 70% of the park) from the transition area. The transition section itself offers two distinct bowls: a mellow 4–7 foot flow bowl that is ideal for warming up or regaining confidence, and a more advanced 9-foot eggplant bowl for experienced riders. For a skateboard-only session just northeast of the city, you can also check out [Sun Prairie Skateboard Park](/directory/parks/us/sun-prairie-skateboard-park-wi) in Sheehan Park.
+The layout physically separates the street section (which makes up about 70% of the park) from the transition area. The transition section itself offers two distinct bowls: a mellow 4–7 foot flow bowl that is ideal for warming up or regaining confidence, and a more advanced 9-foot eggplant bowl for experienced riders. For a skateboard-only session just northeast of the city, you can also check out [Sun Prairie Skateboard Park](/directory/parks/us/sun-prairie-skateboard-park-wi) in Sheehan Park, or head west to the Driftless Region to ride the lit concrete and asphalt pump track at [Lueth Park Skate Park & Pump Track](/directory/parks/us/lueth-park-skate-park-la-crosse-wi) in La Crosse.
