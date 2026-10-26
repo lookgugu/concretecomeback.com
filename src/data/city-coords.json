@@ -234,6 +234,11 @@
     "lng": -3.9459,
     "source": "Swansea, Cymru / Wales, SA1 3BN, United Kingdom"
   },
+  "US|alabama|alabaster": {
+    "lat": 33.2443,
+    "lng": -86.8164,
+    "source": "Alabaster, Shelby County, Alabama, 35007, United States"
+  },
   "US|alabama|birmingham": {
     "lat": 33.5207,
     "lng": -86.8024,
@@ -404,6 +409,11 @@
     "lng": -84.3898,
     "source": "Atlanta, Fulton County, Georgia, United States"
   },
+  "US|georgia|columbus": {
+    "lat": 32.4611,
+    "lng": -84.988,
+    "source": "Columbus, Muscogee County, Georgia, United States"
+  },
   "US|georgia|dunwoody": {
     "lat": 33.9464,
     "lng": -84.3343,
@@ -468,6 +478,11 @@
     "lat": 37.9705,
     "lng": -87.5716,
     "source": "Evansville, Vanderburgh County, Indiana, United States"
+  },
+  "US|indiana|fort wayne": {
+    "lat": 41.08,
+    "lng": -85.1386,
+    "source": "Fort Wayne, Allen County, Indiana, United States"
   },
   "US|indiana|indianapolis": {
     "lat": 39.7683,
@@ -598,6 +613,11 @@
     "lat": 42.4895,
     "lng": -83.1446,
     "source": "Royal Oak, Oakland County, Michigan, United States"
+  },
+  "US|minnesota|burnsville": {
+    "lat": 44.7671,
+    "lng": -93.2774,
+    "source": "Burnsville, Dakota County, Minnesota, United States"
   },
   "US|minnesota|golden valley": {
     "lat": 44.9861,
@@ -798,6 +818,11 @@
     "lat": 41.482,
     "lng": -81.7982,
     "source": "Lakewood, Cuyahoga County, Ohio, 44107, United States"
+  },
+  "US|ohio|newark": {
+    "lat": 40.0581,
+    "lng": -82.4013,
+    "source": "Newark, Licking County, Ohio, 43055, United States"
   },
   "US|oklahoma|broken arrow": {
     "lat": 36.0526,
@@ -1024,6 +1049,11 @@
     "lng": -88.0126,
     "source": "Green Bay, Brown County, Wisconsin, United States"
   },
+  "US|wisconsin|la crosse": {
+    "lat": 43.8123,
+    "lng": -91.2514,
+    "source": "La Crosse, La Crosse County, Wisconsin, United States"
+  },
   "US|wisconsin|madison": {
     "lat": 43.0747,
     "lng": -89.3842,
@@ -1065,8 +1095,8 @@
     "source": "derived: mean of 18 listed UK cities"
   },
   "US": {
-    "lat": 39.1969,
-    "lng": -94.3328,
-    "source": "derived: mean of 163 listed US cities"
+    "lat": 39.1932,
+    "lng": -94.1531,
+    "source": "derived: mean of 168 listed US cities"
   }
 }
