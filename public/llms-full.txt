@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-26T21:27:02.705Z
+# Date: 2026-10-27T23:49:17.574Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -7549,6 +7549,16 @@ Location: Hillsborough, New Jersey, US
 This evolving DIY concrete park features a highly regarded beginner bowl alongside a spine and mini-ramp. Because it benefits from lights and a dedicated local community, it's very accommodating to older skaters returning to the sport. The concrete surface dries relatively quickly, making it a reliable choice.
 
 
+### Anthem Hills Skate Park
+A floodlit 26,500-square-foot SITE Design Group poured-concrete skatepark in Henderson's Anthem Hills Park open daily from 7am to 10pm, flowing from an entry street course into a rolled-lip snake run, an 8-foot square bowl, and a 5-to-8-foot kidney pool.
+Location: Henderson, Nevada, US
+Website: https://www.cityofhenderson.com/Home/Components/FacilityDirectory/FacilityDirectory/196/774?widgetId=554
+
+Set in the foothills of southern Henderson inside the 53-acre Anthem Hills Park & Anthem East Trailhead complex at Reunion Drive and Sonatina Drive, Anthem Hills Skate Park is a 26,500-square-foot poured-concrete facility designed by SITE Design Group and operated by the City of Henderson. Open daily from 7:00am to 10:00pm with full evening floodlighting, shaded picnic shelters, on-site restrooms, and an adjacent outdoor roller hockey rink, the park gives older skaters in the southeast Las Vegas Valley reliable early-morning and post-sunset windows to escape Mojave Desert heat—helped by a City of Henderson rule requiring a parent or guardian to accompany any park user under the age of 13.
+
+SITE Design Group arranged the 26,500-square-foot footprint as a progressive linear flow course that steps up in depth as you move deeper into the park. Returning skaters can start near the entrance on the street section—equipped with a hubba ledge, flat rail, bank-to-wall, and a funbox with a flat bar and transfer ledge—before carving around the corner into a long, roller-coaster-style snake run built with forgiving rolled lips, elevation changes, rollers, a spine, and two rolled volcanoes. At the far end, the run hooks into an 8-foot-deep square bowl with a hip alongside a separate kidney pool featuring a 5-foot shallow end and an 8-foot deep end. Keep City of Henderson rules in mind: helmets, elbow pads, knee pads, shirts, and shoes are mandatory for all riders; no food or drinks other than water are allowed inside the skatepark; BMX bikes share the concrete; and the park closes whenever surfaces are wet or covered in desert debris. Pair your southern Nevada trip with [Desert Breeze Skate Park](/directory/parks/us/desert-breeze-skate-park-las-vegas-nv) in Las Vegas or [Craig Ranch Skatepark](/directory/parks/us/craig-ranch-skatepark-north-las-vegas-nv) in North Las Vegas.
+
+
 ### Arvada Skate Park
 A sprawling 40,000-square-foot concrete facility featuring dedicated beginner-friendly mini-ramps and mellow transitions, making it an ideal space for older skaters looking to progress without pressure.
 Location: Arvada, Colorado, US
@@ -7711,6 +7721,16 @@ Tucked into the rolling hills of Centennial Park between 6th and 9th Streets in 
 The course separates its main poured-concrete street and flow footprint from the adjacent Corey Lawrence Memorial Vert Ramp (a dedicated steel-framed vertical half-pipe surfaced with Gator Skins). Returning riders can warm up across the concrete plaza's mellow banks, quarter-pipes, pyramids, funboxes, ledges, euro gap, and flow bowl without crossing paths with vertical ramp traffic. Note that the facility is unsupervised and shared with BMX riders and inline skaters, and the memorial vert ramp demands full protective pads and established transition skills. If you need fresh hardware, softer wheels, or a custom setup along the Kansas River corridor, pair your session with a trip east to [Escapist Skateboarding](/directory/shops/us/escapist-skateboarding-kansas-city-mo) in Kansas City or roll through [Rolling Magic Skate Park](/directory/parks/us/rolling-magic-skate-park-lenexa-ks) in Lenexa.
 
 
+### Charlottesville Skate Park (McIntire Park)
+A 30,000-square-foot multi-level concrete skatepark in Charlottesville's McIntire Park East open daily from 8am to 10pm with overhead lighting, separating a terraced street plaza and beginner area from a multi-depth bowl and pool complex.
+Location: Charlottesville, Virginia, US
+Website: https://www.charlottesville.gov/1008/Charlottesville-Skate-Park
+
+Built into a wooded hillside spanning a 30-foot elevation change at the corner of the Route 250 Bypass and McIntire Road, the Charlottesville Skate Park (often called McIntire Skatepark) is a 30,000-square-foot poured-concrete facility designed with Stantec's Kanten Russell and Action Sports Design and operated by Charlottesville Parks & Recreation. Open daily from 8:00am to 10:00pm with overhead night lighting, the two-acre site gives older skaters in central Virginia calm morning sessions under mature deciduous trees as well as extended evening runs after work.
+
+Because the layout is terraced across multiple levels, returning skaters can work on fundamentals in the upper and lower street plazas—starting on a gentle entry roll-in, beginner flatground section, double metal-edged ledges, a low box ledge, 3-foot concrete quarter-pipes, a small volcano, and flat rails—before rolling down into the separate bowl section, which pairs a flowing transition bowl with deeper pool-style pockets. Plan your arrival around the park's access layout: there is no curbside parking directly on the Route 250 Bypass, so park either at the McIntire Park East lot by the Charlottesville Rescue Squad (828 McIntire Road) or the West softball fields lot (1360 Rugby Avenue) and follow the paved path and pedestrian bridge to the concrete. The park is a wheel-friendly facility shared with bikes, scooters, and inline skates, and City of Charlottesville rules strongly recommend helmets, knee pads, elbow pads, and wrist guards. Skaters travelling north toward the Washington DC metro can pair a central Virginia trip with [Powhatan Springs Skate Park](/directory/parks/us/powhatan-springs-skate-park-arlington-va) in Arlington or [Wakefield Skate Park](/directory/parks/us/wakefield-skatepark-annandale-va) in Annandale.
+
+
 ### Grant Park Skate Park
 A well-maintained public skate park in Grant Park with smooth concrete, a flowing layout of banks and mellow transitions, and beginner-friendly flatground. Supervised by Chicago Parks, it's clean and well-kept. The mellow flow sections make it one of the most accessible parks in the midwest for adult skaters returning to the sport.
 Location: Chicago, Illinois, US
@@ -7765,6 +7785,16 @@ Website: https://www.cdaid.org/government/departments/parks-and-recreation/park-
 Set next to the historic Memorial Field grandstand along Northwest Boulevard and Mullan Avenue, Coeur d'Alene Skatepark is a 14,000-square-foot poured-concrete facility designed and built by Evergreen Skateparks as part of the city's Four Corners park renewal. Equipped with overhead lighting for evening sessions, the park replaces the city's original 1995 setup with glass-smooth concrete engineered for continuous, low-impact flow.
 
 What makes the layout especially welcoming for older skaters is Evergreen's two-part design: 10,000 square feet of open street "skate plaza" (banks, ledges, manual pads, flat bars, and stairs) paired with 4,000 square feet of sculpted "moonscape"—a lunar-inspired zone of mellow, rolling bumps, curves, and pocket transitions where you can pump and carve endless laps without committing to vertical coping. Because the park is shared with BMX riders and scooters and serves as a major regional stop along the I-90 corridor, summer afternoons get lively; aim for morning or lit evening sessions for the most room, and note that the adjacent Memorial Park lot enforces seasonal paid parking rates from May through September. You can easily pair an Inland Northwest trip here with [Hillyard Skatepark](/directory/parks/us/hillyard-skatepark-spokane-wa) just across the Washington border in Spokane.
+
+
+### Columbia Skate Park & Cosmo Bike Park Pump Tracks (Cosmo Park)
+A 28,000-square-foot concrete municipal skatepark in Columbia's Cosmo Park enforcing a strict no-bikes/no-scooters rule, paired inside the same regional park with an outdoor roller hockey rink and two paved asphalt pump tracks.
+Location: Columbia, Missouri, US
+Website: https://www.como.gov/contacts/columbia-skate-park/
+
+Set at the north end of the 533-acre Columbia Cosmopolitan Recreation Area (Cosmo Park) just off Interstate 70 halfway between St. Louis and Kansas City, Columbia Skate Park is a 28,000-square-foot (175-by-160-foot) poured-concrete course operated by Columbia Parks and Recreation, complemented in the northeast corner of the same park by the Cosmo Bike Park's two paved asphalt pump tracks. For older skaters in mid-Missouri, the facility stands out for a deliberate municipal safety policy: after studying collision risks at unsupervised facilities, the City of Columbia restricted the 28,000-square-foot concrete skatepark exclusively to skateboards and inline skates, prohibiting bicycles and scooters on the slab.
+
+Returning riders have several ways to ease into a session across Cosmo Park. You can warm up on the flat surface of the adjacent outdoor roller hockey rink or carve low-impact laps on the two paved asphalt pump tracks at Cosmo Bike Park (which explicitly encourage riders to "start small and build upwards"), then step onto the concrete skatepark's 16-foot lowbox, 150 feet of quarter-pipe, 30 feet of half-pipe, 15-foot taco, 25-by-25-foot pyramid, 30-foot funbox, 9-foot bank, stairs, and 75 feet of grindrail. Note a few City of Columbia caveats before driving out: although electrical conduit was laid during construction, the skatepark itself has no overhead lighting and closes strictly at dusk; the nearby Antimi Sports Complex restrooms operate seasonally from April 15 to October 15 (with a portable toilet placed at the skatepark from October 15 to April 15); and City Ordinance Section 16-238 mandates strapped helmets for riders age 15 and under while strongly recommending protective gear for older skaters. Travelling east or west along I-70? Pair your stop with [Penn Valley Skatepark](/directory/parks/us/penn-valley-skatepark-kansas-city-mo) and [Escapist Skateboarding](/directory/shops/us/escapist-skateboarding-kansas-city-mo) in Kansas City or [Peter Mathews Memorial Skate Garden](/directory/parks/us/peter-mathews-memorial-skate-park-st-louis-mo) in St. Louis.
 
 
 ### Commonwealth Skateboarding
@@ -7836,7 +7866,7 @@ Website: https://www.clarkcountynv.gov/government/departments/parks___recreation
 
 Set inside the 119-acre Desert Breeze Park complex at Spring Mountain Road and Durango Drive in Spring Valley, Desert Breeze Skate Park spans 20,000 square feet of poured concrete operated by Clark County Parks & Recreation. For older skaters in the Las Vegas Valley, the park's 6:00am opening, timer-controlled overhead night lighting until 11:00pm, shade structures, benches, and on-site drinking fountains make it practical to schedule sessions at dawn or after dark to beat Mojave Desert heat, with two regulation roller hockey rinks situated immediately west of the skatepark.
 
-While Clark County describes the overall layout as geared toward intermediate-to-advanced riders with beginner-accessible sections, the 20,000-square-foot footprint gives returning skaters room to warm up on the outer banks, low street ledges, flat rails, and milder transitions before dropping into the deeper concrete bowls and larger street obstacles. Keep county caveats in mind: the park is an unsupervised facility shared by skateboards, inline skates, and BMX bikes (helmets and full pads are strongly recommended), there are no public telephones at the skatepark, glass containers and amplified music are prohibited, and Clark County code requires all visitors to clear the park grounds no later than 11:00pm. For an even larger 65,000-square-foot plaza and bowl complex across the valley, pair your trip with [Craig Ranch Skatepark](/directory/parks/us/craig-ranch-skatepark-north-las-vegas-nv) in North Las Vegas.
+While Clark County describes the overall layout as geared toward intermediate-to-advanced riders with beginner-accessible sections, the 20,000-square-foot footprint gives returning skaters room to warm up on the outer banks, low street ledges, flat rails, and milder transitions before dropping into the deeper concrete bowls and larger street obstacles. Keep county caveats in mind: the park is an unsupervised facility shared by skateboards, inline skates, and BMX bikes (helmets and full pads are strongly recommended), there are no public telephones at the skatepark, glass containers and amplified music are prohibited, and Clark County code requires all visitors to clear the park grounds no later than 11:00pm. For an even larger 65,000-square-foot plaza and bowl complex across the valley, pair your trip with [Craig Ranch Skatepark](/directory/parks/us/craig-ranch-skatepark-north-las-vegas-nv) in North Las Vegas or head southeast to [Anthem Hills Skate Park](/directory/parks/us/anthem-hills-skate-park-henderson-nv) in Henderson.
 
 
 ### Dike West Skatepark
@@ -8077,7 +8107,7 @@ Grindline shaped the slab around smooth flatground approaches bookended by two m
 A smooth concrete park featuring two large bowls and street elements. The design explicitly caters to varying skill levels, providing separation for beginners and experienced skaters.
 Location: Baltimore, Maryland, US
 
-A welcoming $4.3 million community project, Hazelwood Skatepark includes a spacious main bowl and a secondary bowl, along with a variety of street elements like quarter pipes and ledges. The layout provides ample space and varying difficulty levels, making it approachable for older skaters looking to rebuild their confidence away from advanced traffic.
+A welcoming $4.3 million community project, Hazelwood Skatepark includes a spacious main bowl and a secondary bowl, along with a variety of street elements like quarter pipes and ledges. The layout provides ample space and varying difficulty levels, making it approachable for older skaters looking to rebuild their confidence away from advanced traffic. You can also pair a Maryland session with [Skatepark of Baltimore](/directory/parks/us/skatepark-of-baltimore-md) in Hampden or head toward Montgomery County for floodlit evening runs at [Olney Manor Skate Park](/directory/parks/us/olney-manor-skate-park-md).
 
 
 ### Heath Eiland & Morgan Moss Skate Park
@@ -8156,6 +8186,16 @@ Website: https://parks.columbusga.gov/Facilities/Facility/Details/Jonathan-Hatch
 Set near the Chattahoochee Riverfront at 200 4th Street and Victory Drive, the Jonathan Hatcher Skateboard Park is a 32,000-square-foot poured-concrete facility built by California Skateparks and operated by Columbus Parks and Recreation (Columbus Consolidated Government). Open daily from 5:00am to 11:00pm with overhead night lighting and free on-site parking, the massive complex gives older skaters in West Georgia and the Chattahoochee Valley expansive dawn quiet windows, shaded river breezes, and long evening sessions after work—supported by a municipal rule requiring parent or guardian supervision for all users under age 12.
 
 California Skateparks divided the 32,000-square-foot footprint into distinct street, flow, and pool zones so returning riders can progress without crossing into heavy vertical lines: you can start in the street plaza (seven ledges, two angled rails, banks, a pyramid, a small 4-stair, a larger 6-stair, and a two-step pocket "love seat"), then carve through two connected flow bowls featuring speed humps, bank walls, two smaller spine-linked bowls, and a racetrack-style flow section (6 to 9 feet) before eyeing the advanced Peanut Bowl finished with real pool tile, concrete coping, and dead boxes. Keep strict Columbus Consolidated Government rules in mind before visiting: securely strapped helmets, knee pads, elbow pads, and wrist guards are mandatory for all riders; metal bike pegs and waxing rails are prohibited; and the 11:00pm closing curfew is strictly enforced under criminal trespassing and equipment-seizure ordinances. Skaters heading north up I-185 toward Metro Atlanta can pair a session here with [Historic Fourth Ward Skatepark](/directory/parks/us/historic-fourth-ward-skatepark-atlanta-ga) in Atlanta, [Brook Run Skate Park](/directory/parks/us/brook-run-skate-park-dunwoody-ga) in Dunwoody, or [Kennesaw Skatepark](/directory/parks/us/kennesaw-skatepark-ga) in Kennesaw.
+
+
+### Jordan Park Skatepark
+A 9,000-square-foot Grindline and Spohn Ranch poured-concrete municipal skatepark in Allentown's Jordan Park with evening lighting, blending a transition bowl and spine with a wide flatground warmup zone and low beginner ledges.
+Location: Allentown, Pennsylvania, US
+Website: https://allentownpa.myrec.com/info/facilities/area_info.aspx?FacilityID=14752&AreaID=14841
+
+Situated along the Jordan Creek Greenway at North 6th Street and Sumner Avenue, Jordan Park Skatepark is a 9,000-square-foot cast-in-place concrete facility designed by Grindline Skateparks, built by Spohn Ranch Skateparks, and operated by the City of Allentown Parks and Recreation Department. Equipped with overhead lighting, on-site parking, and spectator seating, the park gives older skaters in Pennsylvania's Lehigh Valley a smooth, modern transition-and-street layout developed with direct input from the local skateboarding community.
+
+Grindline and Spohn Ranch shaped the course so newer and returning skaters have a low-pressure place to start: one end of the street section opens into a generous flatground area, and the far side of the course sets aside smaller, approachable obstacles—including a low grind ledge and a mellow quarter-pipe—out of the main flow line. Once your legs are warm, the rest of the park blends banks, a euro gap, curbs, stairs, hubbas, handrails, a wallride, and a roll-in into a concrete bowl with a spine and extensions. Keep a few practical caveats in mind: the park is an unsupervised all-wheel facility shared with BMX bikes, roller skates, and scooters with no mandatory helmet rule posted, and the on-site park restrooms and drinking fountains are winterized and closed from mid-November through spring. If you are heading south down the Northeast Extension toward Philadelphia, you can pair a Lehigh Valley session with [Paine's Park](/directory/parks/us/paines-park-philadelphia-pa) and pick up fresh gear at [Nocturnal Skateshop](/directory/shops/us/nocturnal-skateshop-philadelphia-pa).
 
 
 ### Kalama Skate Park
@@ -8441,6 +8481,16 @@ Memorial Park offers a well-rounded concrete facility that caters to riders of a
 A major draw for returning skaters is the lighting system, which keeps the park brightly lit until 11:00 pm. This allows for quiet, late-evening sessions when the park is less crowded, making it easier to practice at your own pace without navigating around heavy traffic. Early mornings here are also famously peaceful.
 
 
+### Memorial Park Skatepark
+A 40,000-square-foot Team Pain custom poured-concrete municipal skatepark and wooden mini-ramp complex in Colorado Springs' Memorial Park, open from 5am with evening lighting and a 20,000-square-foot street plaza separated from deep flow and pool bowls.
+Location: Colorado Springs, Colorado, US
+Website: https://coloradosprings.gov/memorialpark
+
+Located near East Pikes Peak Avenue and South Hancock Avenue inside Colorado Springs' flagship municipal park, Memorial Park Skatepark is a 40,000-to-45,000-square-foot custom concrete facility designed and built by Team Pain for Colorado Springs Parks, Recreation and Cultural Services. Opening daily at 5:00am with overhead floodlighting that keeps the course skateable until 10:00pm from May through October (and 9:00pm from November through April), the complex gives older skaters along the southern Front Range quiet sunrise sessions and reliable after-work windows with views of Pikes Peak.
+
+Team Pain split the massive footprint in half so returning skaters can warm up without getting tangled in heavy transition traffic: a full 20,000-square-foot street plaza offers wide flatground approaches, mellow banks, quarter-pipes, ledges, hubbas, stairs, and handrails, while the transition half houses multi-depth flow bowls, a signature "hole-in-the-wall" feature, a backyard-style pool, and a maintained 6-foot wooden ramp. Keep two local operational updates in mind before visiting: in February 2026 the city permanently decommissioned and removed the deteriorating 14-foot wooden vertical half-pipe (while keeping the smaller 6-foot ramp open), and effective September 2026 Memorial Park's 19 vehicle security gates close at 7:00pm every Sunday—drivers must exit the lots before 7:00pm on Sundays, though pedestrian and skateboard access continues until regular park closing. If you are travelling north up I-25 toward the Denver metro, pair your session with [Denver Skatepark](/directory/parks/us/denver-skatepark-co), [Arvada Skate Park](/directory/parks/us/arvada-skate-park-co), and a gear stop at [303 Boards](/directory/shops/us/303-boards-denver-co).
+
+
 ### Mira Loma Skatepark
 A spacious public concrete park featuring a wide variety of mellow obstacles well-suited for those learning to skateboard. Its open layout helps spread out traffic, making it less intimidating for older skaters and beginners.
 Location: Reno, Nevada, US
@@ -8558,6 +8608,16 @@ Website: https://www.southkingstownri.gov/facilities/facility/details/Old-Mounta
 Set inside 60-acre Old Mountain Field in Wakefield—South Kingstown's oldest town park, complete with restrooms, parking off Old Mountain Road, and wooded reservoir walking trails—Old Mountain Field Skate Park ("OMF") is a multi-phase collaboration between South Kingstown Parks and Recreation, the town Skate Park Committee, and Rhode Island builder Jus Martel of Pivotal Concrete. For older skaters in southern Rhode Island, the park offers two major practical advantages: overhead floodlighting that stays on until 10:00pm from May through October (and until 8:00pm from November through April), and a multi-tier footprint that physically separates low-impact flatground from deeper transition terrain.
 
 Returning riders can warm up on the lower slab—a repurposed former inline skating rink famous locally as a slappy-curb haven, stocked with progressive angled and rounded slappy curbs, a low manual pad, flat bars, rainbow rails, a granite ledge, and low boxes—before rolling up the connecting exterior transition ramp to skate the 4-foot-high, 20-foot-wide Trevor Stoutenburgh memorial concrete halfpipe or the 6-foot-deep, 32-by-24-foot kidney-shaped concrete bowl. Because several flat bars and wooden kickers on the lower rink are movable, check obstacle placement before committing to a line, and note that the park is closed during rain or snow and shares its main parking lot with busy spring and summer baseball games. For larger Spohn Ranch concrete courses nearby, cross the bridges to [Newport Skatepark](/directory/parks/us/newport-skatepark-ri) on Aquidneck Island or head north to [Neutaconkanut Skatepark](/directory/parks/us/neutaconkanut-skatepark-providence-ri) in Providence.
+
+
+### Olney Manor Skate Park
+A 14,400-square-foot Montgomery Parks poured-concrete skatepark in Olney Manor Recreational Park open daily from sunrise to 10pm with lighting, restricting access to skateboards and inline skates and separating a street course from a 10-foot clover bowl.
+Location: Olney, Maryland, US
+Website: https://montgomeryparks.org/parks-and-trails/olney-manor-recreational-park/olney-manor-skate-park/
+
+Set inside the 61-acre Olney Manor Recreational Park along Georgia Avenue in northern Montgomery County, Olney Manor Skate Park is a 14,400-square-foot (90-by-160-foot) poured-concrete facility operated by Montgomery Parks. Open daily from sunrise to 10:00pm with free admission and evening lighting, the park gives older skaters in the Maryland suburbs north of Washington DC and west of Baltimore a reliable spot for dawn warmups and weeknight sessions—supported by Montgomery Parks rules that restrict the enclosure to skateboarders and inline skaters (excluding bicycles) and require a parent or guardian to accompany any skater age 8 or younger.
+
+The rectangular 90-by-160-foot slab cleanly divides its street and transition obstacles from its deep bowl terrain. Returning skaters can start along the perimeter quarter-pipes, manual pad, pyramid ledge, and funbox with a flat rail before working toward the stair set with handrail and hubba ledge or dropping into the 10-foot-deep clover bowl at the end of the park. Keep Montgomery Parks operational caveats in mind: the facility is unsupervised, and park staff lock the gates whenever standing water, rain, snow, or ice create slick surface conditions. For additional concrete sessions across Maryland and the Capital Region, pair a visit here with [Skatepark of Baltimore](/directory/parks/us/skatepark-of-baltimore-md) and [Hazelwood Skatepark](/directory/parks/us/hazelwood-skatepark-baltimore-md) in Baltimore or [Green Skate Lab](/directory/parks/us/green-skate-lab-langdon-park-washington-dc) in northeast Washington DC.
 
 
 ### Orlando Skate Park
@@ -8729,7 +8789,7 @@ Website: https://www.arlingtonva.us/Government/Departments/Parks-Recreation/Loca
 
 Renovated by Arlington County and recognized with statewide park awards, Powhatan Springs offers one of the most comprehensive concrete layouts in the Washington DC metropolitan area. The park's standout feature for older skaters is its dedicated 4.5-to-5-foot egg bowl and rolling snake flow section, which are physically decoupled from the 11-foot deep pro kidney bowl.
 
-The street course provides wide flatground corridors, manageable flat rails, and small A-frame banks. Floodlights operate until 10pm every evening, and morning sessions between 7am and 10am offer calm riding conditions before afternoon youth arrivals. Helmets are mandatory under county park rules.
+The street course provides wide flatground corridors, manageable flat rails, and small A-frame banks. Floodlights operate until 10pm every evening, and morning sessions between 7am and 10am offer calm riding conditions before afternoon youth arrivals. Helmets are mandatory under county park rules. For a Piedmont road trip south of Northern Virginia, pair your session with the 30,000-square-foot [Charlottesville Skate Park](/directory/parks/us/charlottesville-skate-park-va) at McIntire Park.
 
 
 ### Q Skatepark
@@ -8779,7 +8839,7 @@ Website: https://www.peoriaaz.gov/government/departments/parks-recreation-and-co
 
 Set inside Rio Vista Community Park just west of Loop 101 in the Phoenix metro's West Valley, Rio Vista Skatepark spans 32,000 square feet of poured concrete designed by SITE Design Group. For older skaters navigating desert heat, the park's 6:00am opening and full overhead night lighting until 10:30pm provide essential dawn and post-sunset sessions, backed by shaded spectator bleachers, nearby restrooms, and water fountains. City park rules also prohibit bicycles and scooters on the concrete—limiting the surface to skateboards (up to 34 inches in length) and inline skates—which keeps lines predictable.
 
-The expansive footprint separates its deep vertical terrain from more forgiving warmup zones. Returning riders can start on the flatland areas, manual pads, varied-height grind ledges, banked euro gap, and the broad transition flow section before testing the two ten-stair sets or dropping into the two dedicated bowls, including an amoeba-style pool bowl finished with swimming-pool coping and entry steps. Note that the park is unsupervised and city rules prohibit skating on surrounding park curbs, driveways, or parking lots. If you need softer wheels, riser pads, or protective gear before a West Valley roll, stop by [Cowtown Skateboards](/directory/shops/us/cowtown-skateboards-phoenix-az) in central Phoenix, or pair an East Valley morning with [Pecos Skatepark](/directory/parks/us/pecos-skatepark-phoenix-az).
+The expansive footprint separates its deep vertical terrain from more forgiving warmup zones. Returning riders can start on the flatland areas, manual pads, varied-height grind ledges, banked euro gap, and the broad transition flow section before testing the two ten-stair sets or dropping into the two dedicated bowls, including an amoeba-style pool bowl finished with swimming-pool coping and entry steps. Note that the park is unsupervised and city rules prohibit skating on surrounding park curbs, driveways, or parking lots. If you need softer wheels, riser pads, or protective gear before a West Valley roll, stop by [Cowtown Skateboards](/directory/shops/us/cowtown-skateboards-phoenix-az) in central Phoenix, or pair an East Valley morning with [Pecos Skatepark](/directory/parks/us/pecos-skatepark-phoenix-az) or [Snedigar Skate Park](/directory/parks/us/snedigar-skate-park-chandler-az) in Chandler.
 
 
 ### Riverfront Skate and Bike Park
@@ -8976,6 +9036,16 @@ Located at 235 Western Avenue in Allston, the renovated 15-acre Smith Playground
 Right beside the pump track, the concrete skate plaza offers an approachable progression layout of mellow banks, quarter-pipes, manual pads, low grind ledges, and a flat rail with open flatground to warm up on. Keep two practical caveats in mind: as Boston's only public pump track, the asphalt circuit draws heavy afternoon traffic from neighborhood kids on scooters and bikes on warm weekends—early weekday mornings are by far the calmest window—and while the park's basketball courts have athletic lighting, the skate corridor and pump track are unlit and limited to dawn-to-dusk daylight hours. The park sits less than a mile down Western Avenue from [Orchard Skateshop](/directory/shops/us/orchard-skateshop-boston-ma) in Allston, and you can pair a session here with the covered, floodlit [Lynch Family Skatepark](/directory/parks/us/lynch-family-skatepark-cambridge-ma) across the Charles River in Cambridge or the three-tier ability zones at [Beals Park Skatepark](/directory/parks/us/beals-park-skatepark-weymouth-ma) on the South Shore in Weymouth.
 
 
+### Snedigar Skate Park (Chandler Skate Park)
+A floodlit 35,000-square-foot SITE Design Group poured-concrete municipal skatepark in South Chandler's Snedigar Sportsplex, open until 10:30pm with shade structures, a skateboard-and-inline-only policy, and gentle entry banks separated from two deep bowls.
+Location: Chandler, Arizona, US
+Website: https://www.chandleraz.gov/explore/chandler-parks/guide/chandler-skate-park
+
+Set inside the 90-acre Snedigar Sportsplex in South Chandler, Snedigar Skate Park (also known as Chandler Skate Park) is a 35,000-square-foot poured-concrete facility designed by SITE Design Group and operated by the City of Chandler. For older skaters in the Phoenix metro's East Valley, the park offers three major advantages: morning openings (7:00am May–August and 8:00am September–April) and full overhead floodlighting until 10:30pm to beat the Sonoran Desert heat, overhead shade screens and an adjacent ramada for sun relief, and a facility policy restricting the concrete to skateboarders and inline skaters only.
+
+The sunken, open-sightline layout makes it easy to ease back into riding without crossing high-speed bowl lines. Immediately inside the front gate, a wide perimeter deck descends down a variety of gentle, low-angle banks and warmup transitions into an expansive street course stocked with blocks, ledges, flatground corridors, and two funboxes (one standard height with a long flat rail and one taller box), while two distinct concrete bowls sit in their own dedicated zone. Keep a few City of Chandler operational caveats in mind: the skatepark is an unsupervised "skate at your own risk" facility, closes for routine maintenance until 3:00pm on the last Wednesday of each month, enforces a strict nightly 10:30pm lights-out closing signaled by a digital clock, and locks its gates entirely whenever rain leaves standing water on the concrete. Before heading down Loop 101 or I-10, stop by [Cowtown Skateboards](/directory/shops/us/cowtown-skateboards-phoenix-az) in Phoenix for softer wheels or pads, or pair your trip with nearby [Pecos Skatepark](/directory/parks/us/pecos-skatepark-phoenix-az) in Ahwatukee and [Rio Vista Skatepark](/directory/parks/us/rio-vista-skatepark-peoria-az) in Peoria.
+
+
 ### Society Memphis
 An inclusive indoor wooden skatepark featuring an on-site coffee lounge and core skate shop. Hosts dedicated weekend 'learn to skate' group lessons in a welcoming, climate-controlled environment.
 Location: Memphis, Tennessee, US
@@ -9094,6 +9164,16 @@ Location: Sacramento, California, US
 Website: https://www.cityofsacramento.org/
 
 Tanzanite Skatepark offers a balanced array of transition and street elements to accommodate the diverse Sacramento skate scene. It is highly practical for older skaters working typical daytime schedules, offering strong floodlighting and reliable operating hours until 9:00 PM. The park's diverse terrain separates technical ledges from the flow sections, providing space to reacquaint yourself with the board without pressure.
+
+
+### Tautphaus Park Skatepark (Idaho Falls Skate Park)
+A floodlit Grindline cast-in-place concrete skatepark in Idaho Falls' historic Tautphaus Park open daily from 5am to 11pm, separating a street course of launch ramps, pyramid, and low ledges from a multi-pocket bowl with a cradle capsule.
+Location: Idaho Falls, Idaho, US
+Website: https://www.idahofallsidaho.gov/1059/Skate-Park
+
+Located inside 84.5-acre Tautphaus Park along South Boulevard, Tautphaus Park Skatepark (officially listed by the city as the Idaho Falls Skate Park) is a cast-in-place concrete facility designed and built by Grindline Skateparks and maintained by the City of Idaho Falls Parks & Recreation Department. Open daily from 5:00am until 11:00pm with overhead evening lighting and a strict municipal ban on motorized vehicles, e-bikes, and e-scooters, it serves as eastern Idaho's primary all-concrete hub for older skaters looking for quiet dawn roll-ins or lit weeknight sessions after work.
+
+Grindline organized the layout into two distinct zones so returning riders can warm up on manageable street features before testing steeper transitions. You can start on the open street course—working across flatground approaches, launch ramps, a central pyramid, low grind ledges, stairs, and handrails—before stepping into the concrete transition bowl, which links metal-coped pockets and hips into an over-vertical capsule cradle. Keep a few local caveats in mind: because the skatepark sits inside Idaho Falls' busiest regional park alongside the Idaho Falls Zoo and Funland Amusement Park, summer weekend afternoons draw heavy family and scooter traffic, making the 5:00am–9:00am morning window or late evening lights the calmest times to ride; and at 4,700 feet of elevation in the Snake River Plain, winter snow and ice regularly pause outdoor sessions. If you are travelling across southern Idaho toward the Treasure Valley, pair your session with [Rhodes Skatepark](/directory/parks/us/rhodes-skatepark-boise-id) in Boise, [Tully Park Skatepark](/directory/parks/us/tully-park-skatepark-meridian-id) in Meridian, and a shop stop at [Prestige Skateshop](/directory/shops/us/prestige-skateshop-boise-id).
 
 
 ### Taylorsville Skatepark
@@ -9393,7 +9473,7 @@ Denver's independent skate shop, brick and mortar since 1997 and now two stores 
 Location: Denver, Colorado, US
 Website: https://www.303boards.com
 
-303 Boards has been a physical shop in Denver for more than 25 years — the site puts it plainly: "we are not just an online store, we have been a brick and mortar store since 1997" — and it is one of the few core shops to have grown to two locations without becoming a chain. Hours differ between the Broadway and Colfax stores, so check the Locations page before you go. Denver Skatepark, the city's big downtown concrete park, is the natural next stop.
+303 Boards has been a physical shop in Denver for more than 25 years — the site puts it plainly: "we are not just an online store, we have been a brick and mortar store since 1997" — and it is one of the few core shops to have grown to two locations without becoming a chain. Hours differ between the Broadway and Colfax stores, so check the Locations page before you go. [Denver Skatepark](/directory/parks/us/denver-skatepark-co) downtown and [Arvada Skate Park](/directory/parks/us/arvada-skate-park-co) to the northwest are the natural next stops, or head south down I-25 to skate [Memorial Park Skatepark](/directory/parks/us/memorial-park-skatepark-colorado-springs-co) in Colorado Springs.
 
 
 ### 35th North
@@ -9426,7 +9506,7 @@ Website: https://www.cowtownskateboards.com
 
 Founded by skaters in 1997, Cowtown Skateboards has been the foundation of the Valley of the Sun skateboard scene for nearly three decades. Operating out of their central Phoenix location on North Central Avenue, the shop has earned a reputation for approachable, zero-gatekeeping service. For older skaters returning to riding after time away, the staff excel at diagnosing setup needs: matching deck widths to shoe sizes, suggesting softer urethane formulas for harsh desert asphalt, and dialing in responsive truck bushings that spare older joints.
 
-The shop keeps a deep inventory of certified helmets, wrist guards, knee pads, and cruiser completes alongside traditional street gear. Hours run 11:00 AM to 8:00 PM Monday through Saturday and 11:00 AM to 6:00 PM on Sunday. It is the natural companion stop before rolling out to [Pecos Skatepark](/directory/parks/us/pecos-skatepark-phoenix-az) in Ahwatukee, [Rio Vista Skatepark](/directory/parks/us/rio-vista-skatepark-peoria-az) in Peoria, or heading south toward [Albert M. Gallego Skate Park](/directory/parks/us/albert-m-gallego-skate-park-tucson-az) in Tucson.
+The shop keeps a deep inventory of certified helmets, wrist guards, knee pads, and cruiser completes alongside traditional street gear. Hours run 11:00 AM to 8:00 PM Monday through Saturday and 11:00 AM to 6:00 PM on Sunday. It is the natural companion stop before rolling out to [Pecos Skatepark](/directory/parks/us/pecos-skatepark-phoenix-az) in Ahwatukee, [Rio Vista Skatepark](/directory/parks/us/rio-vista-skatepark-peoria-az) in Peoria, [Snedigar Skate Park](/directory/parks/us/snedigar-skate-park-chandler-az) in Chandler, or heading south toward [Albert M. Gallego Skate Park](/directory/parks/us/albert-m-gallego-skate-park-tucson-az) in Tucson.
 
 
 ### DLX Skate Shop
@@ -9444,7 +9524,7 @@ Website: https://escapistskateboarding.com
 
 Escapist Skateboarding is widely regarded as the cornerstone of the Kansas City skate scene. Rather than pushing intimidating core vibes, the skater-owned shop focuses heavily on community and support for all skill levels. 
 
-Customers rave about the staff's willingness to patiently explain equipment differences to beginners and older skaters getting back on a board. If you're heading to the nearby [Penn Valley Skatepark](/directory/parks/us/penn-valley-skatepark-kansas-city-mo), crossing into Johnson County for [Rolling Magic Skate Park](/directory/parks/us/rolling-magic-skate-park-lenexa-ks) in Lenexa, or driving west on I-70 for lit evening sessions at [Centennial Skate Park](/directory/parks/us/centennial-skate-park-lawrence-ks) in Lawrence, stopping here first for a custom build or fresh gear is highly recommended.
+Customers rave about the staff's willingness to patiently explain equipment differences to beginners and older skaters getting back on a board. If you're heading to the nearby [Penn Valley Skatepark](/directory/parks/us/penn-valley-skatepark-kansas-city-mo), crossing into Johnson County for [Rolling Magic Skate Park](/directory/parks/us/rolling-magic-skate-park-lenexa-ks) in Lenexa, driving west on I-70 for lit evening sessions at [Centennial Skate Park](/directory/parks/us/centennial-skate-park-lawrence-ks) in Lawrence, or heading east along I-70 to [Columbia Skate Park](/directory/parks/us/columbia-skate-park-cosmo-park-mo) at Cosmo Park in Columbia, stopping here first for a custom build or fresh gear is highly recommended.
 
 
 ### Familia Skateshop
@@ -9500,7 +9580,7 @@ Website: https://nocturnalphilly.com
 
 Founded in 2000 by pro skater Kerry Getz, Nocturnal is a cornerstone of the Philadelphia skate scene. While its core pedigree can feel intimidating from the outside, reviewers consistently note that the staff are patient, welcoming, and excellent at talking older returning skaters through their gear choices. 
 
-They carry a deep selection of core brands and offer full assembly and repair services. A perfect stop before heading to [Paine's Park](/directory/parks/us/paines-park-philadelphia-pa) along the Schuylkill River or crossing the Delaware River into South Jersey for a lit session at [Pennsauken Skatepark](/directory/parks/us/pennsauken-skatepark-nj).
+They carry a deep selection of core brands and offer full assembly and repair services. A perfect stop before heading to [Paine's Park](/directory/parks/us/paines-park-philadelphia-pa) along the Schuylkill River, driving north to the Lehigh Valley for [Jordan Park Skatepark](/directory/parks/us/jordan-park-skatepark-allentown-pa) in Allentown, or crossing the Delaware River into South Jersey for a lit session at [Pennsauken Skatepark](/directory/parks/us/pennsauken-skatepark-nj).
 
 
 ### Orchard Skateshop
@@ -9538,7 +9618,7 @@ Website: https://prestigeskateboards.com
 
 Prestige Skateshop is an established, highly regarded core shop in the downtown Boise area. They carry a full range of high-quality hardware, including pre-built completes that offer an easy entry point for returning skaters.
 
-The shop is deeply rooted in the local scene, and the staff are known to be welcoming to beginners. If you're picking up your first board, they can properly size your safety gear—helmets and pads are in stock—and point you toward the most forgiving spots at local parks like [Rhodes Skatepark](/directory/parks/us/rhodes-skatepark-boise-id) in downtown Boise or the flowing [Tully Park Skatepark](/directory/parks/us/tully-park-skatepark-meridian-id) in nearby Meridian.
+The shop is deeply rooted in the local scene, and the staff are known to be welcoming to beginners. If you're picking up your first board, they can properly size your safety gear—helmets and pads are in stock—and point you toward the most forgiving spots at local parks like [Rhodes Skatepark](/directory/parks/us/rhodes-skatepark-boise-id) in downtown Boise, the flowing [Tully Park Skatepark](/directory/parks/us/tully-park-skatepark-meridian-id) in nearby Meridian, or eastern Idaho's floodlit [Tautphaus Park Skatepark](/directory/parks/us/tautphaus-park-skatepark-idaho-falls-id) in Idaho Falls.
 
 
 ### Rip City Skates

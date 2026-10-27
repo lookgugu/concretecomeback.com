@@ -13,8 +13,8 @@ hasOnlineShop: true
 adultsWelcomeNote: "Customers consistently highlight the staff's patience and expertise in helping older beginners choose the right equipment and set up their boards."
 featured: false
 addedDate: 2026-09-26
-lastVerified: 2026-10-21
+lastVerified: 2026-10-27
 ---
 Founded in 2000 by pro skater Kerry Getz, Nocturnal is a cornerstone of the Philadelphia skate scene. While its core pedigree can feel intimidating from the outside, reviewers consistently note that the staff are patient, welcoming, and excellent at talking older returning skaters through their gear choices. 
 
-They carry a deep selection of core brands and offer full assembly and repair services. A perfect stop before heading to [Paine's Park](/directory/parks/us/paines-park-philadelphia-pa) along the Schuylkill River or crossing the Delaware River into South Jersey for a lit session at [Pennsauken Skatepark](/directory/parks/us/pennsauken-skatepark-nj).
+They carry a deep selection of core brands and offer full assembly and repair services. A perfect stop before heading to [Paine's Park](/directory/parks/us/paines-park-philadelphia-pa) along the Schuylkill River, driving north to the Lehigh Valley for [Jordan Park Skatepark](/directory/parks/us/jordan-park-skatepark-allentown-pa) in Allentown, or crossing the Delaware River into South Jersey for a lit session at [Pennsauken Skatepark](/directory/parks/us/pennsauken-skatepark-nj).
