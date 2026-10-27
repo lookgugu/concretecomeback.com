@@ -15,8 +15,8 @@ entryFee: "Free"
 googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=4924+Hazelwood+Ave+Baltimore+MD+21206"
 featured: false
 addedDate: 2026-09-30
-lastVerified: 2026-09-30
+lastVerified: 2026-10-27
 tags: ["free", "concrete"]
 ---
 
-A welcoming $4.3 million community project, Hazelwood Skatepark includes a spacious main bowl and a secondary bowl, along with a variety of street elements like quarter pipes and ledges. The layout provides ample space and varying difficulty levels, making it approachable for older skaters looking to rebuild their confidence away from advanced traffic.
+A welcoming $4.3 million community project, Hazelwood Skatepark includes a spacious main bowl and a secondary bowl, along with a variety of street elements like quarter pipes and ledges. The layout provides ample space and varying difficulty levels, making it approachable for older skaters looking to rebuild their confidence away from advanced traffic. You can also pair a Maryland session with [Lansdowne Skatepark](/directory/parks/us/lansdowne-skatepark-baltimore-md) or head toward Montgomery County for floodlit evening runs at [Olney Manor Skate Park](/directory/parks/us/olney-manor-skate-park-md).

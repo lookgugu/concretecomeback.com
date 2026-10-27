@@ -13,9 +13,9 @@ hasOnlineShop: true
 adultsWelcomeNote: "Reviewers consistently highlight the staff's patience and expert guidance in helping older beginners break down board parts to find the right setup."
 featured: false
 addedDate: 2026-10-01
-lastVerified: 2026-10-21
+lastVerified: 2026-10-27
 ---
 
 Escapist Skateboarding is widely regarded as the cornerstone of the Kansas City skate scene. Rather than pushing intimidating core vibes, the skater-owned shop focuses heavily on community and support for all skill levels. 
 
-Customers rave about the staff's willingness to patiently explain equipment differences to beginners and older skaters getting back on a board. If you're heading to the nearby [Penn Valley Skatepark](/directory/parks/us/penn-valley-skatepark-kansas-city-mo), crossing into Johnson County for [Rolling Magic Skate Park](/directory/parks/us/rolling-magic-skate-park-lenexa-ks) in Lenexa, or driving west on I-70 for lit evening sessions at [Centennial Skate Park](/directory/parks/us/centennial-skate-park-lawrence-ks) in Lawrence, stopping here first for a custom build or fresh gear is highly recommended.
+Customers rave about the staff's willingness to patiently explain equipment differences to beginners and older skaters getting back on a board. If you're heading to the nearby [Penn Valley Skatepark](/directory/parks/us/penn-valley-skatepark-kansas-city-mo), crossing into Johnson County for [Rolling Magic Skate Park](/directory/parks/us/rolling-magic-skate-park-lenexa-ks) in Lenexa, driving west on I-70 for lit evening sessions at [Centennial Skate Park](/directory/parks/us/centennial-skate-park-lawrence-ks) in Lawrence, or heading east along I-70 to [Columbia Skate Park](/directory/parks/us/columbia-skate-park-cosmo-park-mo) at Cosmo Park in Columbia, stopping here first for a custom build or fresh gear is highly recommended.

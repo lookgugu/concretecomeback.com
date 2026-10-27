@@ -264,6 +264,11 @@
     "lng": -135.4596,
     "source": "Sitka, Alaska, 99835, United States"
   },
+  "US|arizona|chandler": {
+    "lat": 33.3062,
+    "lng": -111.8412,
+    "source": "Chandler, Maricopa County, Arizona, United States"
+  },
   "US|arizona|peoria": {
     "lat": 33.5806,
     "lng": -112.2373,
@@ -343,6 +348,11 @@
     "lat": 39.8006,
     "lng": -105.0812,
     "source": "Arvada, Jefferson County, Colorado, United States"
+  },
+  "US|colorado|colorado springs": {
+    "lat": 38.834,
+    "lng": -104.8253,
+    "source": "Colorado Springs, El Paso County, Colorado, United States"
   },
   "US|colorado|denver": {
     "lat": 39.7392,
@@ -448,6 +458,11 @@
     "lat": 47.6743,
     "lng": -116.7812,
     "source": "Coeur d'Alene, Kootenai County, Idaho, 83815, United States"
+  },
+  "US|idaho|idaho falls": {
+    "lat": 43.4888,
+    "lng": -112.0363,
+    "source": "Idaho Falls, Bonneville County, Idaho, United States"
   },
   "US|idaho|meridian": {
     "lat": 43.6086,
@@ -574,6 +589,11 @@
     "lng": -75.0874,
     "source": "Ocean City, Worcester County, Maryland, United States"
   },
+  "US|maryland|olney": {
+    "lat": 39.147,
+    "lng": -77.0722,
+    "source": "Olney, Montgomery County, Maryland, United States"
+  },
   "US|massachusetts|boston": {
     "lat": 42.3588,
     "lng": -71.0578,
@@ -644,6 +664,11 @@
     "lng": -88.7034,
     "source": "Tupelo, Lee County, Mississippi, United States"
   },
+  "US|missouri|columbia": {
+    "lat": 38.9519,
+    "lng": -92.3337,
+    "source": "Columbia, Columbia Township, Boone County, Missouri, United States"
+  },
   "US|missouri|kansas city": {
     "lat": 39.1001,
     "lng": -94.5781,
@@ -688,6 +713,11 @@
     "lat": 42.0283,
     "lng": -97.417,
     "source": "Norfolk, Madison County, Nebraska, United States"
+  },
+  "US|nevada|henderson": {
+    "lat": 36.0301,
+    "lng": -114.9815,
+    "source": "Henderson, Clark County, Nevada, United States"
   },
   "US|nevada|las vegas": {
     "lat": 36.1674,
@@ -859,6 +889,11 @@
     "lng": -122.6742,
     "source": "Portland, Multnomah County, Oregon, United States"
   },
+  "US|pennsylvania|allentown": {
+    "lat": 40.6023,
+    "lng": -75.4716,
+    "source": "Allentown, Lehigh County, Pennsylvania, United States"
+  },
   "US|pennsylvania|carnegie": {
     "lat": 40.4087,
     "lng": -80.0834,
@@ -1004,6 +1039,11 @@
     "lng": -77.0893,
     "source": "Arlington County, Virginia, United States"
   },
+  "US|virginia|charlottesville": {
+    "lat": 38.0293,
+    "lng": -78.4767,
+    "source": "Charlottesville, Virginia, United States"
+  },
   "US|virginia|virginia beach": {
     "lat": 36.8497,
     "lng": -75.9761,
@@ -1095,8 +1135,8 @@
     "source": "derived: mean of 18 listed UK cities"
   },
   "US": {
-    "lat": 39.1932,
-    "lng": -94.1531,
-    "source": "derived: mean of 168 listed US cities"
+    "lat": 39.1934,
+    "lng": -94.307,
+    "source": "derived: mean of 175 listed US cities"
   }
 }
