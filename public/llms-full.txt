@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-27T23:27:47.599Z
+# Date: 2026-10-27T23:33:55.574Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -8107,7 +8107,7 @@ Grindline shaped the slab around smooth flatground approaches bookended by two m
 A smooth concrete park featuring two large bowls and street elements. The design explicitly caters to varying skill levels, providing separation for beginners and experienced skaters.
 Location: Baltimore, Maryland, US
 
-A welcoming $4.3 million community project, Hazelwood Skatepark includes a spacious main bowl and a secondary bowl, along with a variety of street elements like quarter pipes and ledges. The layout provides ample space and varying difficulty levels, making it approachable for older skaters looking to rebuild their confidence away from advanced traffic. You can also pair a Maryland session with [Lansdowne Skatepark](/directory/parks/us/lansdowne-skatepark-baltimore-md) or head toward Montgomery County for floodlit evening runs at [Olney Manor Skate Park](/directory/parks/us/olney-manor-skate-park-md).
+A welcoming $4.3 million community project, Hazelwood Skatepark includes a spacious main bowl and a secondary bowl, along with a variety of street elements like quarter pipes and ledges. The layout provides ample space and varying difficulty levels, making it approachable for older skaters looking to rebuild their confidence away from advanced traffic. You can also pair a Maryland session with [Skatepark of Baltimore](/directory/parks/us/skatepark-of-baltimore-md) in Hampden or head toward Montgomery County for floodlit evening runs at [Olney Manor Skate Park](/directory/parks/us/olney-manor-skate-park-md).
 
 
 ### Heath Eiland & Morgan Moss Skate Park
