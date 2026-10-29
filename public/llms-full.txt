@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-10-27T23:49:17.574Z
+# Date: 2026-10-29T16:30:14.275Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -7474,6 +7474,16 @@ The 555 Monroe Skatepark is a vital community space in downtown Grand Rapids, bu
 Because the park opens early at 8 AM, it offers great flexibility for older skaters balancing work and family. Early morning sessions are perfectly viable here when you want to avoid the peak afternoon rush. Be sure to visit **Premier Skateshop** nearby for gear and advice.
 
 
+### Alamosa Skate Park
+A fully lit 35,000-square-foot City of Albuquerque poured-concrete skatepark on the Westside, open until 11pm in summer and 10pm in winter with a plaza-style street course separated from two bowls and a concrete full pipe.
+Location: Albuquerque, New Mexico, US
+Website: https://www.cabq.gov/parksandrecreation/recreation/skate-parks/alamosa-skate-park
+
+Stretching across 35,000 square feet next to the Ted M. Gallegos Alamosa Community Center on Albuquerque's Westside, Alamosa Skate Park is one of the largest poured-concrete municipal skateparks in the Southwest. Operated by the City of Albuquerque Parks and Recreation Department and upgraded with full overhead night lighting, the park opens daily from 7:00am to 11:00pm during summer hours (May through August) and 9:00am to 10:00pm during winter hours (September through April), giving older skaters dependable early-morning and late-evening sessions outside the high-desert midday heat.
+
+The expansive layout physically separates street progression from deep transition. Returning skaters can start along the broad street plaza—working on flatground, mellow banks, low ledges, rails, and plaza-style stairs with hubba ledges—before rolling toward the park's two concrete bowls, which include a mellower transition bowl alongside an advanced 12-foot deep bowl famous for its concrete full pipe. Keep City of Albuquerque operational rules and caveats in mind: the unsupervised skate-at-your-own-risk facility is shared with BMX bikes and inline skates, helmets are mandatory for riders under 18 and strongly recommended alongside knee, elbow, wrist, and ankle protection for older skaters, skating on wet concrete is prohibited, and a free 911 emergency telephone stands at the entrance. Note the automated lighting shutoff sequence at night: north lights shut off at closing time, south lights shut off five minutes later, and parking lot lights shut off 30 minutes after closing. Before crossing the Rio Grande, stop by [Skate City Supply](/directory/shops/us/skate-city-supply-albuquerque-nm) for repairs or fresh wheels, and pair your Westside session with [Los Altos Skatepark](/directory/parks/us/los-altos-skatepark-albuquerque-nm) or [North Domingo Baca Skate Park](/directory/parks/us/north-domingo-baca-skate-park-albuquerque-nm).
+
+
 ### Albert M. Gallego Skate Park (Santa Rita Park)
 A 16,000-square-foot in-ground concrete facility providing practical options for older skaters with evening lighting keeping it skateable until 10:30 PM.
 Location: Tucson, Arizona, US
@@ -7659,6 +7669,16 @@ Set inside Harrison Park in West Berkeley, the Terrence McCrary, Jr. Memorial Sk
 The park is a primary East Bay hub for [Skate Like a Girl SF Bay Area](/directory/groups/us/skate-like-a-girl-sf-bay-area-ca), which hosts monthly Saturday morning workshops here tailored to older skaters rebuilding balance and safe falling mechanics. Weekend mornings starting at 8:00am and lit weeknights until 9:30pm offer the calmest windows. Note that the City of Berkeley requires helmets at all times (with knee and elbow pads strongly recommended), prohibits bikes and scooters, and closes the gate during municipal camp programs, clinics, and wet weather.
 
 
+### Berry Lane Skatepark (Berry Lane Park)
+A 12,000-square-foot SITE Design Group poured-in-place concrete municipal skatepark in Jersey City's Berry Lane Park, pairing a dedicated backyard bowl and mini-ramp extension with an open street plaza of gentle banks, rollers, and ledges.
+Location: Jersey City, New Jersey, US
+Website: https://www.jerseycitynj.gov/news/pressreleases2020/jcopensskateparkwithtonyhawkfoundationgrant
+
+Set inside the 17-acre remediated grounds of Berry Lane Park in Jersey City's Bergen-Lafayette neighborhood, Berry Lane Skatepark is a 12,000-square-foot cast-in-place concrete facility designed by SITE Design Group and funded in partnership with the Jersey City Redevelopment Agency, the Hudson County Open Space Trust Fund, and The Skatepark Project. As the first poured-in-place concrete skatepark in Hudson County, the park sits directly adjacent to a 2,000-square-foot park pavilion equipped with public restrooms, benches, walkways, and bike racks, with direct transit access from the Garfield Avenue Hudson-Bergen Light Rail station and nearby Citi Bike docks.
+
+SITE Design Group organized the slab so older skaters can warm up on low-consequence terrain before dropping into deeper transition. One side of the park features a dedicated backyard-style bowl with a clamshell pocket, a built-in bank, and an extended shallow quarter-pipe section that can be ridden back and forth like a mini-ramp, while the street plaza stretches out across flatground corridors with a pump bump, roller, layback bank, hipped quarter-pipes, a bump-to-ledge, an A-frame ledge combo, a split-level A-frame with gap, a flat rail over a gap, and a 3-stair rail. Keep a few operational caveats in mind: the skatepark is an unlit dawn-to-dusk facility without dedicated overhead floodlighting on the concrete, operates as an unsupervised all-wheel park where bikes and scooters share the lines during busy after-school hours, and is best visited on weekday mornings for calm sessions. You can easily pair a Hudson County session here with [Sayreville Skatepark](/directory/parks/us/sayreville-skatepark-nj) down the Turnpike, or hop across the Hudson River into Manhattan to visit [Labor Skateshop](/directory/shops/us/labor-skateshop-new-york-ny) and [Pier 62 Skatepark](/directory/parks/us/pier-62-skatepark-new-york-ny).
+
+
 ### Bowling Green Skate Park (Roland Bland Park)
 A downtown municipal concrete skatepark designed by Wally Hollyday and built by California Skateparks at Bowling Green's Roland Bland Park, open and lit daily from 7am to 11pm with a shade shelter, bleachers, restrooms, and three concrete bowls.
 Location: Bowling Green, Kentucky, US
@@ -7666,7 +7686,7 @@ Website: https://www.bgky.org/bgpr/parks/8
 
 Occupying a prime downtown corner inside 6.25-acre Roland Bland Park across from the Historic RailPark and Train Museum, Bowling Green Skate Park is a poured-concrete municipal facility designed by Wally Hollyday and constructed by California Skateparks and local builder Scott Murphy. Operated by Bowling Green Parks and Recreation, the park is open and floodlit daily from 7:00am to 11:00pm, giving older skaters in south-central Kentucky dependable early-morning and late-evening windows backed by a non-reservable shade shelter, spectator bleachers, public restrooms, free municipal Wi-Fi, and dedicated off-street parking.
 
-The park pairs a multi-level street course with three distinct concrete bowls so returning riders can scale up gradually. Start on the street section's progressive 2-stair, 4-stair, and 6-stair sets with ledges, rails, and banks, or carve the 6-foot shallow bowl before stepping up to the 5-foot speed section, 8-foot quarter-pipe, and the deeper intermediate and advanced bowls reaching roughly 11 feet in depth. Note two operational caveats: Bowling Green Parks and Recreation welcomes skateboards, inline skates, and BMX bikes alike on the slab, and the transition connecting the 5-foot speed section into the street and bowl lines can bottleneck during busy afternoon sessions—making weekday mornings after 7:00am or lit evening sessions the smoothest times to ride.
+The park pairs a multi-level street course with three distinct concrete bowls so returning riders can scale up gradually. Start on the street section's progressive 2-stair, 4-stair, and 6-stair sets with ledges, rails, and banks, or carve the 6-foot shallow bowl before stepping up to the 5-foot speed section, 8-foot quarter-pipe, and the deeper intermediate and advanced bowls reaching roughly 11 feet in depth. Note two operational caveats: Bowling Green Parks and Recreation welcomes skateboards, inline skates, and BMX bikes alike on the slab, and the transition connecting the 5-foot speed section into the street and bowl lines can bottleneck during busy afternoon sessions—making weekday mornings after 7:00am or lit evening sessions the smoothest times to ride. Skaters traveling across western and central Kentucky can pair a session here with [Paducah Skatepark](/directory/parks/us/paducah-skatepark-noble-park-ky) at Bob Noble Park or [David Armstrong Extreme Park](/directory/parks/us/david-armstrong-extreme-park-louisville-ky) in Louisville.
 
 
 ### Brook Run Skate Park
@@ -7892,7 +7912,7 @@ Website: https://www.billingsparks.org/location/downtown-skate-park/
 
 Anchored at the corner of South 27th Street and 1st Avenue South by the life-sized "Head Over Heels" handplant sculpture, Downtown Billings Skate Park offers 14,000 square feet of free municipal concrete bowls, quarter-pipes, banks, ledges, and rails. In collaboration with the Billings Skatepark Committee, Billings Parks and Recreation hosts summer "Skateboarding for Beginners" clinics open to everyone with little to no prior experience—covering stance, balance, pushing, rolling, and board setup, with loaner skateboards and helmets provided on-site. Following a community fundraising campaign and grants from Musco Lighting and the National Recreation and Park Association, the city also installed commercial floodlights across the slab to support evening sessions and improve visibility.
 
-Older skaters easing back into the groove can start along the outer street banks and flat aprons before dropping into the deeper transition and bowl sections, and City Ordinance strictly prohibits bicycles on the concrete (skateboards, inline skates, and scooters only). Protective gear—including helmets, knee pads, elbow pads, and wrist guards—is strongly recommended. Because the park sits at the edge of a busy downtown and Southside corridor that has historically experienced transient foot traffic, weekday mornings and attended clinic windows offer the most relaxed environment. If you are traveling across Montana on I-90, pair your visit with [MOBASH Skatepark](/directory/parks/us/mobash-skatepark-missoula-mt) in Missoula.
+Older skaters easing back into the groove can start along the outer street banks and flat aprons before dropping into the deeper transition and bowl sections, and City Ordinance strictly prohibits bicycles on the concrete (skateboards, inline skates, and scooters only). Protective gear—including helmets, knee pads, elbow pads, and wrist guards—is strongly recommended. Because the park sits at the edge of a busy downtown and Southside corridor that has historically experienced transient foot traffic, weekday mornings and attended clinic windows offer the most relaxed environment. If you are traveling across Montana on I-90 and I-15, pair your visit with [Helena Skate Park](/directory/parks/us/helena-skate-park-centennial-park-mt) at Centennial Park in Helena or [MOBASH Skatepark](/directory/parks/us/mobash-skatepark-missoula-mt) in Missoula.
 
 
 ### Dublin Skate Park
@@ -8103,6 +8123,16 @@ Set inside 23.8-acre Norma B. Handloff Park along Barksdale Road on the west sid
 Grindline shaped the slab around smooth flatground approaches bookended by two mellow quarter-pipes, bank ramps, a hip, a China bank, and a low hubba ledge—ideal for practicing kickturns, slappies, basic ledge grinds, and pumping speed at a manageable pace. Keep a few City of Newark operational caveats in mind: the skate spot is unlit and open strictly from dawn to dusk daily, bringing or constructing portable ramps or standalone rails is prohibited by city code, and afternoon school dismissal near adjacent Barksdale Park fields can crowd the compact footprint—making weekday mornings the best time for a quiet solo session. When you are ready for deeper bowls and a larger street plaza in the same area, pair a warmup here with nearby 24,000-square-foot [Glasgow Skate Park](/directory/parks/us/glasgow-skate-park-newark-de) on Pulaski Highway, or head downstate to [Epworth Skatepark](/directory/parks/us/epworth-skatepark-rehoboth-beach-de) in Rehoboth Beach.
 
 
+### Harmon Park Skate Park
+A New Line Skateparks poured-concrete municipal skatepark in Prairie Village's Harmon Park designed with Kanten Russell for every generation of riders, pairing a mellow street and event plaza with a separated concrete bowl.
+Location: Prairie Village, Kansas, US
+Website: https://www.pvkansas.com/Home/Components/FacilityDirectory/FacilityDirectory/14/641
+
+Set near West 77th Place and Delmar Street inside Prairie Village's Harmon Park just minutes south of downtown Kansas City, Harmon Park Skate Park is a poured-concrete municipal facility redeveloped in 2021 by New Line Skateparks under lead designer and former pro skater Kanten Russell. Created through community outreach to honor the legacy of co-founder Jake Shepard while welcoming every generation of riders, the park opens at 7:00am daily inside a tree-lined civic park equipped with off-street parking, seasonal restrooms, and walking paths.
+
+New Line designed the colored-concrete and brick-accented footprint so older skaters can warm up on low-impact plaza features without crossing high-speed bowl traffic. An integrated stage and event deck doubles as a wide, low manual pad and warmup platform between community gatherings, feeding into approachable banks, brick-trimmed ledges, flat rails, and a stair set with a handrail, while a dedicated concrete bowl occupies its own distinct end of the slab. Keep two operational caveats in mind: although Harmon Park's general municipal hours run from 7:00am to 11:00pm, the skatepark relies on ambient park lighting rather than dedicated high-mast stadium floodlights after dark, and its compact neighborhood footprint fills quickly with school-age skaters after 3:30pm—making weekday mornings the ideal window for returning riders. Before your session, stop by [Escapist Skateboarding](/directory/shops/us/escapist-skateboarding-kansas-city-mo) in Kansas City's Crossroads district for a custom setup, or pair your Johnson County run with push-button evening lights at [Rolling Magic Skate Park](/directory/parks/us/rolling-magic-skate-park-lenexa-ks) in Lenexa and [Penn Valley Skatepark](/directory/parks/us/penn-valley-skatepark-kansas-city-mo) across the state line.
+
+
 ### Hazelwood Skatepark
 A smooth concrete park featuring two large bowls and street elements. The design explicitly caters to varying skill levels, providing separation for beginners and experienced skaters.
 Location: Baltimore, Maryland, US
@@ -8118,6 +8148,16 @@ Website: https://www.austintexas.gov/parks/locations/skate-parks
 Heath Eiland & Morgan Moss is the park that put Austin on the map for adult skateboarding. The 30,000 sq ft layout — one of the largest public skateparks in Texas — gives everyone room to find their level. The bowl is deep and rewarding for experienced transition skaters, while the street plaza offers banks and mellow transitions that work well for adults rebuilding confidence.
 
 The park is free, maintained by Austin Parks and Recreation, and has real facilities: shade structures, a restroom, and good parking. Mornings before 9am are the sweet spot — the park is quiet, the concrete is cool, and the crowd skews older.
+
+
+### Helena Skate Park (Centennial Park)
+A 17,000-square-foot poured-concrete municipal skatepark in Helena's Centennial Park where scooters and BMX bikes are prohibited, separating an expansive street plaza of banks, ledges, and five varied benches from two large concrete bowls.
+Location: Helena, Montana, US
+Website: https://www.helenamt.gov/Parks/CentennialBausch-Park
+
+Situated along North Last Chance Gulch inside 58-acre Centennial/Bausch Park beside the Helena Family YMCA, Helena Skate Park is a 17,000-square-foot poured-concrete municipal facility operated by the City of Helena Parks, Recreation and Open Lands Department. For older skaters in Montana's state capital, the park's biggest draw is its posted wheel policy: the concrete is reserved for skateboarders and inline skaters, with both scooters and BMX bikes explicitly prohibited—eliminating unpredictable scooter cross-traffic during warmup runs.
+
+Built across two major phases, the layout separates a spacious street plaza from deep bowl transition. Returning skaters can start in the original street section, which surrounds an open flatground floor with quarter-pipe corners, flat-bank hips, two ledge gaps, a central pyramid with a square tube rail, and five distinct skateable benches (one curved, one sloping, one with a top step, one standard ledge, and one fitted with a 2-foot-high rail), before progressing into the expansion zone's two large concrete bowls, stairs, banks, and handrails. Keep a few practical caveats in mind: the park is an unlit outdoor facility limited to daylight sessions, operates unsupervised, and experiences extended snow and freeze-thaw closures through the winter months at Helena's 4,000-foot Rocky Mountain elevation. Skaters traveling across western and central Montana can pair a capital-city session with [MOBASH Skatepark](/directory/parks/us/mobash-skatepark-missoula-mt) in Missoula or [Downtown Billings Skate Park](/directory/parks/us/downtown-billings-skate-park-mt) in Billings.
 
 
 ### Hillyard Skatepark
@@ -8376,6 +8416,16 @@ Situated inside Hillside Lions Park along East Boulevard Avenue and North 17th S
 The multi-level poured-concrete course separates open street and transition warmup zones from its deeper features: returning riders can start on the flatground approaches, multiple grind boxes with coping rails, two stair sets, two hubba walls, and gentle level-to-level bank transitions before dropping into the concrete half-bowl and half-pipe section. Keep BPRD operational rules and caveats in mind: the park is an unsupervised multi-wheel facility shared by skateboards, inline skates, and bicycles, helmets and pads are strongly recommended, glass beverage containers and motorized vehicles are prohibited, and smoking is barred within 20 feet of park structures. Skaters crossing North Dakota along I-94 can pair a capital-city session here with [Dike West Skatepark](/directory/parks/us/dike-west-skatepark-fargo-nd) in Fargo or head north on I-29 to [Rydell Skatepark](/directory/parks/us/rydell-skatepark-grand-forks-nd) in Grand Forks.
 
 
+### Little Valley Skate Park (The Fields at Little Valley)
+An 8,850-square-foot Omega Ramps multi-level poured-concrete municipal skatepark at The Fields at Little Valley in St. George, open daily until 10:30pm with overhead lighting, shade pavilions, a 4-foot mini-ramp, slappy curb, and progressive street ledges.
+Location: St. George, Utah, US
+Website: https://sgcityutah.gov/departments/parks_and_community_services/parks_planning/little_valley_skate_park_field_lighting.php
+
+Located inside The Fields at Little Valley sports and recreation complex in southeastern St. George, Little Valley Skate Park is an 8,850-square-foot multi-level poured-concrete facility designed and built by Omega Ramps for the City of St. George Parks and Community Services Department. Equipped with dedicated overhead floodlighting until 10:30pm daily and shade pavilions, the park gives older skaters in Washington County a bright, modern venue for early-morning and late-evening sessions away from southern Utah's triple-digit summer afternoon heat.
+
+Omega Ramps shaped the multi-tier concrete footprint around approachable, confidence-building transition and street obstacles rather than intimidating vertical walls. Older skaters easing back onto a board can start on the long slappy curb, roller, 3-foot and 4-foot quarter-pipes with hips, and the dedicated 4-foot-tall by 18-foot-wide concrete mini-ramp, or work through the street tiers featuring a 45-degree bank, a banked hip, tall and short 14-foot grind boxes, a curved box, a bump-to-bar/ledge, a Euro gap, two round flat bars, and right- and left-hand flat-to-down hubba boxes and rails. Keep a few practical caveats in mind: because the skatepark sits directly beside soccer fields, pickleball courts, and playgrounds inside The Fields at Little Valley, late afternoons and youth tournament evenings draw heavy family, scooter, and youth traffic—making early mornings or the final 90 minutes before the 10:30pm lights-out cutoff the calmest windows. If you are road-tripping along the I-15 corridor, you can pair a St. George session with [Taylorsville Skatepark](/directory/parks/us/taylorsville-skatepark-ut) and [Fairmont Skatepark](/directory/parks/us/fairmont-skatepark-salt-lake-city-ut) in the Salt Lake Valley, or head southwest to [Craig Ranch Regional Skatepark](/directory/parks/us/craig-ranch-skatepark-north-las-vegas-nv) in North Las Vegas.
+
+
 ### Los Altos Skatepark
 The largest skatepark in the Southwest features a massive concrete layout with a dedicated pump track and a large drop-in area with gentle ramps, making it an inviting space for older beginners to build confidence away from the main bowl traffic.
 Location: Albuquerque, New Mexico, US
@@ -8383,7 +8433,7 @@ Website: https://www.cabq.gov/parksandrecreation/parks/skate-parks
 
 The largest skatepark in the Southwest is a massive concrete facility that caters to all skill levels. While its deep bowls attract advanced riders, the park is highly regarded by older skaters for its thoughtful beginner-friendly zones. A large drop-in area with gentle ramps and a small center bump provides a safe, low-stakes environment to practice rolling and basic transitions.
 
-Adding to its appeal is the recently installed pump track located near the parking lot—a perfect spot to warm up or practice flow without the pressure of the main park. The atmosphere is generally described as chill and welcoming, with night lighting extending the session hours. Helmet use is mandatory for those under 18 and strongly recommended for adults. If you need gear or repairs, check out [Skate City Supply](/directory/shops/us/skate-city-supply-albuquerque-nm) nearby.
+Adding to its appeal is the recently installed pump track located near the parking lot—a perfect spot to warm up or practice flow without the pressure of the main park. The atmosphere is generally described as chill and welcoming, with night lighting extending the session hours. Helmet use is mandatory for those under 18 and strongly recommended for older skaters. If you need gear or repairs, check out [Skate City Supply](/directory/shops/us/skate-city-supply-albuquerque-nm) nearby, or pair your session with Albuquerque's other lit concrete hubs at [North Domingo Baca Skate Park](/directory/parks/us/north-domingo-baca-skate-park-albuquerque-nm) and [Alamosa Skate Park](/directory/parks/us/alamosa-skate-park-albuquerque-nm).
 
 
 ### Lot 11 Skatepark
@@ -8468,7 +8518,27 @@ Website: https://www.okc.gov/departments/parks-recreation/parks-trails/mat-hoffm
 
 Mat Hoffman Action Sports Park is a massive concrete facility divided into two distinct primary areas: a flow course featuring varied bowl combinations, and a street course with ledges, rails, and stairs. They are separated by a wide sidewalk, which helps physically separate different riding lines.
 
-While the park features intimidating advanced elements like an 11-foot half pipe, the physical separation means you can stick to your comfort zone. Local sources heavily recommend visiting during the morning hours (8am–11am) to avoid the crowds, making it a viable and welcoming space for older skaters learning or regaining their balance.
+While the park features intimidating advanced elements like an 11-foot half pipe, the physical separation means you can stick to your comfort zone. Local sources heavily recommend visiting during the morning hours (8am–11am) to avoid the crowds, making it a viable and welcoming space for older skaters learning or regaining their balance. For another lit concrete session in the Oklahoma City metro, head north up I-35 to [Mathis Skate Park](/directory/parks/us/mathis-skate-park-edmond-ok) at Mitch Park in Edmond.
+
+
+### Mathis Skate Park (Mitch Park)
+A 17,500-square-foot poured-concrete municipal skatepark in Edmond's Mitch Park open daily from 7am to 11pm with operational night lights, restrooms, and water fountains, pairing street banks and ledges with transition ramps and bowls.
+Location: Edmond, Oklahoma, US
+Website: https://www.edmondok.gov/Facilities.aspx?Page=detail&RID=20
+
+Set in the northeast section of 280-acre Mitch Park along West Covell Road, Mathis Skate Park (also known locally as Mathis Brothers Skate Park) is a 17,500-square-foot poured-concrete facility operated by the City of Edmond Parks and Recreation Department. Open daily from 7:00am to 11:00pm with overhead night lighting running seven days a week, the half-acre complex gives older skaters in the northern Oklahoma City metro both quiet early-morning sessions and illuminated evening runs after work, backed by adjacent restrooms, a drinking fountain, and paved multi-use trails.
+
+The concrete footprint spreads across multiple bays of transition and street terrain, allowing returning skaters to warm up on outer flatground aprons, gentle banks, low ledges, and mellow quarter-pipes before stepping up to the larger half-pipe walls and bowl pockets. Keep a few operational caveats in mind: Mathis Skate Park is an unsupervised all-wheel municipal facility shared with inline skaters and BMX riders, and nearby Mitch Park athletic complexes, amphitheater events, and the Edmond YMCA draw heavy family and youth crowds on weekend afternoons—making weekday mornings after 7:00am or lit evening sessions after 8:00pm the calmest times to ride. Skaters exploring central Oklahoma can pair an Edmond session with [Mat Hoffman Action Sports Park](/directory/parks/us/mat-hoffman-action-sports-park-okc) in downtown Oklahoma City or head up the Turner Turnpike to [Gathering Place Skate Park](/directory/parks/us/gathering-place-skate-park-tulsa-ok) in Tulsa.
+
+
+### Matt Hughes Skate Park
+A municipal poured-concrete skatepark in Myrtle Beach built in phases by 5th Pocket Skateparks with evening lighting, separating an expansive street plaza of curbs, manual pads, and banks from a dedicated concrete bowl.
+Location: Myrtle Beach, South Carolina, US
+Website: https://www.myrtlebeachprst.com/_T4_R71.php
+
+Located near the corner of 33rd Avenue North and Robert M. Grissom Parkway, Matt Hughes Skate Park is a free municipal concrete facility operated by the City of Myrtle Beach Parks, Recreation and Sports Tourism Department and dedicated in memory of local skateboarder Matthew Reed Hughes. Built and expanded in phases by 5th Pocket Skateparks with grant support from The Skatepark Project, it serves as the primary public concrete skatepark along South Carolina's Grand Strand between Wilmington and Charleston, opening at dawn for calm morning sessions before coastal heat and beach traffic build.
+
+The two-phase concrete layout gives older skaters clear separation between low-impact street warmup obstacles and transition carving. You can start on the wide street plaza—which features a speed bump, slappy curbs, manual pads, low grind ledges, a flat rail, a funbox, kickers, banks, a handrail, and mellow quarter-pipe and mini-ramp transitions—before stepping into the dedicated second-phase concrete bowl that replaced the park's original metal ramp. Keep several municipal caveats in mind: while the park is equipped with overhead night lighting, the City of Myrtle Beach notes that the evening light shutoff time varies from day to day (and when the lighting system undergoes periodic maintenance, hours temporarily revert to sunrise through sunset), and the unsupervised all-wheel facility has limited shade during humid summer afternoons. Skaters traveling down Highway 17 along the Lowcountry coast can pair a Myrtle Beach session with [SK8 Charleston](/directory/parks/us/sk8-charleston-sc) or head inland to [Owens Field Skatepark](/directory/parks/us/owens-field-skatepark-columbia-sc) in Columbia.
 
 
 ### Memorial Park Skatepark
@@ -8646,6 +8716,16 @@ Website: https://visitoxfordms.com/directory/oxford-skate-park/
 Located on Bramlett Boulevard directly across from the Oxford-Lafayette Public Library, Oxford Skate Park is a 10,694-square-foot poured-concrete facility built by Grindline Skateparks and maintained by the Oxford Park Commission. Open daily from dawn until 11:00pm with free on-site parking and a covered spectator pavilion for shade breaks, it serves as the anchor public skatepark for north-central Mississippi.
 
 The footprint is cleanly divided into two zones: an approximately 6,000-square-foot street course and an approximately 4,000-square-foot bowl. Older skaters rebuilding their confidence can stay on the street apron—working across the banks, low ledges, flat bar, quarter-pipe, kicker, and central volcano—without crossing into the fast lines of the 7-to-9-foot deep bowl. Keep in mind that this is an unsupervised multi-wheel park shared with scooters and BMX bikes, and the bowl transitions are steep enough that full pads and a helmet are wise before dropping in. If you are exploring Mississippi, pair your visit with [Tupelo Skatepark](/directory/parks/us/tupelo-skatepark-ms) an hour east on Highway 278 or head south to the floodlit California Skateparks concrete at [Petal Skateboard Park](/directory/parks/us/petal-skateboard-park-ms) near Hattiesburg.
+
+
+### Paducah Skatepark (Bob Noble Park)
+A lighted municipal concrete skatepark on the west side of Paducah's 145-acre Bob Noble Park next to the Greenway Trail, featuring refreshed concrete street and transition obstacles, adjacent restrooms, and spectator benches.
+Location: Paducah, Kentucky, US
+Website: https://www.paducahky.gov/departments/parks-recreation/skatepark
+
+Tucked into the west side of 145-acre Bob Noble Park behind the ball fields and directly beside the Greenway Trail entrance, the Paducah Skatepark (refreshed in 2022 with fresh concrete and new obstacles as the Bob Moore Kick Flip Skate Park) is a free municipal concrete facility operated by Paducah Parks and Recreation. For older skaters in western Kentucky, the park offers a well-maintained concrete slab with overhead night lighting managed by Park Rangers, a restroom building immediately next to the fence, spectator benches, and ample off-street parking inside Paducah's largest community park.
+
+The layout blends open flatground approaches with banks, quarter-pipes, grind ledges, manual pads, and rails so returning skaters can warm up their legs on straightforward lines without dropping into deep vertical bowls. Plan around strict municipal ordinances enforced on site: under the Paducah Code of Ordinances, every skatepark user (whether on a skateboard, roller skates, or bicycle) is legally required to wear a protective helmet—and no spectator is permitted within 10 feet of the skating surface without a helmet—while elbow, knee, and wrist pads are strongly encouraged. In addition, Paducah Parks and Recreation enforces a zero-tolerance graffiti policy that closes the entire skatepark until any graffiti is removed, prohibits food, drink, glass, pets, and motorized devices inside the fenced area, and bars riding during or after rain, snow, or ice. If you are traveling east across Kentucky on the Western Kentucky Parkway and I-165, pair your trip with [Bowling Green Skate Park](/directory/parks/us/bowling-green-skate-park-ky) at Roland Bland Park or head up I-65 to [David Armstrong Extreme Park](/directory/parks/us/david-armstrong-extreme-park-louisville-ky) in Louisville.
 
 
 ### Paine's Park
@@ -8917,7 +8997,7 @@ Website: https://www.lenexa.com/Parks-Places/Sar-Ko-Par-Trails-Park
 
 Rolling Magic, situated within Sar-Ko-Par Trails Park, is a completely revitalized facility that pays homage to a historic 1970s private park of the same name. Rebuilt in 2023 by New Line Skateparks, it strikes an excellent balance for older skaters by offering a designated low-speed technical zone specifically intended for beginners and skill progression.
 
-The park is separated into clear zones, ensuring those working on fundamentals aren't competing for space with advanced riders in the deep flow bowl. Best of all, push-button lighting extends the riding hours until 11:00 PM, making it incredibly practical for fitting in a session after work.
+The park is separated into clear zones, ensuring those working on fundamentals aren't competing for space with advanced riders in the deep flow bowl. Best of all, push-button lighting extends the riding hours until 11:00 PM, making it incredibly practical for fitting in a session after work. You can easily pair a Johnson County session here with [Harmon Park Skate Park](/directory/parks/us/harmon-park-skate-park-prairie-village-ks) in nearby Prairie Village or pick up fresh gear at [Escapist Skateboarding](/directory/shops/us/escapist-skateboarding-kansas-city-mo) in Kansas City.
 
 
 ### Rydell Skatepark
@@ -8933,7 +9013,7 @@ The park is widely celebrated as beginner-friendly and safe, designed specifical
 A concrete haven featuring a bowl and street section. Operating from 6 a.m. to midnight with lights, it's highly accessible for those skating around work schedules.
 Location: Sayreville, New Jersey, US
 
-Located within Sayreville Kennedy Park, this skatepark offers a thoughtful design with both bowl and street sections. The extensive hours (open until midnight) and comprehensive lighting make it a practical spot for older skaters to get a session in after work.
+Located within Sayreville Kennedy Park, this skatepark offers a thoughtful design with both bowl and street sections. The extensive hours (open until midnight) and comprehensive lighting make it a practical spot for older skaters to get a session in after work. If you are exploring northern New Jersey's concrete parks during daylight hours, you can also pair a session here with [Berry Lane Skatepark](/directory/parks/us/berry-lane-skatepark-jersey-city-nj) in Jersey City or [Ann Van Middlesworth Skatepark](/directory/parks/us/ann-van-middlesworth-skatepark-nj) in Hillsborough.
 
 
 ### Scalzi Park Skatepark
@@ -8983,7 +9063,7 @@ Website: https://www.ccprc.com/3141/SK8-Charleston
 
 SK8 Charleston is a massive, professionally built concrete facility that draws riders from all over the Southeast. While it is famous for its deep, challenging bowls, the park is actively welcoming to all skill levels. 
 
-For returning skaters, the standout feature is the park's instruction program. Individual lessons can be requested directly via the county parks site, where you can specify your skill level and focus areas, ensuring you get tailored guidance rather than a generic youth class. The on-site skate shop also provides helmet and board rentals. Helmets are strictly required for all riders, and pads are highly recommended. Note that Tuesdays are designated for BMX bikes only—skateboards are not permitted on that day to prevent collisions.
+For returning skaters, the standout feature is the park's instruction program. Individual lessons can be requested directly via the county parks site, where you can specify your skill level and focus areas, ensuring you get tailored guidance rather than a generic youth class. The on-site skate shop also provides helmet and board rentals. Helmets are strictly required for all riders, and pads are highly recommended. Note that Tuesdays are designated for BMX bikes only—skateboards are not permitted on that day to prevent collisions. If you are driving up Highway 17 along the Grand Strand, you can also pair a coastal South Carolina trip with [Matt Hughes Skate Park](/directory/parks/us/matt-hughes-skate-park-myrtle-beach-sc) in Myrtle Beach.
 
 
 ### Skate Park at RFK Campus (Maloof Skate Park)
@@ -9183,7 +9263,7 @@ Website: https://www.taylorsvilleut.gov/our-city/news-media-info/taylorsville-ne
 
 Anchoring the south end of newly revitalized Taylorsville Park in the central Salt Lake Valley (with southern parking access at 4743 S. Plymouth View Drive and northern park access at 4721 S. Redwood Road), Taylorsville Skatepark is an 8,500-plus-square-foot poured-concrete facility designed and built by Spohn Ranch Skateparks. Operated by Taylorsville City Parks and Recreation, the park is open daily from 6:00am to 11:00pm under overhead sports lighting, giving older skaters across the Wasatch Front early-morning calm and lit evening sessions after work.
 
-Spohn Ranch designed the footprint as a multi-room concrete plaza that separates low-impact warmup obstacles from deeper transition. Returning skaters can start on the custom slappy curbs, mini-ramp section, quarter-pipe hips, down ledges, flat-to-down rails, and A-frame euro gap before dropping into the integrated concrete bowl, which steps from an approachable 4-foot shallow end to a 6-foot deep end with a 1-foot extension pocket. Note several municipal rules posted on site: the unsupervised park is open to skateboards (34-inch maximum length), inline skates, scooters, and BMX freestyle bikes, full protective gear is recommended, riding is prohibited whenever the concrete is wet, raining, or snowing, and city trespassing ordinances are enforced after 11:00pm. You can easily pair a Salt Lake Valley session here with [Fairmont Skatepark](/directory/parks/us/fairmont-skatepark-salt-lake-city-ut) in Sugar House or head up Parleys Canyon to [Woodward Park City](/directory/parks/us/woodward-park-city-ut).
+Spohn Ranch designed the footprint as a multi-room concrete plaza that separates low-impact warmup obstacles from deeper transition. Returning skaters can start on the custom slappy curbs, mini-ramp section, quarter-pipe hips, down ledges, flat-to-down rails, and A-frame euro gap before dropping into the integrated concrete bowl, which steps from an approachable 4-foot shallow end to a 6-foot deep end with a 1-foot extension pocket. Note several municipal rules posted on site: the unsupervised park is open to skateboards (34-inch maximum length), inline skates, scooters, and BMX freestyle bikes, full protective gear is recommended, riding is prohibited whenever the concrete is wet, raining, or snowing, and city trespassing ordinances are enforced after 11:00pm. You can easily pair a Salt Lake Valley session here with [Fairmont Skatepark](/directory/parks/us/fairmont-skatepark-salt-lake-city-ut) in Sugar House, head up Parleys Canyon to [Woodward Park City](/directory/parks/us/woodward-park-city-ut), or drive south down I-15 for winter sun and evening lights at [Little Valley Skate Park](/directory/parks/us/little-valley-skate-park-st-george-ut) in St. George.
 
 
 ### The Bay Skatepark
@@ -9524,7 +9604,7 @@ Website: https://escapistskateboarding.com
 
 Escapist Skateboarding is widely regarded as the cornerstone of the Kansas City skate scene. Rather than pushing intimidating core vibes, the skater-owned shop focuses heavily on community and support for all skill levels. 
 
-Customers rave about the staff's willingness to patiently explain equipment differences to beginners and older skaters getting back on a board. If you're heading to the nearby [Penn Valley Skatepark](/directory/parks/us/penn-valley-skatepark-kansas-city-mo), crossing into Johnson County for [Rolling Magic Skate Park](/directory/parks/us/rolling-magic-skate-park-lenexa-ks) in Lenexa, driving west on I-70 for lit evening sessions at [Centennial Skate Park](/directory/parks/us/centennial-skate-park-lawrence-ks) in Lawrence, or heading east along I-70 to [Columbia Skate Park](/directory/parks/us/columbia-skate-park-cosmo-park-mo) at Cosmo Park in Columbia, stopping here first for a custom build or fresh gear is highly recommended.
+Customers rave about the staff's willingness to patiently explain equipment differences to beginners and older skaters getting back on a board. If you're heading to the nearby [Penn Valley Skatepark](/directory/parks/us/penn-valley-skatepark-kansas-city-mo), crossing into Johnson County for [Harmon Park Skate Park](/directory/parks/us/harmon-park-skate-park-prairie-village-ks) in Prairie Village or [Rolling Magic Skate Park](/directory/parks/us/rolling-magic-skate-park-lenexa-ks) in Lenexa, driving west on I-70 for lit evening sessions at [Centennial Skate Park](/directory/parks/us/centennial-skate-park-lawrence-ks) in Lawrence, or heading east along I-70 to [Columbia Skate Park](/directory/parks/us/columbia-skate-park-cosmo-park-mo) at Cosmo Park in Columbia, stopping here first for a custom build or fresh gear is highly recommended.
 
 
 ### Familia Skateshop
@@ -9552,7 +9632,7 @@ A skateboarder-owned and operated core shop on Canal Street in the Lower East Si
 Location: New York, New York, US
 Website: https://laborskateshop.com
 
-Labor opened in 2012 as a skateboarder-owned shop — owner James Rewolinski came up through a Milwaukee core shop before moving to New York — and it has stayed that kind of place: the counter is staffed by people who skate the city. Hours are 11am to 7pm Monday to Saturday and 11am to 6pm Sunday, and the online store offers free shipping over $120. Pier 62 on the Hudson, with its marked beginner zone, and Astoria Skatepark beside the RFK Bridge in Queens are ideal parks to pair it with. The shop also serves as a welcoming equipment hub for local collectives including SKATEYOGI and the Brooklyn Skate Moms.
+Labor opened in 2012 as a skateboarder-owned shop — owner James Rewolinski came up through a Milwaukee core shop before moving to New York — and it has stayed that kind of place: the counter is staffed by people who skate the city. Hours are 11am to 7pm Monday to Saturday and 11am to 6pm Sunday, and the online store offers free shipping over $120. [Pier 62 Skatepark](/directory/parks/us/pier-62-skatepark-new-york-ny) on the Hudson, with its marked beginner zone, [Astoria Skatepark](/directory/parks/us/astoria-skatepark-queens-ny) beside the RFK Bridge in Queens, and [Berry Lane Skatepark](/directory/parks/us/berry-lane-skatepark-jersey-city-nj) just across the Hudson River in Jersey City are ideal parks to pair it with. The shop also serves as a welcoming equipment hub for local collectives including SKATEYOGI and the Brooklyn Skate Moms.
 
 
 ### Minus Skate Shop
@@ -9636,7 +9716,7 @@ Website: https://skatecitysupply.com
 
 Skate City Supply is one of the most established and trusted local core shops in Albuquerque. They carry a comprehensive range of skateboards, longboards, and protective gear, ensuring older skaters have access to high-quality equipment. 
 
-The shop is especially notable for its professional repair and maintenance services, making it a reliable stop to get a neglected setup rolling smoothly again. The staff are deeply rooted in the local community and can point you in the right direction if you're looking for lessons or group skates. Pair your visit with a session at [Los Altos Skatepark](/directory/parks/us/los-altos-skatepark-albuquerque-nm) nearby, roll up to the Northeast Heights for evening lights at [North Domingo Baca Skate Park](/directory/parks/us/north-domingo-baca-skate-park-albuquerque-nm), or head north up I-25 to [Genoveva Chavez Skatepark](/directory/parks/us/genoveva-chavez-skatepark-santa-fe-nm) in Santa Fe.
+The shop is especially notable for its professional repair and maintenance services, making it a reliable stop to get a neglected setup rolling smoothly again. The staff are deeply rooted in the local community and can point you in the right direction if you're looking for lessons or group skates. Pair your visit with a session at [Los Altos Skatepark](/directory/parks/us/los-altos-skatepark-albuquerque-nm) nearby, roll up to the Northeast Heights for evening lights at [North Domingo Baca Skate Park](/directory/parks/us/north-domingo-baca-skate-park-albuquerque-nm), cross the Rio Grande to the Westside for lit evening runs at [Alamosa Skate Park](/directory/parks/us/alamosa-skate-park-albuquerque-nm), or head north up I-25 to [Genoveva Chavez Skatepark](/directory/parks/us/genoveva-chavez-skatepark-santa-fe-nm) in Santa Fe.
 
 
 ### Society Memphis Shop

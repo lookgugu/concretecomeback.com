@@ -17,9 +17,9 @@ website: "https://www.ccprc.com/3141/SK8-Charleston"
 googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=1549+Oceanic+St+Charleston+SC"
 featured: false
 addedDate: 2026-09-27
-lastVerified: 2026-09-27
+lastVerified: 2026-10-29
 tags: ["concrete", "lessons", "bowls"]
 ---
 SK8 Charleston is a massive, professionally built concrete facility that draws riders from all over the Southeast. While it is famous for its deep, challenging bowls, the park is actively welcoming to all skill levels. 
 
-For returning skaters, the standout feature is the park's instruction program. Individual lessons can be requested directly via the county parks site, where you can specify your skill level and focus areas, ensuring you get tailored guidance rather than a generic youth class. The on-site skate shop also provides helmet and board rentals. Helmets are strictly required for all riders, and pads are highly recommended. Note that Tuesdays are designated for BMX bikes only—skateboards are not permitted on that day to prevent collisions.
+For returning skaters, the standout feature is the park's instruction program. Individual lessons can be requested directly via the county parks site, where you can specify your skill level and focus areas, ensuring you get tailored guidance rather than a generic youth class. The on-site skate shop also provides helmet and board rentals. Helmets are strictly required for all riders, and pads are highly recommended. Note that Tuesdays are designated for BMX bikes only—skateboards are not permitted on that day to prevent collisions. If you are driving up Highway 17 along the Grand Strand, you can also pair a coastal South Carolina trip with [Matt Hughes Skate Park](/directory/parks/us/matt-hughes-skate-park-myrtle-beach-sc) in Myrtle Beach.

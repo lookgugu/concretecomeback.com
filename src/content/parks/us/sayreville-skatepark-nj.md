@@ -16,8 +16,8 @@ entryFee: "Free"
 googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=820+Washington+Rd+Parlin+NJ+08859"
 featured: false
 addedDate: 2026-09-30
-lastVerified: 2026-09-30
+lastVerified: 2026-10-29
 tags: ["lit", "free"]
 ---
 
-Located within Sayreville Kennedy Park, this skatepark offers a thoughtful design with both bowl and street sections. The extensive hours (open until midnight) and comprehensive lighting make it a practical spot for older skaters to get a session in after work.
+Located within Sayreville Kennedy Park, this skatepark offers a thoughtful design with both bowl and street sections. The extensive hours (open until midnight) and comprehensive lighting make it a practical spot for older skaters to get a session in after work. If you are exploring northern New Jersey's concrete parks during daylight hours, you can also pair a session here with [Berry Lane Skatepark](/directory/parks/us/berry-lane-skatepark-jersey-city-nj) in Jersey City or [Ann Van Middlesworth Skatepark](/directory/parks/us/ann-van-middlesworth-skatepark-nj) in Hillsborough.
