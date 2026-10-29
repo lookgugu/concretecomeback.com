@@ -18,10 +18,10 @@ website: "https://www.lenexa.com/Parks-Places/Sar-Ko-Par-Trails-Park"
 googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=Rolling+Magic+Skate+Park+Lenexa+KS+66215"
 featured: false
 addedDate: 2026-10-02
-lastVerified: 2026-10-02
+lastVerified: 2026-10-29
 tags: ["concrete", "lit", "free", "outdoor"]
 ---
 
 Rolling Magic, situated within Sar-Ko-Par Trails Park, is a completely revitalized facility that pays homage to a historic 1970s private park of the same name. Rebuilt in 2023 by New Line Skateparks, it strikes an excellent balance for older skaters by offering a designated low-speed technical zone specifically intended for beginners and skill progression.
 
-The park is separated into clear zones, ensuring those working on fundamentals aren't competing for space with advanced riders in the deep flow bowl. Best of all, push-button lighting extends the riding hours until 11:00 PM, making it incredibly practical for fitting in a session after work.
+The park is separated into clear zones, ensuring those working on fundamentals aren't competing for space with advanced riders in the deep flow bowl. Best of all, push-button lighting extends the riding hours until 11:00 PM, making it incredibly practical for fitting in a session after work. You can easily pair a Johnson County session here with [Harmon Park Skate Park](/directory/parks/us/harmon-park-skate-park-prairie-village-ks) in nearby Prairie Village or pick up fresh gear at [Escapist Skateboarding](/directory/shops/us/escapist-skateboarding-kansas-city-mo) in Kansas City.

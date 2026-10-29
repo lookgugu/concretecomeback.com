@@ -529,6 +529,11 @@
     "lng": -94.7846,
     "source": "Lenexa, Johnson County, Kansas, United States"
   },
+  "US|kansas|prairie village": {
+    "lat": 38.9914,
+    "lng": -94.6333,
+    "source": "Prairie Village, Johnson County, Kansas, United States"
+  },
   "US|kansas|wichita": {
     "lat": 37.6922,
     "lng": -97.3375,
@@ -548,6 +553,11 @@
     "lat": 38.2542,
     "lng": -85.7594,
     "source": "Louisville, Jefferson County, Kentucky, United States"
+  },
+  "US|kentucky|paducah": {
+    "lat": 37.0834,
+    "lng": -88.6,
+    "source": "Paducah, McCracken County, Kentucky, United States"
   },
   "US|louisiana|baton rouge": {
     "lat": 30.4494,
@@ -689,6 +699,11 @@
     "lng": -108.4961,
     "source": "Billings, Yellowstone County, Montana, United States"
   },
+  "US|montana|helena": {
+    "lat": 46.5927,
+    "lng": -112.0363,
+    "source": "Helena, Lewis and Clark County, Montana, United States"
+  },
   "US|montana|missoula": {
     "lat": 46.8701,
     "lng": -113.9953,
@@ -753,6 +768,11 @@
     "lat": 40.5052,
     "lng": -74.6733,
     "source": "Hillsborough Township, Somerset County, New Jersey, United States"
+  },
+  "US|new jersey|jersey city": {
+    "lat": 40.7216,
+    "lng": -74.0475,
+    "source": "Jersey City, Hudson County, New Jersey, United States"
   },
   "US|new jersey|pennsauken": {
     "lat": 39.9562,
@@ -859,6 +879,11 @@
     "lng": -95.7908,
     "source": "Broken Arrow, Tulsa, Oklahoma, United States"
   },
+  "US|oklahoma|edmond": {
+    "lat": 35.6571,
+    "lng": -97.4649,
+    "source": "Edmond, Oklahoma County, Oklahoma, United States"
+  },
   "US|oklahoma|oklahoma city": {
     "lat": 35.473,
     "lng": -97.5171,
@@ -934,6 +959,11 @@
     "lng": -81.0352,
     "source": "Columbia, Richland County, South Carolina, United States"
   },
+  "US|south carolina|myrtle beach": {
+    "lat": 33.6956,
+    "lng": -78.89,
+    "source": "Myrtle Beach, Horry County, South Carolina, United States"
+  },
   "US|south carolina|spartanburg": {
     "lat": 34.9498,
     "lng": -81.932,
@@ -1008,6 +1038,11 @@
     "lat": 40.7596,
     "lng": -111.8868,
     "source": "Salt Lake City, Salt Lake County, Utah, United States"
+  },
+  "US|utah|st. george": {
+    "lat": 37.1099,
+    "lng": -113.5832,
+    "source": "St. George, Washington County, Utah, United States"
   },
   "US|utah|taylorsville": {
     "lat": 40.6676,
@@ -1135,8 +1170,8 @@
     "source": "derived: mean of 18 listed UK cities"
   },
   "US": {
-    "lat": 39.1934,
-    "lng": -94.307,
-    "source": "derived: mean of 175 listed US cities"
+    "lat": 39.1687,
+    "lng": -94.3021,
+    "source": "derived: mean of 182 listed US cities"
   }
 }
