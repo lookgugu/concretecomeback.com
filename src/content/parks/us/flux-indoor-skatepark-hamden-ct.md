@@ -16,10 +16,10 @@ website: "https://flux-str.com/"
 googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=1125+Dixwell+Ave+Suite+8+Hamden+CT+06514"
 featured: false
 addedDate: 2026-10-02
-lastVerified: 2026-10-24
+lastVerified: 2026-10-31
 tags: ["indoor", "wood", "membership", "recovery"]
 ---
 
 FLUX is far more than a traditional skatepark—it is a combined action sports and wellness hub. The indoor wooden park features a layout with large down ledges and round coping, designed with significant input from the local community to create a smooth, accessible flow.
 
-What truly sets FLUX apart for older skaters is its holistic approach to the sport. The facility includes a dedicated recovery lounge equipped with infrared saunas, compression boots, and massage tools, alongside a standard gym. While public hours run Thursday through Sunday, members receive a key code for 7-day access, allowing for completely flexible scheduling away from peak crowds. For outdoor concrete and a pool-tiled bowl on dry days, pair a session here with [Rockwell Park Skate Park & Bike Pump Track](/directory/parks/us/rockwell-park-skate-park-bristol-ct) in Bristol or [Scalzi Park Skatepark](/directory/parks/us/scalzi-park-skatepark-stamford-ct) in Stamford.
+What truly sets FLUX apart for older skaters is its holistic approach to the sport. The facility includes a dedicated recovery lounge equipped with infrared saunas, compression boots, and massage tools, alongside a standard gym. While public hours run Thursday through Sunday, members receive a key code for 7-day access, allowing for completely flexible scheduling away from peak crowds. For outdoor concrete on dry days, pair a session here with [Edgewood Skatepark](/directory/parks/us/edgewood-skatepark-new-haven-ct) just down the road in New Haven, [Rockwell Park Skate Park & Bike Pump Track](/directory/parks/us/rockwell-park-skate-park-bristol-ct) in Bristol, or [Scalzi Park Skatepark](/directory/parks/us/scalzi-park-skatepark-stamford-ct) in Stamford.

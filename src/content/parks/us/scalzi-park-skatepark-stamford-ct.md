@@ -15,9 +15,9 @@ website: "https://www.stamfordct.gov/government/parks-recreation/parks/scalzi-pa
 googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=100+Bridge+St+Stamford+CT"
 featured: false
 addedDate: 2026-10-12
-lastVerified: 2026-10-12
+lastVerified: 2026-10-31
 tags: ["concrete", "free", "grindline"]
 ---
 Built by the renowned Grindline Skateparks, Scalzi Park's concrete facility is a staple of the Connecticut scene, offering smooth, flowing transitions and a balanced street course. Its layout makes it easy to schedule quiet early-morning sessions.
 
-While it is a public, unstructured park, it is highly supportive of adult beginners thanks to independent local programming. Nearby shops run structured group sessions and one-on-one private lessons on-site that are explicitly designed to get older skaters comfortable on their boards.
+While it is a public, unstructured park, it is highly supportive of older beginners thanks to independent local programming. Nearby shops run structured group sessions and one-on-one private lessons on-site that are explicitly designed to get older skaters comfortable on their boards. Skaters heading east along I-95 can also pair a session here with the expanded street plaza and bowls at [Edgewood Skatepark](/directory/parks/us/edgewood-skatepark-new-haven-ct) in New Haven or indoor sessions at [FLUX](/directory/parks/us/flux-indoor-skatepark-hamden-ct) in Hamden.

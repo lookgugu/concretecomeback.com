@@ -17,8 +17,8 @@ website: "https://www.instagram.com/parisite_diy/"
 googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=1606+Pleasure+St+New+Orleans+LA+70122"
 featured: false
 addedDate: 2026-09-30
-lastVerified: 2026-09-30
+lastVerified: 2026-10-31
 tags: ["diy", "covered", "free"]
 ---
 
-New Orleans' first official public skatepark started as a DIY project and is now a celebrated community space. Nestled beneath the bustling Interstate 610 overpass, it provides essential cover from the sun and rain, which is a major advantage for older skaters needing a reliable venue. It caters to all skill levels with varied cast-in-place concrete features. Across Lake Pontchartrain on the Northshore, you can also ride the 30,000-square-foot [Pelican Park Skate Park](/directory/parks/us/pelican-park-skate-park-mandeville-la) and its concrete pump track in Mandeville.
+New Orleans' first official public skatepark started as a DIY project and is now a celebrated community space. Built beneath the Interstate 610 overpass, it provides essential cover from the sun and rain, which is a major advantage for older skaters needing a reliable venue. It caters to all skill levels with varied cast-in-place concrete features. Across Lake Pontchartrain on the Northshore, you can also ride the 30,000-square-foot [Pelican Park Skate Park](/directory/parks/us/pelican-park-skate-park-mandeville-la) and its concrete pump track in Mandeville, or head west along I-10 to [Perkins Road Community Park Skatepark](/directory/parks/us/perkins-road-skatepark-baton-rouge-la) in Baton Rouge and [Thomas Park Skate Park](/directory/parks/us/thomas-park-skate-park-lafayette-la) in Lafayette.
