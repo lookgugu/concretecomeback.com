@@ -374,6 +374,11 @@
     "lng": -72.902,
     "source": "Hamden, South Central Connecticut Planning Region, Connecticut, United States"
   },
+  "US|connecticut|new haven": {
+    "lat": 41.3082,
+    "lng": -72.9251,
+    "source": "New Haven, South Central Connecticut Planning Region, Connecticut, United States"
+  },
   "US|connecticut|stamford": {
     "lat": 41.0534,
     "lng": -73.5387,
@@ -438,6 +443,11 @@
     "lat": 21.3045,
     "lng": -157.8557,
     "source": "Honolulu, Honolulu County, Hawaii, United States"
+  },
+  "US|hawaii|kailua": {
+    "lat": 21.3972,
+    "lng": -157.7394,
+    "source": "Kailua, Honolulu County, Hawaii, United States"
   },
   "US|hawaii|kihei": {
     "lat": 20.7634,
@@ -504,6 +514,11 @@
     "lng": -86.1584,
     "source": "Indianapolis, Center Township, Marion County, Indiana, United States"
   },
+  "US|iowa|ames": {
+    "lat": 42.0268,
+    "lng": -93.617,
+    "source": "Ames, Story County, Iowa, United States"
+  },
   "US|iowa|cedar rapids": {
     "lat": 41.9759,
     "lng": -91.6704,
@@ -564,6 +579,11 @@
     "lng": -91.187,
     "source": "Baton Rouge, East Baton Rouge Parish, Louisiana, United States"
   },
+  "US|louisiana|lafayette": {
+    "lat": 30.2262,
+    "lng": -92.0178,
+    "source": "Lafayette, Lafayette Parish, Louisiana, United States"
+  },
   "US|louisiana|mandeville": {
     "lat": 30.3582,
     "lng": -90.0657,
@@ -613,6 +633,11 @@
     "lat": 42.3656,
     "lng": -71.104,
     "source": "Cambridge, Middlesex County, Massachusetts, United States"
+  },
+  "US|massachusetts|scituate": {
+    "lat": 42.1924,
+    "lng": -70.7262,
+    "source": "Scituate, Plymouth County, Massachusetts, United States"
   },
   "US|massachusetts|weymouth": {
     "lat": 42.2212,
@@ -979,6 +1004,11 @@
     "lng": -96.7294,
     "source": "Sioux Falls, Sioux Falls Township, Minnehaha County, South Dakota, United States"
   },
+  "US|south dakota|watertown": {
+    "lat": 44.8992,
+    "lng": -97.1153,
+    "source": "Watertown, Elmira Township, Codington County, South Dakota, 57201, United States"
+  },
   "US|south dakota|yankton": {
     "lat": 42.8713,
     "lng": -97.3967,
@@ -1170,8 +1200,8 @@
     "source": "derived: mean of 18 listed UK cities"
   },
   "US": {
-    "lat": 39.1687,
-    "lng": -94.3021,
-    "source": "derived: mean of 182 listed US cities"
+    "lat": 39.0998,
+    "lng": -94.3996,
+    "source": "derived: mean of 188 listed US cities"
   }
 }
