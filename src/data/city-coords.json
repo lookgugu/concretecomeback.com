@@ -259,6 +259,11 @@
     "lng": -134.4197,
     "source": "Juneau, Alaska, United States"
   },
+  "US|alaska|ketchikan": {
+    "lat": 55.3431,
+    "lng": -131.6467,
+    "source": "Ketchikan, Ketchikan Gateway Borough, Alaska, 99901, United States"
+  },
   "US|alaska|sitka": {
     "lat": 57.4086,
     "lng": -135.4596,
@@ -298,6 +303,11 @@
     "lat": 34.7695,
     "lng": -92.2671,
     "source": "North Little Rock, Hill Township, Pulaski County, Arkansas, United States"
+  },
+  "US|arkansas|siloam springs": {
+    "lat": 36.1866,
+    "lng": -94.5414,
+    "source": "Siloam Springs, Benton County, Arkansas, 72761, United States"
   },
   "US|california|berkeley": {
     "lat": 37.8708,
@@ -594,6 +604,11 @@
     "lng": -90.0734,
     "source": "New Orleans, Orleans Parish, Louisiana, United States"
   },
+  "US|maine|bangor": {
+    "lat": 44.8016,
+    "lng": -68.7713,
+    "source": "Bangor, Penobscot County, Maine, 04401, United States"
+  },
   "US|maine|bath": {
     "lat": 43.9134,
     "lng": -69.814,
@@ -694,6 +709,11 @@
     "lng": -89.2601,
     "source": "Petal, Forrest County, Mississippi, 39465, United States"
   },
+  "US|mississippi|southaven": {
+    "lat": 34.9874,
+    "lng": -90.0035,
+    "source": "Southaven, DeSoto County, Mississippi, United States"
+  },
   "US|mississippi|tupelo": {
     "lat": 34.2576,
     "lng": -88.7034,
@@ -778,6 +798,11 @@
     "lat": 43.1981,
     "lng": -70.874,
     "source": "Dover, Strafford County, New Hampshire, 03820, United States"
+  },
+  "US|new hampshire|keene": {
+    "lat": 42.9336,
+    "lng": -72.2784,
+    "source": "Keene, Cheshire County, New Hampshire, United States"
   },
   "US|new hampshire|nashua": {
     "lat": 42.7656,
@@ -1089,6 +1114,11 @@
     "lng": -73.2129,
     "source": "Burlington, Chittenden County, Vermont, United States"
   },
+  "US|vermont|manchester": {
+    "lat": 43.1769,
+    "lng": -73.0569,
+    "source": "Manchester, Bennington County, Vermont, United States"
+  },
   "US|vermont|south burlington": {
     "lat": 44.4643,
     "lng": -73.1763,
@@ -1139,6 +1169,11 @@
     "lng": -81.104,
     "source": "Fayetteville, Fayette County, West Virginia, 25840, United States"
   },
+  "US|west virginia|hurricane": {
+    "lat": 38.4326,
+    "lng": -82.0201,
+    "source": "Hurricane, Putnam County, West Virginia, United States"
+  },
   "US|west virginia|parkersburg": {
     "lat": 39.2667,
     "lng": -81.5621,
@@ -1168,6 +1203,11 @@
     "lat": 43.1833,
     "lng": -89.2128,
     "source": "Sun Prairie, Dane County, Wisconsin, United States"
+  },
+  "US|wyoming|cody": {
+    "lat": 44.5263,
+    "lng": -109.0564,
+    "source": "Cody, Park County, Wyoming, United States"
   },
   "US|wyoming|jackson": {
     "lat": 43.48,
@@ -1200,8 +1240,8 @@
     "source": "derived: mean of 18 listed UK cities"
   },
   "US": {
-    "lat": 39.0998,
-    "lng": -94.3996,
-    "source": "derived: mean of 188 listed US cities"
+    "lat": 39.2405,
+    "lng": -94.227,
+    "source": "derived: mean of 196 listed US cities"
   }
 }
