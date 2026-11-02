@@ -12,7 +12,7 @@ adultFriendly: true
 hasLighting: true
 hasParking: true
 isIndoor: false
-openingHours: "Daily dawn to dusk (push-button floodlights run in 1-hour intervals after sunset)"
+openingHours: "Open daily with user-activated evening floodlights (1-hour timer; subject to municipal park curfews)"
 entryFee: "Free"
 website: "https://www.kgbak.us/141/Parks-Recreation"
 googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=Ketchikan+Skatepark+217+Schoenbar+Rd+Ketchikan+AK+99901"
