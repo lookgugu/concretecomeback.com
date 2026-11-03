@@ -26,6 +26,8 @@ const isActive = (path: string) =>
           class:list={['nav-link', { 'nav-link--active': isActive('/blog') }]}
         >Blog</a>
 
+        <a href="/newsletter/" class:list={['nav-link', { 'nav-link--active': isActive('/newsletter') }]}>Newsletter</a>
+
         <!-- Directory dropdown -->
         <details class="relative group">
           <summary
@@ -80,6 +82,7 @@ const isActive = (path: string) =>
         </summary>
         <div class="fixed inset-0 top-16 bg-concrete-900/95 z-30 p-6 flex flex-col gap-4">
           <a href="/blog" class="mobile-nav-link">Blog</a>
+          <a href="/newsletter/" class="mobile-nav-link">Newsletter</a>
           <a href="/directory/parks" class="mobile-nav-link">🛹 Skate Parks</a>
           <a href="/directory/shops" class="mobile-nav-link">🏪 Local Shops</a>
           <a href="/directory/groups" class="mobile-nav-link">👥 Groups</a>

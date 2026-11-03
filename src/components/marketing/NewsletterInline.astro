@@ -11,11 +11,24 @@
 // to INLINE_SOURCES in src/scripts/newsletter-signup.js too, or it is reported
 // as in_post.
 interface Props {
-  source?: 'in_post' | 'home_inline' | 'parks_inline';
+  source?: 'in_post' | 'home_inline' | 'parks_inline' | 'newsletter_landing';
   compact?: boolean;
+  eyebrow?: string;
+  heading?: string;
+  description?: string;
+  buttonLabel?: string;
+  consentCopy?: string;
+  subscribedMessage?: string;
 }
 
-const { source = 'in_post', compact = false } = Astro.props;
+const {
+  source = 'in_post', compact = false, subscribedMessage,
+  eyebrow = 'Weekly roundup',
+  heading = 'Keep your comeback rolling',
+  description = "The week's best new reads and, when available, one practical idea for your weekend session.",
+  buttonLabel = 'Send me the roundup',
+  consentCopy = 'By subscribing, you agree to receive the weekly Concrete Comeback email. Unsubscribe anytime.',
+} = Astro.props;
 // in_post keeps its original ids so existing anchors and tests stay valid.
 const idPrefix = source === 'in_post' ? 'newsletter-inline' : `newsletter-${source.replace('_', '-')}`;
 ---
@@ -29,11 +42,12 @@ const idPrefix = source === 'in_post' ? 'newsletter-inline' : `newsletter-${sour
   ]}
   aria-labelledby={`${idPrefix}-title`}
   data-newsletter-source={source}
+  data-newsletter-subscribed-message={subscribedMessage}
 >
-  <p class:list={['text-xs font-bold uppercase tracking-widest text-skate-orange', compact ? 'mb-1' : 'mb-2']}>Weekly roundup</p>
-  <h2 id={`${idPrefix}-title`} class:list={['font-display text-concrete-900', compact ? 'text-xl mb-1' : 'text-2xl mb-2']}>Keep your comeback rolling</h2>
+  <p class:list={['text-xs font-bold uppercase tracking-widest text-skate-orange', compact ? 'mb-1' : 'mb-2']}>{eyebrow}</p>
+  <h2 id={`${idPrefix}-title`} class:list={['font-display text-concrete-900', compact ? 'text-xl mb-1' : 'text-2xl mb-2']}>{heading}</h2>
   <p class:list={['text-sm text-concrete-600', compact ? 'mb-3' : 'mb-4']}>
-    The week's best new reads and, when available, one practical idea for your weekend session.
+    {description}
   </p>
   <form action="/api/forms/newsletter" method="post" class:list={[compact ? 'space-y-2' : 'space-y-3']}>
     <div class="sr-only" aria-hidden="true">
@@ -53,11 +67,11 @@ const idPrefix = source === 'in_post' ? 'newsletter-inline' : `newsletter-${sour
         class="min-w-0 flex-1 rounded-lg border-concrete-300 focus:border-skate-orange focus:ring-skate-orange"
       />
       <button type="submit" class="min-h-11 px-4 py-2 rounded-lg bg-skate-orange text-white font-bold border-0 cursor-pointer disabled:opacity-60">
-        Send me the roundup
+        {buttonLabel}
       </button>
     </div>
     <p class="text-xs text-concrete-500">
-      By subscribing, you agree to receive the weekly Concrete Comeback email. Unsubscribe anytime.
+      {consentCopy}{' '}
       <a href="/privacy" class="underline min-h-0 min-w-0">Privacy</a>
     </p>
   </form>

@@ -15,7 +15,14 @@ import NewsletterInline from '@components/marketing/NewsletterInline.astro';
   <div class="max-w-2xl mx-auto px-4 sm:px-6 pb-16">
     <!-- Server-rendered, so it is a real retry path for a visitor who got here
          from a failed signup with JavaScript off — the popup cannot be one. -->
-    <NewsletterInline />
+    <NewsletterInline
+      eyebrow="In preparation"
+      heading="Hear when we launch"
+      description="We're preparing the planned weekly roundup of the week's best new reads and, when available, one practical idea for your weekend session. Delivery hasn't started; no first-send date is set."
+      buttonLabel="Keep me posted"
+      consentCopy="By signing up, you agree to receive a launch update and the planned weekly Concrete Comeback email. Confirm your email to opt in. Unsubscribe anytime."
+      subscribedMessage="You’re signed up. We’ll let you know when the newsletter launches."
+    />
     <p class="mt-8 text-center">
       <a href="/" class="text-sm text-concrete-500 hover:text-concrete-800">← Return home</a>
     </p>

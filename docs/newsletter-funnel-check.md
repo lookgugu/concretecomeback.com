@@ -1,85 +1,106 @@
 # Daily newsletter funnel check
 
-Instructions for the scheduled cloud routine "CC newsletter funnel check".
-**Read-only: never edit files, commit, or open PRs from that routine.**
+Instructions for the existing scheduled cloud routine "CC newsletter funnel check".
+**Read-only: never edit files, commit, open PRs, change providers or register GA
+custom dimensions from that routine. Do not create another schedule.**
 
-## Why this exists
+## What the funnel measures
 
-The newsletter is double opt-in: a visitor submits the form, receives a signed
-confirmation link, and becomes a Resend contact **only** after clicking it.
+The newsletter uses double opt-in: submitting requests a signed confirmation
+email; confirming creates or reactivates membership in the newsletter segment.
+A provider email is evidence of a successful confirmation-send request, not of
+all submission attempts. Zero provider emails does **not** rule out attempts
+that failed before the provider call.
 
-As of 2026-09-26, roughly 1,400 visitors over 30 days had produced **zero** form
-submissions — while the form itself was verified working end to end (submit →
-email → confirm → segment). So the failure is upstream of the email, and the
-open question is whether the CTA is *seen* at all.
+The October 20, 2026 audit found zero external subscribers and two internal
+members (owner and documented canary). Do not count either internal member as
+growth. The newsletter is in preparation; delivery is not scheduled. Postal
+footer work is released, but delivered native unsubscribe evidence and a
+canary-free production audience remain separate release gates. Existing
+sitewide signup defaults still describe weekly delivery without launch-stage
+qualification. Those defaults remain an explicit **release HOLD/backlog**;
+landing and outcome corrections do not resolve that broader copy mismatch.
 
-PR #80 (merged 2026-09-26) made the CTAs send their events to GA4 through
-`gtag`, because the GTM container has no triggers for the `newsletter_*` events
-and every one of them had been dropped since launch. Those `gtag` events still
-never left the browser until they named `send_to: 'G-VYW5FDDX52'` (see
-`docs/newsletter-exposure-review.md`). Since then `newsletter_impression`, split
-by `newsletter_source` (`popup`, `home_inline`, `parks_inline`, `in_post`), is
-the number that matters, not the subscriber count: it fires once per placement
-per page, only when the form is actually on screen in a visible tab.
+## Check 1 — segment members
 
-## Check 1 — subscribers (Resend)
+Read only segment `35b5b4f0-ac74-4ffa-b7d3-620e4f0014ed` (Concrete Comeback),
+following pagination to completion. The provider account is shared with other
+projects. Never use account-wide contacts as this newsletter's audience.
+Use the existing subscriber checker to separate owner/canary from external
+members. Membership alone does not establish individual consent provenance.
 
-List contacts in segment `35b5b4f0-ac74-4ffa-b7d3-620e4f0014ed` ("Concrete
-Comeback").
+## Check 2 — confirmation sends
 
-- **Only this segment counts.** The Resend account is shared with TBR Destroyer
-  and 99CentVPN, so most account-wide contacts belong to other sites. Never
-  report an account-wide contact count as Concrete Comeback signups — on
-  2026-09-26 the account held 28 contacts while this segment held zero.
-- `beno.chapman+cc-e2e-20260926@gmail.com` is a deliberate test canary. Exclude
-  it from any signup count, but say so if it disappears (the segment plumbing
-  would then be suspect).
+Paginate available email history and count the subject **"Confirm your Concrete
+Comeback roundup"** within the reporting window. Separate internal tests from
+external candidates, state the earliest available timestamp and any retention
+gap, and report sends separately from submitted/pending analytics events.
+Do not infer a confirmation rate without a joined, verified external cohort.
 
-## Check 2 — submissions (Resend)
+## Check 3 — GA4 via the existing read-only API
 
-List recently sent emails and count those with the subject **"Confirm your
-Concrete Comeback roundup"** in the last 24 hours.
+The October 20 audit verified **local** service-account Analytics Data API
+access to property `543447613` (timezone `America/New_York`). This does not
+verify credentials, installed tools or network access in the scheduled cloud
+routine. Cloud-runtime GA access remains **unverified**. Before reporting GA
+figures, establish that the current runtime has an already-authorized read-only
+client and can successfully query this property. Do not copy credentials from
+a local machine, print credentials, change accounts or provision access here.
 
-Each one means a visitor submitted the form. Zero means nobody did — which
-distinguishes "nobody submitted" from "people submitted but never confirmed".
-Those two have completely different fixes, so always report this separately from
-the subscriber count.
+Portable read-only reporting recipe (only when runtime access is available):
 
-## GA4 is not part of this check
+1. Use the existing authorized identity with OAuth scope
+   `https://www.googleapis.com/auth/analytics.readonly` and the Analytics Data
+   API `properties/543447613:runReport` endpoint.
+2. Resolve yesterday in `America/New_York`; use explicit inclusive start/end
+   dates for complete 7-day and 28-day windows ending yesterday. Exclude the
+   current partial property-timezone day.
+3. Request separate reports for totals (`totalUsers`, `sessions`,
+   `engagedSessions`, `engagementRate`), acquisition (`sessionDefaultChannelGroup`
+   with sessions/engagedSessions), landing pages (`landingPagePlusQueryString`
+   with sessions/engagedSessions), and events (`date`, `eventName` with
+   `eventCount`, `totalUsers`, filtered to the newsletter event names below).
+4. Use explicit limit/offset pagination, advance by returned rows, and verify
+   accumulated rows against `rowCount` for each report. Record request windows,
+   filters, metrics/dimensions, response metadata and any thresholding or
+   coverage limits. Do not silently label partial reports complete.
+5. If credentials/tools are absent, access is unverified, or a request fails,
+   report **GA data unavailable in this runtime** with the reason. Do not
+   substitute zero, claim local access proves cloud access, or invent a diagnosis.
 
-There is no automated route to GA4. Windsor.ai was the only one and has been
-dropped deliberately — do not try to read GA4, and do not report a traffic or
-`newsletter_impression` figure. Say the GA4 half is checked manually instead of
-implying the number is zero.
+Report sessions, engaged sessions, acquisition channels, landing pages and
+`newsletter_impression`, `newsletter_signup_submitted`,
+`newsletter_signup_pending`, `newsletter_signup_error`. Impression tracking was
+repaired in October: the audit observed events from October 16–18 only. Do not
+compare that partial measurement window with 28 days of traffic as a rate.
+Large repeated direct-traffic counts warrant investigation, not an assumption
+that every session represents an external human.
 
-`newsletter_impression` is still the number that settles the diagnosis; it just
-has to be read by hand in the GA4 app (property `543447613`).
+Events explicitly route to `G-VYW5FDDX52`; `newsletter_source` is allowlisted
+as `popup`, `home_inline`, `parks_inline`, `in_post`, or `newsletter_landing`.
+An inline impression requires a visible foreground form and is deduplicated per
+mounted placement. The October 20 audit found no registered source custom
+dimension. Registering it is a separate authorized admin task; historical
+placement reports cannot be reconstructed from current API metadata.
 
-## How to read the result
+Campaign links may use `?utm_source=partner_slug&utm_medium=referral&utm_campaign=first_readers`.
+GA session attribution supports landing-session reporting. These UTMs are not
+persisted into confirmation tokens or provider contacts, so provider-confirmed
+members cannot be assigned exactly to partners from this instrumentation.
 
-| Signal | Meaning | Next step |
-|---|---|---|
-| Submissions 0 for days, `newsletter_impression` ≈ 0 (read manually) | The CTAs are rarely seen. The homepage and park directory carry an inline form near the top; the popup waits five seconds and for no inline form to be on screen. | Check traffic quality before changing placement |
-| `newsletter_impression` healthy, submissions 0 | People see it and decline. | Offer and copy problem, not plumbing |
-| Submissions > 0, subscribers 0 | People submit but never confirm. | Investigate deliverability and the confirm step |
+## Interpretation and reporting
 
-## Reporting
+| Signal | Interpretation |
+|---|---|
+| Few impressions | Check measured traffic, visibility and coverage before changing placement. |
+| Impressions but no submitted events | Investigate audience and offer; this alone does not establish the cause. |
+| Submitted events but no pending events | Investigate request failures and analytics coverage. |
+| Pending events/sends but no confirmed members | Inspect deliverability and confirmation, excluding internal tests. |
 
-Email a summary to `beno.chapman@gmail.com` from `hello@concretecomeback.com`,
-subject `CC newsletter check`. Under 150 words:
-
-1. subscribers in the segment (excluding the canary),
-2. confirmation emails sent in the last 24h,
-3. what it means — but only where these two numbers settle it.
-
-**Whenever submissions in the last 24h are zero**, they do not settle it: "the
-CTA was never seen" and "it was seen and declined" produce identical numbers and
-are told apart only by `newsletter_impression`, which this routine cannot read. Say the
-diagnosis is pending the manual GA4 check. Do not pick one.
-
-This keys on submissions alone, never on the subscriber total — subscribers is a
-cumulative count, so once a real subscriber exists it stays non-zero through
-every quiet day and would otherwise mask exactly the case this rule protects.
-
-State plainly when nothing has changed. A quiet day is a valid result and should
-read as one sentence, not a padded report.
+The existing routine's authorized email summary uses
+`hello@concretecomeback.com` → `beno.chapman@gmail.com`, subject
+`CC newsletter check`, under 150 words. Report external segment members,
+confirmation sends, measured funnel events, coverage and uncertainties.
+Editing this document does not authorize a new send or schedule. If API access
+fails, report unavailable data and the error rather than zero or a guessed
+conversion diagnosis. State plainly when nothing has changed.

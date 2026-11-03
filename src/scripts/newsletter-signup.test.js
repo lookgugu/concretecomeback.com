@@ -265,3 +265,19 @@ test('the close button still records a real dismissal', () => {
   assert.ok(events.includes('newsletter_popup_dismissed'));
   assert.ok(!events.includes('newsletter_popup_stood_down'));
 });
+
+test('a second submit while pending or after success cannot send another request', async () => {
+  const { panel, submitted } = fakePanel({ email: 'local@example.invalid', consent: 'yes' });
+  let finish;
+  let requests = 0;
+  global.fetch = () => { requests++; return new Promise((resolve) => { finish = resolve; }); };
+  bindNewsletterForm(panel, { storage: null, source: 'newsletter_landing' });
+  const first = submitted();
+  const second = submitted();
+  assert.equal(requests, 1);
+  await second;
+  finish({ ok: true, json: async () => ({ ok: true }) });
+  await first;
+  await submitted();
+  assert.equal(requests, 1);
+});
