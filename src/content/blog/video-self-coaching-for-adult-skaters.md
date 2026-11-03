@@ -1,6 +1,6 @@
 ---
 title: "Filming Yourself to Learn Faster: A Guide to Video Self-Coaching"
-description: "How adult skaters can use phone video to spot posture, balance, and commitment problems no amount of self-awareness catches in real time."
+description: "How older skaters can use phone video to spot posture, balance, and commitment problems no amount of self-awareness catches in real time."
 pubDate: 2026-10-25
 author: "Sam Torres"
 authorAge: 44
@@ -10,46 +10,57 @@ featured: false
 draft: false
 ---
 
-At our sessions, I can usually tell within thirty seconds of watching someone's phone footage back what's actually going wrong with a trick they've been stuck on for weeks. Not because I have some special eye for it — because video shows you things you cannot feel while you're doing them. Half the adults who come to our sessions have never watched themselves skate on camera at all, and it's one of the simplest, cheapest changes available to anyone training without a regular coach.
+At our sessions in Portland, I can usually tell within thirty seconds of watching someone's phone footage what is going wrong with a trick they have struggled with for weeks. That is not because I have a coach's sixth sense; video simply captures mechanics that are impossible to feel while you are moving. Most skaters who join our group have never watched themselves skate on camera. Setting up a phone is one of the quickest, zero-cost adjustments you can make when skating without an instructor.
 
-You don't need anything fancy. A phone propped against a bag, a water bottle, or a curb does the job. Here's how to actually use it well, rather than just collecting clips of yourself falling.
+You do not need camera gear or a tripod. A phone propped against a water bottle, a skate shoe, or a curb gives you everything you need.
 
-## Why your own sense of what happened is unreliable
+## Why internal feel is misleading
 
-When you're learning a trick, you're processing far too much in real time to accurately judge your own form. Where your weight was, which foot moved first, whether your shoulders turned before your hips — your brain is busy enough just executing the attempt that it doesn't have spare capacity to audit it accurately afterward. Most people's internal account of "what I just did" is a rough guess dressed up as a memory.
+When you attempt a trick, your attention is entirely consumed by balance, speed, and spatial awareness. Your brain is working at capacity just managing the attempt, leaving little bandwidth to audit your form. What you think your body did is often an estimate rather than reality.
 
-This is why the same correction can get said to you ten times and not land, and then click the moment you see it on video. It's not that you weren't listening. It's that "your back foot is late" doesn't mean much until you watch your own back foot actually being late, on your own feet, in your own footage.
+This is why an instructor or friend can tell you to stay over the board ten times without it sinking in, only for it to click the moment you watch your footage. Hearing "your back foot is late" is abstract. Watching your back foot lag behind your front foot on screen makes the correction immediate and obvious.
 
-## What to film
+## How to capture useful footage
 
-You don't need to film every attempt. Film in short, focused bursts:
+You do not need to film an entire session. Aim for short, focused clips:
 
-**A trick you're stuck on, after you've already warmed it up.** Filming your very first cold attempt of the day tells you less than filming your fifth or sixth, once your body has settled into its actual pattern for that trick rather than its "I just walked up to this" pattern.
+### Capture warmed-up attempts
+Skip recording your first attempts of the day. Warm up thoroughly so the camera captures your normal movement patterns rather than early session stiffness.
 
-**Three to five consecutive attempts, not just one.** A single clip might just be an off rep. A short run of attempts shows you what's consistent across tries — which is almost always the real issue — versus what was a one-off.
+### Record short sequences
+Film three to four consecutive attempts rather than one isolated try. A single attempt can be an outlier. A short run of attempts shows what is consistent across tries, which is almost always the habit you need to address.
 
-**From the side, at roughly waist height, far enough back to see your whole body and the board.** A straight side-on angle is the single most useful view for almost everything adult skaters are working on: weight distribution, pop timing, shoulder and hip rotation. A front or back angle is worth adding later for specific things like foot placement on flip tricks, but side-on is where to start.
+### Set up side-on at waist height
+Prop your phone roughly waist-high, far enough back to keep your entire body and board in the frame. A straight side-on angle is the most revealing perspective for weight distribution, pop timing, and shoulder alignment.
 
-## What to actually look for
+## What to diagnose on playback
 
-Watching your own footage without a plan just turns into wincing at yourself falling. Go in with specific questions:
+Watching footage without a plan often leads to frustration. Focus on answering specific mechanical questions:
 
-**Where is your weight relative to your feet right before the critical moment?** For most tricks that aren't landing, the honest answer on camera is "further back than I thought." Weight that's hanging behind your base is one of the most common, most fixable things video reveals that feel invisible in the moment.
+### Check weight placement at the pop
+For tricks that refuse to land, weight is almost always drifting behind the center of the board. Look closely at where your chest and hips are aligned relative to your feet right as you initiate the trick.
 
-**Did your head and shoulders commit to the trick, or did they hang back while your feet tried to do the work?** Your body tends to follow wherever your head and eyes go. A classic tell on video is someone's feet attempting the full trick while their upper body is still bailing toward the ground — a mismatch you genuinely cannot feel happening to you in real time.
+### Watch head and shoulder commitment
+Your board naturally follows your eyes and shoulders. A common tell on video is feet attempting the trick while the upper body is already leaning toward an exit. That disconnect is difficult to feel in the moment, but obvious on video.
 
-**Is the failure the same each time, or different?** If three attempts fail in three different ways, you're probably dealing with an inconsistency problem — board setup, stance, or just not having enough reps yet — rather than one specific technical fix. If the same thing goes wrong every single time, you've found your actual correction.
+### Identify repeated versus random faults
+If four attempts fail in four different ways, you are usually dealing with an inconsistency in speed, setup, or baseline comfort. If every attempt fails in the exact same spot, you have pinpointed the specific mechanical adjustment to make.
 
-**Compare this week's footage to last month's, not just attempt to attempt.** The real value of keeping old clips isn't judging any single session. It's being able to put two clips side by side a month apart and see a change in your weight placement or commitment that's invisible day to day but obvious across a longer stretch.
+### Compare over months, not just reps
+The real value of keeping a few clips is long-term perspective. Comparing a video from today with one from two months ago shows subtle improvements in posture, speed, and fluidity that feel completely invisible from one session to the next.
 
-## Watching yourself fall without it wrecking your motivation
+## Managing the mental friction
 
-This is the part people underestimate. Watching ten clips of yourself not landing something is genuinely demoralizing if you go into it looking for proof you're bad at this. Two things help.
+Watching repeated missed attempts can feel discouraging if you approach footage looking for perfection. Two simple rules help keep it productive:
 
-**Watch with a specific question, not a general judgment.** "Was my weight forward or back" is a question you can answer and move on from. "Am I any good at this" is a question video was never going to answer, and chasing it is where the discouragement comes from.
+### Review with one technical question
+Ask yourself something concrete: "Was my front foot sliding high enough?" or "Did my shoulders stay parallel to the board?" Answering a specific question gives you an immediate cue for your next attempt and prevents vague self-criticism.
 
-**Delete the footage once you've learned what you needed from it.** You don't need an archive of every failed attempt. Keep the clips that show a genuine before-and-after, and let the rest go. A phone full of your own worst moments, kept indefinitely, serves nobody.
+### Clear out the discard pile
+Keep the few clips that show a breakthrough or establish a baseline to measure future progress against, and delete the rest. Your camera roll does not need an archive of every failed attempt.
 
-## Where this fits alongside other coaching
+## Where filming fits with other coaching
 
-Filming yourself is a logging and feedback tool, not a substitute for in-person eyes on your safety. It also isn't the same thing as the [AI video-analysis apps](/blog/can-ai-coaching-apps-help-adult-skaters/) covered elsewhere on this site — those use a model to flag what it thinks is wrong; this is just you, watching yourself honestly, which costs nothing and works for literally any trick at any level. If you're working with a coach or an experienced friend, sending them a short clip ahead of a session often gets you a more specific, useful conversation than describing the problem in words ever will. If you're training entirely alone, this is the closest thing to a second set of eyes you've got, and it's sitting in your pocket already.
+Filming yourself is a practical feedback tool, not a full replacement for an experienced coach watching your line and safety in real time. It is also distinct from the [AI video-analysis apps](/blog/can-ai-coaching-apps-help-adult-skaters/) covered elsewhere on this site, which use algorithmic models to score form. 
+
+A simple phone clip reviewed honestly gives you immediate clarity on flatground or curb tricks. If you skate with friends or take occasional lessons, sending a five-second clip ahead of time leads to far more productive advice than trying to describe what feels wrong with words. If you practice solo, that phone against a water bottle is the most honest second set of eyes you have.
