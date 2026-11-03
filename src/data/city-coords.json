@@ -244,6 +244,11 @@
     "lng": -86.8024,
     "source": "Birmingham, Jefferson County, Alabama, United States"
   },
+  "US|alabama|cullman": {
+    "lat": 34.1335,
+    "lng": -86.8779,
+    "source": "Cullman County, Alabama, United States"
+  },
   "US|alabama|huntsville": {
     "lat": 34.7298,
     "lng": -86.5859,
@@ -273,6 +278,11 @@
     "lat": 33.3062,
     "lng": -111.8412,
     "source": "Chandler, Maricopa County, Arizona, United States"
+  },
+  "US|arizona|mesa": {
+    "lat": 33.4151,
+    "lng": -111.8315,
+    "source": "Mesa, Maricopa County, Arizona, United States"
   },
   "US|arizona|peoria": {
     "lat": 33.5806,
@@ -423,6 +433,11 @@
     "lat": 28.5421,
     "lng": -81.379,
     "source": "Orlando, Orange County, Florida, United States"
+  },
+  "US|florida|st. petersburg": {
+    "lat": 27.7712,
+    "lng": -82.634,
+    "source": "Saint Petersburg, Pinellas County, Florida, United States"
   },
   "US|florida|tampa": {
     "lat": 27.945,
@@ -628,6 +643,11 @@
     "lat": 39.2909,
     "lng": -76.6108,
     "source": "Baltimore, Maryland, United States"
+  },
+  "US|maryland|gaithersburg": {
+    "lat": 39.1399,
+    "lng": -77.1929,
+    "source": "Gaithersburg, Montgomery County, Maryland, United States"
   },
   "US|maryland|ocean city": {
     "lat": 38.3315,
@@ -944,6 +964,11 @@
     "lng": -95.9928,
     "source": "Tulsa, Oklahoma, United States"
   },
+  "US|oregon|bend": {
+    "lat": 44.0582,
+    "lng": -121.3153,
+    "source": "Bend, Deschutes County, Oregon, United States"
+  },
   "US|oregon|eugene": {
     "lat": 44.0505,
     "lng": -123.0951,
@@ -1149,6 +1174,11 @@
     "lng": -122.1923,
     "source": "Bellevue, King County, Washington, United States"
   },
+  "US|washington|port angeles": {
+    "lat": 48.1181,
+    "lng": -123.4307,
+    "source": "Port Angeles, Clallam County, Washington, 98362, United States"
+  },
   "US|washington|seattle": {
     "lat": 47.6038,
     "lng": -122.3301,
@@ -1188,6 +1218,11 @@
     "lat": 44.5126,
     "lng": -88.0126,
     "source": "Green Bay, Brown County, Wisconsin, United States"
+  },
+  "US|wisconsin|greenfield": {
+    "lat": 42.9597,
+    "lng": -87.9813,
+    "source": "Greenfield, Milwaukee County, Wisconsin, United States"
   },
   "US|wisconsin|la crosse": {
     "lat": 43.8123,
@@ -1240,8 +1275,8 @@
     "source": "derived: mean of 18 listed UK cities"
   },
   "US": {
-    "lat": 39.2405,
-    "lng": -94.227,
-    "source": "derived: mean of 196 listed US cities"
+    "lat": 39.2155,
+    "lng": -94.3831,
+    "source": "derived: mean of 203 listed US cities"
   }
 }
