@@ -1,42 +1,43 @@
 ---
-title: "Gear That Makes a Difference When You're Skating Over 40"
-description: "The specific protective gear and board setup choices that help adult skaters protect their joints and skate longer without injury."
+title: "Gear That Makes a Difference for Older Skaters and Retirees"
+description: "Protective equipment and board setup choices for older skaters in their 40s, 50s, and 60s: ASTM F1492 helmets, dual-splint wrist guards, hip pads, and soft wheels."
 pubDate: 2025-10-01
+updatedDate: 2026-11-04
 author: "Jo Fairweather"
 authorAge: 52
 authorBio: "Physiotherapist and skater. Came back to skating at 49 and hasn't stopped."
-tags: ["gear", "safety", "protective-equipment", "joints"]
+tags: ["gear", "safety", "protective-equipment", "joints", "active-aging"]
 featured: true
+draft: false
 ---
 
-After two decades away from skating, your body will tell you things it never said when you were 20. The gear choices that matter when you're older are different from what you'd have picked at 15.
+For older skaters returning in their 40s, 50s, or retirement years, two categories of equipment determine how your joints feel the next morning and whether a routine slip stays minor: impact protection (an ASTM F1492 helmet, dual-splint wrist guards, hard-cap knee pads, and hip impact shorts) and vibration control underfoot (an 8.5-inch or wider deck, 78A to 87A wheels, cushioned skate shoes, and supportive insoles).
 
-## Helmets: no compromise here
+After two decades away from a board, tissue elasticity and bone recovery timelines are different from what they were at twenty. Choosing equipment matched to an older body lets you build session volume without unnecessary joint irritation.
 
-A skateboard-specific helmet certified to ASTM F1492 — the one standard that tests repeated hits on the same spot — ideally dual-certified with your regional standard. CPSC (US), EN 1078 (UK/EU) and AS/NZS 2063 (Australia) each test a single impact per site; EN 1078 and AS/NZS 2063 do cover skateboarding and are the applicable standards where they apply, so look for F1492 alongside them rather than instead of them. Multi-impact foam (EPS + EPP) absorbs the ordinary bumps of regular skating without needing replacement after each one, but a real head impact still means retiring the helmet regardless of certification.
+## Protective equipment that matches how older skaters fall
 
-If you're skating transition — bowls, ramps — consider a full-face helmet for the sessions where speed is involved.
+### Multi-impact skateboard helmets (ASTM F1492)
+Look for a skateboard-specific helmet certified to ASTM F1492, the standard that tests repeated lower-force impacts across multiple spots on the shell, ideally dual-certified with your regional bicycle/skate standard. CPSC (US), EN 1078 (UK/EU), and AS/NZS 2063 (Australia) test single catastrophic impacts and remain the baseline legal standards in their regions, so pair F1492 alongside them. Multi-impact foam absorbs the smaller knocks of learning transition without needing immediate replacement after every bump, though any hard head strike still requires retiring the helmet. See our [helmet certification guide](/blog/how-to-choose-a-skateboard-helmet/) for fit checks.
 
-## Wrist guards: your most important purchase
+### Dual-splint wrist guards
+Catching yourself with an outstretched hand is the hardest reflex to unlearn, and distal radius fractures are among the most common acute skateboarding injuries in older age brackets. [Wrist guards with rigid top and bottom splints](/blog/wrist-guards-for-adult-skaters/) hold the wrist in neutral alignment and let the palm plate slide across concrete instead of jamming the joint on impact.
 
-Adults fall on their wrists. It's the instinct that's hardest to train out. A broken wrist takes six to eight weeks to heal, and that's the fast version. Good wrist guards with a rigid splint are the single item most likely to prevent a trip-ending injury.
+### Hard-cap knee pads and elbow pads
+Slim sleeve pads fit under trousers for flatground cruising, where falls are usually low-speed stumbles. If you skate bowls, mini ramps, or any transition terrain, step up to thick knee pads with replaceable hard plastic caps. Hard caps let you drop to your knees and slide out of a bail on wood or concrete rather than absorbing the drop directly through the patella.
 
-## Knee pads: different choices for different skating
+### Padded impact shorts for skaters in their 50s, 60s, and retirement
+The slam that catches many older beginners off guard is the sideways hip drop when a board shoots out on a slick transition or kickturn. [Impact shorts worn under trousers](/blog/impact-shorts-hip-protectors-for-adult-skaters/) place high-density foam over the greater trochanter and tailbone. For retirees and anyone concerned about bone density (covered in our [osteoporosis and bone density guide](/blog/osteoporosis-bone-density-skateboarding/)), hip protection is worth treating as standard kit alongside a helmet and wrist guards.
 
-Slim, form-fitting pads work for street and park skating where you want to maintain feel. Thick cup pads — the kind with hard plastic caps — are what you want if you're learning to fall on transition (ramps, bowls). They let you slide out of falls rather than taking impact.
+## Board setup choices that reduce joint load
 
-## Board width and deck choice
+### Deck width: 8.5 inches and wider
+Most older skaters feel noticeably more stable on a deck measuring 8.5 to 9.0 inches wide. The narrower 7.75-inch and 8.0-inch boards common in technical street skating were sized for flip tricks. A wider platform gives your feet room to settle without hanging over the rails and makes heel-to-toe weight shifts more predictable while carving. If you are starting from scratch in your 60s, pair this setup with the pacing advice in [how to start skateboarding in your 60s](/blog/how-to-start-skateboarding-in-your-60s/).
 
-Most adults over 40 will be more comfortable on a deck 8.5" or wider. The stability is worth it, especially while you're rebuilding confidence. The narrower 7.75" decks common in street skating were designed for technical tricks — not for the carving and mellow park skating that suits most returning adults.
+### Softer wheels (78A to 87A) for vibration damping
+Wheel durometer does more to cut high-frequency vibration from rough asphalt and crusty concrete than any knee sleeve. Stepping down from standard 99A street wheels to 78A through 87A cruiser or hybrid wheels (around 54mm to 58mm in diameter, with a 1/8-inch riser pad if needed to prevent wheel bite) immediately reduces the chatter transmitted through your ankles, knees, and lower back.
 
-## Wheels for bad knees
+### Cushioned skate shoes and structured insoles
+Traditional vulcanized skate shoes use thin, flat rubber soles to maximize board feel, leaving only a few millimeters of rubber between your heel and the pavement. Because heel fat pads thin with age and arches tend to flatten under load, thin soles often trigger plantar fascia and knee soreness after a few sessions.
 
-Soft wheels (78a–87a) do more to absorb vibration from rough pavement than any shoe insole or knee brace. If your knees feel it after every session, this is the first variable to change. The difference between skating on 99a hardwheels and 85a soft wheels on a slightly rough surface is immediately noticeable in your knees.
-
-## Shoes with real cushioning
-
-Skating-specific shoes are built with flat soles for board feel, which sounds great until you're skating three times a week in your late 40s and your heels start aching. Consider adding an aftermarket insole with heel cushioning. Nike SB, Vans Pro, and Emerica all make models with decent built-in cushioning, but even those benefit from a Superfeet or Spenco insole.
-
-## Insoles
-
-The gear upgrade returning adult skaters most commonly overlook. Skating on hard surfaces transfers a lot of impact through your heel up to your knees and hips. A proper sport insole — not a drugstore one — runs $40–60 and changes how your knees feel after a session.
+Choose cupsole skate shoes or models with dedicated impact midsoles (covered in our [skate shoe guide for older skaters](/blog/skate-shoes-for-adults-over-40/)), and swap the thin factory sockliner for a structured sport insole such as Superfeet Blue or Green, Spenco Polysorb, or a heat-moldable footbed. A supportive heel cup and arch contour cost $35 to $75 and can move from one pair of skate shoes to the next when the uppers wear out.
