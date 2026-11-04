@@ -64,3 +64,40 @@ AI drafting models fall into repetitive structural defaults. Every blog post mus
    * Cut staged run-ups (*"Here's what you need to know"*, *"Let's dive in"*, *"Honestly?"*).
 6. **No dramatic fragments or one-line closers**: Cut one-line summary sentences that repeat the point just made (*"That is the real win."*, *"The message was clear."*).
 7. **No templated conclusions**: Do not give every post a sports recap followed by three bold lessons and an inspirational send-off. End on the last concrete fact or practical choice.
+
+---
+
+## 4. Search & SEO Alignment: GSC Data & Google Trends Integration
+
+Editorial planning and drafting must be grounded in real search demand and structured for search discoverability.
+
+### A. Google Search Console (GSC) Feedback Loop
+* **Target High-Impression, Low-CTR Gaps**: Regularly audit GSC query and page data. Pages ranking on page 1–2 (positions 4–15) with high impressions but low click-through rates (<2%) are high-priority candidates for title, description, and introductory snippet optimization—not for writing competing duplicate posts.
+* **Cannibalization Prevention**: Never draft a new article on a topic or primary query already claimed by an existing post. Running `node scripts/check-duplicate-posts.mjs --audit` is required before drafting. If multiple pages compete for the same query, consolidate the existing URLs rather than fragmenting authority.
+* **Subheading Query Alignment**: Structure H2s and H3s around real search queries extracted from GSC (e.g., *"Is skateboarding bad for lower back pain?"*, *"What hardness wheels for rough asphalt?"*).
+
+### B. Google Trends & Search Demand Validation
+* **Seasonal Synchronization**: Align editorial topics with predictable search curve cycles:
+  * *Spring (March–May)*: Comeback planning, beginner trick ladders, gear setups, conditioning.
+  * *Summer (June–August)*: Dawn patrol, outdoor parks, session heat management, hydration.
+  * *Autumn (September–October)*: Weather hazards, wet ground, leaf slickness, protective gear.
+  * *Winter (November–February)*: Indoor parks, pump tracks, balance boards, prehab/strength maintenance.
+* **Search Phrasing vs. Copy Standards**: While user-facing copy strictly uses "older skaters", searchers frequently query Google using terms like *"skateboarding after 40"* or *"skateboarding over 50"*. Mirror these natural search phrases in metadata, headings, and introductory text where appropriate without compromising site copy rules.
+
+### C. On-Page SEO Best Practices
+* **Title (Frontmatter `title`)**:
+  * Character limit: Maximum 80 characters (schema enforced); optimal display length is 50–60 characters.
+  * Front-load the primary search entity or query.
+  * Offer a clear angle or benefit rather than generic clickbait.
+* **Meta Description (Frontmatter `description`)**:
+  * Character limit: 50–165 characters (schema enforced); optimal length is 140–155 characters.
+  * Directly summarize the answer or value proposition. A searcher should know exactly what the article answers from the SERP snippet.
+* **First-Paragraph Answer (AEO / Featured Snippets)**:
+  * Provide a clear, direct answer to the core question within the first 1–2 paragraphs before expanding into nuanced advice.
+* **Semantic Hierarchy**:
+  * One H1 (the page title).
+  * H2s represent major topical pillars or user sub-questions.
+  * H3s represent granular steps, equipment items, or clinical breakdowns. Never skip heading levels.
+* **Internal Reciprocal Links**:
+  * Every new post must link to 2–3 existing related guides or directory resources (parks, core shops, community groups).
+  * When publishing, identify 1–2 older relevant articles and add reciprocal links pointing forward to the new post.
