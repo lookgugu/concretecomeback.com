@@ -11,6 +11,7 @@ npm run preview    # serve dist/ locally
 npm test           # node --test over the submit-function, form and newsletter unit tests
 npx astro check    # TypeScript/Astro diagnostics
 npm run newsletter:draft -- --out <dir>   # weekly newsletter draft (live GETs; never sends)
+python3 scripts/social/post-blog-to-social.py --max-posts 1  # repurpose next unposted live blog post to Instagram & X via PostEverywhere
 ```
 
 `astro check` and `npm test` are deliberately not part of `npm run build` — CI runs them as separate steps. To run a single test file: `node --test src/scripts/submit-form.test.js`. There is no linter.
