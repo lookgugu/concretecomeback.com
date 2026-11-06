@@ -930,7 +930,11 @@ def main() -> int:
                 "title": meta.get("title"),
                 "platforms": merged_platforms,
             }
-            partial_map.pop(slug, None)
+            rem_partial = partial_map.get(slug, {})
+            for k in platform_outcomes:
+                rem_partial.pop(k, None)
+            if not rem_partial:
+                partial_map.pop(slug, None)
             save_state(state)
 
         run_results.append({
