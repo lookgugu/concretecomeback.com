@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-11-06T19:29:32.638Z
+# Date: 2026-11-06T19:39:44.473Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -882,7 +882,7 @@ If you skate outdoor concrete parks through late autumn and winter, swap 99A to 
 Do not try to warm up by standing around at the coping in a heavy coat. Run through five minutes of dynamic ankle circles, calf raises, bodyweight squats, and hip openers from our [10-minute warm-up routine](/blog/warm-up-routine-for-adult-skaters/) in your living room before you leave, or walk briskly for five minutes on arrival so your ankles and knees are warm before your back foot touches the tail.
 
 ### Dress in thin windproof layers, not one bulky parka
-A heavy winter coat shifts your center of mass and restricts shoulder rotation during kickturns. Layer a thermal base, a light fleece, and a thin windbreaker shell over your elbow pads so you can shed a layer ten minutes into pushing without losing upper-body mobility.
+A heavy winter coat shifts your center of mass and restricts shoulder rotation during kickturns. Layer a thermal base, a light fleece, and a thin windbreaker shell over your elbow pads so you can shed a layer ten minutes into pushing without losing upper-body mobility. When freezing rain shuts outdoor concrete down completely, shift to [an indoor wood skatepark](/blog/indoor-skateparks-wood-ramps-grip-session-timing/) or keep your ankle proprioception sharp at home with [targeted off-board balance work](/blog/balance-boards-transfer-to-skateboarding/).
 
 
 ### Collagen Peptides for Tendon Recovery: A Skater's Practical Protocol
@@ -3285,7 +3285,7 @@ This is the classic symmetrical shape with a upturned kick nose and tail, standa
 A popsicle deck is the right tool for [skateparks](/directory/parks/), including mellow bowls, mini ramps, banks, pump tracks, and smooth flatground. Older returners sometimes assume a popsicle deck is only for flip tricks down stairs. In practice, it is the universal park board. Look around any Sunday morning older-skater session and almost everyone carving the bowl or rolling the transitions is riding an 8.5-inch to 9.0-inch popsicle or shaped park deck.
 
 ### How to set one up in your 40s or 50s
-Skip the narrow 7.75-inch decks and rock-hard 101A wheels. As our [first board setup guide](/blog/first-board-setup-guide/) explains, most older skaters feel far more planted on an 8.5-inch or wider deck. Pair it with 92A to 97A hybrid wheels if you split time between smooth concrete parks and slightly rough car parks, or 78A to 87A wheels if you only roll rough asphalt.
+Skip the narrow 7.75-inch decks and rock-hard 101A wheels. As our [board size guide](/blog/what-board-size-for-adults/) explains, most older skaters feel far more planted on an 8.5-inch or wider deck. Pair it with [92A to 97A hybrid wheels](/blog/wheel-hardness-guide-for-adult-skaters/) if you split time between smooth concrete parks and slightly rough car parks, or 78A to 87A wheels if you only roll rough asphalt.
 
 ## The cruiser skateboard
 
@@ -4577,7 +4577,7 @@ A slightly softer, forgiving arch and forefoot cushion option at a lower price p
 
 ## Matching the shoe to your skating style
 
-For mellow transition, bowls, and park sessions, a supportive cupsole such as the Etnies Marana, New Balance Numeric 1010, or Nike SB Dunk gives your heels and ankles the strongest protection when a run ends in a run-out on concrete. For flatground and neighbourhood cruising where ankle mobility and low weight matter most, a Vans Skate Half Cab or New Balance Numeric 440 with a supportive insole balances board feel with joint comfort.
+For mellow transition, bowls, and park sessions, a supportive cupsole such as the Etnies Marana, New Balance Numeric 1010, or Nike SB Dunk gives your heels and ankles the strongest protection when a run ends in a run-out on concrete, alongside the pads covered in [our guide to gear for aging joints](/blog/gear-for-aging-joints/). For flatground and neighbourhood cruising where ankle mobility and low weight matter most, a Vans Skate Half Cab or New Balance Numeric 440 with a supportive insole balances board feel with joint comfort.
 
 Check the outsole tread under the ball of your pushing foot every couple of months. Once the tread pattern wears smooth into a thin soft spot or the heel collar collapses inward, retire the pair to yard work and move your aftermarket insoles into fresh shoes before plantar heel soreness starts.
 
@@ -4729,7 +4729,7 @@ Hardness is half the equation; the profile of the two urethane pieces is the oth
 Most trucks ship with a cylindrical **barrel** bushing on the bottom (boardside) for stability and a tapered **cone** bushing on the top (roadside) for quick turn initiation. Because the cone has less urethane volume at the narrow end, it offers less resistance when you start leaning.
 
 ### Barrel + Barrel (Double-barrel stability setup)
-If you ride a [wider 8.5-inch to 9.0-inch deck](/blog/first-board-setup-guide/), weigh over 185 pounds, or feel ankle wobble when setting up for a drop-in or rolling transitions, replace the top cone with a second barrel bushing. A double-barrel setup puts more urethane under the top washer, giving you a wider, calmer center point to stand on while keeping a smooth progressive carve once you commit your hips to the turn.
+If you ride a [wider 8.5-inch to 9.0-inch deck](/blog/what-board-size-for-adults/), weigh over 185 pounds, or feel ankle wobble when setting up for a drop-in or rolling transitions, replace the top cone with a second barrel bushing. A double-barrel setup puts more urethane under the top washer, giving you a wider, calmer center point to stand on while keeping a smooth progressive carve once you commit your hips to the turn.
 
 ### Flat washers vs. cup washers
 Cupped metal washers wrap around the top edge of the bushing and restrict how far it can deform, increasing stability at the end of a turn. Flat washers let the bushing flare freely for a deeper turn radius. If a new set of medium-hard bushings feels just slightly too restrictive, swapping the top cup washer for a flat washer opens up the turn without dropping a full durometer grade.
@@ -4738,7 +4738,7 @@ Cupped metal washers wrap around the top edge of the bushing and restrict how fa
 
 When you pick up new bushings at a [core skate shop](/directory/shops/), check that the bushing height matches your truck brand. Independent, Ace, and Venture use standard height bushings, while Thunder trucks and low-geometry trucks use slightly shorter cushions; forcing a tall bushing onto a short kingpin leaves the nylon lock ring unengaged.
 
-Tighten the new kingpin nut until it sits flush with the top of the kingpin bolt and no urethane is bulging over the washer lip. New bushings always feel slightly stiff for the first twenty minutes as the urethane seats into the hanger pocket. Skate two short flatground sessions before adding a quarter-turn of tension, and add a 1/8-inch riser pad if you run wheels 56mm or larger so your bushings can do their job without wheel bite.
+Tighten the new kingpin nut until it sits flush with the top of the kingpin bolt and no urethane is bulging over the washer lip. New bushings always feel slightly stiff for the first twenty minutes as the urethane seats into the hanger pocket. Skate two short flatground sessions before adding a quarter-turn of tension, and add a 1/8-inch riser pad if you run [wheels 56mm or larger](/blog/wheel-hardness-guide-for-adult-skaters/) so your bushings can do their job without wheel bite.
 
 
 ### Skateboarding Might Be the Best Thing You Do for Your Brain After 40

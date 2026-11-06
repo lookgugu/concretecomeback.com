@@ -169,8 +169,113 @@ def load_corpus(blog_dir: Path) -> list[dict]:
             "tags": tags,
             "slug_tokens": tokenize(slug),
             "title_tokens": tokenize(title),
+            "tag_tokens": tokenize(" ".join(tags)),
+            "raw_body": raw,
         })
     return posts
+
+
+def suggest_cross_links(candidate_text: str, corpus: list[dict], limit: int = 6, exclude_slug: str | None = None) -> list[dict]:
+    cand_tokens = tokenize(candidate_text)
+    scored = []
+    for post in corpus:
+        if exclude_slug and post["slug"] == exclude_slug:
+            continue
+        if post["slug_tokens"] == cand_tokens:
+            continue
+        st = jaccard(cand_tokens, post["slug_tokens"])
+        tt = jaccard(cand_tokens, post["title_tokens"])
+        gt = jaccard(cand_tokens, post.get("tag_tokens", set()))
+        combined = max(st, tt) + (0.35 * gt)
+        if combined > 0:
+            scored.append((combined, post))
+    scored.sort(key=lambda x: (x[0], x[1]["pubDate"]), reverse=True)
+    results = []
+    for score, post in scored[:limit]:
+        slug = post["slug"]
+        title = post["title"]
+        results.append({
+            "slug": slug,
+            "url": f"/blog/{slug}/",
+            "title": title,
+            "author": post["author"],
+            "tags": post["tags"],
+            "relevance_score": round(score, 2),
+            "markdown": f"[{title}](/blog/{slug}/)",
+        })
+    return results
+
+
+def verify_post_cross_links(file_paths: list[str], corpus: list[dict], min_blog_links: int = 2) -> tuple[bool, dict]:
+    blog_slugs = {p["slug"] for p in corpus}
+    report = {}
+    all_ok = True
+    for fp in file_paths:
+        path = Path(fp)
+        if not path.is_absolute():
+            path = (REPO_ROOT / path).resolve()
+        if not path.exists():
+            all_ok = False
+            report[fp] = {"ok": False, "error": "File does not exist"}
+            continue
+        raw = path.read_text(encoding="utf-8")
+        self_slug = path.stem
+        blog_links: list[str] = []
+        dir_links: list[str] = []
+        broken_links: list[dict] = []
+        for m in re.finditer(r"\]\((/[^)#\s]+)", raw):
+            url = m.group(1)
+            if url.startswith("/blog/"):
+                parts = url.strip("/").split("/")
+                if len(parts) >= 2 and not parts[1].isdigit():
+                    target_slug = parts[1]
+                    if target_slug == self_slug:
+                        continue
+                    if target_slug in blog_slugs:
+                        if target_slug not in blog_links:
+                            blog_links.append(target_slug)
+                    else:
+                        suggestions = [s["url"] for s in suggest_cross_links(target_slug, corpus, limit=3)]
+                        broken_links.append({"url": url, "type": "blog", "closest_valid": suggestions})
+            elif url.startswith("/directory/"):
+                parts = url.strip("/").split("/")
+                if len(parts) >= 4:
+                    col, country, dslug = parts[1], parts[2], parts[3]
+                    md_target = REPO_ROOT / "src" / "content" / col / country / f"{dslug}.md"
+                    if md_target.exists():
+                        if url not in dir_links:
+                            dir_links.append(url)
+                    else:
+                        broken_links.append({"url": url, "type": "directory"})
+                else:
+                    if url not in dir_links:
+                        dir_links.append(url)
+        has_enough = len(blog_links) >= min_blog_links
+        post_ok = (len(broken_links) == 0) and has_enough
+        if not post_ok:
+            all_ok = False
+        title_m = re.search(r'^title:\s*["\']?(.+?)["\']?\s*$', raw, re.M)
+        tags_m = re.search(r'^tags:\s*\[(.*?)\]', raw, re.M)
+        search_seed = f"{self_slug} {title_m.group(1) if title_m else ''} {tags_m.group(1) if tags_m else ''}"
+        suggested = [
+            s for s in suggest_cross_links(search_seed, corpus, limit=6, exclude_slug=self_slug)
+            if s["slug"] not in blog_links
+        ]
+        inbound_backlinks = [
+            p["slug"] for p in corpus
+            if p["slug"] != self_slug and f"/blog/{self_slug}" in p.get("raw_body", "")
+        ]
+        report[str(path.relative_to(REPO_ROOT))] = {
+            "ok": post_ok,
+            "verified_blog_cross_links": [f"/blog/{s}/" for s in blog_links],
+            "blog_cross_link_count": len(blog_links),
+            "min_blog_links_required": min_blog_links,
+            "verified_directory_links": dir_links,
+            "broken_internal_links": broken_links,
+            "inbound_blog_backlinks": [f"/blog/{s}/" for s in inbound_backlinks],
+            "suggested_blog_cross_links_to_add_or_backlink": suggested[:5],
+        }
+    return all_ok, report
 
 
 def check_overlap(candidate_text: str, corpus: list[dict]) -> dict:
@@ -198,6 +303,7 @@ def check_overlap(candidate_text: str, corpus: list[dict]) -> dict:
         "max_similarity": round(best_score, 2),
         "closest_slug": best_match,
         "overlapping_posts": overlaps[:5],
+        "suggested_cross_links": suggest_cross_links(candidate_text, corpus, limit=6),
     }
 
 
@@ -728,7 +834,10 @@ def main() -> int:
     parser.add_argument("--scorecard", default=DEFAULT_SCORECARD, help="Path to GA4 scorecard.json")
     parser.add_argument("--out", default=DEFAULT_OUT, help="Private output directory outside repo")
     parser.add_argument("--seed", action="append", default=[], help="Extra Google Autocomplete/Trends seed query")
-    parser.add_argument("--check-topic", action="append", default=[], help="Check specific topic title(s) against corpus")
+    parser.add_argument("--check-topic", action="append", default=[], help="Check specific topic title(s) against corpus and output suggested internal blog cross-links")
+    parser.add_argument("--suggest-links", action="append", default=[], help="Suggest verified internal /blog/<slug>/ cross-links for a topic or tag query")
+    parser.add_argument("--verify-links", nargs="*", help="Verify internal /blog/ and /directory/ cross-links in the given markdown files (or pass no paths to check all blog posts)")
+    parser.add_argument("--min-blog-links", type=int, default=2, help="Minimum number of verified /blog/<slug>/ cross-links required per post (default: 2)")
     parser.add_argument("--stdout-md", action="store_true", help="Print Markdown summary to stdout")
     args = parser.parse_args()
 
@@ -736,6 +845,17 @@ def main() -> int:
     validate_safe_out(out_dir)
 
     corpus = load_corpus(BLOG_DIR)
+
+    if args.suggest_links:
+        results = {q: suggest_cross_links(q, corpus, limit=8) for q in args.suggest_links}
+        print(json.dumps(results, indent=2))
+        return 0
+
+    if args.verify_links is not None:
+        targets = args.verify_links or [str(p) for p in sorted(BLOG_DIR.glob("*.md"))]
+        ok, link_report = verify_post_cross_links(targets, corpus, min_blog_links=args.min_blog_links)
+        print(json.dumps({"all_ok": ok, "posts": link_report}, indent=2))
+        return 0 if ok else 1
 
     if args.check_topic:
         results = {}

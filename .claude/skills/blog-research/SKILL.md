@@ -72,14 +72,18 @@ For each candidate topic, confirm:
 
 ---
 
-### Step 3: Check for Cannibalization Before Pitching or Drafting
-Every proposed title and slug **must** pass both the candidate overlap checker and the repository's duplicate-post script:
+### Step 3: Check for Cannibalization & Discover Cross-Link Targets
+Every proposed title and slug **must** pass both the candidate overlap checker and the repository's duplicate-post script. `--check-topic` also returns `suggested_cross_links`: the top related existing `/blog/<slug>/` posts on our site with exact verified URLs and copy-pasteable Markdown links.
 
 ```bash
-# Test proposed titles or slugs against the 151+ post corpus
+# Test proposed titles or slugs against the corpus AND get verified /blog/<slug>/ cross-link targets
 python3 .claude/skills/blog-research/scripts/discover_topics.py \
   --check-topic "Your Proposed Title Here" \
   --check-topic "your-proposed-slug-here"
+
+# Or query suggested cross-links directly by topic or tag
+python3 .claude/skills/blog-research/scripts/discover_topics.py \
+  --suggest-links "transition mini ramp bowl"
 
 # Run the repo's duplicate-post audit
 node scripts/check-duplicate-posts.mjs --audit
@@ -102,13 +106,25 @@ When presenting researched blog topics to the user (or selecting a batch to draf
 | **Evidence Signal** | Cite the on-site GA4 engagement trend, GSC query/impression gap, or seasonal Google Trends/Autocomplete demand |
 | **Verified Source(s)** | Named study, official event record, or technical specification verified during research |
 | **Corpus Overlap** | Closest existing slug + Jaccard similarity score (`< 0.34` required for new posts) |
-| **Internal Links** | 2–3 existing blog posts or `/directory/{parks,shops,groups}/` entries to cross-link |
+| **Blog Cross-Links (Outbound & Reciprocal)** | At least **3 verified existing `/blog/<slug>/` posts** to link to inside the article + **1–2 existing `/blog/<slug>/` posts** that will be updated to link *back* to the new post + **1–2 `/directory/*` links** |
 
 ---
 
-## 3. Handoff to Writing (`author-voices` & `humanizer`)
+## 3. Handoff to Writing & Mandatory Blog Cross-Linking (`author-voices` & `humanizer`)
 
 When moving from topic selection to drafting or refreshing a post:
 1. Follow **`author-voices`** (`docs/AUTHOR-VOICES.md` / `/home/beno/.gemini/config/skills/author-voices/SKILL.md`) for persona perspective, structure, on-page SEO (meta description 50–165 chars, direct answer in paragraph 1, clean H2/H3 hierarchy), and the 7-point Anti-AI Slop Rubric.
-2. Run a **`humanizer`** pass (`/home/beno/.gemini/config/skills/humanizer/SKILL.md`) to eliminate em dashes (`—`), `"not X, but Y"` contrasts, bold-label listicles, and crutch words.
-3. Validate with `node scripts/check-duplicate-posts.mjs`, `npx astro check`, `npm test`, and `npm run build`.
+2. **Enforce Bidirectional Blog Cross-Linking (Never Guess a Slug):**
+   - **Outbound Blog Cross-Links (`>= 3` per post):** Every new or refreshed blog post **must** link to **at least 3 other published blog posts on our site** (`/blog/<slug>/`) using natural, descriptive anchor text, plus 1–2 relevant `/directory/{parks,shops,groups}/<country>/<slug>` entries where appropriate.
+   - **Reciprocal Inbound Cross-Links (No Orphan Posts):** Whenever you create a new blog post `/blog/<new-slug>/`, also edit **at least 1–2 related existing blog posts** in `src/content/blog/` to add a natural contextual cross-link pointing *to* `/blog/<new-slug>/`.
+   - **Never Guess Slugs from Memory:** Only use exact `/blog/<slug>/` URLs returned by `discover_topics.py --check-topic` or `--suggest-links`.
+3. Run a **`humanizer`** pass (`/home/beno/.gemini/config/skills/humanizer/SKILL.md`) to eliminate em dashes (`—`), `"not X, but Y"` contrasts, bold-label listicles, and crutch words.
+4. **Verify Cross-Links & Build:**
+   ```bash
+   # Verify every touched post has >= 3 valid /blog/<slug>/ cross-links and 0 broken internal links
+   python3 .claude/skills/blog-research/scripts/discover_topics.py \
+     --verify-links src/content/blog/<your-post>.md --min-blog-links 3
+
+   # Run full validation suite
+   node scripts/check-duplicate-posts.mjs && npx astro check && npm test && npm run build
+   ```

@@ -66,6 +66,6 @@ A slightly softer, forgiving arch and forefoot cushion option at a lower price p
 
 ## Matching the shoe to your skating style
 
-For mellow transition, bowls, and park sessions, a supportive cupsole such as the Etnies Marana, New Balance Numeric 1010, or Nike SB Dunk gives your heels and ankles the strongest protection when a run ends in a run-out on concrete. For flatground and neighbourhood cruising where ankle mobility and low weight matter most, a Vans Skate Half Cab or New Balance Numeric 440 with a supportive insole balances board feel with joint comfort.
+For mellow transition, bowls, and park sessions, a supportive cupsole such as the Etnies Marana, New Balance Numeric 1010, or Nike SB Dunk gives your heels and ankles the strongest protection when a run ends in a run-out on concrete, alongside the pads covered in [our guide to gear for aging joints](/blog/gear-for-aging-joints/). For flatground and neighbourhood cruising where ankle mobility and low weight matter most, a Vans Skate Half Cab or New Balance Numeric 440 with a supportive insole balances board feel with joint comfort.
 
 Check the outsole tread under the ball of your pushing foot every couple of months. Once the tread pattern wears smooth into a thin soft spot or the heel collar collapses inward, retire the pair to yard work and move your aftermarket insoles into fresh shoes before plantar heel soreness starts.
