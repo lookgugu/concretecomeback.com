@@ -10,7 +10,7 @@ featured: false
 draft: false
 ---
 
-Walk into a skate shop after twenty years off a board and the conversation almost always starts and ends with deck width: 8.25 inches vs 8.5 inches vs a wider shaped reissue. Almost nobody flips the spec tag over to check the **wheelbase**, the distance between the inner mounting holes of the front and back trucks. For an older skater over 40, a half-inch difference in wheelbase (say, 14.0 inches versus 14.5 or 15.0 inches) changes your stance width, knee flexion angle, turning radius, and transition stability far more than a quarter-inch of maple on the rails.
+Walk into a skate shop after twenty years off a board and the conversation almost always starts and ends with [choosing your deck width](/blog/what-board-size-for-adults/): 8.25 inches vs 8.5 inches vs a wider shaped reissue. Almost nobody flips the spec tag over to check the **wheelbase**, the distance between the inner mounting holes of the front and back trucks. For an older skater over 40, a half-inch difference in wheelbase (say, 14.0 inches versus 14.5 or 15.0 inches) changes your stance width, knee flexion angle, turning radius, and transition stability far more than a quarter-inch of maple on the rails.
 
 ## What skateboard wheelbase actually measures
 
@@ -44,7 +44,7 @@ If you place your front foot behind the front bolts and your back foot in the po
 
 To get a comfortable shoulder-width stance on a short wheelbase, taller skaters unconsciously slide their front foot all the way over the front four mounting bolts toward the nose kick. That feels fine rolling on flat ground, but the moment you hit a transition wall or roll off a ledge, your front foot is standing ahead of the front axle pivot point, making the nose want to dive or hang up on coping.
 
-Matching wheelbase to your inseam and height solves both problems. Skaters under 5'8" or focused purely on low-speed flatground flip tricks usually feel at home on a **14.0" to 14.25"** wheelbase. Skaters between 5'8" and 6'0" riding a mix of curbs, mini ramps, and park transitions generally settle happiest around **14.25" to 14.5"**. Anyone over 6'0", or anyone spending 80% of their session carving bowls and pump tracks, will almost always feel more planted on **14.5" to 15.0"**.
+Matching wheelbase to your inseam and height solves both problems. Skaters under 5'8" or focused purely on low-speed flatground flip tricks usually feel at home on a **14.0" to 14.25"** wheelbase. Skaters between 5'8" and 6'0" riding a mix of curbs, mini ramps, and park transitions generally settle happiest around **14.25" to 14.5"**. Anyone over 6'0", or anyone spending 80% of their session [pumping mini ramps and bowls](/blog/how-to-pump-mini-ramp-bowl-without-dropping-in/), will almost always feel more planted on **14.5" to 15.0"**.
 
 ## How your trucks secretly lengthen or shorten your wheelbase
 

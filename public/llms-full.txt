@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-11-06T19:24:26.142Z
+# Date: 2026-11-06T20:00:06.005Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -2319,7 +2319,7 @@ One of the most stubborn myths in skatepark culture is that you cannot skate a m
 
 Dropping in dumps you at maximum speed into the bottom pocket of a transition before your ankles, knees, and vestibular system have calibrated to that ramp's specific curve. When you start on the flat bottom instead, every inch of height you gain on the wall is height you generated yourself, which means your speed never exceeds what your posture is ready to handle.
 
-You also skip the psychological freeze at the coping. At historic transition parks like [Kona Skatepark in Jacksonville](/directory/parks/us/kona-skatepark-jacksonville-fl), where mellow concrete banks and snake-run walls blend into deeper bowls, or indoor beginner transitions like the birch-ply mini ramp at [Campus Pool Skatepark in Bristol](/directory/parks/uk/campus-pool-skatepark-bristol), starting from the bottom lets you take twenty productive runs in the time it would take to talk yourself into one nervous drop-in.
+You also skip the psychological freeze at the coping. At historic transition parks like [Kona Skatepark in Jacksonville](/directory/parks/us/kona-skatepark-jacksonville-fl), where mellow concrete banks and snake-run walls blend into deeper bowls, or indoor beginner transitions like the birch-ply mini ramp at [Campus Pool Skatepark in Bristol](/directory/parks/uk/campus-pool-skatepark-bristol) (or even [a backyard mini ramp](/blog/building-a-backyard-mini-ramp/)), starting from the bottom lets you take twenty productive runs in the time it would take to talk yourself into one nervous drop-in. Having a stable [14.25-inch to 14.75-inch wheelbase](/blog/skateboard-wheelbase-deck-length-stance-guide/) under your feet makes those early transition runs feel even calmer.
 
 ## The mechanics of a transition pump: two pumps per wall
 
@@ -3319,7 +3319,7 @@ When the gluteus maximus and hamstrings are under-conditioned, the lumbar extens
 
 ## Modifying your terrain while you build capacity
 
-If your soreness is purely mechanical and free of red-flag or nerve symptoms, you rarely need to put the board away altogether. Shift for a few weeks toward mellow flatground rolling, wider carving turns, and shorter sessions where you are not locked in a deep crouch or absorbing repeated drop-in impacts. Pair that lighter riding load with [post-session recovery habits](/blog/recovery-guide-for-adult-skaters/) so your hips and trunk catch up to what your skating asks of them.
+If your soreness is purely mechanical and free of red-flag or nerve symptoms, you rarely need to put the board away altogether. Shift for a few weeks toward mellow flatground rolling, wider carving turns, and shorter sessions where you are not locked in a deep crouch or absorbing repeated drop-in impacts. Pair that lighter riding load with [post-session recovery habits](/blog/recovery-guide-for-adult-skaters/) and [proper foot and heel load management](/blog/plantar-fasciitis-heel-bruising-skateboarding/) so your lower body and trunk catch up to what your skating asks of them.
 
 
 ### Lower-Consequence Practice: Gradual Skill Progressions for Older Skaters
@@ -4729,7 +4729,7 @@ Don't try to replace your commute on day one. Pick a single short, low-stakes er
 ### Skateboard Wheelbase and Deck Length Guide for Older Skaters
 Why skateboard wheelbase (14.0 to 15.0 inches) and truck geometry matter as much as deck width for older skaters' knee comfort, stability, and pop.
 
-Walk into a skate shop after twenty years off a board and the conversation almost always starts and ends with deck width: 8.25 inches vs 8.5 inches vs a wider shaped reissue. Almost nobody flips the spec tag over to check the **wheelbase**, the distance between the inner mounting holes of the front and back trucks. For an older skater over 40, a half-inch difference in wheelbase (say, 14.0 inches versus 14.5 or 15.0 inches) changes your stance width, knee flexion angle, turning radius, and transition stability far more than a quarter-inch of maple on the rails.
+Walk into a skate shop after twenty years off a board and the conversation almost always starts and ends with [choosing your deck width](/blog/what-board-size-for-adults/): 8.25 inches vs 8.5 inches vs a wider shaped reissue. Almost nobody flips the spec tag over to check the **wheelbase**, the distance between the inner mounting holes of the front and back trucks. For an older skater over 40, a half-inch difference in wheelbase (say, 14.0 inches versus 14.5 or 15.0 inches) changes your stance width, knee flexion angle, turning radius, and transition stability far more than a quarter-inch of maple on the rails.
 
 ## What skateboard wheelbase actually measures
 
@@ -4763,7 +4763,7 @@ If you place your front foot behind the front bolts and your back foot in the po
 
 To get a comfortable shoulder-width stance on a short wheelbase, taller skaters unconsciously slide their front foot all the way over the front four mounting bolts toward the nose kick. That feels fine rolling on flat ground, but the moment you hit a transition wall or roll off a ledge, your front foot is standing ahead of the front axle pivot point, making the nose want to dive or hang up on coping.
 
-Matching wheelbase to your inseam and height solves both problems. Skaters under 5'8" or focused purely on low-speed flatground flip tricks usually feel at home on a **14.0" to 14.25"** wheelbase. Skaters between 5'8" and 6'0" riding a mix of curbs, mini ramps, and park transitions generally settle happiest around **14.25" to 14.5"**. Anyone over 6'0", or anyone spending 80% of their session carving bowls and pump tracks, will almost always feel more planted on **14.5" to 15.0"**.
+Matching wheelbase to your inseam and height solves both problems. Skaters under 5'8" or focused purely on low-speed flatground flip tricks usually feel at home on a **14.0" to 14.25"** wheelbase. Skaters between 5'8" and 6'0" riding a mix of curbs, mini ramps, and park transitions generally settle happiest around **14.25" to 14.5"**. Anyone over 6'0", or anyone spending 80% of their session [pumping mini ramps and bowls](/blog/how-to-pump-mini-ramp-bowl-without-dropping-in/), will almost always feel more planted on **14.5" to 15.0"**.
 
 ## How your trucks secretly lengthen or shorten your wheelbase
 
