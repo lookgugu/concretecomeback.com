@@ -61,7 +61,7 @@ Because tight hip flexors force the lumbar spine to hyperextend as you come out 
 
 ### 3. Use a dynamic warm-up before crouching into carves
 
-Going straight from a car seat into a deep bowl carve asks cold lumbar facet joints and discs to handle flexion and rotation immediately. Spend five minutes walking briskly, doing gentle cat-cow pelvic tilts, and running through controlled standing hip hinges from [our 10-minute pre-skate warm-up](/blog/10-minute-warm-up-for-older-skaters/) before you drop into a session.
+Going straight from a car seat into a deep bowl carve asks cold lumbar facet joints and discs to handle flexion and rotation immediately. Spend five minutes walking briskly, doing gentle cat-cow pelvic tilts, and running through controlled standing hip hinges from [our 10-minute pre-skate warm-up](/blog/warm-up-routine-for-adult-skaters/) before you drop into a session.
 
 ### 4. Pace your crouch volume inside the session
 

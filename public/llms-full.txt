@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-11-06T19:18:04.239Z
+# Date: 2026-11-06T19:24:26.142Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -2357,7 +2357,7 @@ Your inner ear and shoulders follow your eyes. If you stare straight down at you
 
 ## A 15-minute flat-bottom progression for your next session
 
-Next time you catch a quiet morning window at an outdoor bowl or an indoor wood ramp like [FLUX in Hamden](/directory/parks/us/flux-indoor-skatepark-hamden-ct), run this three-step drill after [your 10-minute warm-up](/blog/10-minute-warm-up-for-older-skaters/):
+Next time you catch a quiet morning window at an outdoor bowl or an indoor wood ramp like [FLUX in Hamden](/directory/parks/us/flux-indoor-skatepark-hamden-ct), run this three-step drill after [your 10-minute warm-up](/blog/warm-up-routine-for-adult-skaters/):
 
 1. **Minutes 1 to 5 (Fakie pendulum pumps):** Step onto the board on the flat bottom, give yourself one small push toward the wall, and pump back and forth between the two walls (forward up one side, fakie up the other) without turning. See if you can go from two feet up the wall to just below the coping in five or six swings using only knee compression and extension.
 2. **Minutes 6 to 10 (Adding the frontside and backside kickturn):** Once you can pump halfway up the wall with steady rhythm, replace the fakie roll on one wall with a smooth kickturn right at the weightless moment at the top of your arc, then pump down out of the turn.
@@ -3307,7 +3307,7 @@ Because tight hip flexors force the lumbar spine to hyperextend as you come out 
 
 ### 3. Use a dynamic warm-up before crouching into carves
 
-Going straight from a car seat into a deep bowl carve asks cold lumbar facet joints and discs to handle flexion and rotation immediately. Spend five minutes walking briskly, doing gentle cat-cow pelvic tilts, and running through controlled standing hip hinges from [our 10-minute pre-skate warm-up](/blog/10-minute-warm-up-for-older-skaters/) before you drop into a session.
+Going straight from a car seat into a deep bowl carve asks cold lumbar facet joints and discs to handle flexion and rotation immediately. Spend five minutes walking briskly, doing gentle cat-cow pelvic tilts, and running through controlled standing hip hinges from [our 10-minute pre-skate warm-up](/blog/warm-up-routine-for-adult-skaters/) before you drop into a session.
 
 ### 4. Pace your crouch volume inside the session
 
@@ -3926,7 +3926,7 @@ Because a calcaneal fat-pad contusion is a compression injury rather than a tens
 
 1. Switch to flat, smooth concrete where you never have to run out a high-speed bail, or take seven to fourteen days off the board until walking barefoot on a hard floor no longer reproduces the stone-bruise pain.
 2. A soft flat foam insert flattens out under bodyweight. A structured insole or silicone heel cup with raised sidewalls gathers the heel's natural adipose tissue underneath the calcaneus so the fat pad cannot splay outward on impact.
-3. Limited ankle bend forces your heel to slap or lift early during a crouch, concentrating pressure on smaller patches of the foot. Pairing foot recovery with [ankle stability and mobility work for older skaters](/blog/ankle-stability-exercises-for-skaters/) and [a proper pre-session warm-up](/blog/10-minute-warm-up-for-older-skaters/) keeps load distributed across the whole foot when you step back on the deck.
+3. Limited ankle bend forces your heel to slap or lift early during a crouch, concentrating pressure on smaller patches of the foot. Pairing foot recovery with [ankle stability and sprain prevention work for older skaters](/blog/ankle-sprains-adult-skaters/) and [a proper pre-session warm-up](/blog/warm-up-routine-for-adult-skaters/) keeps load distributed across the whole foot when you step back on the deck.
 
 
 ### Prehab: Protect Your Skating Joints Before They Break Down
@@ -4785,7 +4785,7 @@ Ace AF1 trucks pull the hangers slightly inward toward the center of the board, 
 
 Most online catalog listings and shop tags print three numbers: **Width x Length x Wheelbase** (for example, `8.38" x 32.125" x 14.375"`). If a brand does not print the wheelbase on the bottom shrink-wrap, bring a small tape measure to your local shop (such as [Westside Skates in Lakewood](/directory/shops/us/westside-skates-lakewood-oh) or [Focus Skate Store in Edinburgh](/directory/shops/uk/focus-skate-store-edinburgh)) and measure from the center of the back-most front truck holes to the center of the front-most rear truck holes.
 
-Once you know the number on your current setup, adjust by a quarter-inch at a time on your next deck replacement. Pairing the right wheelbase with [the right wheel diameter and durometer](/blog/wheel-hardness-durometer-guide-for-adults/) does more to eliminate sketchy speed wobbles and awkward crouches than almost any other equipment tweak.
+Once you know the number on your current setup, adjust by a quarter-inch at a time on your next deck replacement. Pairing the right wheelbase with [the right wheel diameter and durometer](/blog/wheel-hardness-guide-for-adult-skaters/) does more to eliminate sketchy speed wobbles and awkward crouches than almost any other equipment tweak.
 
 
 ### Skateboarding Might Be the Best Thing You Do for Your Brain After 40

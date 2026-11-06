@@ -54,7 +54,7 @@ Your inner ear and shoulders follow your eyes. If you stare straight down at you
 
 ## A 15-minute flat-bottom progression for your next session
 
-Next time you catch a quiet morning window at an outdoor bowl or an indoor wood ramp like [FLUX in Hamden](/directory/parks/us/flux-indoor-skatepark-hamden-ct), run this three-step drill after [your 10-minute warm-up](/blog/10-minute-warm-up-for-older-skaters/):
+Next time you catch a quiet morning window at an outdoor bowl or an indoor wood ramp like [FLUX in Hamden](/directory/parks/us/flux-indoor-skatepark-hamden-ct), run this three-step drill after [your 10-minute warm-up](/blog/warm-up-routine-for-adult-skaters/):
 
 1. **Minutes 1 to 5 (Fakie pendulum pumps):** Step onto the board on the flat bottom, give yourself one small push toward the wall, and pump back and forth between the two walls (forward up one side, fakie up the other) without turning. See if you can go from two feet up the wall to just below the coping in five or six swings using only knee compression and extension.
 2. **Minutes 6 to 10 (Adding the frontside and backside kickturn):** Once you can pump halfway up the wall with steady rhythm, replace the fakie roll on one wall with a smooth kickturn right at the weightless moment at the top of your arc, then pump down out of the turn.
