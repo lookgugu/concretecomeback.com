@@ -52,7 +52,7 @@ Hardness is half the equation; the profile of the two urethane pieces is the oth
 Most trucks ship with a cylindrical **barrel** bushing on the bottom (boardside) for stability and a tapered **cone** bushing on the top (roadside) for quick turn initiation. Because the cone has less urethane volume at the narrow end, it offers less resistance when you start leaning.
 
 ### Barrel + Barrel (Double-barrel stability setup)
-If you ride a [wider 8.5-inch to 9.0-inch deck](/blog/skateboard-deck-width-guide-for-adults/), weigh over 185 pounds, or feel ankle wobble when setting up for a drop-in or rolling transitions, replace the top cone with a second barrel bushing. A double-barrel setup puts more urethane under the top washer, giving you a wider, calmer center point to stand on while keeping a smooth progressive carve once you commit your hips to the turn.
+If you ride a [wider 8.5-inch to 9.0-inch deck](/blog/first-board-setup-guide/), weigh over 185 pounds, or feel ankle wobble when setting up for a drop-in or rolling transitions, replace the top cone with a second barrel bushing. A double-barrel setup puts more urethane under the top washer, giving you a wider, calmer center point to stand on while keeping a smooth progressive carve once you commit your hips to the turn.
 
 ### Flat washers vs. cup washers
 Cupped metal washers wrap around the top edge of the bushing and restrict how far it can deform, increasing stability at the end of a turn. Flat washers let the bushing flare freely for a deeper turn radius. If a new set of medium-hard bushings feels just slightly too restrictive, swapping the top cup washer for a flat washer opens up the turn without dropping a full durometer grade.

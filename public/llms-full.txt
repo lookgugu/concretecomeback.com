@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-11-04T04:12:08.006Z
+# Date: 2026-11-06T19:29:32.638Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -1806,7 +1806,7 @@ After two decades away from a board, tissue elasticity and bone recovery timelin
 ## Protective equipment that matches how older skaters fall
 
 ### Multi-impact skateboard helmets (ASTM F1492)
-Look for a skateboard-specific helmet certified to ASTM F1492, the standard that tests repeated lower-force impacts across multiple spots on the shell, ideally dual-certified with your regional bicycle/skate standard. CPSC (US), EN 1078 (UK/EU), and AS/NZS 2063 (Australia) test single catastrophic impacts and remain the baseline legal standards in their regions, so pair F1492 alongside them. Multi-impact foam absorbs the smaller knocks of learning transition without needing immediate replacement after every bump, though any hard head strike still requires retiring the helmet. See our [helmet certification guide](/blog/how-to-choose-a-skateboard-helmet/) for fit checks.
+Look for a skateboard-specific helmet certified to ASTM F1492, the standard that tests repeated lower-force impacts across multiple spots on the shell, ideally dual-certified with your regional bicycle/skate standard. CPSC (US), EN 1078 (UK/EU), and AS/NZS 2063 (Australia) test single catastrophic impacts and remain the baseline legal standards in their regions, so pair F1492 alongside them. Multi-impact foam absorbs the smaller knocks of learning transition without needing immediate replacement after every bump, though any hard head strike still requires retiring the helmet. See our [safety gear guide](/blog/safety-gear-guide/) for fit checks.
 
 ### Dual-splint wrist guards
 Catching yourself with an outstretched hand is the hardest reflex to unlearn, and distal radius fractures are among the most common acute skateboarding injuries in older age brackets. [Wrist guards with rigid top and bottom splints](/blog/wrist-guards-for-adult-skaters/) hold the wrist in neutral alignment and let the palm plate slide across concrete instead of jamming the joint on impact.
@@ -3285,7 +3285,7 @@ This is the classic symmetrical shape with a upturned kick nose and tail, standa
 A popsicle deck is the right tool for [skateparks](/directory/parks/), including mellow bowls, mini ramps, banks, pump tracks, and smooth flatground. Older returners sometimes assume a popsicle deck is only for flip tricks down stairs. In practice, it is the universal park board. Look around any Sunday morning older-skater session and almost everyone carving the bowl or rolling the transitions is riding an 8.5-inch to 9.0-inch popsicle or shaped park deck.
 
 ### How to set one up in your 40s or 50s
-Skip the narrow 7.75-inch decks and rock-hard 101A wheels. As our [deck width guide](/blog/skateboard-deck-width-guide-for-adults/) explains, most older skaters feel far more planted on an 8.5-inch or wider deck. Pair it with 92A to 97A hybrid wheels if you split time between smooth concrete parks and slightly rough car parks, or 78A to 87A wheels if you only roll rough asphalt.
+Skip the narrow 7.75-inch decks and rock-hard 101A wheels. As our [first board setup guide](/blog/first-board-setup-guide/) explains, most older skaters feel far more planted on an 8.5-inch or wider deck. Pair it with 92A to 97A hybrid wheels if you split time between smooth concrete parks and slightly rough car parks, or 78A to 87A wheels if you only roll rough asphalt.
 
 ## The cruiser skateboard
 
@@ -4729,7 +4729,7 @@ Hardness is half the equation; the profile of the two urethane pieces is the oth
 Most trucks ship with a cylindrical **barrel** bushing on the bottom (boardside) for stability and a tapered **cone** bushing on the top (roadside) for quick turn initiation. Because the cone has less urethane volume at the narrow end, it offers less resistance when you start leaning.
 
 ### Barrel + Barrel (Double-barrel stability setup)
-If you ride a [wider 8.5-inch to 9.0-inch deck](/blog/skateboard-deck-width-guide-for-adults/), weigh over 185 pounds, or feel ankle wobble when setting up for a drop-in or rolling transitions, replace the top cone with a second barrel bushing. A double-barrel setup puts more urethane under the top washer, giving you a wider, calmer center point to stand on while keeping a smooth progressive carve once you commit your hips to the turn.
+If you ride a [wider 8.5-inch to 9.0-inch deck](/blog/first-board-setup-guide/), weigh over 185 pounds, or feel ankle wobble when setting up for a drop-in or rolling transitions, replace the top cone with a second barrel bushing. A double-barrel setup puts more urethane under the top washer, giving you a wider, calmer center point to stand on while keeping a smooth progressive carve once you commit your hips to the turn.
 
 ### Flat washers vs. cup washers
 Cupped metal washers wrap around the top edge of the bushing and restrict how far it can deform, increasing stability at the end of a turn. Flat washers let the bushing flare freely for a deeper turn radius. If a new set of medium-hard bushings feels just slightly too restrictive, swapping the top cup washer for a flat washer opens up the turn without dropping a full durometer grade.
