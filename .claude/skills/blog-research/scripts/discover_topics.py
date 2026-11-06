@@ -428,6 +428,10 @@ def load_on_site_interest(scorecard_path: Path, credentials_path: Path) -> dict:
                         ]
                     }
                 },
+                "orderBys": [
+                    {"metric": {"metricName": "screenPageViews"}, "desc": True},
+                    {"metric": {"metricName": "userEngagementDuration"}, "desc": True},
+                ],
                 "limit": 15,
             }
             resp = session.post(
@@ -444,6 +448,10 @@ def load_on_site_interest(scorecard_path: Path, credentials_path: Path) -> dict:
                     result["top_directory_pages_28d"].append(
                         {"path": path, "pageviews": pvs, "fg_engagement_seconds": dur}
                     )
+                result["top_directory_pages_28d"].sort(
+                    key=lambda x: (x["pageviews"], x["fg_engagement_seconds"]),
+                    reverse=True,
+                )
         except Exception as exc:
             result["ga4_directory_error"] = str(exc)
 
