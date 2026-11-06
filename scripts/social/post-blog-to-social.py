@@ -619,32 +619,40 @@ def poll_post_results(post_id: str, dry_run: bool, attempts: int = 8) -> dict:
         last = data
         if status == 200:
             results = data.get("data", {}).get("results", data.get("data", []))
-            flat = results if isinstance(results, list) else [results]
-            if any(
-                (r.get("status") or r.get("destination_status")) in ("done", "published", "success")
-                or r.get("platform_post_id")
+            flat = [r for r in (results if isinstance(results, list) else [results]) if isinstance(r, dict)]
+            for r in flat:
+                dest_status = str(r.get("status") or r.get("destination_status") or "").lower()
+                if dest_status in ("failed", "error", "cancelled", "rejected"):
+                    raise RuntimeError(f"Post {post_id} failed on destination: {r}")
+            if flat and any(
+                str(r.get("status") or r.get("destination_status") or "").lower() in ("done", "published", "success", "completed")
+                or (
+                    bool(r.get("platform_post_id") or r.get("external_id"))
+                    and str(r.get("status") or r.get("destination_status") or "").lower() not in ("pending", "queued", "processing", "failed", "error")
+                )
                 for r in flat
-                if isinstance(r, dict)
             ):
                 return data
         time.sleep(3)
-    return last
+    raise RuntimeError(f"Post {post_id} did not reach published state after {attempts} attempts: {last}")
 
 
 def extract_platform_post_id(platform: str, create_data: dict, results_data: dict) -> str:
     candidates = []
     for container in (
-        create_data.get("destinations", []),
         results_data.get("data", {}).get("results", []),
         results_data.get("data", []),
+        create_data.get("destinations", []),
     ):
         if isinstance(container, dict):
             candidates.append(container)
         elif isinstance(container, list):
             candidates.extend([x for x in container if isinstance(x, dict)])
     for item in candidates:
-        if item.get("platform") == platform or item.get("account_id") == ACCOUNTS[platform]:
-            for key in ("platform_post_id", "external_id", "id"):
+        item_platform = item.get("platform")
+        item_account = item.get("account_id")
+        if item_platform in (None, platform) and item_account in (None, ACCOUNTS[platform]):
+            for key in ("platform_post_id", "external_id"):
                 if item.get(key):
                     return str(item[key])
     return ""
@@ -752,8 +760,19 @@ def main() -> int:
         )
         return 0
 
-    already_posted = set(state.get("posted", {}).keys())
-    candidates = [m for m in eligible if args.force or m["slug"] not in already_posted]
+    posted_map = state.setdefault("posted", {})
+    partial_map = state.setdefault("partial", {})
+
+    def is_slug_complete(slug: str) -> bool:
+        entry = posted_map.get(slug)
+        if not entry:
+            return False
+        if entry.get("baseline_only"):
+            return True
+        done_platforms = entry.get("platforms", {})
+        return all(p in done_platforms for p in platforms)
+
+    candidates = [m for m in eligible if args.force or not is_slug_complete(m["slug"])]
     todo: list[dict] = []
     skipped_not_live: list[str] = []
     for m in candidates:
@@ -794,85 +813,124 @@ def main() -> int:
         ig_caption = build_instagram_caption(meta, parsed, handles)
         x_thread = build_x_thread(meta, parsed)
 
-        platform_outcomes: dict = {}
+        existing_posted = {} if args.force else posted_map.get(slug, {}).get("platforms", {})
+        slug_partial = {} if args.force else partial_map.get(slug, {})
+        platform_outcomes: dict = dict(existing_posted)
 
         if "instagram" in platforms:
-            media_ids = [upload_image(p, args.dry_run) for p in slide_paths]
-            ig_post_id, ig_created = create_platform_post("instagram", ig_caption, media_ids, args.dry_run)
-            ig_res = poll_post_results(ig_post_id, args.dry_run)
-            ig_platform_id = extract_platform_post_id("instagram", ig_created, ig_res) or ig_post_id
-            platform_outcomes["instagram"] = {
-                "post_id": ig_post_id,
-                "platform_post_id": ig_platform_id,
-                "slides": [str(p) for p in slide_paths],
-                "media_ids": media_ids,
-                "tagged_handles": handles,
-                "caption": ig_caption,
-            }
-            append_log(
-                {
-                    "timestamp": datetime.now(timezone.utc).isoformat(),
-                    "platform": "instagram",
-                    "slug": slug,
+            if "instagram" in platform_outcomes:
+                pass
+            elif "instagram" in slug_partial:
+                platform_outcomes["instagram"] = slug_partial["instagram"]
+            else:
+                media_ids = [upload_image(p, args.dry_run) for p in slide_paths]
+                ig_post_id, ig_created = create_platform_post("instagram", ig_caption, media_ids, args.dry_run)
+                ig_res = poll_post_results(ig_post_id, args.dry_run)
+                ig_platform_id = extract_platform_post_id("instagram", ig_created, ig_res) or ig_post_id
+                ig_outcome = {
                     "post_id": ig_post_id,
                     "platform_post_id": ig_platform_id,
+                    "slides": [str(p) for p in slide_paths],
+                    "media_ids": media_ids,
                     "tagged_handles": handles,
-                },
-                args.dry_run,
-            )
-
-        if "x" in platforms:
-            cover_media_id = upload_image(slide_paths[0], args.dry_run)
-            parent_platform_id: str | None = None
-            thread_records = []
-            for idx, tweet_text in enumerate(x_thread, start=1):
-                t_media = [cover_media_id] if idx == 1 else None
-                t_post_id, t_created = create_platform_post(
-                    "x",
-                    tweet_text,
-                    t_media,
-                    args.dry_run,
-                    in_reply_to_post_id=parent_platform_id,
-                )
-                t_res = poll_post_results(t_post_id, args.dry_run)
-                t_platform_id = extract_platform_post_id("x", t_created, t_res) or t_post_id
-                rec = {
-                    "thread_index": idx,
-                    "post_id": t_post_id,
-                    "platform_post_id": t_platform_id,
-                    "text": tweet_text,
+                    "caption": ig_caption,
                 }
-                thread_records.append(rec)
-                parent_platform_id = t_platform_id
+                platform_outcomes["instagram"] = ig_outcome
+                if not args.dry_run:
+                    partial_map.setdefault(slug, {})["instagram"] = ig_outcome
+                    save_state(state)
                 append_log(
                     {
                         "timestamp": datetime.now(timezone.utc).isoformat(),
-                        "platform": "x",
+                        "platform": "instagram",
                         "slug": slug,
-                        "thread_index": idx,
-                        "post_id": t_post_id,
-                        "platform_post_id": t_platform_id,
+                        "post_id": ig_post_id,
+                        "platform_post_id": ig_platform_id,
+                        "tagged_handles": handles,
                     },
                     args.dry_run,
                 )
-                if not args.dry_run:
-                    time.sleep(1)
 
-            platform_outcomes["x"] = {
-                "root_post_id": thread_records[0]["post_id"],
-                "root_platform_post_id": thread_records[0]["platform_post_id"],
-                "thread": thread_records,
-            }
+        if "x" in platforms:
+            if "x" in platform_outcomes and len(platform_outcomes["x"].get("thread", [])) >= len(x_thread):
+                pass
+            else:
+                saved_x = slug_partial.get("x", {})
+                thread_records: list[dict] = list(saved_x.get("thread", []))
+                parent_platform_id: str | None = (
+                    thread_records[-1]["platform_post_id"] if thread_records else None
+                )
+                cover_media_id: str | None = saved_x.get("cover_media_id")
+                start_idx = len(thread_records) + 1
+
+                for idx, tweet_text in enumerate(x_thread[start_idx - 1 :], start=start_idx):
+                    if idx == 1 and not cover_media_id:
+                        cover_media_id = upload_image(slide_paths[0], args.dry_run)
+                        if not args.dry_run:
+                            partial_map.setdefault(slug, {}).setdefault("x", {})["cover_media_id"] = cover_media_id
+                            save_state(state)
+                    t_media = [cover_media_id] if idx == 1 and cover_media_id else None
+                    t_post_id, t_created = create_platform_post(
+                        "x",
+                        tweet_text,
+                        t_media,
+                        args.dry_run,
+                        in_reply_to_post_id=parent_platform_id,
+                    )
+                    t_res = poll_post_results(t_post_id, args.dry_run)
+                    t_platform_id = extract_platform_post_id("x", t_created, t_res)
+                    if not t_platform_id:
+                        raise RuntimeError(
+                            f"Could not determine published X platform_post_id for tweet {idx} (post_id={t_post_id})"
+                        )
+                    rec = {
+                        "thread_index": idx,
+                        "post_id": t_post_id,
+                        "platform_post_id": t_platform_id,
+                        "text": tweet_text,
+                    }
+                    thread_records.append(rec)
+                    parent_platform_id = t_platform_id
+                    if not args.dry_run:
+                        partial_map.setdefault(slug, {})["x"] = {
+                            "cover_media_id": cover_media_id,
+                            "thread": thread_records,
+                        }
+                        save_state(state)
+                    append_log(
+                        {
+                            "timestamp": datetime.now(timezone.utc).isoformat(),
+                            "platform": "x",
+                            "slug": slug,
+                            "thread_index": idx,
+                            "post_id": t_post_id,
+                            "platform_post_id": t_platform_id,
+                        },
+                        args.dry_run,
+                    )
+                    if not args.dry_run:
+                        time.sleep(1)
+
+                platform_outcomes["x"] = {
+                    "root_post_id": thread_records[0]["post_id"],
+                    "root_platform_post_id": thread_records[0]["platform_post_id"],
+                    "thread": thread_records,
+                }
 
         if not args.dry_run:
-            state.setdefault("posted", {})[slug] = {
+            prev_platforms = posted_map.get(slug, {}).get("platforms", {})
+            merged_platforms = dict(prev_platforms)
+            for k, v in platform_outcomes.items():
+                merged_platforms[k] = {
+                    "post_id": v.get("post_id") or v.get("root_post_id"),
+                    "platform_post_id": v.get("platform_post_id") or v.get("root_platform_post_id"),
+                }
+            posted_map[slug] = {
                 "posted_at": datetime.now(timezone.utc).isoformat(),
                 "title": meta.get("title"),
-                "platforms": {
-                    k: {"post_id": v.get("post_id") or v.get("root_post_id")}
-                    for k, v in platform_outcomes.items()
-                },
+                "platforms": merged_platforms,
             }
+            partial_map.pop(slug, None)
             save_state(state)
 
         run_results.append({
