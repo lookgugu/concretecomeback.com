@@ -158,6 +158,9 @@ def extract_structured_content(meta: dict) -> dict:
     sections: list[dict] = []
     current_sec: dict | None = None
 
+    current_sec: dict | None = None
+    current_sub: dict | None = None
+
     for block in re.split(r"\n\s*\n", body):
         block = block.strip()
         if not block:
@@ -165,6 +168,7 @@ def extract_structured_content(meta: dict) -> dict:
         if block.startswith("## "):
             heading = strip_md(block.splitlines()[0][3:])
             current_sec = {"heading": heading, "subpoints": [], "paragraphs": []}
+            current_sub = None
             sections.append(current_sec)
             rest = "\n".join(block.splitlines()[1:]).strip()
             if rest:
@@ -176,8 +180,10 @@ def extract_structured_content(meta: dict) -> dict:
             if current_sec is None:
                 current_sec = {"heading": "Key Points", "subpoints": [], "paragraphs": []}
                 sections.append(current_sec)
-            current_sec["subpoints"].append({"title": sub_h, "body": sub_b})
+            current_sub = {"title": sub_h, "body": sub_b}
+            current_sec["subpoints"].append(current_sub)
         elif block.startswith("- "):
+            current_sub = None
             for line in block.splitlines():
                 if line.strip().startswith("- "):
                     item_txt = strip_md(line.strip()[2:])
@@ -187,6 +193,8 @@ def extract_structured_content(meta: dict) -> dict:
             clean_p = strip_md(block)
             if current_sec is None:
                 paragraphs.append(clean_p)
+            elif current_sub is not None:
+                current_sub["body"] = f"{current_sub['body']} {clean_p}".strip() if current_sub["body"] else clean_p
             else:
                 current_sec["paragraphs"].append(clean_p)
 
