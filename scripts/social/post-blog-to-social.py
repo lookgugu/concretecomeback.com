@@ -852,7 +852,7 @@ def main() -> int:
                 )
 
         if "x" in platforms:
-            if "x" in platform_outcomes and len(platform_outcomes["x"].get("thread", [])) >= len(x_thread):
+            if "x" in platform_outcomes:
                 pass
             else:
                 saved_x = slug_partial.get("x", {})
