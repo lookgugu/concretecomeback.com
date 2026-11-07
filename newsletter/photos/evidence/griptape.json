@@ -1,0 +1,20 @@
+{
+  "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Skateboard_upside.jpg",
+  "license": "CC0-1.0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "Cynroya",
+  "originalSha256": "60cd94cbab8c9f7e34b0d29e85ba6bf5708c52228c46adbeaa5aa5cc92a90ea4",
+  "identity": {
+    "verified": true,
+    "subject": "Skateboard on paving; no people visible",
+    "context": "Source documents the grip-tape side of a skateboard. Generic equipment illustration; no claims about a person, brand, athletic ability or health."
+  },
+  "visualInspection": {
+    "verified": true,
+    "reviewer": "Hermes vision_analyze visual review",
+    "notes": "Original and compressed derivative inspected with vision tool on 2026-10-17. Black grip-tape skateboard with yellow wheels on paving. No people visible; no facial identity inference. Natural aspect ratio retained. Caption explicitly illustrative; no endorsement or health claims."
+  },
+  "checkedAt": "2026-10-17T05:44:02.924Z",
+  "commercialUseAllowed": true,
+  "notes": "Original Commons file page identifies own work by Cynroya and explicitly dedicates this photograph under CC0 1.0, permitting copy, modification and commercial distribution. Retained full source extraction: newsletter/photos/evidence/griptape-source.md (sha256 a7c5076c2e722b011e1f27465f657938c26ba0235d36bb0d117681146e7b53eb). Original download URL: https://upload.wikimedia.org/wikipedia/commons/7/73/Skateboard_upside.jpg. CC0 deed checked at https://creativecommons.org/publicdomain/zero/1.0/; trademark/privacy rights not granted and no endorsement implied. No recognizable people. No AI generation, paid purchase, source-blog license assumption or thumbnail license inference. Credit retained voluntarily. Context: Source documents the grip-tape side of a skateboard. Generic equipment illustration; no claims about a person, brand, athletic ability or health."
+}

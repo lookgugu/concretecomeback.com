@@ -12,7 +12,7 @@ servicesOffered: ["decks", "completes", "trucks", "wheels", "bearings", "shoes",
 hasOnlineShop: true
 featured: false
 addedDate: 2026-09-05
-lastVerified: 2026-09-05
+lastVerified: 2026-10-27
 ---
 
-303 Boards has been a physical shop in Denver for more than 25 years — the site puts it plainly: "we are not just an online store, we have been a brick and mortar store since 1997" — and it is one of the few core shops to have grown to two locations without becoming a chain. Hours differ between the Broadway and Colfax stores, so check the Locations page before you go. Denver Skatepark, the city's big downtown concrete park, is the natural next stop.
+303 Boards has been a physical shop in Denver for more than 25 years — the site puts it plainly: "we are not just an online store, we have been a brick and mortar store since 1997" — and it is one of the few core shops to have grown to two locations without becoming a chain. Hours differ between the Broadway and Colfax stores, so check the Locations page before you go. [Denver Skatepark](/directory/parks/us/denver-skatepark-co) downtown and [Arvada Skate Park](/directory/parks/us/arvada-skate-park-co) to the northwest are the natural next stops, or head south down I-25 to skate [Memorial Park Skatepark](/directory/parks/us/memorial-park-skatepark-colorado-springs-co) in Colorado Springs.

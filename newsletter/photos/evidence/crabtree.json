@@ -1,0 +1,20 @@
+{
+  "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Skatepark,_Crabtree_Park,_Camberley,_Surrey.jpg",
+  "license": "CC0-1.0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "Mertbiol",
+  "originalSha256": "7dde05808cf0f7e1fcf8bcb20b9871a6ca027dfd253d5eb608b6e467fad75b86",
+  "identity": {
+    "verified": true,
+    "subject": "Empty skatepark; no people visible",
+    "context": "Source identifies Crabtree Park, Camberley, Surrey. General skateboarding setting only; no claim of connection to Grandma Liu."
+  },
+  "visualInspection": {
+    "verified": true,
+    "reviewer": "Hermes vision_analyze visual review",
+    "notes": "Original and compressed derivative inspected with vision tool on 2026-10-17. Empty skatepark ramps with trees beneath a cloudy sky. No people visible; no facial identity inference. Natural aspect ratio retained. Incidental graffiti remains in the environment; not reproduced as isolated artwork. Caption explicitly illustrative; no endorsement or health claims."
+  },
+  "checkedAt": "2026-10-17T05:44:02.924Z",
+  "commercialUseAllowed": true,
+  "notes": "Original Commons file page identifies own work by Mertbiol and explicitly dedicates this photograph under CC0 1.0, permitting copy, modification and commercial distribution. Retained full source extraction: newsletter/photos/evidence/crabtree-source.md (sha256 a55ec99e99243fe71300858fcb54c98b4e1033b4ee7a7c1f52770ab286eaa4ef). Original download URL: https://upload.wikimedia.org/wikipedia/commons/7/73/Skatepark%2C_Crabtree_Park%2C_Camberley%2C_Surrey.jpg. CC0 deed checked at https://creativecommons.org/publicdomain/zero/1.0/; trademark/privacy rights not granted and no endorsement implied. No recognizable people. No AI generation, paid purchase, source-blog license assumption or thumbnail license inference. Credit retained voluntarily. Context: Source identifies Crabtree Park, Camberley, Surrey. General skateboarding setting only; no claim of connection to Grandma Liu."
+}

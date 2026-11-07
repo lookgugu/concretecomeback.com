@@ -16,10 +16,10 @@ website: "https://www.thebay.org/locations/bay-lnk/"
 googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=2005+Y+St+Lincoln+NE+68503"
 featured: false
 addedDate: 2026-10-14
-lastVerified: 2026-10-14
+lastVerified: 2026-10-31
 tags: ["indoor", "wood", "sessions", "lessons", "19-plus"]
 ---
 
 Housed inside a nonprofit community center at 2005 Y Street, The Bay Skatepark spans roughly 12,000 square feet of indoor wooden ramps, transitions, rails, and street obstacles, making it a year-round refuge from Nebraska's winter freezes and summer heat. While the broader center serves youth education during weekday school hours, the skatepark specifically supports older skaters with a dedicated weekly session every Sunday evening from 5:00pm to 10:00pm restricted to ages 19 and up.
 
-The timber surface is noticeably more forgiving on knees and hips than outdoor concrete, and new or returning riders can start on the smaller wooden banks, funboxes, and mellow transition pockets before working toward the larger quarter-pipes. Structured lessons and workshops are also offered through the facility. Note that the park is closed on Mondays and does not open for public drop-in until 3:00pm on weekdays while Bay High classes are in session; check the online program finder before travelling in case a live music or community event affects evening hours.
+The timber surface is noticeably more forgiving on knees and hips than outdoor concrete, and new or returning riders can start on the smaller wooden banks, funboxes, and mellow transition pockets before working toward the larger quarter-pipes. Structured lessons and workshops are also offered through the facility. Note that the park is closed on Mondays and does not open for public drop-in until 3:00pm on weekdays while Bay High classes are in session; check the online program finder before travelling in case a live music or community event affects evening hours. For a free daylight outdoor session on south Lincoln's progression ledges and concrete rollers, pair a visit here with [Tierra Skate Park](/directory/parks/us/tierra-skate-park-lincoln-ne) in Tierra/Briarhurst Park.

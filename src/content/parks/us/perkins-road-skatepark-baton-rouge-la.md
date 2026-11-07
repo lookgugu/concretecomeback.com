@@ -19,10 +19,10 @@ website: "https://www.brec.org/ExtremeSports"
 googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=7122+Perkins+Rd+Baton+Rouge+LA+70808"
 featured: false
 addedDate: 2026-10-14
-lastVerified: 2026-10-14
+lastVerified: 2026-10-31
 tags: ["concrete", "free", "lit", "lessons", "california-skateparks"]
 ---
 
 Anchored inside BREC's Extreme Sports complex in Baton Rouge, the Perkins Road Community Park Skatepark spans 30,000 square feet of smooth concrete built by California Skateparks. For older skaters working around daytime jobs or Louisiana's midday heat, the park's floodlighting is a major asset: the concrete stays open and lit until 10:00pm Sunday through Thursday and until midnight on Friday and Saturday, with an on-site Extreme Sports office staffed daily from 3:00pm to 9:00pm.
 
-BREC also runs seasonal **Intro to Skateboarding (Skateboarding Basics)** drop-in clinics and **Skateboarding Academy** instruction explicitly open to beginners of any experience level. If you are warming up your legs, start on the wide street aprons and mellower quarter-pipes or warm up on the park's smooth outdoor walking and skating loop before dropping into the main bowls. Note that BMX bikes, inline skates, and roller skates share the skatepark with skateboarders, so early mornings after sunrise or late evening hours under the lights offer the most relaxed traffic; helmets and pads are strongly recommended.
+BREC also runs seasonal **Intro to Skateboarding (Skateboarding Basics)** drop-in clinics and **Skateboarding Academy** instruction explicitly open to beginners of any experience level. If you are warming up your legs, start on the wide street aprons and mellower quarter-pipes or warm up on the park's smooth outdoor walking and skating loop before dropping into the main bowls. Note that BMX bikes, inline skates, and roller skates share the skatepark with skateboarders, so early mornings after sunrise or late evening hours under the lights offer the most relaxed traffic; helmets and pads are strongly recommended. Skaters heading west across the Atchafalaya Basin on I-10 can also pair a session here with [Thomas Park Skate Park](/directory/parks/us/thomas-park-skate-park-lafayette-la) in Lafayette.

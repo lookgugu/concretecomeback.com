@@ -203,14 +203,15 @@ function fakePopup() {
   global.window.addEventListener = () => {};
   global.window.removeEventListener = () => {};
   global.requestAnimationFrame = (fn) => fn();
-  global.sessionStorage = { getItem: () => '2', setItem: () => {} };
+  // The popup is never shown to a background tab.
+  global.document.visibilityState = 'visible';
   initNewsletterSignup(panel);
   return { panel, form, status, closeButton };
 }
 
 test('a popup that retreats after an inline signup is not counted as a dismissal', () => {
   const popup = fakePopup();
-  assert.equal(popup.panel.dataset.visible, 'true', 'the second page view shows it immediately');
+  assert.equal(popup.panel.dataset.visible, 'true', 'the immediate fake timer has run out the five seconds');
 
   global.document.dispatchEvent({ type: 'cc:newsletter-pending', detail: { panel: {} } });
 
