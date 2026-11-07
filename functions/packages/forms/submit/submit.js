@@ -38,6 +38,25 @@ const TYPE_FIELDS = {
 
 const REQUIRED = ['listing-type', 'name', 'city', 'country', 'description'];
 
+const ALLOWED_COUNTRIES = new Set(['US', 'UK', 'CA', 'AU']);
+const FIELD_LIMITS = {
+  'listing-type': 10,
+  name: 120,
+  city: 120,
+  country: 2,
+  website: 500,
+  difficulty: 40,
+  'adult-friendly': 10,
+  'entry-fee': 100,
+  instagram: 100,
+  'adult-advice': 10,
+  'age-range': 100,
+  'meet-frequency': 200,
+  'is-online': 10,
+  description: 3000,
+  email: 320,
+};
+
 // DO's web action usually parses a form-encoded body into `args`, but if the
 // fields didn't arrive parsed, fall back to decoding the raw body ourselves.
 function withFormBody(args) {
@@ -112,6 +131,17 @@ async function main(args) {
   const listingType = String(args['listing-type']).trim();
   if (!Object.hasOwn(TYPE_FIELDS, listingType)) {
     return submissionFailure('invalid_listing_type');
+  }
+
+  const country = String(args.country).trim();
+  if (!ALLOWED_COUNTRIES.has(country)) {
+    return submissionFailure('invalid_country');
+  }
+
+  for (const [key, maxLength] of Object.entries(FIELD_LIMITS)) {
+    if (String(args[key] || '').trim().length > maxLength) {
+      return submissionFailure('field_too_long', { field: key });
+    }
   }
 
   const apiKey = process.env.RESEND_API_KEY;

@@ -14,6 +14,7 @@ export default defineConfig({
       // Keep noindex confirmation/outcome pages out of the sitemap.
       filter: (page) =>
         !page.includes('/thank-you') &&
+        !page.includes('/submit/') &&
         !page.includes('/newsletter/') &&
         !page.includes('/draft/'),
     }),

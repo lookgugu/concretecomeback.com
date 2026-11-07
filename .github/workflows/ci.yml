@@ -50,13 +50,13 @@ jobs:
         run: npm run preview -- --host 127.0.0.1 --port 4321 &
 
       - name: Wait for server
-        run: npx --yes wait-on http://127.0.0.1:4321 --timeout 60000
+        run: npx --yes wait-on@8.0.3 http://127.0.0.1:4321 --timeout 60000
 
       # Internal links only. The directory collections link out to hundreds of
       # third-party sites, which would make this slow and flaky.
       - name: Check internal links
         run: |
-          npx --yes linkinator@6 http://127.0.0.1:4321 \
+          npx --yes linkinator@6.1.2 http://127.0.0.1:4321 \
             --recurse \
             --skip "^https?://(?!127\.0\.0\.1)"
 
