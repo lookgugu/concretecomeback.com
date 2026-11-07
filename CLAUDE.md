@@ -11,6 +11,7 @@ npm run preview    # serve dist/ locally
 npm test           # node --test over the submit-function, form and newsletter unit tests
 npx astro check    # TypeScript/Astro diagnostics
 npm run newsletter:draft -- --out <dir>   # weekly newsletter draft (live GETs; never sends)
+python3 scripts/social/post-blog-to-social.py --max-posts 1  # repurpose next unposted live blog post to Instagram & X via PostEverywhere
 ```
 
 `astro check` and `npm test` are deliberately not part of `npm run build` — CI runs them as separate steps. To run a single test file: `node --test src/scripts/submit-form.test.js`. There is no linter.
@@ -72,7 +73,7 @@ Adding a section with only the class leaves hidden fields enabled and they get s
 
 ## Adding content
 
-**Before adding a blog post, check what already exists.** Run `node scripts/check-duplicate-posts.mjs --audit` or read the titles in `src/content/blog/`. Never reuse a slug that already exists — that silently replaces a published article at a live URL. Never write a new post on a topic already covered; update the existing post instead. This is enforced in CI, but the check runs after the writing is done, so check first. The corpus already carries the cost of skipping this: four separate "how to fall" posts, two near-identical 10-minute warm-up routines, and two recovery guides, all competing with each other for the same searches.
+**Blog topic discovery and refreshes go through the `blog-research` skill** (`.claude/skills/blog-research/SKILL.md`). Before adding a blog post, run `python3 .claude/skills/blog-research/scripts/discover_topics.py --stdout-md` and `node scripts/check-duplicate-posts.mjs --audit` to check on-site GA4 reader engagement, Google Search Console (GSC) demand/refresh gaps, seasonal Google Trends/Autocomplete queries, and existing `src/content/blog/` coverage. Never reuse a slug that already exists — that silently replaces a published article at a live URL. Never write a new post on a topic already covered; update the existing post instead. This is enforced in CI, but the check runs after the writing is done, so check first. The corpus already carries the cost of skipping this: four separate "how to fall" posts, two near-identical 10-minute warm-up routines, and two recovery guides, all competing with each other for the same searches.
 
 **Blog posts follow the Author Voice Guide & Editorial Standards (`docs/AUTHOR-VOICES.md`).** Every post must be assigned to an established author persona (Sam Torres, Jo Fairweather, or Marcus Webb) and adhere to their voice, domain, and constraints without inventing biographical claims or patient consults. Public-facing copy must use "older skaters" (never "adult"), and drafts must be de-slopped against the Anti-AI Rubric: no em dashes as universal connectors, no formulaic "not X but Y" pivots, no bold-label listicles, and no model crutch words ("genuinely", "crucial", "testament"). **Posts must follow SEO best practice and be influenced by Google Search Console data** (targeting high-impression/low-CTR queries; eliminating keyword cannibalization) **and Google Trends** (seasonal search volume curves and natural search phrasing), with front-loaded titles (max 80 chars, optimal 50–60), snippet-ready meta descriptions (50–165 chars), first-paragraph direct answers, and 2–3 contextual internal reciprocal links.
 
