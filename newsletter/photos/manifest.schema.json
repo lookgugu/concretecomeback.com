@@ -1,0 +1,220 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Curated newsletter photos v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion",
+    "photos"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "const": 1
+    },
+    "photos": {
+      "type": "array",
+      "maxItems": 500,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "slugs",
+          "sourcePageUrl",
+          "license",
+          "licenseUrl",
+          "author",
+          "attribution",
+          "original",
+          "derivative",
+          "alt",
+          "caption",
+          "modifications",
+          "checkedAt",
+          "visualInspection",
+          "identity",
+          "evidence"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+          },
+          "slugs": {
+            "type": "array",
+            "minItems": 1,
+            "uniqueItems": true,
+            "items": {
+              "type": "string",
+              "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+            }
+          },
+          "sourcePageUrl": {
+            "type": "string",
+            "format": "uri",
+            "pattern": "^https://"
+          },
+          "license": {
+            "enum": [
+              "CC0-1.0",
+              "CC-BY-4.0"
+            ]
+          },
+          "licenseUrl": {
+            "enum": [
+              "https://creativecommons.org/publicdomain/zero/1.0/",
+              "https://creativecommons.org/licenses/by/4.0/"
+            ]
+          },
+          "author": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 2000
+          },
+          "attribution": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 2000
+          },
+          "original": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "file",
+              "sha256"
+            ],
+            "properties": {
+              "file": {
+                "type": "string"
+              },
+              "sha256": {
+                "type": "string",
+                "pattern": "^[a-f0-9]{64}$"
+              }
+            }
+          },
+          "derivative": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "file",
+              "sha256",
+              "width",
+              "height",
+              "bytes"
+            ],
+            "properties": {
+              "file": {
+                "type": "string",
+                "pattern": "^public/images/newsletter/[a-z0-9][a-z0-9-]*\\.(jpg|jpeg|png)$"
+              },
+              "sha256": {
+                "type": "string",
+                "pattern": "^[a-f0-9]{64}$"
+              },
+              "width": {
+                "type": "integer",
+                "minimum": 1,
+                "maximum": 12000
+              },
+              "height": {
+                "type": "integer",
+                "minimum": 1,
+                "maximum": 12000
+              },
+              "bytes": {
+                "type": "integer",
+                "minimum": 1,
+                "maximum": 2000000
+              }
+            }
+          },
+          "alt": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 2000
+          },
+          "caption": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 2000
+          },
+          "modifications": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 2000
+          },
+          "checkedAt": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "visualInspection": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "verified",
+              "reviewer",
+              "notes"
+            ],
+            "properties": {
+              "verified": {
+                "const": true
+              },
+              "reviewer": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 2000
+              },
+              "notes": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 2000
+              }
+            }
+          },
+          "identity": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "verified",
+              "subject",
+              "context"
+            ],
+            "properties": {
+              "verified": {
+                "const": true
+              },
+              "subject": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 2000
+              },
+              "context": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 2000
+              }
+            }
+          },
+          "evidence": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "file",
+              "sha256"
+            ],
+            "properties": {
+              "file": {
+                "type": "string"
+              },
+              "sha256": {
+                "type": "string",
+                "pattern": "^[a-f0-9]{64}$"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

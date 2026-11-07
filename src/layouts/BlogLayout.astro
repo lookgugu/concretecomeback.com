@@ -1,15 +1,22 @@
 ---
-import type { CollectionEntry } from 'astro:content';
+import { getCollection, type CollectionEntry } from 'astro:content';
 import BaseLayout from './BaseLayout.astro';
 import BlogMeta from '@components/blog/BlogMeta.astro';
 import Breadcrumb from '@components/ui/Breadcrumb.astro';
+import NewsletterInline from '@components/marketing/NewsletterInline.astro';
 
 interface Props {
   entry: CollectionEntry<'blog'>;
 }
 
 const { entry } = Astro.props;
-const { title, description, pubDate, updatedDate, author, authorAge, tags, heroImage, heroImageAlt, featured } = entry.data;
+const { title, description, pubDate, updatedDate, author, authorType = 'Person', authorAge, tags, heroImage, heroImageAlt, featured } = entry.data;
+
+// Article tracker metadata (src/scripts/article-engagement.js). Only slug-form
+// keys built from frontmatter reach analytics; the tracker re-validates them.
+const toKey = (value: string) => value.normalize('NFKD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').slice(0, 60).replace(/^-+|-+$/g, '');
+const articleWords = (entry.body ?? '').split(/\s+/).filter(Boolean).length;
+const publishedSlugs = (await getCollection('blog', ({ data }) => !data.draft)).map((post) => post.id).sort();
 
 const jsonLd = {
   '@context': 'https://schema.org',
@@ -19,9 +26,9 @@ const jsonLd = {
   datePublished: pubDate.toISOString(),
   ...(updatedDate && { dateModified: updatedDate.toISOString() }),
   author: {
-    '@type': 'Person',
+    '@type': authorType,
     name: author,
-    ...(authorAge && { age: authorAge }),
+    ...(authorType === 'Person' && authorAge && { age: authorAge }),
   },
   publisher: {
     '@type': 'Organization',
@@ -70,9 +77,18 @@ const jsonLd = {
     <h1 class="text-3xl sm:text-4xl font-display text-concrete-900 mb-4 leading-tight">{title}</h1>
     <BlogMeta data={entry.data} />
 
-    <div class="prose prose-concrete max-w-none mt-8">
+    <div
+      class="prose prose-concrete max-w-none mt-8"
+      data-article-body
+      data-article-slug={entry.id}
+      data-article-author={toKey(author)}
+      data-article-topic={toKey(tags[0] ?? '')}
+      data-article-words={articleWords}
+    >
       <slot />
     </div>
+
+    <NewsletterInline />
 
     <div class="mt-10 pt-8 border-t border-concrete-200">
       <div class="flex flex-wrap gap-2">
@@ -93,23 +109,10 @@ const jsonLd = {
       </a>
     </div>
   </article>
+  <script type="application/json" id="cc-article-allowlist" set:html={JSON.stringify(publishedSlugs)} />
 </BaseLayout>
 
-<style is:global>
-  .prose-concrete {
-    --tw-prose-body: var(--color-concrete-700);
-    --tw-prose-headings: var(--color-concrete-900);
-    --tw-prose-lead: var(--color-concrete-600);
-    --tw-prose-links: var(--color-concrete-800);
-    --tw-prose-bold: var(--color-concrete-900);
-    --tw-prose-counters: var(--color-concrete-500);
-    --tw-prose-bullets: var(--color-concrete-400);
-    --tw-prose-hr: var(--color-concrete-200);
-    --tw-prose-quotes: var(--color-concrete-700);
-    --tw-prose-quote-borders: var(--color-skate-orange);
-    --tw-prose-code: var(--color-concrete-800);
-    --tw-prose-pre-bg: var(--color-concrete-800);
-    font-size: var(--font-size-base);
-    line-height: var(--line-height-relaxed);
-  }
-</style>
+<script>
+  import { initArticleEngagement } from '../scripts/article-engagement.js';
+  initArticleEngagement();
+</script>

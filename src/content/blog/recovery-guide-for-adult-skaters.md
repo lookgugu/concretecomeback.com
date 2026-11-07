@@ -12,15 +12,13 @@ draft: false
 
 The first time I skated for a full hour after my twenty-year break, I felt fine that evening. The next morning, I understood why people warn you about this specifically.
 
-Nothing was injured. I hadn't fallen badly. I was just sore in places I didn't know could be sore — the outside of my ankles, my forearms, a spot in my lower back I couldn't explain. That's the part nobody tells you about coming back to skating as an adult: the mechanics come back faster than you expect, but the next-day experience is its own adjustment.
+Nothing was injured. I hadn't fallen badly. I was just sore in places I didn't know could be sore — the outside of my ankles, my forearms, a spot in my lower back I couldn't explain. The mechanics of skating come back faster than you expect. The next-day experience is its own adjustment.
 
-Here's how to think about it, and what actually helps.
+## Why the day after is worse at 40+
 
-## Why the day after hits different at 40+
+Skating uses muscles and stabilisers that most adult daily life doesn't touch — the small muscles around your ankles that make constant micro-corrections, your forearms from bracing and balance, your core from staying centered over a moving board. When you use those muscles hard after months or years of not using them at all, you get delayed-onset muscle soreness, the kind that shows up 12 to 48 hours later rather than immediately.
 
-Skating uses muscles and stabilizers that most adult daily life doesn't touch — the small muscles around your ankles that make constant micro-corrections, your forearms from bracing and balance, your core from staying centered over a moving board. When you use those muscles hard after months or years of not using them at all, you get delayed-onset muscle soreness, the kind that shows up 12 to 48 hours later rather than immediately.
-
-This is a normal training response, not a sign that something's wrong. It happens to teenagers too — the difference is that an adult body takes longer to clear the inflammation and repair the tissue, so the soreness lingers longer and the temptation to worry about it is higher.
+This is a normal training response. It happens to teenagers too; the difference is that an adult body takes longer to clear the inflammation and repair the tissue, so the soreness lingers and the temptation to worry about it is higher.
 
 ## What's normal
 
@@ -60,8 +58,6 @@ The general rule: soreness is dull, diffuse, and improves day over day. Injury i
 
 ## Pacing your comeback
 
-The soreness curve tells you something useful: how far you are from your body's real baseline. Early on, everything is sore and recovery takes days. As you skate consistently over a few months, the soreness shrinks, recovers faster, and eventually mostly disappears except after unusually long or hard sessions.
+The soreness curve tells you where you are relative to your body's baseline. Early on, everything is sore and recovery takes days. Over a few months of consistent skating the soreness shrinks, clears faster, and eventually shows up only after unusually long or hard sessions.
 
-That shift is one of the best available signs that you're actually getting back into skating shape, separate from how your tricks look. Track it loosely — how sore, how long — and you'll have a clear, honest picture of your own progress, no stopwatch required.
-
-The day after doesn't have to be something you dread. Respect it, work with it, and it becomes just another part of the rhythm of skating again.
+That shift is a better measure of getting back into skating shape than how your tricks look. Track it loosely — how sore, how long — and you'll have a reasonable picture of your own progress.

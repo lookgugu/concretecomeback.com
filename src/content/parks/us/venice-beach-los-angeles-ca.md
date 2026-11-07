@@ -26,3 +26,5 @@ tags: ["iconic", "ocean", "mixed-terrain", "free"]
 ---
 
 Venice Beach Skate Park has something for everyone — a dedicated beginner section with smaller banks and mellow transitions alongside technical pool terrain. The morning hours are populated by a solid contingent of adult skaters, many of them regulars who've been skating there for decades.
+
+Rip City Skates, in the same building on Santa Monica Boulevard since 1978, is the shop paired with this park — ten minutes away and older than most of the people skating here.

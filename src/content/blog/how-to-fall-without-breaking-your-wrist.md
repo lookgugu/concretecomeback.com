@@ -38,7 +38,7 @@ The goal, every time you feel a fall coming, is the same: get low, protect your 
 
 You can't install a new reflex by reading about it. The old "hands out" instinct only gets replaced through repetition, and the place to build that repetition is not your first real fall at the park.
 
-Start on grass or a padded surface at home. Practice falling from a standing position: tuck, round, roll. Do it slowly and deliberately, ten or fifteen times, until rolling feels more natural than bracing. Some adult skaters find it useful to practice off the board entirely first — from a kneeling or standing position — before adding the board back in.
+Practise on a real crash or gym mat, or thick, level grass — not carpet, and not the pavement you skate on. Start low: from kneeling, then from a low squat, tucking your arms in and rounding onto a shoulder or your backside rather than reaching out. Do a handful of slow, deliberate reps at each height and only move up to standing once rolling from the squat feels more natural than bracing. A qualified instructor or an experienced skater watching the first attempts is worth arranging before you progress to standing height or add the board back in; [our guide to falling safely after 40](/blog/how-to-fall-safely-after-40/) covers the progression by fall direction, because backward falls need a chin-tuck the forward roll doesn't.
 
 This feels a little silly. Do it anyway. The few minutes you spend deliberately practicing a controlled fall on grass will do more for your wrists than any amount of caution at the park.
 

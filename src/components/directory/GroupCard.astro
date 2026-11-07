@@ -2,6 +2,7 @@
 import type { CollectionEntry } from 'astro:content';
 import CountryBadge from './CountryBadge.astro';
 import FeatureBadge from './FeatureBadge.astro';
+import { cardPosition } from './cardPosition';
 
 interface Props {
   entry: CollectionEntry<'groups'>;
@@ -17,6 +18,7 @@ const dataAttrs = {
   'data-skill': skillLevel,
   'data-name': name.toLowerCase(),
   'data-city': isOnline ? 'online' : city.toLowerCase(),
+  ...cardPosition(entry.data),
 };
 ---
 <article
@@ -37,7 +39,7 @@ const dataAttrs = {
       <span class="inline-flex items-center gap-1 text-blue-600 font-medium">
         🌐 Online Community
       </span>
-    ) : location}
+    ) : location}<span data-distance class="text-skate-orange font-medium" hidden></span>
   </p>
 
   <div class="flex flex-wrap gap-1.5 mb-3">

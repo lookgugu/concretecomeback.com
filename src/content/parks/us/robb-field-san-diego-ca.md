@@ -20,3 +20,5 @@ tags: ["free", "ocean-beach", "large"]
 ---
 
 Helmets are required at San Diego city skateparks, so bring one. The perimeter flatground and banks are the easiest entry point; go earlier in the day to avoid the after-school rush.
+
+Pacific Drive Skateboard Shop in Pacific Beach, established 1987 and still owner-run, is the shop paired with this park.

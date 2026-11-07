@@ -5,6 +5,7 @@ import Hero from '@components/home/Hero.astro';
 import SiteCounts from '@components/home/SiteCounts.astro';
 import DirectoryCallouts from '@components/home/DirectoryCallouts.astro';
 import FeaturedPosts from '@components/home/FeaturedPosts.astro';
+import NewsletterInline from '@components/marketing/NewsletterInline.astro';
 
 const allParks  = await getCollection('parks');
 const allShops  = await getCollection('shops');
@@ -28,7 +29,7 @@ const jsonLd = [
     '@type': 'WebSite',
     name: 'Concrete Comeback',
     url: 'https://concretecomeback.com',
-    description: 'Community resource for adults 40+ and 50+ returning to skateboarding.',
+    description: 'Community resource for older adults returning to skateboarding.',
     potentialAction: {
       '@type': 'SearchAction',
       target: {
@@ -54,11 +55,14 @@ const jsonLd = [
 ];
 ---
 <BaseLayout
-  title="Skateboarding for Adults 40+ | Concrete Comeback"
-  description="Find adult-friendly skate parks, local skateboard shops, and 40+ skating communities in the US, UK, Canada, and Australia. Get back on a board safely."
+  title="Skateboarding for Older Adults | Concrete Comeback"
+  description="Find skate parks welcoming to older skaters, helpful local skateboard shops, and older-skater communities in the US, UK, Canada, and Australia."
   structuredData={jsonLd}
 >
   <Hero />
+  <div class="max-w-3xl mx-auto px-4 sm:px-6 py-6">
+    <NewsletterInline source="home_inline" compact />
+  </div>
   <SiteCounts
     parkCount={allParks.length}
     shopCount={allShops.length}
@@ -76,7 +80,7 @@ const jsonLd = [
     <div class="max-w-2xl mx-auto px-4 sm:px-6 text-center">
       <h2 class="font-display text-3xl sm:text-4xl mb-4">Know a Park, Shop, or Group?</h2>
       <p class="text-concrete-300 text-lg mb-8">
-        Help other adult skaters find great places. Submit a listing and we'll add it to the directory.
+        Help other older skaters find great places. Submit a listing and we'll add it to the directory.
       </p>
       <a
         href="/submit"

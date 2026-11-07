@@ -12,6 +12,7 @@ hasOnlineShop: true
 adultsWelcomeNote: "Open since 1986 — the staff have seen decades of skaters come and go, and many of them are adult skaters themselves."
 featured: true
 addedDate: 2025-09-01
+lastVerified: 2026-09-16
 ---
 
-Slam City Skates is the authority on skateboarding in London. For returning adult skaters, the combination of decades of institutional knowledge and staff who are themselves adult skaters makes it the best place in the city to get honest advice about gear.
+Slam City Skates is the authority on skateboarding in London. For returning adult skaters, the combination of decades of institutional knowledge and staff who are themselves adult skaters makes it the best place in the city to get honest advice about gear — whether you're gearing up to carve the historic curves at Stockwell Skatepark or exploring local street plazas.

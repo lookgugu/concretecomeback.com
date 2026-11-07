@@ -1,0 +1,20 @@
+{
+  "sourcePageUrl": "https://commons.wikimedia.org/wiki/File:Skateboard_Miniramp_(Deggendorf).jpg",
+  "license": "CC0-1.0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "author": "APneunzehn74",
+  "originalSha256": "eda91fb6e685e3f4337926d0ece4041198a864b616cb8ed153b85bf14ba45c3b",
+  "identity": {
+    "verified": true,
+    "subject": "Outdoor mini ramp; no people visible",
+    "context": "Source identifies Kulturlichtung in Deggendorf. Illustrates a ramp, not the article author's backyard, construction plans or safety certification."
+  },
+  "visualInspection": {
+    "verified": true,
+    "reviewer": "Hermes vision_analyze visual review",
+    "notes": "Original and compressed derivative inspected with vision tool on 2026-10-17. Outdoor mini ramp with wooden supports and trees behind it. No people visible; no facial identity inference. Natural aspect ratio retained. Incidental graffiti remains in the environment; not reproduced as isolated artwork. Caption explicitly illustrative; no endorsement or health claims."
+  },
+  "checkedAt": "2026-10-17T05:44:02.924Z",
+  "commercialUseAllowed": true,
+  "notes": "Original Commons file page identifies own work by APneunzehn74 and explicitly dedicates this photograph under CC0 1.0, permitting copy, modification and commercial distribution. Retained full source extraction: newsletter/photos/evidence/miniramp-source.md (sha256 941ede603e528cb7304c4f0afd7a823135c5d404ed37501cebd1c838edafe5b6). Original download URL: https://upload.wikimedia.org/wikipedia/commons/1/14/Skateboard_Miniramp_%28Deggendorf%29.jpg. CC0 deed checked at https://creativecommons.org/publicdomain/zero/1.0/; trademark/privacy rights not granted and no endorsement implied. No recognizable people. No AI generation, paid purchase, source-blog license assumption or thumbnail license inference. Credit retained voluntarily. Context: Source identifies Kulturlichtung in Deggendorf. Illustrates a ramp, not the article author's backyard, construction plans or safety certification."
+}

@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import DirectoryLayout from '@layouts/DirectoryLayout.astro';
 import ParkCard from '@components/directory/ParkCard.astro';
 import DirectoryFilter from '@components/directory/DirectoryFilter.astro';
+import NewsletterInline from '@components/marketing/NewsletterInline.astro';
 
 const parks = await getCollection('parks');
 const sorted = parks.sort((a, b) => {
@@ -14,8 +15,8 @@ const sorted = parks.sort((a, b) => {
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'ItemList',
-  name: 'Adult-Friendly Skate Parks Directory',
-  description: 'Skate parks rated for adult friendliness in the US, UK, Canada, and Australia.',
+  name: 'Skate Parks for Older Skaters Directory',
+  description: 'Skate parks rated for how welcoming they are to older skaters in the US, UK, Canada, and Australia.',
   numberOfItems: parks.length,
   itemListElement: sorted.map((park, i) => ({
     '@type': 'ListItem',
@@ -26,12 +27,13 @@ const jsonLd = {
 };
 ---
 <DirectoryLayout
-  title="Skate Parks Directory | Adult-Friendly Parks"
-  description="Find adult-friendly skate parks in the US, UK, Canada, and Australia. Filter by difficulty, features, and facilities."
+  title="Skate Parks Directory | Welcoming to Older Skaters"
+  description="Find skate parks welcoming to older skaters in the US, UK, Canada, and Australia. Filter by difficulty, features, and facilities."
   breadcrumbs={[{ label: 'Directory', href: '/directory' }, { label: 'Skate Parks', href: '/directory/parks' }]}
   totalCount={parks.length}
   structuredData={jsonLd}
 >
+  <NewsletterInline slot="intro" source="parks_inline" compact />
   <DirectoryFilter slot="filter" type="parks" />
   {sorted.map((park) => <ParkCard entry={park} />)}
 </DirectoryLayout>
