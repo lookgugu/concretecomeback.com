@@ -17,9 +17,9 @@ website: "https://citywalkbham.com"
 googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=1706+9th+Ave+N+Birmingham+AL"
 featured: false
 addedDate: 2026-10-12
-lastVerified: 2026-10-12
+lastVerified: 2026-10-26
 tags: ["concrete", "free", "covered"]
 ---
 Located beneath the I-59/I-20 overpass, City Walk Skatepark offers a massive 58,000 square feet of weather-protected concrete. The shade and cover make it an incredibly practical spot for older skaters who need reliable conditions.
 
-The sheer size of the facility naturally disperses crowds, and its layout caters perfectly to returning riders. It features designated beginner bowls and an approachable pump track that are physically separated from the chaotic competition bowls, allowing you to practice fundamentals at your own pace.
+The sheer size of the facility naturally disperses crowds, and its layout caters perfectly to returning riders. It features designated beginner bowls and an approachable pump track that are physically separated from the chaotic competition bowls, allowing you to practice fundamentals at your own pace. For a bike- and scooter-free outdoor concrete session just south of the city, you can also visit [Veterans Skate Park](/directory/parks/us/veterans-skate-park-alabaster-al) in Alabaster, or head north up I-65 to [Get-A-Way Skatepark](/directory/parks/us/get-a-way-skatepark-huntsville-al) in Huntsville.

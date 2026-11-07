@@ -18,10 +18,10 @@ website: "https://www.okc.gov/departments/parks-recreation/parks-trails/mat-hoff
 googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=1700+S+Robinson+Ave+Oklahoma+City+OK"
 featured: false
 addedDate: 2026-10-01
-lastVerified: 2026-10-01
+lastVerified: 2026-10-29
 tags: ["concrete", "free", "lit", "advanced"]
 ---
 
 Mat Hoffman Action Sports Park is a massive concrete facility divided into two distinct primary areas: a flow course featuring varied bowl combinations, and a street course with ledges, rails, and stairs. They are separated by a wide sidewalk, which helps physically separate different riding lines.
 
-While the park features intimidating advanced elements like an 11-foot half pipe, the physical separation means you can stick to your comfort zone. Local sources heavily recommend visiting during the morning hours (8am–11am) to avoid the crowds, making it a viable and welcoming space for older skaters learning or regaining their balance.
+While the park features intimidating advanced elements like an 11-foot half pipe, the physical separation means you can stick to your comfort zone. Local sources heavily recommend visiting during the morning hours (8am–11am) to avoid the crowds, making it a viable and welcoming space for older skaters learning or regaining their balance. For another lit concrete session in the Oklahoma City metro, head north up I-35 to [Mathis Skate Park](/directory/parks/us/mathis-skate-park-edmond-ok) at Mitch Park in Edmond.

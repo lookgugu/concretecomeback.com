@@ -19,10 +19,10 @@ website: "https://www.arlingtonva.us/Government/Departments/Parks-Recreation/Loc
 googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=6020+Wilson+Blvd+Arlington+VA+22205"
 featured: false
 addedDate: 2026-09-26
-lastVerified: 2026-09-26
+lastVerified: 2026-10-27
 tags: ["concrete", "free", "lit", "dc-metro", "bowls"]
 ---
 
 Renovated by Arlington County and recognized with statewide park awards, Powhatan Springs offers one of the most comprehensive concrete layouts in the Washington DC metropolitan area. The park's standout feature for older skaters is its dedicated 4.5-to-5-foot egg bowl and rolling snake flow section, which are physically decoupled from the 11-foot deep pro kidney bowl.
 
-The street course provides wide flatground corridors, manageable flat rails, and small A-frame banks. Floodlights operate until 10pm every evening, and morning sessions between 7am and 10am offer calm riding conditions before afternoon youth arrivals. Helmets are mandatory under county park rules.
+The street course provides wide flatground corridors, manageable flat rails, and small A-frame banks. Floodlights operate until 10pm every evening, and morning sessions between 7am and 10am offer calm riding conditions before afternoon youth arrivals. Helmets are mandatory under county park rules. For a Piedmont road trip south of Northern Virginia, pair your session with the 30,000-square-foot [Charlottesville Skate Park](/directory/parks/us/charlottesville-skate-park-va) at McIntire Park.

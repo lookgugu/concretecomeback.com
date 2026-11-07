@@ -137,3 +137,34 @@ test('two sources resolving to one canonical URL fail closed', () => {
   const { blogDir } = writeBlog({ 'same.md': postSource(), 'same.mdx': postSource() });
   assert.throws(() => loadPosts(blogDir), /same canonical URL/i);
 });
+
+test('editorial team posts declare Organization authorType and preserve Person default in BlogLayout', async () => {
+  const { readFileSync } = await import('node:fs');
+  const { join } = await import('node:path');
+  const { findWeekendExcerpt } = await import('./select.mjs');
+
+  const configSrc = readFileSync(new URL('../../src/content.config.ts', import.meta.url), 'utf8');
+  const layoutSrc = readFileSync(new URL('../../src/layouts/BlogLayout.astro', import.meta.url), 'utf8');
+  assert.match(configSrc, /authorType:\s*z\.enum\(\['Person',\s*'Organization'\]\)\.default\('Person'\)/);
+  assert.match(layoutSrc, /authorType = 'Person'/);
+  assert.match(layoutSrc, /'@type':\s*authorType/);
+
+  const editorialSlugs = [
+    'late-autumn-skate-planning-older-skaters',
+    'how-to-talk-to-your-doctor-about-skateboarding-after-40',
+    'lower-consequence-practice-for-older-skaters',
+  ];
+  for (const slug of editorialSlugs) {
+    const raw = readFileSync(join(REAL_BLOG, `${slug}.md`), 'utf8');
+    const { data } = parseFrontmatter(raw, `${slug}.md`);
+    assert.equal(data.author, 'Concrete Comeback Editorial Team');
+    assert.equal(data.authorType, 'Organization');
+    assert.equal(data.authorAge, undefined);
+    assert.equal(data.authorBio, undefined);
+  }
+
+  const posts = loadPosts(REAL_BLOG).filter((p) => editorialSlugs.includes(p.slug));
+  const weekend = findWeekendExcerpt(posts);
+  assert.ok(weekend, 'seasonal post should provide an eligible weekend excerpt');
+  assert.equal(weekend.source.slug, 'late-autumn-skate-planning-older-skaters');
+});

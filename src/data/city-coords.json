@@ -234,10 +234,20 @@
     "lng": -3.9459,
     "source": "Swansea, Cymru / Wales, SA1 3BN, United Kingdom"
   },
+  "US|alabama|alabaster": {
+    "lat": 33.2443,
+    "lng": -86.8164,
+    "source": "Alabaster, Shelby County, Alabama, 35007, United States"
+  },
   "US|alabama|birmingham": {
     "lat": 33.5207,
     "lng": -86.8024,
     "source": "Birmingham, Jefferson County, Alabama, United States"
+  },
+  "US|alabama|cullman": {
+    "lat": 34.1335,
+    "lng": -86.8779,
+    "source": "Cullman County, Alabama, United States"
   },
   "US|alabama|huntsville": {
     "lat": 34.7298,
@@ -248,6 +258,31 @@
     "lat": 61.2163,
     "lng": -149.8949,
     "source": "Anchorage, Alaska, United States"
+  },
+  "US|alaska|juneau": {
+    "lat": 58.302,
+    "lng": -134.4197,
+    "source": "Juneau, Alaska, United States"
+  },
+  "US|alaska|ketchikan": {
+    "lat": 55.3431,
+    "lng": -131.6467,
+    "source": "Ketchikan, Ketchikan Gateway Borough, Alaska, 99901, United States"
+  },
+  "US|alaska|sitka": {
+    "lat": 57.4086,
+    "lng": -135.4596,
+    "source": "Sitka, Alaska, 99835, United States"
+  },
+  "US|arizona|chandler": {
+    "lat": 33.3062,
+    "lng": -111.8412,
+    "source": "Chandler, Maricopa County, Arizona, United States"
+  },
+  "US|arizona|mesa": {
+    "lat": 33.4151,
+    "lng": -111.8315,
+    "source": "Mesa, Maricopa County, Arizona, United States"
   },
   "US|arizona|peoria": {
     "lat": 33.5806,
@@ -268,6 +303,21 @@
     "lat": 36.3729,
     "lng": -94.2088,
     "source": "Bentonville, Benton County, Arkansas, United States"
+  },
+  "US|arkansas|fort smith": {
+    "lat": 35.388,
+    "lng": -94.4265,
+    "source": "Fort Smith, Sebastian County, Arkansas, United States"
+  },
+  "US|arkansas|north little rock": {
+    "lat": 34.7695,
+    "lng": -92.2671,
+    "source": "North Little Rock, Hill Township, Pulaski County, Arkansas, United States"
+  },
+  "US|arkansas|siloam springs": {
+    "lat": 36.1866,
+    "lng": -94.5414,
+    "source": "Siloam Springs, Benton County, Arkansas, 72761, United States"
   },
   "US|california|berkeley": {
     "lat": 37.8708,
@@ -319,6 +369,11 @@
     "lng": -105.0812,
     "source": "Arvada, Jefferson County, Colorado, United States"
   },
+  "US|colorado|colorado springs": {
+    "lat": 38.834,
+    "lng": -104.8253,
+    "source": "Colorado Springs, El Paso County, Colorado, United States"
+  },
   "US|colorado|denver": {
     "lat": 39.7392,
     "lng": -104.9849,
@@ -329,10 +384,20 @@
     "lng": -105.077,
     "source": "Fort Collins, Larimer County, Colorado, United States"
   },
+  "US|connecticut|bristol": {
+    "lat": 41.6712,
+    "lng": -72.943,
+    "source": "Bristol, Naugatuck Valley Planning Region, Connecticut, United States"
+  },
   "US|connecticut|hamden": {
     "lat": 41.3836,
     "lng": -72.902,
     "source": "Hamden, South Central Connecticut Planning Region, Connecticut, United States"
+  },
+  "US|connecticut|new haven": {
+    "lat": 41.3082,
+    "lng": -72.9251,
+    "source": "New Haven, South Central Connecticut Planning Region, Connecticut, United States"
   },
   "US|connecticut|stamford": {
     "lat": 41.0534,
@@ -343,6 +408,11 @@
     "lat": 39.6828,
     "lng": -75.7516,
     "source": "Newark, New Castle County, Delaware, United States"
+  },
+  "US|delaware|rehoboth beach": {
+    "lat": 38.7165,
+    "lng": -75.0835,
+    "source": "Rehoboth Beach, Sussex County, Delaware, 19771, United States"
   },
   "US|district of columbia|washington": {
     "lat": 38.8951,
@@ -364,6 +434,11 @@
     "lng": -81.379,
     "source": "Orlando, Orange County, Florida, United States"
   },
+  "US|florida|st. petersburg": {
+    "lat": 27.7712,
+    "lng": -82.634,
+    "source": "Saint Petersburg, Pinellas County, Florida, United States"
+  },
   "US|florida|tampa": {
     "lat": 27.945,
     "lng": -82.4583,
@@ -373,6 +448,16 @@
     "lat": 33.7545,
     "lng": -84.3898,
     "source": "Atlanta, Fulton County, Georgia, United States"
+  },
+  "US|georgia|columbus": {
+    "lat": 32.4611,
+    "lng": -84.988,
+    "source": "Columbus, Muscogee County, Georgia, United States"
+  },
+  "US|georgia|dunwoody": {
+    "lat": 33.9464,
+    "lng": -84.3343,
+    "source": "Dunwoody, DeKalb County, Georgia, United States"
   },
   "US|georgia|kennesaw": {
     "lat": 34.0234,
@@ -384,10 +469,20 @@
     "lng": -157.8557,
     "source": "Honolulu, Honolulu County, Hawaii, United States"
   },
+  "US|hawaii|kailua": {
+    "lat": 21.3972,
+    "lng": -157.7394,
+    "source": "Kailua, Honolulu County, Hawaii, United States"
+  },
   "US|hawaii|kihei": {
     "lat": 20.7634,
     "lng": -156.4464,
     "source": "Kihei, Maui County, Hawaii, United States"
+  },
+  "US|hawaii|pearl city": {
+    "lat": 21.4001,
+    "lng": -157.9694,
+    "source": "Pearl City, Honolulu County, Hawaii, 96782, United States"
   },
   "US|idaho|boise": {
     "lat": 43.6166,
@@ -398,6 +493,11 @@
     "lat": 47.6743,
     "lng": -116.7812,
     "source": "Coeur d'Alene, Kootenai County, Idaho, 83815, United States"
+  },
+  "US|idaho|idaho falls": {
+    "lat": 43.4888,
+    "lng": -112.0363,
+    "source": "Idaho Falls, Bonneville County, Idaho, United States"
   },
   "US|idaho|meridian": {
     "lat": 43.6086,
@@ -424,10 +524,25 @@
     "lng": -86.1284,
     "source": "Carmel, Hamilton County, Indiana, United States"
   },
+  "US|indiana|evansville": {
+    "lat": 37.9705,
+    "lng": -87.5716,
+    "source": "Evansville, Vanderburgh County, Indiana, United States"
+  },
+  "US|indiana|fort wayne": {
+    "lat": 41.08,
+    "lng": -85.1386,
+    "source": "Fort Wayne, Allen County, Indiana, United States"
+  },
   "US|indiana|indianapolis": {
     "lat": 39.7683,
     "lng": -86.1584,
     "source": "Indianapolis, Center Township, Marion County, Indiana, United States"
+  },
+  "US|iowa|ames": {
+    "lat": 42.0268,
+    "lng": -93.617,
+    "source": "Ames, Story County, Iowa, United States"
   },
   "US|iowa|cedar rapids": {
     "lat": 41.9759,
@@ -439,10 +554,25 @@
     "lng": -93.6249,
     "source": "Des Moines, Polk County, Iowa, United States"
   },
+  "US|iowa|dubuque": {
+    "lat": 42.5006,
+    "lng": -90.6648,
+    "source": "Dubuque, Dubuque Township, Dubuque County, Iowa, United States"
+  },
+  "US|kansas|lawrence": {
+    "lat": 38.9719,
+    "lng": -95.2359,
+    "source": "Lawrence, Douglas County, Kansas, United States"
+  },
   "US|kansas|lenexa": {
     "lat": 38.9697,
     "lng": -94.7846,
     "source": "Lenexa, Johnson County, Kansas, United States"
+  },
+  "US|kansas|prairie village": {
+    "lat": 38.9914,
+    "lng": -94.6333,
+    "source": "Prairie Village, Johnson County, Kansas, United States"
   },
   "US|kansas|wichita": {
     "lat": 37.6922,
@@ -464,20 +594,45 @@
     "lng": -85.7594,
     "source": "Louisville, Jefferson County, Kentucky, United States"
   },
+  "US|kentucky|paducah": {
+    "lat": 37.0834,
+    "lng": -88.6,
+    "source": "Paducah, McCracken County, Kentucky, United States"
+  },
   "US|louisiana|baton rouge": {
     "lat": 30.4494,
     "lng": -91.187,
     "source": "Baton Rouge, East Baton Rouge Parish, Louisiana, United States"
+  },
+  "US|louisiana|lafayette": {
+    "lat": 30.2262,
+    "lng": -92.0178,
+    "source": "Lafayette, Lafayette Parish, Louisiana, United States"
+  },
+  "US|louisiana|mandeville": {
+    "lat": 30.3582,
+    "lng": -90.0657,
+    "source": "Mandeville, Saint Tammany Parish, Louisiana, United States"
   },
   "US|louisiana|new orleans": {
     "lat": 29.9561,
     "lng": -90.0734,
     "source": "New Orleans, Orleans Parish, Louisiana, United States"
   },
+  "US|maine|bangor": {
+    "lat": 44.8016,
+    "lng": -68.7713,
+    "source": "Bangor, Penobscot County, Maine, 04401, United States"
+  },
   "US|maine|bath": {
     "lat": 43.9134,
     "lng": -69.814,
     "source": "Bath, Sagadahoc County, Maine, 04530, United States"
+  },
+  "US|maine|lewiston": {
+    "lat": 44.0991,
+    "lng": -70.2177,
+    "source": "Lewiston, Androscoggin County, Maine, 04240, United States"
   },
   "US|maine|south portland": {
     "lat": 43.6382,
@@ -489,10 +644,20 @@
     "lng": -76.6108,
     "source": "Baltimore, Maryland, United States"
   },
+  "US|maryland|gaithersburg": {
+    "lat": 39.1399,
+    "lng": -77.1929,
+    "source": "Gaithersburg, Montgomery County, Maryland, United States"
+  },
   "US|maryland|ocean city": {
     "lat": 38.3315,
     "lng": -75.0874,
     "source": "Ocean City, Worcester County, Maryland, United States"
+  },
+  "US|maryland|olney": {
+    "lat": 39.147,
+    "lng": -77.0722,
+    "source": "Olney, Montgomery County, Maryland, United States"
   },
   "US|massachusetts|boston": {
     "lat": 42.3588,
@@ -503,6 +668,16 @@
     "lat": 42.3656,
     "lng": -71.104,
     "source": "Cambridge, Middlesex County, Massachusetts, United States"
+  },
+  "US|massachusetts|scituate": {
+    "lat": 42.1924,
+    "lng": -70.7262,
+    "source": "Scituate, Plymouth County, Massachusetts, United States"
+  },
+  "US|massachusetts|weymouth": {
+    "lat": 42.2212,
+    "lng": -70.9392,
+    "source": "Weymouth, Norfolk County, Massachusetts, United States"
   },
   "US|michigan|ann arbor": {
     "lat": 42.2814,
@@ -529,6 +704,11 @@
     "lng": -83.1446,
     "source": "Royal Oak, Oakland County, Michigan, United States"
   },
+  "US|minnesota|burnsville": {
+    "lat": 44.7671,
+    "lng": -93.2774,
+    "source": "Burnsville, Dakota County, Minnesota, United States"
+  },
   "US|minnesota|golden valley": {
     "lat": 44.9861,
     "lng": -93.3785,
@@ -544,10 +724,25 @@
     "lng": -89.5188,
     "source": "Oxford, Lafayette County, Mississippi, United States"
   },
+  "US|mississippi|petal": {
+    "lat": 31.3466,
+    "lng": -89.2601,
+    "source": "Petal, Forrest County, Mississippi, 39465, United States"
+  },
+  "US|mississippi|southaven": {
+    "lat": 34.9874,
+    "lng": -90.0035,
+    "source": "Southaven, DeSoto County, Mississippi, United States"
+  },
   "US|mississippi|tupelo": {
     "lat": 34.2576,
     "lng": -88.7034,
     "source": "Tupelo, Lee County, Mississippi, United States"
+  },
+  "US|missouri|columbia": {
+    "lat": 38.9519,
+    "lng": -92.3337,
+    "source": "Columbia, Columbia Township, Boone County, Missouri, United States"
   },
   "US|missouri|kansas city": {
     "lat": 39.1001,
@@ -569,6 +764,11 @@
     "lng": -108.4961,
     "source": "Billings, Yellowstone County, Montana, United States"
   },
+  "US|montana|helena": {
+    "lat": 46.5927,
+    "lng": -112.0363,
+    "source": "Helena, Lewis and Clark County, Montana, United States"
+  },
   "US|montana|missoula": {
     "lat": 46.8701,
     "lng": -113.9953,
@@ -579,6 +779,11 @@
     "lng": -114.3346,
     "source": "Whitefish, Flathead County, Montana, 59937, United States"
   },
+  "US|nebraska|grand island": {
+    "lat": 40.9243,
+    "lng": -98.3387,
+    "source": "Grand Island, Hall County, Nebraska, United States"
+  },
   "US|nebraska|lincoln": {
     "lat": 40.8089,
     "lng": -96.7078,
@@ -588,6 +793,11 @@
     "lat": 42.0283,
     "lng": -97.417,
     "source": "Norfolk, Madison County, Nebraska, United States"
+  },
+  "US|nevada|henderson": {
+    "lat": 36.0301,
+    "lng": -114.9815,
+    "source": "Henderson, Clark County, Nevada, United States"
   },
   "US|nevada|las vegas": {
     "lat": 36.1674,
@@ -609,6 +819,16 @@
     "lng": -70.874,
     "source": "Dover, Strafford County, New Hampshire, 03820, United States"
   },
+  "US|new hampshire|keene": {
+    "lat": 42.9336,
+    "lng": -72.2784,
+    "source": "Keene, Cheshire County, New Hampshire, United States"
+  },
+  "US|new hampshire|nashua": {
+    "lat": 42.7656,
+    "lng": -71.4677,
+    "source": "Nashua, Hillsborough County, New Hampshire, United States"
+  },
   "US|new hampshire|portsmouth": {
     "lat": 43.0751,
     "lng": -70.7602,
@@ -618,6 +838,16 @@
     "lat": 40.5052,
     "lng": -74.6733,
     "source": "Hillsborough Township, Somerset County, New Jersey, United States"
+  },
+  "US|new jersey|jersey city": {
+    "lat": 40.7216,
+    "lng": -74.0475,
+    "source": "Jersey City, Hudson County, New Jersey, United States"
+  },
+  "US|new jersey|pennsauken": {
+    "lat": 39.9562,
+    "lng": -75.058,
+    "source": "Pennsauken Township, Camden County, New Jersey, 08110, United States"
   },
   "US|new jersey|sayreville": {
     "lat": 40.4635,
@@ -679,6 +909,11 @@
     "lng": -78.6391,
     "source": "Raleigh, Wake County, North Carolina, United States"
   },
+  "US|north dakota|bismarck": {
+    "lat": 46.8083,
+    "lng": -100.7837,
+    "source": "Bismarck, Burleigh County, North Dakota, United States"
+  },
   "US|north dakota|fargo": {
     "lat": 46.8772,
     "lng": -96.7898,
@@ -704,6 +939,21 @@
     "lng": -81.7982,
     "source": "Lakewood, Cuyahoga County, Ohio, 44107, United States"
   },
+  "US|ohio|newark": {
+    "lat": 40.0581,
+    "lng": -82.4013,
+    "source": "Newark, Licking County, Ohio, 43055, United States"
+  },
+  "US|oklahoma|broken arrow": {
+    "lat": 36.0526,
+    "lng": -95.7908,
+    "source": "Broken Arrow, Tulsa, Oklahoma, United States"
+  },
+  "US|oklahoma|edmond": {
+    "lat": 35.6571,
+    "lng": -97.4649,
+    "source": "Edmond, Oklahoma County, Oklahoma, United States"
+  },
   "US|oklahoma|oklahoma city": {
     "lat": 35.473,
     "lng": -97.5171,
@@ -713,6 +963,11 @@
     "lat": 36.1563,
     "lng": -95.9928,
     "source": "Tulsa, Oklahoma, United States"
+  },
+  "US|oregon|bend": {
+    "lat": 44.0582,
+    "lng": -121.3153,
+    "source": "Bend, Deschutes County, Oregon, United States"
   },
   "US|oregon|eugene": {
     "lat": 44.0505,
@@ -734,6 +989,11 @@
     "lng": -122.6742,
     "source": "Portland, Multnomah County, Oregon, United States"
   },
+  "US|pennsylvania|allentown": {
+    "lat": 40.6023,
+    "lng": -75.4716,
+    "source": "Allentown, Lehigh County, Pennsylvania, United States"
+  },
   "US|pennsylvania|carnegie": {
     "lat": 40.4087,
     "lng": -80.0834,
@@ -748,6 +1008,11 @@
     "lat": 40.4237,
     "lng": -79.8828,
     "source": "Swissvale, Allegheny County, Pennsylvania, 15218, United States"
+  },
+  "US|rhode island|newport": {
+    "lat": 41.49,
+    "lng": -71.3138,
+    "source": "Newport, Newport County, Rhode Island, 02840, United States"
   },
   "US|rhode island|providence": {
     "lat": 41.824,
@@ -769,10 +1034,35 @@
     "lng": -81.0352,
     "source": "Columbia, Richland County, South Carolina, United States"
   },
+  "US|south carolina|myrtle beach": {
+    "lat": 33.6956,
+    "lng": -78.89,
+    "source": "Myrtle Beach, Horry County, South Carolina, United States"
+  },
+  "US|south carolina|spartanburg": {
+    "lat": 34.9498,
+    "lng": -81.932,
+    "source": "Spartanburg, Spartanburg County, South Carolina, United States"
+  },
+  "US|south dakota|brookings": {
+    "lat": 44.3115,
+    "lng": -96.7984,
+    "source": "Brookings, Brookings Township, Brookings County, South Dakota, United States"
+  },
   "US|south dakota|sioux falls": {
     "lat": 43.5476,
     "lng": -96.7294,
     "source": "Sioux Falls, Sioux Falls Township, Minnehaha County, South Dakota, United States"
+  },
+  "US|south dakota|watertown": {
+    "lat": 44.8992,
+    "lng": -97.1153,
+    "source": "Watertown, Elmira Township, Codington County, South Dakota, 57201, United States"
+  },
+  "US|south dakota|yankton": {
+    "lat": 42.8713,
+    "lng": -97.3967,
+    "source": "Yankton, Mission Hill South Township, Yankton County, South Dakota, 57078, United States"
   },
   "US|tennessee|knoxville": {
     "lat": 35.9604,
@@ -829,10 +1119,30 @@
     "lng": -111.8868,
     "source": "Salt Lake City, Salt Lake County, Utah, United States"
   },
+  "US|utah|st. george": {
+    "lat": 37.1099,
+    "lng": -113.5832,
+    "source": "St. George, Washington County, Utah, United States"
+  },
+  "US|utah|taylorsville": {
+    "lat": 40.6676,
+    "lng": -111.9388,
+    "source": "Taylorsville, Salt Lake County, Utah, 84129, United States"
+  },
+  "US|vermont|bennington": {
+    "lat": 42.8789,
+    "lng": -73.1968,
+    "source": "Bennington, Bennington County, Vermont, United States"
+  },
   "US|vermont|burlington": {
     "lat": 44.4762,
     "lng": -73.2129,
     "source": "Burlington, Chittenden County, Vermont, United States"
+  },
+  "US|vermont|manchester": {
+    "lat": 43.1769,
+    "lng": -73.0569,
+    "source": "Manchester, Bennington County, Vermont, United States"
   },
   "US|vermont|south burlington": {
     "lat": 44.4643,
@@ -849,6 +1159,11 @@
     "lng": -77.0893,
     "source": "Arlington County, Virginia, United States"
   },
+  "US|virginia|charlottesville": {
+    "lat": 38.0293,
+    "lng": -78.4767,
+    "source": "Charlottesville, Virginia, United States"
+  },
   "US|virginia|virginia beach": {
     "lat": 36.8497,
     "lng": -75.9761,
@@ -858,6 +1173,11 @@
     "lat": 47.6144,
     "lng": -122.1923,
     "source": "Bellevue, King County, Washington, United States"
+  },
+  "US|washington|port angeles": {
+    "lat": 48.1181,
+    "lng": -123.4307,
+    "source": "Port Angeles, Clallam County, Washington, 98362, United States"
   },
   "US|washington|seattle": {
     "lat": 47.6038,
@@ -874,6 +1194,21 @@
     "lng": -122.4383,
     "source": "Tacoma, Pierce County, Washington, United States"
   },
+  "US|west virginia|fayetteville": {
+    "lat": 38.0531,
+    "lng": -81.104,
+    "source": "Fayetteville, Fayette County, West Virginia, 25840, United States"
+  },
+  "US|west virginia|hurricane": {
+    "lat": 38.4326,
+    "lng": -82.0201,
+    "source": "Hurricane, Putnam County, West Virginia, United States"
+  },
+  "US|west virginia|parkersburg": {
+    "lat": 39.2667,
+    "lng": -81.5621,
+    "source": "Parkersburg, Wood County, West Virginia, United States"
+  },
   "US|west virginia|wheeling": {
     "lat": 40.064,
     "lng": -80.7209,
@@ -884,15 +1219,45 @@
     "lng": -88.0126,
     "source": "Green Bay, Brown County, Wisconsin, United States"
   },
+  "US|wisconsin|greenfield": {
+    "lat": 42.9597,
+    "lng": -87.9813,
+    "source": "Greenfield, Milwaukee County, Wisconsin, United States"
+  },
+  "US|wisconsin|la crosse": {
+    "lat": 43.8123,
+    "lng": -91.2514,
+    "source": "La Crosse, La Crosse County, Wisconsin, United States"
+  },
   "US|wisconsin|madison": {
     "lat": 43.0747,
     "lng": -89.3842,
     "source": "Madison, Dane County, Wisconsin, United States"
   },
+  "US|wisconsin|sun prairie": {
+    "lat": 43.1833,
+    "lng": -89.2128,
+    "source": "Sun Prairie, Dane County, Wisconsin, United States"
+  },
+  "US|wyoming|cody": {
+    "lat": 44.5263,
+    "lng": -109.0564,
+    "source": "Cody, Park County, Wyoming, United States"
+  },
   "US|wyoming|jackson": {
     "lat": 43.48,
     "lng": -110.7618,
     "source": "Jackson, Teton County, Wyoming, United States"
+  },
+  "US|wyoming|laramie": {
+    "lat": 41.3116,
+    "lng": -105.5918,
+    "source": "Laramie, Albany County, Wyoming, United States"
+  },
+  "US|wyoming|sheridan": {
+    "lat": 44.7972,
+    "lng": -106.9562,
+    "source": "Sheridan, Sheridan County, Wyoming, 82801, United States"
   },
   "AU": {
     "lat": -33.5878,
@@ -910,8 +1275,8 @@
     "source": "derived: mean of 18 listed UK cities"
   },
   "US": {
-    "lat": 38.9374,
-    "lng": -94.6739,
-    "source": "derived: mean of 132 listed US cities"
+    "lat": 39.2155,
+    "lng": -94.3831,
+    "source": "derived: mean of 203 listed US cities"
   }
 }

@@ -20,10 +20,10 @@ website: "https://www.bentonvillear.com/Facilities/Facility/Details/Memorial-Par
 googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=401+NE+Martin+Luther+King+Jr+Pkwy+Bentonville+AR"
 featured: false
 addedDate: 2026-10-06
-lastVerified: 2026-10-06
+lastVerified: 2026-11-02
 tags: ["concrete", "free", "lit", "flow"]
 ---
 
 Memorial Park offers a well-rounded concrete facility that caters to riders of all abilities. The park's layout emphasizes flow, featuring mellow wedge transitions and forgiving quarter pipes that provide an excellent starting point for older beginners getting comfortable on their boards.
 
-A major draw for returning skaters is the lighting system, which keeps the park brightly lit until 11:00 pm. This allows for quiet, late-evening sessions when the park is less crowded, making it easier to practice at your own pace without navigating around heavy traffic. Early mornings here are also famously peaceful.
+A major draw for returning skaters is the lighting system, which keeps the park brightly lit until 11:00 pm. This allows for quiet, late-evening sessions when the park is less crowded, making it easier to practice at your own pace without navigating around heavy traffic. Early mornings here are also famously peaceful. Across Northwest Arkansas, you can also pair an evening session here with [Bob Henry Park Skatepark](/directory/parks/us/bob-henry-park-skatepark-siloam-springs-ar) in Siloam Springs.

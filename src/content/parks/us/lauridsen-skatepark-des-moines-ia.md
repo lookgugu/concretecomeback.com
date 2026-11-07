@@ -20,7 +20,7 @@ website: "https://dsmskatepark.com"
 googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=Lauridsen+Skatepark+901+2nd+Ave+Des+Moines+IA+50309"
 featured: false
 addedDate: 2026-09-18
-lastVerified: 2026-09-18
+lastVerified: 2026-10-31
 tags: ["concrete", "free", "lit", "des-moines", "iowa", "flow-bowl"]
 ---
 
@@ -28,4 +28,4 @@ Spanning over 88,000 square feet in downtown Des Moines, Lauridsen Skatepark is 
 
 The best place to start is the Skate Promenade — a nearly quarter-mile long, 38-foot-wide concrete boulevard equipped with mellow pump bumps, low flat-rails, and broad manual pads. Because the promenade is physically separated from the high-speed competition bowls and stair sets, you can practice balance, carving, and basic edge control without cross-traffic concerns. Transition skaters can warm up in the junior Flow Bowl, which offers gentle roll-ins and manageable coping designed specifically for gradual skill progression.
 
-Early weekday mornings between 6:00 AM and 9:00 AM offer peaceful sessions with cool river breezes and empty concrete. The park is free, fully lit until 10:30pm every evening, and provides dedicated parking off Illinois Street with modern restroom facilities on site. BMX riders are permitted only with plastic pegs to preserve the smooth concrete surface.
+Early weekday mornings between 6:00 AM and 9:00 AM offer peaceful sessions with cool river breezes and empty concrete. The park is free, fully lit until 10:30pm every evening, and provides dedicated parking off Illinois Street with modern restroom facilities on site. BMX riders are permitted only with plastic pegs to preserve the smooth concrete surface. For a smaller lit neighborhood session 35 minutes north on I-35 where bikes and scooters are prohibited by city code, head up to [Georgie Tsushima Memorial Skate Park](/directory/parks/us/georgie-tsushima-memorial-skate-park-ames-ia) in Ames.

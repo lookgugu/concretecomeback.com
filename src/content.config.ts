@@ -34,6 +34,7 @@ const blog = defineCollection({
     pubDate: z.coerce.date(),
     updatedDate: z.coerce.date().optional(),
     author: z.string(),
+    authorType: z.enum(['Person', 'Organization']).default('Person'),
     authorAge: z.number().int().min(30).max(80).optional(),
     authorBio: z.string().max(200).optional(),
     tags: z.array(z.string()).min(1).max(8),

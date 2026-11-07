@@ -12,7 +12,7 @@ servicesOffered: ["decks", "completes", "trucks", "wheels", "bearings", "shoes",
 hasOnlineShop: true
 featured: false
 addedDate: 2026-09-05
-lastVerified: 2026-10-10
+lastVerified: 2026-10-29
 ---
 
-Labor opened in 2012 as a skateboarder-owned shop — owner James Rewolinski came up through a Milwaukee core shop before moving to New York — and it has stayed that kind of place: the counter is staffed by people who skate the city. Hours are 11am to 7pm Monday to Saturday and 11am to 6pm Sunday, and the online store offers free shipping over $120. Pier 62 on the Hudson, with its marked beginner zone, and Astoria Skatepark beside the RFK Bridge in Queens are ideal parks to pair it with. The shop also serves as a welcoming equipment hub for local collectives including SKATEYOGI and the Brooklyn Skate Moms.
+Labor opened in 2012 as a skateboarder-owned shop — owner James Rewolinski came up through a Milwaukee core shop before moving to New York — and it has stayed that kind of place: the counter is staffed by people who skate the city. Hours are 11am to 7pm Monday to Saturday and 11am to 6pm Sunday, and the online store offers free shipping over $120. [Pier 62 Skatepark](/directory/parks/us/pier-62-skatepark-new-york-ny) on the Hudson, with its marked beginner zone, [Astoria Skatepark](/directory/parks/us/astoria-skatepark-queens-ny) beside the RFK Bridge in Queens, and [Berry Lane Skatepark](/directory/parks/us/berry-lane-skatepark-jersey-city-nj) just across the Hudson River in Jersey City are ideal parks to pair it with. The shop also serves as a welcoming equipment hub for local collectives including SKATEYOGI and the Brooklyn Skate Moms.

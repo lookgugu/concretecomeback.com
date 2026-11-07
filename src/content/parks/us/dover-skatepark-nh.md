@@ -17,8 +17,8 @@ entryFee: "Free"
 googleMapsUrl: "https://www.google.com/maps/search/?api=1&query=Guppey+Park+Portland+Ave+Dover+NH+03820"
 featured: false
 addedDate: 2026-09-30
-lastVerified: 2026-09-30
+lastVerified: 2026-10-24
 tags: ["lit", "free"]
 ---
 
-A modern concrete facility that has quickly become a community hub. The park's welcoming atmosphere and top-tier amenities, notably its full lighting system, make it especially practical for older skaters who need evening access to practice their skills.
+A modern concrete facility that has quickly become a community hub. The park's welcoming atmosphere and top-tier amenities, notably its full lighting system, make it especially practical for older skaters who need evening access to practice their skills. You can also pair a Seacoast session here with [Chris Rice Skateboard Park](/directory/parks/us/chris-rice-skateboard-park-portsmouth-nh) in nearby Portsmouth or head southwest to the lit 20,000-square-foot [David W. Deane Skateboard Park](/directory/parks/us/david-w-deane-skateboard-park-nashua-nh) in Nashua.
