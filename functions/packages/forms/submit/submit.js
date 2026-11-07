@@ -42,40 +42,6 @@ const FIELD_LIMITS = {
   email: 320,
 };
 
-const RATE_LIMIT_WINDOW_MS = 10 * 60 * 1000;
-const RATE_LIMIT_MAX = 3;
-const submissionTimes = new Map();
-
-function getHeader(args, name) {
-  const headers = (args.http && args.http.headers) || args.__ow_headers || {};
-  const target = name.toLowerCase();
-  for (const [key, value] of Object.entries(headers)) {
-    if (key.toLowerCase() === target) return String(value);
-  }
-  return '';
-}
-
-function clientAddress(args) {
-  const forwarded = getHeader(args, 'x-forwarded-for');
-  return (forwarded.split(',')[0] || getHeader(args, 'x-real-ip')).trim();
-}
-
-function isRateLimited(client, now = Date.now()) {
-  if (!client) return false;
-
-  const recent = (submissionTimes.get(client) || [])
-    .filter((timestamp) => now - timestamp < RATE_LIMIT_WINDOW_MS);
-
-  if (recent.length >= RATE_LIMIT_MAX) {
-    submissionTimes.set(client, recent);
-    return true;
-  }
-
-  recent.push(now);
-  submissionTimes.set(client, recent);
-  return false;
-}
-
 // DO's web action usually parses a form-encoded body into `args`, but if the
 // fields didn't arrive parsed, fall back to decoding the raw body ourselves.
 function withFormBody(args) {
@@ -170,15 +136,6 @@ async function main(args) {
   const isValidEmail = /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(submitterEmail);
   if (submitterEmail && !isValidEmail) {
     return errorPage('The submitter email address was invalid.', 400);
-  }
-
-  const client = clientAddress(args);
-  if (isRateLimited(client)) {
-    return errorPage(
-      'Too many submissions were received from this address. Please try again in 10 minutes.',
-      429,
-      { 'retry-after': '600' },
-    );
   }
 
   const apiKey = process.env.RESEND_API_KEY;
