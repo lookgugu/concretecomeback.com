@@ -48,11 +48,11 @@ const { title, description, breadcrumbs, totalCount, structuredData } = Astro.pr
           <slot />
         </div>
 
-        <p id="no-results" hidden class="py-12 text-center text-concrete-400">
+        <p id="no-results" hidden class="py-12 text-center text-concrete-500">
           No listings match your filters. <button
             type="button"
             onclick="document.getElementById('directory-filter')?.reset(); window.history.replaceState(null,'',window.location.pathname);"
-            class="text-skate-orange underline hover:no-underline bg-transparent border-0 cursor-pointer p-0 min-h-0 min-w-0"
+            class="text-skate-orange-ink underline hover:no-underline bg-transparent border-0 cursor-pointer p-0 min-h-0 min-w-0"
           >Clear all filters</button>
         </p>
       </div>

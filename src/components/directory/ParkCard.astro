@@ -32,7 +32,7 @@ const dataAttrs = {
 };
 ---
 <article
-  class="bg-white border border-concrete-200 rounded-xl overflow-hidden shadow-card hover:shadow-card-hover hover:border-concrete-300 transition-all flex flex-col"
+  class="bg-white border border-concrete-200 rounded-xl overflow-hidden shadow-card hover:shadow-card-hover hover:border-concrete-300 transition-[box-shadow,border-color] flex flex-col"
   {...dataAttrs}
 >
   {heroImage && (
@@ -40,7 +40,7 @@ const dataAttrs = {
       <img
         src={heroImage}
         alt={heroImageAlt ?? name}
-        class="w-full h-40 object-cover hover:scale-105 transition-transform duration-300"
+        class="w-full h-40 object-cover"
         loading="lazy"
         width="400"
         height="160"
@@ -51,7 +51,7 @@ const dataAttrs = {
   <div class="p-5 flex flex-col flex-1">
     <div class="flex items-start justify-between gap-2 mb-2">
       <h3 class="font-display text-lg text-concrete-900 leading-snug">
-        <a href={`/directory/parks/${entry.id}`} class="hover:text-skate-orange transition-colors no-underline">
+        <a href={`/directory/parks/${entry.id}`} class="hover:text-skate-orange-ink transition-colors no-underline">
           {name}
         </a>
       </h3>
@@ -59,7 +59,7 @@ const dataAttrs = {
     </div>
 
     <p class="text-sm text-concrete-500 mb-3">
-      {location}<span data-distance class="text-skate-orange font-medium" hidden></span>
+      {location}<span data-distance class="text-skate-orange-ink font-medium" hidden></span>
     </p>
 
     <div class="flex flex-wrap gap-1.5 mb-3">
@@ -70,7 +70,7 @@ const dataAttrs = {
     <div class="flex flex-wrap gap-1 mb-3">
       {features.slice(0, maxFeatures).map((f) => <FeatureBadge label={f} />)}
       {extraFeatures > 0 && (
-        <span class="px-2 py-0.5 text-xs rounded-full bg-concrete-100 text-concrete-400 border border-concrete-200">
+        <span class="px-2 py-0.5 text-xs rounded-full bg-concrete-100 text-concrete-500 border border-concrete-200">
           +{extraFeatures} more
         </span>
       )}
@@ -79,14 +79,14 @@ const dataAttrs = {
     <div class="mt-auto flex items-center justify-between text-sm">
       <div class="flex items-center gap-2">
         {adultFriendly && (
-          <span class="flex items-center gap-1 text-skate-green font-medium text-xs">
+          <span class="flex items-center gap-1 text-skate-green-ink font-medium text-xs">
             <svg width="12" height="12" viewBox="0 0 12 12" fill="currentColor" aria-hidden="true">
               <path d="M6 0a6 6 0 1 1 0 12A6 6 0 0 1 6 0Zm2.78 4.22a.75.75 0 0 0-1.06 0L5.25 6.69l-.97-.97a.75.75 0 0 0-1.06 1.06l1.5 1.5a.75.75 0 0 0 1.06 0l3-3a.75.75 0 0 0 0-1.06Z"/>
             </svg>
             Welcomes Older Skaters
           </span>
         )}
-        {isIndoor && <span class="text-xs text-concrete-400">Indoor</span>}
+        {isIndoor && <span class="text-xs text-concrete-500">Indoor</span>}
       </div>
       {entryFee && (
         <span class="text-xs text-concrete-500 font-medium">{entryFee}</span>
