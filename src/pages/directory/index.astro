@@ -10,21 +10,18 @@ const groups = await getCollection('groups');
 const sections = [
   {
     href: '/directory/parks',
-    emoji: '🛹',
     title: 'Skate Parks',
     description: 'Parks welcoming to older skaters across the US, UK, Canada, and Australia, rated for difficulty, surface type, features, and facilities.',
     count: parks.length,
   },
   {
     href: '/directory/shops',
-    emoji: '🏪',
     title: 'Local Skateboard Shops',
     description: 'Brick-and-mortar shops with knowledgeable staff who understand what returning older skaters need.',
     count: shops.length,
   },
   {
     href: '/directory/groups',
-    emoji: '👥',
     title: 'Groups & Communities',
     description: 'In-person meetup groups and online communities for older skaters.',
     count: groups.length,
@@ -49,17 +46,16 @@ const sections = [
       {sections.map((s) => (
         <a
           href={s.href}
-          class="group bg-white border border-concrete-200 rounded-xl p-7 shadow-card hover:shadow-card-hover hover:border-skate-orange/40 transition-all no-underline flex flex-col"
+          class="group bg-white border border-concrete-200 rounded-xl p-7 shadow-card hover:shadow-card-hover hover:border-skate-orange/40 transition-[box-shadow,border-color] no-underline flex flex-col"
         >
-          <span class="text-5xl mb-5" aria-hidden="true">{s.emoji}</span>
-          <h2 class="font-display text-xl text-concrete-900 mb-3 group-hover:text-skate-orange transition-colors">
+          <h2 class="font-display text-xl text-concrete-900 mb-3 group-hover:text-skate-orange-ink transition-colors">
             {s.title}
           </h2>
           <p class="text-concrete-500 text-sm flex-1 leading-relaxed">{s.description}</p>
           <div class="mt-5 flex items-center justify-between">
-            <span class="text-xs text-concrete-400 uppercase tracking-wide">{s.count} listings</span>
-            <span class="text-skate-orange font-semibold text-sm group-hover:translate-x-1 transition-transform inline-block">
-              Browse →
+            <span class="text-xs text-concrete-500">{s.count} listings</span>
+            <span class="text-skate-orange-ink font-semibold text-sm group-hover:translate-x-1 transition-transform inline-block">
+              Browse
             </span>
           </div>
         </a>

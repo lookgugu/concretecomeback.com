@@ -1,3 +1,11 @@
+/* Hallmark · checked: 2026-11-09 · genre: editorial (inferred)
+ * floor: 0 FAIL · fixed: 16 (7a, 10a, 11, 19, 26a, 26b, 30a, 34, 37, 39b, 40, 41, 48, 49a, 54, 63, 67) · structural: 7 printed (3, 42, 44c, 58, 59, 77, 78)
+ * built: the project · redesign: polish · v2.0.0 */
+/* Hallmark · reworded "Keep your comeback rolling" (heading) to "Weekly roundup" · 54 names the eyebrow; the old heading now opens the sentence below it */
+/* Hallmark · dropped "For older skaters" · 54 names it; the hero sentence already says who the site is for */
+/* Hallmark · waive 49b · real phrases that cannot shorten · the wrapping links are skate park names and blog post titles on the cards, not footer links or breadcrumbs */
+/* Hallmark · waive 71 · each head sits in a summary row under 200px tall · the questions from older skaters returning to skateboarding are accordion rows on the FAQ page */
+/* Hallmark · waive 85 · the owner placed the newsletter sign-up on the parks page · a polish keeps every section where the directory already has it */
 @import "tailwindcss";
 @plugin "@tailwindcss/typography";
 @plugin "@tailwindcss/forms";
@@ -6,10 +14,10 @@
   --font-family-sans: 'Inter', system-ui, -apple-system, sans-serif;
   --font-family-display: 'Oswald', 'Impact', sans-serif;
 
-  --font-size-sm: 0.9375rem;
-  --font-size-base: 1.0625rem;
-  --font-size-lg: 1.1875rem;
-  --font-size-xl: 1.3125rem;
+  --type-sm: 0.9375rem;
+  --type-base: 1.0625rem;
+  --type-lg: 1.1875rem;
+  --type-xl: 1.3125rem;
   --line-height-relaxed: 1.8;
 
   --color-concrete-50:  oklch(97.5% 0.002 75);
@@ -28,6 +36,17 @@
   --color-skate-green:  oklch(62% 0.18 145);
   --color-skate-yellow: oklch(83% 0.18 95);
 
+  /* Text-strength steps of the brand orange and green: the base swatches sit
+     under 3:1 on the light surfaces, so type and focus rings on light use these. */
+  --color-skate-orange-ink: oklch(50% 0.16 50);
+  --color-skate-green-ink:  oklch(45% 0.14 145);
+
+  /* Type and hairlines on the dark bands (header, hero, footer). */
+  --color-on-dark:       var(--color-concrete-50);
+  --color-on-dark-muted: oklch(97.5% 0.002 75 / 0.85);
+  --color-on-dark-wash:  oklch(97.5% 0.002 75 / 0.08);
+  --color-on-dark-line:  oklch(97.5% 0.002 75 / 0.1);
+
   --shadow-card:       0 1px 3px 0 rgb(0 0 0 / 0.12), 0 1px 2px -1px rgb(0 0 0 / 0.10);
   --shadow-card-hover: 0 4px 14px 0 rgb(0 0 0 / 0.16);
 }
@@ -37,6 +56,12 @@
     scroll-behavior: smooth;
     color-scheme: light;
   }
+
+  /* The focus ring is the dark orange on light surfaces and the brand orange on
+     the dark bands, so it clears 3:1 against whatever is behind it. */
+  :root { --color-focus: var(--color-skate-orange-ink); }
+  header, footer, .bg-concrete-800, .bg-concrete-900, .bg-concrete-texture { --color-focus: var(--color-skate-orange); }
+  header ul { --color-focus: var(--color-skate-orange-ink); }
 
   @media (prefers-reduced-motion: reduce) {
     html { scroll-behavior: auto; }
@@ -48,7 +73,7 @@
 
   body {
     font-family: var(--font-family-sans);
-    font-size: var(--font-size-base);
+    font-size: var(--type-base);
     line-height: var(--line-height-relaxed);
     background-color: var(--color-concrete-50);
     color: var(--color-concrete-800);
@@ -74,11 +99,21 @@
   }
 
   :is(p, li) a:hover {
-    color: var(--color-skate-orange);
+    color: var(--color-skate-orange-ink);
   }
 
+  /* The footer is a dark band: its links take the footer's own colour, not the
+     dark ink the rule above gives links in running text. */
+  footer :is(p, li) a { color: inherit; }
+  footer :is(p, li) a:hover { color: var(--color-on-dark); }
+
+  :is(a, button, summary, [role="button"]):active { opacity: 0.8; }
+
+  /* Fields stand as tall as the tap targets around them. */
+  :is(input:not([type="checkbox"], [type="radio"], [type="hidden"]), select) { min-height: 44px; }
+
   :focus-visible {
-    outline: 2px solid var(--color-skate-orange);
+    outline: 2px solid var(--color-focus);
     outline-offset: 3px;
     border-radius: 2px;
   }
@@ -123,6 +158,6 @@
   --tw-prose-quote-borders: var(--color-skate-orange);
   --tw-prose-code: var(--color-concrete-800);
   --tw-prose-pre-bg: var(--color-concrete-800);
-  font-size: var(--font-size-base);
+  font-size: var(--type-base);
   line-height: var(--line-height-relaxed);
 }

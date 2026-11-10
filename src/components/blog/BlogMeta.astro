@@ -19,15 +19,13 @@ const formattedUpdated = updatedDate?.toLocaleDateString('en-US', {
 <div class="flex flex-wrap items-center gap-x-4 gap-y-1 text-sm text-concrete-500 border-b border-concrete-100 pb-4">
   <span>
     By <strong class="text-concrete-700">{author}</strong>
-    {authorAge && <span class="text-concrete-400">, {authorAge}</span>}
+    {authorAge && <span class="text-concrete-500">, {authorAge}</span>}
   </span>
-  <span aria-hidden="true">·</span>
   <time datetime={pubDate.toISOString()}>
     {formattedDate}
   </time>
   {updatedDate && (
     <>
-      <span aria-hidden="true">·</span>
       <span>Updated <time datetime={updatedDate.toISOString()}>{formattedUpdated}</time></span>
     </>
   )}

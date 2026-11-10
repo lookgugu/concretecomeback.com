@@ -21,12 +21,12 @@ export interface Props {
 const props = Astro.props;
 ---
 <!doctype html>
-<html lang="en">
+<html lang="en" class="overflow-x-clip">
   <head>
     <SEOHead {...props} canonicalURL={Astro.url} />
     <link rel="alternate" type="application/rss+xml" title="Concrete Comeback" href="/feed.xml" />
   </head>
-  <body>
+  <body class="overflow-x-clip">
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N65JD942"
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
