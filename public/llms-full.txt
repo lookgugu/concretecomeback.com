@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-11-07T04:08:05.407Z
+# Date: 2026-11-11T00:47:23.029Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -8192,6 +8192,20 @@ Set inside the 17-acre remediated grounds of Berry Lane Park in Jersey City's Be
 SITE Design Group organized the slab so older skaters can warm up on low-consequence terrain before dropping into deeper transition. One side of the park features a dedicated backyard-style bowl with a clamshell pocket, a built-in bank, and an extended shallow quarter-pipe section that can be ridden back and forth like a mini-ramp, while the street plaza stretches out across flatground corridors with a pump bump, roller, layback bank, hipped quarter-pipes, a bump-to-ledge, an A-frame ledge combo, a split-level A-frame with gap, a flat rail over a gap, and a 3-stair rail. Keep a few operational caveats in mind: the skatepark is an unlit dawn-to-dusk facility without dedicated overhead floodlighting on the concrete, operates as an unsupervised all-wheel park where bikes and scooters share the lines during busy after-school hours, and is best visited on weekday mornings for calm sessions. You can easily pair a Hudson County session here with [Sayreville Skatepark](/directory/parks/us/sayreville-skatepark-nj) down the Turnpike, or hop across the Hudson River into Manhattan to visit [Labor Skateshop](/directory/shops/us/labor-skateshop-new-york-ny) and [Pier 62 Skatepark](/directory/parks/us/pier-62-skatepark-new-york-ny).
 
 
+### Blandair Skatepark
+A 15,000-square-foot lighted concrete skatepark in the west area of Howard County's Blandair Regional Park, opened in June 2026. Howard County says the design follows the site's slope and accommodates a range of skill levels and terrain preferences.
+Location: Columbia, Maryland, US
+Website: https://www.howardcountymd.gov/BlandairPark
+
+Blandair Skatepark opened in June 2026 in the west area of Blandair Regional Park, off Oakland Mills Road in Columbia. At 15,000 square feet it is the largest skatepark in Howard County and the fourth public skate facility run by Howard County Recreation & Parks. The county describes a modern concrete design built into the site's slope and meant for a variety of wheeled sports, riding styles, terrain preferences and skill levels.
+
+The reason it suits older skaters is the lighting. Howard County lists the skatepark as lighted, which makes evening sessions around a working day possible. The same project added 122 parking spaces, and a shaded seating area overlooks the park for breaks between runs. Trucks and Fins lists banks, quarter pipes, a mini ramp, ledges, a manual pad, stairs with a handrail, a wallride and a bowl. If you are rebuilding confidence, start on the banks, manual pad and mini ramp before the bowl.
+
+Two caveats. The county also calls this a competition-level skatepark and it is open to bikes and scooters, so expect fast traffic at peak times. Published park hours are 7am to dusk or as posted, and no source we read gives the skatepark's lighting schedule, so check the county site or the signs on site before planning a late session.
+
+For more sessions nearby, [Skatepark of Baltimore](/directory/parks/us/skatepark-of-baltimore-md) and [Hazelwood Skatepark](/directory/parks/us/hazelwood-skatepark-baltimore-md) are to the northeast, and [Olney Manor Skate Park](/directory/parks/us/olney-manor-skate-park-md) and [Ovid Hazen Wells Skate Park](/directory/parks/us/ovid-hazen-wells-skate-park-clarksburg-md) are to the west in Montgomery County.
+
+
 ### Bob Henry Park Skatepark (Siloam Springs Skatepark)
 A floodlit poured-concrete municipal skatepark in Siloam Springs' Bob Henry Park open until 11pm, combining a street and mini-ramp course of progressive ledge heights with an October 2024 poured-concrete ramp renovation.
 Location: Siloam Springs, Arkansas, US
@@ -9359,6 +9373,20 @@ Location: Orlando, Florida, US
 Website: https://www.orlando.gov/Parks-the-Environment/Directory/Orlando-Skate-Park
 
 Orlando Skate Park provides a welcoming 15,000-square-foot outdoor environment located centrally in the Milk District. For older skaters returning to the sport, the park's explicitly designated beginner’s area offers a safe, physically separated space to warm up away from the deep bowls and advanced flow lines. Extensive lighting allows for cooler evening sessions out of the harsh Florida sun.
+
+
+### Ovid Hazen Wells Skate Park
+A 12,000-square-foot Spohn Ranch concrete skatepark in Montgomery Parks' Ovid Hazen Wells Recreational Park, opened in March 2026. Montgomery Parks describes its tiered peanut-shaped bowl as mellow, and a flowing street section sits alongside it. Open sunrise to sunset.
+Location: Clarksburg, Maryland, US
+Website: https://montgomeryparks.org/parks-and-trails/ovid-hazen-wells-recreational-park/
+
+Ovid Hazen Wells Skate Park opened in March 2026 as the fourth Montgomery Parks skatepark and the first in the northern part of the county. The 12,000-square-foot concrete park was designed by Spohn Ranch after Montgomery Parks staff met with hundreds of local skateboarders. It sits inside the 290-acre Ovid Hazen Wells Recreational Park in Clarksburg, which reopened in May 2026 with a restored carousel, playgrounds, picnic shelters and trails.
+
+For older skaters finding their feet again, the draw is the bowl. Montgomery Parks calls the tiered, peanut-shaped bowl mellow, and its opening announcement notes a roll-in, so you can enter without dropping in. The street section offers quarter pipes and radius wedges, a bank to a brick-pattern slappy curb, a flat bar, a rainbow rail and a kinked round rail. A stair set with handrail and grind ledge, a volcano and a Euro gap are there for later. Start with the shallow end of the bowl and the slappy curb.
+
+Plan around three things. The park follows recreational park hours of sunrise to sunset, so winter after-work sessions are short. It is open to scooters and bikes as well as skateboards and inline skates, and local skaters report that it fills up quickly at busy times, so early mornings are the calmer window. The skatepark is also a walk from the parking lots. Restrooms are at the carousel house from April to October, with portable toilets in the park.
+
+For lit evening sessions in Montgomery County, pair this park with [Olney Manor Skate Park](/directory/parks/us/olney-manor-skate-park-md), open until 10pm, or the supervised [Gaithersburg Skate Park](/directory/parks/us/gaithersburg-skate-park-md). [Blandair Skatepark](/directory/parks/us/blandair-skatepark-columbia-md) in Columbia is a lighted option to the east.
 
 
 ### Owens Field Skatepark

@@ -644,6 +644,16 @@
     "lng": -76.6108,
     "source": "Baltimore, Maryland, United States"
   },
+  "US|maryland|clarksburg": {
+    "lat": 39.23,
+    "lng": -77.26,
+    "source": "Clarksburg, Montgomery County, Maryland, United States (manual centroid, mapsofworld.com; Nominatim unreachable at entry time - rerun geocode-cities.mjs --force to replace)"
+  },
+  "US|maryland|columbia": {
+    "lat": 39.2404,
+    "lng": -76.8394,
+    "source": "Columbia, Howard County, Maryland, United States (manual centroid, time-ok.com; Nominatim unreachable at entry time - rerun geocode-cities.mjs --force to replace)"
+  },
   "US|maryland|gaithersburg": {
     "lat": 39.1399,
     "lng": -77.1929,
