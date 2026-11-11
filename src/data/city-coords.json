@@ -164,6 +164,11 @@
     "lng": 0.2498,
     "source": "London Borough of Havering, Greater London, England, United Kingdom"
   },
+  "UK|england|haywards heath": {
+    "lat": 51.0,
+    "lng": -0.1,
+    "source": "Haywards Heath, Mid Sussex, West Sussex, England, United Kingdom (manual centroid, wiki.openstreetmap.org; Nominatim unreachable at entry time - rerun geocode-cities.mjs --force to replace)"
+  },
   "UK|england|hove": {
     "lat": 50.8287,
     "lng": -0.1746,
