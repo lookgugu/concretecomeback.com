@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-11-11T00:47:23.029Z
+# Date: 2026-11-11T02:55:22.991Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -10563,6 +10563,30 @@ Website: https://www.meetup.com/toronto-adult-skaters
 Toronto Adult Skate Nights is a reliable option for adult skaters in the city. The Friday evening time works well for people with standard work schedules, and the rotating park location keeps things varied.
 
 
+### The Compound Adult Skate Program
+A coached Tuesday-night program for skaters aged 18 and over at The Compound, an indoor skatepark in Calgary. The park is reserved for the group, instruction is grouped by ability, and the program is open to first-timers, returning skaters and advanced skaters.
+Location: Calgary, Alberta, CA
+Website: https://thecompoundyyc.com/adult-skate-program/
+
+The Compound, at 4303 9th St SE in Calgary, reserves its indoor park for skaters 18 and over on Tuesday nights. The program addresses three groups by name: people who used to skate and want to get back into it, people who still skate and want pointers, and people who have never stood on a board.
+
+Each night has a fixed structure. It starts with a 40-minute warm-up and instruction in groups set by ability. Then there are 40 minutes of free skating with coaches on hand, and a cool-down and recap to finish. All zones of the park are open during the session, including the beginner area, the street section, the bowl and the flatground.
+
+This is a paid program. It runs in blocks of four to six weeks, and a single drop-in session is also available. Dates and prices change by season, so check the program page. A skateboard and helmet are mandatory at the park, and every skater must complete a waiver. For outdoor sessions in the city, see [Cowboys Park Skatepark](/directory/parks/ca/cowboys-park-calgary-ab).
+
+
+### Old Skaters
+An online community that runs 8-week challenges and off-season programs for amateur skateboarders aged 30 and over. Each challenge sets one trick per week. The site's own line is that skateboarding over 30 can be tough, so join the community.
+Location: Online, US
+Website: https://www.oldskaters.com/
+
+Old Skaters gives older skaters a structure to practise against. A season lasts eight weeks, and each week has one trick to learn. The site lists seven seasons so far, plus off-season programs for the months between them.
+
+This suits a skater who has no local crew, or who skates alone at quiet hours and wants a reason to keep going back. You work on the same trick as other amateur skaters over 30 in the same week, wherever you live.
+
+The site does not state a price on its home page, so check before you sign up. For open discussion without a program, see [Skaters Over 40](/directory/groups/online/skaters-over-40).
+
+
 ### r/OldSkaters
 A Reddit community for skaters over 30, with active participation from adults in their 40s and 50s across the US, UK, Canada, Australia, and beyond. The community shares advice on gear, setup choices, local spots, comeback stories, and video clips. Highly supportive and specifically designed for adult skaters who don't fit into mainstream skateboarding spaces.
 Location: Online, US
@@ -10579,12 +10603,36 @@ With over 40,000 members worldwide, Skaters Over 40 is one of the most active on
 The group serves as a valuable resource for finding local skate buddies, with members frequently organizing informal early-morning weekend meetups at neighbourhood skateparks across the US, UK, Canada, and Australia.
 
 
+### Old Man Nite at BaySixty6
+A Friday late session for older skaters at BaySixty6 skatepark in North Kensington, London. The park runs it alongside its Girls Night and Queer and Transkaters Night, with sessions until 10pm. All park users must be registered members.
+Location: London, England, UK
+Website: https://www.baysixty6.com/
+
+BaySixty6 is at Bay 66, Acklam Road, North Kensington, W10 5YU. The park is open from noon to 9pm seven days a week and stays open until 10pm for its late sessions. Old Man Nite is the Friday late session, and it is booked through the park's site.
+
+For an older skater in London, the value is a set evening when the park is given over to people like you, after work. The park also keeps weekend mornings from 10am to noon for beginners only, which is a quieter place to start if you are new to a board.
+
+The park's home page does not state a minimum age or a price for Old Man Nite, so confirm both when you book. You must register as a member before your first visit.
+
+
 ### Silver Skate UK
 A national community of UK skaters aged 35 and over, running monthly meetups at parks across England, Scotland, and Wales. Welcoming to all skill levels, with a strong emphasis on fun over progression pressure. The Facebook group is the main hub for session announcements and meetup coordination.
 Location: Various, UK
 Website: https://www.facebook.com/groups/silverskateuk
 
 Silver Skate UK is one of the most active adult skating communities in Britain. The national scope means sessions happen across the country, and the Facebook group functions as a real community hub — not just a notice board — where members share tips, spots, and session reports.
+
+
+### The Skate Farm Over 35s Session
+A dedicated over 35s session every Friday evening at The Skate Farm indoor skatepark in Haywards Heath, Sussex. The park describes it as a low-pressure, no-ego space for older riders to skate together, and suggests it as a way to try skating before booking a lesson.
+Location: Haywards Heath, England, UK
+Website: https://theskatefarmcic.co.uk/adult-skateboard-lessons-sussex
+
+The Skate Farm is an indoor skatepark in Haywards Heath (RH16 1TX), run as a community interest company. Every Friday evening it holds a session for skaters over 35. The park's words for it are low-pressure and no-ego, and it recommends the session as a first step before you commit to a lesson.
+
+The same team runs private 1-to-1 lessons for adults and says it works with people from their twenties through to their sixties and beyond. Note that the park's group lessons can include younger riders, so the Friday session or a 1-to-1 is the right choice if you want to skate with older skaters only.
+
+Sessions are booked online. The site does not list a start time or a price on the lessons page, so check the booking link before you travel. For another indoor option on the Sussex coast, see [The Skate Club Hove](/directory/groups/uk/the-skate-club-hove).
 
 
 ### The Skate Club Hove
@@ -10604,6 +10652,28 @@ Location: New York, New York, US
 Featured across national media for reshaping the face of East Coast skateboarding, the Brooklyn Skate Moms began as an informal group of parents and working women who picked up skateboards alongside their children and found a lifelong passion. The group has grown into a vibrant collective organizing monthly park sessions and weekend roll-outs across New York City.
 
 The community places a heavy premium on safety, non-judgmental encouragement, and camaraderie: pads and helmets are celebrated, and sessions are paced around building balance, comfortable carving, and kickturns rather than high-stakes stunts. The group regularly skates municipal parks across Brooklyn and Queens, cross-pollinating with SKATEYOGI Adult Open Skate and heading to Labor Skateshop on Canal Street for hardware and wheel upgrades.
+
+
+### 30+ Night at Commonwealth Skateboarding
+A weekly session at Commonwealth Skateboarding in southeast Portland reserved for riders aged 30 and over. The park calls it Old Man Night and runs it so parents and older skaters have a safe space to keep skating. Every skater needs a waiver on file.
+Location: Portland, Oregon, US
+Website: https://cwskate.com/skatepark-sessions
+
+Commonwealth Skateboarding closes its indoor park to everyone under 30 for two hours each Wednesday night. The park's own description is short: the session is for riders 30 and over, and it exists to give parents a safe space to keep skating. The retail shop stays open to all ages during the session.
+
+If you are coming back to a board after years away, this is the easiest way into the Portland scene. You skate with people at the same stage of life, the park is indoors so rain does not cancel the session, and nobody is watching from the deck with a phone. Fill out the waiver online before you arrive. See the [Commonwealth Skateboarding](/directory/parks/us/commonwealth-skateboarding-portland-or) park listing for the layout, and [Skate Like a Girl Portland](/directory/groups/us/skate-like-a-girl-portland-or) for more coached sessions in the city.
+
+
+### Girls-SK8
+A Florida nonprofit that runs free monthly skateboard meet-ups for girls and women at Skatepark of Tampa. The group names skaters in their 30s, 40s, 50s and beyond as one of the three groups it serves, alongside kids and teens.
+Location: Tampa, Florida, US
+Website: https://girls-sk8.com/
+
+Girls-SK8 hosts a free meet-up for girls and women at Skatepark of Tampa on the last Saturday of each month. The session starts at 11am, the park provides a free lunch at noon, and skating runs until 2:30pm. Admission is free for participants. Private group lessons at the park are not part of the free session.
+
+The group states its position on age plainly: fun at the skatepark does not stop after 30. Its site has a section for women in their 30s, 40s, 50s and beyond who want to encourage each other to move past their comfort zone. First-timers are welcome, and you can come once or every month.
+
+The site also mentions meet-ups in St. Pete and Sarasota, but every date we found was at Skatepark of Tampa, so check the site before you travel. See the [Skatepark of Tampa](/directory/parks/us/skatepark-of-tampa-fl) listing for the park itself.
 
 
 ### Old Man Army Los Angeles
