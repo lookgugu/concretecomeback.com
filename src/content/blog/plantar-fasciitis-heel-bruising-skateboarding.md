@@ -22,7 +22,7 @@ Every push asks your back foot to strike the pavement, absorb ground reaction fo
 
 ### The board foot: sustained isometric grip and axial landing impact
 
-Your front foot stays planted on coarse grip tape inside a flat-soled shoe, making constant micro-adjustments across the subtalar and midfoot joints to steer the trucks. When a trick or transition run goes sideways and you bail onto flat concrete, both heels take a sudden axial spike that thin vulcanized outsoles barely attenuate. We covered the footwear side of that equation in [our guide to skate shoe cushioning and insoles for older skaters](/blog/skate-shoes-for-adults-over-40/); here the focus is on what happens inside the foot tissues themselves.
+Your front foot stays planted on coarse grip tape inside a flat-soled shoe, making constant micro-adjustments across the subtalar and midfoot joints to steer the trucks. When a trick or transition run goes sideways and you bail onto flat concrete, both heels take a sudden axial spike that thin vulcanized outsoles barely attenuate. We covered the footwear side of that equation in [our guide to skate shoe cushioning and insoles for older skaters](/blog/skate-shoes-for-adults-over-40/) and our comparison of [cupsole vs. vulcanized skate shoes](/blog/cupsole-vs-vulcanized-skate-shoes-older-skaters/); here the focus is on what happens inside the foot tissues themselves.
 
 ## Telling plantar fasciitis, a heel bruise, and a fracture apart
 
