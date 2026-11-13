@@ -29,7 +29,7 @@ On round metal coping, a truck hanger can slide left or right until a wheel bump
 
 ## Step 2: Learning the backside axle stall on a mellow mini ramp
 
-Start on the lowest, mellowest quarter pipe or mini ramp at your park (a two- to three-foot indoor wood ramp at a facility like [FLUX in Hamden](/directory/parks/us/flux-indoor-skatepark-hamden-ct/) or the shallowest bank-to-curb at [Riverside Skatepark in Cedar Rapids](/directory/parks/us/riverside-skatepark-cedar-rapids-ia/) is ideal).
+Start on the lowest, mellowest quarter pipe or mini ramp at your park (the round-coping wooden transitions at [FLUX in Hamden](/directory/parks/us/flux-indoor-skatepark-hamden-ct/) suit the stall, and the slappy curb and low grind ledges at [Riverside Skatepark in Cedar Rapids](/directory/parks/us/riverside-skatepark-cedar-rapids-ia/) suit the curb version).
 
 ### 1. Approach at a slight angle with speed calibrated to the coping
 

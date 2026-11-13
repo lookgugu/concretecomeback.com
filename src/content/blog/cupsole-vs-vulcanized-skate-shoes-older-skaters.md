@@ -32,7 +32,7 @@ In a cupsole shoe, the rubber outsole and sidewall are molded as a single cup-sh
 
 Older skaters who spend most of their sessions pushing, carving bowls, and foot-braking wear out shoes differently than teenagers doing hundreds of kickflips:
 
-1. **Outsole tread and foot-braking wear:** Cupsole outsoles typically use a thicker molded rubber bottom (`4mm` to `6mm` total tread depth) often paired with higher-durometer abrasion-resistant rubber compounds in the heel and forefoot drag zones. Traditional vulcanized outsoles use thinner calendared rubber sheets that wear flat faster under repeated foot-braking on rough asphalt or coarse park concrete.
+1. **Outsole tread and foot-braking wear:** Cupsole outsoles use a thicker molded rubber bottom, often paired with higher-durometer abrasion-resistant rubber compounds in the heel and forefoot drag zones. Traditional vulcanized outsoles use thinner calendered rubber sheets that wear flat faster under repeated foot-braking on rough asphalt or coarse park concrete.
 2. **Sidewall and ollie-area abrasion:** On a vulcanized shoe, once grip tape abrades through the outer layer of foxing tape at the forefoot bend point, the bond between the sidewall and outsole can separate. Cupsoles with a **stitched toe and sidewall channel** hold together even after the surface rubber scuffs.
 3. **Midsole foam compression:** Thin open-cell foam insoles in budget vulcanized shoes pack out within a few weeks of regular skating. Closed-cell polyurethane insoles and molded cupsole midsoles retain their rebound height across months of sessions (see our [skate shoe cushioning and insoles guide](/blog/skate-shoes-for-adults-over-40/)).
 
@@ -41,7 +41,7 @@ Older skaters who spend most of their sessions pushing, carving bowls, and foot-
 From a physiotherapy perspective, foot and ankle complaints are among the most common reasons returning skaters in their 40s and 50s miss board time. As detailed in our [plantar fasciitis and heel bruising guide](/blog/plantar-fasciitis-heel-bruising-skateboarding/) and our [gear guide for aging joints](/blog/gear-for-aging-joints/), repeated impacts on a thin, flat shoe compress the calcaneal fat pad and increase tensile strain across the plantar aponeurosis and Achilles tendon.
 
 - **If you have a history of plantar fasciitis, heel bruising, or Achilles tendinopathy:** Choose a cupsole skate shoe with a built-in EVA or PU midsole and a firm heel counter, and pair it with a dense polyurethane impact insole if you want additional heel-cup support.
-- **If you prefer vulcanized shoes for cruiser or mini-ramp riding:** Only buy "pro" skate-division vulcanized models built with thick removable polyurethane drop-in footbeds (`6mm` to `10mm` at the heel), and replace the insoles as soon as the heel foam feels compressed.
+- **If you prefer vulcanized shoes for cruiser or mini-ramp riding:** Choose models that ship with a thick removable polyurethane footbed (roughly 6 to 10 mm at the heel) rather than a flat foam sockliner, and replace the insoles as soon as the heel foam feels compressed.
 
 ## Trying both styles side by side
 
