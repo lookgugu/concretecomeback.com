@@ -11,17 +11,16 @@ import Breadcrumb from '@components/ui/Breadcrumb.astro';
     <Breadcrumb crumbs={[{ label: 'Submit a Listing', href: '/submit/' }, { label: 'Submission Error', href: '/submit/error/' }]} />
 
     <div class="text-center py-12">
-      <div class="text-5xl mb-6" aria-hidden="true">🛹</div>
       <h1 class="text-3xl sm:text-4xl font-display text-concrete-900 mb-4">
-        Sorry — your submission didn’t go through.
+        Sorry, your submission didn’t go through.
       </h1>
       <p class="text-concrete-500 max-w-md mx-auto">
         We didn’t receive your listing. Please try again, or email it to
-        <a class="text-skate-orange underline" href="mailto:hello@concretecomeback.com">hello@concretecomeback.com</a>.
+        <a class="text-skate-orange-ink underline" href="mailto:hello@concretecomeback.com">hello@concretecomeback.com</a>.
       </p>
 
       <div class="mt-8 flex flex-col sm:flex-row gap-3 justify-center">
-        <a href="/submit/" class="px-6 py-3 bg-skate-orange text-white font-bold font-display rounded-lg hover:opacity-90 transition-opacity no-underline">
+        <a href="/submit/" class="px-6 py-3 bg-skate-orange text-concrete-900 font-bold font-display rounded-lg hover:opacity-90 transition-opacity no-underline">
           Try Again
         </a>
         <a href="/" class="px-6 py-3 border border-concrete-300 text-concrete-600 font-medium rounded-lg hover:border-skate-orange transition-colors no-underline">

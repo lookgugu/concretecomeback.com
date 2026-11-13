@@ -9,7 +9,6 @@ const { parkCount, shopCount, groupCount } = Astro.props;
 const callouts = [
   {
     href: '/directory/parks',
-    emoji: '🛹',
     title: 'Skate Parks',
     description: 'Parks welcoming to older skaters, rated for difficulty, surface, and facilities across the US, UK, Canada, and Australia.',
     count: parkCount,
@@ -17,7 +16,6 @@ const callouts = [
   },
   {
     href: '/directory/shops',
-    emoji: '🏪',
     title: 'Local Shops',
     description: 'Skate shops with knowledgeable staff who can help you pick the right board and gear for your return.',
     count: shopCount,
@@ -25,7 +23,6 @@ const callouts = [
   },
   {
     href: '/directory/groups',
-    emoji: '👥',
     title: 'Groups & Communities',
     description: 'Find other older skaters through in-person meetup groups and online communities.',
     count: groupCount,
@@ -41,19 +38,18 @@ const callouts = [
     {callouts.map((c) => (
       <a
         href={c.href}
-        class="group bg-white border border-concrete-200 rounded-xl p-6 shadow-card hover:shadow-card-hover hover:border-skate-orange/40 transition-all no-underline flex flex-col"
+        class="group bg-white border border-concrete-200 rounded-xl p-6 shadow-card hover:shadow-card-hover hover:border-skate-orange/40 transition-[box-shadow,border-color] no-underline flex flex-col"
       >
-        <span class="text-4xl mb-4" aria-hidden="true">{c.emoji}</span>
-        <h3 class="font-display text-xl text-concrete-900 mb-2 group-hover:text-skate-orange transition-colors">
+        <h3 class="font-display text-xl text-concrete-900 mb-2 group-hover:text-skate-orange-ink transition-colors">
           {c.title}
         </h3>
         <p class="text-concrete-500 text-sm flex-1 leading-relaxed">{c.description}</p>
         <div class="mt-4 flex items-center justify-between">
-          <span class="text-xs text-concrete-400 uppercase tracking-wide">
+          <span class="text-xs text-concrete-500">
             {c.count} {c.label}
           </span>
-          <span class="text-skate-orange font-semibold text-sm group-hover:translate-x-1 transition-transform inline-block">
-            Browse →
+          <span class="text-skate-orange-ink font-semibold text-sm group-hover:translate-x-1 transition-transform inline-block">
+            Browse
           </span>
         </div>
       </a>

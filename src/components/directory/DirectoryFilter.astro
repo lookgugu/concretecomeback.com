@@ -8,7 +8,7 @@ interface Props {
 const { type } = Astro.props;
 ---
 <div class="bg-white border border-concrete-200 rounded-xl p-5 sticky top-20">
-  <h2 class="font-display text-base text-concrete-800 mb-4 uppercase tracking-wide">Filter</h2>
+  <h2 class="font-display text-base text-concrete-800 mb-4">Filter</h2>
 
   <form id="directory-filter" class="flex flex-col gap-5">
     <!-- Near me -->
@@ -17,7 +17,7 @@ const { type } = Astro.props;
         type="button"
         id="filter-locate"
         aria-pressed="false"
-        class="w-full flex items-center justify-center gap-2 px-3 py-2 text-sm font-medium text-concrete-700 bg-concrete-50 border border-concrete-200 rounded-lg hover:border-skate-orange hover:text-skate-orange transition-colors cursor-pointer disabled:opacity-60 disabled:cursor-wait"
+        class="w-full flex items-center justify-center gap-2 px-3 py-2 text-sm font-medium text-concrete-700 bg-concrete-50 border border-concrete-200 rounded-lg hover:border-skate-orange hover:text-skate-orange-ink transition-colors cursor-pointer disabled:opacity-60 disabled:cursor-wait"
       >
         <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true">
           <path d="M8 0a5.5 5.5 0 0 0-5.5 5.5c0 4.1 5.5 10.5 5.5 10.5s5.5-6.4 5.5-10.5A5.5 5.5 0 0 0 8 0Zm0 7.75A2.25 2.25 0 1 1 8 3.25a2.25 2.25 0 0 1 0 4.5Z"/>
@@ -35,36 +35,36 @@ const { type } = Astro.props;
 
     <!-- Search -->
     <div>
-      <label for="filter-search" class="block text-xs text-concrete-500 uppercase tracking-wide mb-1">Search</label>
+      <label for="filter-search" class="block text-xs text-concrete-500 mb-1">Search</label>
       <input
         type="search"
         id="filter-search"
         name="q"
         placeholder={type === 'parks' ? 'City or park name…' : type === 'shops' ? 'City or shop name…' : 'City or group name…'}
-        class="w-full px-3 py-2 text-sm border border-concrete-200 rounded-lg focus:border-skate-orange focus:outline-none"
+        class="w-full px-3 py-2 text-sm border border-concrete-400 rounded-lg focus:border-skate-orange-ink"
       />
     </div>
 
     <!-- Country -->
     <div>
-      <label for="filter-country" class="block text-xs text-concrete-500 uppercase tracking-wide mb-1">Country</label>
+      <label for="filter-country" class="block text-xs text-concrete-500 mb-1">Country</label>
       <select
         id="filter-country"
         name="country"
-        class="w-full px-3 py-2 text-sm border border-concrete-200 rounded-lg focus:border-skate-orange focus:outline-none bg-white"
+        class="w-full px-3 py-2 text-sm border border-concrete-400 rounded-lg focus:border-skate-orange-ink bg-white"
       >
         <option value="">All countries</option>
-        <option value="US">🇺🇸 United States</option>
-        <option value="UK">🇬🇧 United Kingdom</option>
-        <option value="CA">🇨🇦 Canada</option>
-        <option value="AU">🇦🇺 Australia</option>
+        <option value="US">United States</option>
+        <option value="UK">United Kingdom</option>
+        <option value="CA">Canada</option>
+        <option value="AU">Australia</option>
       </select>
     </div>
 
     {type === 'parks' && (
       <>
         <div>
-          <span class="block text-xs text-concrete-500 uppercase tracking-wide mb-2">Difficulty</span>
+          <span class="block text-xs text-concrete-500 mb-2">Difficulty</span>
           <div class="flex flex-col gap-1.5">
             {['beginner-friendly', 'mixed', 'intermediate', 'advanced'].map((d) => (
               <label class="flex items-center gap-2 text-sm text-concrete-600 cursor-pointer">
@@ -115,7 +115,7 @@ const { type } = Astro.props;
     {type === 'groups' && (
       <>
         <div>
-          <span class="block text-xs text-concrete-500 uppercase tracking-wide mb-2">Format</span>
+          <span class="block text-xs text-concrete-500 mb-2">Format</span>
           <div class="flex flex-col gap-1.5">
             <label class="flex items-center gap-2 text-sm text-concrete-600 cursor-pointer">
               <input type="radio" name="format" value="" class="accent-skate-orange" checked />
@@ -136,7 +136,7 @@ const { type } = Astro.props;
 
     <button
       type="reset"
-      class="text-xs text-concrete-400 hover:text-concrete-700 text-left transition-colors mt-1 bg-transparent border-0 cursor-pointer p-0 min-h-0 min-w-0"
+      class="text-xs text-concrete-500 hover:text-concrete-700 text-left transition-colors bg-transparent border-0 cursor-pointer p-0 min-h-11 min-w-0"
     >
       Clear filters
     </button>

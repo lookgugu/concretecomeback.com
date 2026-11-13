@@ -49,6 +49,11 @@
     "lng": 144.8548,
     "source": "Braybrook, Melbourne, Victoria, 3019, Australia"
   },
+  "AU|victoria|hawthorn east": {
+    "lat": -37.8314,
+    "lng": 145.05,
+    "source": "Hawthorn East, Melbourne, Victoria, 3123, Australia"
+  },
   "AU|victoria|melbourne": {
     "lat": -37.8142,
     "lng": 144.9632,
@@ -139,11 +144,6 @@
     "lng": -106.6608,
     "source": "Saskatoon, Saskatchewan, Canada"
   },
-  "UK||bristol": {
-    "lat": 51.443,
-    "lng": -2.5817,
-    "source": "City of Bristol, West of England, England, United Kingdom"
-  },
   "UK|derbyshire|derby": {
     "lat": 52.9233,
     "lng": -1.4765,
@@ -163,6 +163,11 @@
     "lat": 51.5579,
     "lng": 0.2498,
     "source": "London Borough of Havering, Greater London, England, United Kingdom"
+  },
+  "UK|england|haywards heath": {
+    "lat": 51.0,
+    "lng": -0.105,
+    "source": "Haywards Heath, Mid Sussex, West Sussex, England, United Kingdom"
   },
   "UK|england|hove": {
     "lat": 50.8287,
@@ -233,6 +238,11 @@
     "lat": 51.6196,
     "lng": -3.9459,
     "source": "Swansea, Cymru / Wales, SA1 3BN, United Kingdom"
+  },
+  "UK||bristol": {
+    "lat": 51.443,
+    "lng": -2.5817,
+    "source": "City of Bristol, West of England, England, United Kingdom"
   },
   "US|alabama|alabaster": {
     "lat": 33.2443,
@@ -643,6 +653,16 @@
     "lat": 39.2909,
     "lng": -76.6108,
     "source": "Baltimore, Maryland, United States"
+  },
+  "US|maryland|clarksburg": {
+    "lat": 39.2196,
+    "lng": -77.2678,
+    "source": "Clarksburg, Montgomery County, Maryland, United States"
+  },
+  "US|maryland|columbia": {
+    "lat": 39.1938,
+    "lng": -76.8646,
+    "source": "Columbia, Howard County, Maryland, United States"
   },
   "US|maryland|gaithersburg": {
     "lat": 39.1399,
@@ -1260,9 +1280,9 @@
     "source": "Sheridan, Sheridan County, Wyoming, 82801, United States"
   },
   "AU": {
-    "lat": -33.5878,
-    "lng": 144.2172,
-    "source": "derived: mean of 15 listed AU cities"
+    "lat": -33.853,
+    "lng": 144.2692,
+    "source": "derived: mean of 16 listed AU cities"
   },
   "CA": {
     "lat": 48.3536,
@@ -1270,13 +1290,13 @@
     "source": "derived: mean of 13 listed CA cities"
   },
   "UK": {
-    "lat": 52.4524,
-    "lng": -2.2399,
-    "source": "derived: mean of 18 listed UK cities"
+    "lat": 52.3759,
+    "lng": -2.1275,
+    "source": "derived: mean of 19 listed UK cities"
   },
   "US": {
-    "lat": 39.2155,
-    "lng": -94.3831,
-    "source": "derived: mean of 203 listed US cities"
+    "lat": 39.2167,
+    "lng": -94.2233,
+    "source": "derived: mean of 204 listed US cities"
   }
 }

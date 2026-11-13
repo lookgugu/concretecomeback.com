@@ -30,10 +30,9 @@ const idPrefix = source === 'in_post' ? 'newsletter-inline' : `newsletter-${sour
   aria-labelledby={`${idPrefix}-title`}
   data-newsletter-source={source}
 >
-  <p class:list={['text-xs font-bold uppercase tracking-widest text-skate-orange', compact ? 'mb-1' : 'mb-2']}>Weekly roundup</p>
-  <h2 id={`${idPrefix}-title`} class:list={['font-display text-concrete-900', compact ? 'text-xl mb-1' : 'text-2xl mb-2']}>Keep your comeback rolling</h2>
+  <h2 id={`${idPrefix}-title`} class:list={['font-display text-concrete-900', compact ? 'text-xl mb-1' : 'text-2xl mb-2']}>Weekly roundup</h2>
   <p class:list={['text-sm text-concrete-600', compact ? 'mb-3' : 'mb-4']}>
-    The week's best new reads and, when available, one practical idea for your weekend session.
+    Keep your comeback rolling. The week's best new reads and, when available, one practical idea for your weekend session.
   </p>
   <form action="/api/forms/newsletter" method="post" class:list={[compact ? 'space-y-2' : 'space-y-3']}>
     <div class="sr-only" aria-hidden="true">
@@ -50,9 +49,9 @@ const idPrefix = source === 'in_post' ? 'newsletter-inline' : `newsletter-${sour
         required
         autocomplete="email"
         placeholder="Email address"
-        class="min-w-0 flex-1 rounded-lg border-concrete-300 focus:border-skate-orange focus:ring-skate-orange"
+        class="min-w-0 flex-1 rounded-lg border-concrete-400 focus:border-skate-orange-ink focus:ring-skate-orange-ink"
       />
-      <button type="submit" class="min-h-11 px-4 py-2 rounded-lg bg-skate-orange text-white font-bold border-0 cursor-pointer disabled:opacity-60">
+      <button type="submit" class="min-h-11 px-4 py-2 rounded-lg bg-skate-orange text-concrete-900 font-bold border-0 cursor-pointer disabled:opacity-60">
         Send me the roundup
       </button>
     </div>

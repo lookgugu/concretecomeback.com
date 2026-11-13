@@ -13,15 +13,15 @@ const { page } = Astro.props;
       <a
         href={page.url.prev}
         rel="prev"
-        class="px-5 py-2 border border-concrete-300 rounded-lg text-concrete-600 hover:border-skate-orange hover:text-skate-orange transition-colors font-medium text-sm no-underline"
+        class="px-5 py-2 border border-concrete-300 rounded-lg text-concrete-600 hover:border-skate-orange hover:text-skate-orange-ink transition-colors font-medium text-sm no-underline whitespace-nowrap"
       >
-        ← Newer posts
+        Newer posts
       </a>
     ) : (
-      <span class="px-5 py-2 text-concrete-300 text-sm">← Newer posts</span>
+      <span class="px-5 py-2 text-concrete-500 text-sm">Newer posts</span>
     )}
 
-    <span class="text-sm text-concrete-400">
+    <span class="text-sm text-concrete-500">
       Page {page.currentPage} of {page.lastPage}
     </span>
 
@@ -29,12 +29,12 @@ const { page } = Astro.props;
       <a
         href={page.url.next}
         rel="next"
-        class="px-5 py-2 border border-concrete-300 rounded-lg text-concrete-600 hover:border-skate-orange hover:text-skate-orange transition-colors font-medium text-sm no-underline"
+        class="px-5 py-2 border border-concrete-300 rounded-lg text-concrete-600 hover:border-skate-orange hover:text-skate-orange-ink transition-colors font-medium text-sm no-underline whitespace-nowrap"
       >
-        Older posts →
+        Older posts
       </a>
     ) : (
-      <span class="px-5 py-2 text-concrete-300 text-sm">Older posts →</span>
+      <span class="px-5 py-2 text-concrete-500 text-sm">Older posts</span>
     )}
   </nav>
 )}
