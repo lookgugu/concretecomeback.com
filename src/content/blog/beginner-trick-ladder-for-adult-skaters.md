@@ -56,7 +56,7 @@ The ollie — popping the board into the air without your feet leaving it — is
 
 ## Rung 6: Basic grinds or rock-to-fakies
 
-Once an ollie is reasonably consistent, most adults branch in one of two directions: ledge tricks (a basic 50-50 grind on a low curb or ledge) or transition tricks (a rock-to-fakie on a mini ramp, which uses the drop-in confidence you built earlier). Which one to pick isn't really a "which is easier" question — it's about which style of skating you've enjoyed more up to this point. Follow that instinct rather than a generic list.
+Once an ollie is reasonably consistent, most adults branch in one of two directions: ledge tricks (a basic 50-50 grind on a low curb or ledge) or transition tricks (a rock-to-fakie or backside axle stall on a mini ramp, covered step by step in our [guide to learning axle stalls and 50-50 grinds over 40](/blog/learn-axle-stalls-50-50-grinds-over-40/)). Which one to pick isn't really a "which is easier" question — it's about which style of skating you've enjoyed more up to this point. Follow that instinct rather than a generic list.
 
 **Realistic timeline:** highly variable, and genuinely optional. Some adults are perfectly happy stopping at ollies and manuals indefinitely, and that's a complete, satisfying version of skating — not an incomplete one.
 

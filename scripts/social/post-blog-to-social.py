@@ -97,7 +97,7 @@ def api(method: str, path: str, data: dict | None = None) -> tuple[int, dict]:
         headers["Content-Type"] = "application/json"
     req = urllib.request.Request(BASE + path, data=body, headers=headers, method=method)
     try:
-        with urllib.request.urlopen(req, context=CTX, timeout=60) as resp:
+        with urllib.request.urlopen(req, context=CTX, timeout=180) as resp:
             raw = resp.read().decode("utf-8")
             return resp.status, json.loads(raw) if raw else {}
     except urllib.error.HTTPError as exc:

@@ -36,7 +36,7 @@ Someone starting at 60 is usually after one of a few different things: pure nove
 
 ## Gear that isn't optional at this stage
 
-A properly fitted helmet, wrist guards, and knee and elbow pads from session one — not after you've had a scare. A softer, more stable setup helps too: a slightly wider, more stable deck and softer wheels forgive small mistakes better than a stiff, twitchy setup built for tight tricks. [Gear for aging joints](/blog/gear-for-aging-joints/) has the specifics on what to actually look for.
+A properly fitted helmet, wrist guards, and knee and elbow pads from session one — not after you've had a scare. A softer, more stable setup helps too: a slightly wider, more stable deck and softer wheels forgive small mistakes better than a stiff, twitchy setup built for tight tricks. [Gear for aging joints](/blog/gear-for-aging-joints/) and our full guide to [skateboarding equipment for retirees and skaters over 60](/blog/skateboarding-equipment-for-retirees-over-60/) have the specifics on what to actually look for.
 
 ## Finding people to skate with
 

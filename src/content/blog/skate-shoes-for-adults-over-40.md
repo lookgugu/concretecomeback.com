@@ -35,7 +35,7 @@ Repetitive unattenuated impact from pushing on rough pavement or stepping off fa
 
 ## Which skate shoe soles wear out slowest: cupsole vs. vulcanized
 
-One of the most frequent questions older skaters search for is which skate shoe outsoles last longest against coarse grip tape and rough concrete push-offs. Sole longevity and foot protection both come down to how the bottom of the shoe is constructed.
+One of the most frequent questions older skaters search for is which skate shoe outsoles last longest against coarse grip tape and rough concrete push-offs. Sole longevity and foot protection both come down to how the bottom of the shoe is constructed (see our side-by-side breakdown of [cupsole vs. vulcanized skate shoes for older skaters](/blog/cupsole-vs-vulcanized-skate-shoes-older-skaters/)).
 
 ### Cupsole construction (slowest wear, highest impact protection)
 A cupsole is a single molded rubber unit with raised sidewalls that cup the heel and forefoot, stitched or cemented around a dedicated EVA or polyurethane foam midsole. Because the load-bearing tread is thicker and denser than a vulcanized wafer sole, cupsoles wear out significantly slower under repeated pushing and foot-braking while offering far better heel stability and shock absorption. The trade-off is a two- to three-session break-in period before the sole flexes naturally.
