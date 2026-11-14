@@ -25,7 +25,7 @@ Because the obstacle sits only five to six inches off the ground, the consequenc
 Depending on whether your driveway is smooth broom-finished concrete or slightly rough asphalt, you can build a portable curb in one of two ways: a pre-cast concrete parking block mounted on a wooden sled, or a lightweight framed wood curb capped with steel angle iron or PVC coping.
 
 ### Option 1: The concrete parking-block sled (best for true concrete grind feel)
-A standard six-foot pre-cast concrete parking bumper from a local masonry yard or building-supply distributor costs roughly 40 to 70 dollars and has the exact sloped face that makes slappy grinds work without ollieing. The catch is weight: a solid six-foot block weighs 160 to 200 pounds, which makes it tough to move solo and prone to gouging a finished garage floor.
+A standard six-foot pre-cast concrete parking bumper from a local masonry yard or building-supply distributor runs about 40 dollars a block at contractor pricing (expect somewhat more for a single unit) and has the exact sloped face that makes slappy grinds work without ollieing. The catch is weight: suppliers list a solid six-foot block anywhere from about 125 to 250 pounds depending on the mix, which makes it tough to move solo and prone to gouging a finished garage floor.
 
 To make it portable and slightly taller for clean truck lock-ins, mount the block onto a base cut from a single two-by-ten or two-by-twelve pressure-treated plank:
 1. Cut a 72-inch length of pressure-treated two-by-ten lumber so it matches the footprint of the parking block.

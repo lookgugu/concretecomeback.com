@@ -3,14 +3,14 @@ title: "Cold-Weather Skate Layering: How to Dress for Winter Sessions With Pads"
 description: "Heavy winter coats restrict your shoulders and snag on concrete. Here is how older skaters layer base fabrics, outer shells, and pads for cold sessions."
 pubDate: 2026-11-14
 author: "Sam Torres"
-authorAge: 42
-authorBio: "Started skating at 38 after her daughter asked for a board. Writes about the beginner experience from the inside."
+authorAge: 44
+authorBio: "Came back to skating at 40. Community organiser and one of the founders of the Portland Adult Skate Sessions."
 tags: ["gear", "safety", "protective-equipment", "getting-started", "beginner"]
 featured: false
 draft: false
 ---
 
-Dressing for a cold-weather skate session is a balancing act between staying warm during the first ten minutes of pushing and not overheating or restricting your joints once your heart rate climbs. A bulky puffer jacket feels great walking from the car to the coping, but ten minutes into a session it traps sweat against your skin, limits how far you can rotate your shoulders into a turn, and rips the first time you slide out on rough concrete. Layering thin, moisture-wicking base fabrics under an abrasion-resistant canvas or heavy flannel shell, and sizing your knee and elbow pads so they sit securely without cutting off circulation, lets you skate comfortably down into the 30s and 40s Fahrenheit (0 to 9 degrees Celsius) without feeling like you are wearing a snowsuit.
+Dressing for a cold-weather skate session is a balancing act between staying warm during the first ten minutes of pushing and not overheating or restricting your joints once your heart rate climbs. A bulky puffer jacket feels great walking from the car to the coping, but ten minutes into a session it traps sweat against your skin, limits how far you can rotate your shoulders into a turn, and rips the first time you slide out on rough concrete. Layering thin, moisture-wicking base fabrics under an abrasion-resistant canvas or heavy flannel shell, and sizing your knee and elbow pads so they sit securely without cutting off circulation, lets you skate comfortably down into the 30s and 40s Fahrenheit (roughly -1 to 9 degrees Celsius) without feeling like you are wearing a snowsuit.
 
 We have covered what freezing temperatures do to [urethane wheels, bearings, and joint warm-ups](/blog/cold-weather-skateboarding-urethane-bearings-joints/). Here is how to sort out the clothing and pad fit on your body so winter mornings stay skateable.
 
@@ -55,7 +55,7 @@ Never wedge a thick, cuffed acrylic beanie with a pom-pom underneath your skateb
 Cold fingers hurt twice as much when you slap the concrete. Standard bulky ski gloves will not fit inside rigid-splint wrist guards. Look for thin merino or touchscreen liner gloves that slide cleanly under the palm and dorsal splints of your wrist guards, or size up a dedicated pair of leather-palm work gloves for flatground cruising days when you are not wearing splints.
 
 ### Socks and cold skate shoes
-Thick hiking socks seem like an obvious fix for cold toes, but cramming a thick wool sock into a snug skate shoe compresses your forefoot, restricts blood flow, and makes your feet colder within twenty minutes while dulling your feel for the concave. Pair a thin-to-midweight merino crew sock with a suede cupsole shoe rather than thin canvas, since suede and a thicker midsole insulate your foot better from frozen concrete.
+Thick hiking socks seem like an obvious fix for cold toes, but cramming a thick wool sock into a snug skate shoe compresses your forefoot, restricts blood flow, and makes your feet colder within twenty minutes while dulling your feel for the concave. Pair a thin-to-midweight merino crew sock with a suede cupsole shoe rather than thin canvas, since suede and a thicker midsole insulate your foot better from frozen concrete. Our [cupsole vs vulcanized comparison for older skaters](/blog/cupsole-vs-vulcanized-skate-shoes-older-skaters/) covers what you trade in board feel for that extra sole.
 
 ## When to move the session indoors
 

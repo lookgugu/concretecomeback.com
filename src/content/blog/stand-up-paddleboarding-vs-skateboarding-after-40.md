@@ -2,9 +2,9 @@
 title: "Stand-Up Paddleboarding vs Skateboarding After 40: Balance and Joint Load"
 description: "Comparing stand-up paddleboarding and skateboarding after 40: how water perturbation differs from rolling concrete, trunk endurance, and joint impact."
 pubDate: 2026-11-14
-author: "Sam Torres"
-authorAge: 42
-authorBio: "Started skating at 38 after her daughter asked for a board. Writes about the beginner experience from the inside."
+author: "Jo Fairweather"
+authorAge: 52
+authorBio: "Physiotherapist and skater. Came back to skating at 49 and hasn't stopped."
 tags: ["comparison", "balance", "fitness", "active-aging", "getting-started"]
 featured: false
 draft: false
@@ -31,10 +31,10 @@ On a skateboard, the ground is solid, but the platform underneath you rolls away
 The physical trade-off between water and concrete comes down to impact forces:
 
 ### Why SUP is gentler on flared-up knees and spines
-Because water cushions every hull movement, stand-up paddleboarding produces virtually zero vertical ground-reaction impact on your tibiofemoral or hip joints. Falling off a paddleboard in waist-deep or open water (away from shallow reefs or docks) also carries almost no fracture risk. If you are recovering from an acute lower-limb flare-up, SUP lets you train your lats, obliques, and hip stabilizers without jarring your cartilage. The trade-off is that low-impact water sports provide very little mechanical strain to stimulate bone mineral density, and repetitive overhead paddling can irritate an impinged shoulder if your stroke mechanics break down when you get tired.
+Because water cushions every hull movement, stand-up paddleboarding produces virtually zero vertical ground-reaction impact on your knee or hip joints. Falling off a paddleboard in waist-deep or open water (away from shallow reefs or docks) also carries almost no fracture risk. If a clinician has cleared you to exercise through a lower-limb flare-up, SUP lets you train your lats, obliques, and hip stabilizers without the ground impact of skating. Choosing the gentler sport is not a substitute for having the flare-up assessed. The trade-off is that low-impact water sports provide very little mechanical strain to stimulate bone mineral density, and repetitive overhead paddling can irritate an impinged shoulder if your stroke mechanics break down when you get tired.
 
 ### Why skateboarding loads bone and lower-body power
-Skateboarding is a true weight-bearing, eccentric lower-body workout. Pushing on one leg, absorbing transitions through bent knees, and pumping around a bowl load the femoral neck and tibia with the mechanical strain bones need as you age. The price of admission is concrete: you have to dress for the slide with a dual-certified helmet, wrist guards, and knee pads, and you have to build your speed gradually rather than muscling through fatigue.
+Skateboarding is a true weight-bearing, eccentric lower-body workout. Pushing on one leg, absorbing transitions through bent knees, and pumping around a bowl load the hip and lower leg in the weight-bearing way bone responds to, with the limits and precautions set out in our guide to [osteoporosis, bone density, and skateboarding](/blog/osteoporosis-bone-density-skateboarding/). The price of admission is concrete: you have to dress for the slide with a dual-certified helmet, wrist guards, and knee pads, and you have to build your speed gradually rather than muscling through fatigue.
 
 ## Seasonality and the Tuesday-evening test
 
