@@ -32,15 +32,15 @@ Match your truck axle width to your deck width so the outer edges of the wheels 
 
 ### Dual-certified skateboard helmet (CPSC 1203 + ASTM F1492)
 
-Do not use a vented road-cycling helmet, which is shaped primarily for forward-moving impacts and sits higher on the back of the skull. Skateboarding slips frequently tip riders backward toward the occiput. Choose a skateboard helmet carrying both **U.S. CPSC 1203** (or **EN 1078** / **AS/NZS 2063** in the UK, Europe, and Australia) and **ASTM F1492** multi-impact skateboarding certification, and replace any helmet immediately after a real head impact.
+Do not use a vented road-cycling helmet, which is shaped primarily for forward-moving impacts and sits higher on the back of the skull. Skateboarding slips frequently tip riders backward toward the occiput. Choose a skateboard helmet carrying both U.S. CPSC 1203 (or EN 1078 / AS/NZS 2063 in the UK, Europe, and Australia) and ASTM F1492 multi-impact skateboarding certification, and replace any helmet immediately after a real head impact.
 
 ### Rigid-splint wrist guards (EN 14120)
 
-Catching a fall on an outstretched hand (FOOSH) is the most common fracture mechanism in older skaters. Wear wrist guards certified to **EN 14120** with rigid palmar and dorsal splints that limit wrist hyperextension on contact, rather than soft fingerless gloves (see our [protective gear guide](/blog/safety-gear-guide/) and [how to start skateboarding in your 60s](/blog/how-to-start-skateboarding-in-your-60s/)).
+Catching a fall on an outstretched hand (FOOSH) is the most common fracture mechanism in older skaters. Wear wrist guards certified to EN 14120 with rigid palmar and dorsal splints that limit wrist hyperextension on contact, rather than soft fingerless gloves (see our [protective gear guide](/blog/safety-gear-guide/) and [how to start skateboarding in your 60s](/blog/how-to-start-skateboarding-in-your-60s/)).
 
 ### Knee pads, elbow pads, and hip impact shorts
 
-Even on flat ground, hardshell knee and elbow pads prevent painful bone bruises and skin abrasions when a low-speed turn goes sideways. For skaters over 60, adding low-profile [impact shorts with hip pads](/blog/impact-shorts-hip-protectors-for-adult-skaters/) worn under trousers provides extra foam cushioning over the greater trochanter and tailbone during lateral falls. The evidence for hip protectors comes from fall-prevention trials in older adults, not from skateboarding: the [2014 Cochrane review by Santesso, Carrasco-Labra, and Brignardello-Petersen](https://pubmed.ncbi.nlm.nih.gov/24687239/) found a small reduction in hip fractures among nursing-care residents given protectors and little or no effect in community-dwelling adults, with poor long-term adherence in both. Treat impact shorts as a way to soften a sideways slam, not as proof against fracture.
+Even on flat ground, hardshell knee and elbow pads prevent painful bone bruises and skin abrasions when a low-speed turn goes sideways. For skaters over 60, adding low-profile [impact shorts with hip pads](/blog/impact-shorts-hip-protectors-for-adult-skaters/) worn under trousers provides extra foam cushioning over the greater trochanter and tailbone during lateral falls. The evidence for hip protectors comes from fall-prevention trials in older people, not from skateboarding: the [2014 Cochrane review by Santesso, Carrasco-Labra, and Brignardello-Petersen](https://pubmed.ncbi.nlm.nih.gov/24687239/) found a small reduction in hip fractures among nursing-care residents given protectors and little or no effect in community-dwelling older people, with poor long-term adherence in both. Treat impact shorts as a way to soften a sideways slam, not as proof against fracture.
 
 ### Supportive cupsole skate shoes
 

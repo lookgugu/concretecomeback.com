@@ -23,19 +23,17 @@ The part that matters for skateboarders is the performance effect. Cheung and co
 
 ### Normal training adaptation (24 to 72 hours)
 
-- **Dull, symmetrical muscle ache:** Soreness spread across the belly of the calves, quads, glutes, or spinal erectors that feels tender to touch or tight when you first stand up.
-- **Morning joint stiffness that warms up quickly:** Mild ankle or knee stiffness when you get out of bed that loosens within 10 to 15 minutes of gentle walking.
-- **Systemic fatigue:** Feeling heavier-legged than a short session would suggest, because reactive balance and continuous postural adjustments tax the nervous system alongside the muscles.
+Normal delayed-onset soreness shows up as a dull, symmetrical muscle ache spread across the belly of the calves, quads, glutes, or spinal erectors that feels tender to touch or tight when you first stand up. You may also notice mild ankle or knee stiffness when you get out of bed that loosens within 10 to 15 minutes of gentle walking, along with a general heavy-legged fatigue because reactive balance and continuous postural adjustments tax the nervous system alongside the muscles.
 
 ### Injury red flags that warrant a clinical check
 
 See a doctor or physiotherapist before skating again if you notice any of the following:
 
-- **Sharp, pinpoint pain:** Pain concentrated on a single bony landmark, tendon attachment (such as the Achilles tendon or patellar tendon), or joint line.
-- **Joint effusion (swelling):** Visible puffiness or fullness inside the knee, ankle, or wrist joint capsule, either immediately after a session or the next morning.
-- **Mechanical symptoms:** Catching, locking, clicking with pain, or a feeling that the knee or ankle is giving way under bodyweight.
-- **Pain that worsens after 72 hours:** Discomfort that escalates day over day or alters your normal walking gait (see our [plantar fasciitis and heel bruising guide](/blog/plantar-fasciitis-heel-bruising-skateboarding/) and [lower back pain returner's guide](/blog/lower-back-pain-skateboarding-returners-guide/)).
-- **Numbness or tingling:** Radiating pins and needles in the hand, wrist, or leg after a fall or heavy session.
+- Sharp, pinpoint pain concentrated on a single spot of bone, a tendon attachment (such as the Achilles tendon or patellar tendon), or a joint line.
+- Visible puffiness, swelling, or fullness inside the knee, ankle, or wrist joint capsule, either immediately after a session or the next morning.
+- Mechanical symptoms such as catching, locking, clicking with pain, or a feeling that the knee or ankle is giving way under bodyweight.
+- Discomfort that escalates after 72 hours or alters your normal walking gait (see our [plantar fasciitis and heel bruising guide](/blog/plantar-fasciitis-heel-bruising-skateboarding/) and [lower back pain returner's guide](/blog/lower-back-pain-skateboarding-returners-guide/)).
+- Radiating pins and needles, numbness, or tingling in the hand, wrist, or leg after a fall or heavy session.
 
 ## Practical habits that speed up recovery between sessions
 

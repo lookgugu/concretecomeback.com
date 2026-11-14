@@ -118,13 +118,15 @@ When moving from topic selection to drafting or refreshing a post:
    - **Outbound Blog Cross-Links (`>= 3` per post):** Every new or refreshed blog post **must** link to **at least 3 other published blog posts on our site** (`/blog/<slug>/`) using natural, descriptive anchor text, plus 1–2 relevant `/directory/{parks,shops,groups}/<country>/<slug>` entries where appropriate.
    - **Reciprocal Inbound Cross-Links (No Orphan Posts):** Whenever you create a new blog post `/blog/<new-slug>/`, also edit **at least 1–2 related existing blog posts** in `src/content/blog/` to add a natural contextual cross-link pointing *to* `/blog/<new-slug>/`.
    - **Never Guess Slugs from Memory:** Only use exact `/blog/<slug>/` URLs returned by `discover_topics.py --check-topic` or `--suggest-links`.
-3. Run a **`humanizer`** pass (`/home/beno/.gemini/config/skills/humanizer/SKILL.md`) to eliminate em dashes (`—`), `"not X, but Y"` contrasts, bold-label listicles, and crutch words.
-4. **Verify Cross-Links & Build:**
+3. Run a full **`humanizer`** pass (`/home/beno/.gemini/config/skills/humanizer/SKILL.md` / `.claude/skills/humanizer/SKILL.md`, `https://github.com/blader/humanizer` v4.0.0) across every new or refreshed post:
+   - Follow the 4-step File Mode workflow: (1) Read the file from disk and mark every tell (§1 Not-X-but-Y contrasts, §2 one-line closers, §3 deep-sounding aphorisms, §4 staged run-ups, §5 arguing with no one, §6 forced triads, §8 em/en dashes, §12 stock AI words, §15 shallow `-ing` riders, §16 sales language, §18 inflated copulas, §19 bold-label listicles and decorative inline bold); (2) Draft the rewrite preserving all verified facts, numbers, and links; (3) Check the draft aloud for surviving tells; (4) Write the final prose.
+4. **Verify Cross-Links, Humanizer Linter, & Build:**
    ```bash
    # Verify every touched post has >= 3 valid /blog/<slug>/ cross-links and 0 broken internal links
    python3 .claude/skills/blog-research/scripts/discover_topics.py \
      --verify-links src/content/blog/<your-post>.md --min-blog-links 3
 
-   # Run full validation suite
-   node scripts/check-duplicate-posts.mjs && npx astro check && npm test && npm run build
+   # Run Humanizer AI-slop linter, duplicate audit, type-check, tests, and build
+   node scripts/check-humanizer.mjs src/content/blog/<your-post>.md && \
+     node scripts/check-duplicate-posts.mjs && npx astro check && npm test && npm run build
    ```
