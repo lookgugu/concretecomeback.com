@@ -150,15 +150,33 @@ function checkFile(filePath) {
   return findings;
 }
 
-let files = process.argv.slice(2);
+const rawArgs = process.argv.slice(2);
+let base = 'origin/main';
+const filesArg = [];
+for (let i = 0; i < rawArgs.length; i++) {
+  if (rawArgs[i] === '--base') {
+    if (!rawArgs[i + 1]) {
+      console.error('Missing value for --base.');
+      process.exit(1);
+    }
+    base = rawArgs[++i];
+  } else {
+    filesArg.push(rawArgs[i]);
+  }
+}
+
+let files = filesArg;
 if (files.length === 0) {
   try {
-    const out = execFileSync('git', ['diff', '--name-only', '--diff-filter=AM', 'origin/main...HEAD', '--', 'src/content/blog/'], {
-      encoding: 'utf8',
-    });
+    const out = execFileSync(
+      'git',
+      ['diff', '--name-only', '--diff-filter=AM', `${base}...HEAD`, '--', 'src/content/blog/'],
+      { encoding: 'utf8', stdio: ['pipe', 'pipe', 'pipe'] }
+    );
     files = out.split('\n').map((s) => s.trim()).filter((s) => s.endsWith('.md'));
   } catch {
-    files = [];
+    console.error(`Could not diff against ${base}. Failing closed.`);
+    process.exit(1);
   }
 }
 
@@ -169,7 +187,10 @@ if (files.length === 0) {
 
 let totalFindings = 0;
 for (const f of files) {
-  if (!fs.existsSync(f)) continue;
+  if (!fs.existsSync(f)) {
+    console.error(`File not found: ${f}`);
+    process.exit(1);
+  }
   const findings = checkFile(f);
   if (findings.length === 0) {
     console.log(`✔ ${f}: 0 Humanizer tells`);
