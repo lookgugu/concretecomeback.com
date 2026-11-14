@@ -12,7 +12,7 @@ draft: false
 
 Not everyone has the yard space, budget, or neighborhood zoning to build a full backyard transition, but almost anyone with a flat driveway, a single-car garage bay, or a quiet cul-de-sac has room for a portable six-foot slappy curb. At six inches tall, a low curb or parking block is the most joint-friendly obstacle in skateboarding: you do not even have to ollie onto it, the drop back to flatground is shorter than a single porch step, and you can slide it against the garage wall in two minutes when you are done. Building one yourself over a Saturday morning gives you a year-round home practice spot for twenty-minute after-work sessions.
 
-If you have the space and budget for transitions, start with our guide to [building a backyard mini ramp](/blog/building-a-backyard-mini-ramp/). If you want a compact, low-impact obstacle you can store beside your lawnmower and skate whenever you have fifteen spare minutes, here is how to put together a portable slappy curb that actually grinds cleanly.
+If you have the space and budget for transitions, start with our guide to [building a backyard mini ramp](/blog/building-a-backyard-mini-ramp/). For a compact, low-impact obstacle you can store beside your lawnmower and skate whenever you have fifteen spare minutes, a portable slappy curb takes only a few hours to put together and grinds cleanly once the edge is sealed.
 
 ## Why a low curb is the ideal home obstacle after 40
 
