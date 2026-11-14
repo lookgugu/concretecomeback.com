@@ -52,6 +52,6 @@ To come back into the ramp without hanging up your back wheels on the coping:
 Once a stationary axle stall and re-entry feel repeatable, turning it into a moving 50-50 grind on coping or a waxed six-inch curb only changes your approach angle:
 
 1. **Approach at a shallow 20- to 30-degree angle:** Instead of riding straight up the wall at 90 degrees, carve up the transition at a shallow angle so your momentum carries you parallel along the coping when your trucks lock in.
-2. **Keep your weight centered between both bolts (50-50) with a slight heel bias on transition:** On a flat street curb, pop or ride onto the waxed edge with weight balanced evenly between your front and back trucks, then press the tail slightly at the end of the curb so both trucks drop off together rather than nose-diving.
+2. **Keep your weight centered between both bolts (50-50) with a slight heel bias on transition:** On a flat street curb, pop or ride onto the waxed edge with weight balanced evenly between your front and back trucks, then press the tail slightly at the end of the curb so both trucks drop off together rather than nose-diving. If you want to drill that lock-in at home before taking it to park coping, see our guide on [how to build a portable DIY slappy curb for your driveway or garage](/blog/how-to-build-a-portable-diy-slappy-curb/).
 
 Keep your axle-stall practice blocks short (10 to 15 minutes during the freshest part of your session after warming up), and end on a clean make while your legs still have full pop.
