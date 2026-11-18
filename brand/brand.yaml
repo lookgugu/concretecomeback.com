@@ -1,0 +1,43 @@
+brand:
+  name: Concrete Comeback
+  slug: concrete-comeback
+  url: https://concretecomeback.com
+  created: 2026-11-18
+  updated: 2026-11-18
+  category: community directory and editorial publication (older skateboarders)
+  depth: lite
+  service_area: [US, UK, CA, AU]
+  services:
+    - Older-skater skate park directory (279 listings)
+    - Welcoming local skateboard shop directory (38 listings)
+    - Older-skater community groups & meetups directory (22 listings)
+    - Practical guides, physiology/injury prevention, and comeback stories blog (193 articles)
+    - Weekly Concrete Comeback email roundup
+
+files:
+  voice-profile.md:  { updated: 2026-11-18, owner: start-here }
+  positioning.md:    { updated: 2026-11-18, owner: start-here }
+  audience.md:       { updated: 2026-11-18, owner: start-here }
+  voc.md:            { updated: 2026-11-18, owner: start-here }
+  competitors.md:    { updated: 2026-11-18, owner: start-here }
+  keyword-plan.md:   { updated: 2026-11-18, owner: keyword-research }
+  stack.md:          { updated: 2026-11-18, owner: start-here }
+  preferences.md:    { updated: 2026-11-18, owner: start-here }
+
+campaigns:
+  - name: content-plan
+    path: ./campaigns/content-plan/
+    status: active
+    started: 2026-11-18
+  - name: content
+    path: ./campaigns/content/
+    status: active
+    started: 2026-11-18
+  - name: riser-vs-shock-pads
+    path: ./campaigns/riser-vs-shock-pads/
+    status: active
+    started: 2026-11-18
+  - name: newsletters
+    path: ./campaigns/newsletters/
+    status: active
+    started: 2026-11-18

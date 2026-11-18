@@ -49,7 +49,7 @@ Skaters in this bracket should skip stock cushions immediately. A 96A bushing (s
 Hardness is half the equation; the profile of the two urethane pieces is the other half.
 
 ### Barrel + Cone (Standard street/park setup)
-Most trucks ship with a cylindrical **barrel** bushing on the bottom (boardside) for stability and a tapered **cone** bushing on the top (roadside) for quick turn initiation. Because the cone has less urethane volume at the narrow end, it offers less resistance when you start leaning.
+Most trucks ship with a cylindrical barrel bushing on the bottom (boardside) for stability and a tapered cone bushing on the top (roadside) for quick turn initiation. Because the cone has less urethane volume at the narrow end, it offers less resistance when you start leaning.
 
 ### Barrel + Barrel (Double-barrel stability setup)
 If you ride a [wider 8.5-inch to 9.0-inch deck](/blog/what-board-size-for-adults/), weigh over 185 pounds, or feel ankle wobble when setting up for a drop-in or rolling transitions, replace the top cone with a second barrel bushing. A double-barrel setup puts more urethane under the top washer, giving you a wider, calmer center point to stand on while keeping a smooth progressive carve once you commit your hips to the turn.
@@ -61,4 +61,4 @@ Cupped metal washers wrap around the top edge of the bushing and restrict how fa
 
 When you pick up new bushings at a [core skate shop](/directory/shops/), check that the bushing height matches your truck brand. Independent, Ace, and Venture use standard height bushings, while Thunder trucks and low-geometry trucks use slightly shorter cushions; forcing a tall bushing onto a short kingpin leaves the nylon lock ring unengaged.
 
-Tighten the new kingpin nut until it sits flush with the top of the kingpin bolt and no urethane is bulging over the washer lip. New bushings always feel slightly stiff for the first twenty minutes as the urethane seats into the hanger pocket. Skate two short flatground sessions before adding a quarter-turn of tension, and add a 1/8-inch riser pad if you run [wheels 56mm or larger](/blog/wheel-hardness-guide-for-adult-skaters/) so your bushings can do their job without wheel bite.
+Tighten the new kingpin nut until it sits flush with the top of the kingpin bolt and no urethane is bulging over the washer lip. New bushings always feel slightly stiff for the first twenty minutes as the urethane seats into the hanger pocket. Skate two short flatground sessions before adding a quarter-turn of tension, and add a [1/8-inch riser or shock pad](/blog/skateboard-riser-pads-vs-shock-pads-older-skaters/) if you run [wheels 56mm or larger](/blog/wheel-hardness-guide-for-adult-skaters/) so your bushings can do their job without wheel bite.
