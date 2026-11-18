@@ -35,7 +35,7 @@ Repetitive unattenuated impact from pushing on rough pavement or stepping off fa
 
 ## Which skate shoe soles wear out slowest: cupsole vs. vulcanized
 
-One of the most frequent questions older skaters search for is which skate shoe outsoles last longest against coarse grip tape and rough concrete push-offs. Sole longevity and foot protection both come down to how the bottom of the shoe is constructed (see our side-by-side breakdown of [cupsole vs. vulcanized skate shoes for older skaters](/blog/cupsole-vs-vulcanized-skate-shoes-older-skaters/)).
+One of the most frequent questions older skaters search for is [which skate shoe outsoles wear out slowest](/blog/skate-shoe-outsole-rubber-tread-durability-guide/) against coarse grip tape and rough concrete push-offs. Sole longevity and foot protection both come down to how the bottom of the shoe is constructed (see our side-by-side breakdown of [cupsole vs. vulcanized skate shoes for older skaters](/blog/cupsole-vs-vulcanized-skate-shoes-older-skaters/)).
 
 ### Cupsole construction (slowest wear, highest impact protection)
 A cupsole is a single molded rubber unit with raised sidewalls that cup the heel and forefoot, stitched or cemented around a dedicated EVA or polyurethane foam midsole. Because the load-bearing tread is thicker and denser than a vulcanized wafer sole, cupsoles wear out significantly slower under repeated pushing and foot-braking while offering far better heel stability and shock absorption. The trade-off is a two- to three-session break-in period before the sole flexes naturally.
@@ -45,11 +45,11 @@ Vulcanized ("vulc") shoes wrap foxing tape around a flat, flexible rubber outsol
 
 ### Outsole rubber compounds that resist abrasion
 Outsole compound matters as much as thickness. Standard blown-rubber lifestyle soles shred quickly on grip tape. Purpose-built high-abrasion compounds wear slowest:
-- **Etnies Marana (Michelin outsole):** Uses a formulated Michelin tire-tread rubber cupsole that is three times more durable than standard skate rubber, paired with a fused rubber toe cap and STI Evolution Foam midsole. For older skaters who foot-brake or push long distances on rough asphalt, the Marana outsole is the benchmark for slow wear.
-- **New Balance Numeric (440, 808, and 1010):** Uses high-density Ndurance rubber outsoles with dual-density FuelCell or ABZORB midsole cushioning and internal heel counters that keep the rearfoot stable.
-- **Vans Skate Classics (Skate Old Skool / Skate Half Cab):** Upgrades the classic waffle sole with a denser SickStick rubber compound, DURACAP internal rubber reinforcements, and thick PopCush energy-return footbeds. (Avoid canvas department-store Vans, which lack both DURACAP and PopCush.)
-- **Nike SB Zoom (Dunk Pro, Verona, Janoski OG+):** Pairs durable high-traction cupsoles or reinforced vulc soles with a Zoom Air unit under the heel to absorb vertical drops.
-- **Emerica Reynolds G6 / Low Vulc G6:** Built around a poured G6 polyurethane midsole formula that resists packing out after months of sessions.
+- Etnies Marana (Michelin outsole): Uses a formulated Michelin tire-tread rubber cupsole that is three times more durable than standard skate rubber, paired with a fused rubber toe cap and STI Evolution Foam midsole. For older skaters who foot-brake or push long distances on rough asphalt, the Marana outsole is the benchmark for slow wear.
+- New Balance Numeric (440, 808, and 1010): Uses high-density Ndurance rubber outsoles with dual-density FuelCell or ABZORB midsole cushioning and internal heel counters that keep the rearfoot stable.
+- Vans Skate Classics (Skate Old Skool / Skate Half Cab): Upgrades the classic waffle sole with a denser SickStick rubber compound, DURACAP internal rubber reinforcements, and thick PopCush energy-return footbeds. (Avoid canvas department-store Vans, which lack both DURACAP and PopCush.)
+- Nike SB Zoom (Dunk Pro, Verona, Janoski OG+): Pairs durable high-traction cupsoles or reinforced vulc soles with a Zoom Air unit under the heel to absorb vertical drops.
+- Emerica Reynolds G6 / Low Vulc G6: Built around a poured G6 polyurethane midsole formula that resists packing out after months of sessions.
 
 ## Upgrading the insole
 

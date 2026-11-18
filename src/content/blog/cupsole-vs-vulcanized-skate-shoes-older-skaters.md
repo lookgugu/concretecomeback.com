@@ -31,7 +31,7 @@ Cupsoles provide substantially thicker heel and forefoot impact attenuation, a f
 Older skaters who spend most of their sessions pushing, carving bowls, and foot-braking wear out shoes differently than teenagers doing hundreds of kickflips.
 
 ### Outsole tread and foot-braking wear
-Cupsole outsoles use a thicker molded rubber bottom, often paired with higher-durometer abrasion-resistant rubber compounds in the heel and forefoot drag zones. Traditional vulcanized outsoles use thinner calendered rubber sheets that wear flat faster under repeated foot-braking on rough asphalt or coarse park concrete.
+Cupsole outsoles use a thicker molded rubber bottom, often paired with higher-durometer abrasion-resistant rubber compounds in the heel and forefoot drag zones (see our full guide to [which skate shoe soles wear out slowest](/blog/skate-shoe-outsole-rubber-tread-durability-guide/)). Traditional vulcanized outsoles use thinner calendered rubber sheets that wear flat faster under repeated foot-braking on rough asphalt or coarse park concrete.
 
 ### Sidewall and ollie-area abrasion
 On a vulcanized shoe, once grip tape abrades through the outer layer of foxing tape at the forefoot bend point, the bond between the sidewall and outsole can separate. Cupsoles with a stitched toe and sidewall channel hold together even after the surface rubber scuffs.
