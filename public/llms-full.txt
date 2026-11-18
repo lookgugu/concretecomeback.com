@@ -2,7 +2,7 @@
 # Generated for LLM and AI agent ingestion
 # Source: https://concretecomeback.com
 # llms.txt: https://concretecomeback.com/llms.txt
-# Date: 2026-11-18T03:17:51.490Z
+# Date: 2026-11-18T04:27:58.410Z
 #
 # This file contains all blog posts and directory listings in plain text.
 # Use /llms.txt for a concise summary. Use this file for complete content.
@@ -5597,6 +5597,84 @@ It's not a replacement for a proper session at the park, and it's not trying to 
 Don't try to replace your commute on day one. Pick a single short, low-stakes errand — the coffee run, the trip to the mailbox, a visit to a friend a mile away — and see how the setup and the route actually feel. If it works, it's an easy habit to extend. If it doesn't, you've lost twenty minutes, not a whole transportation plan.
 
 
+### Riser Pads vs. Shock Pads: Wheel Bite and Joint Impact Guide
+Hard plastic risers stop wheel bite on 56mm+ wheels; 1/8-inch rubber shock pads cut road buzz. Use our wheel-size, rider-weight, and bolt length chart.
+
+Hard plastic riser pads (`1/8"` to `1/2"` thick) add vertical clearance between your skateboard deck and wheels to prevent sudden wheel bite when riding `55mm` to `60mm+` wheels or carving hard. Soft rubber or polyurethane shock pads (`1/8"` / `3.2mm` thick) sit in the same spot between the truck baseplate and wood, where they dampen high-frequency road vibration and reduce stress cracks around the mounting bolts. For returning older skaters, the choice comes down to whether your setup problem is wheel clearance under a heavier body weight or foot numbness from rough pavement.
+
+Most returning skaters in their 40s and 50s swap out tiny street wheels for [softer, slightly larger wheels](/blog/wheel-hardness-guide-for-adult-skaters/) within their first month back. That upgrade solves rough neighborhood asphalt, and five minutes later it introduces a new question at the shop counter: whether to put plastic risers, rubber shock pads, or nothing at all under the trucks.
+
+## What Is the Difference Between Riser Pads and Shock Pads?
+
+Skateboard riser pads are rigid spacers made of hard injection-molded plastic (`1/8"`, `1/4"`, or `1/2"` thick) designed to lift the deck away from larger wheels so the urethane never grabs the wood during a deep turn. Shock pads are thin cushions (`1/8"` / `3.2mm`) made of soft rubber or medium-durometer polyurethane that compress under the truck baseplate to filter out high-frequency surface chatter and protect the deck plies around the bolt holes.
+
+The two parts look almost identical in a parts bin, which is why riders treat them as interchangeable. Mechanically, they do opposite jobs where the metal baseplate meets the seven-ply maple deck.
+
+| Feature | Hard Riser Pads | Soft Shock Pads |
+|---|---|---|
+| Material | Rigid polypropylene, nylon, or hard acrylic | Soft rubber, high-density foam, or 80A to 90A polyurethane |
+| Standard Thicknesses | `1/8"` (`3.2mm`), `1/4"` (`6.4mm`), `1/2"` (`12.7mm`) | `1/8"` (`3.2mm`), occasionally `1/16"` (`1.6mm`) |
+| Primary Job | Prevent wheel bite on `56mm` to `60mm+` wheels | Dampen road buzz and prevent bolt-hole pressure cracks |
+| Compression Under Bolts | Zero; holds exact deck-to-axle height | Compresses ~`0.5mm` to `1.0mm` when locknuts are tightened |
+| Effect on Tail Pop | Steeper tail angle; slower, higher-leverage snap | Minimal geometry change at `1/8"` thickness |
+| Best Match for Older Skaters | Bowl and cruiser setups running `56mm` to `60mm` wheels | Rough asphalt, crust, and park setups running `53mm` to `56mm` wheels |
+
+## Do Shock Pads Reduce Joint Impact on Rough Pavement?
+
+A `1/8"` (`3.2mm`) rubber shock pad noticeably reduces high-frequency road vibration (the buzzing chatter from coarse asphalt, brick, and pebble-worn concrete that leaves your feet tingling after twenty minutes), and it buffers the sharp wood-on-metal spike that causes pressure cracks at the mounting bolts. However, three millimeters of rubber cannot compress enough to absorb the vertical ground-reaction force of a heavy drop or stiff-legged landing.
+
+Skate gear marketing frequently blurs the line between vibration attenuation and impact absorption. When you roll across weathered neighborhood tarmac, your wheels drum against thousands of aggregate peaks per minute. That high-frequency vibration travels straight up the aluminum hanger, through the steel kingpin and baseplate, and into the soles of your feet. Over a thirty-minute session, that constant buzz fatigues the small intrinsic muscles of the foot arch and leaves your ankles feeling wooden. A soft rubber pad (such as Independent `1/8"` shock pads, Dooks Silencers, or Mini Logo rubber risers) breaks the metal-to-wood acoustic bridge and damps that chatter before it reaches your grip tape.
+
+What a `3.2mm` rubber pad cannot do is replace knee flexion, [impact-absorbing cupsole shoes](/blog/cupsole-vs-vulcanized-skate-shoes-older-skaters/), or softer wheel urethane on vertical landings. Once the four mounting bolts are tightened, the rubber pad is already partially pre-compressed between the baseplate and the maple ply. It takes the metallic sting out of landing bolts on flat ground, while your wheels, insoles, and lower-body eccentric control still carry the real orthopedic load.
+
+## When Do You Need Riser Pads for 54mm, 56mm, and 60mm Wheels?
+
+Whether you need riser pads depends on three variables working together: wheel diameter (`54mm` to `60mm+`), truck axle height (low, mid, or standard/high), and rider body weight. Because a 190- to 220-pound older skater compresses truck bushings further into a carve than a 140-pound teenager, heavier riders hit the wheel-bite threshold about `2mm` earlier in wheel diameter unless they also upgrade to firmer bushings.
+
+Most wheel-bite charts online assume a lightweight rider on factory `90A` cushions. If you weigh over 180 pounds and lean hard into a frontside carve at a [local concrete park](/directory/parks), the hanger pivots deeper toward the deck than standard shop charts account for. Replacing soft factory cushions with [weight-matched 94A to 96A truck bushings](/blog/skateboard-truck-bushings-durometer-weight-guide/) controls the lean speed, and the pad thickness below sets the physical clearance floor.
+
+| Wheel Diameter | Rider Under 175 lbs (Mid/High Trucks) | Rider 175 to 220+ lbs (Mid/High Trucks) | Low Trucks (Any Weight) | Recommended Hardware Bolts |
+|---|---|---|---|---|
+| 52mm to 53mm | No pad needed (or `1/8"` shock pad for vibration) | No pad needed (or `1/8"` shock pad for vibration) | No pad needed | `7/8"` or `1"` (no pad) · `1"` (`1/8"` pad) |
+| 54mm to 55mm | No pad needed (or `1/8"` shock pad for rough ground) | `1/8"` shock pad or riser (unless running `94A+` bushings) | `1/8"` hard riser | `1"` or `1 1/8"` |
+| 56mm to 57mm | `1/8"` shock pad or hard riser | `1/8"` hard riser (with `94A+` bushings) or `1/4"` riser | `1/4"` hard riser | `1"` to `1 1/8"` (`1/8"` pad) · `1 1/4"` (`1/4"` pad) |
+| 58mm to 60mm+ | `1/4"` hard riser (or deck with milled wheel wells) | `1/4"` hard riser + wheel wells (or `1/2"` for `62mm+`) | Not recommended | `1 1/4"` (`1/4"` pad) · `1 1/2"` (`1/2"` pad) |
+
+Every millimeter increase in wheel diameter only moves the top edge of the wheel `0.5mm` (the radius increase) closer to the deck. Moving from a `52mm` street wheel to a `56mm` park or hybrid wheel shrinks your clearance by just `2mm` (`5/64"`). A single `1/8"` (`3.2mm`) pad more than restores that lost gap while adding extra room for deeper transition carves.
+
+## How Extra Deck Height Changes Pushing Fatigue and Tail Timing
+
+Adding a `1/8"` (`3.2mm`) pad is barely noticeable underfoot, whereas stepping up to a `1/4"` (`6.4mm`) or `1/2"` (`12.7mm`) riser raises your standing platform enough to change two mechanics older skaters feel immediately: front-leg quad fatigue while pushing and the timing of your tail snap.
+
+Every time you push down the street or across a park flat bottom, your front leg performs a partial single-leg squat to lower your pushing foot to the pavement. Lifting the board a quarter-inch to a half-inch with tall risers and `60mm` wheels forces your front knee and ankle through a deeper range of motion on every push. Over a forty-minute cruiser session, that extra quarter-inch of drop adds up in your front quadriceps and patellar tendon.
+
+Height also changes tail geometry. When your axles sit further from the ground, the tail has to travel through a steeper arc before the wood strikes the concrete. For flatground ollies or lifting the nose over a curb, a `1/4"` riser delays the pop by a fraction of a second and asks for a sharper downward snap from your back ankle. If you skate `56mm` wheels and want to keep your deck low and predictable for flatground and mellow mini ramps, pairing a `1/8"` pad with properly rated bushings and high-geometry trucks (such as Independent Stage 11 or Ace AF1) beats stacking a thick `1/4"` block under low trucks.
+
+## What Length Hardware Bolts Fit 1/8-Inch and 1/4-Inch Pads?
+
+Standard skateboard mounting hardware is sold by total bolt length in inches, measured from the underside of a countersunk Phillips or Allen head to the tip of the threads. A bare deck mounted directly to a truck baseplate takes `7/8"` or `1"` bolts; every `1/8"` of pad thickness requires stepping up accordingly so the bolt threads fully engage the nylon lock ring inside the nut without sticking out half an inch underneath.
+
+| Pad Setup | Minimum Bolt Length | Flush / Easy-Start Bolt Length | Notes |
+|---|---|---|---|
+| No pads (bare deck) | `7/8"` | `1"` | `7/8"` sits completely flush; `1"` leaves 1 to 2 threads showing |
+| 1/8" shock pad or riser | `1"` | `1 1/8"` | `1"` works on most decks; `1 1/8"` is easier to start on new rubber pads |
+| 1/4" hard riser | `1 1/4"` | `1 1/4"` | `1"` bolts will not reach the nylon lock insert |
+| 1/2" hard riser | `1 1/2"` | `1 1/2"` | Common only on dedicated cruiser or old-school pool setups |
+
+If you walk into a [welcoming local skate shop](/directory/shops) to buy wheels and pads together, ask for `1"` or `1 1/8"` hardware whenever you add `1/8"` shock pads. Starting a `1"` nut onto a brand-new rubber shock pad takes firm thumb pressure on the bolt head until the rubber compresses enough for the nylon ring to catch the threads. If less than one full thread exits the bottom of the nylon insert, swap to the next bolt length up so a hard carve never backs a nut off mid-session.
+
+## Frequently Asked Questions
+
+### Can you stack a rubber shock pad on top of a hard plastic riser?
+Avoid stacking two separate pads under the same truck baseplate. Two sliding interfaces allow the mounting bolts to flex and shear under side-load during turns or landings. Instead, buy a single `1/4"` medium-durometer polyurethane riser or pair a single `1/8"` rubber shock pad with higher-profile trucks and weight-matched bushings.
+
+### Does rubbing wax on the deck stop wheel bite without risers?
+Rubbing skate wax or bar soap on the wood directly above each wheel reduces friction during a light rub at the end of a turn, buying a fraction of a second to shift your weight back to center. Wax will not prevent a lockup if a `56mm` or `60mm` wheel presses firmly into the ply under a 190-pound carve.
+
+### How tight should you bolt down rubber shock pads?
+Tighten the nylon locknuts until the bolt heads sit flush with the grip tape on top of the deck and the rubber pad barely bulges around the edges of the metal baseplate. Cranking the nuts until the `1/8"` rubber is crushed flat squeezes out its elastic give and turns the shock pad into a thin, rigid spacer.
+
+
 ### Skateboard Truck Bushings: Matching Durometer to Your Weight
 Why stock 88A-90A truck bushings fail heavier older skaters, how cranking the kingpin nut ruins turn response, and which durometer and shape fit your weight.
 
@@ -5639,7 +5717,7 @@ Skaters in this bracket should skip stock cushions immediately. A 96A bushing (s
 Hardness is half the equation; the profile of the two urethane pieces is the other half.
 
 ### Barrel + Cone (Standard street/park setup)
-Most trucks ship with a cylindrical **barrel** bushing on the bottom (boardside) for stability and a tapered **cone** bushing on the top (roadside) for quick turn initiation. Because the cone has less urethane volume at the narrow end, it offers less resistance when you start leaning.
+Most trucks ship with a cylindrical barrel bushing on the bottom (boardside) for stability and a tapered cone bushing on the top (roadside) for quick turn initiation. Because the cone has less urethane volume at the narrow end, it offers less resistance when you start leaning.
 
 ### Barrel + Barrel (Double-barrel stability setup)
 If you ride a [wider 8.5-inch to 9.0-inch deck](/blog/what-board-size-for-adults/), weigh over 185 pounds, or feel ankle wobble when setting up for a drop-in or rolling transitions, replace the top cone with a second barrel bushing. A double-barrel setup puts more urethane under the top washer, giving you a wider, calmer center point to stand on while keeping a smooth progressive carve once you commit your hips to the turn.
@@ -5651,7 +5729,7 @@ Cupped metal washers wrap around the top edge of the bushing and restrict how fa
 
 When you pick up new bushings at a [core skate shop](/directory/shops/), check that the bushing height matches your truck brand. Independent, Ace, and Venture use standard height bushings, while Thunder trucks and low-geometry trucks use slightly shorter cushions; forcing a tall bushing onto a short kingpin leaves the nylon lock ring unengaged.
 
-Tighten the new kingpin nut until it sits flush with the top of the kingpin bolt and no urethane is bulging over the washer lip. New bushings always feel slightly stiff for the first twenty minutes as the urethane seats into the hanger pocket. Skate two short flatground sessions before adding a quarter-turn of tension, and add a 1/8-inch riser pad if you run [wheels 56mm or larger](/blog/wheel-hardness-guide-for-adult-skaters/) so your bushings can do their job without wheel bite.
+Tighten the new kingpin nut until it sits flush with the top of the kingpin bolt and no urethane is bulging over the washer lip. New bushings always feel slightly stiff for the first twenty minutes as the urethane seats into the hanger pocket. Skate two short flatground sessions before adding a quarter-turn of tension, and add a [1/8-inch riser or shock pad](/blog/skateboard-riser-pads-vs-shock-pads-older-skaters/) if you run [wheels 56mm or larger](/blog/wheel-hardness-guide-for-adult-skaters/) so your bushings can do their job without wheel bite.
 
 
 ### Skateboard Truck Mounting Holes: Old-School vs New-School Bolt Patterns
@@ -7869,49 +7947,57 @@ None of this requires tracking macros or overhauling how you eat. The version th
 ### Wheel Hardness: The Setup Detail Older Skaters Get Wrong
 Why durometer matters more than deck shape for aging joints, how the 78a-101a scale actually works, and how to pick wheels for your local terrain.
 
-When I bought my first board back at 46, I spent a week agonizing over deck width and maybe ninety seconds thinking about wheels. I grabbed whatever came stock on the complete I liked the graphic on. Six weeks later my knees were barking after every session, and it took a friend at the shop pointing at my wheels — hard and small, clearly built for smooth street skating rather than the rough neighborhood pavement I was actually rolling on most days — to tell me why.
+When I bought my first board back at 46, I spent a week agonizing over deck width and maybe ninety seconds thinking about wheels. I grabbed whatever came stock on the complete I liked the graphic on. Six weeks later my knees were barking after every session, and it took a friend at the shop pointing at my wheels (hard and small, clearly built for smooth street skating instead of the rough neighborhood pavement I was actually rolling on most days) to tell me why.
 
 Deck width gets all the attention in gear conversations because it's the thing you see and feel most obviously. Wheel hardness is the variable that actually decides how a session feels in your joints afterward, and it's the one most returning older skaters get wrong first, because nobody stocking a shop's front wall is optimizing for a 47-year-old's ankles.
 
 ## The durometer scale, briefly
 
-Skateboard wheel hardness is measured on the "A" durometer scale, printed right on the wheel — something like 99a or 83a. Higher number, harder wheel. One wrinkle: a few brands, Bones most visibly, print a "B" scale instead, which reads about 20 points lower for the same hardness — an 83b is roughly a 103a, not a soft wheel. Otherwise that's the whole system, and the range that matters for returning older skaters is roughly 78a to 101a:
+Skateboard wheel hardness is measured on the "A" durometer scale, printed right on the wheel, something like 99a or 83a. Higher number, harder wheel. One wrinkle: a few brands, Bones most visibly, print a "B" scale instead, which reads about 20 points lower for the same hardness, so an 83b is roughly a 103a, not a soft wheel. Otherwise that's the whole system, and the range that matters for returning older skaters is roughly 78a to 101a.
 
-- **99a–101a (hard):** Fast, slides easily, transmits almost every crack and pebble straight into your legs. This is what most street-oriented complete boards ship with, because it's what teenagers doing technical tricks on smooth ground want.
-- **90a–97a (medium-hard):** A middle ground some park skaters use — faster than soft wheels, more forgiving than full-hard, but still transmits real vibration on anything but clean concrete.
-- **78a–87a (soft):** Absorbs vibration instead of transmitting it, grips rougher surfaces better, and rolls over small debris that would stop a hard wheel cold. This is the range most returning older skaters are happiest on, and it's what shows up as the default recommendation across nearly every gear guide on this site.
+### 99a to 101a (hard)
+Fast, slides easily, transmits almost every crack and pebble straight into your legs. This is what most street-oriented complete boards ship with, because it's what teenagers doing technical tricks on smooth ground want.
 
-The tradeoff is real, not imaginary: softer wheels are typically a little slower at top speed and wear down faster than hard wheels, especially with aggressive slides. For almost everyone reading this, that tradeoff is worth making.
+### 90a to 97a (medium-hard)
+A middle ground some park skaters use: faster than soft wheels, more forgiving than full-hard, yet it still transmits real vibration on anything but clean concrete.
+
+### 78a to 87a (soft)
+Absorbs vibration instead of transmitting it, grips rougher surfaces better, and rolls over small debris that would stop a hard wheel cold. This is the range most returning older skaters are happiest on, and it's what shows up as the default recommendation across nearly every gear guide on this site.
+
+The tradeoff is real: softer wheels are typically a little slower at top speed and wear down faster than hard wheels, especially with aggressive slides. For almost everyone reading this, that tradeoff is worth making.
 
 ## Why this matters more than deck shape
 
-A deck that's slightly too narrow or too wide is annoying. Wheels that are too hard for the surface you actually skate on are a repeated, cumulative jolt through your ankles, knees, and hips, session after session, whether or not you notice it in the moment. It's the same logic behind [why softer wheels do more for aching joints than almost any other gear change](/blog/gear-for-aging-joints/) — you can feel the difference between 99a and 85a on the same rough patch of asphalt on your very first push.
+A deck that's slightly too narrow or too wide is annoying. Wheels that are too hard for the surface you actually skate on are a repeated, cumulative jolt through your ankles, knees, and hips, session after session, whether or not you notice it in the moment. It's the same logic behind [why softer wheels do more for aching joints than almost any other gear change](/blog/gear-for-aging-joints/): you can feel the difference between 99a and 85a on the same rough patch of asphalt on your very first push.
 
-That's also why wheel hardness deserves its own decision, separate from whatever deck you end up on. You can put soft wheels on a narrow street deck or hard wheels on a wide cruiser deck — they're independent choices, and getting the wheel half right while nailing the deck half doesn't save your knees.
+That's also why wheel hardness deserves its own decision, separate from whatever deck you end up on. You can put soft wheels on a narrow street deck or hard wheels on a wide cruiser deck. Those are independent choices, and getting the wheel half wrong while nailing the deck half doesn't save your knees.
 
 ## Matching hardness to where you actually skate
 
-The honest answer depends less on your age and more on your terrain, though the two often point the same direction for returning older skaters:
+The honest answer depends less on your age and more on your terrain, though the two often point the same direction for returning older skaters.
 
-**Rough asphalt streets, cracked plazas, imperfect neighborhood pavement:** Go as soft as you reasonably can — 78a to 82a. This is the surface where hardness makes the most dramatic difference, because every seam and pebble is a small impact your body absorbs instead of the wheel.
+### Rough asphalt streets, cracked plazas, imperfect neighborhood pavement
+Go as soft as you reasonably can, around 78a to 82a. This is the surface where hardness makes the most dramatic difference, because every seam and pebble is a small impact your body absorbs instead of the wheel.
 
-**Well-maintained skatepark concrete:** You have more room to go harder — 83a to 90a still rolls comfortably and gives you a bit more speed and slide control on smooth, purpose-built terrain, without dropping to street-hard levels.
+### Well-maintained skatepark concrete
+You have more room to go harder: 83a to 90a still rolls comfortably and gives you a bit more speed and slide control on smooth, purpose-built terrain, without dropping to street-hard levels.
 
-**A mix of both, which is most people's reality:** Split the difference around 82a–85a. It's the setup that costs you the least regardless of which surface you end up on that day, and it's the range I'd point any returning older skater toward if they only want to own one set of wheels.
+### A mix of both, which is most people's reality
+Split the difference around 82a to 85a. It's the setup that costs you the least regardless of which surface you end up on that day, and it's the range I'd point any returning older skater toward if they only want to own one set of wheels.
 
 ## Size matters too, but less than hardness
 
-Diameter (measured in millimeters, usually 52mm–60mm+ for skateboard wheels) affects how much momentum you carry and how well you roll over cracks, with bigger generally meaning smoother and faster. It's a real factor, but it's secondary to hardness for comfort — a big hard wheel still hammers your joints on rough ground, while a smaller soft wheel still absorbs plenty. If you're prioritizing one variable to get right, make it durometer first.
+Diameter (measured in millimeters, usually 52mm to 60mm+ for skateboard wheels) affects how much momentum you carry and how well you roll over cracks, with bigger generally meaning smoother and faster. It's a real factor, though secondary to hardness for comfort: a big hard wheel still hammers your joints on rough ground, while a smaller soft wheel still absorbs plenty. If you're prioritizing one variable to get right, make it durometer first.
 
-One caveat before you size up: a 60mm+ wheel needs clearance to match on a standard street deck with low trucks, or it can hit the underside of the deck when you turn or lean — catching hard enough to stop the board and throw you. If you're going bigger on an existing setup rather than a purpose-built cruiser or longboard, pair it with higher trucks or riser pads and check for wheel bite by leaning the board hard on all sides before you ride it.
+One caveat before you size up: a 60mm+ wheel needs clearance to match on a standard street deck with low trucks, or it can hit the underside of the deck when you turn or lean, catching hard enough to stop the board and throw you. If you're going bigger on an existing setup rather than a purpose-built cruiser or longboard, pair it with higher trucks or [riser pads](/blog/skateboard-riser-pads-vs-shock-pads-older-skaters/) and check for wheel bite by leaning the board hard on all sides before you ride it.
 
 ## When to replace what you have
 
-Wheels wear unevenly and lose their round shape ("coning") well before they're visibly bald, and a coned wheel changes how your board turns without you necessarily noticing why. If your setup has felt off lately — grabbier turns on one side, more chatter than usual — check the wheels before you blame your technique. And if you're still riding whatever came stock on a complete built for street skating, that's worth checking today, not after your next sore-knee session.
+Wheels wear unevenly and lose their round shape ("coning") well before they're visibly bald, and a coned wheel changes how your board turns without you necessarily noticing why. If your setup has felt off lately, with grabbier turns on one side or more chatter than usual, check the wheels before you blame your technique. And if you're still riding whatever came stock on a complete built for street skating, that's worth checking today, not after your next sore-knee session.
 
-One caveat, because it matters: softer wheels take the vibration out of a session, but they don't fix a joint that's already hurting. If your knees are still sore after the swap, or the pain is new, sharp, or one-sided, that's a body question rather than a gear one — [our guide to skating with joint pain](/blog/skating-with-arthritis-chronic-joint-pain/) covers when to rest and when to get it looked at.
+One caveat, because it matters: softer wheels take the vibration out of a session, but they don't fix a joint that's already hurting. If your knees are still sore after the swap, or the pain is new, sharp, or one-sided, that's a body question rather than a gear one. See [our guide to skating with joint pain](/blog/skating-with-arthritis-chronic-joint-pain/) for when to rest and when to get it looked at.
 
-If you're building or upgrading a setup from scratch, [our board size guide](/blog/what-board-size-for-adults/) covers deck and truck choices alongside wheels, and [concrete vs. wood vs. asphalt](/blog/concrete-vs-wood-vs-asphalt/) goes deeper on how surface interacts with all of it. But if you only change one thing on an existing board this week, make it the wheels. It's the cheapest gear upgrade on a skateboard, and for most returning older skaters, it's the one that actually changes how your body feels the next morning.
+If you're building or upgrading a setup from scratch, [our board size guide](/blog/what-board-size-for-adults/) covers deck and truck choices alongside wheels, and [concrete vs. wood vs. asphalt](/blog/concrete-vs-wood-vs-asphalt/) goes deeper on how surface interacts with all of it. If you only change one thing on an existing board this week, make it the wheels. It's the cheapest gear upgrade on a skateboard, and for most returning older skaters, it's the one that actually changes how your body feels the next morning.
 
 
 ### Why 52 Might Be the Right Age to Start Skateboarding
