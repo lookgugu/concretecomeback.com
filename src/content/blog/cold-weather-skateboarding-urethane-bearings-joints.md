@@ -30,7 +30,7 @@ Cold urethane bushings resist compression under heel and toe pressure. If you le
 
 If your board feels like you are pushing through sand on a cold morning, the culprit is usually bearing lubricant viscosity rather than bad technique.
 
-Bearings packed with heavy synthetic grease (common in sealed factory bearings and some waterproof commuter setups) experience a sharp rise in viscous drag in cold air. Light low-viscosity skate oils (such as Bones Speed Cream or Bronson high-speed ceramic oil) thicken far less at low temperatures. Give the wheels five minutes of continuous rolling to distribute the lubricant before judging whether a bearing is actually seized from [autumn moisture or grit](/blog/autumn-skating-hazards-for-adults/).
+Bearings packed with heavy synthetic grease (common in sealed factory bearings and some waterproof commuter setups) experience a sharp rise in viscous drag in cold air. Light low-viscosity skate oils (such as Bones Speed Cream or Bronson high-speed ceramic oil) thicken far less at low temperatures. Give the wheels five minutes of continuous rolling to distribute the lubricant before judging whether a bearing is actually seized from [autumn moisture or grit](/blog/autumn-skating-hazards-for-adults/), and if you do roll through salted puddles or meltwater, follow our step-by-step guide to [cleaning skateboard bearings after damp winter sessions](/blog/cleaning-skateboard-bearings-damp-winter-sessions/) before flash rust pits the steel races overnight.
 
 ## What cold air does to older joints and tendons
 
