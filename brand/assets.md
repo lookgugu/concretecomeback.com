@@ -11,3 +11,6 @@
 | social/x/thread-01.md | X 4-Post Thread | 2026-11-18 | riser-vs-shock-pads | draft | 180-220+ lb wheel-bite & bolt length math |
 | social/instagram/carousel-01.md | Instagram 7-Slide Carousel | 2026-11-18 | riser-vs-shock-pads | draft | Riser vs shock pad matrix & bench rules |
 | social/pinterest/pin-01.md | Pinterest Infocard Pin | 2026-11-18 | riser-vs-shock-pads | draft | Search-indexed wheel & bolt chart |
+| skateboard-deck-concave-mellow-vs-steep-older-skaters | SEO Article | 2026-11-19 | content | draft | Published to src/content/blog/ and ./campaigns/content/ |
+| how-to-fall-cluster-refresh | SEO Refresh (3 articles) | 2026-11-19 | content | draft | De-cannibalized how-to-fall-safely-after-40, how-to-fall-safely-skateboarding, how-to-fall-skateboarding-adults |
+| newsletter-cta/copy.md | Direct Response Copy | 2026-11-19 | newsletter-cta | draft | Upgraded NewsletterInline.astro and NewsletterSignup.astro |

@@ -1,7 +1,8 @@
 ---
-title: "How to Fall Safely: The Technique Adult Beginners Need"
-description: "Falling is a learnable skill. Here's how to fall on a skateboard without breaking a wrist, plus what to do in the moments right after a bail."
+title: "How to Fall Safely for Older Beginners: Technique and Post-Fall Checks"
+description: "Why the outstretched-hand reflex breaks wrists in older skateboarders, how to pull your arms in on a bail, and the 60-second check after a hard slam."
 pubDate: 2026-08-15
+updatedDate: 2026-11-19
 author: "Jo Fairweather"
 authorAge: 52
 authorBio: "Physiotherapist and skater. Came back to skating at 49 and hasn't stopped."
@@ -10,57 +11,81 @@ featured: false
 draft: false
 ---
 
-Most of the injury advice adult beginners get is about gear: wear a helmet, wear wrist guards, wear pads. All true, and all necessary. But gear only reduces the damage from a fall you're already having. Nobody teaches the thing that actually prevents the worst injuries in the first place — how to fall.
+For older beginners on a skateboard, preventing serious injury depends on two habits: overriding the automatic reflex to catch yourself with an outstretched hand during a fall, and running a disciplined 60-second self-assessment on the ground before you stand back up. Pulling your elbows in toward your ribs while lowering your hips keeps your body weight from driving through the small bones of the wrist. Taking a full minute on the pavement after a hard slam lets initial adrenaline clear so you can tell general muscular soreness apart from a fracture or head injury.
 
-As a physiotherapist, I see the same injury pattern over and over in adult skaters: a broken wrist from an outstretched arm. It's almost never the fall itself that causes the damage. It's the instinct to catch yourself. That instinct is trainable, and untraining it is one of the highest-value things a returning adult skater can practice before their first real session.
+Most safety advice given to skaters starting or returning after 40 stops at buying a helmet, wrist guards, and knee pads. Protective gear reduces impact transfer, yet gear alone cannot save a locked joint when full body weight lands on an extended arm. In physiotherapy clinics, the most common skateboarding injury among older beginners happens on an ordinary flatground push when the board shoots out and the skater reaches straight for the concrete.
 
-## Why Your Hands Are the Problem
+## Why does the outstretched-hand reflex cause so many skateboarding fractures?
 
-When you feel yourself falling, your nervous system does something automatic: it throws your arms out to catch you. That reflex made sense on solid ground at walking speed. On a skateboard, you're often falling with forward momentum onto a completely rigid surface, and your wrist — a small joint with a lot of delicate bone architecture — ends up absorbing an impact it was never built to take. That's the mechanism behind the classic skateboarding wrist fracture, and it's the single most common injury this sport produces.
+Falling onto an outstretched hand, abbreviated clinically as a FOOSH mechanism, drives your falling body mass plus forward rolling momentum directly into a hyperextended wrist and locked elbow. Because the eight carpal bones and the distal end of the radius have a very small surface area, locking your arm turns those bones into a rigid crumple zone between your torso and the concrete.
 
-Wrist guards help by giving that impact somewhere to go besides bone. But the better fix is not putting your hand there at all.
+When you trip at walking speed on a sidewalk, reaching out a hand often works because your center of mass is moving slowly and your feet are still under you. On a skateboard, your feet frequently accelerate out from underneath you while your upper body tips in the opposite direction. Locking the elbow transfers the entire ground-reaction force up the kinetic chain:
 
-## The Tuck and Roll
+1. At the wrist, hyperextension compresses the scaphoid bone (at the base of the thumb) and shears the distal radius, producing the classic Colles fracture.
+2. At the elbow, an axial load driven up a straight forearm jams the radial head against the humerus, a common source of hidden elbow fractures that initially feel like a deep sprain.
+3. At the shoulder, a stiff arm that catches on rough pavement levers the humeral head or snaps the clavicle before the torso ever reaches the ground.
 
-The technique worth practicing is simple to describe and takes real repetition to make automatic:
+Unlearning that reach starts with giving your hands a specific job the instant you lose balance: pull your elbows toward your ribs and cross your forearms loosely near your chest so your shoulders, back, and glutes take the contact instead. For a full breakdown of how to angle your roll on flat pavement versus sliding on ramps and bowls, read our guide to [flatground tuck-and-roll and transition falling after 40](/blog/how-to-fall-safely-after-40/).
 
-1. **The moment you know you're going down, get low.** Bending your knees shortens the distance between you and the ground, which reduces the force of the impact before it even happens.
-2. **Tuck your chin and pull your arms in.** Cross them against your chest or tuck your elbows in rather than extending them outward. Keeping your limbs close to your body prevents any single joint from taking the full hit.
-3. **Aim to land on the fleshier, larger parts of your body** — your thigh, your shoulder, your back — rather than an elbow, a knee, or a wrist.
-4. **Roll through the fall instead of stopping dead.** If you're moving when you hit the ground, let that momentum carry you into a roll rather than trying to stop instantly. Spreading the impact across a rolling motion, rather than one point of contact, is what actually reduces injury.
+## How do you replace the hand-catch instinct before your first session?
 
-This is the same underlying principle martial artists train as breakfalling, and it's the same reason gymnasts tuck rather than land stiff-legged. The body handles a spread-out, rolling impact far better than a sudden, localized one.
+You cannot talk yourself out of an automatic spinal reflex while you are already falling toward concrete. Replacing the outstretched-hand reaction requires building a competing motor pattern away from the skatepark, plus a two-second verbal cue right before you step onto the board.
 
-## Practicing It Before You Need It
+When a beginner starts to fall, the brain has roughly 200 to 400 milliseconds before ground contact. That window is far too short for conscious problem-solving, so your nervous system executes whichever movement pattern has been rehearsed most recently. You shift that default by practicing low-height crouches and tucked-arm rolls on soft ground first; see our complete step-by-step progression of [off-board grass drills to learn the falling skill first](/blog/how-to-fall-skateboarding-adults/).
 
-You cannot learn this technique for the first time in the moment you're actually falling — there's no time to think, only to react. The way to make tuck-and-roll your default is to rehearse it deliberately, away from the board:
+Once you arrive at one of the beginner-friendly spots in our [skatepark directory](/directory/parks), bridge that off-board practice to the concrete with a pre-push cue. Before your back foot leaves the ground, touch your elbows to your ribs once and repeat a three-word reminder to yourself: knees bend, arms in. Giving your working memory a concrete physical instruction right before you roll lowers the chance that your hands shoot outward on the first unexpected wheel catch.
 
-- Practice controlled falls onto a grassy area or padded mat: drop from a crouch, tuck, and roll, focusing on keeping your arms in rather than reaching out.
-- Do this slowly and repeatedly enough that the motion starts to feel familiar in your body, not just understood in your head.
-- Once it feels natural on soft ground, you can start reinforcing it mentally before sessions: a few seconds reminding yourself "knees bend, arms in, roll" before you push off.
+## What should you check in the first 60 seconds after a skateboard fall?
 
-It won't override your instinct on the first try. Reflexes retrain slowly. But every rep makes it a little more likely that your body defaults to tucking instead of reaching, which is exactly the shift that keeps a fall from becoming an ER visit.
+In the first 60 seconds after a hard skateboard fall, stay seated or lying on the ground instead of jumping straight back to your feet. Adrenaline masks sharp fracture and ligament pain for the first half-minute, and standing up immediately out of social embarrassment at a busy skatepark is how older beginners turn a stable injury into a displaced one.
 
-## What to Do in the Minute After a Fall
+| Time Window on Ground | What to Check | Normal Impact Response | Warning Sign to End the Session |
+|---|---|---|---|
+| Seconds 0 to 15: Stillness and breathing | Head contact, vision, breath, and neck posture | Knocked wind that eases after two slow exhales; clear memory of the slip | Any head strike, brief blackness, dizziness, or neck pain |
+| Seconds 15 to 30: Focal versus diffuse pain | Wrists, anatomical snuffbox (thumb base), elbows, collarbones, ribs | Broad, dull stinging or surface warmth across a muscle belly (glute, lat, thigh) | Sharp, pinpoint pain directly over a bone or joint line |
+| Seconds 30 to 45: Unloaded range of motion | Gently flex and extend fingers, wrists, elbows, and ankles without weight | Smooth motion through full range with mild tissue stiffness | Grinding, catching, mechanical block, or sharp pain on movement |
+| Seconds 45 to 60: Gradual weight-bearing test | Roll to knees, pause, then stand slowly while testing ankle and hip load | Equal weight tolerance on both legs without buckling | Limping, joint instability, or sharp pain when pressing through the palm or foot |
 
-Even a well-executed fall is still a fall, and adult bodies benefit from a beat of caution afterward:
+Take two particular checks seriously before you pick up your board:
 
-- **Don't jump straight back up.** Take a moment lying or sitting still to check in with yourself before moving.
-- **Check for sharp, localized pain versus general soreness.** A dull ache across a wide area is usually just impact. A sharp pain concentrated at one point — especially in the wrist, ankle, or collarbone — is worth getting checked rather than pushing through.
-- **Watch for delayed symptoms.** Some injuries, particularly to the wrist and ribs, don't announce themselves fully until swelling sets in over the following hours. If something still hurts significantly the next morning, see a doctor.
-- **Don't immediately try the same thing again.** It's tempting to get straight back on and prove the fall didn't rattle you. Give yourself a minute to reset first — rushing back in with adrenaline still running is when a second, worse fall tends to happen.
+### Check the anatomical snuffbox at the base of your thumb
 
-**Get emergency care immediately — don't wait — if you or anyone else notices any of these after a fall:**
+If your palm touched the pavement at all, press gently into the small hollow on the thumb side of your wrist (just below the thumb base when you pull your thumb back). Sharp tenderness in that hollow is the classic sign of a scaphoid fracture. Scaphoid fractures frequently show almost no swelling in the first hour and are easily mistaken for a minor wrist sprain, yet skating on an unimmobilized scaphoid can compromise its blood supply and delay healing for months.
 
-- Any hit to the head or neck, especially with confusion, memory gaps, a worsening headache, repeated vomiting, drowsiness, or vision changes
-- Numbness, tingling, or weakness in your arms or legs
-- Visible deformity, or a limb that looks bent or out of place
-- Inability to bear weight on a leg or use an arm at all
-- Trouble breathing, or significant chest or abdominal pain
-- A wound that won't stop bleeding
+### Sit out at least five minutes before trying the same maneuver again
 
-These are signs of possible concussion, spinal injury, fracture, or dislocation, and none of them are "wait and see if it's better in the morning" situations. Call emergency services or get to an ER right away rather than driving yourself if you're confused, dizzy, or in severe pain.
+Even when all four checks pass cleanly, your heart rate is elevated and your stabilizing muscles are slightly fatigued from the catch. Take a five-minute water break on the bench before stepping back on the board. Rushing straight back into the exact line that just threw you, while adrenaline is still shaking your knees, is when a second and much harder fall usually happens.
 
-## Gear Still Matters
+## Which red-flag symptoms require immediate emergency care?
 
-None of this replaces wrist guards, a helmet, and pads. Falling technique reduces the severity and frequency of the worst injuries; gear catches what technique doesn't. Use both. The adults who skate consistently for years, rather than quitting after one bad break, are usually the ones who trained the fall as seriously as they trained the trick.
+Certain post-fall symptoms indicate a potential intracranial bleed, concussion, spinal cord injury, or unstable fracture and require immediate emergency medical evaluation rather than waiting until the next morning. Never drive yourself to the hospital if you experience any head injury symptoms, dizziness, visual changes, or severe pain.
+
+### Head and neck red flags
+
+Seek emergency care immediately if you or anyone skating with you notices any hit to the head or neck accompanied by confusion, memory gaps around the fall, a headache that keeps worsening, repeated vomiting, slurred speech, drowsiness, unequal pupils, or double vision. Even if a head impact feels minor at the park, review our full clinical guide on [concussion protocol and emergency red flags for skaters over 40](/blog/concussion-protocol-for-skaters-over-40/) to understand why same-day evaluation and clinician clearance matter before returning to a board.
+
+### Spinal and neurological red flags
+
+Do not move, and call emergency services right away, if a fall produces numbness, pins-and-needles tingling, burning pain, or weakness radiating into one or both arms or legs, or any midline pain along the cervical or thoracic spine.
+
+### Fracture, dislocation, and internal injury red flags
+
+Go straight to an emergency department or urgent orthopaedic clinic if you observe any visible deformity (a wrist, ankle, finger, or collarbone that looks angled, stepped, or out of place), an inability to bear weight on a leg for four steps, an inability to bend or straighten an elbow, trouble catching your breath several minutes after impact, sharp chest or abdominal pain, or a deep laceration that does not stop bleeding with direct pressure.
+
+### Delayed symptoms over the next 24 hours
+
+Not every fracture announces itself in the first minute. Radial head fractures in the elbow, hairline rib fractures, and scaphoid wrist fractures often stiffen and swell overnight as inflammation peaks inside the joint capsule. If a wrist, elbow, ankle, or rib wakes you up that night or hurts sharply the next morning when you lift a coffee mug or walk downstairs, book a medical evaluation and X-ray before you skate again.
+
+## Frequently Asked Questions
+
+### Why is jumping straight up after a skateboard fall a mistake for older skaters?
+
+Standing up immediately after a fall spikes blood pressure changes while adrenaline is masking localized bone or ligament pain. Staying on the ground for 60 seconds lets you check for head impact symptoms, pinpoint bone tenderness, and joint stability before putting full body weight on a potentially fractured ankle, hip, or wrist.
+
+### How can you tell a bruised wrist from a possible wrist fracture after a fall?
+
+A simple soft-tissue bruise usually causes a broad, dull ache or surface scrape that remains tolerable when you move your fingers and wrist gently. A possible wrist fracture produces sharp, localized pain directly over the bone (especially at the distal radius or the anatomical snuffbox at the base of the thumb), swelling that builds over the first few hours, or sharp pain when gripping or bearing weight.
+
+### Should you keep skating if your elbow hurts after catching yourself with a straight arm?
+
+No. When you catch yourself on an outstretched hand, force travels up the forearm bones and slams the radial head into the elbow joint. Radial head fractures often allow partial bending right after the fall and feel like a dull ache until joint swelling sets in hours later, so any post-fall elbow pain should end the session and be evaluated if stiffness or pain persists the next day.
