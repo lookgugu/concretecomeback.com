@@ -5,6 +5,10 @@ const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 // once it has been used: the TTL *is* the window in which a confirmation can be
 // replayed, including to re-subscribe someone who unsubscribed in between.
 const TOKEN_TTL_MS = 2 * 60 * 60 * 1000;
+// Short deduplication bucket for confirmation email sends: coalesces accidental
+// double-submits within a minute while allowing a visitor to request a fresh
+// confirmation email after a minute if the first one did not arrive.
+const IDEMPOTENCY_BUCKET_MS = 60 * 1000;
 // Wall-clock budget shared by every Resend call inside one confirmation. It has
 // to fit within the 15s `limits.timeout` in project.yml with room to spare, or
 // DO kills the invocation before the branded error redirect can be returned.
@@ -134,12 +138,13 @@ async function resendRequest(path, apiKey, options, deadline) {
   });
 }
 
-// Resend retains idempotency keys for 24 hours — longer than a link lives. Bucket
-// the key by the token TTL so a double-submit shares one send, but a visitor
-// whose link expired, bounced, or never arrived can get a fresh one afterwards.
-// The address is hashed so a retry cannot expose it in provider logs.
+// Resend retains idempotency keys for 24 hours. Bucket the key by a short
+// deduplication window (60s) so an accidental double-submit shares one send,
+// while a visitor whose email never arrived can request a fresh link after a
+// minute (as promised on /newsletter/pending/). The address is hashed so a
+// retry cannot expose it in provider logs.
 function idempotencyKey(email, secret, now = Date.now()) {
-  return `newsletter-confirmation/${sign(`${email}:${Math.floor(now / TOKEN_TTL_MS)}`, secret)}`;
+  return `newsletter-confirmation/${sign(`${email}:${Math.floor(now / IDEMPOTENCY_BUCKET_MS)}`, secret)}`;
 }
 
 async function startSignup(args) {
@@ -156,7 +161,8 @@ async function startSignup(args) {
     return response(503, { ok: false, error: 'Signup is temporarily unavailable. Please try again.' });
   }
 
-  const token = createToken(email, secret);
+  const now = Date.now();
+  const token = createToken(email, secret, now);
   const confirmUrl = `${SITE_URL}/api/forms/newsletter?token=${encodeURIComponent(token)}`;
   const payload = {
     from: 'Concrete Comeback <hello@concretecomeback.com>',
@@ -170,7 +176,7 @@ async function startSignup(args) {
     const result = await resendRequest('/emails', apiKey, {
       method: 'POST',
       body: JSON.stringify(payload),
-      headers: { 'Idempotency-Key': idempotencyKey(email, secret) },
+      headers: { 'Idempotency-Key': idempotencyKey(email, secret, now) },
     });
     if (result.status === 409) {
       // Resend suppressed a duplicate send inside the current bucket. Keep the
@@ -281,4 +287,5 @@ exports.readToken = readToken;
 exports.idempotencyKey = idempotencyKey;
 exports.timeoutBudget = timeoutBudget;
 exports.TOKEN_TTL_MS = TOKEN_TTL_MS;
+exports.IDEMPOTENCY_BUCKET_MS = IDEMPOTENCY_BUCKET_MS;
 exports.DEFAULT_SEGMENT_ID = DEFAULT_SEGMENT_ID;

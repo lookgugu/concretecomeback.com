@@ -1,7 +1,7 @@
 const test = require('node:test');
 const assert = require('node:assert/strict');
 const { createHmac } = require('node:crypto');
-const { main, createToken, readToken, idempotencyKey, timeoutBudget, TOKEN_TTL_MS } = require('./newsletter');
+const { main, createToken, readToken, idempotencyKey, timeoutBudget, TOKEN_TTL_MS, IDEMPOTENCY_BUCKET_MS } = require('./newsletter');
 
 const ENV_KEYS = ['RESEND_API_KEY', 'RESEND_CONTACTS_API_KEY', 'NEWSLETTER_CONFIRM_SECRET'];
 
@@ -76,11 +76,11 @@ test('repeated signup shares one idempotency key, reports pending, and logs the 
   assert.doesNotMatch(JSON.stringify(warnings), /skater@example\.com/);
 });
 
-test('the idempotency key is stable within a token lifetime and rotates after it', () => {
+test('the idempotency key is stable within the deduplication window and rotates after a minute', () => {
   const secret = 'test-secret';
-  const start = 7 * TOKEN_TTL_MS + 1_000;
-  assert.equal(idempotencyKey('skater@example.com', secret, start), idempotencyKey('skater@example.com', secret, start + 60_000));
-  assert.notEqual(idempotencyKey('skater@example.com', secret, start), idempotencyKey('skater@example.com', secret, start + TOKEN_TTL_MS));
+  const start = 7 * IDEMPOTENCY_BUCKET_MS + 1_000;
+  assert.equal(idempotencyKey('skater@example.com', secret, start), idempotencyKey('skater@example.com', secret, start + 10_000));
+  assert.notEqual(idempotencyKey('skater@example.com', secret, start), idempotencyKey('skater@example.com', secret, start + IDEMPOTENCY_BUCKET_MS));
   assert.notEqual(idempotencyKey('skater@example.com', secret, start), idempotencyKey('other@example.com', secret, start));
 });
 
