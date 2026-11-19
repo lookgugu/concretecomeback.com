@@ -13,7 +13,7 @@ Date: 2026-11-19
 ```
 AI SURFACE: "how to clean skateboard bearings after wet pavement" & "can you clean rusted skateboard bearings with isopropyl alcohol or acetone wd40"
 AIO present: yes · Cited: sector9.com (step-by-step shield removal, solvent shake, 1-2 drops skate oil), tactics.com (acetone in glass jar warning and WD-40 lubricant myth), routeone.co.uk (91%+ isopropyl alcohol vs 70% water content), reddit.com (flash-rust air-drying warning and pitted-race replacement threshold)
-Variant phrasings cited: conversational prompts ("my skateboard bearings got wet in winter and won't spin, can I save them?") pull Reddit and skate shop summaries noting that solvents dissolve old grease and road salt grime rather than structural rust pits, and emphasizing immediate forced-air drying.
+Variant phrasings cited: conversational prompts ("my skateboard bearings got wet in winter and won't spin, can I save them?") pull Reddit and skate shop summaries noting that solvents dissolve old grease and road salt grime rather than structural rust pits, and emphasizing drying in a ventilated space away from heat or ignition sources.
 Citation gap: No single cited page provides (1) an extractable solvent safety matrix comparing water content, nylon-cage compatibility, grease-cutting speed, and flash-rust risk across 99% IPA, 91% IPA, 70% IPA, pure acetone, citrus cleaner, and WD-40, plus (2) a diagnostic decision table separating recoverable surface flash rust from permanent SAE 52100 raceway pitting.
 ```
 

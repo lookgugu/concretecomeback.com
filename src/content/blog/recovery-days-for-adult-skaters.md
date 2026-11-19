@@ -17,7 +17,7 @@ Skating longer across your 40s and 50s comes down to building rest days into you
 
 | Weekly Schedule Type | On-Board Sessions | Rest & Off-Day Structure | Best Fit For |
 |---|---|---|---|
-| 3-Session Comeback Week (Mon / Wed / Sat) | Two 45-minute weekday flatground or curb sessions plus one 60-to-90-minute weekend park session | Single rest day between weekday sessions; two consecutive rest days (Sun / Mon or Sun / Tue) after the weekend park session | First 3 months back on a board, or weeks with heavy transition and impact load |
+| 3-Session Comeback Week (Tue / Thu / Sat) | Two 45-minute weekday flatground or curb sessions plus one 60-to-90-minute weekend park session | Single rest day between weekday sessions (Wed and Fri); two consecutive rest days (Sun and Mon) after Saturday's weekend park session | First 3 months back on a board, or weeks with heavy transition and impact load |
 | 4-Session Maintenance Week (Tue / Thu / Sat / Sun) | Two short technical weekday sessions, one main Saturday park session, and one low-impact Sunday cruise or pump-track roll | Off-board days on Mon, Wed, and Fri with 10-minute ankle, hip, and thoracic mobility rotations | Established older skaters with solid base conditioning and low joint irritation |
 | High-Impact Reset Week (2 Sessions) | Two 45-to-60-minute mellow sessions spaced 72 hours apart | Five off-board days prioritizing sleep and gentle walking after a slam, travel week, or flare-up | Weeks following an uncommonly long park session, minor bruise, or short sleep stretch |
 
