@@ -12,7 +12,7 @@ draft: false
 
 Dressing for a cold-weather skate session is a balancing act between staying warm during the first ten minutes of pushing and not overheating or restricting your joints once your heart rate climbs. A bulky puffer jacket feels great walking from the car to the coping, but ten minutes into a session it traps sweat against your skin, limits how far you can rotate your shoulders into a turn, and rips the first time you slide out on rough concrete. Layering thin, moisture-wicking base fabrics under an abrasion-resistant canvas or heavy flannel shell, and sizing your knee and elbow pads so they sit securely without cutting off circulation, lets you skate comfortably down into the 30s and 40s Fahrenheit (roughly -1 to 9 degrees Celsius) without feeling like you are wearing a snowsuit.
 
-We have covered what freezing temperatures do to [urethane wheels, bearings, and joint warm-ups](/blog/cold-weather-skateboarding-urethane-bearings-joints/). Sorting out the clothing and pad fit on your body is the other half of keeping winter mornings skateable.
+We have covered what freezing temperatures do to [urethane wheels, bearings, and joint warm-ups](/blog/cold-weather-skateboarding-urethane-bearings-joints/) and how to [clean skateboard bearings after damp winter sessions](/blog/cleaning-skateboard-bearings-damp-winter-sessions/). Sorting out the clothing and pad fit on your body is the other half of keeping winter mornings skateable.
 
 ## Why standard winter coats fail at the skatepark
 

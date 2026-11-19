@@ -14,3 +14,9 @@
 | skateboard-deck-concave-mellow-vs-steep-older-skaters | SEO Article | 2026-11-19 | content | draft | Published to src/content/blog/ and ./campaigns/content/ |
 | how-to-fall-cluster-refresh | SEO Refresh (3 articles) | 2026-11-19 | content | draft | De-cannibalized how-to-fall-safely-after-40, how-to-fall-safely-skateboarding, how-to-fall-skateboarding-adults |
 | newsletter-cta/copy.md | Direct Response Copy | 2026-11-19 | newsletter-cta | draft | Upgraded NewsletterInline.astro and NewsletterSignup.astro |
+| cleaning-skateboard-bearings-damp-winter-sessions | SEO Article | 2026-11-19 | content | draft | Published to src/content/blog/ and ./campaigns/content/ (Marcus Webb) |
+| six-month-and-recovery-refresh | SEO Refresh (4 articles) | 2026-11-19 | content | draft | De-cannibalized six-month pair (Sam Torres) & recovery pair (Marcus Webb) |
+| deck-concave-foot-fatigue/social/x/text-post-01.md | X Text Post + Link Reply | 2026-11-19 | deck-concave-foot-fatigue | draft | Wide-deck 8.75"-9.0" rail height multiplier |
+| deck-concave-foot-fatigue/social/x/thread-01.md | X 4-Post Thread | 2026-11-19 | deck-concave-foot-fatigue | draft | Mellow vs steep drop + 5-row cramping diagnostic |
+| deck-concave-foot-fatigue/social/instagram/carousel-01.md | Instagram 7-Slide Carousel | 2026-11-19 | deck-concave-foot-fatigue | draft | Concave geometry & shop carpet check |
+| deck-concave-foot-fatigue/social/pinterest/pin-01.md | Pinterest Infocard Pin | 2026-11-19 | deck-concave-foot-fatigue | draft | Search-indexed concave & cramping chart |
