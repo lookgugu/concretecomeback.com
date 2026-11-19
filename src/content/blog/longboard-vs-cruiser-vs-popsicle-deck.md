@@ -23,7 +23,7 @@ This is the classic symmetrical shape with a upturned kick nose and tail, standa
 A popsicle deck is the right tool for [skateparks](/directory/parks/), including mellow bowls, mini ramps, banks, pump tracks, and smooth flatground. Older returners sometimes assume a popsicle deck is only for flip tricks down stairs. In practice, it is the universal park board. Look around any Sunday morning older-skater session and almost everyone carving the bowl or rolling the transitions is riding an 8.5-inch to 9.0-inch popsicle or shaped park deck.
 
 ### How to set one up in your 40s or 50s
-Skip the narrow 7.75-inch decks and rock-hard 101A wheels. As our [board size guide](/blog/what-board-size-for-adults/) explains, most older skaters feel far more planted on an 8.5-inch or wider deck. Pair it with [92A to 97A hybrid wheels](/blog/wheel-hardness-guide-for-adult-skaters/) if you split time between smooth concrete parks and slightly rough car parks, or 78A to 87A wheels if you only roll rough asphalt.
+Skip the narrow 7.75-inch decks and rock-hard 101A wheels. As our [board size guide](/blog/what-board-size-for-adults/) explains, most older skaters feel far more planted on an 8.5-inch or wider deck, especially when paired with a [mellow or medium deck concave that avoids mid-session arch cramping](/blog/skateboard-deck-concave-mellow-vs-steep-older-skaters/). Pair it with [92A to 97A hybrid wheels](/blog/wheel-hardness-guide-for-adult-skaters/) if you split time between smooth concrete parks and slightly rough car parks, or 78A to 87A wheels if you only roll rough asphalt.
 
 ## The cruiser skateboard
 
