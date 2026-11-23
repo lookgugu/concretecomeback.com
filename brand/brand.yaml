@@ -45,3 +45,7 @@ campaigns:
     path: ./campaigns/newsletter-cta/
     status: active
     started: 2026-11-19
+  - name: deck-concave-foot-fatigue
+    path: ./campaigns/deck-concave-foot-fatigue/
+    status: active
+    started: 2026-11-19
