@@ -368,9 +368,14 @@ def build_x_thread(meta: dict, parsed: dict) -> list[str]:
         tweets.append(prefix + truncate(sec_text, 275 - len(prefix)))
 
     url = utm_url(slug, "x")
-    tweets.append(
-        f"Read the full guide on Concrete Comeback:\n{url}\n\n#olderskaters #skateboarding"
-    )
+    closing = f"Read the full guide on Concrete Comeback:\n{url}\n\n#olderskaters #skateboarding"
+    if len(closing) > 275:
+        short_url = f"{SITE_ORIGIN}/blog/{slug}/?utm_source=x&utm_medium=social&utm_campaign=blog-autopost"
+        closing = f"Full guide on Concrete Comeback:\n{short_url}\n\n#olderskaters #skateboarding"
+    if len(closing) > 275:
+        bare_url = f"{SITE_ORIGIN}/blog/{slug}/"
+        closing = f"Full guide:\n{bare_url}\n\n#olderskaters #skateboarding"
+    tweets.append(truncate(closing, 275))
     return tweets
 
 

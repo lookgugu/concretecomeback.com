@@ -99,6 +99,7 @@ class PostBlogToSocialTests(unittest.TestCase):
             self.assertNotIn("|", caption, f"Raw pipe found in Instagram caption for {slug}")
             for tweet in thread:
                 self.assertNotIn("|", tweet, f"Raw pipe found in X thread for {slug}")
+                self.assertLessEqual(len(tweet), 275, f"Tweet exceeds 275 chars ({len(tweet)}) for {slug}: {tweet}")
             for sec in parsed["sections"]:
                 for p in sec["paragraphs"]:
                     self.assertNotIn("|", p, f"Raw pipe found in paragraph of {slug}")
