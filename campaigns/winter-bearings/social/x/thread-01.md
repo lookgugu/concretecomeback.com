@@ -7,39 +7,45 @@ status: draft
 recommended_post_time: "Thursday 10:00 AM local (with 30-min reply window)"
 ---
 
-## Post 1 (272 chars)
+## Post 1 (248 chars)
 
 Standard 608 skateboard bearings use SAE 52100 chromium steel balls and races.
 
-When winter mist or snowmelt wicks road salt past the shield gap, setting the board in a warm hallway overnight lets chloride ions pit the contact track within 4 to 6 hours.
+When winter mist or snowmelt wicks road salt past the shield gap, leaving a wet board in a warm hallway lets chloride ions pit the contact track within 4 to 6 hours.
 
-## Post 2 (347 chars)
+## Post 2 (254 chars)
 
-Half of ruined winter bearings die on the workbench rather than at the skatepark:
+Half of ruined winter bearings die on the workbench:
 
-- 99% isopropyl alcohol (1% water): best 2-3 min winter flush
-- 70% rubbing alcohol (30% water): beads on bare steel and causes flash rust
-- Pure acetone: 60-90 sec flush in glass only
-- WD-40: strips skate oil and leaves a dust-trapping film unless flushed out
+- 99% IPA (1% water): best 2-3 min winter flush
+- 70% rubbing alcohol (30% water): beads on steel, causes flash rust
+- Pure acetone: 60-90s flush in glass only
+- WD-40: strips oil, leaves dust film
 
-## Post 3 (389 chars)
+## Post 3 (249 chars)
 
-The 20-minute wet-session rescue:
+Step 1 & 2 of the 20-minute wet-session rescue:
 
-1. Pry rubber shields from the INNER race edge with a sewing pin (outer-groove prying bends the backing plate) and wash shields in soapy water, never solvent
-2. Shake unshielded bearings in 99% IPA for 2 min in a glass jar + 30s clean rinse
-3. Tap dry on a lint-free towel or use unheated air (never a heated hairdryer on flammable vapors; hold outer ring)
-4. Add 2 drops light skate oil
+1. Pop bearings on the truck axle tip within 2 hours and wipe out the wheel seat.
+2. Pry rubber shields from the INNER race edge with a pin. Keep shields out of solvent and wash them in soapy water.
 
-## Post 4 (356 chars)
+## Post 4 (259 chars)
 
-After flushing and oiling, press sideways on the outer ring while spinning to tell cosmetic haze from dead steel:
+Step 3 to 5 (ventilated room, away from heat or sparks):
 
-- Faint orange tint + quiet spin: surface flash rust outside the track (skate it)
-- Slight hiss + 10s+ spin + zero clicks: winter beater set
-- Rhythmic ticking or crunch: pitted raceway (replace)
-- Catches or stops in <2s: cracked nylon cage risk (retire now)
+3. Shake unshielded bearings in 99% IPA in a glass jar for 2 min + 30s clean rinse.
+4. Tap dry on a towel or use unheated air while holding the outer ring (never a heated hairdryer).
+5. Add 2 drops oil.
 
-## Reply 1 (Link Drop)
+## Post 5 (247 chars)
 
-Full winter 608 bearing solvent comparison table, step-by-step flush protocol, and our local skate shop and indoor park directory for older skaters: https://concretecomeback.com/blog/cleaning-skateboard-bearings-damp-winter-sessions/
+After oiling, press sideways on the outer ring while spinning:
+
+- Faint orange haze + quiet spin: surface flash rust (skate it)
+- Slight hiss + 10s+ spin: winter beater set
+- Rhythmic ticking or crunch: pitted race (replace)
+- Stops <2s: retire now
+
+## Reply 1 (Link Drop, 225 chars)
+
+Full winter 608 bearing solvent chart, flush steps, and our local skate shop and indoor park directory for older skaters: https://concretecomeback.com/blog/cleaning-skateboard-bearings-damp-winter-sessions/

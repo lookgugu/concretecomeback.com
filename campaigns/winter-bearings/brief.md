@@ -14,7 +14,7 @@ Concrete Comeback operates three social/discovery platforms (`x`, `instagram`, `
 
 ### Operated Platforms
 
-1. **X (`@concretecomebck`): Native light + Link-in-reply (`text-post-01.md`) and Native deep 4-post sequence (`thread-01.md`)**
+1. **X (`@concretecomebck`): Native light + Link-in-reply (`text-post-01.md`) and Native deep 5-post sequence (`thread-01.md`)**
    - **Why:** The source delivers two distinct, high-share mechanical truths for older skaters: (1) why `70%` pharmacy rubbing alcohol (`30%` water) and soaking rubber shields in solvents ruin `SAE 52100` steel bearings, whereas `99%` isopropyl alcohol (with rubber shields removed first and washed in soapy water) flushes out winter road brine (`NaCl` / magnesium chloride) before flash rust pits the races within 4 to 6 hours; and (2) the 5-step 20-minute wet-session rescue protocol and the 4-row flash-rust vs pitted-race diagnostic. Links stay in Reply 1.
 2. **Instagram (`@concretecomeback`): Native deep 7-slide carousel (`carousel-01.md`)**
    - **Why:** The 6-solvent comparison table (`99%` IPA vs `91%` IPA vs `70%` rubbing alcohol vs pure acetone vs citrus degreaser vs `WD-40`), the 5-step wet-session flush and re-oil protocol, and the 4-row keep-vs-replace diagnostic are saveable workbench references. A 4:5 (1080x1350) 7-slide carousel fits Instagram's save-and-send ranking signal (`brand/instagram-strategy.md`).
