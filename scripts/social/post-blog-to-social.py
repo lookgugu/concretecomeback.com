@@ -152,42 +152,117 @@ def split_sentences(text: str) -> list[str]:
     return [s.strip() for s in re.split(r"(?<=[.!?])\s+", text) if s.strip()]
 
 
+def _is_markdown_table_line(line: str) -> bool:
+    s = line.strip()
+    return s.startswith("|") and s.endswith("|") and len(s) > 1
+
+
+def _is_markdown_table_separator(line: str) -> bool:
+    s = line.strip()
+    if not _is_markdown_table_line(s):
+        return False
+    cells = [c.strip() for c in s.strip("|").split("|")]
+    return bool(cells) and all(re.match(r"^:?-{2,}:?$", c) for c in cells if c != "")
+
+
+def _parse_markdown_table(lines: list[str]) -> list[dict[str, str]]:
+    """Parse a markdown table into structured subpoints without raw pipe syntax."""
+    table_lines = [ln.strip() for ln in lines if _is_markdown_table_line(ln)]
+    if len(table_lines) < 2:
+        return []
+    headers = [strip_md(c) for c in table_lines[0].strip("|").split("|")]
+    subpoints: list[dict[str, str]] = []
+    for ln in table_lines[1:]:
+        if _is_markdown_table_separator(ln):
+            continue
+        cells = [strip_md(c) for c in ln.strip("|").split("|")]
+        if not cells or not any(cells):
+            continue
+        title = cells[0]
+        details: list[str] = []
+        for idx, cell in enumerate(cells[1:], start=1):
+            if not cell:
+                continue
+            hdr = headers[idx] if idx < len(headers) and headers[idx] else ""
+            details.append(f"{hdr}: {cell}" if hdr else cell)
+        body = "; ".join(details)
+        if body and body[-1] not in ".!?":
+            body += "."
+        subpoints.append({"title": title, "body": body})
+    return subpoints
+
+
+def _split_blocks_with_tables(body: str) -> list[str]:
+    """Split markdown body into blocks while isolating markdown tables from adjacent prose."""
+    raw_blocks = re.split(r"\n\s*\n", body)
+    blocks: list[str] = []
+    for raw in raw_blocks:
+        raw = raw.strip()
+        if not raw:
+            continue
+        lines = raw.splitlines()
+        cur_lines: list[str] = []
+        cur_is_table: bool | None = None
+        for ln in lines:
+            is_tbl = _is_markdown_table_line(ln)
+            if cur_is_table is None:
+                cur_is_table = is_tbl
+                cur_lines.append(ln)
+            elif is_tbl == cur_is_table:
+                cur_lines.append(ln)
+            else:
+                chunk = "\n".join(cur_lines).strip()
+                if chunk:
+                    blocks.append(chunk)
+                cur_lines = [ln]
+                cur_is_table = is_tbl
+        if cur_lines:
+            chunk = "\n".join(cur_lines).strip()
+            if chunk:
+                blocks.append(chunk)
+    return blocks
+
+
 def extract_structured_content(meta: dict) -> dict:
     body = meta["body"]
     paragraphs: list[str] = []
     sections: list[dict] = []
     current_sec: dict | None = None
-
-    current_sec: dict | None = None
     current_sub: dict | None = None
 
-    for block in re.split(r"\n\s*\n", body):
+    for block in _split_blocks_with_tables(body):
         block = block.strip()
         if not block:
             continue
+        lines = block.splitlines()
+        if all(_is_markdown_table_line(ln) for ln in lines):
+            current_sub = None
+            if current_sec is not None:
+                current_sec.setdefault("table_subpoints", []).extend(_parse_markdown_table(lines))
+            continue
         if block.startswith("## "):
-            heading = strip_md(block.splitlines()[0][3:])
-            current_sec = {"heading": heading, "subpoints": [], "paragraphs": []}
+            heading = strip_md(lines[0][3:])
+            current_sec = {"heading": heading, "subpoints": [], "paragraphs": [], "table_subpoints": []}
             current_sub = None
             sections.append(current_sec)
-            rest = "\n".join(block.splitlines()[1:]).strip()
+            rest = "\n".join(lines[1:]).strip()
             if rest:
                 current_sec["paragraphs"].append(strip_md(rest))
         elif block.startswith("### "):
-            lines = block.splitlines()
             sub_h = strip_md(lines[0][4:])
             sub_b = strip_md(" ".join(lines[1:]))
             if current_sec is None:
-                current_sec = {"heading": "Key Points", "subpoints": [], "paragraphs": []}
+                current_sec = {"heading": "Key Points", "subpoints": [], "paragraphs": [], "table_subpoints": []}
                 sections.append(current_sec)
             current_sub = {"title": sub_h, "body": sub_b}
             current_sec["subpoints"].append(current_sub)
-        elif block.startswith("- "):
+        elif re.match(r"^(?:[-*]|\d+\.)\s+", block):
             current_sub = None
-            for line in block.splitlines():
-                if line.strip().startswith("- "):
-                    item_txt = strip_md(line.strip()[2:])
-                    if current_sec is not None:
+            for line in lines:
+                m_item = re.match(r"^(?:[-*]|\d+\.)\s+(.*)$", line.strip())
+                if m_item:
+                    item_txt = strip_md(m_item.group(1))
+                    if current_sec is not None and item_txt:
                         current_sec["subpoints"].append({"title": "", "body": item_txt})
         elif not block.startswith("#") and not block.startswith("---"):
             clean_p = strip_md(block)
@@ -197,6 +272,11 @@ def extract_structured_content(meta: dict) -> dict:
                 current_sub["body"] = f"{current_sub['body']} {clean_p}".strip() if current_sub["body"] else clean_p
             else:
                 current_sec["paragraphs"].append(clean_p)
+
+    for sec in sections:
+        tbl_pts = sec.pop("table_subpoints", [])
+        if not sec["subpoints"] and not sec["paragraphs"] and tbl_pts:
+            sec["subpoints"] = tbl_pts
 
     intro = paragraphs[0] if paragraphs else strip_md(meta.get("description", ""))
     return {
@@ -288,9 +368,14 @@ def build_x_thread(meta: dict, parsed: dict) -> list[str]:
         tweets.append(prefix + truncate(sec_text, 275 - len(prefix)))
 
     url = utm_url(slug, "x")
-    tweets.append(
-        f"Read the full guide on Concrete Comeback:\n{url}\n\n#olderskaters #skateboarding"
-    )
+    closing = f"Read the full guide on Concrete Comeback:\n{url}\n\n#olderskaters #skateboarding"
+    if len(closing) > 275:
+        short_url = f"{SITE_ORIGIN}/blog/{slug}/?utm_source=x&utm_medium=social&utm_campaign=blog-autopost"
+        closing = f"Full guide on Concrete Comeback:\n{short_url}\n\n#olderskaters #skateboarding"
+    if len(closing) > 275:
+        bare_url = f"{SITE_ORIGIN}/blog/{slug}/"
+        closing = f"Full guide:\n{bare_url}\n\n#olderskaters #skateboarding"
+    tweets.append(truncate(closing, 275))
     return tweets
 
 
@@ -347,17 +432,12 @@ def _font(bold: bool, size: int) -> ImageFont.FreeTypeFont:
     return ImageFont.truetype(path, size)
 
 
-def _draw_wrapped(
+def _wrap_lines(
     draw: ImageDraw.ImageDraw,
     text: str,
     font: ImageFont.FreeTypeFont,
-    color: tuple[int, int, int],
-    x: int,
-    y: int,
     max_width: int,
-    line_spacing: int = 12,
-    max_lines: int = 10,
-) -> int:
+) -> list[str]:
     words = text.split()
     lines: list[str] = []
     cur = ""
@@ -371,6 +451,43 @@ def _draw_wrapped(
             cur = w
     if cur:
         lines.append(cur)
+    return lines
+
+
+def _fit_complete_sentences(
+    draw: ImageDraw.ImageDraw,
+    text: str,
+    font: ImageFont.FreeTypeFont,
+    max_width: int,
+    max_lines: int,
+    max_sentences: int = 3,
+) -> str:
+    """Return as many complete leading sentences as fit within max_lines without mid-sentence ellipsis."""
+    sents = split_sentences(text)
+    if not sents:
+        return ""
+    best = sents[0]
+    for k in range(1, min(len(sents), max_sentences) + 1):
+        candidate = " ".join(sents[:k])
+        if len(_wrap_lines(draw, candidate, font, max_width)) <= max_lines:
+            best = candidate
+        else:
+            break
+    return best
+
+
+def _draw_wrapped(
+    draw: ImageDraw.ImageDraw,
+    text: str,
+    font: ImageFont.FreeTypeFont,
+    color: tuple[int, int, int],
+    x: int,
+    y: int,
+    max_width: int,
+    line_spacing: int = 12,
+    max_lines: int = 10,
+) -> int:
+    lines = _wrap_lines(draw, text, font, max_width)
 
     if len(lines) > max_lines:
         lines = lines[:max_lines]
@@ -440,11 +557,13 @@ def render_carousel_slides(meta: dict, parsed: dict, out_dir: Path) -> list[Path
     # --- SLIDE 2: The Direct Answer ---
     img2, draw2 = _base_slide(2, total_slides)
     draw2.text((96, 200), "THE SHORT ANSWER", font=_font(True, 30), fill=ACCENT_AMBER)
-    intro_short = " ".join(split_sentences(parsed["intro"])[:3])
-    y2 = _draw_wrapped(draw2, intro_short, _font(False, 40), TEXT_WHITE, 96, 270, max_width=888, line_spacing=18, max_lines=10)
+    f_intro = _font(False, 40)
+    intro_short = _fit_complete_sentences(draw2, parsed["intro"], f_intro, max_width=888, max_lines=14, max_sentences=3)
+    y2 = _draw_wrapped(draw2, intro_short, f_intro, TEXT_WHITE, 96, 270, max_width=888, line_spacing=18, max_lines=14)
     if parsed["intro_extra"] and y2 < 780:
-        extra_short = " ".join(split_sentences(parsed["intro_extra"])[:2])
-        _draw_wrapped(draw2, extra_short, _font(False, 34), TEXT_CREAM, 96, y2 + 36, max_width=888, line_spacing=14, max_lines=5)
+        f_extra = _font(False, 34)
+        extra_short = _fit_complete_sentences(draw2, parsed["intro_extra"], f_extra, max_width=888, max_lines=6, max_sentences=2)
+        _draw_wrapped(draw2, extra_short, f_extra, TEXT_CREAM, 96, y2 + 36, max_width=888, line_spacing=14, max_lines=6)
     p2 = out_dir / "slide-2-answer.png"
     img2.save(p2, "PNG")
     slides.append(p2)
@@ -467,14 +586,16 @@ def render_carousel_slides(meta: dict, parsed: dict, out_dir: Path) -> list[Path
                         y_cur += 6
                     first_s = split_sentences(sp["body"])[0] if sp["body"] else ""
                     if first_s:
-                        y_cur = _draw_wrapped(draw_s, first_s, _font(False, 31), TEXT_CREAM, 120, y_cur, max_width=864, line_spacing=12, max_lines=4)
+                        y_cur = _draw_wrapped(draw_s, first_s, _font(False, 31), TEXT_CREAM, 120, y_cur, max_width=864, line_spacing=12, max_lines=5)
                         y_cur += 26
             elif sec["paragraphs"]:
+                f_para = _font(False, 36)
                 for para in sec["paragraphs"][:2]:
-                    if y_cur > 840:
+                    if y_cur > 860:
                         break
-                    para_short = " ".join(split_sentences(para)[:2])
-                    y_cur = _draw_wrapped(draw_s, para_short, _font(False, 36), TEXT_CREAM, 96, y_cur, max_width=888, line_spacing=16, max_lines=6)
+                    avail_lines = max(3, min(8, (1120 - y_cur) // 52))
+                    para_short = _fit_complete_sentences(draw_s, para, f_para, max_width=888, max_lines=avail_lines, max_sentences=2)
+                    y_cur = _draw_wrapped(draw_s, para_short, f_para, TEXT_CREAM, 96, y_cur, max_width=888, line_spacing=16, max_lines=avail_lines)
                     y_cur += 32
         p_s = out_dir / f"slide-{slide_num}-points.png"
         img_s.save(p_s, "PNG")
@@ -488,8 +609,8 @@ def render_carousel_slides(meta: dict, parsed: dict, out_dir: Path) -> list[Path
     draw5.text((132, y5 + 90), "concretecomeback.com/blog", font=_font(True, 40), fill=ACCENT_AMBER)
 
     cta_note = (
-        "Plus: Browse 400+ verified older-skater-friendly skateparks, core shops, "
-        "and local 30+/40+ skate groups across the US, UK, Canada, and Australia."
+        "Plus: Browse 339+ older-skater-friendly skateparks, welcoming local shops, "
+        "and 30+/40+ skate groups across the US, UK, Canada, and Australia."
     )
     _draw_wrapped(draw5, cta_note, _font(False, 34), TEXT_CREAM, 96, y5 + 230, max_width=888, line_spacing=14, max_lines=5)
     p5 = out_dir / "slide-5-cta.png"
