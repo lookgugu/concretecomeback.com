@@ -682,7 +682,7 @@ def require_accounts(platforms: list[str], dry_run: bool) -> dict:
         return {p: {"id": ACCOUNTS[p], "can_post": "dry-run"} for p in platforms}
     status, data = api("GET", "/accounts")
     if status != 200:
-        raise RuntimeError(f"GET /accounts failed: HTTP {status}")
+        raise RuntimeError(f"GET /accounts failed: HTTP {status} {data}")
     accounts = data.get("data", {}).get("accounts", [])
     by_id = {int(a["id"]): a for a in accounts if a.get("id") is not None}
     checked = {}

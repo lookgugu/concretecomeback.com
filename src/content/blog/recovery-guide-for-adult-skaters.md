@@ -43,7 +43,7 @@ Hold off on skating and have a doctor or physiotherapist examine the area if you
 
 - Sharp, localized pain concentrated on a bone edge, a joint line, or a tendon attachment such as the Achilles tendon, patellar tendon, or plantar fascia insertion.
 - Visible swelling, puffiness, or fluid fullness around the knee, ankle, or wrist joint capsule either the evening of the session or the next morning.
-- Mechanical symptoms including catching, locking, painful clicking, or a sensation that the knee or ankle might give way under your weight.
+- Mechanical symptoms including catching, locking, painful clicking, or a sensation that the knee or ankle might give way under your weight (see our clinical guide to [skateboarding after a meniscus tear or arthroscopic knee surgery](/blog/skateboarding-after-meniscus-tear-knee-surgery/)).
 - Pain that worsens past 72 hours or changes your normal walking stride (see our [plantar fasciitis and heel bruising guide](/blog/plantar-fasciitis-heel-bruising-skateboarding/) and [lower back pain returner's guide](/blog/lower-back-pain-skateboarding-returners-guide/) for tissue-specific checks).
 - Numbness, tingling, or radiating pins and needles in the hand, wrist, lower back, or leg after a fall or heavy session.
 
