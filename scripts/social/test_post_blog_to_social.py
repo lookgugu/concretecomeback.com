@@ -87,6 +87,8 @@ class PostBlogToSocialTests(unittest.TestCase):
             "skateboard-riser-pads-vs-shock-pads-older-skaters",
             "skateboard-deck-concave-mellow-vs-steep-older-skaters",
             "cleaning-skateboard-bearings-damp-winter-sessions",
+            "choosing-a-local-skate-shop-older-returning-skater",
+            "skateboarding-after-meniscus-tear-knee-surgery",
         ]
         for slug in slugs:
             path = mod.BLOG_DIR / f"{slug}.md"

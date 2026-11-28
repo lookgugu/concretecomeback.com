@@ -104,12 +104,12 @@ Concrete Comeback (`https://concretecomeback.com`) already publishes 193 article
 
 | Rank | Piece Title | Family | Route | Reason | Status | Brief / Play File |
 |---:|---|---|---|---|---|---|
-| 1 | Riser Pads vs. Shock Pads: Wheel Bite and Joint Impact Guide | Family 1 | `/seo-content` | `new_topic` (0.12 sim); completes wheel/bushing setup hub and links to `/directory/shops` | planned | `./campaigns/content-plan/skateboard-riser-pads-vs-shock-pads-older-skaters.md` |
-| 2 | Skateboard Deck Concave: Mellow vs. Steep for Foot Fatigue | Family 1 | `/seo-content` | `new_topic` (0.25 sim); high `r/OldSkaters` pain point with weak SERP | planned | `./campaigns/content-plan/skateboard-deck-concave-mellow-vs-steep-older-skaters.md` |
-| 3 | Cleaning Skateboard Bearings After Damp Winter Sessions | Family 1 | `/seo-content` | `new_topic` (0.20 sim); seasonal Nov–Feb winter maintenance search | planned | `./campaigns/content-plan/play-hardware-joint-setup.md` |
-| 4 | Consolidate/Differentiate `how-to-fall-safely-*` (3 posts) | Family 2 | `/seo-content` (refresh) | Eliminates 3-way keyword cannibalization on fall mechanics | planned | — |
-| 5 | Skateboarding After a Meniscus Tear or Arthroscopic Knee Surgery | Family 3 | `/seo-content` | `new_topic` (0.17 sim); high clinical authority gap for Jo Fairweather | planned | — |
-| 6 | Walking Into a Local Skate Shop at 45: What to Ask For | Family 4 | `/seo-content` | `new_topic` (0.18 sim); drives direct clicks into `/directory/shops` | planned | — |
+| 1 | Riser Pads vs. Shock Pads: Wheel Bite and Joint Impact Guide | Family 1 | `/seo-content` | `new_topic` (0.12 sim); completes wheel/bushing setup hub and links to `/directory/shops` | completed | `./campaigns/content-plan/skateboard-riser-pads-vs-shock-pads-older-skaters.md` |
+| 2 | Skateboard Deck Concave: Mellow vs. Steep for Foot Fatigue | Family 1 | `/seo-content` | `new_topic` (0.25 sim); high `r/OldSkaters` pain point with weak SERP | completed | `./campaigns/content-plan/skateboard-deck-concave-mellow-vs-steep-older-skaters.md` |
+| 3 | Cleaning Skateboard Bearings After Damp Winter Sessions | Family 1 | `/seo-content` | `new_topic` (0.20 sim); seasonal Nov–Feb winter maintenance search | completed | `./campaigns/content-plan/play-hardware-joint-setup.md` |
+| 4 | Consolidate/Differentiate `how-to-fall-safely-*`, `six-months-*`, `recovery-*`, and `getting-back-on-board` (4 clusters) | Family 2 | `/seo-content` (refresh) | Eliminates keyword cannibalization across all 4 overlapping topic clusters | completed | `./campaigns/content/getting-back-on-board-cluster-refresh.notes.md` |
+| 5 | Skateboarding After a Meniscus Tear or Arthroscopic Knee Surgery | Family 3 | `/seo-content` | `new_topic` (0.17 sim); high clinical authority gap for Jo Fairweather | completed | `./campaigns/content/skateboarding-after-meniscus-tear-knee-surgery.notes.md` |
+| 6 | Walking Into a Local Skate Shop After 40: What to Ask For | Family 4 | `/seo-content` | `new_topic` (0.11 sim); drives direct clicks into `/directory/shops` | completed | `./campaigns/content/choosing-a-local-skate-shop-older-returning-skater.notes.md` |
 
 ---
 

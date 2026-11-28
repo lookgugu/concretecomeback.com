@@ -47,7 +47,7 @@ One geometric detail catches many older returners off guard when they move up to
 
 ## Why Standing on a Deck at a Local Skate Shop Beats Ordering Blind Online
 
-Because most online deck product pages only list width and length (or print a vague "medium concave" bullet point copied from a catalog), the only reliable way to know how a mold fits your arches is to lay the bare wood on the carpet at a [welcoming local skate shop](/directory/shops) and stand on it in the shoes you actually skate.
+Because most online deck product pages only list width and length (or print a vague "medium concave" bullet point copied from a catalog), the only reliable way to know how a mold fits your arches is to lay the bare wood on the carpet at a [welcoming local skate shop](/directory/shops) and stand on it in the shoes you actually skate (see our guide to [walking into a local skate shop after 40 and what to ask for](/blog/choosing-a-local-skate-shop-older-returning-skater/)).
 
 Walk into an independent shop like [35th North in Seattle](/directory/shops/us/35th-north-seattle-wa), [Uprise in Chicago](/directory/shops/us/uprise-chicago-il), or [Slam City Skates in London](/directory/shops/uk/slam-city-london) and tell the staff you want to compare a mellow mold against a steeper mold in your width. Any good shop will pull three or four decks off the wall and set them on the floor or across a stack of boxed completes so you can test the profile under body weight.
 
